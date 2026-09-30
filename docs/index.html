@@ -81,9 +81,7 @@ body {
 .stat-label { font-family: 'EB Garamond', serif; font-size: 10px; letter-spacing: 2px; color: var(--muted); text-transform: uppercase; }
 .footer { margin-top: 32px; display: flex; flex-direction: column; align-items: center; position: relative; z-index: 2; }
 .footer-wave { width: 260px; height: 24px; opacity: 0.85; }
-.updated { font-family: 'EB Garamond', serif; font-size: 12px; color: var(--muted); margin-top: 12px; letter-spacing: 1px; text-align: center; }
-.updated .note { display: block; font-size: 11px; opacity: 0.75; margin-top: 2px; }
-.refresh {
+.updated { font-family: 'EB Garamond', serif; font-size: 12px; color: var(--muted); margin-top: 12px; letter-spacing: 1px; text-align: center; }.refresh {
   margin-top: 12px; padding: 7px 18px;
   font-family: 'EB Garamond', serif; font-size: 12px; letter-spacing: 3px; text-transform: uppercase;
   color: var(--gold); background: transparent; border: 1px solid var(--gold-dim); border-radius: 3px;
@@ -207,12 +205,7 @@ function timeAgo(date) {
 function renderUpdated() {
   if (!lastUpdatedAt) return;
   const when = lastUpdatedAt.toLocaleString(undefined, { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' });
-  const el = document.getElementById('updated');
-  el.textContent = 'Ratings last changed ' + when + ' · ' + timeAgo(lastUpdatedAt);
-  const note = document.createElement('span');
-  note.className = 'note';
-  note.textContent = 'Checked every 15 minutes';
-  el.appendChild(note);
+  document.getElementById('updated').textContent = 'Last updated ' + when + ' · ' + timeAgo(lastUpdatedAt);
 }
 
 function render(data) {
