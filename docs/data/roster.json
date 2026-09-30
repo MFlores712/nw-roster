@@ -1,0 +1,62 @@
+{
+  "clan_name": "new Wave",
+  "updated_at": "2026-09-30T13:55:27Z",
+  "players": [
+    {
+      "tag": "Manuel",
+      "country": "Colombia",
+      "profile_id": 13267917,
+      "max_1v1": 2409,
+      "max_tg": 1882
+    },
+    {
+      "tag": "iamkaito",
+      "country": "Mexico",
+      "profile_id": 12171002,
+      "max_1v1": 2309,
+      "max_tg": 1854
+    },
+    {
+      "tag": "Caguamas",
+      "country": "Mexico",
+      "profile_id": 914665,
+      "max_1v1": 2241,
+      "max_tg": 2024
+    },
+    {
+      "tag": "themariach1",
+      "country": "Mexico",
+      "profile_id": 1947348,
+      "max_1v1": 2211,
+      "max_tg": 2034
+    },
+    {
+      "tag": "Sgt.Pepper",
+      "country": "Mexico",
+      "profile_id": 2934597,
+      "max_1v1": 2210,
+      "max_tg": 1735
+    },
+    {
+      "tag": "Abejorro",
+      "country": "Mexico",
+      "profile_id": 2876835,
+      "max_1v1": 2140,
+      "max_tg": 1793
+    },
+    {
+      "tag": "AtilA",
+      "country": "Peru",
+      "profile_id": 1359694,
+      "max_1v1": 2123,
+      "max_tg": 1670
+    },
+    {
+      "tag": "ShutAzarquay",
+      "country": "Mexico",
+      "profile_id": 6501299,
+      "max_1v1": 1951,
+      "max_tg": 1729
+    }
+  ]
+}

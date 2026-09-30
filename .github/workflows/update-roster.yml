@@ -1,0 +1,33 @@
+name: Update nW roster
+
+on:
+  schedule:
+    # Runs once a day at 09:00 UTC. Adjust to taste — cron is UTC, not local time.
+    - cron: "0 9 * * *"
+  workflow_dispatch: {}  # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-roster:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch latest ratings
+        run: python scripts/fetch_ratings.py
+
+      - name: Commit changes if anything updated
+        run: |
+          git config user.name "nw-roster-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/data/roster.json
+          git diff --cached --quiet || git commit -m "Update roster data [automated]"
+          git push

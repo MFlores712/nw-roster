@@ -1,0 +1,15 @@
+{
+  "clan_name": "new Wave",
+  "clan_tag": "nW",
+  "source": "aoe2insights.com",
+  "players": [
+    { "id": 13267917, "tag": "Manuel",       "country": "Colombia" },
+    { "id": 12171002, "tag": "iamkaito",     "country": "Mexico" },
+    { "id": 914665,   "tag": "Caguamas",     "country": "Mexico" },
+    { "id": 2934597,  "tag": "Sgt.Pepper",   "country": "Mexico" },
+    { "id": 2876835,  "tag": "Abejorro",     "country": "Mexico" },
+    { "id": 1359694,  "tag": "AtilA",        "country": "Peru" },
+    { "id": 1947348,  "tag": "themariach1",  "country": "Mexico" },
+    { "id": 6501299,  "tag": "ShutAzarquay", "country": "Mexico" }
+  ]
+}

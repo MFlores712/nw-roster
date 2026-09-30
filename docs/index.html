@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>new Wave — Clan Roster</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700&family=EB+Garamond:ital,wght@0,400;0,500;1,500&family=Yuji+Mai&display=swap" rel="stylesheet">
+<style>
+:root {
+  --ink: #0a0d14;
+  --navy-deep: #131a2b;
+  --gold: #c9a75f;
+  --gold-bright: #e6c988;
+  --gold-dim: #8a744a;
+  --foam: #ece6d2;
+  --wave-blue-bright: #8fb2d4;
+  --muted: #7c8bab;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  background: var(--ink);
+  color: var(--foam);
+  display: flex;
+  justify-content: center;
+  padding: 40px 16px;
+}
+.poster {
+  width: 100%;
+  max-width: 900px;
+  position: relative;
+  background:
+    radial-gradient(ellipse 900px 500px at 50% 0%, rgba(61,89,120,0.35), transparent 60%),
+    linear-gradient(180deg, #0d1220 0%, #131a2b 40%, #0d1220 100%);
+  border-radius: 8px;
+  overflow: hidden;
+  padding: 48px 32px 40px;
+}
+.frame { position: absolute; inset: 18px; border: 1.5px solid var(--gold-dim); pointer-events: none; }
+.frame::before { content: ""; position: absolute; inset: 8px; border: 1px solid rgba(201,167,95,0.35); }
+.header { display: flex; flex-direction: column; align-items: center; position: relative; z-index: 2; }
+.logo-ring {
+  width: 180px; height: 180px; border-radius: 50%; padding: 6px;
+  background: radial-gradient(circle at 50% 40%, rgba(230,201,136,0.25), rgba(230,201,136,0) 70%);
+  box-shadow: 0 0 0 1px rgba(201,167,95,0.4), 0 20px 60px rgba(0,0,0,0.55);
+}
+.logo-ring img { width: 100%; height: 100%; border-radius: 50%; object-fit: cover; display: block; }
+.kanji-mark { font-family: 'Cinzel Decorative', serif; font-size: 12px; letter-spacing: 8px; color: var(--gold-dim); margin-top: 18px; }
+.title { font-family: 'Yuji Mai', serif; font-size: 64px; letter-spacing: 2px; color: var(--gold-bright); margin-top: 10px; text-shadow: 0 2px 24px rgba(230,201,136,0.25); }
+.subtitle { font-family: 'EB Garamond', serif; font-style: italic; font-size: 17px; letter-spacing: 3px; color: var(--muted); margin-top: 4px; }
+.rule { margin-top: 20px; width: 320px; height: 20px; }
+.roster { margin-top: 24px; width: 100%; position: relative; z-index: 2; }
+.col-headers { display: flex; align-items: center; padding: 0 10px 10px; }
+.row { display: flex; align-items: center; padding: 16px 10px; position: relative; }
+.row:not(:last-child)::after {
+  content: ""; position: absolute; bottom: 0; left: 6%; right: 6%; height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(201,167,95,0.55), transparent);
+}
+.rank { font-family: 'Cinzel Decorative', serif; font-size: 26px; color: var(--gold-dim); width: 48px; text-align: center; flex-shrink: 0; }
+.who { flex: 1; padding-left: 10px; min-width: 0; }
+.tag { font-family: 'Yuji Mai', sans-serif; font-size: 22px; color: var(--foam); overflow-wrap: anywhere; }
+.country { font-family: 'EB Garamond', serif; font-size: 11px; color: var(--muted); letter-spacing: 1.5px; text-transform: uppercase; margin-top: 2px; }
+.stat { width: 110px; text-align: center; flex-shrink: 0; }
+.stat-num { font-family: 'Yuji Mai', monospace; font-size: 26px; }
+.stat-num.elo { color: var(--gold-bright); }
+.stat-num.max { color: var(--wave-blue-bright); }
+.stat-num.stale { opacity: 0.55; }
+.stat-label { font-family: 'EB Garamond', serif; font-size: 10px; letter-spacing: 2px; color: var(--muted); text-transform: uppercase; }
+.footer { margin-top: 32px; display: flex; flex-direction: column; align-items: center; position: relative; z-index: 2; }
+.footer-wave { width: 260px; height: 24px; opacity: 0.85; }
+.updated { font-family: 'EB Garamond', serif; font-size: 12px; color: var(--muted); margin-top: 12px; letter-spacing: 1px; }
+.error { font-family: 'EB Garamond', serif; color: #d99; text-align: center; padding: 40px; }
+@media (max-width: 520px) {
+  .title { font-size: 44px; }
+  .tag { font-size: 18px; }
+  .stat-num { font-size: 20px; }
+  .stat { width: 84px; }
+}
+</style>
+</head>
+<body>
+<div class="poster" id="poster">
+  <div class="frame"></div>
+  <div class="header">
+    <div class="logo-ring"><img src="assets/logo_nW.png" alt="new Wave clan logo"></div>
+    <div class="kanji-mark">新 波 一 族</div>
+    <div class="title">new Wave</div>
+    <div class="subtitle">Age of Empires II · Clan Roster</div>
+    <svg class="rule" viewBox="0 0 640 34">
+      <path d="M0,17 C90,-8 130,42 220,17 C280,0 300,34 320,17 C340,0 360,34 420,17 C510,-8 550,42 640,17"
+            fill="none" stroke="#c9a75f" stroke-width="2"/>
+    </svg>
+  </div>
+
+  <div class="roster">
+    <div class="col-headers">
+      <div class="rank"></div>
+      <div class="who"></div>
+      <div class="stat"><div class="stat-label">Max ELO 1v1</div></div>
+      <div class="stat"><div class="stat-label">Max ELO TG</div></div>
+    </div>
+    <div id="rows"></div>
+  </div>
+
+  <div class="footer">
+    <svg class="footer-wave" viewBox="0 0 500 40">
+      <path d="M0,20 C60,0 90,40 150,20 C210,0 240,40 300,20 C360,0 390,40 450,20 C470,12 480,20 500,16"
+            fill="none" stroke="#8a744a" stroke-width="1.5"/>
+    </svg>
+    <div class="updated" id="updated"></div>
+  </div>
+</div>
+
+<script>
+const RANK_KANJI = ["一","二","三","四","五","六","七","八","九","十"];
+
+async function loadRoster() {
+  try {
+    const res = await fetch('data/roster.json', { cache: 'no-store' });
+    if (!res.ok) throw new Error('roster.json not found');
+    const data = await res.json();
+    render(data);
+  } catch (err) {
+    document.getElementById('poster').innerHTML =
+      '<div class="error">Couldn\'t load roster data.<br>' + err.message + '</div>';
+  }
+}
+
+function render(data) {
+  const rowsEl = document.getElementById('rows');
+  rowsEl.innerHTML = '';
+
+  data.players.forEach((p, i) => {
+    const row = document.createElement('div');
+    row.className = 'row';
+    const rankLabel = RANK_KANJI[i] || (i + 1);
+    row.innerHTML = `
+      <div class="rank">${rankLabel}</div>
+      <div class="who">
+        <div class="tag">${escapeHtml(p.tag)}</div>
+        <div class="country">${escapeHtml(p.country || '')}</div>
+      </div>
+      <div class="stat">
+        <div class="stat-num elo ${p.stale_1v1 ? 'stale' : ''}">${p.max_1v1 ?? '—'}</div>
+      </div>
+      <div class="stat">
+        <div class="stat-num max ${p.stale_tg ? 'stale' : ''}">${p.max_tg ?? '—'}</div>
+      </div>
+    `;
+    rowsEl.appendChild(row);
+  });
+
+  const updatedEl = document.getElementById('updated');
+  if (data.updated_at) {
+    const d = new Date(data.updated_at);
+    updatedEl.textContent = 'Updated ' + d.toLocaleDateString(undefined, { year: 'numeric', month: 'long', day: 'numeric' });
+  }
+}
+
+function escapeHtml(str) {
+  const div = document.createElement('div');
+  div.textContent = str;
+  return div.innerHTML;
+}
+
+loadRoster();
+</script>
+</body>
+</html>
