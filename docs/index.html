@@ -51,31 +51,53 @@ body {
 .subtitle { font-family: 'EB Garamond', serif; font-style: italic; font-size: 17px; letter-spacing: 3px; color: var(--muted); margin-top: 4px; }
 .rule { margin-top: 20px; width: 320px; height: 20px; }
 .roster { margin-top: 24px; width: 100%; position: relative; z-index: 2; }
-.col-headers { display: flex; align-items: center; padding: 0 10px 10px; }
-.row { display: flex; align-items: center; padding: 16px 10px; position: relative; }
+.col-headers, .row {
+  display: grid;
+  grid-template-columns: 48px minmax(0, 1fr) repeat(4, 88px);
+  align-items: center;
+  column-gap: 4px;
+}
+.col-headers { padding: 0 10px 10px; row-gap: 4px; }
+.group-label { grid-row: 1; grid-column: span 2; font-family: 'EB Garamond', serif; font-size: 12px; letter-spacing: 3px; text-transform: uppercase; text-align: center; padding-bottom: 4px; border-bottom: 1px solid rgba(201,167,95,0.35); }
+.group-label.g-1v1 { grid-column: 3 / span 2; color: var(--gold); }
+.group-label.g-tg { grid-column: 5 / span 2; color: var(--wave-blue-bright); }
+.col-headers .stat { grid-row: 2; }
+.h1 { grid-column: 3; } .h2 { grid-column: 4; } .h3 { grid-column: 5; } .h4 { grid-column: 6; }
+.row { padding: 16px 10px; position: relative; }
 .row:not(:last-child)::after {
   content: ""; position: absolute; bottom: 0; left: 6%; right: 6%; height: 1px;
   background: linear-gradient(90deg, transparent, rgba(201,167,95,0.55), transparent);
 }
-.rank { font-family: 'Cinzel Decorative', serif; font-size: 26px; color: var(--gold-dim); width: 48px; text-align: center; flex-shrink: 0; }
-.who { flex: 1; padding-left: 10px; min-width: 0; }
+.rank { font-family: 'Cinzel Decorative', serif; font-size: 26px; color: var(--gold-dim); text-align: center; }
+.who { padding-left: 10px; min-width: 0; }
 .tag { font-family: 'Yuji Mai', sans-serif; font-size: 22px; color: var(--foam); overflow-wrap: anywhere; }
 .country { font-family: 'EB Garamond', serif; font-size: 11px; color: var(--muted); letter-spacing: 1.5px; text-transform: uppercase; margin-top: 2px; }
-.stat { width: 110px; text-align: center; flex-shrink: 0; }
-.stat-num { font-family: 'Yuji Mai', monospace; font-size: 26px; }
-.stat-num.elo { color: var(--gold-bright); }
-.stat-num.max { color: var(--wave-blue-bright); }
-.stat-num.stale { opacity: 0.55; }
+.stat { text-align: center; }
+.stat-num { font-family: 'Yuji Mai', monospace; font-size: 24px; }
+.stat-num.s-1v1 { color: var(--gold-bright); }
+.stat-num.s-tg { color: var(--wave-blue-bright); }
+.stat-num.is-max { font-size: 18px; opacity: 0.7; }
+.stat-num.stale { opacity: 0.4; }
 .stat-label { font-family: 'EB Garamond', serif; font-size: 10px; letter-spacing: 2px; color: var(--muted); text-transform: uppercase; }
 .footer { margin-top: 32px; display: flex; flex-direction: column; align-items: center; position: relative; z-index: 2; }
 .footer-wave { width: 260px; height: 24px; opacity: 0.85; }
 .updated { font-family: 'EB Garamond', serif; font-size: 12px; color: var(--muted); margin-top: 12px; letter-spacing: 1px; }
 .error { font-family: 'EB Garamond', serif; color: #d99; text-align: center; padding: 40px; }
-@media (max-width: 520px) {
+@media (max-width: 640px) {
+  .poster { padding: 40px 20px 32px; }
   .title { font-size: 44px; }
   .tag { font-size: 18px; }
-  .stat-num { font-size: 20px; }
-  .stat { width: 84px; }
+  /* Stats drop to a second line under the name */
+  .col-headers, .row { grid-template-columns: 36px repeat(4, minmax(0, 1fr)); }
+  .col-headers { padding: 0 4px 8px; }
+  .group-label.g-1v1 { grid-column: 2 / span 2; }
+  .group-label.g-tg { grid-column: 4 / span 2; }
+  .h1 { grid-column: 2; } .h2 { grid-column: 3; } .h3 { grid-column: 4; } .h4 { grid-column: 5; }
+  .row { padding: 12px 4px; row-gap: 6px; }
+  .rank { font-size: 20px; grid-row: 1 / span 2; }
+  .who { grid-column: 2 / -1; padding-left: 0; }
+  .stat-num { font-size: 18px; }
+  .stat-num.is-max { font-size: 15px; }
 }
 </style>
 </head>
@@ -95,10 +117,12 @@ body {
 
   <div class="roster">
     <div class="col-headers">
-      <div class="rank"></div>
-      <div class="who"></div>
-      <div class="stat"><div class="stat-label">Max ELO 1v1</div></div>
-      <div class="stat"><div class="stat-label">Max ELO TG</div></div>
+      <div class="group-label g-1v1">1v1 ELO</div>
+      <div class="group-label g-tg">TG ELO</div>
+      <div class="stat h1"><div class="stat-label">Current</div></div>
+      <div class="stat h2"><div class="stat-label">Max</div></div>
+      <div class="stat h3"><div class="stat-label">Current</div></div>
+      <div class="stat h4"><div class="stat-label">Max</div></div>
     </div>
     <div id="rows"></div>
   </div>
@@ -114,6 +138,13 @@ body {
 
 <script>
 const RANK_KANJI = ["一","二","三","四","五","六","七","八","九","十"];
+// Display order: current 1v1, max 1v1, current TG, max TG
+const COLUMNS = [
+  { field: 'cur_1v1', cls: 's-1v1' },
+  { field: 'max_1v1', cls: 's-1v1 is-max' },
+  { field: 'cur_tg',  cls: 's-tg' },
+  { field: 'max_tg',  cls: 's-tg is-max' },
+];
 
 async function loadRoster() {
   try {
@@ -141,12 +172,10 @@ function render(data) {
         <div class="tag">${escapeHtml(p.tag)}</div>
         <div class="country">${escapeHtml(p.country || '')}</div>
       </div>
+      ${COLUMNS.map(c => `
       <div class="stat">
-        <div class="stat-num elo ${p.stale_1v1 ? 'stale' : ''}">${p.max_1v1 ?? '—'}</div>
-      </div>
-      <div class="stat">
-        <div class="stat-num max ${p.stale_tg ? 'stale' : ''}">${p.max_tg ?? '—'}</div>
-      </div>
+        <div class="stat-num ${c.cls} ${(p.stale || []).includes(c.field) ? 'stale' : ''}">${p[c.field] ?? '—'}</div>
+      </div>`).join('')}
     `;
     rowsEl.appendChild(row);
   });

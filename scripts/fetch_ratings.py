@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
-Fetch max ELO (RM 1v1 and RM Team) for the nW clan roster from aoe2insights.com
-and write the result to docs/data/roster.json, sorted by max 1v1 ELO descending.
+Fetch current and max ELO (RM 1v1 and RM Team) for the nW clan roster from
+aoe2insights.com and write the result to docs/data/roster.json, sorted by
+current 1v1 ELO descending.
 
 USAGE:
     python scripts/fetch_ratings.py
@@ -9,8 +10,8 @@ USAGE:
 NOTE — aoe2insights.com has no public/documented API. This script scrapes
 the public profile page for each player. Each ladder (1v1 RM, Team RM, ...)
 is a "card-ranking" card showing current rating, rank, and an "All Time High"
-field — we read the All Time High. If the site redesigns and values come back
-None, open one profile page's HTML and adjust the patterns below.
+field. If the site redesigns and values come back None, open one profile
+page's HTML and adjust the patterns below.
 """
 
 import json
@@ -32,12 +33,17 @@ REQUEST_DELAY_SECONDS = 2  # be polite — this is an unofficial community site
 # --- Parsing patterns -------------------------------------------------
 # Verified against live markup (2026-09-30). Each ladder is a card:
 #   <div class="card card-ranking"> ... <h3 ...>Team RM</h3> ...
+#   <div class="rating-big">1845</div>                       <- current
 #   <span class="rating-detail" title="All Time High"><svg ...></svg>1854</span>
-# We split the page into cards and read "All Time High" within each, so an
-# unranked ladder can't bleed into the next card's numbers.
+# We split the page into cards and read within each, so an unranked ladder
+# can't bleed into the next card's numbers.
 CARD_SPLIT = re.compile(r'<div class="card card-ranking">')
 CARD_TITLE = re.compile(r"<h3[^>]*>\s*([^<]+?)\s*</h3>")
+CURRENT = re.compile(r'<div class="rating-big">\s*(\d+)\s*<')
 ALL_TIME_HIGH = re.compile(r'title="All Time High">(?:\s*<svg.*?</svg>)?\s*(\d+)\s*<', re.S)
+
+LADDERS = {"1v1 RM": "1v1", "Team RM": "tg"}
+FIELDS = ["cur_1v1", "max_1v1", "cur_tg", "max_tg"]
 
 
 def fetch_profile_html(profile_id: int) -> str:
@@ -46,32 +52,33 @@ def fetch_profile_html(profile_id: int) -> str:
         return resp.read().decode("utf-8", errors="replace")
 
 
-def extract_max_ratings(html: str) -> tuple[int | None, int | None]:
-    """Returns (max_1v1, max_team); either is None if that ladder has no peak."""
-    peaks = {}
+def extract_ratings(html: str) -> dict:
+    """Returns {field: int | None} for every name in FIELDS."""
+    ratings = dict.fromkeys(FIELDS)
     for card in CARD_SPLIT.split(html)[1:]:
         title = CARD_TITLE.search(card)
+        suffix = LADDERS.get(title.group(1)) if title else None
+        if not suffix or ratings[f"max_{suffix}"] is not None:
+            continue
+        cur = CURRENT.search(card)
         peak = ALL_TIME_HIGH.search(card)
-        if title and peak:
-            peaks.setdefault(title.group(1), int(peak.group(1)))
-
-    return peaks.get("1v1 RM"), peaks.get("Team RM")
+        ratings[f"cur_{suffix}"] = int(cur.group(1)) if cur else None
+        ratings[f"max_{suffix}"] = int(peak.group(1)) if peak else None
+    return ratings
 
 
 def fetch_player(player: dict) -> dict:
     try:
-        html = fetch_profile_html(player["id"])
-        max_1v1, max_team = extract_max_ratings(html)
+        ratings = extract_ratings(fetch_profile_html(player["id"]))
     except (URLError, HTTPError, TimeoutError) as e:
         print(f"  ! fetch failed for {player['tag']}: {e}", file=sys.stderr)
-        max_1v1, max_team = None, None
+        ratings = dict.fromkeys(FIELDS)
 
     return {
         "tag": player["tag"],
         "country": player["country"],
         "profile_id": player["id"],
-        "max_1v1": max_1v1,
-        "max_tg": max_team,
+        **ratings,
     }
 
 
@@ -92,21 +99,21 @@ def main():
         print(f"[{i+1}/{len(config['players'])}] fetching {player['tag']}...")
         result = fetch_player(player)
 
-        # Fallback to last known good value if this fetch came back empty
+        # Fallback to last known good value for any field that came back empty
         prev = previous.get(player["tag"])
-        if result["max_1v1"] is None and prev:
-            result["max_1v1"] = prev.get("max_1v1")
-            result["stale_1v1"] = True
-        if result["max_tg"] is None and prev:
-            result["max_tg"] = prev.get("max_tg")
-            result["stale_tg"] = True
+        if prev:
+            stale = [f for f in FIELDS if result[f] is None and prev.get(f) is not None]
+            for f in stale:
+                result[f] = prev[f]
+            if stale:
+                result["stale"] = stale
 
         results.append(result)
         if i < len(config["players"]) - 1:
             time.sleep(REQUEST_DELAY_SECONDS)
 
-    # Sort by max 1v1 ELO descending, unranked (None) go last
-    results.sort(key=lambda p: (p["max_1v1"] is None, -(p["max_1v1"] or 0)))
+    # Sort by current 1v1 ELO descending, unranked (None) go last
+    results.sort(key=lambda p: (p["cur_1v1"] is None, -(p["cur_1v1"] or 0)))
 
     output = {
         "clan_name": config["clan_name"],

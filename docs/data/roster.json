@@ -1,61 +1,77 @@
 {
   "clan_name": "new Wave",
-  "updated_at": "2026-09-30T14:03:14Z",
+  "updated_at": "2026-09-30T14:08:01Z",
   "players": [
     {
       "tag": "Manuel",
       "country": "Colombia",
       "profile_id": 13267917,
+      "cur_1v1": 2356,
       "max_1v1": 2409,
+      "cur_tg": 1857,
       "max_tg": 1882
-    },
-    {
-      "tag": "iamkaito",
-      "country": "Mexico",
-      "profile_id": 12171002,
-      "max_1v1": 2309,
-      "max_tg": 1854
     },
     {
       "tag": "Caguamas",
       "country": "Mexico",
       "profile_id": 914665,
+      "cur_1v1": 2177,
       "max_1v1": 2241,
+      "cur_tg": 1900,
       "max_tg": 2024
+    },
+    {
+      "tag": "iamkaito",
+      "country": "Mexico",
+      "profile_id": 12171002,
+      "cur_1v1": 2161,
+      "max_1v1": 2309,
+      "cur_tg": 1845,
+      "max_tg": 1854
     },
     {
       "tag": "themariach1",
       "country": "Mexico",
       "profile_id": 1947348,
+      "cur_1v1": 2094,
       "max_1v1": 2211,
+      "cur_tg": 1784,
       "max_tg": 2034
     },
     {
       "tag": "Sgt.Pepper",
       "country": "Mexico",
       "profile_id": 2934597,
+      "cur_1v1": 2041,
       "max_1v1": 2210,
+      "cur_tg": 1718,
       "max_tg": 1735
     },
     {
       "tag": "Abejorro",
       "country": "Mexico",
       "profile_id": 2876835,
+      "cur_1v1": 2010,
       "max_1v1": 2140,
+      "cur_tg": 1757,
       "max_tg": 1793
     },
     {
       "tag": "AtilA",
       "country": "Peru",
       "profile_id": 1359694,
+      "cur_1v1": 2004,
       "max_1v1": 2123,
+      "cur_tg": 1637,
       "max_tg": 1670
     },
     {
       "tag": "ShutAzarquay",
       "country": "Mexico",
       "profile_id": 6501299,
+      "cur_1v1": 1921,
       "max_1v1": 1951,
+      "cur_tg": 1726,
       "max_tg": 1729
     }
   ]
