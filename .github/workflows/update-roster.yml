@@ -2,12 +2,18 @@ name: Update nW roster
 
 on:
   schedule:
-    # Runs once a day at 09:00 UTC. Adjust to taste — cron is UTC, not local time.
-    - cron: "0 9 * * *"
+    # Every 15 minutes, offset from :00 when GitHub's scheduler is busiest.
+    # GitHub may start scheduled runs late under load; that's expected.
+    - cron: "7,22,37,52 * * * *"
   workflow_dispatch: {}  # lets you trigger it manually from the Actions tab
 
 permissions:
   contents: write
+
+# Never run two updates at once — the second would race the first's push.
+concurrency:
+  group: update-roster
+  cancel-in-progress: false
 
 jobs:
   update-roster:
@@ -29,5 +35,11 @@ jobs:
           git config user.name "nw-roster-bot"
           git config user.email "actions@users.noreply.github.com"
           git add docs/data/roster.json
-          git diff --cached --quiet || git commit -m "Update roster data [automated]"
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "Update roster data [automated]"
+          # Pick up any commit pushed since checkout (e.g. a manual edit)
+          git pull --rebase
           git push

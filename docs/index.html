@@ -81,7 +81,18 @@ body {
 .stat-label { font-family: 'EB Garamond', serif; font-size: 10px; letter-spacing: 2px; color: var(--muted); text-transform: uppercase; }
 .footer { margin-top: 32px; display: flex; flex-direction: column; align-items: center; position: relative; z-index: 2; }
 .footer-wave { width: 260px; height: 24px; opacity: 0.85; }
-.updated { font-family: 'EB Garamond', serif; font-size: 12px; color: var(--muted); margin-top: 12px; letter-spacing: 1px; }
+.updated { font-family: 'EB Garamond', serif; font-size: 12px; color: var(--muted); margin-top: 12px; letter-spacing: 1px; text-align: center; }
+.updated .note { display: block; font-size: 11px; opacity: 0.75; margin-top: 2px; }
+.refresh {
+  margin-top: 12px; padding: 7px 18px;
+  font-family: 'EB Garamond', serif; font-size: 12px; letter-spacing: 3px; text-transform: uppercase;
+  color: var(--gold); background: transparent; border: 1px solid var(--gold-dim); border-radius: 3px;
+  cursor: pointer; transition: color .15s, border-color .15s, background .15s;
+}
+.refresh:hover:not(:disabled) { color: var(--gold-bright); border-color: var(--gold); background: rgba(201,167,95,0.08); }
+.refresh:focus-visible { outline: 2px solid var(--gold-bright); outline-offset: 2px; }
+.refresh:disabled { opacity: 0.5; cursor: default; }
+.refresh-msg { font-family: 'EB Garamond', serif; font-size: 12px; color: #d99; margin-top: 6px; min-height: 1em; }
 .error { font-family: 'EB Garamond', serif; color: #d99; text-align: center; padding: 40px; }
 @media (max-width: 640px) {
   .poster { padding: 40px 20px 32px; }
@@ -133,6 +144,8 @@ body {
             fill="none" stroke="#8a744a" stroke-width="1.5"/>
     </svg>
     <div class="updated" id="updated"></div>
+    <button class="refresh" id="refresh" type="button">Refresh</button>
+    <div class="refresh-msg" id="refresh-msg" role="status"></div>
   </div>
 </div>
 
@@ -146,16 +159,60 @@ const COLUMNS = [
   { field: 'max_tg',  cls: 's-tg is-max' },
 ];
 
+let lastUpdatedAt = null;
+
+async function fetchRoster() {
+  // Query string sidesteps GitHub Pages' CDN cache (up to 10 min otherwise)
+  const res = await fetch('data/roster.json?t=' + Date.now(), { cache: 'no-store' });
+  if (!res.ok) throw new Error('roster.json not found');
+  return res.json();
+}
+
 async function loadRoster() {
   try {
-    const res = await fetch('data/roster.json', { cache: 'no-store' });
-    if (!res.ok) throw new Error('roster.json not found');
-    const data = await res.json();
-    render(data);
+    render(await fetchRoster());
   } catch (err) {
     document.getElementById('poster').innerHTML =
       '<div class="error">Couldn\'t load roster data.<br>' + err.message + '</div>';
   }
+}
+
+async function refreshRoster() {
+  const btn = document.getElementById('refresh');
+  const msg = document.getElementById('refresh-msg');
+  btn.disabled = true;
+  btn.textContent = 'Refreshing…';
+  msg.textContent = '';
+  try {
+    render(await fetchRoster());
+  } catch (err) {
+    // Keep the roster already on screen; just report the failure
+    msg.textContent = 'Couldn\'t refresh — ' + err.message;
+  } finally {
+    btn.disabled = false;
+    btn.textContent = 'Refresh';
+  }
+}
+
+function timeAgo(date) {
+  const mins = Math.round((Date.now() - date) / 60000);
+  if (mins < 1) return 'just now';
+  if (mins < 60) return mins + ' min ago';
+  const hours = Math.floor(mins / 60);
+  if (hours < 24) return hours + (hours === 1 ? ' hour ago' : ' hours ago');
+  const days = Math.floor(hours / 24);
+  return days + (days === 1 ? ' day ago' : ' days ago');
+}
+
+function renderUpdated() {
+  if (!lastUpdatedAt) return;
+  const when = lastUpdatedAt.toLocaleString(undefined, { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' });
+  const el = document.getElementById('updated');
+  el.textContent = 'Ratings last changed ' + when + ' · ' + timeAgo(lastUpdatedAt);
+  const note = document.createElement('span');
+  note.className = 'note';
+  note.textContent = 'Checked every 15 minutes';
+  el.appendChild(note);
 }
 
 function render(data) {
@@ -180,10 +237,9 @@ function render(data) {
     rowsEl.appendChild(row);
   });
 
-  const updatedEl = document.getElementById('updated');
   if (data.updated_at) {
-    const d = new Date(data.updated_at);
-    updatedEl.textContent = 'Updated ' + d.toLocaleDateString(undefined, { year: 'numeric', month: 'long', day: 'numeric' });
+    lastUpdatedAt = new Date(data.updated_at);
+    renderUpdated();
   }
 }
 
@@ -193,6 +249,8 @@ function escapeHtml(str) {
   return div.innerHTML;
 }
 
+document.getElementById('refresh').addEventListener('click', refreshRoster);
+setInterval(renderUpdated, 30000);  // keep "X min ago" current
 loadRoster();
 </script>
 </body>

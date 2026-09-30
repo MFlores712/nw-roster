@@ -82,17 +82,17 @@ def fetch_player(player: dict) -> dict:
     }
 
 
-def load_previous_roster() -> dict:
-    """Used as a fallback so one failed fetch doesn't blank out a player."""
+def load_previous_output() -> dict:
     if OUTPUT_PATH.exists():
-        prev = json.loads(OUTPUT_PATH.read_text())
-        return {p["tag"]: p for p in prev.get("players", [])}
+        return json.loads(OUTPUT_PATH.read_text())
     return {}
 
 
 def main():
     config = json.loads(CONFIG_PATH.read_text())
-    previous = load_previous_roster()
+    prev_output = load_previous_output()
+    # Used as a fallback so one failed fetch doesn't blank out a player
+    previous = {p["tag"]: p for p in prev_output.get("players", [])}
 
     results = []
     for i, player in enumerate(config["players"]):
@@ -115,15 +115,19 @@ def main():
     # Sort by current 1v1 ELO descending, unranked (None) go last
     results.sort(key=lambda p: (p["cur_1v1"] is None, -(p["cur_1v1"] or 0)))
 
-    output = {
-        "clan_name": config["clan_name"],
-        "updated_at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
-        "players": results,
-    }
-
-    OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
-    OUTPUT_PATH.write_text(json.dumps(output, indent=2))
-    print(f"\nWrote {OUTPUT_PATH}")
+    # Only rewrite when something changed. updated_at would otherwise differ on
+    # every run, forcing a commit + Pages rebuild each time the cron fires.
+    if results == prev_output.get("players") and config["clan_name"] == prev_output.get("clan_name"):
+        print("\nNo rating changes — leaving roster.json untouched")
+    else:
+        output = {
+            "clan_name": config["clan_name"],
+            "updated_at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
+            "players": results,
+        }
+        OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
+        OUTPUT_PATH.write_text(json.dumps(output, indent=2))
+        print(f"\nWrote {OUTPUT_PATH}")
 
     missing = [p["tag"] for p in results if p["max_1v1"] is None]
     if missing:
