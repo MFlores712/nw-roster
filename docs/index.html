@@ -6,7 +6,9 @@
 <title>new Wave — Clan Roster</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700&family=EB+Garamond:ital,wght@0,400;0,500;1,500&family=Yuji+Mai&display=swap" rel="stylesheet">
+<!-- crossorigin lets html-to-image read this CSS and embed the fonts in the PNG -->
+<link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700&family=EB+Garamond:ital,wght@0,400;0,500;1,500&family=Yuji+Mai&display=swap" rel="stylesheet" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/html-to-image@1.11.13/dist/html-to-image.js"></script>
 <style>
 :root {
   --ink: #0a0d14;
@@ -81,16 +83,17 @@ body {
 .stat-label { font-family: 'EB Garamond', serif; font-size: 10px; letter-spacing: 2px; color: var(--muted); text-transform: uppercase; }
 .footer { margin-top: 32px; display: flex; flex-direction: column; align-items: center; position: relative; z-index: 2; }
 .footer-wave { width: 260px; height: 24px; opacity: 0.85; }
-.updated { font-family: 'EB Garamond', serif; font-size: 12px; color: var(--muted); margin-top: 12px; letter-spacing: 1px; text-align: center; }.refresh {
+.updated { font-family: 'EB Garamond', serif; font-size: 12px; color: var(--muted); margin-top: 12px; letter-spacing: 1px; text-align: center; }
+.action-btn {
   margin-top: 12px; padding: 7px 18px;
   font-family: 'EB Garamond', serif; font-size: 12px; letter-spacing: 3px; text-transform: uppercase;
   color: var(--gold); background: transparent; border: 1px solid var(--gold-dim); border-radius: 3px;
   cursor: pointer; transition: color .15s, border-color .15s, background .15s;
 }
-.refresh:hover:not(:disabled) { color: var(--gold-bright); border-color: var(--gold); background: rgba(201,167,95,0.08); }
-.refresh:focus-visible { outline: 2px solid var(--gold-bright); outline-offset: 2px; }
-.refresh:disabled { opacity: 0.5; cursor: default; }
-.refresh-msg { font-family: 'EB Garamond', serif; font-size: 12px; color: #d99; margin-top: 6px; min-height: 1em; }
+.action-btn:hover:not(:disabled) { color: var(--gold-bright); border-color: var(--gold); background: rgba(201,167,95,0.08); }
+.action-btn:focus-visible { outline: 2px solid var(--gold-bright); outline-offset: 2px; }
+.action-btn:disabled { opacity: 0.5; cursor: default; }
+.action-msg { font-family: 'EB Garamond', serif; font-size: 12px; color: #d99; margin-top: 6px; min-height: 1em; }
 .error { font-family: 'EB Garamond', serif; color: #d99; text-align: center; padding: 40px; }
 @media (max-width: 640px) {
   .poster { padding: 40px 20px 32px; }
@@ -108,6 +111,24 @@ body {
   .stat-num { font-size: 18px; }
   .stat-num.is-max { font-size: 15px; }
 }
+/* While exporting a PNG: force the desktop layout at full width, even on
+   phones, so every downloaded image looks the same. Selectors are more
+   specific than the mobile media query above, so they win there too. */
+.poster.exporting { width: 900px; max-width: none; flex-shrink: 0; padding: 48px 32px 40px; }
+.poster.exporting .title { font-size: 64px; }
+.poster.exporting .tag { font-size: 22px; }
+.poster.exporting .col-headers,
+.poster.exporting .row { grid-template-columns: 48px minmax(0, 1fr) repeat(4, 88px); }
+.poster.exporting .col-headers { padding: 0 10px 10px; }
+.poster.exporting .group-label.g-1v1 { grid-column: 3 / span 2; }
+.poster.exporting .group-label.g-tg { grid-column: 5 / span 2; }
+.poster.exporting .h1 { grid-column: 3; } .poster.exporting .h2 { grid-column: 4; }
+.poster.exporting .h3 { grid-column: 5; } .poster.exporting .h4 { grid-column: 6; }
+.poster.exporting .row { padding: 16px 10px; row-gap: 0; }
+.poster.exporting .rank { font-size: 26px; grid-row: auto; }
+.poster.exporting .who { grid-column: auto; padding-left: 10px; }
+.poster.exporting .stat-num { font-size: 24px; }
+.poster.exporting .stat-num.is-max { font-size: 18px; }
 </style>
 </head>
 <body>
@@ -142,8 +163,8 @@ body {
             fill="none" stroke="#8a744a" stroke-width="1.5"/>
     </svg>
     <div class="updated" id="updated"></div>
-    <button class="refresh" id="refresh" type="button">Refresh</button>
-    <div class="refresh-msg" id="refresh-msg" role="status"></div>
+    <button class="action-btn no-export" id="download" type="button">Download PNG</button>
+    <div class="action-msg no-export" id="action-msg" role="status"></div>
   </div>
 </div>
 
@@ -197,20 +218,34 @@ async function loadRoster() {
   }
 }
 
-async function refreshRoster() {
-  const btn = document.getElementById('refresh');
-  const msg = document.getElementById('refresh-msg');
+async function downloadPoster() {
+  const btn = document.getElementById('download');
+  const msg = document.getElementById('action-msg');
+  const poster = document.getElementById('poster');
   btn.disabled = true;
-  btn.textContent = 'Refreshing…';
+  btn.textContent = 'Rendering…';
   msg.textContent = '';
+  poster.classList.add('exporting');
   try {
-    await loadAll();
+    await document.fonts.ready;
+    const dataUrl = await htmlToImage.toPng(poster, {
+      pixelRatio: 2,
+      backgroundColor: '#0a0d14',
+      // Leave the button and its message out of the image
+      filter: node => !(node.classList && node.classList.contains('no-export')),
+    });
+    const a = document.createElement('a');
+    a.href = dataUrl;
+    a.download = 'nw-roster-' + new Date().toISOString().slice(0, 10) + '.png';
+    document.body.appendChild(a);
+    a.click();
+    a.remove();
   } catch (err) {
-    // Keep the roster already on screen; just report the failure
-    msg.textContent = 'Couldn\'t refresh — ' + err.message;
+    msg.textContent = 'Couldn\'t create image — ' + (err && err.message || err);
   } finally {
+    poster.classList.remove('exporting');
     btn.disabled = false;
-    btn.textContent = 'Refresh';
+    btn.textContent = 'Download PNG';
   }
 }
 
@@ -264,7 +299,7 @@ function escapeHtml(str) {
   return div.innerHTML;
 }
 
-document.getElementById('refresh').addEventListener('click', refreshRoster);
+document.getElementById('download').addEventListener('click', downloadPoster);
 setInterval(renderUpdated, 30000);  // keep "X min ago" current
 loadRoster();
 </script>
