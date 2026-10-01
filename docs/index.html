@@ -94,40 +94,46 @@ body {
 .action-btn:disabled { opacity: 0.5; cursor: default; }
 .action-msg { font-family: 'EB Garamond', serif; font-size: 12px; color: #d99; margin-top: 6px; min-height: 1em; }
 .error { font-family: 'EB Garamond', serif; color: #d99; text-align: center; padding: 40px; }
+/* Phone layout. Every rule is scoped to .poster:not(.exporting) so a PNG
+   export (which adds .exporting) always gets the desktop layout. */
 @media (max-width: 640px) {
-  .poster { padding: 40px 20px 32px; }
-  .title { font-size: 44px; }
-  .tag { font-size: 18px; }
-  /* Stats drop to a second line under the name */
-  .col-headers, .row { grid-template-columns: 36px repeat(4, minmax(0, 1fr)); }
-  .col-headers { padding: 0 4px 8px; }
-  .group-label.g-1v1 { grid-column: 2 / span 2; }
-  .group-label.g-tg { grid-column: 4 / span 2; }
-  .h1 { grid-column: 2; } .h2 { grid-column: 3; } .h3 { grid-column: 4; } .h4 { grid-column: 5; }
-  .row { padding: 12px 4px; row-gap: 6px; }
-  .rank { font-size: 20px; grid-row: 1 / span 2; }
-  .who { grid-column: 2 / -1; padding-left: 0; }
-  .stat-num { font-size: 18px; }
-  .stat-num.is-max { font-size: 15px; }
+  body { padding: 0; }
+  .poster:not(.exporting) { border-radius: 0; padding: 26px 20px 22px; }
+  .poster:not(.exporting) .frame { inset: 8px; }
+  .poster:not(.exporting) .frame::before { inset: 4px; }
+
+  /* Compact header */
+  .poster:not(.exporting) .logo-ring { width: 110px; height: 110px; padding: 4px; box-shadow: 0 0 0 1px rgba(201,167,95,0.4), 0 10px 30px rgba(0,0,0,0.55); }
+  .poster:not(.exporting) .kanji-mark { margin-top: 12px; font-size: 11px; letter-spacing: 6px; }
+  .poster:not(.exporting) .title { font-size: 40px; margin-top: 4px; }
+  .poster:not(.exporting) .subtitle { font-size: 13px; letter-spacing: 1.5px; text-align: center; }
+  .poster:not(.exporting) .rule { width: min(240px, 80%); margin-top: 12px; }
+  .poster:not(.exporting) .roster { margin-top: 14px; }
+
+  /* Rows: rank + name + country on line 1, the four ratings across the
+     full width on line 2 */
+  .poster:not(.exporting) .col-headers,
+  .poster:not(.exporting) .row { display: flex; flex-wrap: wrap; align-items: baseline; column-gap: 0; }
+  .poster:not(.exporting) .col-headers { padding: 0 0 6px; }
+  .poster:not(.exporting) .group-label { width: calc(50% - 4px); font-size: 11px; letter-spacing: 2px; }
+  .poster:not(.exporting) .group-label + .group-label { margin-left: 8px; }
+  .poster:not(.exporting) .col-headers .stat { width: 25%; margin-top: 4px; }
+  .poster:not(.exporting) .row { padding: 10px 0; }
+  .poster:not(.exporting) .row:not(:last-child)::after { left: 0; right: 0; }
+  .poster:not(.exporting) .rank { width: 28px; font-size: 17px; text-align: left; }
+  .poster:not(.exporting) .who { flex: 1 0 calc(100% - 28px); padding-left: 0; display: flex; align-items: baseline; flex-wrap: wrap; column-gap: 8px; }
+  .poster:not(.exporting) .tag { font-size: 18px; }
+  .poster:not(.exporting) .country { font-size: 10px; margin-top: 0; }
+  .poster:not(.exporting) .row .stat { width: 25%; margin-top: 4px; }
+  .poster:not(.exporting) .stat-num { font-size: 19px; }
+  .poster:not(.exporting) .stat-num.is-max { font-size: 15px; }
+
+  .poster:not(.exporting) .footer { margin-top: 18px; }
+  .poster:not(.exporting) .footer-wave { width: min(200px, 70%); }
 }
-/* While exporting a PNG: force the desktop layout at full width, even on
-   phones, so every downloaded image looks the same. Selectors are more
-   specific than the mobile media query above, so they win there too. */
-.poster.exporting { width: 900px; max-width: none; flex-shrink: 0; padding: 48px 32px 40px; }
-.poster.exporting .title { font-size: 64px; }
-.poster.exporting .tag { font-size: 22px; }
-.poster.exporting .col-headers,
-.poster.exporting .row { grid-template-columns: 48px minmax(0, 1fr) repeat(4, 88px); }
-.poster.exporting .col-headers { padding: 0 10px 10px; }
-.poster.exporting .group-label.g-1v1 { grid-column: 3 / span 2; }
-.poster.exporting .group-label.g-tg { grid-column: 5 / span 2; }
-.poster.exporting .h1 { grid-column: 3; } .poster.exporting .h2 { grid-column: 4; }
-.poster.exporting .h3 { grid-column: 5; } .poster.exporting .h4 { grid-column: 6; }
-.poster.exporting .row { padding: 16px 10px; row-gap: 0; }
-.poster.exporting .rank { font-size: 26px; grid-row: auto; }
-.poster.exporting .who { grid-column: auto; padding-left: 10px; }
-.poster.exporting .stat-num { font-size: 24px; }
-.poster.exporting .stat-num.is-max { font-size: 18px; }
+/* While exporting a PNG: fixed desktop width, even on phones, so every
+   downloaded image looks the same. */
+.poster.exporting { width: 900px; max-width: none; flex-shrink: 0; }
 </style>
 </head>
 <body>
