@@ -6,8 +6,7 @@
 <title>new Wave — Clan Roster</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<!-- crossorigin lets html-to-image read this CSS and embed the fonts in the PNG -->
-<link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700&family=EB+Garamond:ital,wght@0,400;0,500;1,500&family=Yuji+Mai&display=swap" rel="stylesheet" crossorigin="anonymous">
+<link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700&family=EB+Garamond:ital,wght@0,400;0,500;1,500&family=Yuji+Mai&display=swap" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/html-to-image@1.11.13/dist/html-to-image.js"></script>
 <style>
 :root {
@@ -218,6 +217,40 @@ async function loadRoster() {
   }
 }
 
+// Fonts for the PNG. Left alone, html-to-image embeds every font file the
+// page's stylesheet lists — 152 of them (mostly Yuji Mai's Japanese subsets),
+// which stalls the render. Instead ask Google Fonts for files trimmed to the
+// characters the poster uses (6 files, ~150 KB) and inline them ourselves.
+const EXPORT_CHARS = Array.from({ length: 95 }, (_, i) => String.fromCharCode(32 + i)).join('')
+  + '新波一族二三四五六七八九十·—…';
+const EXPORT_FONTS_URL = 'https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700'
+  + '&family=EB+Garamond:ital,wght@0,400;0,500;1,500&family=Yuji+Mai&display=swap&text='
+  + encodeURIComponent(EXPORT_CHARS);
+let exportFontCSS = null;
+
+function blobToDataUrl(blob) {
+  return new Promise((resolve, reject) => {
+    const reader = new FileReader();
+    reader.onload = () => resolve(reader.result);
+    reader.onerror = reject;
+    reader.readAsDataURL(blob);
+  });
+}
+
+async function getExportFontCSS() {
+  if (!exportFontCSS) {
+    exportFontCSS = (async () => {
+      let css = await (await fetch(EXPORT_FONTS_URL)).text();
+      const urls = [...new Set([...css.matchAll(/url\((https:[^)]+)\)/g)].map(m => m[1]))];
+      const inlined = await Promise.all(urls.map(async u => blobToDataUrl(await (await fetch(u)).blob())));
+      urls.forEach((u, i) => { css = css.split(u).join(inlined[i]); });
+      return css;
+    })();
+    exportFontCSS.catch(() => { exportFontCSS = null; });  // allow retry after a failure
+  }
+  return exportFontCSS;
+}
+
 async function downloadPoster() {
   const btn = document.getElementById('download');
   const msg = document.getElementById('action-msg');
@@ -227,10 +260,11 @@ async function downloadPoster() {
   msg.textContent = '';
   poster.classList.add('exporting');
   try {
-    await document.fonts.ready;
+    const [fontEmbedCSS] = await Promise.all([getExportFontCSS(), document.fonts.ready]);
     const dataUrl = await htmlToImage.toPng(poster, {
       pixelRatio: 2,
       backgroundColor: '#0a0d14',
+      fontEmbedCSS,
       // Leave the button and its message out of the image
       filter: node => !(node.classList && node.classList.contains('no-export')),
     });
