@@ -57,6 +57,31 @@ can only publish from the repo root or a `/docs` folder.
    `docs/data/roster.json` in the repo has a fresh `updated_at` timestamp,
    then reload the Pages URL and confirm the numbers match.
 
+## Update schedule (external timer)
+
+GitHub's built-in `schedule:` trigger is unreliable — on this repo it fired
+roughly every 3 hours instead of every 15 minutes. So an external timer at
+[cron-job.org](https://cron-job.org) starts the workflow every 15 minutes via
+GitHub's API. The `schedule:` in the workflow stays as a backup; overlapping
+runs are harmless (the workflow's `concurrency` setting queues them).
+
+**Token** — GitHub → Settings → Developer settings → Fine-grained tokens:
+repository access *Only select repositories → nw-roster*, permission
+*Actions: Read and write*, nothing else. Renew it before it expires.
+
+**cron-job.org job:**
+
+| Setting | Value |
+|---|---|
+| URL | `https://api.github.com/repos/MFlores712/nw-roster/actions/workflows/update-roster.yml/dispatches` |
+| Schedule | every 15 minutes |
+| Request method | `POST` |
+| Headers | `Accept: application/vnd.github+json`<br>`Authorization: Bearer <token>`<br>`X-GitHub-Api-Version: 2022-11-28` |
+| Request body | `{"ref":"main"}` |
+
+A successful call returns `204 No Content`. A `401` means the token expired
+or was revoked; a `404` usually means the token lacks access to this repo.
+
 ## Updating the roster
 
 To add, remove, or fix a player, edit `config/players.json` — the next
