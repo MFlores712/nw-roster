@@ -72,7 +72,6 @@ body {
 .rank { font-family: 'Cinzel Decorative', serif; font-size: 26px; color: var(--gold-dim); text-align: center; }
 .who { padding-left: 10px; min-width: 0; }
 .tag { font-family: 'Yuji Mai', sans-serif; font-size: 22px; color: var(--foam); overflow-wrap: anywhere; }
-.country { font-family: 'EB Garamond', serif; font-size: 11px; color: var(--muted); letter-spacing: 1.5px; text-transform: uppercase; margin-top: 2px; }
 .stat { text-align: center; }
 .stat-num { font-family: 'Yuji Mai', monospace; font-size: 24px; }
 .stat-num.s-1v1 { color: var(--gold-bright); }
@@ -110,7 +109,7 @@ body {
   .poster:not(.exporting) .rule { width: min(240px, 80%); margin-top: 12px; }
   .poster:not(.exporting) .roster { margin-top: 14px; }
 
-  /* Rows: rank + name + country on line 1, the four ratings across the
+  /* Rows: rank + name on line 1, the four ratings across the
      full width on line 2 */
   .poster:not(.exporting) .col-headers,
   .poster:not(.exporting) .row { display: flex; flex-wrap: wrap; align-items: baseline; column-gap: 0; }
@@ -123,7 +122,6 @@ body {
   .poster:not(.exporting) .rank { width: 28px; font-size: 17px; text-align: left; }
   .poster:not(.exporting) .who { flex: 1 0 calc(100% - 28px); padding-left: 0; display: flex; align-items: baseline; flex-wrap: wrap; column-gap: 8px; }
   .poster:not(.exporting) .tag { font-size: 18px; }
-  .poster:not(.exporting) .country { font-size: 10px; margin-top: 0; }
   .poster:not(.exporting) .row .stat { width: 25%; margin-top: 4px; }
   .poster:not(.exporting) .stat-num { font-size: 19px; }
   .poster:not(.exporting) .stat-num.is-max { font-size: 15px; }
@@ -316,9 +314,7 @@ function render(data, lastCheck) {
     row.innerHTML = `
       <div class="rank">${rankLabel}</div>
       <div class="who">
-        <div class="tag">${escapeHtml(p.tag)}</div>
-        <div class="country">${escapeHtml(p.country || '')}</div>
-      </div>
+        <div class="tag">${escapeHtml(p.tag)}</div>      </div>
       ${COLUMNS.map(c => `
       <div class="stat">
         <div class="stat-num ${c.cls} ${(p.stale || []).includes(c.field) ? 'stale' : ''}">${p[c.field] ?? '—'}</div>
