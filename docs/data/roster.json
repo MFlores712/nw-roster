@@ -1,6 +1,6 @@
 {
   "clan_name": "new Wave",
-  "updated_at": "2026-10-02T00:00:43Z",
+  "updated_at": "2026-10-02T00:32:43Z",
   "players": [
     {
       "tag": "Manuel",
@@ -9,7 +9,13 @@
       "cur_1v1": 2356,
       "max_1v1": 2409,
       "cur_tg": 1880,
-      "max_tg": 1882
+      "max_tg": 1882,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     },
     {
       "tag": "Caguamas",
@@ -18,7 +24,13 @@
       "cur_1v1": 2177,
       "max_1v1": 2241,
       "cur_tg": 1900,
-      "max_tg": 2024
+      "max_tg": 2024,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     },
     {
       "tag": "iamkaito",
@@ -27,7 +39,13 @@
       "cur_1v1": 2161,
       "max_1v1": 2309,
       "cur_tg": 1845,
-      "max_tg": 1854
+      "max_tg": 1854,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     },
     {
       "tag": "themariach1",
@@ -36,7 +54,13 @@
       "cur_1v1": 2094,
       "max_1v1": 2211,
       "cur_tg": 1784,
-      "max_tg": 2034
+      "max_tg": 2034,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     },
     {
       "tag": "AtilA",
@@ -45,7 +69,13 @@
       "cur_1v1": 2042,
       "max_1v1": 2123,
       "cur_tg": 1637,
-      "max_tg": 1670
+      "max_tg": 1670,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     },
     {
       "tag": "Abejorro",
@@ -54,7 +84,13 @@
       "cur_1v1": 2033,
       "max_1v1": 2140,
       "cur_tg": 1757,
-      "max_tg": 1793
+      "max_tg": 1793,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     },
     {
       "tag": "Sgt.Pepper",
@@ -63,7 +99,13 @@
       "cur_1v1": 2007,
       "max_1v1": 2210,
       "cur_tg": 1718,
-      "max_tg": 1735
+      "max_tg": 1735,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     },
     {
       "tag": "ShutAzarquay",
@@ -72,7 +114,13 @@
       "cur_1v1": 1974,
       "max_1v1": 1974,
       "cur_tg": 1726,
-      "max_tg": 1729
+      "max_tg": 1729,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     }
   ]
 }
