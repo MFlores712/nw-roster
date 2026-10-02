@@ -1,6 +1,6 @@
 {
   "clan_name": "new Wave",
-  "updated_at": "2026-10-02T02:15:33Z",
+  "updated_at": "2026-10-02T02:45:35Z",
   "players": [
     {
       "tag": "Manuel",
@@ -60,7 +60,7 @@
       "tag": "Sgt.Pepper",
       "country": "Mexico",
       "profile_id": 2934597,
-      "cur_1v1": 2007,
+      "cur_1v1": 2020,
       "max_1v1": 2210,
       "cur_tg": 1718,
       "max_tg": 1735
