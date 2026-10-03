@@ -1,6 +1,6 @@
 {
   "clan_name": "new Wave",
-  "updated_at": "2026-10-03T20:00:38Z",
+  "updated_at": "2026-10-03T20:30:39Z",
   "players": [
     {
       "tag": "Manuel",
@@ -8,7 +8,7 @@
       "profile_id": 13267917,
       "cur_1v1": 2360,
       "max_1v1": 2409,
-      "cur_tg": 1802,
+      "cur_tg": 1812,
       "max_tg": 1882
     },
     {
@@ -44,7 +44,7 @@
       "profile_id": 2876835,
       "cur_1v1": 2041,
       "max_1v1": 2140,
-      "cur_tg": 1713,
+      "cur_tg": 1726,
       "max_tg": 1793
     },
     {
