@@ -1,6 +1,6 @@
 {
   "clan_name": "new Wave",
-  "updated_at": "2026-10-03T00:45:42Z",
+  "updated_at": "2026-10-03T01:00:41Z",
   "players": [
     {
       "tag": "Manuel",
@@ -39,6 +39,15 @@
       "max_tg": 2034
     },
     {
+      "tag": "Sgt.Pepper",
+      "country": "Mexico",
+      "profile_id": 2934597,
+      "cur_1v1": 2044,
+      "max_1v1": 2210,
+      "cur_tg": 1718,
+      "max_tg": 1735
+    },
+    {
       "tag": "Abejorro",
       "country": "Mexico",
       "profile_id": 2876835,
@@ -46,15 +55,6 @@
       "max_1v1": 2140,
       "cur_tg": 1746,
       "max_tg": 1793
-    },
-    {
-      "tag": "Sgt.Pepper",
-      "country": "Mexico",
-      "profile_id": 2934597,
-      "cur_1v1": 2038,
-      "max_1v1": 2210,
-      "cur_tg": 1718,
-      "max_tg": 1735
     },
     {
       "tag": "AtilA",
