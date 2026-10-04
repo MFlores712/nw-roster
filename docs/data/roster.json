@@ -1,6 +1,6 @@
 {
   "clan_name": "new Wave",
-  "updated_at": "2026-10-04T18:30:57Z",
+  "updated_at": "2026-10-04T18:45:36Z",
   "baseline": {
     "taken_at": "2026-10-04T14:00:43Z",
     "ranks": {
@@ -21,7 +21,7 @@
       "profile_id": 13267917,
       "cur_1v1": 2360,
       "max_1v1": 2409,
-      "cur_tg": 1866,
+      "cur_tg": 1881,
       "max_tg": 1882
     },
     {
@@ -82,7 +82,7 @@
       "tag": "Sgt.Pepper",
       "country": "Mexico",
       "profile_id": 2934597,
-      "cur_1v1": 1958,
+      "cur_1v1": 1973,
       "max_1v1": 2210,
       "cur_tg": 1718,
       "max_tg": 1735
