@@ -1,6 +1,19 @@
 {
   "clan_name": "new Wave",
-  "updated_at": "2026-10-04T13:30:40Z",
+  "updated_at": "2026-10-04T13:56:04Z",
+  "baseline": {
+    "taken_at": "2026-10-04T13:56:04Z",
+    "ranks": {
+      "Manuel": 1,
+      "Caguamas": 2,
+      "iamkaito": 3,
+      "themariach1": 4,
+      "Abejorro": 5,
+      "AtilA": 6,
+      "ShutAzarquay": 7,
+      "Sgt.Pepper": 8
+    }
+  },
   "players": [
     {
       "tag": "Manuel",
@@ -51,7 +64,7 @@
       "tag": "AtilA",
       "country": "Peru",
       "profile_id": 1359694,
-      "cur_1v1": 1985,
+      "cur_1v1": 2000,
       "max_1v1": 2123,
       "cur_tg": 1637,
       "max_tg": 1670
