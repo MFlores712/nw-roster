@@ -18,6 +18,8 @@
   --foam: #ece6d2;
   --wave-blue-bright: #8fb2d4;
   --muted: #7c8bab;
+  --move-up: #6aa877;
+  --move-down: #c06a5e;
 }
 * { margin: 0; padding: 0; box-sizing: border-box; }
 body {
@@ -69,8 +71,13 @@ body {
   content: ""; position: absolute; bottom: 0; left: 6%; right: 6%; height: 1px;
   background: linear-gradient(90deg, transparent, rgba(201,167,95,0.55), transparent);
 }
-.rank { font-family: 'Cinzel Decorative', serif; font-size: 26px; color: var(--gold-dim); text-align: center; }
-.who { padding-left: 10px; min-width: 0; }
+.rank { font-family: 'Cinzel Decorative', serif; font-size: 26px; color: var(--gold-dim); text-align: center; position: relative; }
+/* Hangs below the rank numeral without changing row height, so rows with
+   and without a badge stay evenly spaced */
+.move { position: absolute; top: 100%; left: 0; right: 0; font-family: 'EB Garamond', serif; font-size: 12px; font-weight: 500; letter-spacing: 0.5px; line-height: 1; }
+.up { color: var(--move-up); }
+.down { color: var(--move-down); }
+.move.new { color: var(--gold); font-size: 8px; letter-spacing: 1px; }.who { padding-left: 10px; min-width: 0; }
 .tag { font-family: 'Yuji Mai', sans-serif; font-size: 22px; color: var(--foam); overflow-wrap: anywhere; }
 .stat { text-align: center; }
 .stat-num { font-family: 'Yuji Mai', monospace; font-size: 24px; }
@@ -119,6 +126,8 @@ body {
   .poster:not(.exporting) .row { padding: 11px 0; }
   .poster:not(.exporting) .row:not(:last-child)::after { left: 0; right: 0; }
   .poster:not(.exporting) .rank { font-size: 15px; text-align: left; }
+  .poster:not(.exporting) .move { font-size: 8px; letter-spacing: 0; }
+  .poster:not(.exporting) .move.new { font-size: 6px; }
   .poster:not(.exporting) .who { padding-left: 4px; }
   /* Names stay on one line; "…" only if a very narrow phone can't fit one */
   .poster:not(.exporting) .tag { font-size: clamp(13px, 4vw, 18px); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
@@ -164,8 +173,7 @@ body {
       <path d="M0,20 C60,0 90,40 150,20 C210,0 240,40 300,20 C360,0 390,40 450,20 C470,12 480,20 500,16"
             fill="none" stroke="#8a744a" stroke-width="1.5"/>
     </svg>
-    <div class="updated" id="updated"></div>
-    <button class="action-btn no-export" id="download" type="button">Download PNG</button>
+    <div class="updated" id="updated"></div>    <button class="action-btn no-export" id="download" type="button">Download PNG</button>
     <div class="action-msg no-export" id="action-msg" role="status"></div>
   </div>
 </div>
@@ -302,6 +310,18 @@ function renderUpdated() {
   document.getElementById('updated').textContent = 'Last updated ' + when + ' · ' + timeAgo(lastUpdatedAt);
 }
 
+// Position change since the daily 08:00 Mexico City snapshot (baseline.ranks
+// maps tag -> position then). Nothing when unchanged or no snapshot yet.
+function moveBadge(baseline, tag, pos) {
+  if (!baseline || !baseline.ranks) return '';
+  const before = baseline.ranks[tag];
+  if (before == null) return '<span class="move new" title="New since 8:00 a.m.">NEW</span>';
+  const d = before - pos;
+  if (d > 0) return `<span class="move up" title="Up ${d} since 8:00 a.m.">▲${d}</span>`;
+  if (d < 0) return `<span class="move down" title="Down ${-d} since 8:00 a.m.">▼${-d}</span>`;
+  return '';
+}
+
 function render(data, lastCheck) {
   const rowsEl = document.getElementById('rows');
   rowsEl.innerHTML = '';
@@ -311,9 +331,10 @@ function render(data, lastCheck) {
     row.className = 'row';
     const rankLabel = RANK_KANJI[i] || (i + 1);
     row.innerHTML = `
-      <div class="rank">${rankLabel}</div>
+      <div class="rank"><span>${rankLabel}</span>${moveBadge(data.baseline, p.tag, i + 1)}</div>
       <div class="who">
-        <div class="tag">${escapeHtml(p.tag)}</div>      </div>
+        <div class="tag">${escapeHtml(p.tag)}</div>
+      </div>
       ${COLUMNS.map(c => `
       <div class="stat">
         <div class="stat-num ${c.cls} ${(p.stale || []).includes(c.field) ? 'stale' : ''}">${p[c.field] ?? '—'}</div>

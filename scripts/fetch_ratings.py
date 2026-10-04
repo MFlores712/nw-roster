@@ -18,6 +18,7 @@ import json
 import re
 import sys
 import time
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from urllib.request import Request, urlopen
 from urllib.error import URLError, HTTPError
@@ -82,6 +83,36 @@ def fetch_player(player: dict) -> dict:
     }
 
 
+# Rank-change arrows compare against the order at 08:00 Mexico City each day.
+# Mexico City is UTC-6 year-round (Mexico dropped DST in 2022), so that's 14:00 UTC.
+BASELINE_HOUR_UTC = 14
+
+
+def last_baseline_time(now: datetime) -> datetime:
+    """Most recent 08:00 Mexico City at or before `now`."""
+    b = now.replace(hour=BASELINE_HOUR_UTC, minute=0, second=0, microsecond=0)
+    return b if b <= now else b - timedelta(days=1)
+
+
+def next_baseline(prev_output: dict, results: list, now: datetime) -> dict:
+    """Keep the stored baseline unless 08:00 has passed since it was taken.
+
+    On rollover, snapshot the order from the previous output — that's the
+    ranking as it stood at 08:00 (nothing has been written since then, because
+    the first run after 08:00 always lands here). Falls back to this run's
+    order on the very first run.
+    """
+    baseline = prev_output.get("baseline")
+    taken = datetime.fromisoformat(baseline["taken_at"].replace("Z", "+00:00")) if baseline else None
+    if taken and taken >= last_baseline_time(now):
+        return baseline
+    order = prev_output.get("players") or results
+    return {
+        "taken_at": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "ranks": {p["tag"]: i + 1 for i, p in enumerate(order)},
+    }
+
+
 def load_previous_output() -> dict:
     if OUTPUT_PATH.exists():
         return json.loads(OUTPUT_PATH.read_text())
@@ -115,14 +146,20 @@ def main():
     # Sort by current 1v1 ELO descending, unranked (None) go last
     results.sort(key=lambda p: (p["cur_1v1"] is None, -(p["cur_1v1"] or 0)))
 
+    baseline = next_baseline(prev_output, results, datetime.now(timezone.utc))
+
     # Only rewrite when something changed. updated_at would otherwise differ on
     # every run, forcing a commit + Pages rebuild each time the cron fires.
-    if results == prev_output.get("players") and config["clan_name"] == prev_output.get("clan_name"):
+    # The daily baseline rollover counts as a change (one commit a day).
+    if (results == prev_output.get("players")
+            and baseline == prev_output.get("baseline")
+            and config["clan_name"] == prev_output.get("clan_name")):
         print("\nNo rating changes — leaving roster.json untouched")
     else:
         output = {
             "clan_name": config["clan_name"],
             "updated_at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
+            "baseline": baseline,
             "players": results,
         }
         OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
