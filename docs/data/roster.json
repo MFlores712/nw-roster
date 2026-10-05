@@ -1,6 +1,6 @@
 {
   "clan_name": "new Wave",
-  "updated_at": "2026-10-05T06:15:36Z",
+  "updated_at": "2026-10-05T07:00:51Z",
   "baseline": {
     "taken_at": "2026-10-04T14:00:43Z",
     "ranks": {
@@ -21,7 +21,7 @@
       "profile_id": 13267917,
       "cur_1v1": 2360,
       "max_1v1": 2409,
-      "cur_tg": 1833,
+      "cur_tg": 1847,
       "max_tg": 1882
     },
     {
@@ -39,7 +39,7 @@
       "profile_id": 12171002,
       "cur_1v1": 2161,
       "max_1v1": 2309,
-      "cur_tg": 1810,
+      "cur_tg": 1824,
       "max_tg": 1854
     },
     {
@@ -57,7 +57,7 @@
       "profile_id": 2876835,
       "cur_1v1": 2072,
       "max_1v1": 2140,
-      "cur_tg": 1695,
+      "cur_tg": 1714,
       "max_tg": 1793
     },
     {
