@@ -1,6 +1,6 @@
 {
   "clan_name": "new Wave",
-  "updated_at": "2026-10-06T14:00:43Z",
+  "updated_at": "2026-10-06T16:00:59Z",
   "baseline": {
     "taken_at": "2026-10-06T14:00:43Z",
     "ranks": {
@@ -22,7 +22,13 @@
       "cur_1v1": 2375,
       "max_1v1": 2409,
       "cur_tg": 1817,
-      "max_tg": 1882
+      "max_tg": 1882,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     },
     {
       "tag": "Caguamas",
