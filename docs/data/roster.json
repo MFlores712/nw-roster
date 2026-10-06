@@ -1,6 +1,6 @@
 {
   "clan_name": "new Wave",
-  "updated_at": "2026-10-06T07:03:53Z",
+  "updated_at": "2026-10-06T07:18:52Z",
   "baseline": {
     "taken_at": "2026-10-05T14:01:55Z",
     "ranks": {
@@ -21,14 +21,8 @@
       "profile_id": 13267917,
       "cur_1v1": 2375,
       "max_1v1": 2409,
-      "cur_tg": 1799,
-      "max_tg": 1882,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "cur_tg": 1817,
+      "max_tg": 1882
     },
     {
       "tag": "Caguamas",
@@ -37,13 +31,7 @@
       "cur_1v1": 2177,
       "max_1v1": 2241,
       "cur_tg": 1909,
-      "max_tg": 2024,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "max_tg": 2024
     },
     {
       "tag": "iamkaito",
@@ -51,7 +39,7 @@
       "profile_id": 12171002,
       "cur_1v1": 2109,
       "max_1v1": 2309,
-      "cur_tg": 1778,
+      "cur_tg": 1797,
       "max_tg": 1854
     },
     {
@@ -61,13 +49,7 @@
       "cur_1v1": 2094,
       "max_1v1": 2211,
       "cur_tg": 1784,
-      "max_tg": 2034,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "max_tg": 2034
     },
     {
       "tag": "Abejorro",
