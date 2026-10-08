@@ -1,17 +1,17 @@
 {
   "clan_name": "new Wave",
-  "updated_at": "2026-10-08T04:15:30Z",
+  "updated_at": "2026-10-08T14:01:12Z",
   "baseline": {
-    "taken_at": "2026-10-07T14:00:34Z",
+    "taken_at": "2026-10-08T14:01:12Z",
     "ranks": {
       "Manuel": 1,
       "Caguamas": 2,
-      "iamkaito": 3,
+      "Abejorro": 3,
       "themariach1": 4,
-      "Abejorro": 5,
-      "AtilA": 6,
-      "ShutAzarquay": 7,
-      "Sgt.Pepper": 8
+      "iamkaito": 5,
+      "ShutAzarquay": 6,
+      "Sgt.Pepper": 7,
+      "AtilA": 8
     }
   },
   "players": [
@@ -37,7 +37,7 @@
       "tag": "Abejorro",
       "country": "Mexico",
       "profile_id": 2876835,
-      "cur_1v1": 2120,
+      "cur_1v1": 2130,
       "max_1v1": 2140,
       "cur_tg": 1660,
       "max_tg": 1793
