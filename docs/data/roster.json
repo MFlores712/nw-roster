@@ -1,6 +1,6 @@
 {
   "clan_name": "new Wave",
-  "updated_at": "2026-10-08T14:01:12Z",
+  "updated_at": "2026-10-08T15:45:30Z",
   "baseline": {
     "taken_at": "2026-10-08T14:01:12Z",
     "ranks": {
@@ -55,7 +55,7 @@
       "tag": "iamkaito",
       "country": "Mexico",
       "profile_id": 12171002,
-      "cur_1v1": 2081,
+      "cur_1v1": 2064,
       "max_1v1": 2309,
       "cur_tg": 1797,
       "max_tg": 1854
