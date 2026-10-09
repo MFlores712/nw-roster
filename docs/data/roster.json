@@ -1,6 +1,6 @@
 {
   "clan_name": "new Wave",
-  "updated_at": "2026-10-09T16:15:28Z",
+  "updated_at": "2026-10-09T16:30:32Z",
   "baseline": {
     "taken_at": "2026-10-09T14:00:31Z",
     "ranks": {
@@ -61,15 +61,6 @@
       "max_tg": 1854
     },
     {
-      "tag": "ShutAzarquay",
-      "country": "Mexico",
-      "profile_id": 6501299,
-      "cur_1v1": 1991,
-      "max_1v1": 1991,
-      "cur_tg": 1731,
-      "max_tg": 1745
-    },
-    {
       "tag": "Sgt.Pepper",
       "country": "Mexico",
       "profile_id": 2934597,
@@ -77,6 +68,15 @@
       "max_1v1": 2210,
       "cur_tg": 1718,
       "max_tg": 1735
+    },
+    {
+      "tag": "ShutAzarquay",
+      "country": "Mexico",
+      "profile_id": 6501299,
+      "cur_1v1": 1975,
+      "max_1v1": 1991,
+      "cur_tg": 1731,
+      "max_tg": 1745
     },
     {
       "tag": "AtilA",
