@@ -1,6 +1,6 @@
 {
   "clan_name": "new Wave",
-  "updated_at": "2026-10-09T03:15:33Z",
+  "updated_at": "2026-10-09T03:45:27Z",
   "baseline": {
     "taken_at": "2026-10-08T14:01:12Z",
     "ranks": {
@@ -82,7 +82,7 @@
       "tag": "ShutAzarquay",
       "country": "Mexico",
       "profile_id": 6501299,
-      "cur_1v1": 1949,
+      "cur_1v1": 1932,
       "max_1v1": 1982,
       "cur_tg": 1717,
       "max_tg": 1738
