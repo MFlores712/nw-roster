@@ -1,17 +1,17 @@
 {
   "clan_name": "new Wave",
-  "updated_at": "2026-10-09T07:00:32Z",
+  "updated_at": "2026-10-09T14:00:31Z",
   "baseline": {
-    "taken_at": "2026-10-08T14:01:12Z",
+    "taken_at": "2026-10-09T14:00:31Z",
     "ranks": {
       "Manuel": 1,
       "Caguamas": 2,
       "Abejorro": 3,
       "themariach1": 4,
       "iamkaito": 5,
-      "ShutAzarquay": 6,
-      "Sgt.Pepper": 7,
-      "AtilA": 8
+      "Sgt.Pepper": 6,
+      "AtilA": 7,
+      "ShutAzarquay": 8
     }
   },
   "players": [
