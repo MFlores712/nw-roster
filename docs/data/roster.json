@@ -1,6 +1,6 @@
 {
   "clan_name": "new Wave",
-  "updated_at": "2026-10-09T16:30:32Z",
+  "updated_at": "2026-10-09T20:30:28Z",
   "baseline": {
     "taken_at": "2026-10-09T14:00:31Z",
     "ranks": {
@@ -22,7 +22,13 @@
       "cur_1v1": 2401,
       "max_1v1": 2409,
       "cur_tg": 1775,
-      "max_tg": 1882
+      "max_tg": 1882,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     },
     {
       "tag": "Caguamas",
@@ -31,7 +37,13 @@
       "cur_1v1": 2177,
       "max_1v1": 2241,
       "cur_tg": 1909,
-      "max_tg": 2024
+      "max_tg": 2024,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     },
     {
       "tag": "Abejorro",
@@ -40,7 +52,13 @@
       "cur_1v1": 2152,
       "max_1v1": 2152,
       "cur_tg": 1680,
-      "max_tg": 1793
+      "max_tg": 1793,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     },
     {
       "tag": "themariach1",
@@ -49,7 +67,13 @@
       "cur_1v1": 2094,
       "max_1v1": 2211,
       "cur_tg": 1784,
-      "max_tg": 2034
+      "max_tg": 2034,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     },
     {
       "tag": "iamkaito",
@@ -58,7 +82,13 @@
       "cur_1v1": 2039,
       "max_1v1": 2309,
       "cur_tg": 1785,
-      "max_tg": 1854
+      "max_tg": 1854,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     },
     {
       "tag": "Sgt.Pepper",
@@ -67,7 +97,13 @@
       "cur_1v1": 1983,
       "max_1v1": 2210,
       "cur_tg": 1718,
-      "max_tg": 1735
+      "max_tg": 1735,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     },
     {
       "tag": "ShutAzarquay",
@@ -76,7 +112,13 @@
       "cur_1v1": 1975,
       "max_1v1": 1991,
       "cur_tg": 1731,
-      "max_tg": 1745
+      "max_tg": 1745,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     },
     {
       "tag": "AtilA",
@@ -85,7 +127,13 @@
       "cur_1v1": 1964,
       "max_1v1": 2123,
       "cur_tg": 1637,
-      "max_tg": 1670
+      "max_tg": 1670,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     }
   ]
 }
