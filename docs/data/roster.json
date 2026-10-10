@@ -1,8 +1,8 @@
 {
   "clan_name": "new Wave",
-  "updated_at": "2026-10-10T12:00:29Z",
+  "updated_at": "2026-10-10T14:00:30Z",
   "baseline": {
-    "taken_at": "2026-10-09T14:00:31Z",
+    "taken_at": "2026-10-10T14:00:30Z",
     "ranks": {
       "Manuel": 1,
       "Caguamas": 2,
@@ -10,8 +10,8 @@
       "themariach1": 4,
       "iamkaito": 5,
       "Sgt.Pepper": 6,
-      "AtilA": 7,
-      "ShutAzarquay": 8
+      "ShutAzarquay": 7,
+      "AtilA": 8
     }
   },
   "players": [
