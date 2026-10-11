@@ -53,6 +53,16 @@ body {
 .title { font-family: 'Yuji Mai', serif; font-size: 64px; letter-spacing: 2px; color: var(--gold-bright); margin-top: 10px; text-shadow: 0 2px 24px rgba(230,201,136,0.25); }
 .subtitle { font-family: 'EB Garamond', serif; font-style: italic; font-size: 17px; letter-spacing: 3px; color: var(--muted); margin-top: 4px; }
 .rule { margin-top: 20px; width: 320px; height: 20px; }
+.tabs { display: flex; margin-top: 18px; border: 1px solid var(--gold-dim); border-radius: 3px; overflow: hidden; }
+.tab {
+  padding: 6px 22px; background: transparent; border: 0; cursor: pointer;
+  font-family: 'EB Garamond', serif; font-size: 12px; letter-spacing: 3px; text-transform: uppercase;
+  color: var(--muted); transition: color .15s, background .15s;
+}
+.tab + .tab { border-left: 1px solid var(--gold-dim); }
+.tab:hover { color: var(--gold); }
+.tab[aria-selected="true"] { color: var(--gold-bright); background: rgba(201,167,95,0.14); }
+.tab:focus-visible { outline: 2px solid var(--gold-bright); outline-offset: -2px; }
 .roster { margin-top: 24px; width: 100%; position: relative; z-index: 2; }
 .col-headers, .row {
   display: grid;
@@ -79,6 +89,9 @@ body {
 .down { color: var(--move-down); }
 .move.new { color: var(--gold); font-size: 8px; letter-spacing: 1px; }.who { padding-left: 10px; min-width: 0; }
 .tag { font-family: 'Yuji Mai', sans-serif; font-size: 22px; color: var(--foam); overflow-wrap: anywhere; }
+/* Clan tag shown small before the name (México tab) */
+.clan { font-family: 'EB Garamond', serif; font-size: 13px; color: var(--muted); margin-right: 2px; letter-spacing: 0.5px; }
+.roster.numeric .rank { font-size: 22px; }
 .stat { text-align: center; }
 .stat-num { font-family: 'Yuji Mai', monospace; font-size: 24px; }
 .stat-num.s-1v1 { color: var(--gold-bright); }
@@ -119,7 +132,13 @@ body {
   /* Rows: one line like desktop (same grid placement), with narrower
      rating columns and text that scales with the screen width */
   .poster:not(.exporting) .col-headers,
-  .poster:not(.exporting) .row { grid-template-columns: 15px minmax(0, 1fr) repeat(4, 12.5vw); column-gap: 2px; }
+  .poster:not(.exporting) .row { grid-template-columns: var(--rank-w, 15px) minmax(0, 1fr) repeat(4, 12.5vw); column-gap: 2px; }
+  /* México ranks are 1–24: two digits need a wider column than one kanji */
+  .poster:not(.exporting) .roster.numeric { --rank-w: 20px; }
+  .poster:not(.exporting) .roster.numeric .rank { font-size: 12px; }
+  .poster:not(.exporting) .clan { font-size: 9px; margin-right: 0; letter-spacing: 0; }
+  .poster:not(.exporting) .tabs { margin-top: 12px; }
+  .poster:not(.exporting) .tab { padding: 5px 16px; font-size: 11px; letter-spacing: 2px; }
   .poster:not(.exporting) .col-headers { padding: 0 0 6px; }
   .poster:not(.exporting) .group-label { font-size: 10px; letter-spacing: 1.5px; }
   .poster:not(.exporting) .stat-label { font-size: 8px; letter-spacing: 0; }
@@ -140,6 +159,8 @@ body {
 /* While exporting a PNG: fixed desktop width, even on phones, so every
    downloaded image looks the same. */
 .poster.exporting { width: 900px; max-width: none; flex-shrink: 0; }
+/* The image's subtitle names the ranking; drop the tab bar so it leaves no gap */
+.poster.exporting .tabs { display: none; }
 </style>
 </head>
 <body>
@@ -149,14 +170,18 @@ body {
     <div class="logo-ring"><img src="assets/logo_nW.png" alt="new Wave clan logo"></div>
     <div class="kanji-mark">新 波 一 族</div>
     <div class="title">new Wave</div>
-    <div class="subtitle">Age of Empires II · Clan Roster</div>
+    <div class="subtitle" id="subtitle">Age of Empires II · Clan Roster</div>
     <svg class="rule" viewBox="0 0 640 34">
       <path d="M0,17 C90,-8 130,42 220,17 C280,0 300,34 320,17 C340,0 360,34 420,17 C510,-8 550,42 640,17"
             fill="none" stroke="#c9a75f" stroke-width="2"/>
     </svg>
+    <div class="tabs no-export" role="tablist" aria-label="Ranking">
+      <button type="button" role="tab" class="tab" data-tab="nw">nW Clan</button>
+      <button type="button" role="tab" class="tab" data-tab="mexico">México</button>
+    </div>
   </div>
 
-  <div class="roster">
+  <div class="roster" id="roster">
     <div class="col-headers">
       <div class="group-label g-1v1">1v1 ELO</div>
       <div class="group-label g-tg">TG ELO</div>
@@ -173,7 +198,8 @@ body {
       <path d="M0,20 C60,0 90,40 150,20 C210,0 240,40 300,20 C360,0 390,40 450,20 C470,12 480,20 500,16"
             fill="none" stroke="#8a744a" stroke-width="1.5"/>
     </svg>
-    <div class="updated" id="updated"></div>    <button class="action-btn no-export" id="download" type="button">Download PNG</button>
+    <div class="updated" id="updated"></div>
+    <button class="action-btn no-export" id="download" type="button">Download PNG</button>
     <div class="action-msg no-export" id="action-msg" role="status"></div>
   </div>
 </div>
@@ -188,56 +214,75 @@ const COLUMNS = [
   { field: 'max_tg',  cls: 's-tg is-max' },
 ];
 
+// One entry per tab. `hourly` rosters are only refreshed on the update run in
+// the first quarter of each hour (see ROSTERS in scripts/fetch_ratings.py).
+const TABS = {
+  nw:     { file: 'data/roster.json', subtitle: 'Age of Empires II · Clan Roster',    kanji: true,  png: 'nw-roster',      hourly: false },
+  mexico: { file: 'data/mexico.json', subtitle: 'Age of Empires II · México Ranking', kanji: false, png: 'mexico-ranking', hourly: true },
+};
+let currentTab = 'nw';
 let lastUpdatedAt = null;
+let loadSeq = 0;  // ignore responses from a tab the viewer has already left
 
-async function fetchRoster() {
+function tabFromHash() {
+  const t = location.hash.slice(1);
+  return TABS[t] ? t : 'nw';
+}
+
+async function fetchRoster(file) {
   // Query string sidesteps GitHub Pages' CDN cache (up to 10 min otherwise)
-  const res = await fetch('data/roster.json?t=' + Date.now(), { cache: 'no-store' });
-  if (!res.ok) throw new Error('roster.json not found');
+  const res = await fetch(file + '?t=' + Date.now(), { cache: 'no-store' });
+  if (!res.ok) throw new Error(file + ' not found');
   return res.json();
 }
 
-// Time of the last successful update-roster run, i.e. the last ratings check.
-// roster.json only changes when a rating does, so its timestamp can lag far
-// behind; GitHub's public API knows when the job last ran. Unauthenticated
-// limit is 60 requests/hour per visitor, plenty for load + manual refreshes.
-const RUNS_URL = 'https://api.github.com/repos/MFlores712/nw-roster/actions/workflows/update-roster.yml/runs?status=success&per_page=1';
+// Time of the last successful update-roster run that refreshed this tab, i.e.
+// its last ratings check. The data files only change when a rating does, so
+// their timestamps can lag far behind; GitHub's public API knows when the job
+// last ran. Unauthenticated limit is 60 requests/hour per visitor.
+const RUNS_URL = 'https://api.github.com/repos/MFlores712/nw-roster/actions/workflows/update-roster.yml/runs?status=success&per_page=8';
 
-async function fetchLastCheck() {
+async function fetchLastCheck(tab) {
   try {
     const res = await fetch(RUNS_URL, { cache: 'no-store' });
     if (!res.ok) return null;
-    const run = (await res.json()).workflow_runs?.[0];
+    const runs = (await res.json()).workflow_runs || [];
+    // Hourly rosters: same "first 15 minutes of the hour" rule as the script
+    const run = runs.find(r => !TABS[tab].hourly || new Date(r.created_at).getUTCMinutes() < 15);
     return run ? new Date(run.updated_at) : null;
   } catch {
-    return null;  // fall back to roster.json's updated_at
+    return null;  // fall back to the data file's updated_at
   }
 }
 
-async function loadAll() {
-  const [data, lastCheck] = await Promise.all([fetchRoster(), fetchLastCheck()]);
-  render(data, lastCheck);
-}
-
-async function loadRoster() {
+async function loadTab(tab) {
+  const seq = ++loadSeq;
+  currentTab = tab;
+  const cfg = TABS[tab];
+  document.querySelectorAll('.tab').forEach(b => b.setAttribute('aria-selected', String(b.dataset.tab === tab)));
+  document.getElementById('subtitle').textContent = cfg.subtitle;
+  document.getElementById('roster').classList.toggle('numeric', !cfg.kanji);
   try {
-    await loadAll();
+    const [data, lastCheck] = await Promise.all([fetchRoster(cfg.file), fetchLastCheck(tab)]);
+    if (seq === loadSeq) render(data, lastCheck);
   } catch (err) {
-    document.getElementById('poster').innerHTML =
-      '<div class="error">Couldn\'t load roster data.<br>' + err.message + '</div>';
+    if (seq !== loadSeq) return;
+    document.getElementById('rows').innerHTML =
+      '<div class="error">Couldn\'t load ranking data.<br>' + escapeHtml(err.message) + '</div>';
   }
 }
 
 // Fonts for the PNG. Left alone, html-to-image embeds every font file the
 // page's stylesheet lists — 152 of them (mostly Yuji Mai's Japanese subsets),
 // which stalls the render. Instead ask Google Fonts for files trimmed to the
-// characters the poster uses (6 files, ~150 KB) and inline them ourselves.
-const EXPORT_CHARS = Array.from({ length: 95 }, (_, i) => String.fromCharCode(32 + i)).join('')
-  + '新波一族二三四五六七八九十·—…';
+// characters the poster uses (~6 files, ~150 KB) and inline them ourselves.
+// Player names can contain any letter (e.g. "VENÓN"), so the poster's own
+// text is added to the base set.
+const EXPORT_BASE_CHARS = Array.from({ length: 95 }, (_, i) => String.fromCharCode(32 + i)).join('')
+  + '新波一族二三四五六七八九十·—…▲▼';
 const EXPORT_FONTS_URL = 'https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700'
-  + '&family=EB+Garamond:ital,wght@0,400;0,500;1,500&family=Yuji+Mai&display=swap&text='
-  + encodeURIComponent(EXPORT_CHARS);
-let exportFontCSS = null;
+  + '&family=EB+Garamond:ital,wght@0,400;0,500;1,500&family=Yuji+Mai&display=swap&text=';
+const exportFontCache = new Map();  // character set -> promise of inlined CSS
 
 function blobToDataUrl(blob) {
   return new Promise((resolve, reject) => {
@@ -249,17 +294,20 @@ function blobToDataUrl(blob) {
 }
 
 async function getExportFontCSS() {
-  if (!exportFontCSS) {
-    exportFontCSS = (async () => {
-      let css = await (await fetch(EXPORT_FONTS_URL)).text();
+  const text = document.getElementById('poster').innerText;
+  const chars = [...new Set(EXPORT_BASE_CHARS + text.replace(/\s/g, ''))].sort().join('');
+  if (!exportFontCache.has(chars)) {
+    const p = (async () => {
+      let css = await (await fetch(EXPORT_FONTS_URL + encodeURIComponent(chars))).text();
       const urls = [...new Set([...css.matchAll(/url\((https:[^)]+)\)/g)].map(m => m[1]))];
       const inlined = await Promise.all(urls.map(async u => blobToDataUrl(await (await fetch(u)).blob())));
       urls.forEach((u, i) => { css = css.split(u).join(inlined[i]); });
       return css;
     })();
-    exportFontCSS.catch(() => { exportFontCSS = null; });  // allow retry after a failure
+    p.catch(() => exportFontCache.delete(chars));  // allow retry after a failure
+    exportFontCache.set(chars, p);
   }
-  return exportFontCSS;
+  return exportFontCache.get(chars);
 }
 
 async function downloadPoster() {
@@ -269,6 +317,7 @@ async function downloadPoster() {
   btn.disabled = true;
   btn.textContent = 'Rendering…';
   msg.textContent = '';
+  clearFit();  // the export uses the roomy desktop layout
   poster.classList.add('exporting');
   try {
     const [fontEmbedCSS] = await Promise.all([getExportFontCSS(), document.fonts.ready]);
@@ -281,7 +330,7 @@ async function downloadPoster() {
     });
     const a = document.createElement('a');
     a.href = dataUrl;
-    a.download = 'nw-roster-' + new Date().toISOString().slice(0, 10) + '.png';
+    a.download = TABS[currentTab].png + '-' + new Date().toISOString().slice(0, 10) + '.png';
     document.body.appendChild(a);
     a.click();
     a.remove();
@@ -289,6 +338,7 @@ async function downloadPoster() {
     msg.textContent = 'Couldn\'t create image — ' + (err && err.message || err);
   } finally {
     poster.classList.remove('exporting');
+    fitNames();
     btn.disabled = false;
     btn.textContent = 'Download PNG';
   }
@@ -311,10 +361,10 @@ function renderUpdated() {
 }
 
 // Position change since the daily 08:00 Mexico City snapshot (baseline.ranks
-// maps tag -> position then). Nothing when unchanged or no snapshot yet.
-function moveBadge(baseline, tag, pos) {
+// maps profile ID -> position then). Nothing when unchanged or no snapshot yet.
+function moveBadge(baseline, p, pos) {
   if (!baseline || !baseline.ranks) return '';
-  const before = baseline.ranks[tag];
+  const before = baseline.ranks[String(p.profile_id)] ?? baseline.ranks[p.tag];  // older snapshots used names
   if (before == null) return '<span class="move new" title="New since 8:00 a.m.">NEW</span>';
   const d = before - pos;
   if (d > 0) return `<span class="move up" title="Up ${d} since 8:00 a.m.">▲${d}</span>`;
@@ -329,11 +379,12 @@ function render(data, lastCheck) {
   data.players.forEach((p, i) => {
     const row = document.createElement('div');
     row.className = 'row';
-    const rankLabel = RANK_KANJI[i] || (i + 1);
+    const rankLabel = TABS[currentTab].kanji ? (RANK_KANJI[i] || i + 1) : i + 1;
+    const clan = p.clan ? `<span class="clan">${escapeHtml(p.clan)}</span> ` : '';
     row.innerHTML = `
-      <div class="rank"><span>${rankLabel}</span>${moveBadge(data.baseline, p.tag, i + 1)}</div>
+      <div class="rank"><span>${rankLabel}</span>${moveBadge(data.baseline, p, i + 1)}</div>
       <div class="who">
-        <div class="tag">${escapeHtml(p.tag)}</div>
+        <div class="tag" title="${escapeHtml((p.clan ? p.clan + ' | ' : '') + p.tag).replace(/"/g, '&quot;')}">${clan}${escapeHtml(p.tag)}</div>
       </div>
       ${COLUMNS.map(c => `
       <div class="stat">
@@ -342,12 +393,47 @@ function render(data, lastCheck) {
     `;
     rowsEl.appendChild(row);
   });
+  fitNames();
+  document.fonts.ready.then(fitNames);  // re-fit once the web fonts have loaded
 
   // Whichever is newer: last check, or last data change (covers API failures)
   const changed = data.updated_at ? new Date(data.updated_at) : null;
   lastUpdatedAt = [lastCheck, changed].filter(Boolean).sort((a, b) => b - a)[0] || null;
   renderUpdated();
 }
+
+// On phones names are kept to one line. Long ones (e.g. "Ux'LobodeLaNieve")
+// are scaled down just enough to fit, never below 11px; "…" only after that.
+// Short names keep the normal size.
+const MIN_NAME_PX = 11;
+const NAME_SLACK_PX = 4;
+// Width of the text itself (scrollWidth never reports less than the box)
+function textWidth(el) {
+  const range = document.createRange();
+  range.selectNodeContents(el);
+  return range.getBoundingClientRect().width;
+}
+function fitNames() {
+  document.querySelectorAll('.tag').forEach(t => {
+    t.style.fontSize = '';
+    if (getComputedStyle(t).whiteSpace !== 'nowrap') return;  // phone layout only
+    // Aim a few px short of the edge: names that only just fit can still be
+    // cut off by small font-rendering differences between devices.
+    // A few passes: the clan tag has its own fixed size, so one proportional
+    // step can land slightly short.
+    const room = t.clientWidth - NAME_SLACK_PX;
+    for (let i = 0; i < 4 && textWidth(t) > room; i++) {
+      const px = parseFloat(getComputedStyle(t).fontSize);
+      if (px <= MIN_NAME_PX) break;
+      t.style.fontSize = Math.max(MIN_NAME_PX, Math.floor(px * room / textWidth(t) * 10) / 10 - 0.1) + 'px';
+    }
+  });
+}
+function clearFit() {
+  document.querySelectorAll('.tag').forEach(t => { t.style.fontSize = ''; });
+}
+let fitTimer;
+window.addEventListener('resize', () => { clearTimeout(fitTimer); fitTimer = setTimeout(fitNames, 100); });
 
 function escapeHtml(str) {
   const div = document.createElement('div');
@@ -356,8 +442,15 @@ function escapeHtml(str) {
 }
 
 document.getElementById('download').addEventListener('click', downloadPoster);
+document.querySelectorAll('.tab').forEach(b => b.addEventListener('click', () => {
+  // The hash makes each tab linkable (…/nw-roster/#mexico); hashchange loads it
+  const hash = b.dataset.tab === 'nw' ? '' : '#' + b.dataset.tab;
+  if (location.hash !== hash) history.pushState(null, '', hash || location.pathname + location.search);
+  loadTab(b.dataset.tab);
+}));
+window.addEventListener('popstate', () => loadTab(tabFromHash()));
 setInterval(renderUpdated, 30000);  // keep "X min ago" current
-loadRoster();
+loadTab(tabFromHash());
 </script>
 </body>
 </html>

@@ -1,0 +1,310 @@
+{
+  "name": "México",
+  "updated_at": "2026-10-11T02:59:17Z",
+  "baseline": {
+    "taken_at": "2026-10-11T03:00:38Z",
+    "ranks": {
+      "5984120": 1,
+      "2776293": 2,
+      "2920057": 3,
+      "13099159": 4,
+      "401359": 5,
+      "9449579": 6,
+      "8448734": 7,
+      "312774": 8,
+      "2295504": 9,
+      "310739": 10,
+      "2598146": 11,
+      "1485562": 12,
+      "580573": 13,
+      "9031952": 14,
+      "757886": 15,
+      "914665": 16,
+      "917863": 17,
+      "2876835": 18,
+      "611972": 19,
+      "1947348": 20,
+      "13138746": 21,
+      "12171002": 22,
+      "2850920": 23,
+      "1249720": 24,
+      "2934597": 25,
+      "13241217": 26,
+      "6501299": 27,
+      "2969449": 28,
+      "324005": 29,
+      "358501": 30
+    }
+  },
+  "players": [
+    {
+      "profile_id": 5984120,
+      "tag": "Combito",
+      "clan": "Ux",
+      "cur_1v1": 2743,
+      "max_1v1": 2743,
+      "cur_tg": 1701,
+      "max_tg": 1885
+    },
+    {
+      "profile_id": 2776293,
+      "tag": "Kingstone",
+      "clan": "Oni",
+      "cur_1v1": 2739,
+      "max_1v1": 2867,
+      "cur_tg": 2152,
+      "max_tg": 2169
+    },
+    {
+      "profile_id": 2920057,
+      "tag": "LobodeLaNieve",
+      "clan": "Ux",
+      "cur_1v1": 2660,
+      "max_1v1": 2685,
+      "cur_tg": 2028,
+      "max_tg": 2066
+    },
+    {
+      "profile_id": 13099159,
+      "tag": "Uzzi",
+      "clan": "Ux",
+      "cur_1v1": 2593,
+      "max_1v1": 2629,
+      "cur_tg": 1741,
+      "max_tg": 1999
+    },
+    {
+      "profile_id": 401359,
+      "tag": "EnvyZ",
+      "clan": "VENÓN",
+      "cur_1v1": 2479,
+      "max_1v1": 2512,
+      "cur_tg": 2103,
+      "max_tg": 2190
+    },
+    {
+      "profile_id": 9449579,
+      "tag": "Miauricio",
+      "clan": "VENÓN",
+      "cur_1v1": 2477,
+      "max_1v1": 2573,
+      "cur_tg": 2140,
+      "max_tg": 2140
+    },
+    {
+      "profile_id": 8448734,
+      "tag": "The_Fury",
+      "cur_1v1": 2444,
+      "max_1v1": 2444,
+      "cur_tg": 1741,
+      "max_tg": 1981
+    },
+    {
+      "profile_id": 312774,
+      "tag": "Keno_",
+      "clan": "hK",
+      "cur_1v1": 2358,
+      "max_1v1": 2469,
+      "cur_tg": 1806,
+      "max_tg": 2072
+    },
+    {
+      "profile_id": 2295504,
+      "tag": "Eren",
+      "clan": "hK",
+      "cur_1v1": 2333,
+      "max_1v1": 2333,
+      "cur_tg": 1877,
+      "max_tg": 1907
+    },
+    {
+      "profile_id": 310739,
+      "tag": "SoyLaHostia",
+      "clan": "hK",
+      "cur_1v1": 2314,
+      "max_1v1": 2484,
+      "cur_tg": 1847,
+      "max_tg": 1959
+    },
+    {
+      "profile_id": 2598146,
+      "tag": "SiNisTeR",
+      "clan": "VENÓN",
+      "cur_1v1": 2283,
+      "max_1v1": 2368,
+      "cur_tg": 2182,
+      "max_tg": 2227
+    },
+    {
+      "profile_id": 1485562,
+      "tag": "MrOsoVC8",
+      "clan": "VENÓN",
+      "cur_1v1": 2277,
+      "max_1v1": 2394,
+      "cur_tg": 1834,
+      "max_tg": 2099
+    },
+    {
+      "profile_id": 580573,
+      "tag": "Puerco_Negro",
+      "clan": "hK",
+      "cur_1v1": 2273,
+      "max_1v1": 2350,
+      "cur_tg": 1952,
+      "max_tg": 1974
+    },
+    {
+      "profile_id": 9031952,
+      "tag": "ChossMx",
+      "clan": "hK",
+      "cur_1v1": 2253,
+      "max_1v1": 2307,
+      "cur_tg": 1969,
+      "max_tg": 1982
+    },
+    {
+      "profile_id": 757886,
+      "tag": "DarK_KnighT_",
+      "clan": "VN",
+      "cur_1v1": 2246,
+      "max_1v1": 2285,
+      "cur_tg": 1984,
+      "max_tg": 2050
+    },
+    {
+      "profile_id": 914665,
+      "tag": "Caguamas",
+      "clan": "nW",
+      "cur_1v1": 2177,
+      "max_1v1": 2241,
+      "cur_tg": 1909,
+      "max_tg": 2024
+    },
+    {
+      "profile_id": 917863,
+      "tag": "Romell13",
+      "clan": "hK",
+      "cur_1v1": 2170,
+      "max_1v1": 2233,
+      "cur_tg": 1781,
+      "max_tg": 1837
+    },
+    {
+      "profile_id": 2876835,
+      "tag": "Abejorro",
+      "clan": "nW",
+      "cur_1v1": 2152,
+      "max_1v1": 2152,
+      "cur_tg": 1680,
+      "max_tg": 1793
+    },
+    {
+      "profile_id": 611972,
+      "tag": "NotAdam",
+      "clan": "Dark",
+      "cur_1v1": 2121,
+      "max_1v1": 2323,
+      "cur_tg": 1821,
+      "max_tg": 1880
+    },
+    {
+      "profile_id": 1947348,
+      "tag": "themariach1",
+      "clan": "nW",
+      "cur_1v1": 2094,
+      "max_1v1": 2211,
+      "cur_tg": 1784,
+      "max_tg": 2034
+    },
+    {
+      "profile_id": 13138746,
+      "tag": "FraKTal",
+      "clan": "hK",
+      "cur_1v1": 2080,
+      "max_1v1": 2142,
+      "cur_tg": 1892,
+      "max_tg": 1983
+    },
+    {
+      "profile_id": 12171002,
+      "tag": "iamkaito",
+      "clan": "nW",
+      "cur_1v1": 2066,
+      "max_1v1": 2309,
+      "cur_tg": 1831,
+      "max_tg": 1854
+    },
+    {
+      "profile_id": 2850920,
+      "tag": "Chimtzin",
+      "clan": "Ux",
+      "cur_1v1": 2022,
+      "max_1v1": 2124,
+      "cur_tg": 1663,
+      "max_tg": 1820
+    },
+    {
+      "profile_id": 1249720,
+      "tag": "Baldeitus",
+      "clan": "VN",
+      "cur_1v1": 2011,
+      "max_1v1": 2087,
+      "cur_tg": 1864,
+      "max_tg": 1997
+    },
+    {
+      "profile_id": 2934597,
+      "tag": "Sgt.Pepper",
+      "clan": "nW",
+      "cur_1v1": 1997,
+      "max_1v1": 2210,
+      "cur_tg": 1718,
+      "max_tg": 1735
+    },
+    {
+      "profile_id": 13241217,
+      "tag": "BlueUltra",
+      "clan": "Ux",
+      "cur_1v1": 1961,
+      "max_1v1": 1961,
+      "cur_tg": 1651,
+      "max_tg": 1688
+    },
+    {
+      "profile_id": 6501299,
+      "tag": "ShutAzarquay",
+      "clan": "nW",
+      "cur_1v1": 1937,
+      "max_1v1": 1997,
+      "cur_tg": 1731,
+      "max_tg": 1745
+    },
+    {
+      "profile_id": 2969449,
+      "tag": "BetoxAOE",
+      "clan": "VENÓN",
+      "cur_1v1": 1931,
+      "max_1v1": 1996,
+      "cur_tg": 1807,
+      "max_tg": 1821
+    },
+    {
+      "profile_id": 324005,
+      "tag": "Zko",
+      "clan": "VN",
+      "cur_1v1": 1909,
+      "max_1v1": 1929,
+      "cur_tg": 1795,
+      "max_tg": 1874
+    },
+    {
+      "profile_id": 358501,
+      "tag": "El Claut_One",
+      "clan": "VENÓN",
+      "cur_1v1": 1904,
+      "max_1v1": 2115,
+      "cur_tg": 1725,
+      "max_tg": 1820
+    }
+  ]
+}
