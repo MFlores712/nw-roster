@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-11T05:00:13Z",
+  "updated_at": "2026-10-11T06:00:11Z",
   "baseline": {
     "taken_at": "2026-10-11T03:00:38Z",
     "ranks": {
@@ -43,7 +43,7 @@
       "clan": "Ux",
       "cur_1v1": 2743,
       "max_1v1": 2743,
-      "cur_tg": 1678,
+      "cur_tg": 1676,
       "max_tg": 1885
     },
     {
@@ -70,7 +70,7 @@
       "clan": "Ux",
       "cur_1v1": 2593,
       "max_1v1": 2629,
-      "cur_tg": 1716,
+      "cur_tg": 1711,
       "max_tg": 1999
     },
     {
@@ -141,7 +141,7 @@
       "clan": "VENÓN",
       "cur_1v1": 2277,
       "max_1v1": 2394,
-      "cur_tg": 1843,
+      "cur_tg": 1840,
       "max_tg": 2099
     },
     {
@@ -202,7 +202,7 @@
       "profile_id": 611972,
       "tag": "NotAdam",
       "clan": "Dark",
-      "cur_1v1": 2120,
+      "cur_1v1": 2149,
       "max_1v1": 2323,
       "cur_tg": 1821,
       "max_tg": 1880
@@ -238,7 +238,7 @@
       "profile_id": 2850920,
       "tag": "Chimtzin",
       "clan": "Ux",
-      "cur_1v1": 2053,
+      "cur_1v1": 2032,
       "max_1v1": 2124,
       "cur_tg": 1663,
       "max_tg": 1820
