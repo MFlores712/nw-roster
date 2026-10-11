@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-11T22:00:11Z",
+  "updated_at": "2026-10-11T23:00:13Z",
   "baseline": {
     "taken_at": "2026-10-11T14:00:15Z",
     "ranks": {
@@ -74,10 +74,19 @@
       "profile_id": 13099159,
       "tag": "Uzzi",
       "clan": "Ux",
-      "cur_1v1": 2593,
+      "cur_1v1": 2574,
       "max_1v1": 2629,
-      "cur_tg": 1653,
+      "cur_tg": 1630,
       "max_tg": 1999
+    },
+    {
+      "profile_id": 9449579,
+      "tag": "Miauricio",
+      "clan": "VENÓN",
+      "cur_1v1": 2500,
+      "max_1v1": 2573,
+      "cur_tg": 2140,
+      "max_tg": 2140
     },
     {
       "profile_id": 401359,
@@ -87,15 +96,6 @@
       "max_1v1": 2512,
       "cur_tg": 2103,
       "max_tg": 2190
-    },
-    {
-      "profile_id": 9449579,
-      "tag": "Miauricio",
-      "clan": "VENÓN",
-      "cur_1v1": 2477,
-      "max_1v1": 2573,
-      "cur_tg": 2140,
-      "max_tg": 2140
     },
     {
       "profile_id": 8448734,
@@ -232,15 +232,6 @@
       "max_tg": 2034
     },
     {
-      "profile_id": 13215279,
-      "tag": "GO1_mx",
-      "clan": "MZTK",
-      "cur_1v1": 2091,
-      "max_1v1": 2093,
-      "cur_tg": 1664,
-      "max_tg": 1860
-    },
-    {
       "profile_id": 13138746,
       "tag": "FraKTal",
       "clan": "hK",
@@ -248,6 +239,15 @@
       "max_1v1": 2142,
       "cur_tg": 1892,
       "max_tg": 1983
+    },
+    {
+      "profile_id": 13215279,
+      "tag": "GO1_mx",
+      "clan": "MZTK",
+      "cur_1v1": 2069,
+      "max_1v1": 2093,
+      "cur_tg": 1664,
+      "max_tg": 1860
     },
     {
       "profile_id": 2850920,
