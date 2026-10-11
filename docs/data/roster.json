@@ -1,6 +1,6 @@
 {
   "clan_name": "new Wave",
-  "updated_at": "2026-10-11T02:00:31Z",
+  "updated_at": "2026-10-11T02:30:28Z",
   "baseline": {
     "taken_at": "2026-10-10T14:00:30Z",
     "ranks": {
@@ -21,7 +21,7 @@
       "profile_id": 13267917,
       "cur_1v1": 2410,
       "max_1v1": 2410,
-      "cur_tg": 1835,
+      "cur_tg": 1818,
       "max_tg": 1882
     },
     {
@@ -57,7 +57,7 @@
       "profile_id": 12171002,
       "cur_1v1": 2066,
       "max_1v1": 2309,
-      "cur_tg": 1841,
+      "cur_tg": 1824,
       "max_tg": 1854
     },
     {
@@ -73,7 +73,7 @@
       "tag": "AtilA",
       "country": "Peru",
       "profile_id": 1359694,
-      "cur_1v1": 1964,
+      "cur_1v1": 1973,
       "max_1v1": 2123,
       "cur_tg": 1637,
       "max_tg": 1670
