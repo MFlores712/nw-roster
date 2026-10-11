@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-11T02:59:17Z",
+  "updated_at": "2026-10-11T04:00:13Z",
   "baseline": {
     "taken_at": "2026-10-11T03:00:38Z",
     "ranks": {
@@ -61,7 +61,7 @@
       "clan": "Ux",
       "cur_1v1": 2660,
       "max_1v1": 2685,
-      "cur_tg": 2028,
+      "cur_tg": 2032,
       "max_tg": 2066
     },
     {
@@ -202,7 +202,7 @@
       "profile_id": 611972,
       "tag": "NotAdam",
       "clan": "Dark",
-      "cur_1v1": 2121,
+      "cur_1v1": 2120,
       "max_1v1": 2323,
       "cur_tg": 1821,
       "max_tg": 1880
@@ -231,26 +231,17 @@
       "clan": "nW",
       "cur_1v1": 2066,
       "max_1v1": 2309,
-      "cur_tg": 1831,
+      "cur_tg": 1848,
       "max_tg": 1854
     },
     {
       "profile_id": 2850920,
       "tag": "Chimtzin",
       "clan": "Ux",
-      "cur_1v1": 2022,
+      "cur_1v1": 2043,
       "max_1v1": 2124,
       "cur_tg": 1663,
       "max_tg": 1820
-    },
-    {
-      "profile_id": 1249720,
-      "tag": "Baldeitus",
-      "clan": "VN",
-      "cur_1v1": 2011,
-      "max_1v1": 2087,
-      "cur_tg": 1864,
-      "max_tg": 1997
     },
     {
       "profile_id": 2934597,
@@ -260,6 +251,15 @@
       "max_1v1": 2210,
       "cur_tg": 1718,
       "max_tg": 1735
+    },
+    {
+      "profile_id": 1249720,
+      "tag": "Baldeitus",
+      "clan": "VN",
+      "cur_1v1": 1993,
+      "max_1v1": 2087,
+      "cur_tg": 1864,
+      "max_tg": 1997
     },
     {
       "profile_id": 13241217,
