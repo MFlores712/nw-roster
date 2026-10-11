@@ -6,7 +6,8 @@
     "Ux'": "Ux",
     "Ux´": "Ux",
     "Oni.": "Oni",
-    "VN_": "VN"
+    "VN_": "VN",
+    "VL ": "VL"
   },
   "_players": "Add \"clan\": \"TAG\" to a player to set their clan when it isn't in their name.",
   "players": [
@@ -39,6 +40,12 @@
     { "id": 13241217 },
     { "id": 2969449, "clan": "VENÓN" },
     { "id": 1249720, "clan": "VN" },
-    { "id": 324005, "clan": "VN" }
+    { "id": 324005, "clan": "VN" },
+    { "id": 278380 },
+    { "id": 467847 },
+    { "id": 13215279 },
+    { "id": 2986966 },
+    { "id": 4764520 },
+    { "id": 2926018 }
   ]
 }

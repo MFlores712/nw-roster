@@ -54,6 +54,9 @@ ALL_TIME_HIGH = re.compile(r'title="All Time High">(?:\s*<svg.*?</svg>)?\s*(\d+)
 # Display name, e.g. "VENÓN | El Claut_One" or "Oni.Kingstone" (verified 2026-10-10)
 PROFILE_NAME = re.compile(r"<h1[^>]*>(.*?)</h1>", re.S)
 
+# Clan written as "[TAG] Name" instead of "TAG | Name"
+BRACKET_CLAN = re.compile(r"^\[([^\]]+)\]\s*(.+)$")
+
 LADDERS = {"1v1 RM": "1v1", "Team RM": "tg"}
 FIELDS = ["cur_1v1", "max_1v1", "cur_tg", "max_tg"]
 
@@ -116,6 +119,10 @@ def apply_clan_rules(clan: str | None, name: str | None, player: dict,
                      prefixes: dict) -> tuple[str | None, str | None]:
     """Apply a roster's clan_prefixes ("Ux'Uzzi" -> clan Ux, name Uzzi) and a
     player's own "clan" override from config."""
+    if name and not clan:
+        bracketed = BRACKET_CLAN.match(name)  # "[SotC] PerezPodrido"
+        if bracketed:
+            clan, name = bracketed.group(1), bracketed.group(2)
     if name and not clan:
         for prefix, tag in prefixes.items():
             if name.startswith(prefix) and len(name) > len(prefix):

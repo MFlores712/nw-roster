@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-11T07:00:21Z",
+  "updated_at": "2026-10-11T07:18:36Z",
   "baseline": {
     "taken_at": "2026-10-11T03:00:38Z",
     "ranks": {
@@ -217,6 +217,15 @@
       "max_tg": 2034
     },
     {
+      "profile_id": 13215279,
+      "tag": "GO1_mx",
+      "clan": "MZTK",
+      "cur_1v1": 2083,
+      "max_1v1": 2093,
+      "cur_tg": 1680,
+      "max_tg": 1860
+    },
+    {
       "profile_id": 13138746,
       "tag": "FraKTal",
       "clan": "hK",
@@ -262,6 +271,15 @@
       "max_tg": 1997
     },
     {
+      "profile_id": 2986966,
+      "tag": "JPGP",
+      "clan": "VL",
+      "cur_1v1": 1968,
+      "max_1v1": 1972,
+      "cur_tg": 1764,
+      "max_tg": 1824
+    },
+    {
       "profile_id": 13241217,
       "tag": "BlueUltra",
       "clan": "Ux",
@@ -269,6 +287,23 @@
       "max_1v1": 1961,
       "cur_tg": 1651,
       "max_tg": 1688
+    },
+    {
+      "profile_id": 2926018,
+      "tag": "PerezPodrido",
+      "clan": "SotC",
+      "cur_1v1": 1946,
+      "max_1v1": 2039,
+      "cur_tg": 1753,
+      "max_tg": 1888
+    },
+    {
+      "profile_id": 467847,
+      "tag": "DoN.Vergas",
+      "cur_1v1": 1940,
+      "max_1v1": 2078,
+      "cur_tg": 1648,
+      "max_tg": 1755
     },
     {
       "profile_id": 6501299,
@@ -287,6 +322,24 @@
       "max_1v1": 1996,
       "cur_tg": 1807,
       "max_tg": 1821
+    },
+    {
+      "profile_id": 4764520,
+      "tag": "BooMBastic_",
+      "clan": "KH",
+      "cur_1v1": 1925,
+      "max_1v1": 2060,
+      "cur_tg": 1677,
+      "max_tg": 1788
+    },
+    {
+      "profile_id": 278380,
+      "tag": "Lemoine",
+      "clan": "VL",
+      "cur_1v1": 1916,
+      "max_1v1": 1970,
+      "cur_tg": 1849,
+      "max_tg": 1865
     },
     {
       "profile_id": 324005,
