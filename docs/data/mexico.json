@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-11T16:00:13Z",
+  "updated_at": "2026-10-11T17:00:14Z",
   "baseline": {
     "taken_at": "2026-10-11T14:00:15Z",
     "ranks": {
@@ -181,7 +181,7 @@
       "profile_id": 914665,
       "tag": "Caguamas",
       "clan": "nW",
-      "cur_1v1": 2177,
+      "cur_1v1": 2187,
       "max_1v1": 2241,
       "cur_tg": 1909,
       "max_tg": 2024
@@ -223,6 +223,15 @@
       "max_tg": 2034
     },
     {
+      "profile_id": 12171002,
+      "tag": "iamkaito",
+      "clan": "nW",
+      "cur_1v1": 2090,
+      "max_1v1": 2309,
+      "cur_tg": 1830,
+      "max_tg": 1854
+    },
+    {
       "profile_id": 13215279,
       "tag": "GO1_mx",
       "clan": "MZTK",
@@ -239,15 +248,6 @@
       "max_1v1": 2142,
       "cur_tg": 1892,
       "max_tg": 1983
-    },
-    {
-      "profile_id": 12171002,
-      "tag": "iamkaito",
-      "clan": "nW",
-      "cur_1v1": 2066,
-      "max_1v1": 2309,
-      "cur_tg": 1830,
-      "max_tg": 1854
     },
     {
       "profile_id": 2850920,
@@ -274,7 +274,13 @@
       "cur_1v1": 1993,
       "max_1v1": 2087,
       "cur_tg": 1864,
-      "max_tg": 1997
+      "max_tg": 1997,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     },
     {
       "profile_id": 2986966,
@@ -354,7 +360,13 @@
       "cur_1v1": 1909,
       "max_1v1": 1929,
       "cur_tg": 1795,
-      "max_tg": 1874
+      "max_tg": 1874,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     },
     {
       "profile_id": 358501,
