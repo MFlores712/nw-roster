@@ -1,87 +1,87 @@
 {
-  "clan_name": "new Wave",
-  "updated_at": "2026-10-11T03:00:30Z",
+  "name": "new Wave",
+  "updated_at": "2026-10-11T03:01:17Z",
   "baseline": {
     "taken_at": "2026-10-10T14:00:30Z",
     "ranks": {
-      "Manuel": 1,
-      "Caguamas": 2,
-      "Abejorro": 3,
-      "themariach1": 4,
-      "iamkaito": 5,
-      "Sgt.Pepper": 6,
-      "ShutAzarquay": 7,
-      "AtilA": 8
+      "13267917": 1,
+      "914665": 2,
+      "2876835": 3,
+      "1947348": 4,
+      "12171002": 5,
+      "2934597": 6,
+      "6501299": 7,
+      "1359694": 8
     }
   },
   "players": [
     {
+      "profile_id": 13267917,
       "tag": "Manuel",
       "country": "Colombia",
-      "profile_id": 13267917,
       "cur_1v1": 2410,
       "max_1v1": 2410,
       "cur_tg": 1825,
       "max_tg": 1882
     },
     {
+      "profile_id": 914665,
       "tag": "Caguamas",
       "country": "Mexico",
-      "profile_id": 914665,
       "cur_1v1": 2177,
       "max_1v1": 2241,
       "cur_tg": 1909,
       "max_tg": 2024
     },
     {
+      "profile_id": 2876835,
       "tag": "Abejorro",
       "country": "Mexico",
-      "profile_id": 2876835,
       "cur_1v1": 2152,
       "max_1v1": 2152,
       "cur_tg": 1680,
       "max_tg": 1793
     },
     {
+      "profile_id": 1947348,
       "tag": "themariach1",
       "country": "Mexico",
-      "profile_id": 1947348,
       "cur_1v1": 2094,
       "max_1v1": 2211,
       "cur_tg": 1784,
       "max_tg": 2034
     },
     {
+      "profile_id": 12171002,
       "tag": "iamkaito",
       "country": "Mexico",
-      "profile_id": 12171002,
       "cur_1v1": 2066,
       "max_1v1": 2309,
       "cur_tg": 1831,
       "max_tg": 1854
     },
     {
+      "profile_id": 2934597,
       "tag": "Sgt.Pepper",
       "country": "Mexico",
-      "profile_id": 2934597,
       "cur_1v1": 1997,
       "max_1v1": 2210,
       "cur_tg": 1718,
       "max_tg": 1735
     },
     {
+      "profile_id": 1359694,
       "tag": "AtilA",
       "country": "Peru",
-      "profile_id": 1359694,
       "cur_1v1": 1950,
       "max_1v1": 2123,
       "cur_tg": 1637,
       "max_tg": 1670
     },
     {
+      "profile_id": 6501299,
       "tag": "ShutAzarquay",
       "country": "Mexico",
-      "profile_id": 6501299,
       "cur_1v1": 1937,
       "max_1v1": 1997,
       "cur_tg": 1731,
