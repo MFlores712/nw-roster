@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-11T19:00:12Z",
+  "updated_at": "2026-10-11T20:00:13Z",
   "baseline": {
     "taken_at": "2026-10-11T14:00:15Z",
     "ranks": {
@@ -44,15 +44,6 @@
   },
   "players": [
     {
-      "profile_id": 5984120,
-      "tag": "Combito",
-      "clan": "Ux",
-      "cur_1v1": 2743,
-      "max_1v1": 2743,
-      "cur_tg": 1655,
-      "max_tg": 1885
-    },
-    {
       "profile_id": 2776293,
       "tag": "Kingstone",
       "clan": "Oni",
@@ -60,6 +51,15 @@
       "max_1v1": 2867,
       "cur_tg": 2152,
       "max_tg": 2169
+    },
+    {
+      "profile_id": 5984120,
+      "tag": "Combito",
+      "clan": "Ux",
+      "cur_1v1": 2723,
+      "max_1v1": 2743,
+      "cur_tg": 1655,
+      "max_tg": 1885
     },
     {
       "profile_id": 2920057,
@@ -118,7 +118,7 @@
       "profile_id": 310739,
       "tag": "SoyLaHostia",
       "clan": "hK",
-      "cur_1v1": 2334,
+      "cur_1v1": 2347,
       "max_1v1": 2484,
       "cur_tg": 1847,
       "max_tg": 1959
@@ -129,7 +129,7 @@
       "clan": "hK",
       "cur_1v1": 2333,
       "max_1v1": 2333,
-      "cur_tg": 1856,
+      "cur_tg": 1867,
       "max_tg": 1907
     },
     {
@@ -156,7 +156,7 @@
       "clan": "hK",
       "cur_1v1": 2273,
       "max_1v1": 2350,
-      "cur_tg": 1927,
+      "cur_tg": 1936,
       "max_tg": 1974
     },
     {
@@ -237,7 +237,7 @@
       "clan": "MZTK",
       "cur_1v1": 2083,
       "max_1v1": 2093,
-      "cur_tg": 1680,
+      "cur_tg": 1664,
       "max_tg": 1860
     },
     {
