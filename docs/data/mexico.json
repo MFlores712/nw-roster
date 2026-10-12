@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-12T00:00:14Z",
+  "updated_at": "2026-10-12T01:00:14Z",
   "baseline": {
     "taken_at": "2026-10-11T14:00:15Z",
     "ranks": {
@@ -56,7 +56,7 @@
       "profile_id": 5984120,
       "tag": "Combito",
       "clan": "Ux",
-      "cur_1v1": 2698,
+      "cur_1v1": 2673,
       "max_1v1": 2743,
       "cur_tg": 1655,
       "max_tg": 1885
@@ -214,6 +214,15 @@
       "max_tg": 1854
     },
     {
+      "profile_id": 13138746,
+      "tag": "FraKTal",
+      "clan": "hK",
+      "cur_1v1": 2112,
+      "max_1v1": 2142,
+      "cur_tg": 1892,
+      "max_tg": 1983
+    },
+    {
       "profile_id": 2876835,
       "tag": "Abejorro",
       "clan": "nW",
@@ -232,19 +241,10 @@
       "max_tg": 2034
     },
     {
-      "profile_id": 13138746,
-      "tag": "FraKTal",
-      "clan": "hK",
-      "cur_1v1": 2092,
-      "max_1v1": 2142,
-      "cur_tg": 1892,
-      "max_tg": 1983
-    },
-    {
       "profile_id": 13215279,
       "tag": "GO1_mx",
       "clan": "MZTK",
-      "cur_1v1": 2059,
+      "cur_1v1": 2065,
       "max_1v1": 2093,
       "cur_tg": 1664,
       "max_tg": 1860
