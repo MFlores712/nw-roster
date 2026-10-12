@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-12T15:00:14Z",
+  "updated_at": "2026-10-12T16:00:17Z",
   "baseline": {
     "taken_at": "2026-10-12T14:00:20Z",
     "ranks": {
@@ -277,6 +277,15 @@
       "max_tg": 1860
     },
     {
+      "profile_id": 13241217,
+      "tag": "BlueUltra",
+      "clan": "Ux",
+      "cur_1v1": 1971,
+      "max_1v1": 1975,
+      "cur_tg": 1651,
+      "max_tg": 1688
+    },
+    {
       "profile_id": 2986966,
       "tag": "JPGP",
       "clan": "VL",
@@ -284,15 +293,6 @@
       "max_1v1": 1972,
       "cur_tg": 1764,
       "max_tg": 1824
-    },
-    {
-      "profile_id": 13241217,
-      "tag": "BlueUltra",
-      "clan": "Ux",
-      "cur_1v1": 1958,
-      "max_1v1": 1975,
-      "cur_tg": 1651,
-      "max_tg": 1688
     },
     {
       "profile_id": 2926018,
@@ -312,15 +312,6 @@
       "max_tg": 1755
     },
     {
-      "profile_id": 6501299,
-      "tag": "ShutAzarquay",
-      "clan": "nW",
-      "cur_1v1": 1937,
-      "max_1v1": 1997,
-      "cur_tg": 1731,
-      "max_tg": 1745
-    },
-    {
       "profile_id": 2969449,
       "tag": "BetoxAOE",
       "clan": "VENÓN",
@@ -337,6 +328,15 @@
       "max_1v1": 2060,
       "cur_tg": 1677,
       "max_tg": 1788
+    },
+    {
+      "profile_id": 6501299,
+      "tag": "ShutAzarquay",
+      "clan": "nW",
+      "cur_1v1": 1921,
+      "max_1v1": 1997,
+      "cur_tg": 1731,
+      "max_tg": 1745
     },
     {
       "profile_id": 278380,
