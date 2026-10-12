@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-12T03:00:14Z",
+  "updated_at": "2026-10-12T04:00:15Z",
   "baseline": {
     "taken_at": "2026-10-11T14:00:15Z",
     "ranks": {
@@ -56,7 +56,7 @@
       "profile_id": 5984120,
       "tag": "Combito",
       "clan": "Ux",
-      "cur_1v1": 2692,
+      "cur_1v1": 2700,
       "max_1v1": 2743,
       "cur_tg": 1655,
       "max_tg": 1885
@@ -190,7 +190,7 @@
       "profile_id": 917863,
       "tag": "Romell13",
       "clan": "hK",
-      "cur_1v1": 2170,
+      "cur_1v1": 2185,
       "max_1v1": 2233,
       "cur_tg": 1781,
       "max_tg": 1837
@@ -259,15 +259,6 @@
       "max_tg": 1735
     },
     {
-      "profile_id": 13215279,
-      "tag": "GO1_mx",
-      "clan": "MZTK",
-      "cur_1v1": 1997,
-      "max_1v1": 2093,
-      "cur_tg": 1664,
-      "max_tg": 1860
-    },
-    {
       "profile_id": 1249720,
       "tag": "Baldeitus",
       "clan": "VN",
@@ -275,6 +266,15 @@
       "max_1v1": 2087,
       "cur_tg": 1864,
       "max_tg": 1997
+    },
+    {
+      "profile_id": 13215279,
+      "tag": "GO1_mx",
+      "clan": "MZTK",
+      "cur_1v1": 1974,
+      "max_1v1": 2093,
+      "cur_tg": 1664,
+      "max_tg": 1860
     },
     {
       "profile_id": 2986966,
