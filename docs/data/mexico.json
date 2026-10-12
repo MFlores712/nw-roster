@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-12T22:00:13Z",
+  "updated_at": "2026-10-12T23:00:13Z",
   "baseline": {
     "taken_at": "2026-10-12T14:00:20Z",
     "ranks": {
@@ -67,7 +67,7 @@
       "clan": "Ux",
       "cur_1v1": 2660,
       "max_1v1": 2685,
-      "cur_tg": 2036,
+      "cur_tg": 2014,
       "max_tg": 2066
     },
     {
@@ -142,6 +142,15 @@
       "max_tg": 2227
     },
     {
+      "profile_id": 580573,
+      "tag": "Puerco_Negro",
+      "clan": "hK",
+      "cur_1v1": 2279,
+      "max_1v1": 2350,
+      "cur_tg": 1924,
+      "max_tg": 1974
+    },
+    {
       "profile_id": 1485562,
       "tag": "MrOsoVC8",
       "clan": "VENÓN",
@@ -149,15 +158,6 @@
       "max_1v1": 2394,
       "cur_tg": 1865,
       "max_tg": 2099
-    },
-    {
-      "profile_id": 580573,
-      "tag": "Puerco_Negro",
-      "clan": "hK",
-      "cur_1v1": 2273,
-      "max_1v1": 2350,
-      "cur_tg": 1924,
-      "max_tg": 1974
     },
     {
       "profile_id": 9031952,
