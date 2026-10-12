@@ -81,7 +81,7 @@ body {
   content: ""; position: absolute; bottom: 0; left: 6%; right: 6%; height: 1px;
   background: linear-gradient(90deg, transparent, rgba(201,167,95,0.55), transparent);
 }
-.rank { font-family: 'Cinzel Decorative', serif; font-size: 26px; color: var(--gold-dim); text-align: center; position: relative; }
+.rank { font-family: 'Cinzel Decorative', serif; font-size: 22px; color: var(--gold-dim); text-align: center; position: relative; }
 /* Hangs below the rank numeral without changing row height, so rows with
    and without a badge stay evenly spaced */
 .move { position: absolute; top: 100%; left: 0; right: 0; font-family: 'EB Garamond', serif; font-size: 12px; font-weight: 500; letter-spacing: 0.5px; line-height: 1; }
@@ -91,7 +91,6 @@ body {
 .tag { font-family: 'Yuji Mai', sans-serif; font-size: 22px; color: var(--foam); overflow-wrap: anywhere; }
 /* Clan tag shown small before the name (México tab) */
 .clan { font-family: 'EB Garamond', serif; font-size: 13px; color: var(--muted); margin-right: 2px; letter-spacing: 0.5px; }
-.roster.numeric .rank { font-size: 22px; }
 .stat { text-align: center; }
 .stat-num { font-family: 'Yuji Mai', monospace; font-size: 24px; }
 .stat-num.s-1v1 { color: var(--gold-bright); }
@@ -132,10 +131,7 @@ body {
   /* Rows: one line like desktop (same grid placement), with narrower
      rating columns and text that scales with the screen width */
   .poster:not(.exporting) .col-headers,
-  .poster:not(.exporting) .row { grid-template-columns: var(--rank-w, 15px) minmax(0, 1fr) repeat(4, 12.5vw); column-gap: 2px; }
-  /* México ranks are 1–24: two digits need a wider column than one kanji */
-  .poster:not(.exporting) .roster.numeric { --rank-w: 20px; }
-  .poster:not(.exporting) .roster.numeric .rank { font-size: 12px; }
+  .poster:not(.exporting) .row { grid-template-columns: 20px minmax(0, 1fr) repeat(4, 12.5vw); column-gap: 2px; }
   .poster:not(.exporting) .clan { font-size: 9px; margin-right: 0; letter-spacing: 0; }
   .poster:not(.exporting) .tabs { margin-top: 12px; }
   .poster:not(.exporting) .tab { padding: 5px 16px; font-size: 11px; letter-spacing: 2px; }
@@ -144,7 +140,7 @@ body {
   .poster:not(.exporting) .stat-label { font-size: 8px; letter-spacing: 0; }
   .poster:not(.exporting) .row { padding: 11px 0; }
   .poster:not(.exporting) .row:not(:last-child)::after { left: 0; right: 0; }
-  .poster:not(.exporting) .rank { font-size: 15px; text-align: left; }
+  .poster:not(.exporting) .rank { font-size: 12px; text-align: left; }
   .poster:not(.exporting) .move { font-size: 8px; letter-spacing: 0; }
   .poster:not(.exporting) .move.new { font-size: 6px; }
   .poster:not(.exporting) .who { padding-left: 4px; }
@@ -178,7 +174,7 @@ body {
             fill="none" stroke="#c9a75f" stroke-width="2"/>
     </svg>
     <div class="tabs no-export" role="tablist" aria-label="Ranking">
-      <button type="button" role="tab" class="tab" data-tab="nw">nW Clan</button>
+      <button type="button" role="tab" class="tab" data-tab="nw">New Wave</button>
       <button type="button" role="tab" class="tab" data-tab="mexico">México</button>
       <button type="button" role="tab" class="tab" data-tab="colombia">Colombia</button>
     </div>
@@ -208,7 +204,6 @@ body {
 </div>
 
 <script>
-const RANK_KANJI = ["一","二","三","四","五","六","七","八","九","十"];
 // Display order: current 1v1, max 1v1, current TG, max TG
 const COLUMNS = [
   { field: 'cur_1v1', cls: 's-1v1' },
@@ -220,9 +215,9 @@ const COLUMNS = [
 // One entry per tab. `hourly` rosters are only refreshed on the update run in
 // the first quarter of each hour (see ROSTERS in scripts/fetch_ratings.py).
 const TABS = {
-  nw:     { file: 'data/roster.json', subtitle: 'Age of Empires II · Clan Roster',    kanji: true,  png: 'nw-roster',      hourly: false },
-  mexico: { file: 'data/mexico.json', subtitle: 'Age of Empires II · México Ranking', kanji: false, png: 'mexico-ranking', hourly: true },
-  colombia: { file: 'data/colombia.json', subtitle: 'Age of Empires II · Colombia Ranking', kanji: false, png: 'colombia-ranking', hourly: true },
+  nw:       { file: 'data/roster.json',   subtitle: 'Age of Empires II · Clan Roster',       png: 'nw-roster',        hourly: false },
+  mexico:   { file: 'data/mexico.json',   subtitle: 'Age of Empires II · México Ranking',   png: 'mexico-ranking',   hourly: true },
+  colombia: { file: 'data/colombia.json', subtitle: 'Age of Empires II · Colombia Ranking', png: 'colombia-ranking', hourly: true },
 };
 let currentTab = 'nw';
 let lastUpdatedAt = null;
@@ -265,7 +260,6 @@ async function loadTab(tab) {
   const cfg = TABS[tab];
   document.querySelectorAll('.tab').forEach(b => b.setAttribute('aria-selected', String(b.dataset.tab === tab)));
   document.getElementById('subtitle').textContent = cfg.subtitle;
-  document.getElementById('roster').classList.toggle('numeric', !cfg.kanji);
   try {
     const [data, lastCheck] = await Promise.all([fetchRoster(cfg.file), fetchLastCheck(tab)]);
     if (seq === loadSeq) render(data, lastCheck);
@@ -383,7 +377,7 @@ function render(data, lastCheck) {
   data.players.forEach((p, i) => {
     const row = document.createElement('div');
     row.className = 'row';
-    const rankLabel = TABS[currentTab].kanji ? (RANK_KANJI[i] || i + 1) : i + 1;
+    const rankLabel = i + 1;
     const clan = p.clan ? `<span class="clan">${escapeHtml(p.clan)}</span> ` : '';
     row.innerHTML = `
       <div class="rank"><span>${rankLabel}</span>${moveBadge(data.baseline, p, i + 1)}</div>
