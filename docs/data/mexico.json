@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-12T18:00:14Z",
+  "updated_at": "2026-10-12T19:00:15Z",
   "baseline": {
     "taken_at": "2026-10-12T14:00:20Z",
     "ranks": {
@@ -76,7 +76,7 @@
       "clan": "Ux",
       "cur_1v1": 2563,
       "max_1v1": 2629,
-      "cur_tg": 1635,
+      "cur_tg": 1648,
       "max_tg": 1999
     },
     {
@@ -109,7 +109,7 @@
       "profile_id": 310739,
       "tag": "SoyLaHostia",
       "clan": "hK",
-      "cur_1v1": 2378,
+      "cur_1v1": 2390,
       "max_1v1": 2484,
       "cur_tg": 1847,
       "max_tg": 1959
@@ -165,7 +165,7 @@
       "clan": "hK",
       "cur_1v1": 2253,
       "max_1v1": 2307,
-      "cur_tg": 1953,
+      "cur_tg": 1964,
       "max_tg": 1982
     },
     {
@@ -174,7 +174,7 @@
       "clan": "VN",
       "cur_1v1": 2246,
       "max_1v1": 2285,
-      "cur_tg": 1984,
+      "cur_tg": 1992,
       "max_tg": 2050
     },
     {
@@ -205,15 +205,6 @@
       "max_tg": 1880
     },
     {
-      "profile_id": 12171002,
-      "tag": "iamkaito",
-      "clan": "nW",
-      "cur_1v1": 2112,
-      "max_1v1": 2309,
-      "cur_tg": 1830,
-      "max_tg": 1854
-    },
-    {
       "profile_id": 13138746,
       "tag": "FraKTal",
       "clan": "hK",
@@ -230,6 +221,15 @@
       "max_1v1": 2152,
       "cur_tg": 1680,
       "max_tg": 1793
+    },
+    {
+      "profile_id": 12171002,
+      "tag": "iamkaito",
+      "clan": "nW",
+      "cur_1v1": 2099,
+      "max_1v1": 2309,
+      "cur_tg": 1830,
+      "max_tg": 1854
     },
     {
       "profile_id": 1947348,
@@ -264,7 +264,7 @@
       "clan": "VN",
       "cur_1v1": 1993,
       "max_1v1": 2087,
-      "cur_tg": 1864,
+      "cur_tg": 1870,
       "max_tg": 1997
     },
     {
