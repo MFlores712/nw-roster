@@ -1,6 +1,6 @@
 {
   "name": "new Wave",
-  "updated_at": "2026-10-12T02:30:13Z",
+  "updated_at": "2026-10-12T03:30:15Z",
   "baseline": {
     "taken_at": "2026-10-11T14:00:15Z",
     "ranks": {
@@ -61,6 +61,15 @@
       "max_tg": 2034
     },
     {
+      "profile_id": 1359694,
+      "tag": "AtilA",
+      "country": "Peru",
+      "cur_1v1": 2006,
+      "max_1v1": 2123,
+      "cur_tg": 1637,
+      "max_tg": 1670
+    },
+    {
       "profile_id": 2934597,
       "tag": "Sgt.Pepper",
       "country": "Mexico",
@@ -68,15 +77,6 @@
       "max_1v1": 2210,
       "cur_tg": 1718,
       "max_tg": 1735
-    },
-    {
-      "profile_id": 1359694,
-      "tag": "AtilA",
-      "country": "Peru",
-      "cur_1v1": 1987,
-      "max_1v1": 2123,
-      "cur_tg": 1637,
-      "max_tg": 1670
     },
     {
       "profile_id": 6501299,
