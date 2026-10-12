@@ -1,0 +1,109 @@
+{
+  "name": "Colombia",
+  "updated_at": "2026-10-12T14:22:55Z",
+  "baseline": {
+    "taken_at": "2026-10-12T14:23:20Z",
+    "ranks": {
+      "2654577": 1,
+      "13267917": 2,
+      "6838238": 3,
+      "2825261": 4,
+      "6410880": 5,
+      "2955183": 6,
+      "1743420": 7,
+      "2955846": 8,
+      "1062980": 9,
+      "2479622": 10
+    }
+  },
+  "players": [
+    {
+      "profile_id": 2654577,
+      "tag": "Ozone",
+      "clan": "Ux",
+      "cur_1v1": 2418,
+      "max_1v1": 2636,
+      "cur_tg": 1785,
+      "max_tg": 2001
+    },
+    {
+      "profile_id": 13267917,
+      "tag": "Manuel",
+      "clan": "nW",
+      "cur_1v1": 2410,
+      "max_1v1": 2410,
+      "cur_tg": 1826,
+      "max_tg": 1882
+    },
+    {
+      "profile_id": 6838238,
+      "tag": "AngelR",
+      "clan": "NuMa",
+      "cur_1v1": 2312,
+      "max_1v1": 2339,
+      "cur_tg": 1788,
+      "max_tg": 1828
+    },
+    {
+      "profile_id": 2825261,
+      "tag": "Tou",
+      "clan": "VL",
+      "cur_1v1": 2174,
+      "max_1v1": 2175,
+      "cur_tg": 1856,
+      "max_tg": 1947
+    },
+    {
+      "profile_id": 6410880,
+      "tag": "Man_at_Laptop",
+      "cur_1v1": 2049,
+      "max_1v1": 2116,
+      "cur_tg": 1439,
+      "max_tg": 1476
+    },
+    {
+      "profile_id": 2955183,
+      "tag": "JOLIAT",
+      "cur_1v1": 2002,
+      "max_1v1": 2095,
+      "cur_tg": 1652,
+      "max_tg": 1710
+    },
+    {
+      "profile_id": 1743420,
+      "tag": "OliverAtom",
+      "clan": "NuMa",
+      "cur_1v1": 2001,
+      "max_1v1": 2193,
+      "cur_tg": 1682,
+      "max_tg": 1772
+    },
+    {
+      "profile_id": 2955846,
+      "tag": "KauTrEnS",
+      "clan": "FMG",
+      "cur_1v1": 1971,
+      "max_1v1": 2054,
+      "cur_tg": 1652,
+      "max_tg": 1759
+    },
+    {
+      "profile_id": 1062980,
+      "tag": "DeaH",
+      "clan": "VLC",
+      "cur_1v1": 1931,
+      "max_1v1": 1931,
+      "cur_tg": 1701,
+      "max_tg": 1764
+    },
+    {
+      "profile_id": 2479622,
+      "tag": "Nicky",
+      "clan": "VENÓN",
+      "cur_1v1": 1912,
+      "max_1v1": 1912,
+      "cur_tg": 1900,
+      "max_tg": 1905
+    }
+  ]
+}

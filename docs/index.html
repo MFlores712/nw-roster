@@ -150,6 +150,8 @@ body {
   .poster:not(.exporting) .who { padding-left: 4px; }
   /* Names stay on one line; "…" only if a very narrow phone can't fit one */
   .poster:not(.exporting) .tag { font-size: clamp(13px, 4vw, 18px); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  /* Last resort for very long names: two lines (max), set by fitNames() */
+  .poster:not(.exporting) .tag.wrap { white-space: normal; line-height: 1.15; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
   .poster:not(.exporting) .stat-num { font-size: clamp(13px, 4vw, 19px); }
   .poster:not(.exporting) .stat-num.is-max { font-size: clamp(11px, 3.4vw, 15px); }
 
@@ -178,6 +180,7 @@ body {
     <div class="tabs no-export" role="tablist" aria-label="Ranking">
       <button type="button" role="tab" class="tab" data-tab="nw">nW Clan</button>
       <button type="button" role="tab" class="tab" data-tab="mexico">México</button>
+      <button type="button" role="tab" class="tab" data-tab="colombia">Colombia</button>
     </div>
   </div>
 
@@ -219,6 +222,7 @@ const COLUMNS = [
 const TABS = {
   nw:     { file: 'data/roster.json', subtitle: 'Age of Empires II · Clan Roster',    kanji: true,  png: 'nw-roster',      hourly: false },
   mexico: { file: 'data/mexico.json', subtitle: 'Age of Empires II · México Ranking', kanji: false, png: 'mexico-ranking', hourly: true },
+  colombia: { file: 'data/colombia.json', subtitle: 'Age of Empires II · Colombia Ranking', kanji: false, png: 'colombia-ranking', hourly: true },
 };
 let currentTab = 'nw';
 let lastUpdatedAt = null;
@@ -416,6 +420,7 @@ function textWidth(el) {
 function fitNames() {
   document.querySelectorAll('.tag').forEach(t => {
     t.style.fontSize = '';
+    t.classList.remove('wrap');
     if (getComputedStyle(t).whiteSpace !== 'nowrap') return;  // phone layout only
     // Aim a few px short of the edge: names that only just fit can still be
     // cut off by small font-rendering differences between devices.
@@ -427,10 +432,13 @@ function fitNames() {
       if (px <= MIN_NAME_PX) break;
       t.style.fontSize = Math.max(MIN_NAME_PX, Math.floor(px * room / textWidth(t) * 10) / 10 - 0.1) + 'px';
     }
+    // Still too long at the smallest size (e.g. "Alexander the conqueror"):
+    // let it wrap onto a second line rather than cut it off
+    if (textWidth(t) > room && /\s/.test(t.textContent.trim())) t.classList.add('wrap');
   });
 }
 function clearFit() {
-  document.querySelectorAll('.tag').forEach(t => { t.style.fontSize = ''; });
+  document.querySelectorAll('.tag').forEach(t => { t.style.fontSize = ''; t.classList.remove('wrap'); });
 }
 let fitTimer;
 window.addEventListener('resize', () => { clearTimeout(fitTimer); fitTimer = setTimeout(fitNames, 100); });
