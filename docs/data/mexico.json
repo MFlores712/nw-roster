@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-11T23:00:13Z",
+  "updated_at": "2026-10-12T00:00:14Z",
   "baseline": {
     "taken_at": "2026-10-11T14:00:15Z",
     "ranks": {
@@ -74,9 +74,9 @@
       "profile_id": 13099159,
       "tag": "Uzzi",
       "clan": "Ux",
-      "cur_1v1": 2574,
+      "cur_1v1": 2576,
       "max_1v1": 2629,
-      "cur_tg": 1630,
+      "cur_tg": 1635,
       "max_tg": 1999
     },
     {
@@ -199,7 +199,7 @@
       "profile_id": 611972,
       "tag": "NotAdam",
       "clan": "Dark",
-      "cur_1v1": 2149,
+      "cur_1v1": 2133,
       "max_1v1": 2323,
       "cur_tg": 1821,
       "max_tg": 1880
@@ -235,7 +235,7 @@
       "profile_id": 13138746,
       "tag": "FraKTal",
       "clan": "hK",
-      "cur_1v1": 2080,
+      "cur_1v1": 2092,
       "max_1v1": 2142,
       "cur_tg": 1892,
       "max_tg": 1983
@@ -244,7 +244,7 @@
       "profile_id": 13215279,
       "tag": "GO1_mx",
       "clan": "MZTK",
-      "cur_1v1": 2069,
+      "cur_1v1": 2059,
       "max_1v1": 2093,
       "cur_tg": 1664,
       "max_tg": 1860
@@ -262,7 +262,7 @@
       "profile_id": 2934597,
       "tag": "Sgt.Pepper",
       "clan": "nW",
-      "cur_1v1": 2011,
+      "cur_1v1": 1993,
       "max_1v1": 2210,
       "cur_tg": 1718,
       "max_tg": 1735
