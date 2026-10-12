@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-12T14:00:20Z",
+  "updated_at": "2026-10-12T15:00:14Z",
   "baseline": {
     "taken_at": "2026-10-12T14:00:20Z",
     "ranks": {
@@ -289,8 +289,8 @@
       "profile_id": 13241217,
       "tag": "BlueUltra",
       "clan": "Ux",
-      "cur_1v1": 1961,
-      "max_1v1": 1961,
+      "cur_1v1": 1958,
+      "max_1v1": 1975,
       "cur_tg": 1651,
       "max_tg": 1688
     },
