@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-12T16:00:17Z",
+  "updated_at": "2026-10-12T17:00:13Z",
   "baseline": {
     "taken_at": "2026-10-12T14:00:20Z",
     "ranks": {
@@ -268,6 +268,15 @@
       "max_tg": 1997
     },
     {
+      "profile_id": 13241217,
+      "tag": "BlueUltra",
+      "clan": "Ux",
+      "cur_1v1": 1985,
+      "max_1v1": 1985,
+      "cur_tg": 1651,
+      "max_tg": 1688
+    },
+    {
       "profile_id": 13215279,
       "tag": "GO1_mx",
       "clan": "MZTK",
@@ -275,15 +284,6 @@
       "max_1v1": 2093,
       "cur_tg": 1664,
       "max_tg": 1860
-    },
-    {
-      "profile_id": 13241217,
-      "tag": "BlueUltra",
-      "clan": "Ux",
-      "cur_1v1": 1971,
-      "max_1v1": 1975,
-      "cur_tg": 1651,
-      "max_tg": 1688
     },
     {
       "profile_id": 2986966,
