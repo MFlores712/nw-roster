@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-12T21:00:13Z",
+  "updated_at": "2026-10-12T22:00:13Z",
   "baseline": {
     "taken_at": "2026-10-12T14:00:20Z",
     "ranks": {
@@ -67,7 +67,7 @@
       "clan": "Ux",
       "cur_1v1": 2660,
       "max_1v1": 2685,
-      "cur_tg": 2032,
+      "cur_tg": 2036,
       "max_tg": 2066
     },
     {
@@ -109,7 +109,7 @@
       "profile_id": 310739,
       "tag": "SoyLaHostia",
       "clan": "hK",
-      "cur_1v1": 2399,
+      "cur_1v1": 2412,
       "max_1v1": 2484,
       "cur_tg": 1847,
       "max_tg": 1959
@@ -165,14 +165,14 @@
       "clan": "hK",
       "cur_1v1": 2253,
       "max_1v1": 2307,
-      "cur_tg": 1973,
+      "cur_tg": 1955,
       "max_tg": 1982
     },
     {
       "profile_id": 757886,
       "tag": "DarK_KnighT_",
       "clan": "VN",
-      "cur_1v1": 2223,
+      "cur_1v1": 2232,
       "max_1v1": 2285,
       "cur_tg": 1974,
       "max_tg": 2050
@@ -219,7 +219,7 @@
       "clan": "hK",
       "cur_1v1": 2112,
       "max_1v1": 2142,
-      "cur_tg": 1904,
+      "cur_tg": 1889,
       "max_tg": 1983
     },
     {

@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-12T21:00:13Z",
+  "updated_at": "2026-10-12T22:00:13Z",
   "baseline": {
     "taken_at": "2026-10-12T14:23:20Z",
     "ranks": {
@@ -50,7 +50,7 @@
       "clan": "VL",
       "cur_1v1": 2174,
       "max_1v1": 2175,
-      "cur_tg": 1873,
+      "cur_tg": 1890,
       "max_tg": 1947
     },
     {
@@ -73,7 +73,7 @@
       "profile_id": 1743420,
       "tag": "OliverAtom",
       "clan": "NuMa",
-      "cur_1v1": 2001,
+      "cur_1v1": 1978,
       "max_1v1": 2193,
       "cur_tg": 1682,
       "max_tg": 1772
@@ -84,7 +84,7 @@
       "clan": "FMG",
       "cur_1v1": 1971,
       "max_1v1": 2054,
-      "cur_tg": 1652,
+      "cur_tg": 1636,
       "max_tg": 1759
     },
     {
