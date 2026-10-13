@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-13T23:00:15Z",
+  "updated_at": "2026-10-13T23:04:54Z",
   "baseline": {
     "taken_at": "2026-10-13T14:00:17Z",
     "ranks": {
@@ -295,6 +295,14 @@
       "max_tg": 1997
     },
     {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1988,
+      "max_1v1": 2003,
+      "cur_tg": 1357,
+      "max_tg": 1390
+    },
+    {
       "profile_id": 13215279,
       "tag": "GO1_mx",
       "clan": "MZTK",
@@ -302,14 +310,6 @@
       "max_1v1": 2093,
       "cur_tg": 1664,
       "max_tg": 1860
-    },
-    {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1974,
-      "max_1v1": 2003,
-      "cur_tg": 1357,
-      "max_tg": 1390
     },
     {
       "profile_id": 2986966,
