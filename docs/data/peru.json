@@ -1,0 +1,156 @@
+{
+  "name": "Perú",
+  "updated_at": "2026-10-13T01:02:31Z",
+  "baseline": {
+    "taken_at": "2026-10-13T01:03:08Z",
+    "ranks": {
+      "582058": 1,
+      "3216208": 2,
+      "9558892": 3,
+      "2366434": 4,
+      "4706179": 5,
+      "5464646": 6,
+      "4229962": 7,
+      "6090060": 8,
+      "12167914": 9,
+      "3244108": 10,
+      "1359694": 11,
+      "633255": 12,
+      "4234652": 13,
+      "4167535": 14,
+      "5655708": 15
+    }
+  },
+  "players": [
+    {
+      "profile_id": 582058,
+      "tag": "Hearttt",
+      "clan": "VIT",
+      "cur_1v1": 2714,
+      "max_1v1": 2978,
+      "cur_tg": 1782,
+      "max_tg": 1782
+    },
+    {
+      "profile_id": 3216208,
+      "tag": "Dimo",
+      "cur_1v1": 2478,
+      "max_1v1": 2558,
+      "cur_tg": 1874,
+      "max_tg": 1935
+    },
+    {
+      "profile_id": 9558892,
+      "tag": "WilliamS",
+      "clan": "LE",
+      "cur_1v1": 2308,
+      "max_1v1": 2423,
+      "cur_tg": 1766,
+      "max_tg": 1846
+    },
+    {
+      "profile_id": 2366434,
+      "tag": "Lelouch",
+      "clan": "CTM",
+      "cur_1v1": 2202,
+      "max_1v1": 2202,
+      "cur_tg": 1696,
+      "max_tg": 1827
+    },
+    {
+      "profile_id": 4706179,
+      "tag": "Rey Enigmaaa",
+      "clan": "CL",
+      "cur_1v1": 2196,
+      "max_1v1": 2223,
+      "cur_tg": 1969,
+      "max_tg": 1971
+    },
+    {
+      "profile_id": 5464646,
+      "tag": "Lil Franco",
+      "clan": "VL",
+      "cur_1v1": 2090,
+      "max_1v1": 2242,
+      "cur_tg": 1865,
+      "max_tg": 1932
+    },
+    {
+      "profile_id": 4229962,
+      "tag": "Réyiman",
+      "clan": "LvSP",
+      "cur_1v1": 2070,
+      "max_1v1": 2070,
+      "cur_tg": 1620,
+      "max_tg": 1719
+    },
+    {
+      "profile_id": 6090060,
+      "tag": "noru",
+      "cur_1v1": 2031,
+      "max_1v1": 2031,
+      "cur_tg": 1723,
+      "max_tg": 1840
+    },
+    {
+      "profile_id": 12167914,
+      "tag": "lorecs",
+      "clan": "CL",
+      "cur_1v1": 2009,
+      "max_1v1": 2016,
+      "cur_tg": 1814,
+      "max_tg": 1992
+    },
+    {
+      "profile_id": 3244108,
+      "tag": "Legendario",
+      "cur_1v1": 2008,
+      "max_1v1": 2174,
+      "cur_tg": 1561,
+      "max_tg": 1834
+    },
+    {
+      "profile_id": 1359694,
+      "tag": "AtilA",
+      "clan": "nW",
+      "cur_1v1": 1988,
+      "max_1v1": 2123,
+      "cur_tg": 1637,
+      "max_tg": 1670
+    },
+    {
+      "profile_id": 633255,
+      "tag": "Tempo",
+      "cur_1v1": 1984,
+      "max_1v1": 2177,
+      "cur_tg": 1679,
+      "max_tg": 1843
+    },
+    {
+      "profile_id": 4234652,
+      "tag": "_The_Oldergold",
+      "cur_1v1": 1911,
+      "max_1v1": 1932,
+      "cur_tg": 1501,
+      "max_tg": 1719
+    },
+    {
+      "profile_id": 4167535,
+      "tag": "Dia franptom",
+      "clan": "LE",
+      "cur_1v1": 1907,
+      "max_1v1": 1995,
+      "cur_tg": 1452,
+      "max_tg": 1581
+    },
+    {
+      "profile_id": 5655708,
+      "tag": "Emaxcito2",
+      "clan": "LE",
+      "cur_1v1": 1905,
+      "max_1v1": 1988,
+      "cur_tg": 1562,
+      "max_tg": 1565
+    }
+  ]
+}

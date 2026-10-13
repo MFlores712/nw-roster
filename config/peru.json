@@ -1,0 +1,31 @@
+{
+  "name": "Perú",
+  "source": "aoe2insights.com",
+  "_clan_prefixes": "Clans some players write into the name itself instead of 'TAG | name'. Matching prefixes are moved into the small clan tag. Names written as '[TAG] Name' are handled automatically.",
+  "clan_prefixes": {
+    "Ux'": "Ux",
+    "Ux´": "Ux",
+    "Oni.": "Oni",
+    "VN_": "VN",
+    "VL ": "VL",
+    "CL_": "CL"
+  },
+  "_players": "Add \"clan\": \"TAG\" to a player to set their clan when it isn't in their name.",
+  "players": [
+    { "id": 582058 },
+    { "id": 3216208 },
+    { "id": 9558892 },
+    { "id": 2366434 },
+    { "id": 4706179 },
+    { "id": 5464646 },
+    { "id": 4229962 },
+    { "id": 6090060 },
+    { "id": 12167914 },
+    { "id": 3244108 },
+    { "id": 1359694 },
+    { "id": 633255 },
+    { "id": 4234652 },
+    { "id": 4167535 },
+    { "id": 5655708 }
+  ]
+}

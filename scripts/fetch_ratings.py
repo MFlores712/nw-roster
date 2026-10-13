@@ -5,7 +5,7 @@ roster in ROSTERS and write docs/data/<roster>.json, sorted by current 1v1 ELO
 descending.
 
 USAGE:
-    python scripts/fetch_ratings.py          # nW every run, México/Colombia on the hourly run
+    python scripts/fetch_ratings.py          # nW every run, country rankings on the hourly run
     python scripts/fetch_ratings.py --all    # update every roster now
 
 NOTE — aoe2insights.com has no public/documented API. This script scrapes
@@ -35,6 +35,7 @@ ROSTERS = [
     {"config": ROOT / "config" / "players.json", "output": ROOT / "docs" / "data" / "roster.json", "hourly": False},
     {"config": ROOT / "config" / "mexico.json", "output": ROOT / "docs" / "data" / "mexico.json", "hourly": True},
     {"config": ROOT / "config" / "colombia.json", "output": ROOT / "docs" / "data" / "colombia.json", "hourly": True},
+    {"config": ROOT / "config" / "peru.json", "output": ROOT / "docs" / "data" / "peru.json", "hourly": True},
 ]
 
 BASE_URL = "https://www.aoe2insights.com/user/{id}/"
