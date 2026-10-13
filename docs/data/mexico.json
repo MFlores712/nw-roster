@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-13T07:00:18Z",
+  "updated_at": "2026-10-13T08:00:15Z",
   "baseline": {
     "taken_at": "2026-10-12T14:00:20Z",
     "ranks": {
@@ -149,7 +149,7 @@
       "clan": "VENÓN",
       "cur_1v1": 2280,
       "max_1v1": 2394,
-      "cur_tg": 1836,
+      "cur_tg": 1852,
       "max_tg": 2099
     },
     {
@@ -209,9 +209,9 @@
       "profile_id": 13138746,
       "tag": "FraKTal",
       "clan": "hK",
-      "cur_1v1": 2149,
-      "max_1v1": 2149,
-      "cur_tg": 1889,
+      "cur_1v1": 2160,
+      "max_1v1": 2160,
+      "cur_tg": 1880,
       "max_tg": 1983
     },
     {
@@ -229,7 +229,7 @@
       "clan": "nW",
       "cur_1v1": 2109,
       "max_1v1": 2152,
-      "cur_tg": 1692,
+      "cur_tg": 1675,
       "max_tg": 1793
     },
     {
@@ -238,7 +238,7 @@
       "clan": "nW",
       "cur_1v1": 2100,
       "max_1v1": 2309,
-      "cur_tg": 1825,
+      "cur_tg": 1803,
       "max_tg": 1854
     },
     {
@@ -259,6 +259,15 @@
       "max_tg": 1962
     },
     {
+      "profile_id": 2850920,
+      "tag": "Chimtzin",
+      "clan": "Ux",
+      "cur_1v1": 2018,
+      "max_1v1": 2124,
+      "cur_tg": 1632,
+      "max_tg": 1820
+    },
+    {
       "profile_id": 6501299,
       "tag": "ShutAzarquay",
       "clan": "nW",
@@ -266,15 +275,6 @@
       "max_1v1": 2011,
       "cur_tg": 1731,
       "max_tg": 1745
-    },
-    {
-      "profile_id": 2850920,
-      "tag": "Chimtzin",
-      "clan": "Ux",
-      "cur_1v1": 2006,
-      "max_1v1": 2124,
-      "cur_tg": 1632,
-      "max_tg": 1820
     },
     {
       "profile_id": 2934597,
