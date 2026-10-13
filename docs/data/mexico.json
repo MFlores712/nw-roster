@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-13T20:00:15Z",
+  "updated_at": "2026-10-13T21:00:19Z",
   "baseline": {
     "taken_at": "2026-10-13T14:00:17Z",
     "ranks": {
@@ -76,7 +76,7 @@
       "profile_id": 13099159,
       "tag": "Uzzi",
       "clan": "Ux",
-      "cur_1v1": 2563,
+      "cur_1v1": 2555,
       "max_1v1": 2629,
       "cur_tg": 1691,
       "max_tg": 1999
@@ -100,6 +100,14 @@
       "max_tg": 2190
     },
     {
+      "profile_id": 4221810,
+      "tag": "Imfury_",
+      "cur_1v1": 2395,
+      "max_1v1": 2427,
+      "cur_tg": 1922,
+      "max_tg": 2104
+    },
+    {
       "profile_id": 310739,
       "tag": "SoyLaHostia",
       "clan": "hK",
@@ -107,14 +115,6 @@
       "max_1v1": 2484,
       "cur_tg": 1772,
       "max_tg": 1959
-    },
-    {
-      "profile_id": 4221810,
-      "tag": "Imfury_",
-      "cur_1v1": 2383,
-      "max_1v1": 2427,
-      "cur_tg": 1922,
-      "max_tg": 2104
     },
     {
       "profile_id": 312774,
@@ -138,7 +138,7 @@
       "profile_id": 2598146,
       "tag": "SiNisTeR",
       "clan": "VENÓN",
-      "cur_1v1": 2295,
+      "cur_1v1": 2296,
       "max_1v1": 2368,
       "cur_tg": 2182,
       "max_tg": 2227
@@ -167,14 +167,14 @@
       "clan": "VN",
       "cur_1v1": 2247,
       "max_1v1": 2285,
-      "cur_tg": 1937,
+      "cur_tg": 1926,
       "max_tg": 2050
     },
     {
       "profile_id": 580573,
       "tag": "Puerco_Negro",
       "clan": "hK",
-      "cur_1v1": 2220,
+      "cur_1v1": 2217,
       "max_1v1": 2350,
       "cur_tg": 1924,
       "max_tg": 1974
@@ -200,7 +200,7 @@
       "profile_id": 917863,
       "tag": "Romell13",
       "clan": "hK",
-      "cur_1v1": 2190,
+      "cur_1v1": 2167,
       "max_1v1": 2233,
       "cur_tg": 1807,
       "max_tg": 1837
@@ -224,6 +224,15 @@
       "max_tg": 1880
     },
     {
+      "profile_id": 12171002,
+      "tag": "iamkaito",
+      "clan": "nW",
+      "cur_1v1": 2112,
+      "max_1v1": 2309,
+      "cur_tg": 1803,
+      "max_tg": 1854
+    },
+    {
       "profile_id": 2876835,
       "tag": "Abejorro",
       "clan": "nW",
@@ -240,15 +249,6 @@
       "max_1v1": 2211,
       "cur_tg": 1815,
       "max_tg": 2034
-    },
-    {
-      "profile_id": 12171002,
-      "tag": "iamkaito",
-      "clan": "nW",
-      "cur_1v1": 2091,
-      "max_1v1": 2309,
-      "cur_tg": 1803,
-      "max_tg": 1854
     },
     {
       "profile_id": 9770338,
@@ -291,7 +291,7 @@
       "clan": "VN",
       "cur_1v1": 1993,
       "max_1v1": 2087,
-      "cur_tg": 1854,
+      "cur_tg": 1850,
       "max_tg": 1997
     },
     {
@@ -377,7 +377,7 @@
       "profile_id": 358501,
       "tag": "El Claut_One",
       "clan": "VENÓN",
-      "cur_1v1": 1874,
+      "cur_1v1": 1893,
       "max_1v1": 2115,
       "cur_tg": 1725,
       "max_tg": 1820
