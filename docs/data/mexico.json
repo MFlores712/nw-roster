@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-13T19:00:13Z",
+  "updated_at": "2026-10-13T20:00:15Z",
   "baseline": {
     "taken_at": "2026-10-13T14:00:17Z",
     "ranks": {
@@ -100,14 +100,6 @@
       "max_tg": 2190
     },
     {
-      "profile_id": 4221810,
-      "tag": "Imfury_",
-      "cur_1v1": 2408,
-      "max_1v1": 2427,
-      "cur_tg": 1922,
-      "max_tg": 2104
-    },
-    {
       "profile_id": 310739,
       "tag": "SoyLaHostia",
       "clan": "hK",
@@ -115,6 +107,14 @@
       "max_1v1": 2484,
       "cur_tg": 1772,
       "max_tg": 1959
+    },
+    {
+      "profile_id": 4221810,
+      "tag": "Imfury_",
+      "cur_1v1": 2383,
+      "max_1v1": 2427,
+      "cur_tg": 1922,
+      "max_tg": 2104
     },
     {
       "profile_id": 312774,
@@ -167,23 +167,14 @@
       "clan": "VN",
       "cur_1v1": 2247,
       "max_1v1": 2285,
-      "cur_tg": 1953,
+      "cur_tg": 1937,
       "max_tg": 2050
-    },
-    {
-      "profile_id": 917863,
-      "tag": "Romell13",
-      "clan": "hK",
-      "cur_1v1": 2210,
-      "max_1v1": 2233,
-      "cur_tg": 1807,
-      "max_tg": 1837
     },
     {
       "profile_id": 580573,
       "tag": "Puerco_Negro",
       "clan": "hK",
-      "cur_1v1": 2205,
+      "cur_1v1": 2220,
       "max_1v1": 2350,
       "cur_tg": 1924,
       "max_tg": 1974
@@ -206,6 +197,15 @@
       "max_tg": 2024
     },
     {
+      "profile_id": 917863,
+      "tag": "Romell13",
+      "clan": "hK",
+      "cur_1v1": 2190,
+      "max_1v1": 2233,
+      "cur_tg": 1807,
+      "max_tg": 1837
+    },
+    {
       "profile_id": 13138746,
       "tag": "FraKTal",
       "clan": "hK",
@@ -218,7 +218,7 @@
       "profile_id": 611972,
       "tag": "NotAdam",
       "clan": "Dark",
-      "cur_1v1": 2132,
+      "cur_1v1": 2152,
       "max_1v1": 2323,
       "cur_tg": 1821,
       "max_tg": 1880
@@ -291,7 +291,7 @@
       "clan": "VN",
       "cur_1v1": 1993,
       "max_1v1": 2087,
-      "cur_tg": 1867,
+      "cur_tg": 1854,
       "max_tg": 1997
     },
     {
@@ -317,7 +317,7 @@
       "clan": "VL",
       "cur_1v1": 1952,
       "max_1v1": 1972,
-      "cur_tg": 1764,
+      "cur_tg": 1774,
       "max_tg": 1824
     },
     {
