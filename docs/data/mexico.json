@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-13T00:00:14Z",
+  "updated_at": "2026-10-13T01:00:14Z",
   "baseline": {
     "taken_at": "2026-10-12T14:00:20Z",
     "ranks": {
@@ -67,7 +67,7 @@
       "clan": "Ux",
       "cur_1v1": 2660,
       "max_1v1": 2685,
-      "cur_tg": 2014,
+      "cur_tg": 1990,
       "max_tg": 2066
     },
     {
@@ -172,7 +172,7 @@
       "profile_id": 580573,
       "tag": "Puerco_Negro",
       "clan": "hK",
-      "cur_1v1": 2239,
+      "cur_1v1": 2218,
       "max_1v1": 2350,
       "cur_tg": 1924,
       "max_tg": 1974
@@ -208,8 +208,8 @@
       "profile_id": 13138746,
       "tag": "FraKTal",
       "clan": "hK",
-      "cur_1v1": 2128,
-      "max_1v1": 2142,
+      "cur_1v1": 2149,
+      "max_1v1": 2149,
       "cur_tg": 1889,
       "max_tg": 1983
     },
@@ -312,15 +312,6 @@
       "max_tg": 1755
     },
     {
-      "profile_id": 358501,
-      "tag": "El Claut_One",
-      "clan": "VENÓN",
-      "cur_1v1": 1934,
-      "max_1v1": 2115,
-      "cur_tg": 1725,
-      "max_tg": 1820
-    },
-    {
       "profile_id": 2969449,
       "tag": "BetoxAOE",
       "clan": "VENÓN",
@@ -355,6 +346,15 @@
       "max_1v1": 1970,
       "cur_tg": 1849,
       "max_tg": 1865
+    },
+    {
+      "profile_id": 358501,
+      "tag": "El Claut_One",
+      "clan": "VENÓN",
+      "cur_1v1": 1912,
+      "max_1v1": 2115,
+      "cur_tg": 1725,
+      "max_tg": 1820
     },
     {
       "profile_id": 324005,
