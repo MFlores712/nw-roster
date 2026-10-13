@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-13T22:00:12Z",
+  "updated_at": "2026-10-13T23:00:15Z",
   "baseline": {
     "taken_at": "2026-10-13T14:00:17Z",
     "ranks": {
@@ -69,7 +69,7 @@
       "clan": "Ux",
       "cur_1v1": 2660,
       "max_1v1": 2685,
-      "cur_tg": 1994,
+      "cur_tg": 1983,
       "max_tg": 2066
     },
     {
@@ -78,7 +78,7 @@
       "clan": "Ux",
       "cur_1v1": 2555,
       "max_1v1": 2629,
-      "cur_tg": 1691,
+      "cur_tg": 1705,
       "max_tg": 1999
     },
     {
@@ -191,28 +191,10 @@
       "profile_id": 580573,
       "tag": "Puerco_Negro",
       "clan": "hK",
-      "cur_1v1": 2182,
+      "cur_1v1": 2178,
       "max_1v1": 2350,
       "cur_tg": 1924,
       "max_tg": 1974
-    },
-    {
-      "profile_id": 917863,
-      "tag": "Romell13",
-      "clan": "hK",
-      "cur_1v1": 2167,
-      "max_1v1": 2233,
-      "cur_tg": 1807,
-      "max_tg": 1837
-    },
-    {
-      "profile_id": 13138746,
-      "tag": "FraKTal",
-      "clan": "hK",
-      "cur_1v1": 2160,
-      "max_1v1": 2160,
-      "cur_tg": 1894,
-      "max_tg": 1983
     },
     {
       "profile_id": 611972,
@@ -222,6 +204,24 @@
       "max_1v1": 2323,
       "cur_tg": 1821,
       "max_tg": 1880
+    },
+    {
+      "profile_id": 917863,
+      "tag": "Romell13",
+      "clan": "hK",
+      "cur_1v1": 2147,
+      "max_1v1": 2233,
+      "cur_tg": 1807,
+      "max_tg": 1837
+    },
+    {
+      "profile_id": 13138746,
+      "tag": "FraKTal",
+      "clan": "hK",
+      "cur_1v1": 2141,
+      "max_1v1": 2160,
+      "cur_tg": 1894,
+      "max_tg": 1983
     },
     {
       "profile_id": 12171002,
