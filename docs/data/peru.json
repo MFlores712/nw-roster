@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-13T01:02:31Z",
+  "updated_at": "2026-10-13T01:05:47Z",
   "baseline": {
     "taken_at": "2026-10-13T01:03:08Z",
     "ranks": {
@@ -49,6 +49,24 @@
       "max_tg": 1846
     },
     {
+      "profile_id": 4576272,
+      "tag": "el castigador",
+      "clan": "CL",
+      "cur_1v1": 2255,
+      "max_1v1": 2281,
+      "cur_tg": 1795,
+      "max_tg": 2033
+    },
+    {
+      "profile_id": 5251865,
+      "tag": "Pain",
+      "clan": "CL",
+      "cur_1v1": 2213,
+      "max_1v1": 2264,
+      "cur_tg": 1940,
+      "max_tg": 1964
+    },
+    {
       "profile_id": 2366434,
       "tag": "Lelouch",
       "clan": "CTM",
@@ -56,6 +74,15 @@
       "max_1v1": 2202,
       "cur_tg": 1696,
       "max_tg": 1827
+    },
+    {
+      "profile_id": 4043123,
+      "tag": "FelipeBesitosRicos",
+      "clan": "CL",
+      "cur_1v1": 2200,
+      "max_1v1": 2242,
+      "cur_tg": 1838,
+      "max_tg": 2010
     },
     {
       "profile_id": 4706179,
@@ -127,6 +154,15 @@
       "max_tg": 1843
     },
     {
+      "profile_id": 482758,
+      "tag": "Inkisidor_",
+      "clan": "CL",
+      "cur_1v1": 1980,
+      "max_1v1": 2026,
+      "cur_tg": 1789,
+      "max_tg": 1879
+    },
+    {
       "profile_id": 4234652,
       "tag": "_The_Oldergold",
       "cur_1v1": 1911,
@@ -151,6 +187,15 @@
       "max_1v1": 1988,
       "cur_tg": 1562,
       "max_tg": 1565
+    },
+    {
+      "profile_id": 3034651,
+      "tag": "KinG-Viza",
+      "clan": "Bz",
+      "cur_1v1": 1897,
+      "max_1v1": 2035,
+      "cur_tg": 1602,
+      "max_tg": 1657
     }
   ]
 }
