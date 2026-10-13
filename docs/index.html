@@ -20,6 +20,7 @@
   --muted: #7c8bab;
   --move-up: #6aa877;
   --move-down: #c06a5e;
+  --nw-teal: 74, 176, 172;  /* rgb parts, for the nW-member row tint */
 }
 * { margin: 0; padding: 0; box-sizing: border-box; }
 body {
@@ -79,6 +80,10 @@ body {
 .row { padding: 16px 10px; position: relative; color: inherit; text-decoration: none; cursor: pointer; transition: background .15s; }
 .row:hover { background: rgba(201,167,95,0.07); }
 .row:focus-visible { outline: 2px solid var(--gold-bright); outline-offset: -2px; }
+/* nW members on the country tabs: teal tint */
+.row.nw-member { background: rgba(var(--nw-teal), 0.13); }
+.row.nw-member:hover { background: rgba(var(--nw-teal), 0.2); }
+.row.nw-member .clan { color: rgb(var(--nw-teal)); }
 .row:not(:last-child)::after {
   content: ""; position: absolute; bottom: 0; left: 6%; right: 6%; height: 1px;
   background: linear-gradient(90deg, transparent, rgba(201,167,95,0.55), transparent);
@@ -381,10 +386,15 @@ function render(data, lastCheck) {
   const rowsEl = document.getElementById('rows');
   rowsEl.innerHTML = '';
 
-  data.players.forEach((p, i) => {
+  // Country rankings list more players than they show (show_top); the rest
+  // are still tracked so they can climb in
+  const shown = data.show_top ? data.players.slice(0, data.show_top) : data.players;
+  shown.forEach((p, i) => {
     // Each row links to the player's aoe2insights profile
     const row = document.createElement('a');
     row.className = 'row';
+    // Highlight our own clan on the country rankings (every row on the nW tab is nW)
+    if (currentTab !== 'nw' && p.clan === 'nW') row.classList.add('nw-member');
     row.href = `https://www.aoe2insights.com/user/${encodeURIComponent(p.profile_id)}/`;
     row.target = '_blank';
     row.rel = 'noopener';

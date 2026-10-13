@@ -1,5 +1,7 @@
 {
   "name": "México",
+  "_show_top": "Only the best N players (by current 1v1) are shown; everyone listed is still checked, so others can climb in.",
+  "show_top": 35,
   "source": "aoe2insights.com",
   "_clan_prefixes": "Clans some players write into the name itself instead of 'TAG | name'. Matching prefixes are moved into the small clan tag.",
   "clan_prefixes": {

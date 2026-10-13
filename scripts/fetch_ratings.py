@@ -228,9 +228,14 @@ def update_roster(roster: dict, now: datetime) -> bool:
     # Only rewrite when something changed. updated_at would otherwise differ on
     # every run, forcing a commit + Pages rebuild each time the cron fires.
     # The daily baseline rollover counts as a change (one commit a day).
+    # show_top: the page shows only the best N, but every listed player stays
+    # in the file (and in the rank snapshot) so anyone can climb into the top N
+    # and their arrow reflects their real previous position.
+    show_top = config.get("show_top")
     if (results == prev_output.get("players")
             and baseline == prev_output.get("baseline")
-            and name == prev_output.get("name")):
+            and name == prev_output.get("name")
+            and show_top == prev_output.get("show_top")):
         print(f"No rating changes — leaving {out_path.name} untouched")
     else:
         output = {
@@ -239,6 +244,8 @@ def update_roster(roster: dict, now: datetime) -> bool:
             "baseline": baseline,
             "players": results,
         }
+        if show_top:
+            output["show_top"] = show_top
         out_path.parent.mkdir(parents=True, exist_ok=True)
         out_path.write_text(json.dumps(output, indent=2, ensure_ascii=False), encoding="utf-8")
         print(f"Wrote {out_path}")
