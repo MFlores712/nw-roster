@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-13T05:00:12Z",
+  "updated_at": "2026-10-13T06:00:14Z",
   "baseline": {
     "taken_at": "2026-10-12T14:00:20Z",
     "ranks": {
@@ -69,7 +69,7 @@
       "clan": "Ux",
       "cur_1v1": 2660,
       "max_1v1": 2685,
-      "cur_tg": 1968,
+      "cur_tg": 1977,
       "max_tg": 2066
     },
     {
@@ -78,7 +78,7 @@
       "clan": "Ux",
       "cur_1v1": 2563,
       "max_1v1": 2629,
-      "cur_tg": 1677,
+      "cur_tg": 1702,
       "max_tg": 1999
     },
     {
@@ -113,7 +113,7 @@
       "tag": "Imfury_",
       "cur_1v1": 2427,
       "max_1v1": 2427,
-      "cur_tg": 1926,
+      "cur_tg": 1933,
       "max_tg": 2104
     },
     {
@@ -149,7 +149,7 @@
       "clan": "VENÓN",
       "cur_1v1": 2280,
       "max_1v1": 2394,
-      "cur_tg": 1854,
+      "cur_tg": 1843,
       "max_tg": 2099
     },
     {
@@ -176,7 +176,7 @@
       "clan": "hK",
       "cur_1v1": 2210,
       "max_1v1": 2233,
-      "cur_tg": 1779,
+      "cur_tg": 1790,
       "max_tg": 1837
     },
     {
@@ -193,7 +193,7 @@
       "tag": "HGB",
       "cur_1v1": 2203,
       "max_1v1": 2317,
-      "cur_tg": 1918,
+      "cur_tg": 1936,
       "max_tg": 2083
     },
     {
@@ -229,7 +229,7 @@
       "clan": "nW",
       "cur_1v1": 2109,
       "max_1v1": 2152,
-      "cur_tg": 1666,
+      "cur_tg": 1686,
       "max_tg": 1793
     },
     {
@@ -238,7 +238,7 @@
       "clan": "nW",
       "cur_1v1": 2100,
       "max_1v1": 2309,
-      "cur_tg": 1824,
+      "cur_tg": 1837,
       "max_tg": 1854
     },
     {
@@ -255,14 +255,14 @@
       "tag": "Zoschenko",
       "cur_1v1": 2020,
       "max_1v1": 2020,
-      "cur_tg": 1812,
+      "cur_tg": 1794,
       "max_tg": 1962
     },
     {
       "profile_id": 2850920,
       "tag": "Chimtzin",
       "clan": "Ux",
-      "cur_1v1": 2016,
+      "cur_1v1": 2014,
       "max_1v1": 2124,
       "cur_tg": 1632,
       "max_tg": 1820
