@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-13T14:00:17Z",
+  "updated_at": "2026-10-13T15:00:17Z",
   "baseline": {
     "taken_at": "2026-10-13T14:00:17Z",
     "ranks": {
@@ -39,7 +39,7 @@
       "profile_id": 6838238,
       "tag": "AngelR",
       "clan": "NuMa",
-      "cur_1v1": 2313,
+      "cur_1v1": 2304,
       "max_1v1": 2339,
       "cur_tg": 1788,
       "max_tg": 1828
