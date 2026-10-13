@@ -1,7 +1,7 @@
 {
   "name": "Perú",
   "_show_top": "Only the best N players (by current 1v1) are shown; everyone listed is still checked, so others can climb in.",
-  "show_top": 20,
+  "show_top": 15,
   "source": "aoe2insights.com",
   "_clan_prefixes": "Clans some players write into the name itself instead of 'TAG | name'. Matching prefixes are moved into the small clan tag. Names written as '[TAG] Name' are handled automatically.",
   "clan_prefixes": {
@@ -29,10 +29,6 @@
     { "id": 4234652 },
     { "id": 4167535 },
     { "id": 5655708 },
-    { "id": 4576272 },
-    { "id": 4043123 },
-    { "id": 5251865 },
-    { "id": 482758 },
     { "id": 3034651 },
     { "id": 1865687 }
   ]
