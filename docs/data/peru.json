@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-13T03:00:15Z",
+  "updated_at": "2026-10-13T05:00:12Z",
   "baseline": {
     "taken_at": "2026-10-13T01:22:42Z",
     "ranks": {
@@ -91,7 +91,7 @@
       "tag": "noru",
       "cur_1v1": 2031,
       "max_1v1": 2031,
-      "cur_tg": 1723,
+      "cur_tg": 1737,
       "max_tg": 1840
     },
     {

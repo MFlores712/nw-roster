@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-13T04:15:51Z",
+  "updated_at": "2026-10-13T05:00:12Z",
   "baseline": {
     "taken_at": "2026-10-12T14:00:20Z",
     "ranks": {
@@ -60,7 +60,7 @@
       "clan": "Ux",
       "cur_1v1": 2701,
       "max_1v1": 2743,
-      "cur_tg": 1655,
+      "cur_tg": 1673,
       "max_tg": 1885
     },
     {
@@ -69,7 +69,7 @@
       "clan": "Ux",
       "cur_1v1": 2660,
       "max_1v1": 2685,
-      "cur_tg": 1975,
+      "cur_tg": 1968,
       "max_tg": 2066
     },
     {
@@ -78,7 +78,7 @@
       "clan": "Ux",
       "cur_1v1": 2563,
       "max_1v1": 2629,
-      "cur_tg": 1660,
+      "cur_tg": 1677,
       "max_tg": 1999
     },
     {
@@ -113,7 +113,7 @@
       "tag": "Imfury_",
       "cur_1v1": 2427,
       "max_1v1": 2427,
-      "cur_tg": 1939,
+      "cur_tg": 1926,
       "max_tg": 2104
     },
     {
@@ -176,7 +176,7 @@
       "clan": "hK",
       "cur_1v1": 2210,
       "max_1v1": 2233,
-      "cur_tg": 1781,
+      "cur_tg": 1779,
       "max_tg": 1837
     },
     {
@@ -193,7 +193,7 @@
       "tag": "HGB",
       "cur_1v1": 2203,
       "max_1v1": 2317,
-      "cur_tg": 1931,
+      "cur_tg": 1918,
       "max_tg": 2083
     },
     {
@@ -218,7 +218,7 @@
       "profile_id": 611972,
       "tag": "NotAdam",
       "clan": "Dark",
-      "cur_1v1": 2134,
+      "cur_1v1": 2132,
       "max_1v1": 2323,
       "cur_tg": 1799,
       "max_tg": 1880
@@ -229,7 +229,7 @@
       "clan": "nW",
       "cur_1v1": 2109,
       "max_1v1": 2152,
-      "cur_tg": 1662,
+      "cur_tg": 1666,
       "max_tg": 1793
     },
     {
@@ -238,7 +238,7 @@
       "clan": "nW",
       "cur_1v1": 2100,
       "max_1v1": 2309,
-      "cur_tg": 1830,
+      "cur_tg": 1824,
       "max_tg": 1854
     },
     {
@@ -251,21 +251,21 @@
       "max_tg": 2034
     },
     {
-      "profile_id": 2850920,
-      "tag": "Chimtzin",
-      "clan": "Ux",
-      "cur_1v1": 2039,
-      "max_1v1": 2124,
-      "cur_tg": 1632,
-      "max_tg": 1820
-    },
-    {
       "profile_id": 9770338,
       "tag": "Zoschenko",
       "cur_1v1": 2020,
       "max_1v1": 2020,
       "cur_tg": 1812,
       "max_tg": 1962
+    },
+    {
+      "profile_id": 2850920,
+      "tag": "Chimtzin",
+      "clan": "Ux",
+      "cur_1v1": 2016,
+      "max_1v1": 2124,
+      "cur_tg": 1632,
+      "max_tg": 1820
     },
     {
       "profile_id": 6501299,
