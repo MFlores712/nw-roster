@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-13T06:00:14Z",
+  "updated_at": "2026-10-13T07:00:18Z",
   "baseline": {
     "taken_at": "2026-10-12T14:00:20Z",
     "ranks": {
@@ -113,7 +113,7 @@
       "tag": "Imfury_",
       "cur_1v1": 2427,
       "max_1v1": 2427,
-      "cur_tg": 1933,
+      "cur_tg": 1922,
       "max_tg": 2104
     },
     {
@@ -149,7 +149,7 @@
       "clan": "VENÓN",
       "cur_1v1": 2280,
       "max_1v1": 2394,
-      "cur_tg": 1843,
+      "cur_tg": 1836,
       "max_tg": 2099
     },
     {
@@ -176,7 +176,7 @@
       "clan": "hK",
       "cur_1v1": 2210,
       "max_1v1": 2233,
-      "cur_tg": 1790,
+      "cur_tg": 1807,
       "max_tg": 1837
     },
     {
@@ -193,7 +193,7 @@
       "tag": "HGB",
       "cur_1v1": 2203,
       "max_1v1": 2317,
-      "cur_tg": 1936,
+      "cur_tg": 1914,
       "max_tg": 2083
     },
     {
@@ -220,7 +220,7 @@
       "clan": "Dark",
       "cur_1v1": 2132,
       "max_1v1": 2323,
-      "cur_tg": 1799,
+      "cur_tg": 1821,
       "max_tg": 1880
     },
     {
@@ -229,7 +229,7 @@
       "clan": "nW",
       "cur_1v1": 2109,
       "max_1v1": 2152,
-      "cur_tg": 1686,
+      "cur_tg": 1692,
       "max_tg": 1793
     },
     {
@@ -238,7 +238,7 @@
       "clan": "nW",
       "cur_1v1": 2100,
       "max_1v1": 2309,
-      "cur_tg": 1837,
+      "cur_tg": 1825,
       "max_tg": 1854
     },
     {
@@ -255,17 +255,8 @@
       "tag": "Zoschenko",
       "cur_1v1": 2020,
       "max_1v1": 2020,
-      "cur_tg": 1794,
+      "cur_tg": 1777,
       "max_tg": 1962
-    },
-    {
-      "profile_id": 2850920,
-      "tag": "Chimtzin",
-      "clan": "Ux",
-      "cur_1v1": 2014,
-      "max_1v1": 2124,
-      "cur_tg": 1632,
-      "max_tg": 1820
     },
     {
       "profile_id": 6501299,
@@ -275,6 +266,15 @@
       "max_1v1": 2011,
       "cur_tg": 1731,
       "max_tg": 1745
+    },
+    {
+      "profile_id": 2850920,
+      "tag": "Chimtzin",
+      "clan": "Ux",
+      "cur_1v1": 2006,
+      "max_1v1": 2124,
+      "cur_tg": 1632,
+      "max_tg": 1820
     },
     {
       "profile_id": 2934597,

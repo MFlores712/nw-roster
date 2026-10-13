@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-13T06:00:14Z",
+  "updated_at": "2026-10-13T07:00:18Z",
   "baseline": {
     "taken_at": "2026-10-12T14:23:20Z",
     "ranks": {
@@ -32,7 +32,7 @@
       "clan": "nW",
       "cur_1v1": 2410,
       "max_1v1": 2410,
-      "cur_tg": 1861,
+      "cur_tg": 1846,
       "max_tg": 1882
     },
     {
