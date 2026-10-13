@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-13T01:19:37Z",
+  "updated_at": "2026-10-13T02:00:15Z",
   "baseline": {
     "taken_at": "2026-10-12T14:23:20Z",
     "ranks": {
@@ -70,22 +70,22 @@
       "max_tg": 1710
     },
     {
-      "profile_id": 1743420,
-      "tag": "OliverAtom",
-      "clan": "NuMa",
-      "cur_1v1": 1978,
-      "max_1v1": 2193,
-      "cur_tg": 1682,
-      "max_tg": 1772
-    },
-    {
       "profile_id": 2955846,
       "tag": "KauTrEnS",
       "clan": "FMG",
       "cur_1v1": 1971,
       "max_1v1": 2054,
-      "cur_tg": 1634,
+      "cur_tg": 1646,
       "max_tg": 1759
+    },
+    {
+      "profile_id": 1743420,
+      "tag": "OliverAtom",
+      "clan": "NuMa",
+      "cur_1v1": 1968,
+      "max_1v1": 2193,
+      "cur_tg": 1682,
+      "max_tg": 1772
     },
     {
       "profile_id": 1062980,
