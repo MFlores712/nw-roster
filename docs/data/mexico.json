@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-12T23:00:13Z",
+  "updated_at": "2026-10-13T00:00:14Z",
   "baseline": {
     "taken_at": "2026-10-12T14:00:20Z",
     "ranks": {
@@ -47,7 +47,7 @@
       "profile_id": 2776293,
       "tag": "Kingstone",
       "clan": "Oni",
-      "cur_1v1": 2739,
+      "cur_1v1": 2713,
       "max_1v1": 2867,
       "cur_tg": 2152,
       "max_tg": 2169
@@ -56,7 +56,7 @@
       "profile_id": 5984120,
       "tag": "Combito",
       "clan": "Ux",
-      "cur_1v1": 2700,
+      "cur_1v1": 2701,
       "max_1v1": 2743,
       "cur_tg": 1655,
       "max_tg": 1885
@@ -109,7 +109,7 @@
       "profile_id": 310739,
       "tag": "SoyLaHostia",
       "clan": "hK",
-      "cur_1v1": 2412,
+      "cur_1v1": 2440,
       "max_1v1": 2484,
       "cur_tg": 1847,
       "max_tg": 1959
@@ -142,15 +142,6 @@
       "max_tg": 2227
     },
     {
-      "profile_id": 580573,
-      "tag": "Puerco_Negro",
-      "clan": "hK",
-      "cur_1v1": 2279,
-      "max_1v1": 2350,
-      "cur_tg": 1924,
-      "max_tg": 1974
-    },
-    {
       "profile_id": 1485562,
       "tag": "MrOsoVC8",
       "clan": "VENÓN",
@@ -172,10 +163,19 @@
       "profile_id": 757886,
       "tag": "DarK_KnighT_",
       "clan": "VN",
-      "cur_1v1": 2232,
+      "cur_1v1": 2247,
       "max_1v1": 2285,
       "cur_tg": 1974,
       "max_tg": 2050
+    },
+    {
+      "profile_id": 580573,
+      "tag": "Puerco_Negro",
+      "clan": "hK",
+      "cur_1v1": 2239,
+      "max_1v1": 2350,
+      "cur_tg": 1924,
+      "max_tg": 1974
     },
     {
       "profile_id": 914665,
@@ -205,6 +205,15 @@
       "max_tg": 1880
     },
     {
+      "profile_id": 13138746,
+      "tag": "FraKTal",
+      "clan": "hK",
+      "cur_1v1": 2128,
+      "max_1v1": 2142,
+      "cur_tg": 1889,
+      "max_tg": 1983
+    },
+    {
       "profile_id": 12171002,
       "tag": "iamkaito",
       "clan": "nW",
@@ -212,15 +221,6 @@
       "max_1v1": 2309,
       "cur_tg": 1830,
       "max_tg": 1854
-    },
-    {
-      "profile_id": 13138746,
-      "tag": "FraKTal",
-      "clan": "hK",
-      "cur_1v1": 2112,
-      "max_1v1": 2142,
-      "cur_tg": 1889,
-      "max_tg": 1983
     },
     {
       "profile_id": 2876835,
