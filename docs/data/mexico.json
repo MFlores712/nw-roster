@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-14T00:00:13Z",
+  "updated_at": "2026-10-14T01:00:13Z",
   "baseline": {
     "taken_at": "2026-10-13T14:00:17Z",
     "ranks": {
@@ -58,7 +58,7 @@
       "profile_id": 5984120,
       "tag": "Combito",
       "clan": "Ux",
-      "cur_1v1": 2693,
+      "cur_1v1": 2687,
       "max_1v1": 2743,
       "cur_tg": 1673,
       "max_tg": 1885
@@ -102,7 +102,7 @@
     {
       "profile_id": 4221810,
       "tag": "Imfury_",
-      "cur_1v1": 2410,
+      "cur_1v1": 2415,
       "max_1v1": 2427,
       "cur_tg": 1922,
       "max_tg": 2104
@@ -215,12 +215,21 @@
       "max_tg": 1837
     },
     {
+      "profile_id": 12171002,
+      "tag": "iamkaito",
+      "clan": "nW",
+      "cur_1v1": 2121,
+      "max_1v1": 2309,
+      "cur_tg": 1803,
+      "max_tg": 1854
+    },
+    {
       "profile_id": 13138746,
       "tag": "FraKTal",
       "clan": "hK",
       "cur_1v1": 2121,
       "max_1v1": 2160,
-      "cur_tg": 1894,
+      "cur_tg": 1874,
       "max_tg": 1983
     },
     {
@@ -231,15 +240,6 @@
       "max_1v1": 2152,
       "cur_tg": 1675,
       "max_tg": 1793
-    },
-    {
-      "profile_id": 12171002,
-      "tag": "iamkaito",
-      "clan": "nW",
-      "cur_1v1": 2099,
-      "max_1v1": 2309,
-      "cur_tg": 1803,
-      "max_tg": 1854
     },
     {
       "profile_id": 1947348,
@@ -277,6 +277,15 @@
       "max_tg": 1745
     },
     {
+      "profile_id": 1249720,
+      "tag": "Baldeitus",
+      "clan": "VN",
+      "cur_1v1": 2000,
+      "max_1v1": 2087,
+      "cur_tg": 1850,
+      "max_tg": 1997
+    },
+    {
       "profile_id": 2934597,
       "tag": "Sgt.Pepper",
       "clan": "nW",
@@ -286,13 +295,12 @@
       "max_tg": 1735
     },
     {
-      "profile_id": 1249720,
-      "tag": "Baldeitus",
-      "clan": "VN",
-      "cur_1v1": 1993,
-      "max_1v1": 2087,
-      "cur_tg": 1850,
-      "max_tg": 1997
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1980,
+      "max_1v1": 2003,
+      "cur_tg": 1357,
+      "max_tg": 1390
     },
     {
       "profile_id": 13215279,
@@ -304,20 +312,12 @@
       "max_tg": 1860
     },
     {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1968,
-      "max_1v1": 2003,
-      "cur_tg": 1357,
-      "max_tg": 1390
-    },
-    {
       "profile_id": 2986966,
       "tag": "JPGP",
       "clan": "VL",
       "cur_1v1": 1952,
       "max_1v1": 1972,
-      "cur_tg": 1733,
+      "cur_tg": 1724,
       "max_tg": 1824
     },
     {
@@ -326,7 +326,7 @@
       "clan": "SotC",
       "cur_1v1": 1946,
       "max_1v1": 2039,
-      "cur_tg": 1776,
+      "cur_tg": 1750,
       "max_tg": 1888
     },
     {
@@ -352,7 +352,7 @@
       "clan": "KH",
       "cur_1v1": 1925,
       "max_1v1": 2060,
-      "cur_tg": 1677,
+      "cur_tg": 1669,
       "max_tg": 1788
     },
     {
@@ -361,7 +361,7 @@
       "clan": "VL",
       "cur_1v1": 1916,
       "max_1v1": 1970,
-      "cur_tg": 1849,
+      "cur_tg": 1847,
       "max_tg": 1865
     },
     {
