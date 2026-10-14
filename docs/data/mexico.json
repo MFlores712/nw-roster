@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-13T23:04:54Z",
+  "updated_at": "2026-10-14T00:00:13Z",
   "baseline": {
     "taken_at": "2026-10-13T14:00:17Z",
     "ranks": {
@@ -58,7 +58,7 @@
       "profile_id": 5984120,
       "tag": "Combito",
       "clan": "Ux",
-      "cur_1v1": 2701,
+      "cur_1v1": 2693,
       "max_1v1": 2743,
       "cur_tg": 1673,
       "max_tg": 1885
@@ -69,7 +69,7 @@
       "clan": "Ux",
       "cur_1v1": 2660,
       "max_1v1": 2685,
-      "cur_tg": 1983,
+      "cur_tg": 2006,
       "max_tg": 2066
     },
     {
@@ -218,19 +218,10 @@
       "profile_id": 13138746,
       "tag": "FraKTal",
       "clan": "hK",
-      "cur_1v1": 2141,
+      "cur_1v1": 2121,
       "max_1v1": 2160,
       "cur_tg": 1894,
       "max_tg": 1983
-    },
-    {
-      "profile_id": 12171002,
-      "tag": "iamkaito",
-      "clan": "nW",
-      "cur_1v1": 2122,
-      "max_1v1": 2309,
-      "cur_tg": 1803,
-      "max_tg": 1854
     },
     {
       "profile_id": 2876835,
@@ -240,6 +231,15 @@
       "max_1v1": 2152,
       "cur_tg": 1675,
       "max_tg": 1793
+    },
+    {
+      "profile_id": 12171002,
+      "tag": "iamkaito",
+      "clan": "nW",
+      "cur_1v1": 2099,
+      "max_1v1": 2309,
+      "cur_tg": 1803,
+      "max_tg": 1854
     },
     {
       "profile_id": 1947348,
@@ -295,14 +295,6 @@
       "max_tg": 1997
     },
     {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1988,
-      "max_1v1": 2003,
-      "cur_tg": 1357,
-      "max_tg": 1390
-    },
-    {
       "profile_id": 13215279,
       "tag": "GO1_mx",
       "clan": "MZTK",
@@ -312,12 +304,20 @@
       "max_tg": 1860
     },
     {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1968,
+      "max_1v1": 2003,
+      "cur_tg": 1357,
+      "max_tg": 1390
+    },
+    {
       "profile_id": 2986966,
       "tag": "JPGP",
       "clan": "VL",
       "cur_1v1": 1952,
       "max_1v1": 1972,
-      "cur_tg": 1762,
+      "cur_tg": 1733,
       "max_tg": 1824
     },
     {
