@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-14T17:00:16Z",
+  "updated_at": "2026-10-14T18:00:15Z",
   "baseline": {
     "taken_at": "2026-10-14T14:00:14Z",
     "ranks": {
@@ -78,7 +78,7 @@
       "clan": "Ux",
       "cur_1v1": 2567,
       "max_1v1": 2629,
-      "cur_tg": 1734,
+      "cur_tg": 1714,
       "max_tg": 1999
     },
     {
@@ -167,7 +167,7 @@
       "clan": "VN",
       "cur_1v1": 2247,
       "max_1v1": 2285,
-      "cur_tg": 1926,
+      "cur_tg": 1933,
       "max_tg": 2050
     },
     {
@@ -218,7 +218,7 @@
       "profile_id": 13138746,
       "tag": "FraKTal",
       "clan": "hK",
-      "cur_1v1": 2137,
+      "cur_1v1": 2113,
       "max_1v1": 2160,
       "cur_tg": 1837,
       "max_tg": 1983
@@ -260,6 +260,15 @@
       "max_tg": 1735
     },
     {
+      "profile_id": 1249720,
+      "tag": "Baldeitus",
+      "clan": "VN",
+      "cur_1v1": 2027,
+      "max_1v1": 2087,
+      "cur_tg": 1860,
+      "max_tg": 1997
+    },
+    {
       "profile_id": 9770338,
       "tag": "Zoschenko",
       "cur_1v1": 2020,
@@ -275,15 +284,6 @@
       "max_1v1": 2124,
       "cur_tg": 1632,
       "max_tg": 1820
-    },
-    {
-      "profile_id": 1249720,
-      "tag": "Baldeitus",
-      "clan": "VN",
-      "cur_1v1": 2015,
-      "max_1v1": 2087,
-      "cur_tg": 1850,
-      "max_tg": 1997
     },
     {
       "profile_id": 6501299,
