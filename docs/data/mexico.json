@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-14T22:00:15Z",
+  "updated_at": "2026-10-14T23:00:15Z",
   "baseline": {
     "taken_at": "2026-10-14T14:00:14Z",
     "ranks": {
@@ -46,19 +46,10 @@
   },
   "players": [
     {
-      "profile_id": 5984120,
-      "tag": "Combito",
-      "clan": "Ux",
-      "cur_1v1": 2701,
-      "max_1v1": 2743,
-      "cur_tg": 1673,
-      "max_tg": 1885
-    },
-    {
       "profile_id": 2776293,
       "tag": "Kingstone",
       "clan": "Oni",
-      "cur_1v1": 2678,
+      "cur_1v1": 2680,
       "max_1v1": 2867,
       "cur_tg": 2152,
       "max_tg": 2169
@@ -69,8 +60,17 @@
       "clan": "Ux",
       "cur_1v1": 2660,
       "max_1v1": 2685,
-      "cur_tg": 2020,
+      "cur_tg": 2029,
       "max_tg": 2066
+    },
+    {
+      "profile_id": 5984120,
+      "tag": "Combito",
+      "clan": "Ux",
+      "cur_1v1": 2659,
+      "max_1v1": 2743,
+      "cur_tg": 1673,
+      "max_tg": 1885
     },
     {
       "profile_id": 13099159,
@@ -191,7 +191,7 @@
       "profile_id": 580573,
       "tag": "Puerco_Negro",
       "clan": "hK",
-      "cur_1v1": 2170,
+      "cur_1v1": 2177,
       "max_1v1": 2350,
       "cur_tg": 1924,
       "max_tg": 1974
@@ -209,8 +209,8 @@
       "profile_id": 13138746,
       "tag": "FraKTal",
       "clan": "hK",
-      "cur_1v1": 2153,
-      "max_1v1": 2160,
+      "cur_1v1": 2162,
+      "max_1v1": 2162,
       "cur_tg": 1837,
       "max_tg": 1983
     },
@@ -233,15 +233,6 @@
       "max_tg": 1793
     },
     {
-      "profile_id": 12171002,
-      "tag": "iamkaito",
-      "clan": "nW",
-      "cur_1v1": 2108,
-      "max_1v1": 2309,
-      "cur_tg": 1817,
-      "max_tg": 1854
-    },
-    {
       "profile_id": 1947348,
       "tag": "themariach1",
       "clan": "nW",
@@ -249,6 +240,15 @@
       "max_1v1": 2211,
       "cur_tg": 1818,
       "max_tg": 2034
+    },
+    {
+      "profile_id": 12171002,
+      "tag": "iamkaito",
+      "clan": "nW",
+      "cur_1v1": 2091,
+      "max_1v1": 2309,
+      "cur_tg": 1817,
+      "max_tg": 1854
     },
     {
       "profile_id": 2934597,
@@ -295,6 +295,15 @@
       "max_tg": 1745
     },
     {
+      "profile_id": 2926018,
+      "tag": "PerezPodrido",
+      "clan": "SotC",
+      "cur_1v1": 1961,
+      "max_1v1": 2039,
+      "cur_tg": 1724,
+      "max_tg": 1888
+    },
+    {
       "profile_id": 2986966,
       "tag": "JPGP",
       "clan": "VL",
@@ -313,21 +322,20 @@
       "max_tg": 1860
     },
     {
-      "profile_id": 2926018,
-      "tag": "PerezPodrido",
-      "clan": "SotC",
-      "cur_1v1": 1946,
-      "max_1v1": 2039,
-      "cur_tg": 1759,
-      "max_tg": 1888
-    },
-    {
       "profile_id": 467847,
       "tag": "DoN.Vergas",
       "cur_1v1": 1940,
       "max_1v1": 2078,
       "cur_tg": 1648,
       "max_tg": 1755
+    },
+    {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1938,
+      "max_1v1": 2003,
+      "cur_tg": 1412,
+      "max_tg": 1412
     },
     {
       "profile_id": 2969449,
@@ -346,14 +354,6 @@
       "max_1v1": 2060,
       "cur_tg": 1669,
       "max_tg": 1788
-    },
-    {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1920,
-      "max_1v1": 2003,
-      "cur_tg": 1412,
-      "max_tg": 1412
     },
     {
       "profile_id": 278380,
