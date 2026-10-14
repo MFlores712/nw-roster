@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-14T16:00:15Z",
+  "updated_at": "2026-10-14T17:00:16Z",
   "baseline": {
     "taken_at": "2026-10-14T14:00:14Z",
     "ranks": {
@@ -76,7 +76,7 @@
       "profile_id": 13099159,
       "tag": "Uzzi",
       "clan": "Ux",
-      "cur_1v1": 2561,
+      "cur_1v1": 2567,
       "max_1v1": 2629,
       "cur_tg": 1734,
       "max_tg": 1999
@@ -102,7 +102,7 @@
     {
       "profile_id": 4221810,
       "tag": "Imfury_",
-      "cur_1v1": 2398,
+      "cur_1v1": 2409,
       "max_1v1": 2427,
       "cur_tg": 1946,
       "max_tg": 2104
@@ -111,7 +111,7 @@
       "profile_id": 310739,
       "tag": "SoyLaHostia",
       "clan": "hK",
-      "cur_1v1": 2376,
+      "cur_1v1": 2385,
       "max_1v1": 2484,
       "cur_tg": 1781,
       "max_tg": 1959
@@ -224,15 +224,6 @@
       "max_tg": 1983
     },
     {
-      "profile_id": 12171002,
-      "tag": "iamkaito",
-      "clan": "nW",
-      "cur_1v1": 2121,
-      "max_1v1": 2309,
-      "cur_tg": 1817,
-      "max_tg": 1854
-    },
-    {
       "profile_id": 2876835,
       "tag": "Abejorro",
       "clan": "nW",
@@ -240,6 +231,15 @@
       "max_1v1": 2152,
       "cur_tg": 1675,
       "max_tg": 1793
+    },
+    {
+      "profile_id": 12171002,
+      "tag": "iamkaito",
+      "clan": "nW",
+      "cur_1v1": 2108,
+      "max_1v1": 2309,
+      "cur_tg": 1817,
+      "max_tg": 1854
     },
     {
       "profile_id": 1947348,
