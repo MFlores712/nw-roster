@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-14T02:00:14Z",
+  "updated_at": "2026-10-14T03:00:13Z",
   "baseline": {
     "taken_at": "2026-10-13T14:00:17Z",
     "ranks": {
@@ -91,7 +91,7 @@
       "tag": "noru",
       "cur_1v1": 2031,
       "max_1v1": 2031,
-      "cur_tg": 1750,
+      "cur_tg": 1723,
       "max_tg": 1840
     },
     {
@@ -129,21 +129,21 @@
       "max_tg": 1843
     },
     {
-      "profile_id": 4167535,
-      "tag": "Dia franptom",
-      "clan": "LE",
-      "cur_1v1": 1963,
-      "max_1v1": 1995,
-      "cur_tg": 1452,
-      "max_tg": 1581
-    },
-    {
       "profile_id": 4234652,
       "tag": "_The_Oldergold",
       "cur_1v1": 1911,
       "max_1v1": 1932,
       "cur_tg": 1501,
       "max_tg": 1719
+    },
+    {
+      "profile_id": 4167535,
+      "tag": "Dia franptom",
+      "clan": "LE",
+      "cur_1v1": 1908,
+      "max_1v1": 1995,
+      "cur_tg": 1452,
+      "max_tg": 1581
     },
     {
       "profile_id": 5655708,
