@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-14T04:00:12Z",
+  "updated_at": "2026-10-14T05:00:14Z",
   "baseline": {
     "taken_at": "2026-10-13T14:00:17Z",
     "ranks": {
@@ -104,7 +104,7 @@
       "tag": "Imfury_",
       "cur_1v1": 2415,
       "max_1v1": 2427,
-      "cur_tg": 1940,
+      "cur_tg": 1920,
       "max_tg": 2104
     },
     {
@@ -175,7 +175,7 @@
       "tag": "HGB",
       "cur_1v1": 2203,
       "max_1v1": 2317,
-      "cur_tg": 1932,
+      "cur_tg": 1911,
       "max_tg": 2083
     },
     {
@@ -215,22 +215,22 @@
       "max_tg": 1880
     },
     {
+      "profile_id": 13138746,
+      "tag": "FraKTal",
+      "clan": "hK",
+      "cur_1v1": 2122,
+      "max_1v1": 2160,
+      "cur_tg": 1874,
+      "max_tg": 1983
+    },
+    {
       "profile_id": 12171002,
       "tag": "iamkaito",
       "clan": "nW",
       "cur_1v1": 2121,
       "max_1v1": 2309,
-      "cur_tg": 1811,
+      "cur_tg": 1817,
       "max_tg": 1854
-    },
-    {
-      "profile_id": 13138746,
-      "tag": "FraKTal",
-      "clan": "hK",
-      "cur_1v1": 2116,
-      "max_1v1": 2160,
-      "cur_tg": 1874,
-      "max_tg": 1983
     },
     {
       "profile_id": 2876835,
@@ -247,14 +247,14 @@
       "clan": "nW",
       "cur_1v1": 2094,
       "max_1v1": 2211,
-      "cur_tg": 1814,
+      "cur_tg": 1833,
       "max_tg": 2034
     },
     {
       "profile_id": 2934597,
       "tag": "Sgt.Pepper",
       "clan": "nW",
-      "cur_1v1": 2024,
+      "cur_1v1": 2032,
       "max_1v1": 2210,
       "cur_tg": 1718,
       "max_tg": 1735
@@ -297,19 +297,10 @@
     {
       "profile_id": 3254820,
       "tag": "__Chino",
-      "cur_1v1": 1976,
+      "cur_1v1": 1956,
       "max_1v1": 2003,
       "cur_tg": 1412,
       "max_tg": 1412
-    },
-    {
-      "profile_id": 13215279,
-      "tag": "GO1_mx",
-      "clan": "MZTK",
-      "cur_1v1": 1974,
-      "max_1v1": 2093,
-      "cur_tg": 1664,
-      "max_tg": 1860
     },
     {
       "profile_id": 2986966,
@@ -317,8 +308,17 @@
       "clan": "VL",
       "cur_1v1": 1952,
       "max_1v1": 1972,
-      "cur_tg": 1724,
+      "cur_tg": 1701,
       "max_tg": 1824
+    },
+    {
+      "profile_id": 13215279,
+      "tag": "GO1_mx",
+      "clan": "MZTK",
+      "cur_1v1": 1947,
+      "max_1v1": 2093,
+      "cur_tg": 1664,
+      "max_tg": 1860
     },
     {
       "profile_id": 2926018,
@@ -326,7 +326,7 @@
       "clan": "SotC",
       "cur_1v1": 1946,
       "max_1v1": 2039,
-      "cur_tg": 1750,
+      "cur_tg": 1759,
       "max_tg": 1888
     },
     {
