@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-14T05:00:14Z",
+  "updated_at": "2026-10-14T06:00:13Z",
   "baseline": {
     "taken_at": "2026-10-13T14:00:17Z",
     "ranks": {
@@ -104,7 +104,7 @@
       "tag": "Imfury_",
       "cur_1v1": 2415,
       "max_1v1": 2427,
-      "cur_tg": 1920,
+      "cur_tg": 1946,
       "max_tg": 2104
     },
     {
@@ -175,7 +175,7 @@
       "tag": "HGB",
       "cur_1v1": 2203,
       "max_1v1": 2317,
-      "cur_tg": 1911,
+      "cur_tg": 1937,
       "max_tg": 2083
     },
     {
@@ -218,7 +218,7 @@
       "profile_id": 13138746,
       "tag": "FraKTal",
       "clan": "hK",
-      "cur_1v1": 2122,
+      "cur_1v1": 2137,
       "max_1v1": 2160,
       "cur_tg": 1874,
       "max_tg": 1983
@@ -247,7 +247,7 @@
       "clan": "nW",
       "cur_1v1": 2094,
       "max_1v1": 2211,
-      "cur_tg": 1833,
+      "cur_tg": 1800,
       "max_tg": 2034
     },
     {
@@ -308,7 +308,7 @@
       "clan": "VL",
       "cur_1v1": 1952,
       "max_1v1": 1972,
-      "cur_tg": 1701,
+      "cur_tg": 1695,
       "max_tg": 1824
     },
     {
