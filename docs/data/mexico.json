@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-14T20:00:14Z",
+  "updated_at": "2026-10-14T21:00:41Z",
   "baseline": {
     "taken_at": "2026-10-14T14:00:14Z",
     "ranks": {
@@ -167,7 +167,7 @@
       "clan": "VN",
       "cur_1v1": 2247,
       "max_1v1": 2285,
-      "cur_tg": 1911,
+      "cur_tg": 1889,
       "max_tg": 2050
     },
     {
@@ -191,7 +191,7 @@
       "profile_id": 580573,
       "tag": "Puerco_Negro",
       "clan": "hK",
-      "cur_1v1": 2174,
+      "cur_1v1": 2168,
       "max_1v1": 2350,
       "cur_tg": 1924,
       "max_tg": 1974
@@ -206,6 +206,15 @@
       "max_tg": 1837
     },
     {
+      "profile_id": 13138746,
+      "tag": "FraKTal",
+      "clan": "hK",
+      "cur_1v1": 2153,
+      "max_1v1": 2160,
+      "cur_tg": 1837,
+      "max_tg": 1983
+    },
+    {
       "profile_id": 611972,
       "tag": "NotAdam",
       "clan": "Dark",
@@ -213,15 +222,6 @@
       "max_1v1": 2323,
       "cur_tg": 1821,
       "max_tg": 1880
-    },
-    {
-      "profile_id": 13138746,
-      "tag": "FraKTal",
-      "clan": "hK",
-      "cur_1v1": 2138,
-      "max_1v1": 2160,
-      "cur_tg": 1837,
-      "max_tg": 1983
     },
     {
       "profile_id": 2876835,
@@ -265,7 +265,7 @@
       "clan": "VN",
       "cur_1v1": 2027,
       "max_1v1": 2087,
-      "cur_tg": 1847,
+      "cur_tg": 1827,
       "max_tg": 1997
     },
     {
@@ -282,7 +282,7 @@
       "clan": "Ux",
       "cur_1v1": 2018,
       "max_1v1": 2124,
-      "cur_tg": 1632,
+      "cur_tg": 1639,
       "max_tg": 1820
     },
     {
