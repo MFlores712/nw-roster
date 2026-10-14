@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-14T21:00:41Z",
+  "updated_at": "2026-10-14T22:00:15Z",
   "baseline": {
     "taken_at": "2026-10-14T14:00:14Z",
     "ranks": {
@@ -69,6 +69,15 @@
       "max_tg": 1971
     },
     {
+      "profile_id": 4229962,
+      "tag": "Réyiman",
+      "clan": "LvSP",
+      "cur_1v1": 2101,
+      "max_1v1": 2101,
+      "cur_tg": 1620,
+      "max_tg": 1719
+    },
+    {
       "profile_id": 5464646,
       "tag": "Lil Franco",
       "clan": "VL",
@@ -76,15 +85,6 @@
       "max_1v1": 2242,
       "cur_tg": 1865,
       "max_tg": 1932
-    },
-    {
-      "profile_id": 4229962,
-      "tag": "Réyiman",
-      "clan": "LvSP",
-      "cur_1v1": 2062,
-      "max_1v1": 2070,
-      "cur_tg": 1620,
-      "max_tg": 1719
     },
     {
       "profile_id": 6090060,
