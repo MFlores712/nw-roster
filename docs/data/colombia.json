@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-15T21:42:32Z",
+  "updated_at": "2026-10-15T22:15:11Z",
   "baseline": {
     "taken_at": "2026-10-15T14:00:14Z",
     "ranks": {
@@ -91,8 +91,8 @@
       "profile_id": 1062980,
       "tag": "DeaH",
       "clan": "VLC",
-      "cur_1v1": 1912,
-      "max_1v1": 1931,
+      "cur_1v1": 1933,
+      "max_1v1": 1933,
       "cur_tg": 1701,
       "max_tg": 1764
     },
