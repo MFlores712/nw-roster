@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-15T05:15:10Z",
+  "updated_at": "2026-10-15T05:45:09Z",
   "baseline": {
     "taken_at": "2026-10-14T14:00:14Z",
     "ranks": {
@@ -96,7 +96,7 @@
       "clan": "VENÓN",
       "cur_1v1": 2471,
       "max_1v1": 2512,
-      "cur_tg": 2087,
+      "cur_tg": 2066,
       "max_tg": 2190
     },
     {
@@ -226,7 +226,7 @@
       "profile_id": 2876835,
       "tag": "Abejorro",
       "clan": "nW",
-      "cur_1v1": 2109,
+      "cur_1v1": 2097,
       "max_1v1": 2152,
       "cur_tg": 1675,
       "max_tg": 1793
@@ -246,7 +246,7 @@
       "clan": "nW",
       "cur_1v1": 2087,
       "max_1v1": 2309,
-      "cur_tg": 1844,
+      "cur_tg": 1833,
       "max_tg": 1854
     },
     {
@@ -259,15 +259,6 @@
       "max_tg": 1735
     },
     {
-      "profile_id": 2850920,
-      "tag": "Chimtzin",
-      "clan": "Ux",
-      "cur_1v1": 2032,
-      "max_1v1": 2124,
-      "cur_tg": 1639,
-      "max_tg": 1820
-    },
-    {
       "profile_id": 1249720,
       "tag": "Baldeitus",
       "clan": "VN",
@@ -275,6 +266,15 @@
       "max_1v1": 2087,
       "cur_tg": 1827,
       "max_tg": 1997
+    },
+    {
+      "profile_id": 2850920,
+      "tag": "Chimtzin",
+      "clan": "Ux",
+      "cur_1v1": 2026,
+      "max_1v1": 2124,
+      "cur_tg": 1639,
+      "max_tg": 1820
     },
     {
       "profile_id": 9770338,
