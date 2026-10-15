@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-15T21:42:32Z",
+  "updated_at": "2026-10-15T22:00:19Z",
   "baseline": {
     "taken_at": "2026-10-15T14:00:14Z",
     "ranks": {
@@ -51,7 +51,7 @@
       "clan": "Ux",
       "cur_1v1": 2730,
       "max_1v1": 2743,
-      "cur_tg": 1673,
+      "cur_tg": 1687,
       "max_tg": 1885
     },
     {
@@ -69,7 +69,7 @@
       "clan": "Ux",
       "cur_1v1": 2660,
       "max_1v1": 2685,
-      "cur_tg": 2029,
+      "cur_tg": 2033,
       "max_tg": 2066
     },
     {
@@ -78,7 +78,7 @@
       "clan": "Ux",
       "cur_1v1": 2567,
       "max_1v1": 2629,
-      "cur_tg": 1731,
+      "cur_tg": 1742,
       "max_tg": 1999
     },
     {
@@ -87,7 +87,7 @@
       "clan": "VENÓN",
       "cur_1v1": 2515,
       "max_1v1": 2573,
-      "cur_tg": 2136,
+      "cur_tg": 2140,
       "max_tg": 2151
     },
     {
@@ -171,6 +171,15 @@
       "max_tg": 1982
     },
     {
+      "profile_id": 13138746,
+      "tag": "FraKTal",
+      "clan": "hK",
+      "cur_1v1": 2215,
+      "max_1v1": 2215,
+      "cur_tg": 1835,
+      "max_tg": 1983
+    },
+    {
       "profile_id": 4412109,
       "tag": "HGB",
       "cur_1v1": 2203,
@@ -186,15 +195,6 @@
       "max_1v1": 2350,
       "cur_tg": 1930,
       "max_tg": 1974
-    },
-    {
-      "profile_id": 13138746,
-      "tag": "FraKTal",
-      "clan": "hK",
-      "cur_1v1": 2197,
-      "max_1v1": 2203,
-      "cur_tg": 1835,
-      "max_tg": 1983
     },
     {
       "profile_id": 914665,
