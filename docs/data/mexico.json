@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-15T02:00:15Z",
+  "updated_at": "2026-10-15T02:15:09Z",
   "baseline": {
     "taken_at": "2026-10-14T14:00:14Z",
     "ranks": {
@@ -94,7 +94,7 @@
       "profile_id": 401359,
       "tag": "EnvyZ",
       "clan": "VENÓN",
-      "cur_1v1": 2454,
+      "cur_1v1": 2438,
       "max_1v1": 2512,
       "cur_tg": 2103,
       "max_tg": 2190
@@ -104,7 +104,7 @@
       "tag": "Imfury_",
       "cur_1v1": 2409,
       "max_1v1": 2427,
-      "cur_tg": 1954,
+      "cur_tg": 1968,
       "max_tg": 2104
     },
     {
@@ -175,7 +175,7 @@
       "tag": "HGB",
       "cur_1v1": 2203,
       "max_1v1": 2317,
-      "cur_tg": 1946,
+      "cur_tg": 1960,
       "max_tg": 2083
     },
     {
@@ -253,7 +253,7 @@
       "profile_id": 2934597,
       "tag": "Sgt.Pepper",
       "clan": "nW",
-      "cur_1v1": 2032,
+      "cur_1v1": 2038,
       "max_1v1": 2210,
       "cur_tg": 1718,
       "max_tg": 1735
@@ -321,6 +321,14 @@
       "max_tg": 1860
     },
     {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1945,
+      "max_1v1": 2003,
+      "cur_tg": 1412,
+      "max_tg": 1412
+    },
+    {
       "profile_id": 467847,
       "tag": "DoN.Vergas",
       "cur_1v1": 1940,
@@ -336,14 +344,6 @@
       "max_1v1": 1996,
       "cur_tg": 1807,
       "max_tg": 1821
-    },
-    {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1929,
-      "max_1v1": 2003,
-      "cur_tg": 1412,
-      "max_tg": 1412
     },
     {
       "profile_id": 4764520,
