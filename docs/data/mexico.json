@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-15T19:00:17Z",
+  "updated_at": "2026-10-15T19:15:11Z",
   "baseline": {
     "taken_at": "2026-10-15T14:00:14Z",
     "ranks": {
@@ -49,7 +49,7 @@
       "profile_id": 5984120,
       "tag": "Combito",
       "clan": "Ux",
-      "cur_1v1": 2709,
+      "cur_1v1": 2684,
       "max_1v1": 2743,
       "cur_tg": 1673,
       "max_tg": 1885
@@ -87,8 +87,8 @@
       "clan": "VENÓN",
       "cur_1v1": 2515,
       "max_1v1": 2573,
-      "cur_tg": 2140,
-      "max_tg": 2140
+      "cur_tg": 2151,
+      "max_tg": 2151
     },
     {
       "profile_id": 401359,
