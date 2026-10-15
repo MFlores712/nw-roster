@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-15T22:45:09Z",
+  "updated_at": "2026-10-15T23:00:13Z",
   "baseline": {
     "taken_at": "2026-10-15T14:00:14Z",
     "ranks": {
@@ -51,7 +51,7 @@
       "clan": "Ux",
       "cur_1v1": 2730,
       "max_1v1": 2743,
-      "cur_tg": 1711,
+      "cur_tg": 1731,
       "max_tg": 1885
     },
     {
@@ -60,14 +60,14 @@
       "clan": "Ux",
       "cur_1v1": 2660,
       "max_1v1": 2685,
-      "cur_tg": 2042,
+      "cur_tg": 2051,
       "max_tg": 2066
     },
     {
       "profile_id": 2776293,
       "tag": "Kingstone",
       "clan": "Oni",
-      "cur_1v1": 2644,
+      "cur_1v1": 2647,
       "max_1v1": 2867,
       "cur_tg": 2152,
       "max_tg": 2169
@@ -78,7 +78,7 @@
       "clan": "Ux",
       "cur_1v1": 2567,
       "max_1v1": 2629,
-      "cur_tg": 1763,
+      "cur_tg": 1782,
       "max_tg": 1999
     },
     {
@@ -369,7 +369,7 @@
       "clan": "VENÓN",
       "cur_1v1": 1909,
       "max_1v1": 2115,
-      "cur_tg": 1742,
+      "cur_tg": 1757,
       "max_tg": 1820
     },
     {
