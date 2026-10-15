@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-15T03:15:10Z",
+  "updated_at": "2026-10-15T03:45:09Z",
   "baseline": {
     "taken_at": "2026-10-14T14:00:14Z",
     "ranks": {
@@ -83,7 +83,7 @@
       "clan": "VL",
       "cur_1v1": 2090,
       "max_1v1": 2242,
-      "cur_tg": 1848,
+      "cur_tg": 1858,
       "max_tg": 1932
     },
     {
@@ -93,15 +93,6 @@
       "max_1v1": 2031,
       "cur_tg": 1693,
       "max_tg": 1840
-    },
-    {
-      "profile_id": 1359694,
-      "tag": "AtilA",
-      "clan": "nW",
-      "cur_1v1": 2023,
-      "max_1v1": 2123,
-      "cur_tg": 1637,
-      "max_tg": 1670
     },
     {
       "profile_id": 12167914,
@@ -119,6 +110,15 @@
       "max_1v1": 2174,
       "cur_tg": 1532,
       "max_tg": 1834
+    },
+    {
+      "profile_id": 1359694,
+      "tag": "AtilA",
+      "clan": "nW",
+      "cur_1v1": 2005,
+      "max_1v1": 2123,
+      "cur_tg": 1637,
+      "max_tg": 1670
     },
     {
       "profile_id": 633255,
