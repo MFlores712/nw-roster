@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-15T03:45:09Z",
+  "updated_at": "2026-10-15T07:45:09Z",
   "baseline": {
     "taken_at": "2026-10-14T14:00:14Z",
     "ranks": {
@@ -146,6 +146,15 @@
       "max_tg": 1719
     },
     {
+      "profile_id": 3034651,
+      "tag": "KinG-Viza",
+      "clan": "Bz",
+      "cur_1v1": 1908,
+      "max_1v1": 2035,
+      "cur_tg": 1602,
+      "max_tg": 1657
+    },
+    {
       "profile_id": 5655708,
       "tag": "Emaxcito2",
       "clan": "LE",
@@ -162,15 +171,6 @@
       "max_1v1": 1902,
       "cur_tg": 1464,
       "max_tg": 1608
-    },
-    {
-      "profile_id": 3034651,
-      "tag": "KinG-Viza",
-      "clan": "Bz",
-      "cur_1v1": 1897,
-      "max_1v1": 2035,
-      "cur_tg": 1602,
-      "max_tg": 1657
     }
   ],
   "show_top": 15

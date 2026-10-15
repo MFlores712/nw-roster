@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-15T07:30:12Z",
+  "updated_at": "2026-10-15T07:45:09Z",
   "baseline": {
     "taken_at": "2026-10-14T14:00:14Z",
     "ranks": {
@@ -226,7 +226,7 @@
       "profile_id": 2876835,
       "tag": "Abejorro",
       "clan": "nW",
-      "cur_1v1": 2099,
+      "cur_1v1": 2097,
       "max_1v1": 2152,
       "cur_tg": 1675,
       "max_tg": 1793
