@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-15T02:30:11Z",
+  "updated_at": "2026-10-15T02:45:10Z",
   "baseline": {
     "taken_at": "2026-10-14T14:00:14Z",
     "ranks": {
@@ -104,7 +104,7 @@
       "tag": "Imfury_",
       "cur_1v1": 2409,
       "max_1v1": 2427,
-      "cur_tg": 1968,
+      "cur_tg": 1980,
       "max_tg": 2104
     },
     {
@@ -175,7 +175,7 @@
       "tag": "HGB",
       "cur_1v1": 2203,
       "max_1v1": 2317,
-      "cur_tg": 1960,
+      "cur_tg": 1973,
       "max_tg": 2083
     },
     {
@@ -219,7 +219,7 @@
       "tag": "NoLamePlease",
       "cur_1v1": 2152,
       "max_1v1": 2323,
-      "cur_tg": 1821,
+      "cur_tg": 1807,
       "max_tg": 1880
     },
     {
@@ -299,7 +299,7 @@
       "clan": "SotC",
       "cur_1v1": 1961,
       "max_1v1": 2039,
-      "cur_tg": 1674,
+      "cur_tg": 1686,
       "max_tg": 1888
     },
     {
