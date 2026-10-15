@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-15T19:45:10Z",
+  "updated_at": "2026-10-15T20:15:10Z",
   "baseline": {
     "taken_at": "2026-10-15T14:00:14Z",
     "ranks": {
@@ -125,7 +125,7 @@
       "tag": "Tempo",
       "cur_1v1": 1984,
       "max_1v1": 2177,
-      "cur_tg": 1658,
+      "cur_tg": 1663,
       "max_tg": 1843
     },
     {
