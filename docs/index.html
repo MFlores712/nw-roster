@@ -7,7 +7,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700&family=EB+Garamond:ital,wght@0,400;0,500;1,500&family=Yuji+Mai&display=swap" rel="stylesheet">
-<script src="https://cdn.jsdelivr.net/npm/html-to-image@1.11.13/dist/html-to-image.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
 <style>
 :root {
   --ink: #0a0d14;
@@ -44,12 +44,15 @@ body {
 .frame { position: absolute; inset: 18px; border: 1.5px solid var(--gold-dim); pointer-events: none; }
 .frame::before { content: ""; position: absolute; inset: 8px; border: 1px solid rgba(201,167,95,0.35); }
 .header { display: flex; flex-direction: column; align-items: center; position: relative; z-index: 2; }
+/* The ring is a real border (not a box-shadow) and the logo a cover-sized
+   background (not object-fit) so the PNG export draws both correctly */
 .logo-ring {
-  width: 180px; height: 180px; border-radius: 50%; padding: 6px;
+  width: 180px; height: 180px; border-radius: 50%; padding: 5px;
+  border: 1px solid rgba(201,167,95,0.4);
   background: radial-gradient(circle at 50% 40%, rgba(230,201,136,0.25), rgba(230,201,136,0) 70%);
-  box-shadow: 0 0 0 1px rgba(201,167,95,0.4), 0 20px 60px rgba(0,0,0,0.55);
+  box-shadow: 0 20px 60px rgba(0,0,0,0.55);
 }
-.logo-ring img { width: 100%; height: 100%; border-radius: 50%; object-fit: cover; display: block; }
+.logo { width: 100%; height: 100%; border-radius: 50%; background: url(assets/logo_nW.png) center / cover no-repeat; }
 .kanji-mark { font-family: 'Cinzel Decorative', serif; font-size: 12px; letter-spacing: 8px; color: var(--gold-dim); margin-top: 18px; }
 .title { font-family: 'Yuji Mai', serif; font-size: 64px; letter-spacing: 2px; color: var(--gold-bright); margin-top: 10px; text-shadow: 0 2px 24px rgba(230,201,136,0.25); }
 .subtitle { font-family: 'EB Garamond', serif; font-style: italic; font-size: 17px; letter-spacing: 3px; color: var(--muted); margin-top: 4px; }
@@ -129,7 +132,7 @@ body {
   .poster:not(.exporting) .frame::before { inset: 4px; }
 
   /* Compact header */
-  .poster:not(.exporting) .logo-ring { width: 110px; height: 110px; padding: 4px; box-shadow: 0 0 0 1px rgba(201,167,95,0.4), 0 10px 30px rgba(0,0,0,0.55); }
+  .poster:not(.exporting) .logo-ring { width: 110px; height: 110px; padding: 3px; box-shadow: 0 10px 30px rgba(0,0,0,0.55); }
   .poster:not(.exporting) .kanji-mark { margin-top: 12px; font-size: 11px; letter-spacing: 6px; }
   .poster:not(.exporting) .title { font-size: 40px; margin-top: 4px; }
   .poster:not(.exporting) .subtitle { font-size: 13px; letter-spacing: 1.5px; text-align: center; }
@@ -176,7 +179,7 @@ body {
 <div class="poster" id="poster">
   <div class="frame"></div>
   <div class="header">
-    <div class="logo-ring"><img src="assets/logo_nW.png" alt="new Wave clan logo"></div>
+    <div class="logo-ring"><div class="logo" role="img" aria-label="new Wave clan logo"></div></div>
     <div class="kanji-mark">新 波 一 族</div>
     <div class="title">new Wave</div>
     <div class="subtitle" id="subtitle">Age of Empires II · Clan Roster</div>
@@ -281,42 +284,48 @@ async function loadTab(tab) {
   }
 }
 
-// Fonts for the PNG. Left alone, html-to-image embeds every font file the
-// page's stylesheet lists — 152 of them (mostly Yuji Mai's Japanese subsets),
-// which stalls the render. Instead ask Google Fonts for files trimmed to the
-// characters the poster uses (~6 files, ~150 KB) and inline them ourselves.
-// Player names can contain any letter (e.g. "VENÓN"), so the poster's own
-// text is added to the base set.
-const EXPORT_BASE_CHARS = Array.from({ length: 95 }, (_, i) => String.fromCharCode(32 + i)).join('')
-  + '新波一族二三四五六七八九十·—…▲▼';
-const EXPORT_FONTS_URL = 'https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700'
-  + '&family=EB+Garamond:ital,wght@0,400;0,500;1,500&family=Yuji+Mai&display=swap&text=';
-const exportFontCache = new Map();  // character set -> promise of inlined CSS
-
-function blobToDataUrl(blob) {
+// html2canvas drops SVG content (the wave lines), whether inline or as an
+// SVG image, so for the export each one is drawn to a PNG and swapped in.
+// Returns a function that puts the originals back.
+function loadImage(src) {
   return new Promise((resolve, reject) => {
-    const reader = new FileReader();
-    reader.onload = () => resolve(reader.result);
-    reader.onerror = reject;
-    reader.readAsDataURL(blob);
+    const img = new Image();
+    img.onload = () => resolve(img);
+    img.onerror = () => reject(new Error('image failed to load'));
+    img.src = src;
   });
 }
 
-async function getExportFontCSS() {
-  const text = document.getElementById('poster').innerText;
-  const chars = [...new Set(EXPORT_BASE_CHARS + text.replace(/\s/g, ''))].sort().join('');
-  if (!exportFontCache.has(chars)) {
-    const p = (async () => {
-      let css = await (await fetch(EXPORT_FONTS_URL + encodeURIComponent(chars))).text();
-      const urls = [...new Set([...css.matchAll(/url\((https:[^)]+)\)/g)].map(m => m[1]))];
-      const inlined = await Promise.all(urls.map(async u => blobToDataUrl(await (await fetch(u)).blob())));
-      urls.forEach((u, i) => { css = css.split(u).join(inlined[i]); });
-      return css;
-    })();
-    p.catch(() => exportFontCache.delete(chars));  // allow retry after a failure
-    exportFontCache.set(chars, p);
-  }
-  return exportFontCache.get(chars);
+async function swapSvgsForImages(root) {
+  const swaps = await Promise.all([...root.querySelectorAll('svg')].map(async svg => {
+    const r = svg.getBoundingClientRect();
+    const w = Math.round(r.width), h = Math.round(r.height), scale = 2;
+    svg.setAttribute('xmlns', 'http://www.w3.org/2000/svg');
+    const src = await loadImage('data:image/svg+xml;charset=utf-8,' + encodeURIComponent(svg.outerHTML));
+    const c = document.createElement('canvas');
+    c.width = w * scale; c.height = h * scale;
+    c.getContext('2d').drawImage(src, 0, 0, c.width, c.height);
+    const img = await loadImage(c.toDataURL('image/png'));
+    img.className = svg.getAttribute('class') || '';
+    img.style.cssText = `width:${w}px; height:${h}px; display:block;`;
+    svg.replaceWith(img);
+    return [svg, img];
+  }));
+  return () => swaps.forEach(([svg, img]) => img.replaceWith(svg));
+}
+
+// Adjust html2canvas's private copy of the page (the visible page is untouched):
+// the poster's top glow uses an "ellipse 900px 500px" gradient size that it
+// misplaces, so draw it with a separate layer whose box gives the same shape.
+function prepareExportClone(doc) {
+  const poster = doc.getElementById('poster');
+  poster.style.background = 'linear-gradient(180deg, #0d1220 0%, #131a2b 40%, #0d1220 100%)';
+  const glow = doc.createElement('div');
+  // 1800×500 box centred on the top edge: farthest-side radii = 900 × 500
+  glow.style.cssText = 'position:absolute; top:0; left:50%; width:1800px; height:500px; margin-left:-900px;'
+    + 'pointer-events:none; z-index:0;'
+    + 'background: radial-gradient(farthest-side at 50% 0%, rgba(61,89,120,0.35), transparent 60%);';
+  poster.prepend(glow);
 }
 
 async function downloadPoster() {
@@ -328,20 +337,27 @@ async function downloadPoster() {
   msg.textContent = '';
   clearFit();  // the export uses the roomy desktop layout
   poster.classList.add('exporting');
+  let restoreSvgs = () => {};
   try {
-    const [fontEmbedCSS] = await Promise.all([getExportFontCSS(), document.fonts.ready]);
-    const options = {
-      pixelRatio: 2,
+    await document.fonts.ready;
+    restoreSvgs = await swapSvgsForImages(poster);
+    // html2canvas draws the text itself with the fonts this page has already
+    // loaded. (The SVG-snapshot approach used before embedded the fonts into
+    // an image, which some phone browsers ignore, so PNGs fell back to
+    // default fonts.)
+    const canvas = await html2canvas(poster, {
+      scale: 2,
       backgroundColor: '#0a0d14',
-      fontEmbedCSS,
+      useCORS: true,
+      // Lay the copy out as a desktop window so the 900px export layout fits
+      windowWidth: Math.max(window.innerWidth, 1100),
+      scrollX: -window.scrollX,
+      scrollY: -window.scrollY,
       // Leave the button and its message out of the image
-      filter: node => !(node.classList && node.classList.contains('no-export')),
-    };
-    // Safari (and every browser on iPhone/iPad) often draws the first render
-    // before the embedded fonts have loaded, so the PNG falls back to default
-    // fonts. Render once to warm up and keep the second result (~1s extra).
-    await htmlToImage.toPng(poster, options);
-    const dataUrl = await htmlToImage.toPng(poster, options);
+      ignoreElements: el => el.classList && el.classList.contains('no-export'),
+      onclone: prepareExportClone,
+    });
+    const dataUrl = canvas.toDataURL('image/png');
     const a = document.createElement('a');
     a.href = dataUrl;
     a.download = TABS[currentTab].png + '-' + new Date().toISOString().slice(0, 10) + '.png';
@@ -351,6 +367,7 @@ async function downloadPoster() {
   } catch (err) {
     msg.textContent = 'Couldn\'t create image — ' + (err && err.message || err);
   } finally {
+    restoreSvgs();
     poster.classList.remove('exporting');
     fitNames();
     btn.disabled = false;
