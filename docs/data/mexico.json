@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-15T04:45:09Z",
+  "updated_at": "2026-10-15T05:00:13Z",
   "baseline": {
     "taken_at": "2026-10-14T14:00:14Z",
     "ranks": {
@@ -96,7 +96,7 @@
       "clan": "VENÓN",
       "cur_1v1": 2471,
       "max_1v1": 2512,
-      "cur_tg": 2076,
+      "cur_tg": 2087,
       "max_tg": 2190
     },
     {
@@ -171,6 +171,15 @@
       "max_tg": 1982
     },
     {
+      "profile_id": 13138746,
+      "tag": "FraKTal",
+      "clan": "hK",
+      "cur_1v1": 2203,
+      "max_1v1": 2203,
+      "cur_tg": 1835,
+      "max_tg": 1983
+    },
+    {
       "profile_id": 4412109,
       "tag": "HGB",
       "cur_1v1": 2203,
@@ -186,15 +195,6 @@
       "max_1v1": 2350,
       "cur_tg": 1930,
       "max_tg": 1974
-    },
-    {
-      "profile_id": 13138746,
-      "tag": "FraKTal",
-      "clan": "hK",
-      "cur_1v1": 2196,
-      "max_1v1": 2196,
-      "cur_tg": 1835,
-      "max_tg": 1983
     },
     {
       "profile_id": 914665,
