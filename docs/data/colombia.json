@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-15T23:00:13Z",
+  "updated_at": "2026-10-15T23:30:15Z",
   "baseline": {
     "taken_at": "2026-10-15T14:00:14Z",
     "ranks": {
@@ -67,7 +67,7 @@
       "clan": "NuMa",
       "cur_1v1": 2005,
       "max_1v1": 2193,
-      "cur_tg": 1630,
+      "cur_tg": 1645,
       "max_tg": 1772
     },
     {
@@ -93,7 +93,7 @@
       "clan": "VLC",
       "cur_1v1": 1950,
       "max_1v1": 1950,
-      "cur_tg": 1701,
+      "cur_tg": 1717,
       "max_tg": 1764
     },
     {
