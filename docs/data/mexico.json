@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-15T03:45:09Z",
+  "updated_at": "2026-10-15T04:00:15Z",
   "baseline": {
     "taken_at": "2026-10-14T14:00:14Z",
     "ranks": {
@@ -69,7 +69,7 @@
       "clan": "Ux",
       "cur_1v1": 2660,
       "max_1v1": 2685,
-      "cur_tg": 2050,
+      "cur_tg": 2024,
       "max_tg": 2066
     },
     {
@@ -78,7 +78,7 @@
       "clan": "Ux",
       "cur_1v1": 2567,
       "max_1v1": 2629,
-      "cur_tg": 1747,
+      "cur_tg": 1731,
       "max_tg": 1999
     },
     {
@@ -94,7 +94,7 @@
       "profile_id": 401359,
       "tag": "EnvyZ",
       "clan": "VENÓN",
-      "cur_1v1": 2455,
+      "cur_1v1": 2471,
       "max_1v1": 2512,
       "cur_tg": 2103,
       "max_tg": 2190
@@ -104,7 +104,7 @@
       "tag": "Imfury_",
       "cur_1v1": 2409,
       "max_1v1": 2427,
-      "cur_tg": 1980,
+      "cur_tg": 1992,
       "max_tg": 2104
     },
     {
@@ -175,7 +175,7 @@
       "tag": "HGB",
       "cur_1v1": 2203,
       "max_1v1": 2317,
-      "cur_tg": 1973,
+      "cur_tg": 1986,
       "max_tg": 2083
     },
     {
@@ -188,6 +188,15 @@
       "max_tg": 1974
     },
     {
+      "profile_id": 13138746,
+      "tag": "FraKTal",
+      "clan": "hK",
+      "cur_1v1": 2196,
+      "max_1v1": 2196,
+      "cur_tg": 1835,
+      "max_tg": 1983
+    },
+    {
       "profile_id": 914665,
       "tag": "Caguamas",
       "clan": "nW",
@@ -197,19 +206,10 @@
       "max_tg": 2024
     },
     {
-      "profile_id": 13138746,
-      "tag": "FraKTal",
-      "clan": "hK",
-      "cur_1v1": 2188,
-      "max_1v1": 2188,
-      "cur_tg": 1835,
-      "max_tg": 1983
-    },
-    {
       "profile_id": 917863,
       "tag": "Romell13",
       "clan": "hK",
-      "cur_1v1": 2162,
+      "cur_1v1": 2176,
       "max_1v1": 2233,
       "cur_tg": 1807,
       "max_tg": 1837
@@ -219,7 +219,7 @@
       "tag": "NoLamePlease",
       "cur_1v1": 2152,
       "max_1v1": 2323,
-      "cur_tg": 1807,
+      "cur_tg": 1796,
       "max_tg": 1880
     },
     {
@@ -308,7 +308,7 @@
       "clan": "VL",
       "cur_1v1": 1952,
       "max_1v1": 1972,
-      "cur_tg": 1667,
+      "cur_tg": 1643,
       "max_tg": 1824
     },
     {
@@ -337,6 +337,15 @@
       "max_tg": 1755
     },
     {
+      "profile_id": 4764520,
+      "tag": "BooMBastic_",
+      "clan": "KH",
+      "cur_1v1": 1935,
+      "max_1v1": 2060,
+      "cur_tg": 1684,
+      "max_tg": 1788
+    },
+    {
       "profile_id": 2969449,
       "tag": "BetoxAOE",
       "clan": "VENÓN",
@@ -353,15 +362,6 @@
       "max_1v1": 1970,
       "cur_tg": 1807,
       "max_tg": 1865
-    },
-    {
-      "profile_id": 4764520,
-      "tag": "BooMBastic_",
-      "clan": "KH",
-      "cur_1v1": 1913,
-      "max_1v1": 2060,
-      "cur_tg": 1684,
-      "max_tg": 1788
     },
     {
       "profile_id": 324005,
