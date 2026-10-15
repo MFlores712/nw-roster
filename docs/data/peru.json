@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-15T00:00:14Z",
+  "updated_at": "2026-10-15T01:27:28Z",
   "baseline": {
     "taken_at": "2026-10-14T14:00:14Z",
     "ranks": {
@@ -45,7 +45,7 @@
       "profile_id": 9558892,
       "tag": "WilliamS",
       "clan": "LE",
-      "cur_1v1": 2304,
+      "cur_1v1": 2318,
       "max_1v1": 2423,
       "cur_tg": 1766,
       "max_tg": 1846
@@ -74,7 +74,7 @@
       "clan": "LvSP",
       "cur_1v1": 2101,
       "max_1v1": 2101,
-      "cur_tg": 1630,
+      "cur_tg": 1646,
       "max_tg": 1719
     },
     {
@@ -87,11 +87,20 @@
       "max_tg": 1932
     },
     {
+      "profile_id": 1359694,
+      "tag": "AtilA",
+      "clan": "nW",
+      "cur_1v1": 2034,
+      "max_1v1": 2123,
+      "cur_tg": 1637,
+      "max_tg": 1670
+    },
+    {
       "profile_id": 6090060,
       "tag": "noru",
       "cur_1v1": 2031,
       "max_1v1": 2031,
-      "cur_tg": 1700,
+      "cur_tg": 1704,
       "max_tg": 1840
     },
     {
@@ -108,17 +117,8 @@
       "tag": "Legendario",
       "cur_1v1": 2008,
       "max_1v1": 2174,
-      "cur_tg": 1539,
+      "cur_tg": 1522,
       "max_tg": 1834
-    },
-    {
-      "profile_id": 1359694,
-      "tag": "AtilA",
-      "clan": "nW",
-      "cur_1v1": 1988,
-      "max_1v1": 2123,
-      "cur_tg": 1637,
-      "max_tg": 1670
     },
     {
       "profile_id": 633255,
