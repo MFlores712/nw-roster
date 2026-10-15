@@ -224,13 +224,13 @@ const COLUMNS = [
   { field: 'max_tg',  cls: 's-tg is-max' },
 ];
 
-// One entry per tab. `hourly` rosters are only refreshed on the update run in
-// the first quarter of each hour (see ROSTERS in scripts/fetch_ratings.py).
+// One entry per tab (each is refreshed by every update run, see ROSTERS in
+// scripts/fetch_ratings.py)
 const TABS = {
-  nw:       { file: 'data/roster.json',   subtitle: 'Age of Empires II · Clan Roster',       png: 'nw-roster',        hourly: false },
-  mexico:   { file: 'data/mexico.json',   subtitle: 'Age of Empires II · México Ranking',   png: 'mexico-ranking',   hourly: true },
-  colombia: { file: 'data/colombia.json', subtitle: 'Age of Empires II · Colombia Ranking', png: 'colombia-ranking', hourly: true },
-  peru:     { file: 'data/peru.json',     subtitle: 'Age of Empires II · Perú Ranking',     png: 'peru-ranking',     hourly: true },
+  nw:       { file: 'data/roster.json',   subtitle: 'Age of Empires II · Clan Roster',       png: 'nw-roster' },
+  mexico:   { file: 'data/mexico.json',   subtitle: 'Age of Empires II · México Ranking',   png: 'mexico-ranking' },
+  colombia: { file: 'data/colombia.json', subtitle: 'Age of Empires II · Colombia Ranking', png: 'colombia-ranking' },
+  peru:     { file: 'data/peru.json',     subtitle: 'Age of Empires II · Perú Ranking',     png: 'peru-ranking' },
 };
 let currentTab = 'nw';
 let lastUpdatedAt = null;
@@ -248,19 +248,17 @@ async function fetchRoster(file) {
   return res.json();
 }
 
-// Time of the last successful update-roster run that refreshed this tab, i.e.
-// its last ratings check. The data files only change when a rating does, so
-// their timestamps can lag far behind; GitHub's public API knows when the job
-// last ran. Unauthenticated limit is 60 requests/hour per visitor.
-const RUNS_URL = 'https://api.github.com/repos/MFlores712/nw-roster/actions/workflows/update-roster.yml/runs?status=success&per_page=8';
+// Time of the last successful update-roster run, i.e. the last ratings check
+// (every run updates every tab). The data files only change when a rating
+// does, so their timestamps can lag far behind; GitHub's public API knows when
+// the job last ran. Unauthenticated limit is 60 requests/hour per visitor.
+const RUNS_URL = 'https://api.github.com/repos/MFlores712/nw-roster/actions/workflows/update-roster.yml/runs?status=success&per_page=1';
 
-async function fetchLastCheck(tab) {
+async function fetchLastCheck() {
   try {
     const res = await fetch(RUNS_URL, { cache: 'no-store' });
     if (!res.ok) return null;
-    const runs = (await res.json()).workflow_runs || [];
-    // Hourly rosters: same "first 15 minutes of the hour" rule as the script
-    const run = runs.find(r => !TABS[tab].hourly || new Date(r.created_at).getUTCMinutes() < 15);
+    const run = (await res.json()).workflow_runs?.[0];
     return run ? new Date(run.updated_at) : null;
   } catch {
     return null;  // fall back to the data file's updated_at
@@ -274,7 +272,7 @@ async function loadTab(tab) {
   document.querySelectorAll('.tab').forEach(b => b.setAttribute('aria-selected', String(b.dataset.tab === tab)));
   document.getElementById('subtitle').textContent = cfg.subtitle;
   try {
-    const [data, lastCheck] = await Promise.all([fetchRoster(cfg.file), fetchLastCheck(tab)]);
+    const [data, lastCheck] = await Promise.all([fetchRoster(cfg.file), fetchLastCheck()]);
     if (seq === loadSeq) render(data, lastCheck);
   } catch (err) {
     if (seq !== loadSeq) return;
@@ -332,13 +330,18 @@ async function downloadPoster() {
   poster.classList.add('exporting');
   try {
     const [fontEmbedCSS] = await Promise.all([getExportFontCSS(), document.fonts.ready]);
-    const dataUrl = await htmlToImage.toPng(poster, {
+    const options = {
       pixelRatio: 2,
       backgroundColor: '#0a0d14',
       fontEmbedCSS,
       // Leave the button and its message out of the image
       filter: node => !(node.classList && node.classList.contains('no-export')),
-    });
+    };
+    // Safari (and every browser on iPhone/iPad) often draws the first render
+    // before the embedded fonts have loaded, so the PNG falls back to default
+    // fonts. Render once to warm up and keep the second result (~1s extra).
+    await htmlToImage.toPng(poster, options);
+    const dataUrl = await htmlToImage.toPng(poster, options);
     const a = document.createElement('a');
     a.href = dataUrl;
     a.download = TABS[currentTab].png + '-' + new Date().toISOString().slice(0, 10) + '.png';
