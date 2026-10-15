@@ -1,6 +1,6 @@
 {
   "name": "new Wave",
-  "updated_at": "2026-10-15T08:30:13Z",
+  "updated_at": "2026-10-15T08:45:08Z",
   "baseline": {
     "taken_at": "2026-10-14T14:00:14Z",
     "ranks": {
@@ -55,7 +55,7 @@
       "profile_id": 2876835,
       "tag": "Abejorro",
       "country": "Mexico",
-      "cur_1v1": 2082,
+      "cur_1v1": 2076,
       "max_1v1": 2152,
       "cur_tg": 1675,
       "max_tg": 1793
