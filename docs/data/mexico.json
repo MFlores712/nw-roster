@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-15T22:15:11Z",
+  "updated_at": "2026-10-15T22:30:10Z",
   "baseline": {
     "taken_at": "2026-10-15T14:00:14Z",
     "ranks": {
@@ -55,15 +55,6 @@
       "max_tg": 1885
     },
     {
-      "profile_id": 2776293,
-      "tag": "Kingstone",
-      "clan": "Oni",
-      "cur_1v1": 2668,
-      "max_1v1": 2867,
-      "cur_tg": 2152,
-      "max_tg": 2169
-    },
-    {
       "profile_id": 2920057,
       "tag": "LobodeLaNieve",
       "clan": "Ux",
@@ -71,6 +62,15 @@
       "max_1v1": 2685,
       "cur_tg": 2033,
       "max_tg": 2066
+    },
+    {
+      "profile_id": 2776293,
+      "tag": "Kingstone",
+      "clan": "Oni",
+      "cur_1v1": 2644,
+      "max_1v1": 2867,
+      "cur_tg": 2152,
+      "max_tg": 2169
     },
     {
       "profile_id": 13099159,
@@ -180,21 +180,21 @@
       "max_tg": 1983
     },
     {
+      "profile_id": 580573,
+      "tag": "Puerco_Negro",
+      "clan": "hK",
+      "cur_1v1": 2214,
+      "max_1v1": 2350,
+      "cur_tg": 1930,
+      "max_tg": 1974
+    },
+    {
       "profile_id": 4412109,
       "tag": "HGB",
       "cur_1v1": 2203,
       "max_1v1": 2317,
       "cur_tg": 1986,
       "max_tg": 2083
-    },
-    {
-      "profile_id": 580573,
-      "tag": "Puerco_Negro",
-      "clan": "hK",
-      "cur_1v1": 2197,
-      "max_1v1": 2350,
-      "cur_tg": 1930,
-      "max_tg": 1974
     },
     {
       "profile_id": 914665,
