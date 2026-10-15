@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-15T02:45:10Z",
+  "updated_at": "2026-10-15T03:00:13Z",
   "baseline": {
     "taken_at": "2026-10-14T14:00:14Z",
     "ranks": {
@@ -94,7 +94,7 @@
       "profile_id": 401359,
       "tag": "EnvyZ",
       "clan": "VENÓN",
-      "cur_1v1": 2456,
+      "cur_1v1": 2472,
       "max_1v1": 2512,
       "cur_tg": 2103,
       "max_tg": 2190
@@ -149,7 +149,7 @@
       "clan": "VENÓN",
       "cur_1v1": 2280,
       "max_1v1": 2394,
-      "cur_tg": 1854,
+      "cur_tg": 1864,
       "max_tg": 2099
     },
     {
@@ -308,7 +308,7 @@
       "clan": "VL",
       "cur_1v1": 1952,
       "max_1v1": 1972,
-      "cur_tg": 1680,
+      "cur_tg": 1687,
       "max_tg": 1824
     },
     {
