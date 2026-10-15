@@ -1,6 +1,6 @@
 {
   "name": "new Wave",
-  "updated_at": "2026-10-15T03:45:09Z",
+  "updated_at": "2026-10-15T04:26:02Z",
   "baseline": {
     "taken_at": "2026-10-14T14:00:14Z",
     "ranks": {
@@ -21,7 +21,7 @@
       "country": "Colombia",
       "cur_1v1": 2393,
       "max_1v1": 2410,
-      "cur_tg": 1833,
+      "cur_tg": 1860,
       "max_tg": 1882
     },
     {
@@ -57,14 +57,14 @@
       "country": "Mexico",
       "cur_1v1": 2087,
       "max_1v1": 2309,
-      "cur_tg": 1817,
+      "cur_tg": 1844,
       "max_tg": 1854
     },
     {
       "profile_id": 2934597,
       "tag": "Sgt.Pepper",
       "country": "Mexico",
-      "cur_1v1": 2038,
+      "cur_1v1": 2049,
       "max_1v1": 2210,
       "cur_tg": 1718,
       "max_tg": 1735

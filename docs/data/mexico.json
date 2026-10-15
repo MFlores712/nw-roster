@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-15T04:15:08Z",
+  "updated_at": "2026-10-15T04:26:02Z",
   "baseline": {
     "taken_at": "2026-10-14T14:00:14Z",
     "ranks": {
@@ -96,7 +96,7 @@
       "clan": "VENÓN",
       "cur_1v1": 2471,
       "max_1v1": 2512,
-      "cur_tg": 2103,
+      "cur_tg": 2076,
       "max_tg": 2190
     },
     {
@@ -246,14 +246,14 @@
       "clan": "nW",
       "cur_1v1": 2087,
       "max_1v1": 2309,
-      "cur_tg": 1817,
+      "cur_tg": 1844,
       "max_tg": 1854
     },
     {
       "profile_id": 2934597,
       "tag": "Sgt.Pepper",
       "clan": "nW",
-      "cur_1v1": 2038,
+      "cur_1v1": 2049,
       "max_1v1": 2210,
       "cur_tg": 1718,
       "max_tg": 1735
@@ -276,6 +276,15 @@
       "max_tg": 1962
     },
     {
+      "profile_id": 2850920,
+      "tag": "Chimtzin",
+      "clan": "Ux",
+      "cur_1v1": 2019,
+      "max_1v1": 2124,
+      "cur_tg": 1639,
+      "max_tg": 1820
+    },
+    {
       "profile_id": 6501299,
       "tag": "ShutAzarquay",
       "clan": "nW",
@@ -283,15 +292,6 @@
       "max_1v1": 2011,
       "cur_tg": 1731,
       "max_tg": 1745
-    },
-    {
-      "profile_id": 2850920,
-      "tag": "Chimtzin",
-      "clan": "Ux",
-      "cur_1v1": 2000,
-      "max_1v1": 2124,
-      "cur_tg": 1639,
-      "max_tg": 1820
     },
     {
       "profile_id": 2926018,
@@ -308,7 +308,7 @@
       "clan": "VL",
       "cur_1v1": 1952,
       "max_1v1": 1972,
-      "cur_tg": 1643,
+      "cur_tg": 1662,
       "max_tg": 1824
     },
     {
@@ -337,15 +337,6 @@
       "max_tg": 1755
     },
     {
-      "profile_id": 4764520,
-      "tag": "BooMBastic_",
-      "clan": "KH",
-      "cur_1v1": 1935,
-      "max_1v1": 2060,
-      "cur_tg": 1684,
-      "max_tg": 1788
-    },
-    {
       "profile_id": 2969449,
       "tag": "BetoxAOE",
       "clan": "VENÓN",
@@ -353,6 +344,15 @@
       "max_1v1": 1996,
       "cur_tg": 1807,
       "max_tg": 1821
+    },
+    {
+      "profile_id": 4764520,
+      "tag": "BooMBastic_",
+      "clan": "KH",
+      "cur_1v1": 1923,
+      "max_1v1": 2060,
+      "cur_tg": 1684,
+      "max_tg": 1788
     },
     {
       "profile_id": 278380,
