@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-15T05:45:09Z",
+  "updated_at": "2026-10-15T06:00:15Z",
   "baseline": {
     "taken_at": "2026-10-14T14:00:14Z",
     "ranks": {
@@ -223,15 +223,6 @@
       "max_tg": 1880
     },
     {
-      "profile_id": 2876835,
-      "tag": "Abejorro",
-      "clan": "nW",
-      "cur_1v1": 2097,
-      "max_1v1": 2152,
-      "cur_tg": 1675,
-      "max_tg": 1793
-    },
-    {
       "profile_id": 1947348,
       "tag": "themariach1",
       "clan": "nW",
@@ -248,6 +239,15 @@
       "max_1v1": 2309,
       "cur_tg": 1833,
       "max_tg": 1854
+    },
+    {
+      "profile_id": 2876835,
+      "tag": "Abejorro",
+      "clan": "nW",
+      "cur_1v1": 2082,
+      "max_1v1": 2152,
+      "cur_tg": 1675,
+      "max_tg": 1793
     },
     {
       "profile_id": 2934597,
