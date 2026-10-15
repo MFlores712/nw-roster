@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-15T01:30:13Z",
+  "updated_at": "2026-10-15T01:45:09Z",
   "baseline": {
     "taken_at": "2026-10-14T14:00:14Z",
     "ranks": {
@@ -49,7 +49,7 @@
       "profile_id": 5984120,
       "tag": "Combito",
       "clan": "Ux",
-      "cur_1v1": 2695,
+      "cur_1v1": 2702,
       "max_1v1": 2743,
       "cur_tg": 1673,
       "max_tg": 1885
@@ -339,6 +339,14 @@
       "max_tg": 1821
     },
     {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1929,
+      "max_1v1": 2003,
+      "cur_tg": 1412,
+      "max_tg": 1412
+    },
+    {
       "profile_id": 4764520,
       "tag": "BooMBastic_",
       "clan": "KH",
@@ -355,14 +363,6 @@
       "max_1v1": 1970,
       "cur_tg": 1807,
       "max_tg": 1865
-    },
-    {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1915,
-      "max_1v1": 2003,
-      "cur_tg": 1412,
-      "max_tg": 1412
     },
     {
       "profile_id": 324005,
