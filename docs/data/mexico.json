@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-16T03:00:13Z",
+  "updated_at": "2026-10-16T03:15:10Z",
   "baseline": {
     "taken_at": "2026-10-15T14:00:14Z",
     "ranks": {
@@ -85,7 +85,7 @@
       "profile_id": 9449579,
       "tag": "Miauricio",
       "clan": "VENÓN",
-      "cur_1v1": 2499,
+      "cur_1v1": 2485,
       "max_1v1": 2573,
       "cur_tg": 2140,
       "max_tg": 2151
@@ -180,6 +180,15 @@
       "max_tg": 1974
     },
     {
+      "profile_id": 13138746,
+      "tag": "FraKTal",
+      "clan": "hK",
+      "cur_1v1": 2209,
+      "max_1v1": 2215,
+      "cur_tg": 1840,
+      "max_tg": 1983
+    },
+    {
       "profile_id": 4412109,
       "tag": "HGB",
       "cur_1v1": 2203,
@@ -197,18 +206,9 @@
       "max_tg": 2024
     },
     {
-      "profile_id": 13138746,
-      "tag": "FraKTal",
-      "clan": "hK",
-      "cur_1v1": 2194,
-      "max_1v1": 2215,
-      "cur_tg": 1840,
-      "max_tg": 1983
-    },
-    {
       "profile_id": 611972,
       "tag": "NoLamePlease",
-      "cur_1v1": 2167,
+      "cur_1v1": 2171,
       "max_1v1": 2323,
       "cur_tg": 1811,
       "max_tg": 1880
@@ -259,6 +259,15 @@
       "max_tg": 1735
     },
     {
+      "profile_id": 2850920,
+      "tag": "Chimtzin",
+      "clan": "Ux",
+      "cur_1v1": 2023,
+      "max_1v1": 2124,
+      "cur_tg": 1639,
+      "max_tg": 1820
+    },
+    {
       "profile_id": 1249720,
       "tag": "Baldeitus",
       "clan": "VN",
@@ -285,13 +294,13 @@
       "max_tg": 1962
     },
     {
-      "profile_id": 2850920,
-      "tag": "Chimtzin",
-      "clan": "Ux",
-      "cur_1v1": 2002,
-      "max_1v1": 2124,
-      "cur_tg": 1639,
-      "max_tg": 1820
+      "profile_id": 2926018,
+      "tag": "PerezPodrido",
+      "clan": "SotC",
+      "cur_1v1": 1976,
+      "max_1v1": 2039,
+      "cur_tg": 1670,
+      "max_tg": 1888
     },
     {
       "profile_id": 3254820,
@@ -302,13 +311,13 @@
       "max_tg": 1412
     },
     {
-      "profile_id": 2926018,
-      "tag": "PerezPodrido",
-      "clan": "SotC",
-      "cur_1v1": 1961,
-      "max_1v1": 2039,
-      "cur_tg": 1670,
-      "max_tg": 1888
+      "profile_id": 13215279,
+      "tag": "GO1_mx",
+      "clan": "MZTK",
+      "cur_1v1": 1958,
+      "max_1v1": 2093,
+      "cur_tg": 1664,
+      "max_tg": 1860
     },
     {
       "profile_id": 2986966,
@@ -318,15 +327,6 @@
       "max_1v1": 1972,
       "cur_tg": 1656,
       "max_tg": 1824
-    },
-    {
-      "profile_id": 13215279,
-      "tag": "GO1_mx",
-      "clan": "MZTK",
-      "cur_1v1": 1947,
-      "max_1v1": 2093,
-      "cur_tg": 1664,
-      "max_tg": 1860
     },
     {
       "profile_id": 467847,
@@ -378,7 +378,7 @@
       "clan": "VN",
       "cur_1v1": 1909,
       "max_1v1": 1929,
-      "cur_tg": 1795,
+      "cur_tg": 1801,
       "max_tg": 1874
     }
   ],
