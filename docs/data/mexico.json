@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-16T19:00:14Z",
+  "updated_at": "2026-10-16T19:15:09Z",
   "baseline": {
     "taken_at": "2026-10-16T14:00:14Z",
     "ranks": {
@@ -224,15 +224,6 @@
       "max_tg": 1837
     },
     {
-      "profile_id": 12171002,
-      "tag": "iamkaito",
-      "clan": "nW",
-      "cur_1v1": 2109,
-      "max_1v1": 2309,
-      "cur_tg": 1825,
-      "max_tg": 1854
-    },
-    {
       "profile_id": 1947348,
       "tag": "themariach1",
       "clan": "nW",
@@ -240,6 +231,15 @@
       "max_1v1": 2211,
       "cur_tg": 1818,
       "max_tg": 2034
+    },
+    {
+      "profile_id": 12171002,
+      "tag": "iamkaito",
+      "clan": "nW",
+      "cur_1v1": 2091,
+      "max_1v1": 2309,
+      "cur_tg": 1825,
+      "max_tg": 1854
     },
     {
       "profile_id": 2850920,
