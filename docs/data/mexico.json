@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-16T03:30:10Z",
+  "updated_at": "2026-10-16T03:45:09Z",
   "baseline": {
     "taken_at": "2026-10-15T14:00:14Z",
     "ranks": {
@@ -299,7 +299,7 @@
       "clan": "SotC",
       "cur_1v1": 1976,
       "max_1v1": 2039,
-      "cur_tg": 1670,
+      "cur_tg": 1685,
       "max_tg": 1888
     },
     {
@@ -318,15 +318,6 @@
       "max_1v1": 1972,
       "cur_tg": 1631,
       "max_tg": 1824
-    },
-    {
-      "profile_id": 13215279,
-      "tag": "GO1_mx",
-      "clan": "MZTK",
-      "cur_1v1": 1944,
-      "max_1v1": 2093,
-      "cur_tg": 1664,
-      "max_tg": 1860
     },
     {
       "profile_id": 467847,
@@ -355,6 +346,15 @@
       "max_tg": 1821
     },
     {
+      "profile_id": 13215279,
+      "tag": "GO1_mx",
+      "clan": "MZTK",
+      "cur_1v1": 1926,
+      "max_1v1": 2093,
+      "cur_tg": 1664,
+      "max_tg": 1860
+    },
+    {
       "profile_id": 4764520,
       "tag": "BooMBastic_",
       "clan": "KH",
@@ -378,7 +378,7 @@
       "clan": "VN",
       "cur_1v1": 1909,
       "max_1v1": 1929,
-      "cur_tg": 1801,
+      "cur_tg": 1773,
       "max_tg": 1874
     }
   ],
