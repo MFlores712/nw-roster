@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-16T22:00:12Z",
+  "updated_at": "2026-10-16T22:15:10Z",
   "baseline": {
     "taken_at": "2026-10-16T14:00:14Z",
     "ranks": {
@@ -167,7 +167,7 @@
       "clan": "VN",
       "cur_1v1": 2251,
       "max_1v1": 2285,
-      "cur_tg": 1919,
+      "cur_tg": 1908,
       "max_tg": 2050
     },
     {
@@ -270,11 +270,11 @@
     },
     {
       "profile_id": 1249720,
-      "tag": "Baldeitus",
+      "tag": "Asdrubald",
       "clan": "VN",
       "cur_1v1": 2020,
       "max_1v1": 2087,
-      "cur_tg": 1825,
+      "cur_tg": 1837,
       "max_tg": 1997
     },
     {
@@ -379,7 +379,7 @@
       "clan": "VN",
       "cur_1v1": 1909,
       "max_1v1": 1929,
-      "cur_tg": 1773,
+      "cur_tg": 1771,
       "max_tg": 1874
     }
   ],
