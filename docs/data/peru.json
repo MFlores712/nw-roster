@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-16T15:30:11Z",
+  "updated_at": "2026-10-16T16:15:10Z",
   "baseline": {
     "taken_at": "2026-10-16T14:00:14Z",
     "ranks": {
@@ -72,8 +72,8 @@
       "profile_id": 4229962,
       "tag": "Réyiman",
       "clan": "LvSP",
-      "cur_1v1": 2108,
-      "max_1v1": 2112,
+      "cur_1v1": 2129,
+      "max_1v1": 2129,
       "cur_tg": 1646,
       "max_tg": 1719
     },
@@ -129,15 +129,6 @@
       "max_tg": 1843
     },
     {
-      "profile_id": 4167535,
-      "tag": "Dia franptom",
-      "clan": "LE",
-      "cur_1v1": 1925,
-      "max_1v1": 1995,
-      "cur_tg": 1452,
-      "max_tg": 1581
-    },
-    {
       "profile_id": 4234652,
       "tag": "_The_Oldergold",
       "cur_1v1": 1911,
@@ -162,6 +153,15 @@
       "max_1v1": 1988,
       "cur_tg": 1562,
       "max_tg": 1565
+    },
+    {
+      "profile_id": 4167535,
+      "tag": "Dia franptom",
+      "clan": "LE",
+      "cur_1v1": 1903,
+      "max_1v1": 1995,
+      "cur_tg": 1452,
+      "max_tg": 1581
     },
     {
       "profile_id": 1865687,
