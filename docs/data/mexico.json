@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-16T21:45:10Z",
+  "updated_at": "2026-10-16T22:00:12Z",
   "baseline": {
     "taken_at": "2026-10-16T14:00:14Z",
     "ranks": {
@@ -69,7 +69,7 @@
       "clan": "Ux",
       "cur_1v1": 2660,
       "max_1v1": 2685,
-      "cur_tg": 2055,
+      "cur_tg": 2045,
       "max_tg": 2066
     },
     {
@@ -147,7 +147,7 @@
       "profile_id": 9031952,
       "tag": "ChossMx",
       "clan": "hK",
-      "cur_1v1": 2283,
+      "cur_1v1": 2299,
       "max_1v1": 2307,
       "cur_tg": 1955,
       "max_tg": 1982
