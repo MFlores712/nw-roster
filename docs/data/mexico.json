@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-16T05:15:09Z",
+  "updated_at": "2026-10-16T05:30:12Z",
   "baseline": {
     "taken_at": "2026-10-15T14:00:14Z",
     "ranks": {
@@ -228,7 +228,7 @@
       "clan": "nW",
       "cur_1v1": 2109,
       "max_1v1": 2309,
-      "cur_tg": 1823,
+      "cur_tg": 1825,
       "max_tg": 1854
     },
     {
@@ -299,7 +299,7 @@
       "clan": "SotC",
       "cur_1v1": 1976,
       "max_1v1": 2039,
-      "cur_tg": 1676,
+      "cur_tg": 1658,
       "max_tg": 1888
     },
     {
@@ -342,7 +342,7 @@
       "clan": "VENÓN",
       "cur_1v1": 1931,
       "max_1v1": 1996,
-      "cur_tg": 1813,
+      "cur_tg": 1820,
       "max_tg": 1821
     },
     {
