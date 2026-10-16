@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-16T16:30:12Z",
+  "updated_at": "2026-10-16T17:00:14Z",
   "baseline": {
     "taken_at": "2026-10-16T14:00:14Z",
     "ranks": {
@@ -76,7 +76,7 @@
       "profile_id": 13099159,
       "tag": "Uzzi",
       "clan": "Ux",
-      "cur_1v1": 2567,
+      "cur_1v1": 2554,
       "max_1v1": 2629,
       "cur_tg": 1782,
       "max_tg": 1999
