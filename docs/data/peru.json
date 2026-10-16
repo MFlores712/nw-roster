@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-16T16:30:12Z",
+  "updated_at": "2026-10-16T16:45:09Z",
   "baseline": {
     "taken_at": "2026-10-16T14:00:14Z",
     "ranks": {
@@ -74,7 +74,7 @@
       "clan": "LvSP",
       "cur_1v1": 2129,
       "max_1v1": 2129,
-      "cur_tg": 1646,
+      "cur_tg": 1622,
       "max_tg": 1719
     },
     {
@@ -91,7 +91,7 @@
       "tag": "noru",
       "cur_1v1": 2031,
       "max_1v1": 2031,
-      "cur_tg": 1721,
+      "cur_tg": 1730,
       "max_tg": 1840
     },
     {
@@ -167,7 +167,7 @@
       "profile_id": 4167535,
       "tag": "Dia franptom",
       "clan": "LE",
-      "cur_1v1": 1892,
+      "cur_1v1": 1882,
       "max_1v1": 1995,
       "cur_tg": 1452,
       "max_tg": 1581
