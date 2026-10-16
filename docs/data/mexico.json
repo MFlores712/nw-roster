@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-16T22:15:10Z",
+  "updated_at": "2026-10-16T22:30:11Z",
   "baseline": {
     "taken_at": "2026-10-16T14:00:14Z",
     "ranks": {
@@ -111,7 +111,7 @@
       "profile_id": 310739,
       "tag": "SoyLaHostia",
       "clan": "hK",
-      "cur_1v1": 2390,
+      "cur_1v1": 2397,
       "max_1v1": 2484,
       "cur_tg": 1781,
       "max_tg": 1959
@@ -126,6 +126,15 @@
       "max_tg": 2072
     },
     {
+      "profile_id": 1485562,
+      "tag": "MrOsoVC8",
+      "clan": "VENÓN",
+      "cur_1v1": 2335,
+      "max_1v1": 2394,
+      "cur_tg": 1874,
+      "max_tg": 2099
+    },
+    {
       "profile_id": 2295504,
       "tag": "Eren",
       "clan": "hK",
@@ -133,15 +142,6 @@
       "max_1v1": 2333,
       "cur_tg": 1845,
       "max_tg": 1907
-    },
-    {
-      "profile_id": 1485562,
-      "tag": "MrOsoVC8",
-      "clan": "VENÓN",
-      "cur_1v1": 2319,
-      "max_1v1": 2394,
-      "cur_tg": 1874,
-      "max_tg": 2099
     },
     {
       "profile_id": 9031952,
@@ -167,7 +167,7 @@
       "clan": "VN",
       "cur_1v1": 2251,
       "max_1v1": 2285,
-      "cur_tg": 1908,
+      "cur_tg": 1888,
       "max_tg": 2050
     },
     {
@@ -274,7 +274,7 @@
       "clan": "VN",
       "cur_1v1": 2020,
       "max_1v1": 2087,
-      "cur_tg": 1837,
+      "cur_tg": 1819,
       "max_tg": 1997
     },
     {
@@ -379,7 +379,7 @@
       "clan": "VN",
       "cur_1v1": 1909,
       "max_1v1": 1929,
-      "cur_tg": 1771,
+      "cur_tg": 1756,
       "max_tg": 1874
     }
   ],
