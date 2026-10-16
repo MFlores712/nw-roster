@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-16T01:15:14Z",
+  "updated_at": "2026-10-16T01:30:11Z",
   "baseline": {
     "taken_at": "2026-10-15T14:00:14Z",
     "ranks": {
@@ -185,7 +185,7 @@
       "clan": "hK",
       "cur_1v1": 2214,
       "max_1v1": 2350,
-      "cur_tg": 1933,
+      "cur_tg": 1937,
       "max_tg": 1974
     },
     {
@@ -217,10 +217,19 @@
     {
       "profile_id": 611972,
       "tag": "NoLamePlease",
-      "cur_1v1": 2147,
+      "cur_1v1": 2164,
       "max_1v1": 2323,
       "cur_tg": 1811,
       "max_tg": 1880
+    },
+    {
+      "profile_id": 12171002,
+      "tag": "iamkaito",
+      "clan": "nW",
+      "cur_1v1": 2098,
+      "max_1v1": 2309,
+      "cur_tg": 1823,
+      "max_tg": 1854
     },
     {
       "profile_id": 1947348,
@@ -230,15 +239,6 @@
       "max_1v1": 2211,
       "cur_tg": 1818,
       "max_tg": 2034
-    },
-    {
-      "profile_id": 12171002,
-      "tag": "iamkaito",
-      "clan": "nW",
-      "cur_1v1": 2087,
-      "max_1v1": 2309,
-      "cur_tg": 1823,
-      "max_tg": 1854
     },
     {
       "profile_id": 2876835,
@@ -294,6 +294,14 @@
       "max_tg": 1820
     },
     {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1964,
+      "max_1v1": 2003,
+      "cur_tg": 1412,
+      "max_tg": 1412
+    },
+    {
       "profile_id": 2926018,
       "tag": "PerezPodrido",
       "clan": "SotC",
@@ -319,14 +327,6 @@
       "max_1v1": 2093,
       "cur_tg": 1664,
       "max_tg": 1860
-    },
-    {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1944,
-      "max_1v1": 2003,
-      "cur_tg": 1412,
-      "max_tg": 1412
     },
     {
       "profile_id": 467847,
