@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-16T05:45:09Z",
+  "updated_at": "2026-10-16T06:15:11Z",
   "baseline": {
     "taken_at": "2026-10-15T14:00:14Z",
     "ranks": {
@@ -299,7 +299,7 @@
       "clan": "SotC",
       "cur_1v1": 1976,
       "max_1v1": 2039,
-      "cur_tg": 1658,
+      "cur_tg": 1669,
       "max_tg": 1888
     },
     {
