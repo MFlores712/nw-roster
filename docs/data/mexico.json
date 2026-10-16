@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-16T20:57:53Z",
+  "updated_at": "2026-10-16T21:15:09Z",
   "baseline": {
     "taken_at": "2026-10-16T14:00:14Z",
     "ranks": {
@@ -138,25 +138,16 @@
       "profile_id": 1485562,
       "tag": "MrOsoVC8",
       "clan": "VENÓN",
-      "cur_1v1": 2304,
+      "cur_1v1": 2319,
       "max_1v1": 2394,
       "cur_tg": 1874,
       "max_tg": 2099
     },
     {
-      "profile_id": 2598146,
-      "tag": "SiNisTeR",
-      "clan": "VENÓN",
-      "cur_1v1": 2277,
-      "max_1v1": 2368,
-      "cur_tg": 2182,
-      "max_tg": 2227
-    },
-    {
       "profile_id": 9031952,
       "tag": "ChossMx",
       "clan": "hK",
-      "cur_1v1": 2271,
+      "cur_1v1": 2283,
       "max_1v1": 2307,
       "cur_tg": 1955,
       "max_tg": 1982
@@ -171,6 +162,15 @@
       "max_tg": 2050
     },
     {
+      "profile_id": 2598146,
+      "tag": "SiNisTeR",
+      "clan": "VENÓN",
+      "cur_1v1": 2262,
+      "max_1v1": 2368,
+      "cur_tg": 2182,
+      "max_tg": 2227
+    },
+    {
       "profile_id": 580573,
       "tag": "Puerco_Negro",
       "clan": "hK",
@@ -178,15 +178,6 @@
       "max_1v1": 2350,
       "cur_tg": 1937,
       "max_tg": 1974
-    },
-    {
-      "profile_id": 13138746,
-      "tag": "FraKTal",
-      "clan": "hK",
-      "cur_1v1": 2209,
-      "max_1v1": 2215,
-      "cur_tg": 1840,
-      "max_tg": 1983
     },
     {
       "profile_id": 4412109,
@@ -204,6 +195,15 @@
       "max_1v1": 2241,
       "cur_tg": 1909,
       "max_tg": 2024
+    },
+    {
+      "profile_id": 13138746,
+      "tag": "FraKTal",
+      "clan": "hK",
+      "cur_1v1": 2192,
+      "max_1v1": 2215,
+      "cur_tg": 1840,
+      "max_tg": 1983
     },
     {
       "profile_id": 611972,
