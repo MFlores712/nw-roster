@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-16T19:15:09Z",
+  "updated_at": "2026-10-16T19:30:12Z",
   "baseline": {
     "taken_at": "2026-10-16T14:00:14Z",
     "ranks": {
@@ -49,7 +49,7 @@
       "profile_id": 5984120,
       "tag": "Combito",
       "clan": "Ux",
-      "cur_1v1": 2752,
+      "cur_1v1": 2743,
       "max_1v1": 2752,
       "cur_tg": 1731,
       "max_tg": 1885
@@ -158,7 +158,7 @@
       "clan": "VN",
       "cur_1v1": 2271,
       "max_1v1": 2285,
-      "cur_tg": 1907,
+      "cur_tg": 1919,
       "max_tg": 2050
     },
     {
@@ -288,7 +288,7 @@
     },
     {
       "profile_id": 9770338,
-      "tag": "Zoschenko",
+      "tag": "SynfonY",
       "cur_1v1": 2005,
       "max_1v1": 2020,
       "cur_tg": 1806,
