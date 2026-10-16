@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-16T19:45:10Z",
+  "updated_at": "2026-10-16T20:15:09Z",
   "baseline": {
     "taken_at": "2026-10-16T14:00:14Z",
     "ranks": {
@@ -45,7 +45,7 @@
       "profile_id": 9558892,
       "tag": "WilliamS",
       "clan": "LE",
-      "cur_1v1": 2292,
+      "cur_1v1": 2278,
       "max_1v1": 2423,
       "cur_tg": 1772,
       "max_tg": 1846
@@ -155,6 +155,15 @@
       "max_tg": 1565
     },
     {
+      "profile_id": 4167535,
+      "tag": "Dia franptom",
+      "clan": "LE",
+      "cur_1v1": 1903,
+      "max_1v1": 1995,
+      "cur_tg": 1452,
+      "max_tg": 1581
+    },
+    {
       "profile_id": 1865687,
       "tag": "Pentrus",
       "clan": "CTM",
@@ -162,15 +171,6 @@
       "max_1v1": 1902,
       "cur_tg": 1509,
       "max_tg": 1608
-    },
-    {
-      "profile_id": 4167535,
-      "tag": "Dia franptom",
-      "clan": "LE",
-      "cur_1v1": 1886,
-      "max_1v1": 1995,
-      "cur_tg": 1452,
-      "max_tg": 1581
     }
   ],
   "show_top": 15

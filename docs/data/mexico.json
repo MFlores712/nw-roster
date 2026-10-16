@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-16T20:00:15Z",
+  "updated_at": "2026-10-16T20:15:09Z",
   "baseline": {
     "taken_at": "2026-10-16T14:00:14Z",
     "ranks": {
@@ -49,7 +49,7 @@
       "profile_id": 5984120,
       "tag": "Combito",
       "clan": "Ux",
-      "cur_1v1": 2743,
+      "cur_1v1": 2747,
       "max_1v1": 2752,
       "cur_tg": 1731,
       "max_tg": 1885
@@ -111,7 +111,7 @@
       "profile_id": 310739,
       "tag": "SoyLaHostia",
       "clan": "hK",
-      "cur_1v1": 2394,
+      "cur_1v1": 2390,
       "max_1v1": 2484,
       "cur_tg": 1781,
       "max_tg": 1959
@@ -135,15 +135,6 @@
       "max_tg": 1907
     },
     {
-      "profile_id": 2598146,
-      "tag": "SiNisTeR",
-      "clan": "VENÓN",
-      "cur_1v1": 2296,
-      "max_1v1": 2368,
-      "cur_tg": 2182,
-      "max_tg": 2227
-    },
-    {
       "profile_id": 1485562,
       "tag": "MrOsoVC8",
       "clan": "VENÓN",
@@ -151,6 +142,15 @@
       "max_1v1": 2394,
       "cur_tg": 1874,
       "max_tg": 2099
+    },
+    {
+      "profile_id": 2598146,
+      "tag": "SiNisTeR",
+      "clan": "VENÓN",
+      "cur_1v1": 2277,
+      "max_1v1": 2368,
+      "cur_tg": 2182,
+      "max_tg": 2227
     },
     {
       "profile_id": 757886,
@@ -278,6 +278,14 @@
       "max_tg": 1997
     },
     {
+      "profile_id": 9770338,
+      "tag": "SynfonY",
+      "cur_1v1": 2016,
+      "max_1v1": 2020,
+      "cur_tg": 1806,
+      "max_tg": 1962
+    },
+    {
       "profile_id": 6501299,
       "tag": "ShutAzarquay",
       "clan": "nW",
@@ -285,14 +293,6 @@
       "max_1v1": 2011,
       "cur_tg": 1731,
       "max_tg": 1745
-    },
-    {
-      "profile_id": 9770338,
-      "tag": "SynfonY",
-      "cur_1v1": 2005,
-      "max_1v1": 2020,
-      "cur_tg": 1806,
-      "max_tg": 1962
     },
     {
       "profile_id": 2926018,
@@ -365,6 +365,15 @@
       "max_tg": 1788
     },
     {
+      "profile_id": 358501,
+      "tag": "El Claut_One",
+      "clan": "VENÓN",
+      "cur_1v1": 1916,
+      "max_1v1": 2115,
+      "cur_tg": 1757,
+      "max_tg": 1820
+    },
+    {
       "profile_id": 324005,
       "tag": "Narizberto",
       "clan": "VN",
@@ -372,15 +381,6 @@
       "max_1v1": 1929,
       "cur_tg": 1773,
       "max_tg": 1874
-    },
-    {
-      "profile_id": 358501,
-      "tag": "El Claut_One",
-      "clan": "VENÓN",
-      "cur_1v1": 1897,
-      "max_1v1": 2115,
-      "cur_tg": 1757,
-      "max_tg": 1820
     }
   ],
   "show_top": 30
