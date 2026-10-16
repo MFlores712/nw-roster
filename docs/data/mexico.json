@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-16T06:15:11Z",
+  "updated_at": "2026-10-16T07:00:16Z",
   "baseline": {
     "taken_at": "2026-10-15T14:00:14Z",
     "ranks": {
@@ -360,14 +360,14 @@
       "clan": "KH",
       "cur_1v1": 1920,
       "max_1v1": 2060,
-      "cur_tg": 1688,
+      "cur_tg": 1676,
       "max_tg": 1788
     },
     {
       "profile_id": 358501,
       "tag": "El Claut_One",
       "clan": "VENÓN",
-      "cur_1v1": 1917,
+      "cur_1v1": 1911,
       "max_1v1": 2115,
       "cur_tg": 1757,
       "max_tg": 1820
