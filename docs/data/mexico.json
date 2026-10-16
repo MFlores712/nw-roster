@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-16T02:15:10Z",
+  "updated_at": "2026-10-16T02:30:10Z",
   "baseline": {
     "taken_at": "2026-10-15T14:00:14Z",
     "ranks": {
@@ -285,18 +285,10 @@
       "max_tg": 1962
     },
     {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1979,
-      "max_1v1": 2003,
-      "cur_tg": 1412,
-      "max_tg": 1412
-    },
-    {
       "profile_id": 2850920,
       "tag": "Chimtzin",
       "clan": "Ux",
-      "cur_1v1": 1978,
+      "cur_1v1": 2002,
       "max_1v1": 2124,
       "cur_tg": 1639,
       "max_tg": 1820
@@ -309,6 +301,14 @@
       "max_1v1": 2039,
       "cur_tg": 1670,
       "max_tg": 1888
+    },
+    {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1965,
+      "max_1v1": 2003,
+      "cur_tg": 1412,
+      "max_tg": 1412
     },
     {
       "profile_id": 2986966,
