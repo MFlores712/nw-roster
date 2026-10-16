@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-16T02:30:10Z",
+  "updated_at": "2026-10-16T02:45:08Z",
   "baseline": {
     "taken_at": "2026-10-15T14:00:14Z",
     "ranks": {
@@ -93,7 +93,7 @@
       "clan": "VLC",
       "cur_1v1": 1950,
       "max_1v1": 1950,
-      "cur_tg": 1726,
+      "cur_tg": 1707,
       "max_tg": 1764
     },
     {

@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-16T02:30:10Z",
+  "updated_at": "2026-10-16T02:45:08Z",
   "baseline": {
     "taken_at": "2026-10-15T14:00:14Z",
     "ranks": {
@@ -85,7 +85,7 @@
       "profile_id": 9449579,
       "tag": "Miauricio",
       "clan": "VENÓN",
-      "cur_1v1": 2515,
+      "cur_1v1": 2499,
       "max_1v1": 2573,
       "cur_tg": 2140,
       "max_tg": 2151
@@ -226,7 +226,7 @@
       "profile_id": 12171002,
       "tag": "iamkaito",
       "clan": "nW",
-      "cur_1v1": 2098,
+      "cur_1v1": 2109,
       "max_1v1": 2309,
       "cur_tg": 1823,
       "max_tg": 1854
@@ -297,7 +297,7 @@
       "profile_id": 2926018,
       "tag": "PerezPodrido",
       "clan": "SotC",
-      "cur_1v1": 1973,
+      "cur_1v1": 1985,
       "max_1v1": 2039,
       "cur_tg": 1670,
       "max_tg": 1888
@@ -374,7 +374,7 @@
     },
     {
       "profile_id": 324005,
-      "tag": "Zko",
+      "tag": "Narizberto",
       "clan": "VN",
       "cur_1v1": 1909,
       "max_1v1": 1929,
