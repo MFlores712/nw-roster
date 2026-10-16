@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-16T00:30:11Z",
+  "updated_at": "2026-10-16T00:45:08Z",
   "baseline": {
     "taken_at": "2026-10-15T14:00:14Z",
     "ranks": {
@@ -156,7 +156,7 @@
       "profile_id": 757886,
       "tag": "DarK_KnighT_",
       "clan": "VN",
-      "cur_1v1": 2260,
+      "cur_1v1": 2271,
       "max_1v1": 2285,
       "cur_tg": 1909,
       "max_tg": 2050
@@ -217,7 +217,7 @@
     {
       "profile_id": 611972,
       "tag": "NoLamePlease",
-      "cur_1v1": 2152,
+      "cur_1v1": 2141,
       "max_1v1": 2323,
       "cur_tg": 1811,
       "max_tg": 1880
@@ -321,6 +321,14 @@
       "max_tg": 1860
     },
     {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1944,
+      "max_1v1": 2003,
+      "cur_tg": 1412,
+      "max_tg": 1412
+    },
+    {
       "profile_id": 467847,
       "tag": "DoN.Vergas",
       "cur_1v1": 1940,
@@ -329,12 +337,13 @@
       "max_tg": 1755
     },
     {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1935,
-      "max_1v1": 2003,
-      "cur_tg": 1412,
-      "max_tg": 1412
+      "profile_id": 278380,
+      "tag": "Lemoine",
+      "clan": "VL",
+      "cur_1v1": 1933,
+      "max_1v1": 1970,
+      "cur_tg": 1807,
+      "max_tg": 1865
     },
     {
       "profile_id": 2969449,
@@ -362,15 +371,6 @@
       "max_1v1": 2115,
       "cur_tg": 1757,
       "max_tg": 1820
-    },
-    {
-      "profile_id": 278380,
-      "tag": "Lemoine",
-      "clan": "VL",
-      "cur_1v1": 1916,
-      "max_1v1": 1970,
-      "cur_tg": 1807,
-      "max_tg": 1865
     },
     {
       "profile_id": 324005,
