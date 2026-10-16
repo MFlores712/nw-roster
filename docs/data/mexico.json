@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-16T23:29:02Z",
+  "updated_at": "2026-10-16T23:45:08Z",
   "baseline": {
     "taken_at": "2026-10-16T14:00:14Z",
     "ranks": {
@@ -149,7 +149,7 @@
       "clan": "hK",
       "cur_1v1": 2299,
       "max_1v1": 2307,
-      "cur_tg": 1955,
+      "cur_tg": 1933,
       "max_tg": 1982
     },
     {
@@ -202,7 +202,7 @@
       "clan": "hK",
       "cur_1v1": 2192,
       "max_1v1": 2215,
-      "cur_tg": 1840,
+      "cur_tg": 1822,
       "max_tg": 1983
     },
     {
@@ -313,14 +313,6 @@
       "max_tg": 1824
     },
     {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1946,
-      "max_1v1": 2003,
-      "cur_tg": 1412,
-      "max_tg": 1412
-    },
-    {
       "profile_id": 467847,
       "tag": "DoN.Vergas",
       "cur_1v1": 1940,
@@ -345,6 +337,14 @@
       "max_1v1": 1996,
       "cur_tg": 1820,
       "max_tg": 1821
+    },
+    {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1929,
+      "max_1v1": 2003,
+      "cur_tg": 1412,
+      "max_tg": 1412
     },
     {
       "profile_id": 13215279,
