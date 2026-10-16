@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-16T20:15:09Z",
+  "updated_at": "2026-10-16T20:30:21Z",
   "baseline": {
     "taken_at": "2026-10-16T14:00:14Z",
     "ranks": {
@@ -165,7 +165,7 @@
       "profile_id": 9031952,
       "tag": "ChossMx",
       "clan": "hK",
-      "cur_1v1": 2253,
+      "cur_1v1": 2262,
       "max_1v1": 2307,
       "cur_tg": 1955,
       "max_tg": 1982
