@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-16T04:00:13Z",
+  "updated_at": "2026-10-16T04:15:10Z",
   "baseline": {
     "taken_at": "2026-10-15T14:00:14Z",
     "ranks": {
@@ -250,6 +250,15 @@
       "max_tg": 1793
     },
     {
+      "profile_id": 2850920,
+      "tag": "Chimtzin",
+      "clan": "Ux",
+      "cur_1v1": 2058,
+      "max_1v1": 2124,
+      "cur_tg": 1639,
+      "max_tg": 1820
+    },
+    {
       "profile_id": 2934597,
       "tag": "Sgt.Pepper",
       "clan": "nW",
@@ -257,15 +266,6 @@
       "max_1v1": 2210,
       "cur_tg": 1718,
       "max_tg": 1735
-    },
-    {
-      "profile_id": 2850920,
-      "tag": "Chimtzin",
-      "clan": "Ux",
-      "cur_1v1": 2033,
-      "max_1v1": 2124,
-      "cur_tg": 1639,
-      "max_tg": 1820
     },
     {
       "profile_id": 1249720,
@@ -299,7 +299,7 @@
       "clan": "SotC",
       "cur_1v1": 1976,
       "max_1v1": 2039,
-      "cur_tg": 1663,
+      "cur_tg": 1676,
       "max_tg": 1888
     },
     {
@@ -316,7 +316,7 @@
       "clan": "VL",
       "cur_1v1": 1952,
       "max_1v1": 1972,
-      "cur_tg": 1631,
+      "cur_tg": 1646,
       "max_tg": 1824
     },
     {
@@ -342,7 +342,7 @@
       "clan": "VENÓN",
       "cur_1v1": 1931,
       "max_1v1": 1996,
-      "cur_tg": 1807,
+      "cur_tg": 1813,
       "max_tg": 1821
     },
     {
@@ -360,7 +360,7 @@
       "clan": "KH",
       "cur_1v1": 1923,
       "max_1v1": 2060,
-      "cur_tg": 1696,
+      "cur_tg": 1688,
       "max_tg": 1788
     },
     {
