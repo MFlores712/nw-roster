@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-16T20:45:10Z",
+  "updated_at": "2026-10-16T20:57:53Z",
   "baseline": {
     "taken_at": "2026-10-16T14:00:14Z",
     "ranks": {
@@ -153,22 +153,22 @@
       "max_tg": 2227
     },
     {
-      "profile_id": 757886,
-      "tag": "DarK_KnighT_",
-      "clan": "VN",
-      "cur_1v1": 2271,
-      "max_1v1": 2285,
-      "cur_tg": 1919,
-      "max_tg": 2050
-    },
-    {
       "profile_id": 9031952,
       "tag": "ChossMx",
       "clan": "hK",
-      "cur_1v1": 2262,
+      "cur_1v1": 2271,
       "max_1v1": 2307,
       "cur_tg": 1955,
       "max_tg": 1982
+    },
+    {
+      "profile_id": 757886,
+      "tag": "DarK_KnighT_",
+      "clan": "VN",
+      "cur_1v1": 2263,
+      "max_1v1": 2285,
+      "cur_tg": 1919,
+      "max_tg": 2050
     },
     {
       "profile_id": 580573,
