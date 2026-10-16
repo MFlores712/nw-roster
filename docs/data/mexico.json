@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-16T14:30:12Z",
+  "updated_at": "2026-10-16T16:00:14Z",
   "baseline": {
     "taken_at": "2026-10-16T14:00:14Z",
     "ranks": {
@@ -291,7 +291,13 @@
       "cur_1v1": 2005,
       "max_1v1": 2020,
       "cur_tg": 1806,
-      "max_tg": 1962
+      "max_tg": 1962,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     },
     {
       "profile_id": 2926018,
