@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-16T22:45:08Z",
+  "updated_at": "2026-10-16T23:15:08Z",
   "baseline": {
     "taken_at": "2026-10-16T14:00:14Z",
     "ranks": {
@@ -91,7 +91,7 @@
       "tag": "noru",
       "cur_1v1": 2031,
       "max_1v1": 2031,
-      "cur_tg": 1740,
+      "cur_tg": 1725,
       "max_tg": 1840
     },
     {
@@ -132,7 +132,7 @@
       "profile_id": 3034651,
       "tag": "KinG-Viza",
       "clan": "Bz",
-      "cur_1v1": 1924,
+      "cur_1v1": 1930,
       "max_1v1": 2035,
       "cur_tg": 1602,
       "max_tg": 1657
