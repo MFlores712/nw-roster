@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-16T02:45:08Z",
+  "updated_at": "2026-10-16T03:00:13Z",
   "baseline": {
     "taken_at": "2026-10-15T14:00:14Z",
     "ranks": {
@@ -294,15 +294,6 @@
       "max_tg": 1820
     },
     {
-      "profile_id": 2926018,
-      "tag": "PerezPodrido",
-      "clan": "SotC",
-      "cur_1v1": 1985,
-      "max_1v1": 2039,
-      "cur_tg": 1670,
-      "max_tg": 1888
-    },
-    {
       "profile_id": 3254820,
       "tag": "__Chino",
       "cur_1v1": 1965,
@@ -311,12 +302,21 @@
       "max_tg": 1412
     },
     {
+      "profile_id": 2926018,
+      "tag": "PerezPodrido",
+      "clan": "SotC",
+      "cur_1v1": 1961,
+      "max_1v1": 2039,
+      "cur_tg": 1670,
+      "max_tg": 1888
+    },
+    {
       "profile_id": 2986966,
       "tag": "JPGP",
       "clan": "VL",
       "cur_1v1": 1952,
       "max_1v1": 1972,
-      "cur_tg": 1648,
+      "cur_tg": 1656,
       "max_tg": 1824
     },
     {
