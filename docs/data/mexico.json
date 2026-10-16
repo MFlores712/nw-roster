@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-16T07:00:16Z",
+  "updated_at": "2026-10-16T08:00:13Z",
   "baseline": {
     "taken_at": "2026-10-15T14:00:14Z",
     "ranks": {
@@ -250,6 +250,15 @@
       "max_tg": 1793
     },
     {
+      "profile_id": 2850920,
+      "tag": "Chimtzin",
+      "clan": "Ux",
+      "cur_1v1": 2059,
+      "max_1v1": 2124,
+      "cur_tg": 1639,
+      "max_tg": 1820
+    },
+    {
       "profile_id": 2934597,
       "tag": "Sgt.Pepper",
       "clan": "nW",
@@ -257,15 +266,6 @@
       "max_1v1": 2210,
       "cur_tg": 1718,
       "max_tg": 1735
-    },
-    {
-      "profile_id": 2850920,
-      "tag": "Chimtzin",
-      "clan": "Ux",
-      "cur_1v1": 2045,
-      "max_1v1": 2124,
-      "cur_tg": 1639,
-      "max_tg": 1820
     },
     {
       "profile_id": 1249720,
@@ -364,15 +364,6 @@
       "max_tg": 1788
     },
     {
-      "profile_id": 358501,
-      "tag": "El Claut_One",
-      "clan": "VENÓN",
-      "cur_1v1": 1911,
-      "max_1v1": 2115,
-      "cur_tg": 1757,
-      "max_tg": 1820
-    },
-    {
       "profile_id": 324005,
       "tag": "Narizberto",
       "clan": "VN",
@@ -380,6 +371,15 @@
       "max_1v1": 1929,
       "cur_tg": 1773,
       "max_tg": 1874
+    },
+    {
+      "profile_id": 358501,
+      "tag": "El Claut_One",
+      "clan": "VENÓN",
+      "cur_1v1": 1897,
+      "max_1v1": 2115,
+      "cur_tg": 1757,
+      "max_tg": 1820
     }
   ],
   "show_top": 30
