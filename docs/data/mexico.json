@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-16T18:30:14Z",
+  "updated_at": "2026-10-16T19:00:14Z",
   "baseline": {
     "taken_at": "2026-10-16T14:00:14Z",
     "ranks": {
@@ -304,14 +304,6 @@
       "max_tg": 1888
     },
     {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1965,
-      "max_1v1": 2003,
-      "cur_tg": 1412,
-      "max_tg": 1412
-    },
-    {
       "profile_id": 2986966,
       "tag": "JPGP",
       "clan": "VL",
@@ -319,6 +311,14 @@
       "max_1v1": 1972,
       "cur_tg": 1646,
       "max_tg": 1824
+    },
+    {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1946,
+      "max_1v1": 2003,
+      "cur_tg": 1412,
+      "max_tg": 1412
     },
     {
       "profile_id": 467847,
