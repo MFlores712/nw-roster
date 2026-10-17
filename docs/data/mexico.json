@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-17T07:15:09Z",
+  "updated_at": "2026-10-17T07:30:10Z",
   "baseline": {
     "taken_at": "2026-10-16T14:00:14Z",
     "ranks": {
@@ -132,7 +132,7 @@
       "clan": "VENÓN",
       "cur_1v1": 2335,
       "max_1v1": 2394,
-      "cur_tg": 1852,
+      "cur_tg": 1827,
       "max_tg": 2099
     },
     {
@@ -150,7 +150,7 @@
       "clan": "hK",
       "cur_1v1": 2322,
       "max_1v1": 2322,
-      "cur_tg": 1947,
+      "cur_tg": 1929,
       "max_tg": 1982
     },
     {
@@ -220,7 +220,7 @@
       "tag": "NoLamePlease",
       "cur_1v1": 2175,
       "max_1v1": 2323,
-      "cur_tg": 1836,
+      "cur_tg": 1821,
       "max_tg": 1880
     },
     {
@@ -371,7 +371,7 @@
       "clan": "KH",
       "cur_1v1": 1920,
       "max_1v1": 2060,
-      "cur_tg": 1715,
+      "cur_tg": 1705,
       "max_tg": 1788
     },
     {
