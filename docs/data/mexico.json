@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-17T02:30:12Z",
+  "updated_at": "2026-10-17T02:45:08Z",
   "baseline": {
     "taken_at": "2026-10-16T14:00:14Z",
     "ranks": {
@@ -321,6 +321,15 @@
       "max_tg": 1755
     },
     {
+      "profile_id": 13215279,
+      "tag": "GO1_mx",
+      "clan": "MZTK",
+      "cur_1v1": 1937,
+      "max_1v1": 2093,
+      "cur_tg": 1664,
+      "max_tg": 1860
+    },
+    {
       "profile_id": 278380,
       "tag": "Lemoine",
       "clan": "VL",
@@ -337,15 +346,6 @@
       "max_1v1": 1996,
       "cur_tg": 1820,
       "max_tg": 1821
-    },
-    {
-      "profile_id": 13215279,
-      "tag": "GO1_mx",
-      "clan": "MZTK",
-      "cur_1v1": 1926,
-      "max_1v1": 2093,
-      "cur_tg": 1664,
-      "max_tg": 1860
     },
     {
       "profile_id": 4764520,
@@ -377,7 +377,7 @@
     {
       "profile_id": 3254820,
       "tag": "__Chino",
-      "cur_1v1": 1904,
+      "cur_1v1": 1880,
       "max_1v1": 2003,
       "cur_tg": 1412,
       "max_tg": 1412
