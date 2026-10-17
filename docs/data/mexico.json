@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-17T21:45:09Z",
+  "updated_at": "2026-10-17T22:00:12Z",
   "baseline": {
     "taken_at": "2026-10-17T14:00:12Z",
     "ranks": {
@@ -184,7 +184,7 @@
       "profile_id": 13138746,
       "tag": "FraKTal",
       "clan": "hK",
-      "cur_1v1": 2233,
+      "cur_1v1": 2215,
       "max_1v1": 2233,
       "cur_tg": 1886,
       "max_tg": 1983
@@ -308,7 +308,7 @@
       "profile_id": 2926018,
       "tag": "PerezPodrido",
       "clan": "SotC",
-      "cur_1v1": 1976,
+      "cur_1v1": 1958,
       "max_1v1": 2039,
       "cur_tg": 1669,
       "max_tg": 1888
@@ -321,6 +321,14 @@
       "max_1v1": 2093,
       "cur_tg": 1664,
       "max_tg": 1860
+    },
+    {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1955,
+      "max_1v1": 2003,
+      "cur_tg": 1412,
+      "max_tg": 1412
     },
     {
       "profile_id": 2986966,
@@ -347,14 +355,6 @@
       "max_1v1": 2078,
       "cur_tg": 1648,
       "max_tg": 1755
-    },
-    {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1937,
-      "max_1v1": 2003,
-      "cur_tg": 1412,
-      "max_tg": 1412
     },
     {
       "profile_id": 278380,
@@ -389,7 +389,7 @@
       "clan": "VN",
       "cur_1v1": 1909,
       "max_1v1": 1929,
-      "cur_tg": 1740,
+      "cur_tg": 1723,
       "max_tg": 1874
     }
   ],
