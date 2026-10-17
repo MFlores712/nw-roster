@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-17T14:00:12Z",
+  "updated_at": "2026-10-17T14:30:10Z",
   "baseline": {
     "taken_at": "2026-10-17T14:00:12Z",
     "ranks": {
@@ -44,7 +44,13 @@
       "cur_1v1": 2301,
       "max_1v1": 2339,
       "cur_tg": 1788,
-      "max_tg": 1828
+      "max_tg": 1828,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     },
     {
       "profile_id": 2825261,
