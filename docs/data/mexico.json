@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-17T17:00:12Z",
+  "updated_at": "2026-10-17T17:15:09Z",
   "baseline": {
     "taken_at": "2026-10-17T14:00:12Z",
     "ranks": {
@@ -189,6 +189,15 @@
       "max_tg": 2083
     },
     {
+      "profile_id": 580573,
+      "tag": "Puerco_Negro",
+      "clan": "hK",
+      "cur_1v1": 2196,
+      "max_1v1": 2350,
+      "cur_tg": 1949,
+      "max_tg": 1974
+    },
+    {
       "profile_id": 914665,
       "tag": "Caguamas",
       "clan": "nW",
@@ -196,15 +205,6 @@
       "max_1v1": 2241,
       "cur_tg": 1909,
       "max_tg": 2024
-    },
-    {
-      "profile_id": 580573,
-      "tag": "Puerco_Negro",
-      "clan": "hK",
-      "cur_1v1": 2190,
-      "max_1v1": 2350,
-      "cur_tg": 1949,
-      "max_tg": 1974
     },
     {
       "profile_id": 13138746,
