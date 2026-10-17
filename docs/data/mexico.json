@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-17T19:00:12Z",
+  "updated_at": "2026-10-17T19:45:09Z",
   "baseline": {
     "taken_at": "2026-10-17T14:00:12Z",
     "ranks": {
@@ -132,7 +132,7 @@
       "clan": "VENÓN",
       "cur_1v1": 2356,
       "max_1v1": 2394,
-      "cur_tg": 1827,
+      "cur_tg": 1806,
       "max_tg": 2099
     },
     {
@@ -210,7 +210,7 @@
       "profile_id": 13138746,
       "tag": "FraKTal",
       "clan": "hK",
-      "cur_1v1": 2176,
+      "cur_1v1": 2186,
       "max_1v1": 2215,
       "cur_tg": 1886,
       "max_tg": 1983
