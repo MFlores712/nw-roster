@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-17T09:15:09Z",
+  "updated_at": "2026-10-17T13:00:12Z",
   "baseline": {
     "taken_at": "2026-10-16T14:00:14Z",
     "ranks": {
@@ -86,7 +86,7 @@
       "clan": "FMG",
       "cur_1v1": 1971,
       "max_1v1": 2054,
-      "cur_tg": 1679,
+      "cur_tg": 1667,
       "max_tg": 1759
     },
     {
