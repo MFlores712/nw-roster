@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-17T00:00:13Z",
+  "updated_at": "2026-10-17T00:15:10Z",
   "baseline": {
     "taken_at": "2026-10-16T14:00:14Z",
     "ranks": {
@@ -149,7 +149,7 @@
       "clan": "hK",
       "cur_1v1": 2299,
       "max_1v1": 2307,
-      "cur_tg": 1933,
+      "cur_tg": 1945,
       "max_tg": 1982
     },
     {
@@ -176,7 +176,7 @@
       "clan": "hK",
       "cur_1v1": 2214,
       "max_1v1": 2350,
-      "cur_tg": 1937,
+      "cur_tg": 1949,
       "max_tg": 1974
     },
     {
@@ -202,7 +202,7 @@
       "clan": "hK",
       "cur_1v1": 2192,
       "max_1v1": 2215,
-      "cur_tg": 1822,
+      "cur_tg": 1839,
       "max_tg": 1983
     },
     {
@@ -339,14 +339,6 @@
       "max_tg": 1821
     },
     {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1929,
-      "max_1v1": 2003,
-      "cur_tg": 1412,
-      "max_tg": 1412
-    },
-    {
       "profile_id": 13215279,
       "tag": "GO1_mx",
       "clan": "MZTK",
@@ -372,6 +364,14 @@
       "max_1v1": 2115,
       "cur_tg": 1757,
       "max_tg": 1820
+    },
+    {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1914,
+      "max_1v1": 2003,
+      "cur_tg": 1412,
+      "max_tg": 1412
     },
     {
       "profile_id": 324005,
