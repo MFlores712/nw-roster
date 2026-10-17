@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-17T22:00:12Z",
+  "updated_at": "2026-10-17T22:15:08Z",
   "baseline": {
     "taken_at": "2026-10-17T14:00:12Z",
     "ranks": {
@@ -50,7 +50,7 @@
       "profile_id": 5984120,
       "tag": "Combito",
       "clan": "Ux",
-      "cur_1v1": 2723,
+      "cur_1v1": 2699,
       "max_1v1": 2752,
       "cur_tg": 1731,
       "max_tg": 1885
@@ -123,7 +123,7 @@
       "clan": "VENÓN",
       "cur_1v1": 2367,
       "max_1v1": 2394,
-      "cur_tg": 1774,
+      "cur_tg": 1784,
       "max_tg": 2099
     },
     {
@@ -207,6 +207,15 @@
       "max_tg": 2024
     },
     {
+      "profile_id": 580573,
+      "tag": "Puerco_Negro",
+      "clan": "hK",
+      "cur_1v1": 2194,
+      "max_1v1": 2350,
+      "cur_tg": 1949,
+      "max_tg": 1974
+    },
+    {
       "profile_id": 611972,
       "tag": "Adam",
       "clan": "Dark",
@@ -214,15 +223,6 @@
       "max_1v1": 2323,
       "cur_tg": 1828,
       "max_tg": 1880
-    },
-    {
-      "profile_id": 580573,
-      "tag": "Puerco_Negro",
-      "clan": "hK",
-      "cur_1v1": 2182,
-      "max_1v1": 2350,
-      "cur_tg": 1949,
-      "max_tg": 1974
     },
     {
       "profile_id": 917863,
@@ -389,7 +389,7 @@
       "clan": "VN",
       "cur_1v1": 1909,
       "max_1v1": 1929,
-      "cur_tg": 1723,
+      "cur_tg": 1743,
       "max_tg": 1874
     }
   ],
