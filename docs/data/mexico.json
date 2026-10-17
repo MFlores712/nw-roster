@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-17T02:45:08Z",
+  "updated_at": "2026-10-17T03:00:13Z",
   "baseline": {
     "taken_at": "2026-10-16T14:00:14Z",
     "ranks": {
@@ -260,15 +260,6 @@
       "max_tg": 1735
     },
     {
-      "profile_id": 2876835,
-      "tag": "Abejorro",
-      "clan": "nW",
-      "cur_1v1": 2037,
-      "max_1v1": 2152,
-      "cur_tg": 1675,
-      "max_tg": 1793
-    },
-    {
       "profile_id": 1249720,
       "tag": "Asdrubald",
       "clan": "VN",
@@ -284,6 +275,15 @@
       "max_1v1": 2020,
       "cur_tg": 1806,
       "max_tg": 1962
+    },
+    {
+      "profile_id": 2876835,
+      "tag": "Abejorro",
+      "clan": "nW",
+      "cur_1v1": 2012,
+      "max_1v1": 2152,
+      "cur_tg": 1675,
+      "max_tg": 1793
     },
     {
       "profile_id": 6501299,
@@ -335,7 +335,7 @@
       "clan": "VL",
       "cur_1v1": 1933,
       "max_1v1": 1970,
-      "cur_tg": 1826,
+      "cur_tg": 1835,
       "max_tg": 1865
     },
     {
@@ -371,7 +371,7 @@
       "clan": "VN",
       "cur_1v1": 1909,
       "max_1v1": 1929,
-      "cur_tg": 1754,
+      "cur_tg": 1758,
       "max_tg": 1874
     },
     {
