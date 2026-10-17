@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-17T01:00:13Z",
+  "updated_at": "2026-10-17T01:15:08Z",
   "baseline": {
     "taken_at": "2026-10-16T14:00:14Z",
     "ranks": {
@@ -131,7 +131,7 @@
       "clan": "VENÓN",
       "cur_1v1": 2335,
       "max_1v1": 2394,
-      "cur_tg": 1887,
+      "cur_tg": 1867,
       "max_tg": 2099
     },
     {
@@ -206,6 +206,15 @@
       "max_tg": 1983
     },
     {
+      "profile_id": 611972,
+      "tag": "Adam",
+      "clan": "DarK",
+      "cur_1v1": 2175,
+      "max_1v1": 2323,
+      "cur_tg": 1811,
+      "max_tg": 1880
+    },
+    {
       "profile_id": 917863,
       "tag": "Romell13",
       "clan": "hK",
@@ -213,15 +222,6 @@
       "max_1v1": 2233,
       "cur_tg": 1807,
       "max_tg": 1837
-    },
-    {
-      "profile_id": 611972,
-      "tag": "Adam",
-      "clan": "DarK",
-      "cur_1v1": 2155,
-      "max_1v1": 2323,
-      "cur_tg": 1811,
-      "max_tg": 1880
     },
     {
       "profile_id": 1947348,
@@ -309,7 +309,7 @@
       "clan": "VL",
       "cur_1v1": 1952,
       "max_1v1": 1972,
-      "cur_tg": 1674,
+      "cur_tg": 1654,
       "max_tg": 1824
     },
     {
