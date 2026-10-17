@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-17T04:45:09Z",
+  "updated_at": "2026-10-17T05:00:12Z",
   "baseline": {
     "taken_at": "2026-10-16T14:00:14Z",
     "ranks": {
@@ -96,7 +96,7 @@
       "clan": "VENÓN",
       "cur_1v1": 2471,
       "max_1v1": 2512,
-      "cur_tg": 2063,
+      "cur_tg": 2071,
       "max_tg": 2190
     },
     {
@@ -131,7 +131,7 @@
       "clan": "VENÓN",
       "cur_1v1": 2335,
       "max_1v1": 2394,
-      "cur_tg": 1877,
+      "cur_tg": 1889,
       "max_tg": 2099
     },
     {
@@ -210,7 +210,7 @@
       "tag": "NoLamePlease",
       "cur_1v1": 2175,
       "max_1v1": 2323,
-      "cur_tg": 1811,
+      "cur_tg": 1797,
       "max_tg": 1880
     },
     {
@@ -276,6 +276,15 @@
       "max_tg": 1962
     },
     {
+      "profile_id": 2876835,
+      "tag": "Abejorro",
+      "clan": "nW",
+      "cur_1v1": 2015,
+      "max_1v1": 2152,
+      "cur_tg": 1675,
+      "max_tg": 1793
+    },
+    {
       "profile_id": 6501299,
       "tag": "ShutAzarquay",
       "clan": "nW",
@@ -283,15 +292,6 @@
       "max_1v1": 2011,
       "cur_tg": 1731,
       "max_tg": 1745
-    },
-    {
-      "profile_id": 2876835,
-      "tag": "Abejorro",
-      "clan": "nW",
-      "cur_1v1": 1991,
-      "max_1v1": 2152,
-      "cur_tg": 1675,
-      "max_tg": 1793
     },
     {
       "profile_id": 2926018,
