@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-17T22:45:10Z",
+  "updated_at": "2026-10-17T23:00:13Z",
   "baseline": {
     "taken_at": "2026-10-17T14:00:12Z",
     "ranks": {
@@ -50,7 +50,7 @@
       "profile_id": 5984120,
       "tag": "Combito",
       "clan": "Ux",
-      "cur_1v1": 2699,
+      "cur_1v1": 2708,
       "max_1v1": 2752,
       "cur_tg": 1731,
       "max_tg": 1885
@@ -181,21 +181,30 @@
       "max_tg": 2050
     },
     {
+      "profile_id": 580573,
+      "tag": "Puerco_Negro",
+      "clan": "hK",
+      "cur_1v1": 2211,
+      "max_1v1": 2350,
+      "cur_tg": 1949,
+      "max_tg": 1974
+    },
+    {
+      "profile_id": 13138746,
+      "tag": "FraKTal",
+      "clan": "hK",
+      "cur_1v1": 2207,
+      "max_1v1": 2233,
+      "cur_tg": 1886,
+      "max_tg": 1983
+    },
+    {
       "profile_id": 4412109,
       "tag": "HGB",
       "cur_1v1": 2203,
       "max_1v1": 2317,
       "cur_tg": 1975,
       "max_tg": 2083
-    },
-    {
-      "profile_id": 13138746,
-      "tag": "FraKTal",
-      "clan": "hK",
-      "cur_1v1": 2198,
-      "max_1v1": 2233,
-      "cur_tg": 1886,
-      "max_tg": 1983
     },
     {
       "profile_id": 914665,
@@ -205,15 +214,6 @@
       "max_1v1": 2241,
       "cur_tg": 1909,
       "max_tg": 2024
-    },
-    {
-      "profile_id": 580573,
-      "tag": "Puerco_Negro",
-      "clan": "hK",
-      "cur_1v1": 2194,
-      "max_1v1": 2350,
-      "cur_tg": 1949,
-      "max_tg": 1974
     },
     {
       "profile_id": 611972,
@@ -266,7 +266,7 @@
       "clan": "VN",
       "cur_1v1": 2020,
       "max_1v1": 2087,
-      "cur_tg": 1807,
+      "cur_tg": 1817,
       "max_tg": 1997
     },
     {
@@ -310,7 +310,7 @@
       "clan": "SotC",
       "cur_1v1": 1958,
       "max_1v1": 2039,
-      "cur_tg": 1657,
+      "cur_tg": 1643,
       "max_tg": 1888
     },
     {
@@ -389,7 +389,7 @@
       "clan": "VN",
       "cur_1v1": 1909,
       "max_1v1": 1929,
-      "cur_tg": 1743,
+      "cur_tg": 1756,
       "max_tg": 1874
     }
   ],
