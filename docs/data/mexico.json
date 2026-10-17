@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-17T00:30:11Z",
+  "updated_at": "2026-10-17T00:45:08Z",
   "baseline": {
     "taken_at": "2026-10-16T14:00:14Z",
     "ranks": {
@@ -206,15 +206,6 @@
       "max_tg": 1983
     },
     {
-      "profile_id": 611972,
-      "tag": "Adam",
-      "clan": "DarK",
-      "cur_1v1": 2177,
-      "max_1v1": 2323,
-      "cur_tg": 1811,
-      "max_tg": 1880
-    },
-    {
       "profile_id": 917863,
       "tag": "Romell13",
       "clan": "hK",
@@ -222,6 +213,15 @@
       "max_1v1": 2233,
       "cur_tg": 1807,
       "max_tg": 1837
+    },
+    {
+      "profile_id": 611972,
+      "tag": "Adam",
+      "clan": "DarK",
+      "cur_1v1": 2155,
+      "max_1v1": 2323,
+      "cur_tg": 1811,
+      "max_tg": 1880
     },
     {
       "profile_id": 1947348,
@@ -366,14 +366,6 @@
       "max_tg": 1820
     },
     {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1914,
-      "max_1v1": 2003,
-      "cur_tg": 1412,
-      "max_tg": 1412
-    },
-    {
       "profile_id": 324005,
       "tag": "Narizberto",
       "clan": "VN",
@@ -381,6 +373,14 @@
       "max_1v1": 1929,
       "cur_tg": 1749,
       "max_tg": 1874
+    },
+    {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1905,
+      "max_1v1": 2003,
+      "cur_tg": 1412,
+      "max_tg": 1412
     }
   ],
   "show_top": 30
