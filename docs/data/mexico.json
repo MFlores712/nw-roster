@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-17T04:00:13Z",
+  "updated_at": "2026-10-17T04:15:10Z",
   "baseline": {
     "taken_at": "2026-10-16T14:00:14Z",
     "ranks": {
@@ -69,7 +69,7 @@
       "clan": "Ux",
       "cur_1v1": 2660,
       "max_1v1": 2685,
-      "cur_tg": 2054,
+      "cur_tg": 2057,
       "max_tg": 2071
     },
     {
@@ -78,7 +78,7 @@
       "clan": "Ux",
       "cur_1v1": 2543,
       "max_1v1": 2629,
-      "cur_tg": 1797,
+      "cur_tg": 1806,
       "max_tg": 1999
     },
     {
@@ -96,7 +96,7 @@
       "clan": "VENÓN",
       "cur_1v1": 2471,
       "max_1v1": 2512,
-      "cur_tg": 2057,
+      "cur_tg": 2063,
       "max_tg": 2190
     },
     {
@@ -245,7 +245,7 @@
       "profile_id": 2850920,
       "tag": "Chimtzin",
       "clan": "Ux",
-      "cur_1v1": 2059,
+      "cur_1v1": 2074,
       "max_1v1": 2124,
       "cur_tg": 1639,
       "max_tg": 1820
@@ -289,7 +289,7 @@
       "profile_id": 2876835,
       "tag": "Abejorro",
       "clan": "nW",
-      "cur_1v1": 1994,
+      "cur_1v1": 1991,
       "max_1v1": 2152,
       "cur_tg": 1675,
       "max_tg": 1793
@@ -302,6 +302,15 @@
       "max_1v1": 2039,
       "cur_tg": 1669,
       "max_tg": 1888
+    },
+    {
+      "profile_id": 13215279,
+      "tag": "GO1_mx",
+      "clan": "MZTK",
+      "cur_1v1": 1957,
+      "max_1v1": 2093,
+      "cur_tg": 1664,
+      "max_tg": 1860
     },
     {
       "profile_id": 2986966,
@@ -319,15 +328,6 @@
       "max_1v1": 2078,
       "cur_tg": 1648,
       "max_tg": 1755
-    },
-    {
-      "profile_id": 13215279,
-      "tag": "GO1_mx",
-      "clan": "MZTK",
-      "cur_1v1": 1937,
-      "max_1v1": 2093,
-      "cur_tg": 1664,
-      "max_tg": 1860
     },
     {
       "profile_id": 278380,
