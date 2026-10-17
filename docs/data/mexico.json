@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-17T23:00:13Z",
+  "updated_at": "2026-10-17T23:15:10Z",
   "baseline": {
     "taken_at": "2026-10-17T14:00:12Z",
     "ranks": {
@@ -77,7 +77,7 @@
       "profile_id": 13099159,
       "tag": "Uzzi",
       "clan": "Ux",
-      "cur_1v1": 2543,
+      "cur_1v1": 2547,
       "max_1v1": 2629,
       "cur_tg": 1819,
       "max_tg": 1999
@@ -181,6 +181,15 @@
       "max_tg": 2050
     },
     {
+      "profile_id": 13138746,
+      "tag": "FraKTal",
+      "clan": "hK",
+      "cur_1v1": 2213,
+      "max_1v1": 2233,
+      "cur_tg": 1886,
+      "max_tg": 1983
+    },
+    {
       "profile_id": 580573,
       "tag": "Puerco_Negro",
       "clan": "hK",
@@ -188,15 +197,6 @@
       "max_1v1": 2350,
       "cur_tg": 1949,
       "max_tg": 1974
-    },
-    {
-      "profile_id": 13138746,
-      "tag": "FraKTal",
-      "clan": "hK",
-      "cur_1v1": 2207,
-      "max_1v1": 2233,
-      "cur_tg": 1886,
-      "max_tg": 1983
     },
     {
       "profile_id": 4412109,
