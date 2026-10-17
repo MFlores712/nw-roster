@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-17T21:30:11Z",
+  "updated_at": "2026-10-17T21:45:09Z",
   "baseline": {
     "taken_at": "2026-10-17T14:00:12Z",
     "ranks": {
@@ -118,6 +118,15 @@
       "max_tg": 1959
     },
     {
+      "profile_id": 1485562,
+      "tag": "MrOsoVC8",
+      "clan": "VENÓN",
+      "cur_1v1": 2367,
+      "max_1v1": 2394,
+      "cur_tg": 1774,
+      "max_tg": 2099
+    },
+    {
       "profile_id": 312774,
       "tag": "Keno_",
       "clan": "hK",
@@ -125,15 +134,6 @@
       "max_1v1": 2469,
       "cur_tg": 1806,
       "max_tg": 2072
-    },
-    {
-      "profile_id": 1485562,
-      "tag": "MrOsoVC8",
-      "clan": "VENÓN",
-      "cur_1v1": 2356,
-      "max_1v1": 2394,
-      "cur_tg": 1774,
-      "max_tg": 2099
     },
     {
       "profile_id": 2295504,
@@ -184,8 +184,8 @@
       "profile_id": 13138746,
       "tag": "FraKTal",
       "clan": "hK",
-      "cur_1v1": 2222,
-      "max_1v1": 2222,
+      "cur_1v1": 2233,
+      "max_1v1": 2233,
       "cur_tg": 1886,
       "max_tg": 1983
     },
