@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-17T06:05:38Z",
+  "updated_at": "2026-10-17T06:15:08Z",
   "baseline": {
     "taken_at": "2026-10-16T14:00:14Z",
     "ranks": {
@@ -96,7 +96,7 @@
       "clan": "VENÓN",
       "cur_1v1": 2471,
       "max_1v1": 2512,
-      "cur_tg": 2053,
+      "cur_tg": 2056,
       "max_tg": 2190
     },
     {
@@ -149,7 +149,7 @@
       "clan": "hK",
       "cur_1v1": 2322,
       "max_1v1": 2322,
-      "cur_tg": 1945,
+      "cur_tg": 1957,
       "max_tg": 1982
     },
     {
@@ -202,7 +202,7 @@
       "clan": "hK",
       "cur_1v1": 2176,
       "max_1v1": 2215,
-      "cur_tg": 1866,
+      "cur_tg": 1881,
       "max_tg": 1983
     },
     {
@@ -288,7 +288,7 @@
       "profile_id": 2876835,
       "tag": "Abejorro",
       "clan": "nW",
-      "cur_1v1": 1997,
+      "cur_1v1": 1981,
       "max_1v1": 2152,
       "cur_tg": 1675,
       "max_tg": 1793
