@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-17T06:38:19Z",
+  "updated_at": "2026-10-17T06:45:09Z",
   "baseline": {
     "taken_at": "2026-10-16T14:00:14Z",
     "ranks": {
@@ -150,7 +150,7 @@
       "clan": "hK",
       "cur_1v1": 2322,
       "max_1v1": 2322,
-      "cur_tg": 1957,
+      "cur_tg": 1934,
       "max_tg": 1982
     },
     {
@@ -212,7 +212,7 @@
       "clan": "hK",
       "cur_1v1": 2176,
       "max_1v1": 2215,
-      "cur_tg": 1881,
+      "cur_tg": 1860,
       "max_tg": 1983
     },
     {
@@ -263,7 +263,7 @@
       "profile_id": 2850920,
       "tag": "Chimtzin",
       "clan": "Ux",
-      "cur_1v1": 2048,
+      "cur_1v1": 2027,
       "max_1v1": 2124,
       "cur_tg": 1639,
       "max_tg": 1820
