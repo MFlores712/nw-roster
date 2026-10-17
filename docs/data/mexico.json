@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-17T20:45:08Z",
+  "updated_at": "2026-10-17T21:00:13Z",
   "baseline": {
     "taken_at": "2026-10-17T14:00:12Z",
     "ranks": {
@@ -198,15 +198,6 @@
       "max_tg": 2083
     },
     {
-      "profile_id": 580573,
-      "tag": "Puerco_Negro",
-      "clan": "hK",
-      "cur_1v1": 2201,
-      "max_1v1": 2350,
-      "cur_tg": 1949,
-      "max_tg": 1974
-    },
-    {
       "profile_id": 914665,
       "tag": "Caguamas",
       "clan": "nW",
@@ -219,10 +210,19 @@
       "profile_id": 611972,
       "tag": "Adam",
       "clan": "Dark",
-      "cur_1v1": 2175,
+      "cur_1v1": 2191,
       "max_1v1": 2323,
       "cur_tg": 1828,
       "max_tg": 1880
+    },
+    {
+      "profile_id": 580573,
+      "tag": "Puerco_Negro",
+      "clan": "hK",
+      "cur_1v1": 2182,
+      "max_1v1": 2350,
+      "cur_tg": 1949,
+      "max_tg": 1974
     },
     {
       "profile_id": 917863,
@@ -349,6 +349,14 @@
       "max_tg": 1755
     },
     {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1937,
+      "max_1v1": 2003,
+      "cur_tg": 1412,
+      "max_tg": 1412
+    },
+    {
       "profile_id": 278380,
       "tag": "Lemoine",
       "clan": "VL",
@@ -383,14 +391,6 @@
       "max_1v1": 1929,
       "cur_tg": 1730,
       "max_tg": 1874
-    },
-    {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1896,
-      "max_1v1": 2003,
-      "cur_tg": 1412,
-      "max_tg": 1412
     }
   ],
   "show_top": 30
