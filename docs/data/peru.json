@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-17T16:45:09Z",
+  "updated_at": "2026-10-17T17:30:12Z",
   "baseline": {
     "taken_at": "2026-10-17T14:00:12Z",
     "ranks": {
@@ -160,7 +160,7 @@
       "clan": "CTM",
       "cur_1v1": 1902,
       "max_1v1": 1902,
-      "cur_tg": 1438,
+      "cur_tg": 1460,
       "max_tg": 1608
     },
     {
