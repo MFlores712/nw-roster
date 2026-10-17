@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-17T06:45:09Z",
+  "updated_at": "2026-10-17T07:00:12Z",
   "baseline": {
     "taken_at": "2026-10-16T14:00:14Z",
     "ranks": {
@@ -150,7 +150,7 @@
       "clan": "hK",
       "cur_1v1": 2322,
       "max_1v1": 2322,
-      "cur_tg": 1934,
+      "cur_tg": 1947,
       "max_tg": 1982
     },
     {
@@ -212,7 +212,7 @@
       "clan": "hK",
       "cur_1v1": 2176,
       "max_1v1": 2215,
-      "cur_tg": 1860,
+      "cur_tg": 1876,
       "max_tg": 1983
     },
     {
@@ -220,7 +220,7 @@
       "tag": "NoLamePlease",
       "cur_1v1": 2175,
       "max_1v1": 2323,
-      "cur_tg": 1829,
+      "cur_tg": 1836,
       "max_tg": 1880
     },
     {
@@ -260,15 +260,6 @@
       "max_tg": 1735
     },
     {
-      "profile_id": 2850920,
-      "tag": "Chimtzin",
-      "clan": "Ux",
-      "cur_1v1": 2027,
-      "max_1v1": 2124,
-      "cur_tg": 1639,
-      "max_tg": 1820
-    },
-    {
       "profile_id": 1249720,
       "tag": "Asdrubald",
       "clan": "VN",
@@ -293,6 +284,15 @@
       "max_1v1": 2011,
       "cur_tg": 1731,
       "max_tg": 1745
+    },
+    {
+      "profile_id": 2850920,
+      "tag": "Chimtzin",
+      "clan": "Ux",
+      "cur_1v1": 2005,
+      "max_1v1": 2124,
+      "cur_tg": 1639,
+      "max_tg": 1820
     },
     {
       "profile_id": 2876835,
@@ -371,7 +371,7 @@
       "clan": "KH",
       "cur_1v1": 1920,
       "max_1v1": 2060,
-      "cur_tg": 1693,
+      "cur_tg": 1715,
       "max_tg": 1788
     },
     {
