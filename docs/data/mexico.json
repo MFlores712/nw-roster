@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-17T07:00:12Z",
+  "updated_at": "2026-10-17T07:15:09Z",
   "baseline": {
     "taken_at": "2026-10-16T14:00:14Z",
     "ranks": {
@@ -331,6 +331,15 @@
       "max_tg": 1824
     },
     {
+      "profile_id": 358501,
+      "tag": "El Claut_One",
+      "clan": "VENÓN",
+      "cur_1v1": 1941,
+      "max_1v1": 2115,
+      "cur_tg": 1757,
+      "max_tg": 1820
+    },
+    {
       "profile_id": 467847,
       "tag": "DoN.Vergas",
       "cur_1v1": 1940,
@@ -346,15 +355,6 @@
       "max_1v1": 1970,
       "cur_tg": 1819,
       "max_tg": 1865
-    },
-    {
-      "profile_id": 358501,
-      "tag": "El Claut_One",
-      "clan": "VENÓN",
-      "cur_1v1": 1932,
-      "max_1v1": 2115,
-      "cur_tg": 1757,
-      "max_tg": 1820
     },
     {
       "profile_id": 2969449,
