@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-17T20:30:11Z",
+  "updated_at": "2026-10-17T20:45:08Z",
   "baseline": {
     "taken_at": "2026-10-17T14:00:12Z",
     "ranks": {
@@ -132,7 +132,7 @@
       "clan": "VENÓN",
       "cur_1v1": 2356,
       "max_1v1": 2394,
-      "cur_tg": 1821,
+      "cur_tg": 1800,
       "max_tg": 2099
     },
     {
@@ -160,13 +160,7 @@
       "cur_1v1": 2310,
       "max_1v1": 2310,
       "cur_tg": 1821,
-      "max_tg": 1922,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "max_tg": 1922
     },
     {
       "profile_id": 2598146,
@@ -281,13 +275,7 @@
       "cur_1v1": 2016,
       "max_1v1": 2020,
       "cur_tg": 1806,
-      "max_tg": 1962,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "max_tg": 1962
     },
     {
       "profile_id": 6501299,
@@ -388,14 +376,6 @@
       "max_tg": 1788
     },
     {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1915,
-      "max_1v1": 2003,
-      "cur_tg": 1412,
-      "max_tg": 1412
-    },
-    {
       "profile_id": 324005,
       "tag": "Narizberto",
       "clan": "VN",
@@ -403,6 +383,14 @@
       "max_1v1": 1929,
       "cur_tg": 1730,
       "max_tg": 1874
+    },
+    {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1896,
+      "max_1v1": 2003,
+      "cur_tg": 1412,
+      "max_tg": 1412
     }
   ],
   "show_top": 30
