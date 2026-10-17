@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-17T00:45:08Z",
+  "updated_at": "2026-10-17T01:00:13Z",
   "baseline": {
     "taken_at": "2026-10-16T14:00:14Z",
     "ranks": {
@@ -366,6 +366,14 @@
       "max_tg": 1820
     },
     {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1913,
+      "max_1v1": 2003,
+      "cur_tg": 1412,
+      "max_tg": 1412
+    },
+    {
       "profile_id": 324005,
       "tag": "Narizberto",
       "clan": "VN",
@@ -373,14 +381,6 @@
       "max_1v1": 1929,
       "cur_tg": 1749,
       "max_tg": 1874
-    },
-    {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1905,
-      "max_1v1": 2003,
-      "cur_tg": 1412,
-      "max_tg": 1412
     }
   ],
   "show_top": 30
