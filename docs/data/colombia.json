@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-18T11:45:09Z",
+  "updated_at": "2026-10-18T12:00:11Z",
   "baseline": {
     "taken_at": "2026-10-17T14:00:12Z",
     "ranks": {
@@ -82,6 +82,14 @@
       "max_tg": 1759
     },
     {
+      "profile_id": 2955183,
+      "tag": "JOLIAT",
+      "cur_1v1": 1953,
+      "max_1v1": 2095,
+      "cur_tg": 1600,
+      "max_tg": 1710
+    },
+    {
       "profile_id": 1062980,
       "tag": "DeaH",
       "clan": "VLC",
@@ -89,14 +97,6 @@
       "max_1v1": 1950,
       "cur_tg": 1707,
       "max_tg": 1764
-    },
-    {
-      "profile_id": 2955183,
-      "tag": "JOLIAT",
-      "cur_1v1": 1944,
-      "max_1v1": 2095,
-      "cur_tg": 1600,
-      "max_tg": 1710
     },
     {
       "profile_id": 2479622,
