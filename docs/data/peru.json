@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-18T14:00:13Z",
+  "updated_at": "2026-10-18T16:15:09Z",
   "baseline": {
     "taken_at": "2026-10-18T14:00:13Z",
     "ranks": {
@@ -74,7 +74,7 @@
       "clan": "LvSP",
       "cur_1v1": 2115,
       "max_1v1": 2129,
-      "cur_tg": 1603,
+      "cur_tg": 1590,
       "max_tg": 1719
     },
     {
@@ -123,7 +123,7 @@
       "profile_id": 1359694,
       "tag": "AtilA",
       "clan": "nW",
-      "cur_1v1": 1982,
+      "cur_1v1": 1970,
       "max_1v1": 2123,
       "cur_tg": 1637,
       "max_tg": 1670
@@ -158,7 +158,7 @@
     {
       "profile_id": 4234652,
       "tag": "_The_Oldergold",
-      "cur_1v1": 1900,
+      "cur_1v1": 1896,
       "max_1v1": 1940,
       "cur_tg": 1531,
       "max_tg": 1719
