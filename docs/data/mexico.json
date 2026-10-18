@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-18T02:30:10Z",
+  "updated_at": "2026-10-18T02:45:10Z",
   "baseline": {
     "taken_at": "2026-10-17T14:00:12Z",
     "ranks": {
@@ -70,8 +70,8 @@
       "clan": "Ux",
       "cur_1v1": 2660,
       "max_1v1": 2685,
-      "cur_tg": 2074,
-      "max_tg": 2074
+      "cur_tg": 2075,
+      "max_tg": 2075
     },
     {
       "profile_id": 13099159,
@@ -212,7 +212,7 @@
       "clan": "Dark",
       "cur_1v1": 2191,
       "max_1v1": 2323,
-      "cur_tg": 1842,
+      "cur_tg": 1825,
       "max_tg": 1880
     },
     {
@@ -255,7 +255,7 @@
       "profile_id": 2850920,
       "tag": "Chimtzin",
       "clan": "Ux",
-      "cur_1v1": 2022,
+      "cur_1v1": 2035,
       "max_1v1": 2124,
       "cur_tg": 1639,
       "max_tg": 1820
@@ -305,15 +305,6 @@
       "max_tg": 1735
     },
     {
-      "profile_id": 13215279,
-      "tag": "GO1_mx",
-      "clan": "MZTK",
-      "cur_1v1": 1963,
-      "max_1v1": 2093,
-      "cur_tg": 1664,
-      "max_tg": 1860
-    },
-    {
       "profile_id": 2926018,
       "tag": "PerezPodrido",
       "clan": "SotC",
@@ -338,6 +329,15 @@
       "max_1v1": 1972,
       "cur_tg": 1669,
       "max_tg": 1824
+    },
+    {
+      "profile_id": 13215279,
+      "tag": "GO1_mx",
+      "clan": "MZTK",
+      "cur_1v1": 1950,
+      "max_1v1": 2093,
+      "cur_tg": 1664,
+      "max_tg": 1860
     },
     {
       "profile_id": 358501,
