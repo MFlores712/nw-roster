@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-18T01:14:54Z",
+  "updated_at": "2026-10-18T01:30:10Z",
   "baseline": {
     "taken_at": "2026-10-17T14:00:12Z",
     "ranks": {
@@ -252,15 +252,6 @@
       "max_tg": 1854
     },
     {
-      "profile_id": 2934597,
-      "tag": "Sgt.Pepper",
-      "clan": "nW",
-      "cur_1v1": 2036,
-      "max_1v1": 2210,
-      "cur_tg": 1718,
-      "max_tg": 1735
-    },
-    {
       "profile_id": 1249720,
       "tag": "Asdrubald",
       "clan": "VN",
@@ -294,6 +285,15 @@
       "max_1v1": 2152,
       "cur_tg": 1675,
       "max_tg": 1793
+    },
+    {
+      "profile_id": 2934597,
+      "tag": "Sgt.Pepper",
+      "clan": "nW",
+      "cur_1v1": 2000,
+      "max_1v1": 2210,
+      "cur_tg": 1718,
+      "max_tg": 1735
     },
     {
       "profile_id": 2850920,
