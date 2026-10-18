@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-18T05:15:08Z",
+  "updated_at": "2026-10-18T05:30:10Z",
   "baseline": {
     "taken_at": "2026-10-17T14:00:12Z",
     "ranks": {
@@ -91,7 +91,7 @@
       "tag": "noru",
       "cur_1v1": 2031,
       "max_1v1": 2031,
-      "cur_tg": 1765,
+      "cur_tg": 1752,
       "max_tg": 1840
     },
     {
@@ -134,7 +134,7 @@
       "clan": "Bz",
       "cur_1v1": 1939,
       "max_1v1": 2035,
-      "cur_tg": 1557,
+      "cur_tg": 1532,
       "max_tg": 1657
     },
     {
@@ -142,7 +142,7 @@
       "tag": "_The_Oldergold",
       "cur_1v1": 1908,
       "max_1v1": 1932,
-      "cur_tg": 1509,
+      "cur_tg": 1521,
       "max_tg": 1719
     },
     {

@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-18T05:15:08Z",
+  "updated_at": "2026-10-18T05:30:10Z",
   "baseline": {
     "taken_at": "2026-10-17T14:00:12Z",
     "ranks": {
@@ -97,7 +97,7 @@
       "clan": "VENÓN",
       "cur_1v1": 2476,
       "max_1v1": 2512,
-      "cur_tg": 2049,
+      "cur_tg": 2056,
       "max_tg": 2190
     },
     {
