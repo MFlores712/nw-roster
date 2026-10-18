@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-18T16:30:10Z",
+  "updated_at": "2026-10-18T16:45:08Z",
   "baseline": {
     "taken_at": "2026-10-18T14:00:13Z",
     "ranks": {
@@ -138,6 +138,14 @@
       "max_tg": 1657
     },
     {
+      "profile_id": 4234652,
+      "tag": "_The_Oldergold",
+      "cur_1v1": 1906,
+      "max_1v1": 1940,
+      "cur_tg": 1531,
+      "max_tg": 1719
+    },
+    {
       "profile_id": 5655708,
       "tag": "Emaxcito2",
       "clan": "LE",
@@ -154,14 +162,6 @@
       "max_1v1": 1902,
       "cur_tg": 1460,
       "max_tg": 1608
-    },
-    {
-      "profile_id": 4234652,
-      "tag": "_The_Oldergold",
-      "cur_1v1": 1896,
-      "max_1v1": 1940,
-      "cur_tg": 1531,
-      "max_tg": 1719
     },
     {
       "profile_id": 4167535,
