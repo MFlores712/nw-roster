@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-18T18:00:13Z",
+  "updated_at": "2026-10-18T18:30:10Z",
   "baseline": {
     "taken_at": "2026-10-18T14:00:13Z",
     "ranks": {
@@ -53,7 +53,13 @@
       "cur_1v1": 2703,
       "max_1v1": 2752,
       "cur_tg": 1731,
-      "max_tg": 1885
+      "max_tg": 1885,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     },
     {
       "profile_id": 2776293,
@@ -62,7 +68,13 @@
       "cur_1v1": 2676,
       "max_1v1": 2867,
       "cur_tg": 2152,
-      "max_tg": 2169
+      "max_tg": 2169,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     },
     {
       "profile_id": 2920057,
@@ -80,7 +92,13 @@
       "cur_1v1": 2615,
       "max_1v1": 2629,
       "cur_tg": 1819,
-      "max_tg": 1999
+      "max_tg": 1999,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     },
     {
       "profile_id": 9449579,
@@ -98,7 +116,13 @@
       "cur_1v1": 2476,
       "max_1v1": 2512,
       "cur_tg": 2070,
-      "max_tg": 2190
+      "max_tg": 2190,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     },
     {
       "profile_id": 4221810,
@@ -240,7 +264,13 @@
       "cur_1v1": 2094,
       "max_1v1": 2211,
       "cur_tg": 1818,
-      "max_tg": 2034
+      "max_tg": 2034,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     },
     {
       "profile_id": 12171002,
@@ -307,7 +337,7 @@
     {
       "profile_id": 3254820,
       "tag": "__Chino",
-      "cur_1v1": 1989,
+      "cur_1v1": 1969,
       "max_1v1": 2003,
       "cur_tg": 1412,
       "max_tg": 1412

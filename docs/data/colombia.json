@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-18T18:15:08Z",
+  "updated_at": "2026-10-18T18:30:10Z",
   "baseline": {
     "taken_at": "2026-10-18T14:00:13Z",
     "ranks": {
@@ -29,15 +29,6 @@
       "max_tg": 2001
     },
     {
-      "profile_id": 13267917,
-      "tag": "Manuel",
-      "clan": "nW",
-      "cur_1v1": 2319,
-      "max_1v1": 2410,
-      "cur_tg": 1797,
-      "max_tg": 1882
-    },
-    {
       "profile_id": 6838238,
       "tag": "AngelR",
       "clan": "NuMa",
@@ -45,6 +36,15 @@
       "max_1v1": 2339,
       "cur_tg": 1788,
       "max_tg": 1828
+    },
+    {
+      "profile_id": 13267917,
+      "tag": "Manuel",
+      "clan": "nW",
+      "cur_1v1": 2297,
+      "max_1v1": 2410,
+      "cur_tg": 1797,
+      "max_tg": 1882
     },
     {
       "profile_id": 2825261,

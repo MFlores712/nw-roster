@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-18T18:15:08Z",
+  "updated_at": "2026-10-18T18:30:10Z",
   "baseline": {
     "taken_at": "2026-10-18T14:00:13Z",
     "ranks": {
@@ -135,7 +135,13 @@
       "cur_1v1": 1939,
       "max_1v1": 2035,
       "cur_tg": 1519,
-      "max_tg": 1657
+      "max_tg": 1657,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     },
     {
       "profile_id": 5655708,
@@ -144,7 +150,13 @@
       "cur_1v1": 1905,
       "max_1v1": 1988,
       "cur_tg": 1562,
-      "max_tg": 1565
+      "max_tg": 1565,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     },
     {
       "profile_id": 4167535,
@@ -162,12 +174,18 @@
       "cur_1v1": 1902,
       "max_1v1": 1902,
       "cur_tg": 1460,
-      "max_tg": 1608
+      "max_tg": 1608,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     },
     {
       "profile_id": 4234652,
       "tag": "_The_Oldergold",
-      "cur_1v1": 1892,
+      "cur_1v1": 1875,
       "max_1v1": 1940,
       "cur_tg": 1531,
       "max_tg": 1719
