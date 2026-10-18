@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-18T02:00:13Z",
+  "updated_at": "2026-10-18T02:15:09Z",
   "baseline": {
     "taken_at": "2026-10-17T14:00:12Z",
     "ranks": {
@@ -47,15 +47,6 @@
   },
   "players": [
     {
-      "profile_id": 5984120,
-      "tag": "Combito",
-      "clan": "Ux",
-      "cur_1v1": 2695,
-      "max_1v1": 2752,
-      "cur_tg": 1731,
-      "max_tg": 1885
-    },
-    {
       "profile_id": 2776293,
       "tag": "Kingstone",
       "clan": "Oni",
@@ -63,6 +54,15 @@
       "max_1v1": 2867,
       "cur_tg": 2152,
       "max_tg": 2169
+    },
+    {
+      "profile_id": 5984120,
+      "tag": "Combito",
+      "clan": "Ux",
+      "cur_1v1": 2675,
+      "max_1v1": 2752,
+      "cur_tg": 1731,
+      "max_tg": 1885
     },
     {
       "profile_id": 2920057,
@@ -221,7 +221,7 @@
       "clan": "Dark",
       "cur_1v1": 2191,
       "max_1v1": 2323,
-      "cur_tg": 1828,
+      "cur_tg": 1842,
       "max_tg": 1880
     },
     {
@@ -299,7 +299,7 @@
       "profile_id": 2934597,
       "tag": "Sgt.Pepper",
       "clan": "nW",
-      "cur_1v1": 1978,
+      "cur_1v1": 1997,
       "max_1v1": 2210,
       "cur_tg": 1718,
       "max_tg": 1735
@@ -312,15 +312,6 @@
       "max_1v1": 2039,
       "cur_tg": 1643,
       "max_tg": 1888
-    },
-    {
-      "profile_id": 13215279,
-      "tag": "GO1_mx",
-      "clan": "MZTK",
-      "cur_1v1": 1957,
-      "max_1v1": 2093,
-      "cur_tg": 1664,
-      "max_tg": 1860
     },
     {
       "profile_id": 3254820,
@@ -338,6 +329,15 @@
       "max_1v1": 1972,
       "cur_tg": 1669,
       "max_tg": 1824
+    },
+    {
+      "profile_id": 13215279,
+      "tag": "GO1_mx",
+      "clan": "MZTK",
+      "cur_1v1": 1950,
+      "max_1v1": 2093,
+      "cur_tg": 1664,
+      "max_tg": 1860
     },
     {
       "profile_id": 358501,
