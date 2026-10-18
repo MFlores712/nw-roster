@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-18T04:15:09Z",
+  "updated_at": "2026-10-18T04:30:11Z",
   "baseline": {
     "taken_at": "2026-10-17T14:00:12Z",
     "ranks": {
@@ -97,7 +97,7 @@
       "clan": "VENÓN",
       "cur_1v1": 2476,
       "max_1v1": 2512,
-      "cur_tg": 2028,
+      "cur_tg": 2036,
       "max_tg": 2190
     },
     {
@@ -186,7 +186,7 @@
       "clan": "hK",
       "cur_1v1": 2220,
       "max_1v1": 2350,
-      "cur_tg": 1928,
+      "cur_tg": 1913,
       "max_tg": 1974
     },
     {
@@ -221,7 +221,7 @@
       "clan": "hK",
       "cur_1v1": 2155,
       "max_1v1": 2233,
-      "cur_tg": 1886,
+      "cur_tg": 1872,
       "max_tg": 1983
     },
     {
@@ -250,15 +250,6 @@
       "max_1v1": 2309,
       "cur_tg": 1786,
       "max_tg": 1854
-    },
-    {
-      "profile_id": 2850920,
-      "tag": "Chimtzin",
-      "clan": "Ux",
-      "cur_1v1": 2029,
-      "max_1v1": 2124,
-      "cur_tg": 1639,
-      "max_tg": 1820
     },
     {
       "profile_id": 1249720,
@@ -296,6 +287,15 @@
       "max_tg": 1735
     },
     {
+      "profile_id": 2850920,
+      "tag": "Chimtzin",
+      "clan": "Ux",
+      "cur_1v1": 2009,
+      "max_1v1": 2124,
+      "cur_tg": 1639,
+      "max_tg": 1820
+    },
+    {
       "profile_id": 2876835,
       "tag": "Abejorro",
       "clan": "nW",
@@ -307,7 +307,7 @@
     {
       "profile_id": 3254820,
       "tag": "__Chino",
-      "cur_1v1": 1974,
+      "cur_1v1": 1984,
       "max_1v1": 2003,
       "cur_tg": 1412,
       "max_tg": 1412
@@ -380,7 +380,7 @@
       "clan": "KH",
       "cur_1v1": 1920,
       "max_1v1": 2060,
-      "cur_tg": 1690,
+      "cur_tg": 1683,
       "max_tg": 1788
     },
     {
