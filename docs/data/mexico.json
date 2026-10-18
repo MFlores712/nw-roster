@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-18T02:15:09Z",
+  "updated_at": "2026-10-18T02:30:10Z",
   "baseline": {
     "taken_at": "2026-10-17T14:00:12Z",
     "ranks": {
@@ -207,15 +207,6 @@
       "max_tg": 2024
     },
     {
-      "profile_id": 13138746,
-      "tag": "FraKTal",
-      "clan": "hK",
-      "cur_1v1": 2193,
-      "max_1v1": 2233,
-      "cur_tg": 1886,
-      "max_tg": 1983
-    },
-    {
       "profile_id": 611972,
       "tag": "Adam",
       "clan": "Dark",
@@ -223,6 +214,15 @@
       "max_1v1": 2323,
       "cur_tg": 1842,
       "max_tg": 1880
+    },
+    {
+      "profile_id": 13138746,
+      "tag": "FraKTal",
+      "clan": "hK",
+      "cur_1v1": 2185,
+      "max_1v1": 2233,
+      "cur_tg": 1886,
+      "max_tg": 1983
     },
     {
       "profile_id": 917863,
@@ -250,6 +250,15 @@
       "max_1v1": 2309,
       "cur_tg": 1786,
       "max_tg": 1854
+    },
+    {
+      "profile_id": 2850920,
+      "tag": "Chimtzin",
+      "clan": "Ux",
+      "cur_1v1": 2022,
+      "max_1v1": 2124,
+      "cur_tg": 1639,
+      "max_tg": 1820
     },
     {
       "profile_id": 1249720,
@@ -287,15 +296,6 @@
       "max_tg": 1793
     },
     {
-      "profile_id": 2850920,
-      "tag": "Chimtzin",
-      "clan": "Ux",
-      "cur_1v1": 2004,
-      "max_1v1": 2124,
-      "cur_tg": 1639,
-      "max_tg": 1820
-    },
-    {
       "profile_id": 2934597,
       "tag": "Sgt.Pepper",
       "clan": "nW",
@@ -303,6 +303,15 @@
       "max_1v1": 2210,
       "cur_tg": 1718,
       "max_tg": 1735
+    },
+    {
+      "profile_id": 13215279,
+      "tag": "GO1_mx",
+      "clan": "MZTK",
+      "cur_1v1": 1963,
+      "max_1v1": 2093,
+      "cur_tg": 1664,
+      "max_tg": 1860
     },
     {
       "profile_id": 2926018,
@@ -329,15 +338,6 @@
       "max_1v1": 1972,
       "cur_tg": 1669,
       "max_tg": 1824
-    },
-    {
-      "profile_id": 13215279,
-      "tag": "GO1_mx",
-      "clan": "MZTK",
-      "cur_1v1": 1950,
-      "max_1v1": 2093,
-      "cur_tg": 1664,
-      "max_tg": 1860
     },
     {
       "profile_id": 358501,
