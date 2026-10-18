@@ -1,6 +1,6 @@
 {
   "name": "new Wave",
-  "updated_at": "2026-10-18T18:30:10Z",
+  "updated_at": "2026-10-18T18:45:09Z",
   "baseline": {
     "taken_at": "2026-10-18T14:00:13Z",
     "ranks": {
@@ -22,7 +22,13 @@
       "cur_1v1": 2297,
       "max_1v1": 2410,
       "cur_tg": 1797,
-      "max_tg": 1882
+      "max_tg": 1882,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     },
     {
       "profile_id": 914665,
@@ -31,7 +37,13 @@
       "cur_1v1": 2195,
       "max_1v1": 2241,
       "cur_tg": 1909,
-      "max_tg": 2024
+      "max_tg": 2024,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     },
     {
       "profile_id": 1947348,
@@ -55,7 +67,13 @@
       "cur_1v1": 2085,
       "max_1v1": 2309,
       "cur_tg": 1786,
-      "max_tg": 1854
+      "max_tg": 1854,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     },
     {
       "profile_id": 6501299,
@@ -64,7 +82,13 @@
       "cur_1v1": 2011,
       "max_1v1": 2011,
       "cur_tg": 1731,
-      "max_tg": 1745
+      "max_tg": 1745,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     },
     {
       "profile_id": 2934597,
@@ -73,7 +97,13 @@
       "cur_1v1": 2010,
       "max_1v1": 2210,
       "cur_tg": 1718,
-      "max_tg": 1735
+      "max_tg": 1735,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     },
     {
       "profile_id": 2876835,
@@ -82,7 +112,13 @@
       "cur_1v1": 2004,
       "max_1v1": 2152,
       "cur_tg": 1675,
-      "max_tg": 1793
+      "max_tg": 1793,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     },
     {
       "profile_id": 1359694,
@@ -91,7 +127,13 @@
       "cur_1v1": 1970,
       "max_1v1": 2123,
       "cur_tg": 1637,
-      "max_tg": 1670
+      "max_tg": 1670,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     }
   ]
 }

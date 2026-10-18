@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-18T18:30:10Z",
+  "updated_at": "2026-10-18T18:45:09Z",
   "baseline": {
     "taken_at": "2026-10-18T14:00:13Z",
     "ranks": {
@@ -31,7 +31,13 @@
       "cur_1v1": 2714,
       "max_1v1": 2978,
       "cur_tg": 1782,
-      "max_tg": 1782
+      "max_tg": 1782,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     },
     {
       "profile_id": 3216208,
@@ -39,7 +45,13 @@
       "cur_1v1": 2411,
       "max_1v1": 2558,
       "cur_tg": 1874,
-      "max_tg": 1935
+      "max_tg": 1935,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     },
     {
       "profile_id": 9558892,
@@ -48,7 +60,13 @@
       "cur_1v1": 2347,
       "max_1v1": 2423,
       "cur_tg": 1749,
-      "max_tg": 1846
+      "max_tg": 1846,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     },
     {
       "profile_id": 2366434,
@@ -57,7 +75,13 @@
       "cur_1v1": 2202,
       "max_1v1": 2202,
       "cur_tg": 1696,
-      "max_tg": 1827
+      "max_tg": 1827,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     },
     {
       "profile_id": 4706179,
@@ -66,7 +90,13 @@
       "cur_1v1": 2196,
       "max_1v1": 2223,
       "cur_tg": 1969,
-      "max_tg": 1971
+      "max_tg": 1971,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     },
     {
       "profile_id": 4229962,
@@ -75,7 +105,13 @@
       "cur_1v1": 2128,
       "max_1v1": 2129,
       "cur_tg": 1590,
-      "max_tg": 1719
+      "max_tg": 1719,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     },
     {
       "profile_id": 5464646,
@@ -84,7 +120,13 @@
       "cur_1v1": 2090,
       "max_1v1": 2242,
       "cur_tg": 1832,
-      "max_tg": 1932
+      "max_tg": 1932,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     },
     {
       "profile_id": 6090060,
@@ -92,7 +134,13 @@
       "cur_1v1": 2031,
       "max_1v1": 2031,
       "cur_tg": 1752,
-      "max_tg": 1840
+      "max_tg": 1840,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     },
     {
       "profile_id": 3244108,
@@ -100,7 +148,13 @@
       "cur_1v1": 2026,
       "max_1v1": 2174,
       "cur_tg": 1573,
-      "max_tg": 1834
+      "max_tg": 1834,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     },
     {
       "profile_id": 12167914,
@@ -109,7 +163,13 @@
       "cur_1v1": 2009,
       "max_1v1": 2016,
       "cur_tg": 1886,
-      "max_tg": 1992
+      "max_tg": 1992,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     },
     {
       "profile_id": 633255,
@@ -117,7 +177,13 @@
       "cur_1v1": 1984,
       "max_1v1": 2177,
       "cur_tg": 1663,
-      "max_tg": 1843
+      "max_tg": 1843,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     },
     {
       "profile_id": 1359694,
@@ -126,7 +192,13 @@
       "cur_1v1": 1970,
       "max_1v1": 2123,
       "cur_tg": 1637,
-      "max_tg": 1670
+      "max_tg": 1670,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     },
     {
       "profile_id": 3034651,
@@ -165,7 +237,13 @@
       "cur_1v1": 1903,
       "max_1v1": 1995,
       "cur_tg": 1452,
-      "max_tg": 1581
+      "max_tg": 1581,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     },
     {
       "profile_id": 1865687,
@@ -188,7 +266,13 @@
       "cur_1v1": 1875,
       "max_1v1": 1940,
       "cur_tg": 1531,
-      "max_tg": 1719
+      "max_tg": 1719,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ]
     }
   ],
   "show_top": 15
