@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-18T03:30:10Z",
+  "updated_at": "2026-10-18T03:45:09Z",
   "baseline": {
     "taken_at": "2026-10-17T14:00:12Z",
     "ranks": {
@@ -157,8 +157,8 @@
       "profile_id": 12723994,
       "tag": "PuNii",
       "clan": "VENÓN",
-      "cur_1v1": 2310,
-      "max_1v1": 2310,
+      "cur_1v1": 2315,
+      "max_1v1": 2315,
       "cur_tg": 1821,
       "max_tg": 1922
     },
@@ -219,7 +219,7 @@
       "profile_id": 13138746,
       "tag": "FraKTal",
       "clan": "hK",
-      "cur_1v1": 2185,
+      "cur_1v1": 2169,
       "max_1v1": 2233,
       "cur_tg": 1886,
       "max_tg": 1983
@@ -362,7 +362,7 @@
       "clan": "VL",
       "cur_1v1": 1933,
       "max_1v1": 1970,
-      "cur_tg": 1819,
+      "cur_tg": 1793,
       "max_tg": 1865
     },
     {
