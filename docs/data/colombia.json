@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-18T12:00:11Z",
+  "updated_at": "2026-10-18T12:30:11Z",
   "baseline": {
     "taken_at": "2026-10-17T14:00:12Z",
     "ranks": {
@@ -84,7 +84,7 @@
     {
       "profile_id": 2955183,
       "tag": "JOLIAT",
-      "cur_1v1": 1953,
+      "cur_1v1": 1965,
       "max_1v1": 2095,
       "cur_tg": 1600,
       "max_tg": 1710
