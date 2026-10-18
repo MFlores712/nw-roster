@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-18T06:15:09Z",
+  "updated_at": "2026-10-18T06:45:09Z",
   "baseline": {
     "taken_at": "2026-10-17T14:00:12Z",
     "ranks": {
@@ -212,7 +212,7 @@
       "clan": "Dark",
       "cur_1v1": 2191,
       "max_1v1": 2323,
-      "cur_tg": 1839,
+      "cur_tg": 1825,
       "max_tg": 1880
     },
     {
@@ -331,6 +331,15 @@
       "max_tg": 1824
     },
     {
+      "profile_id": 358501,
+      "tag": "El Claut_One",
+      "clan": "VENÓN",
+      "cur_1v1": 1951,
+      "max_1v1": 2115,
+      "cur_tg": 1757,
+      "max_tg": 1820
+    },
+    {
       "profile_id": 13215279,
       "tag": "GO1_mx",
       "clan": "MZTK",
@@ -338,15 +347,6 @@
       "max_1v1": 2093,
       "cur_tg": 1664,
       "max_tg": 1860
-    },
-    {
-      "profile_id": 358501,
-      "tag": "El Claut_One",
-      "clan": "VENÓN",
-      "cur_1v1": 1941,
-      "max_1v1": 2115,
-      "cur_tg": 1757,
-      "max_tg": 1820
     },
     {
       "profile_id": 467847,
