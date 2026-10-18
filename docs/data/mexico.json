@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-18T05:00:13Z",
+  "updated_at": "2026-10-18T05:15:08Z",
   "baseline": {
     "taken_at": "2026-10-17T14:00:12Z",
     "ranks": {
@@ -47,6 +47,15 @@
   },
   "players": [
     {
+      "profile_id": 5984120,
+      "tag": "Combito",
+      "clan": "Ux",
+      "cur_1v1": 2687,
+      "max_1v1": 2752,
+      "cur_tg": 1731,
+      "max_tg": 1885
+    },
+    {
       "profile_id": 2776293,
       "tag": "Kingstone",
       "clan": "Oni",
@@ -54,15 +63,6 @@
       "max_1v1": 2867,
       "cur_tg": 2152,
       "max_tg": 2169
-    },
-    {
-      "profile_id": 5984120,
-      "tag": "Combito",
-      "clan": "Ux",
-      "cur_1v1": 2675,
-      "max_1v1": 2752,
-      "cur_tg": 1731,
-      "max_tg": 1885
     },
     {
       "profile_id": 2920057,
@@ -97,7 +97,7 @@
       "clan": "VENÓN",
       "cur_1v1": 2476,
       "max_1v1": 2512,
-      "cur_tg": 2043,
+      "cur_tg": 2049,
       "max_tg": 2190
     },
     {
@@ -123,7 +123,7 @@
       "clan": "VENÓN",
       "cur_1v1": 2367,
       "max_1v1": 2394,
-      "cur_tg": 1801,
+      "cur_tg": 1793,
       "max_tg": 2099
     },
     {
@@ -221,7 +221,7 @@
       "clan": "hK",
       "cur_1v1": 2155,
       "max_1v1": 2233,
-      "cur_tg": 1861,
+      "cur_tg": 1866,
       "max_tg": 1983
     },
     {
@@ -327,7 +327,7 @@
       "clan": "VL",
       "cur_1v1": 1952,
       "max_1v1": 1972,
-      "cur_tg": 1669,
+      "cur_tg": 1647,
       "max_tg": 1824
     },
     {
