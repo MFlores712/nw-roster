@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-18T11:15:08Z",
+  "updated_at": "2026-10-18T11:30:10Z",
   "baseline": {
     "taken_at": "2026-10-17T14:00:12Z",
     "ranks": {
@@ -73,14 +73,6 @@
       "max_tg": 1772
     },
     {
-      "profile_id": 2955183,
-      "tag": "JOLIAT",
-      "cur_1v1": 1992,
-      "max_1v1": 2095,
-      "cur_tg": 1600,
-      "max_tg": 1710
-    },
-    {
       "profile_id": 2955846,
       "tag": "KauTrEnS",
       "clan": "FMG",
@@ -88,6 +80,14 @@
       "max_1v1": 2054,
       "cur_tg": 1669,
       "max_tg": 1759
+    },
+    {
+      "profile_id": 2955183,
+      "tag": "JOLIAT",
+      "cur_1v1": 1967,
+      "max_1v1": 2095,
+      "cur_tg": 1600,
+      "max_tg": 1710
     },
     {
       "profile_id": 1062980,
