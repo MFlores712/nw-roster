@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-18T07:45:09Z",
+  "updated_at": "2026-10-18T08:15:10Z",
   "baseline": {
     "taken_at": "2026-10-17T14:00:12Z",
     "ranks": {
@@ -147,14 +147,6 @@
       "max_tg": 1565
     },
     {
-      "profile_id": 4234652,
-      "tag": "_The_Oldergold",
-      "cur_1v1": 1902,
-      "max_1v1": 1940,
-      "cur_tg": 1531,
-      "max_tg": 1719
-    },
-    {
       "profile_id": 1865687,
       "tag": "Pentrus",
       "clan": "CTM",
@@ -162,6 +154,14 @@
       "max_1v1": 1902,
       "cur_tg": 1460,
       "max_tg": 1608
+    },
+    {
+      "profile_id": 4234652,
+      "tag": "_The_Oldergold",
+      "cur_1v1": 1900,
+      "max_1v1": 1940,
+      "cur_tg": 1531,
+      "max_tg": 1719
     },
     {
       "profile_id": 4167535,
