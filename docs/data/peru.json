@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-18T04:30:11Z",
+  "updated_at": "2026-10-18T05:00:13Z",
   "baseline": {
     "taken_at": "2026-10-17T14:00:12Z",
     "ranks": {
@@ -91,7 +91,7 @@
       "tag": "noru",
       "cur_1v1": 2031,
       "max_1v1": 2031,
-      "cur_tg": 1757,
+      "cur_tg": 1765,
       "max_tg": 1840
     },
     {
@@ -108,7 +108,7 @@
       "clan": "CL",
       "cur_1v1": 2009,
       "max_1v1": 2016,
-      "cur_tg": 1823,
+      "cur_tg": 1838,
       "max_tg": 1992
     },
     {
