@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-18T00:00:13Z",
+  "updated_at": "2026-10-18T00:15:09Z",
   "baseline": {
     "taken_at": "2026-10-17T14:00:12Z",
     "ranks": {
@@ -184,7 +184,7 @@
       "profile_id": 580573,
       "tag": "Puerco_Negro",
       "clan": "hK",
-      "cur_1v1": 2211,
+      "cur_1v1": 2220,
       "max_1v1": 2350,
       "cur_tg": 1949,
       "max_tg": 1974
@@ -270,6 +270,15 @@
       "max_tg": 1997
     },
     {
+      "profile_id": 2850920,
+      "tag": "Chimtzin",
+      "clan": "Ux",
+      "cur_1v1": 2017,
+      "max_1v1": 2124,
+      "cur_tg": 1639,
+      "max_tg": 1820
+    },
+    {
       "profile_id": 9770338,
       "tag": "SynfonY",
       "cur_1v1": 2016,
@@ -285,15 +294,6 @@
       "max_1v1": 2011,
       "cur_tg": 1731,
       "max_tg": 1745
-    },
-    {
-      "profile_id": 2850920,
-      "tag": "Chimtzin",
-      "clan": "Ux",
-      "cur_1v1": 2005,
-      "max_1v1": 2124,
-      "cur_tg": 1639,
-      "max_tg": 1820
     },
     {
       "profile_id": 2876835,
