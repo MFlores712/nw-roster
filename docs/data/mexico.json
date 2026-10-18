@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-18T03:15:13Z",
+  "updated_at": "2026-10-18T03:30:10Z",
   "baseline": {
     "taken_at": "2026-10-17T14:00:12Z",
     "ranks": {
@@ -186,7 +186,7 @@
       "clan": "hK",
       "cur_1v1": 2220,
       "max_1v1": 2350,
-      "cur_tg": 1949,
+      "cur_tg": 1953,
       "max_tg": 1974
     },
     {
@@ -212,7 +212,7 @@
       "clan": "Dark",
       "cur_1v1": 2191,
       "max_1v1": 2323,
-      "cur_tg": 1825,
+      "cur_tg": 1839,
       "max_tg": 1880
     },
     {
@@ -255,7 +255,7 @@
       "profile_id": 2850920,
       "tag": "Chimtzin",
       "clan": "Ux",
-      "cur_1v1": 2035,
+      "cur_1v1": 2021,
       "max_1v1": 2124,
       "cur_tg": 1639,
       "max_tg": 1820
@@ -287,6 +287,15 @@
       "max_tg": 1745
     },
     {
+      "profile_id": 2934597,
+      "tag": "Sgt.Pepper",
+      "clan": "nW",
+      "cur_1v1": 2010,
+      "max_1v1": 2210,
+      "cur_tg": 1718,
+      "max_tg": 1735
+    },
+    {
       "profile_id": 2876835,
       "tag": "Abejorro",
       "clan": "nW",
@@ -294,15 +303,6 @@
       "max_1v1": 2152,
       "cur_tg": 1675,
       "max_tg": 1793
-    },
-    {
-      "profile_id": 2934597,
-      "tag": "Sgt.Pepper",
-      "clan": "nW",
-      "cur_1v1": 2003,
-      "max_1v1": 2210,
-      "cur_tg": 1718,
-      "max_tg": 1735
     },
     {
       "profile_id": 2926018,
@@ -332,14 +332,6 @@
       "max_tg": 1860
     },
     {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1950,
-      "max_1v1": 2003,
-      "cur_tg": 1412,
-      "max_tg": 1412
-    },
-    {
       "profile_id": 358501,
       "tag": "El Claut_One",
       "clan": "VENÓN",
@@ -355,6 +347,14 @@
       "max_1v1": 2078,
       "cur_tg": 1648,
       "max_tg": 1755
+    },
+    {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1938,
+      "max_1v1": 2003,
+      "cur_tg": 1412,
+      "max_tg": 1412
     },
     {
       "profile_id": 278380,
@@ -380,7 +380,7 @@
       "clan": "KH",
       "cur_1v1": 1920,
       "max_1v1": 2060,
-      "cur_tg": 1694,
+      "cur_tg": 1706,
       "max_tg": 1788
     },
     {
