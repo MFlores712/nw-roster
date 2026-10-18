@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-18T07:00:12Z",
+  "updated_at": "2026-10-18T07:15:09Z",
   "baseline": {
     "taken_at": "2026-10-17T14:00:12Z",
     "ranks": {
@@ -129,14 +129,6 @@
       "max_tg": 1843
     },
     {
-      "profile_id": 4234652,
-      "tag": "_The_Oldergold",
-      "cur_1v1": 1940,
-      "max_1v1": 1940,
-      "cur_tg": 1531,
-      "max_tg": 1719
-    },
-    {
       "profile_id": 3034651,
       "tag": "KinG-Viza",
       "clan": "Bz",
@@ -144,6 +136,14 @@
       "max_1v1": 2035,
       "cur_tg": 1519,
       "max_tg": 1657
+    },
+    {
+      "profile_id": 4234652,
+      "tag": "_The_Oldergold",
+      "cur_1v1": 1920,
+      "max_1v1": 1940,
+      "cur_tg": 1531,
+      "max_tg": 1719
     },
     {
       "profile_id": 5655708,
