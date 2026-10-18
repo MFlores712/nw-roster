@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-18T00:30:10Z",
+  "updated_at": "2026-10-18T00:45:08Z",
   "baseline": {
     "taken_at": "2026-10-17T14:00:12Z",
     "ranks": {
@@ -70,7 +70,7 @@
       "clan": "Ux",
       "cur_1v1": 2660,
       "max_1v1": 2685,
-      "cur_tg": 2066,
+      "cur_tg": 2069,
       "max_tg": 2071
     },
     {
@@ -255,7 +255,7 @@
       "profile_id": 2934597,
       "tag": "Sgt.Pepper",
       "clan": "nW",
-      "cur_1v1": 2055,
+      "cur_1v1": 2036,
       "max_1v1": 2210,
       "cur_tg": 1718,
       "max_tg": 1735
@@ -268,15 +268,6 @@
       "max_1v1": 2087,
       "cur_tg": 1803,
       "max_tg": 1997
-    },
-    {
-      "profile_id": 2850920,
-      "tag": "Chimtzin",
-      "clan": "Ux",
-      "cur_1v1": 2017,
-      "max_1v1": 2124,
-      "cur_tg": 1639,
-      "max_tg": 1820
     },
     {
       "profile_id": 9770338,
@@ -294,6 +285,15 @@
       "max_1v1": 2011,
       "cur_tg": 1731,
       "max_tg": 1745
+    },
+    {
+      "profile_id": 2850920,
+      "tag": "Chimtzin",
+      "clan": "Ux",
+      "cur_1v1": 2010,
+      "max_1v1": 2124,
+      "cur_tg": 1639,
+      "max_tg": 1820
     },
     {
       "profile_id": 2876835,
