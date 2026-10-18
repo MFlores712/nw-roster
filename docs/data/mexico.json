@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-18T04:00:12Z",
+  "updated_at": "2026-10-18T04:15:09Z",
   "baseline": {
     "taken_at": "2026-10-17T14:00:12Z",
     "ranks": {
@@ -77,7 +77,7 @@
       "profile_id": 13099159,
       "tag": "Uzzi",
       "clan": "Ux",
-      "cur_1v1": 2552,
+      "cur_1v1": 2558,
       "max_1v1": 2629,
       "cur_tg": 1819,
       "max_tg": 1999
@@ -123,7 +123,7 @@
       "clan": "VENÓN",
       "cur_1v1": 2367,
       "max_1v1": 2394,
-      "cur_tg": 1784,
+      "cur_tg": 1801,
       "max_tg": 2099
     },
     {
@@ -157,7 +157,7 @@
       "profile_id": 12723994,
       "tag": "PuNii",
       "clan": "VENÓN",
-      "cur_1v1": 2315,
+      "cur_1v1": 2304,
       "max_1v1": 2315,
       "cur_tg": 1821,
       "max_tg": 1922
@@ -186,7 +186,7 @@
       "clan": "hK",
       "cur_1v1": 2220,
       "max_1v1": 2350,
-      "cur_tg": 1953,
+      "cur_tg": 1928,
       "max_tg": 1974
     },
     {
@@ -219,7 +219,7 @@
       "profile_id": 13138746,
       "tag": "FraKTal",
       "clan": "hK",
-      "cur_1v1": 2169,
+      "cur_1v1": 2155,
       "max_1v1": 2233,
       "cur_tg": 1886,
       "max_tg": 1983
@@ -305,6 +305,14 @@
       "max_tg": 1793
     },
     {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1974,
+      "max_1v1": 2003,
+      "cur_tg": 1412,
+      "max_tg": 1412
+    },
+    {
       "profile_id": 2926018,
       "tag": "PerezPodrido",
       "clan": "SotC",
@@ -312,14 +320,6 @@
       "max_1v1": 2039,
       "cur_tg": 1643,
       "max_tg": 1888
-    },
-    {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1956,
-      "max_1v1": 2003,
-      "cur_tg": 1412,
-      "max_tg": 1412
     },
     {
       "profile_id": 2986966,
@@ -380,7 +380,7 @@
       "clan": "KH",
       "cur_1v1": 1920,
       "max_1v1": 2060,
-      "cur_tg": 1706,
+      "cur_tg": 1690,
       "max_tg": 1788
     },
     {
