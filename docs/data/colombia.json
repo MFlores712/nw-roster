@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-19T23:30:10Z",
+  "updated_at": "2026-10-19T23:45:10Z",
   "baseline": {
     "taken_at": "2026-10-19T14:00:13Z",
     "ranks": {
@@ -43,7 +43,7 @@
       "clan": "nW",
       "cur_1v1": 2305,
       "max_1v1": 2410,
-      "cur_tg": 1851,
+      "cur_tg": 1852,
       "max_tg": 1882
     },
     {
@@ -108,14 +108,6 @@
       "max_tg": 1905
     },
     {
-      "profile_id": 5368998,
-      "tag": "Matazombies",
-      "cur_1v1": 1903,
-      "max_1v1": 1933,
-      "cur_tg": 1785,
-      "max_tg": 1975
-    },
-    {
       "profile_id": 12930522,
       "tag": "Kevin",
       "clan": "VENÓN",
@@ -129,6 +121,14 @@
         "cur_tg",
         "max_tg"
       ]
+    },
+    {
+      "profile_id": 5368998,
+      "tag": "Matazombies",
+      "cur_1v1": 1882,
+      "max_1v1": 1933,
+      "cur_tg": 1785,
+      "max_tg": 1975
     }
   ],
   "show_top": 10
