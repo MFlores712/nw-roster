@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-19T06:15:09Z",
+  "updated_at": "2026-10-19T06:30:12Z",
   "baseline": {
     "taken_at": "2026-10-18T14:00:13Z",
     "ranks": {
@@ -287,15 +287,6 @@
       "max_tg": 1793
     },
     {
-      "profile_id": 2850920,
-      "tag": "Chimtzin",
-      "clan": "Ux",
-      "cur_1v1": 1997,
-      "max_1v1": 2124,
-      "cur_tg": 1639,
-      "max_tg": 1820
-    },
-    {
       "profile_id": 13215279,
       "tag": "GO1_mx",
       "clan": "MZTK",
@@ -312,6 +303,15 @@
       "max_1v1": 2210,
       "cur_tg": 1718,
       "max_tg": 1735
+    },
+    {
+      "profile_id": 2850920,
+      "tag": "Chimtzin",
+      "clan": "Ux",
+      "cur_1v1": 1981,
+      "max_1v1": 2124,
+      "cur_tg": 1639,
+      "max_tg": 1820
     },
     {
       "profile_id": 2926018,
