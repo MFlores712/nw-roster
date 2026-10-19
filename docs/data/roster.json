@@ -1,6 +1,6 @@
 {
   "name": "new Wave",
-  "updated_at": "2026-10-19T14:00:13Z",
+  "updated_at": "2026-10-19T18:00:13Z",
   "baseline": {
     "taken_at": "2026-10-19T14:00:13Z",
     "ranks": {
@@ -52,6 +52,15 @@
       "max_tg": 1854
     },
     {
+      "profile_id": 1359694,
+      "tag": "AtilA",
+      "country": "Peru",
+      "cur_1v1": 2013,
+      "max_1v1": 2123,
+      "cur_tg": 1637,
+      "max_tg": 1670
+    },
+    {
       "profile_id": 6501299,
       "tag": "ShutAzarquay",
       "country": "Mexico",
@@ -68,15 +77,6 @@
       "max_1v1": 2152,
       "cur_tg": 1675,
       "max_tg": 1793
-    },
-    {
-      "profile_id": 1359694,
-      "tag": "AtilA",
-      "country": "Peru",
-      "cur_1v1": 2001,
-      "max_1v1": 2123,
-      "cur_tg": 1637,
-      "max_tg": 1670
     },
     {
       "profile_id": 2934597,

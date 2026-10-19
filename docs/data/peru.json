@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-19T17:45:10Z",
+  "updated_at": "2026-10-19T18:00:13Z",
   "baseline": {
     "taken_at": "2026-10-19T14:00:13Z",
     "ranks": {
@@ -99,8 +99,17 @@
       "tag": "noru",
       "cur_1v1": 2031,
       "max_1v1": 2031,
-      "cur_tg": 1706,
+      "cur_tg": 1740,
       "max_tg": 1840
+    },
+    {
+      "profile_id": 1359694,
+      "tag": "AtilA",
+      "clan": "nW",
+      "cur_1v1": 2013,
+      "max_1v1": 2123,
+      "cur_tg": 1637,
+      "max_tg": 1670
     },
     {
       "profile_id": 12167914,
@@ -110,15 +119,6 @@
       "max_1v1": 2016,
       "cur_tg": 1872,
       "max_tg": 1992
-    },
-    {
-      "profile_id": 1359694,
-      "tag": "AtilA",
-      "clan": "nW",
-      "cur_1v1": 2001,
-      "max_1v1": 2123,
-      "cur_tg": 1637,
-      "max_tg": 1670
     },
     {
       "profile_id": 633255,
