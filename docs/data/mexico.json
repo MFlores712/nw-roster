@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-19T18:30:13Z",
+  "updated_at": "2026-10-19T18:45:11Z",
   "baseline": {
     "taken_at": "2026-10-19T14:00:13Z",
     "ranks": {
@@ -184,7 +184,7 @@
       "profile_id": 611972,
       "tag": "Adam",
       "clan": "Dark",
-      "cur_1v1": 2206,
+      "cur_1v1": 2216,
       "max_1v1": 2323,
       "cur_tg": 1838,
       "max_tg": 1880
