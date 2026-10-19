@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-19T20:10:30Z",
+  "updated_at": "2026-10-19T20:30:10Z",
   "baseline": {
     "taken_at": "2026-10-19T14:00:13Z",
     "ranks": {
@@ -166,7 +166,7 @@
       "profile_id": 2598146,
       "tag": "SiNisTeR",
       "clan": "VENÓN",
-      "cur_1v1": 2298,
+      "cur_1v1": 2278,
       "max_1v1": 2368,
       "cur_tg": 2182,
       "max_tg": 2227
@@ -177,7 +177,7 @@
       "clan": "VN",
       "cur_1v1": 2262,
       "max_1v1": 2285,
-      "cur_tg": 1865,
+      "cur_tg": 1843,
       "max_tg": 2050
     },
     {
@@ -257,7 +257,7 @@
       "clan": "VN",
       "cur_1v1": 2020,
       "max_1v1": 2087,
-      "cur_tg": 1800,
+      "cur_tg": 1781,
       "max_tg": 1997
     },
     {
