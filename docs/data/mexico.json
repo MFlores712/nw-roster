@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-19T05:45:09Z",
+  "updated_at": "2026-10-19T06:15:09Z",
   "baseline": {
     "taken_at": "2026-10-18T14:00:13Z",
     "ranks": {
@@ -79,7 +79,7 @@
       "clan": "Ux",
       "cur_1v1": 2615,
       "max_1v1": 2629,
-      "cur_tg": 1819,
+      "cur_tg": 1810,
       "max_tg": 1999
     },
     {
@@ -97,7 +97,7 @@
       "clan": "VENÓN",
       "cur_1v1": 2476,
       "max_1v1": 2512,
-      "cur_tg": 2070,
+      "cur_tg": 2072,
       "max_tg": 2190
     },
     {
@@ -239,7 +239,7 @@
       "clan": "nW",
       "cur_1v1": 2094,
       "max_1v1": 2211,
-      "cur_tg": 1831,
+      "cur_tg": 1822,
       "max_tg": 2034
     },
     {
@@ -265,17 +265,8 @@
       "tag": "SynfonY",
       "cur_1v1": 2016,
       "max_1v1": 2020,
-      "cur_tg": 1806,
+      "cur_tg": 1790,
       "max_tg": 1962
-    },
-    {
-      "profile_id": 2850920,
-      "tag": "Chimtzin",
-      "clan": "Ux",
-      "cur_1v1": 2015,
-      "max_1v1": 2124,
-      "cur_tg": 1639,
-      "max_tg": 1820
     },
     {
       "profile_id": 6501299,
@@ -294,6 +285,15 @@
       "max_1v1": 2152,
       "cur_tg": 1675,
       "max_tg": 1793
+    },
+    {
+      "profile_id": 2850920,
+      "tag": "Chimtzin",
+      "clan": "Ux",
+      "cur_1v1": 1997,
+      "max_1v1": 2124,
+      "cur_tg": 1639,
+      "max_tg": 1820
     },
     {
       "profile_id": 13215279,
