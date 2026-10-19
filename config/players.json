@@ -3,8 +3,8 @@
   "clan_tag": "nW",
   "source": "aoe2insights.com",
   "players": [
-    { "id": 13267917, "tag": "Manuel",       "country": "Colombia" },
-    { "id": 12171002, "tag": "iamkaito",     "country": "Mexico" },
+    { "id": 13267917, "official_id": 22889810, "tag": "Manuel",       "country": "Colombia" },
+    { "id": 12171002, "official_id": 14666598, "tag": "iamkaito",     "country": "Mexico" },
     { "id": 914665,   "tag": "Caguamas",     "country": "Mexico" },
     { "id": 2934597,  "tag": "Sgt.Pepper",   "country": "Mexico" },
     { "id": 2876835,  "tag": "Abejorro",     "country": "Mexico" },

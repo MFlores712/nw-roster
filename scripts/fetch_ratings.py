@@ -1,34 +1,39 @@
 #!/usr/bin/env python3
 """
-Fetch current and max ELO (RM 1v1 and RM Team) from aoe2insights.com for each
-roster in ROSTERS and write docs/data/<roster>.json, sorted by current 1v1 ELO
-descending.
+Fetch current and max ELO (RM 1v1 and RM Team) for each roster in ROSTERS and
+write docs/data/<roster>.json, sorted by current 1v1 ELO descending.
 
 USAGE:
     python scripts/fetch_ratings.py          # update every roster
 
-NOTE — aoe2insights.com has no public/documented API. This script scrapes
-the public profile page for each player. Each ladder (1v1 RM, Team RM, ...)
-is a "card-ranking" card showing current rating, rank, and an "All Time High"
-field. If the site redesigns and values come back None, open one profile
-page's HTML and adjust the patterns below.
+DATA SOURCE — the official Age of Empires II ranked-stats API run by World's
+Edge (the same data aoe2insights and other community sites display). Every
+player is looked up in a couple of batched requests per run.
+
+aoe2insights.com used to be scraped instead, but since 2026-10-18 it sits
+behind a Cloudflare bot challenge, so automated requests get HTTP 403.
+Rows on the page still link to aoe2insights profiles for people to visit.
+
+Player IDs in config are aoe2insights IDs (used for those links and as the
+stable key in the data files). They are the official profile IDs too, except
+for some newer accounts; those carry an extra "official_id" in config.
 """
 
-import html
+import http.client
 import json
 import re
 import sys
 import time
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
+from urllib.parse import urlencode
 from urllib.request import Request, urlopen
-from urllib.error import URLError, HTTPError
 
 ROOT = Path(__file__).resolve().parent.parent
 
 # Each roster: player list in config/, output read directly by the live page.
-# Players with a "tag" in config use it; others get their name scraped from
-# their profile. Every roster updates on every run (the timer fires every 15 min).
+# Players with a "tag" in config use it; others get their name from the API.
+# Every roster updates on every run (the timer fires every 15 min).
 ROSTERS = [
     {"config": ROOT / "config" / "players.json", "output": ROOT / "docs" / "data" / "roster.json"},
     {"config": ROOT / "config" / "mexico.json", "output": ROOT / "docs" / "data" / "mexico.json"},
@@ -36,83 +41,91 @@ ROSTERS = [
     {"config": ROOT / "config" / "peru.json", "output": ROOT / "docs" / "data" / "peru.json"},
 ]
 
-BASE_URL = "https://www.aoe2insights.com/user/{id}/"
-HEADERS = {"User-Agent": "Mozilla/5.0 (nW-roster-bot; personal clan tool)"}
-REQUEST_DELAY_SECONDS = 2  # be polite — this is an unofficial community site
+STATS_URL = "https://aoe-api.worldsedgelink.com/community/leaderboard/GetPersonalStat"
+HEADERS = {"User-Agent": "nw-roster (personal clan ranking page; github.com/MFlores712/nw-roster)"}
+BATCH_SIZE = 50          # profiles per request
+RETRY_DELAY_SECONDS = 5  # one retry per batch for transient errors
 
-# --- Parsing patterns -------------------------------------------------
-# Verified against live markup (2026-09-30). Each ladder is a card:
-#   <div class="card card-ranking"> ... <h3 ...>Team RM</h3> ...
-#   <div class="rating-big">1845</div>                       <- current
-#   <span class="rating-detail" title="All Time High"><svg ...></svg>1854</span>
-# We split the page into cards and read within each, so an unranked ladder
-# can't bleed into the next card's numbers.
-CARD_SPLIT = re.compile(r'<div class="card card-ranking">')
-CARD_TITLE = re.compile(r"<h3[^>]*>\s*([^<]+?)\s*</h3>")
-CURRENT = re.compile(r'<div class="rating-big">\s*(\d+)\s*<')
-ALL_TIME_HIGH = re.compile(r'title="All Time High">(?:\s*<svg.*?</svg>)?\s*(\d+)\s*<', re.S)
-# Display name, e.g. "VENÓN | El Claut_One" or "Oni.Kingstone" (verified 2026-10-10)
-PROFILE_NAME = re.compile(r"<h1[^>]*>(.*?)</h1>", re.S)
+# leaderboard_id in the API -> our field suffix (3 = RM 1v1, 4 = RM Team)
+LEADERBOARDS = {3: "1v1", 4: "tg"}
+FIELDS = ["cur_1v1", "max_1v1", "cur_tg", "max_tg"]
 
 # Clan written as "[TAG] Name" instead of "TAG | Name"
 BRACKET_CLAN = re.compile(r"^\[([^\]]+)\]\s*(.+)$")
 
-LADDERS = {"1v1 RM": "1v1", "Team RM": "tg"}
-FIELDS = ["cur_1v1", "max_1v1", "cur_tg", "max_tg"]
+# Network-ish failures worth a retry: refused/reset/timed-out connections and
+# responses cut off part-way (IncompleteRead), plus a garbled JSON body.
+TRANSIENT_ERRORS = (OSError, http.client.HTTPException, ValueError)
 
 
-def fetch_profile_html(profile_id: int) -> str:
-    req = Request(BASE_URL.format(id=profile_id), headers=HEADERS)
-    with urlopen(req, timeout=15) as resp:
-        return resp.read().decode("utf-8", errors="replace")
-
-
-def extract_ratings(html_text: str) -> dict:
-    """Returns {field: int | None} for every name in FIELDS."""
-    ratings = dict.fromkeys(FIELDS)
-    for card in CARD_SPLIT.split(html_text)[1:]:
-        title = CARD_TITLE.search(card)
-        suffix = LADDERS.get(title.group(1)) if title else None
-        if not suffix or ratings[f"max_{suffix}"] is not None:
-            continue
-        cur = CURRENT.search(card)
-        peak = ALL_TIME_HIGH.search(card)
-        ratings[f"cur_{suffix}"] = int(cur.group(1)) if cur else None
-        ratings[f"max_{suffix}"] = int(peak.group(1)) if peak else None
-    return ratings
-
-
-def extract_name(html_text: str) -> tuple[str | None, str | None]:
-    """Returns (clan, name) from the profile heading; clan is None if untagged."""
-    m = PROFILE_NAME.search(html_text)
-    if not m:
-        return None, None
-    text = " ".join(html.unescape(re.sub(r"<[^>]+>", " ", m.group(1))).split())
+def split_alias(alias: str | None) -> tuple[str | None, str | None]:
+    """"VENÓN | El Claut_One" -> ("VENÓN", "El Claut_One"); no clan -> (None, alias)."""
+    text = " ".join((alias or "").split())
     if " | " in text:
         clan, name = text.split(" | ", 1)
         return clan.strip() or None, name.strip()
     return None, text or None
 
 
-_profile_cache: dict[int, tuple[dict, tuple]] = {}
+def request_stats(official_ids: list[int]) -> dict:
+    query = urlencode({"title": "age2", "profile_ids": json.dumps(official_ids)})
+    req = Request(f"{STATS_URL}?{query}", headers=HEADERS)
+    with urlopen(req, timeout=30) as resp:
+        data = json.loads(resp.read().decode("utf-8"))
+    if data.get("result", {}).get("code") != 0:
+        raise ValueError(f"API error: {data.get('result')}")
+    return data
 
 
-def fetch_profile(profile_id: int) -> tuple[dict, tuple]:
-    """(ratings, (clan, name)) for a profile, fetched at most once per run.
+def parse_stats(data: dict) -> dict[int, tuple[dict, tuple]]:
+    """official id -> (ratings, (clan, name)) for every profile in the response."""
+    members = {}
+    for group in data.get("statGroups", []):
+        for m in group.get("members", []):
+            members[group["id"]] = m
+    out = {m["profile_id"]: (dict.fromkeys(FIELDS), split_alias(m.get("alias")))
+           for m in members.values()}
+    for s in data.get("leaderboardStats", []):
+        m = members.get(s.get("statgroup_id"))
+        suffix = LEADERBOARDS.get(s.get("leaderboard_id"))
+        if m and suffix:
+            ratings = out[m["profile_id"]][0]
+            ratings[f"cur_{suffix}"] = s.get("rating")
+            ratings[f"max_{suffix}"] = s.get("highestrating") or None
+    return out
 
-    Players on several rosters (nW members are also in the México ranking)
-    share one request.
-    """
-    if profile_id not in _profile_cache:
-        if _profile_cache:
-            time.sleep(REQUEST_DELAY_SECONDS)
-        try:
-            page = fetch_profile_html(profile_id)
-            _profile_cache[profile_id] = (extract_ratings(page), extract_name(page))
-        except (URLError, HTTPError, TimeoutError) as e:
-            print(f"  ! fetch failed for {profile_id}: {e}", file=sys.stderr)
-            _profile_cache[profile_id] = (dict.fromkeys(FIELDS), (None, None))
-    return _profile_cache[profile_id]
+
+_stats: dict[int, tuple[dict, tuple]] = {}
+
+
+def prefetch(official_ids: set[int]) -> None:
+    """Fill _stats for every profile, in batches. A batch that fails twice is
+    skipped: its players keep their last known values (shown as stale)."""
+    ids = sorted(official_ids)
+    for i in range(0, len(ids), BATCH_SIZE):
+        batch = ids[i:i + BATCH_SIZE]
+        for attempt in (1, 2):
+            try:
+                _stats.update(parse_stats(request_stats(batch)))
+                break
+            except TRANSIENT_ERRORS as e:
+                print(f"  ! stats request failed (attempt {attempt}) for {len(batch)} players: {e}", file=sys.stderr)
+                if attempt == 1:
+                    time.sleep(RETRY_DELAY_SECONDS)
+    missing = [i for i in ids if i not in _stats]
+    if missing:
+        print(f"  ! no stats for official ids {missing}", file=sys.stderr)
+
+
+def official_id(player: dict) -> int | None:
+    """None when config says the official account isn't known yet
+    ("official_id": null): that player just keeps their last known values."""
+    return player.get("official_id", player["id"])
+
+
+def fetch_profile(player: dict) -> tuple[dict, tuple]:
+    """(ratings, (clan, name)) for a config player, from the prefetched stats."""
+    return _stats.get(official_id(player), (dict.fromkeys(FIELDS), (None, None)))
 
 
 def apply_clan_rules(clan: str | None, name: str | None, player: dict,
@@ -134,15 +147,15 @@ def apply_clan_rules(clan: str | None, name: str | None, player: dict,
 
 
 def build_player(player: dict, prev: dict | None, prefixes: dict | None = None) -> dict:
-    ratings, (clan, name) = fetch_profile(player["id"])
+    ratings, (clan, name) = fetch_profile(player)
     clan, name = apply_clan_rules(clan, name, player, prefixes or {})
     result = {"profile_id": player["id"]}
     if "tag" in player:                       # name fixed in config (nW roster)
         result["tag"] = player["tag"]
         if "country" in player:
             result["country"] = player["country"]
-    else:                                     # name scraped from the profile
-        if name is None and prev:             # fetch failed: keep last known name
+    else:                                     # name from the API
+        if name is None and prev:             # lookup failed: keep last known name
             clan, name = prev.get("clan"), prev.get("tag")
         result["tag"] = name or str(player["id"])
         if clan:
@@ -214,9 +227,11 @@ def update_roster(roster: dict, now: datetime) -> bool:
 
     print(f"== {name} ({len(config['players'])} players)")
     results = []
-    for i, player in enumerate(config["players"]):
-        print(f"[{i+1}/{len(config['players'])}] fetching {player.get('tag', player['id'])}...")
+    for player in config["players"]:
         results.append(build_player(player, previous.get(player["id"]), config.get("clan_prefixes")))
+    stale = [p["tag"] for p in results if p.get("stale")]
+    if stale:
+        print(f"  {len(stale)} kept last known values: {stale}")
 
     # Sort by current 1v1 ELO descending, unranked (None) go last
     results.sort(key=lambda p: (p["cur_1v1"] is None, -(p["cur_1v1"] or 0)))
@@ -257,6 +272,8 @@ def update_roster(roster: dict, now: datetime) -> bool:
 
 def main():
     now = datetime.now(timezone.utc)
+    # One batched lookup for everyone on every roster (shared players once)
+    prefetch({official_id(p) for r in ROSTERS for p in load_json(r["config"])["players"]} - {None})
     ok = True
     for roster in ROSTERS:
         ok = update_roster(roster, now) and ok

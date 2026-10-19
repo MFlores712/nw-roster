@@ -19,8 +19,13 @@ jobs:
   update-roster:
     runs-on: ubuntu-latest
     steps:
+      # ref: main = the branch as it is when this job starts. Without it a run
+      # that queued behind another (concurrency above) would check out the
+      # older commit it was triggered on and then conflict with that run's push.
       - name: Check out repo
         uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -40,6 +45,12 @@ jobs:
             exit 0
           fi
           git commit -m "Update roster data [automated]"
-          # Pick up any commit pushed since checkout (e.g. a manual edit)
-          git pull --rebase
+          # Pick up any commit pushed since checkout (e.g. a manual edit). If
+          # that commit touched the same data, skip this save rather than fail:
+          # the next run, 15 minutes later, writes fresh data anyway.
+          if ! git pull --rebase; then
+            git rebase --abort
+            echo "::warning::Data changed upstream during this run; skipping this save (next run will update)."
+            exit 0
+          fi
           git push

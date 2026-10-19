@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-18T18:45:09Z",
+  "updated_at": "2026-10-19T04:46:17Z",
   "baseline": {
     "taken_at": "2026-10-18T14:00:13Z",
     "ranks": {
@@ -26,43 +26,25 @@
       "cur_1v1": 2418,
       "max_1v1": 2636,
       "cur_tg": 1785,
-      "max_tg": 2001,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "max_tg": 2001
     },
     {
       "profile_id": 6838238,
       "tag": "AngelR",
       "clan": "NuMa",
-      "cur_1v1": 2318,
+      "cur_1v1": 2337,
       "max_1v1": 2339,
       "cur_tg": 1788,
-      "max_tg": 1828,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "max_tg": 1828
     },
     {
       "profile_id": 13267917,
       "tag": "Manuel",
       "clan": "nW",
-      "cur_1v1": 2297,
+      "cur_1v1": 2305,
       "max_1v1": 2410,
-      "cur_tg": 1797,
-      "max_tg": 1882,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "cur_tg": 1829,
+      "max_tg": 1882
     },
     {
       "profile_id": 2825261,
@@ -71,13 +53,7 @@
       "cur_1v1": 2190,
       "max_1v1": 2190,
       "cur_tg": 1868,
-      "max_tg": 1947,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "max_tg": 1947
     },
     {
       "profile_id": 6410880,
@@ -85,28 +61,7 @@
       "cur_1v1": 2049,
       "max_1v1": 2116,
       "cur_tg": 1439,
-      "max_tg": 1476,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
-    },
-    {
-      "profile_id": 1743420,
-      "tag": "OliverAtom",
-      "clan": "NuMa",
-      "cur_1v1": 2005,
-      "max_1v1": 2193,
-      "cur_tg": 1645,
-      "max_tg": 1772,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "max_tg": 1476
     },
     {
       "profile_id": 2955183,
@@ -114,13 +69,16 @@
       "cur_1v1": 2000,
       "max_1v1": 2095,
       "cur_tg": 1600,
-      "max_tg": 1710,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "max_tg": 1710
+    },
+    {
+      "profile_id": 1743420,
+      "tag": "OliverAtom",
+      "clan": "NuMa",
+      "cur_1v1": 1973,
+      "max_1v1": 2193,
+      "cur_tg": 1645,
+      "max_tg": 1772
     },
     {
       "profile_id": 2955846,
@@ -129,28 +87,16 @@
       "cur_1v1": 1971,
       "max_1v1": 2054,
       "cur_tg": 1669,
-      "max_tg": 1759,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "max_tg": 1759
     },
     {
       "profile_id": 1062980,
       "tag": "DeaH",
       "clan": "VLC",
-      "cur_1v1": 1950,
-      "max_1v1": 1950,
-      "cur_tg": 1707,
-      "max_tg": 1764,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "cur_1v1": 1960,
+      "max_1v1": 1960,
+      "cur_tg": 1706,
+      "max_tg": 1764
     },
     {
       "profile_id": 2479622,
@@ -159,13 +105,15 @@
       "cur_1v1": 1912,
       "max_1v1": 1912,
       "cur_tg": 1900,
-      "max_tg": 1905,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "max_tg": 1905
+    },
+    {
+      "profile_id": 5368998,
+      "tag": "Matazombies",
+      "cur_1v1": 1891,
+      "max_1v1": 1933,
+      "cur_tg": 1785,
+      "max_tg": 1975
     },
     {
       "profile_id": 12930522,
@@ -175,20 +123,6 @@
       "max_1v1": 1885,
       "cur_tg": 1823,
       "max_tg": 1893,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
-    },
-    {
-      "profile_id": 5368998,
-      "tag": "Matazombies",
-      "cur_1v1": 1874,
-      "max_1v1": 1933,
-      "cur_tg": 1753,
-      "max_tg": 1975,
       "stale": [
         "cur_1v1",
         "max_1v1",

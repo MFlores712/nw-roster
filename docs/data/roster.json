@@ -1,6 +1,6 @@
 {
   "name": "new Wave",
-  "updated_at": "2026-10-18T18:45:09Z",
+  "updated_at": "2026-10-19T04:46:17Z",
   "baseline": {
     "taken_at": "2026-10-18T14:00:13Z",
     "ranks": {
@@ -19,16 +19,10 @@
       "profile_id": 13267917,
       "tag": "Manuel",
       "country": "Colombia",
-      "cur_1v1": 2297,
+      "cur_1v1": 2305,
       "max_1v1": 2410,
-      "cur_tg": 1797,
-      "max_tg": 1882,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "cur_tg": 1829,
+      "max_tg": 1882
     },
     {
       "profile_id": 914665,
@@ -37,13 +31,7 @@
       "cur_1v1": 2195,
       "max_1v1": 2241,
       "cur_tg": 1909,
-      "max_tg": 2024,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "max_tg": 2024
     },
     {
       "profile_id": 1947348,
@@ -51,14 +39,8 @@
       "country": "Mexico",
       "cur_1v1": 2094,
       "max_1v1": 2211,
-      "cur_tg": 1818,
-      "max_tg": 2034,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "cur_tg": 1832,
+      "max_tg": 2034
     },
     {
       "profile_id": 12171002,
@@ -66,14 +48,17 @@
       "country": "Mexico",
       "cur_1v1": 2085,
       "max_1v1": 2309,
-      "cur_tg": 1786,
-      "max_tg": 1854,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "cur_tg": 1818,
+      "max_tg": 1854
+    },
+    {
+      "profile_id": 1359694,
+      "tag": "AtilA",
+      "country": "Peru",
+      "cur_1v1": 2016,
+      "max_1v1": 2123,
+      "cur_tg": 1637,
+      "max_tg": 1670
     },
     {
       "profile_id": 6501299,
@@ -82,28 +67,7 @@
       "cur_1v1": 2011,
       "max_1v1": 2011,
       "cur_tg": 1731,
-      "max_tg": 1745,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
-    },
-    {
-      "profile_id": 2934597,
-      "tag": "Sgt.Pepper",
-      "country": "Mexico",
-      "cur_1v1": 2010,
-      "max_1v1": 2210,
-      "cur_tg": 1718,
-      "max_tg": 1735,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "max_tg": 1745
     },
     {
       "profile_id": 2876835,
@@ -112,28 +76,16 @@
       "cur_1v1": 2004,
       "max_1v1": 2152,
       "cur_tg": 1675,
-      "max_tg": 1793,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "max_tg": 1793
     },
     {
-      "profile_id": 1359694,
-      "tag": "AtilA",
-      "country": "Peru",
-      "cur_1v1": 1970,
-      "max_1v1": 2123,
-      "cur_tg": 1637,
-      "max_tg": 1670,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "profile_id": 2934597,
+      "tag": "Sgt.Pepper",
+      "country": "Mexico",
+      "cur_1v1": 1990,
+      "max_1v1": 2210,
+      "cur_tg": 1718,
+      "max_tg": 1735
     }
   ]
 }

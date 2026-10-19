@@ -1,17 +1,19 @@
 # nW Clan Roster
 
-A live, auto-updating version of the new Wave clan poster. Data comes from
-[aoe2insights.com](https://www.aoe2insights.com) once a day via GitHub Actions;
-the page itself is a static HTML file hosted on GitHub Pages.
+A live, auto-updating version of the new Wave clan poster, with tabs for the
+clan and the México, Colombia and Perú rankings. Ratings come from the
+official Age of Empires II ranked-stats API (World's Edge) every 15 minutes
+via GitHub Actions; the page itself is a static HTML file on GitHub Pages.
 
 ## Structure
 
 ```
-config/players.json          the 8 clan members — profile IDs, tags, countries
-scripts/fetch_ratings.py     scrapes aoe2insights.com, writes docs/data/roster.json
-docs/index.html              the live poster page (reads docs/data/roster.json)
+config/players.json          the clan members — profile IDs, tags, countries
+config/{mexico,colombia,peru}.json   country rankings — IDs, clan rules, show_top
+scripts/fetch_ratings.py     queries the stats API, writes docs/data/*.json
+docs/index.html              the live poster page (reads docs/data/*.json)
 docs/assets/logo_nW.png      clan logo
-.github/workflows/update-roster.yml   daily cron that runs the fetch script
+.github/workflows/update-roster.yml   runs the fetch script and commits the data
 ```
 
 The page lives in `docs/` because GitHub Pages' "Deploy from a branch" mode
@@ -29,18 +31,10 @@ can only publish from the repo root or a `/docs` folder.
    # or create the repo on github.com and `git remote add origin ...` + push
    ```
 
-2. **Verify the scraper before trusting it.** The selectors in
-   `scripts/fetch_ratings.py` were written from reading rendered profile
-   pages by hand, not the live HTML/DOM — they need a real check:
+2. **Run the fetch script once locally** (standard library only):
    ```bash
-   pip install requests   # only needed if you swap urllib for requests
    python scripts/fetch_ratings.py
-   cat docs/data/roster.json
    ```
-   Compare the numbers against the values already seeded in
-   `docs/data/roster.json`. If something's off (None values, wrong
-   numbers), open one profile page's HTML directly and fix the regex
-   patterns (`SECTION_1V1` / `SECTION_TEAM`) to match what's actually there.
 
 3. **Enable GitHub Pages.**
    Repo → Settings → Pages → Source: "Deploy from a branch" → branch `main`,
@@ -84,16 +78,21 @@ or was revoked; a `404` usually means the token lacks access to this repo.
 
 ## Updating the roster
 
-To add, remove, or fix a player, edit `config/players.json` — the next
-scheduled run (or a manual "Run workflow") will pick it up. No need to touch
-the HTML or the workflow file.
+To add, remove, or fix a player, edit the matching file in `config/` — the
+next run picks it up. No need to touch the HTML or the workflow file.
+
+Player `id`s are **aoe2insights** profile IDs (rows link to those profiles).
+For most players that is also their official profile ID. Some newer accounts
+differ; give those an `"official_id"` (find it with the API's `aliases`
+lookup by in-game name). `"official_id": null` means "not found yet": the
+player keeps their last known values.
 
 ## Known limitations
 
-- aoe2insights.com has no public API; this scrapes their profile pages.
-  If they redesign the site, the regex patterns in `fetch_ratings.py` will
-  need updating.
-- If a single player's fetch fails, the script falls back to their last
-  known value (marked `stale_1v1` / `stale_tg` in the JSON) rather than
-  blanking them out — the live page dims those numbers slightly so it's
-  visible when data is stale.
+- aoe2insights.com was scraped until 2026-10-18, when it put its pages behind
+  a Cloudflare bot challenge (HTTP 403 for scripts). The official stats API
+  replaced it; it is unofficially documented, so if it changes, `parse_stats`
+  in `fetch_ratings.py` may need updating.
+- If a lookup fails, the script keeps the player's last known values (listed
+  under `stale` in the JSON) rather than blanking them — the live page dims
+  those numbers so it's visible when data is stale.

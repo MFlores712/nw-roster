@@ -15,7 +15,7 @@
   "_players": "Add \"clan\": \"TAG\" to a player to set their clan when it isn't in their name.",
   "players": [
     { "id": 2654577 },
-    { "id": 13267917 },
+    { "id": 13267917, "official_id": 22889810 },
     { "id": 6838238 },
     { "id": 2825261 },
     { "id": 2955183 },
@@ -25,6 +25,6 @@
     { "id": 6410880 },
     { "id": 2479622 },
     { "id": 5368998 },
-    { "id": 12930522 }
+    { "id": 12930522, "official_id": null, "_note": "official account not found yet; keeps last known values" }
   ]
 }

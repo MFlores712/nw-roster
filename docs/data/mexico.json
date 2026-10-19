@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-18T18:45:09Z",
+  "updated_at": "2026-10-19T04:46:17Z",
   "baseline": {
     "taken_at": "2026-10-18T14:00:13Z",
     "ranks": {
@@ -50,16 +50,10 @@
       "profile_id": 5984120,
       "tag": "Combito",
       "clan": "Ux",
-      "cur_1v1": 2703,
+      "cur_1v1": 2727,
       "max_1v1": 2752,
-      "cur_tg": 1731,
-      "max_tg": 1885,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "cur_tg": 1763,
+      "max_tg": 1885
     },
     {
       "profile_id": 2776293,
@@ -68,13 +62,7 @@
       "cur_1v1": 2676,
       "max_1v1": 2867,
       "cur_tg": 2152,
-      "max_tg": 2169,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "max_tg": 2169
     },
     {
       "profile_id": 2920057,
@@ -82,14 +70,8 @@
       "clan": "Ux",
       "cur_1v1": 2660,
       "max_1v1": 2685,
-      "cur_tg": 2075,
-      "max_tg": 2075,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "cur_tg": 2056,
+      "max_tg": 2080
     },
     {
       "profile_id": 13099159,
@@ -98,13 +80,7 @@
       "cur_1v1": 2615,
       "max_1v1": 2629,
       "cur_tg": 1819,
-      "max_tg": 1999,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "max_tg": 1999
     },
     {
       "profile_id": 9449579,
@@ -113,13 +89,7 @@
       "cur_1v1": 2485,
       "max_1v1": 2573,
       "cur_tg": 2140,
-      "max_tg": 2151,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "max_tg": 2151
     },
     {
       "profile_id": 401359,
@@ -128,27 +98,15 @@
       "cur_1v1": 2476,
       "max_1v1": 2512,
       "cur_tg": 2070,
-      "max_tg": 2190,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "max_tg": 2190
     },
     {
       "profile_id": 4221810,
       "tag": "Imfury_",
       "cur_1v1": 2433,
       "max_1v1": 2433,
-      "cur_tg": 1980,
-      "max_tg": 2104,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "cur_tg": 2065,
+      "max_tg": 2104
     },
     {
       "profile_id": 310739,
@@ -157,13 +115,7 @@
       "cur_1v1": 2397,
       "max_1v1": 2484,
       "cur_tg": 1781,
-      "max_tg": 1959,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "max_tg": 1959
     },
     {
       "profile_id": 1485562,
@@ -172,13 +124,7 @@
       "cur_1v1": 2367,
       "max_1v1": 2394,
       "cur_tg": 1753,
-      "max_tg": 2099,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "max_tg": 2099
     },
     {
       "profile_id": 312774,
@@ -186,14 +132,8 @@
       "clan": "hK",
       "cur_1v1": 2358,
       "max_1v1": 2469,
-      "cur_tg": 1806,
-      "max_tg": 2072,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "cur_tg": 1856,
+      "max_tg": 2072
     },
     {
       "profile_id": 2295504,
@@ -202,13 +142,7 @@
       "cur_1v1": 2333,
       "max_1v1": 2333,
       "cur_tg": 1845,
-      "max_tg": 1907,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "max_tg": 1907
     },
     {
       "profile_id": 9031952,
@@ -216,14 +150,8 @@
       "clan": "hK",
       "cur_1v1": 2322,
       "max_1v1": 2322,
-      "cur_tg": 1934,
-      "max_tg": 1982,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "cur_tg": 1958,
+      "max_tg": 1982
     },
     {
       "profile_id": 12723994,
@@ -232,28 +160,16 @@
       "cur_1v1": 2304,
       "max_1v1": 2315,
       "cur_tg": 1821,
-      "max_tg": 1922,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "max_tg": 1922
     },
     {
       "profile_id": 2598146,
       "tag": "SiNisTeR",
       "clan": "VENÓN",
-      "cur_1v1": 2262,
+      "cur_1v1": 2280,
       "max_1v1": 2368,
       "cur_tg": 2182,
-      "max_tg": 2227,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "max_tg": 2227
     },
     {
       "profile_id": 757886,
@@ -262,13 +178,7 @@
       "cur_1v1": 2262,
       "max_1v1": 2285,
       "cur_tg": 1873,
-      "max_tg": 2050,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "max_tg": 2050
     },
     {
       "profile_id": 580573,
@@ -276,28 +186,16 @@
       "clan": "hK",
       "cur_1v1": 2203,
       "max_1v1": 2350,
-      "cur_tg": 1900,
-      "max_tg": 1974,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "cur_tg": 1840,
+      "max_tg": 1974
     },
     {
       "profile_id": 4412109,
       "tag": "HGB",
       "cur_1v1": 2203,
       "max_1v1": 2317,
-      "cur_tg": 1975,
-      "max_tg": 2083,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "cur_tg": 2061,
+      "max_tg": 2083
     },
     {
       "profile_id": 914665,
@@ -306,28 +204,16 @@
       "cur_1v1": 2195,
       "max_1v1": 2241,
       "cur_tg": 1909,
-      "max_tg": 2024,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "max_tg": 2024
     },
     {
       "profile_id": 611972,
       "tag": "Adam",
       "clan": "Dark",
-      "cur_1v1": 2191,
+      "cur_1v1": 2183,
       "max_1v1": 2323,
-      "cur_tg": 1826,
-      "max_tg": 1880,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "cur_tg": 1838,
+      "max_tg": 1880
     },
     {
       "profile_id": 13138746,
@@ -336,28 +222,16 @@
       "cur_1v1": 2155,
       "max_1v1": 2233,
       "cur_tg": 1855,
-      "max_tg": 1983,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "max_tg": 1983
     },
     {
       "profile_id": 917863,
       "tag": "Romell13",
       "clan": "hK",
-      "cur_1v1": 2152,
+      "cur_1v1": 2138,
       "max_1v1": 2233,
       "cur_tg": 1807,
-      "max_tg": 1837,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "max_tg": 1837
     },
     {
       "profile_id": 1947348,
@@ -365,14 +239,8 @@
       "clan": "nW",
       "cur_1v1": 2094,
       "max_1v1": 2211,
-      "cur_tg": 1818,
-      "max_tg": 2034,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "cur_tg": 1832,
+      "max_tg": 2034
     },
     {
       "profile_id": 12171002,
@@ -380,14 +248,8 @@
       "clan": "nW",
       "cur_1v1": 2085,
       "max_1v1": 2309,
-      "cur_tg": 1786,
-      "max_tg": 1854,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "cur_tg": 1818,
+      "max_tg": 1854
     },
     {
       "profile_id": 1249720,
@@ -396,13 +258,16 @@
       "cur_1v1": 2020,
       "max_1v1": 2087,
       "cur_tg": 1803,
-      "max_tg": 1997,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "max_tg": 1997
+    },
+    {
+      "profile_id": 2850920,
+      "tag": "Chimtzin",
+      "clan": "Ux",
+      "cur_1v1": 2018,
+      "max_1v1": 2124,
+      "cur_tg": 1639,
+      "max_tg": 1820
     },
     {
       "profile_id": 9770338,
@@ -410,13 +275,7 @@
       "cur_1v1": 2016,
       "max_1v1": 2020,
       "cur_tg": 1806,
-      "max_tg": 1962,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "max_tg": 1962
     },
     {
       "profile_id": 6501299,
@@ -425,43 +284,7 @@
       "cur_1v1": 2011,
       "max_1v1": 2011,
       "cur_tg": 1731,
-      "max_tg": 1745,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
-    },
-    {
-      "profile_id": 2934597,
-      "tag": "Sgt.Pepper",
-      "clan": "nW",
-      "cur_1v1": 2010,
-      "max_1v1": 2210,
-      "cur_tg": 1718,
-      "max_tg": 1735,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
-    },
-    {
-      "profile_id": 2850920,
-      "tag": "Chimtzin",
-      "clan": "Ux",
-      "cur_1v1": 2009,
-      "max_1v1": 2124,
-      "cur_tg": 1639,
-      "max_tg": 1820,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "max_tg": 1745
     },
     {
       "profile_id": 2876835,
@@ -470,27 +293,25 @@
       "cur_1v1": 2004,
       "max_1v1": 2152,
       "cur_tg": 1675,
-      "max_tg": 1793,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "max_tg": 1793
     },
     {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1969,
-      "max_1v1": 2003,
-      "cur_tg": 1412,
-      "max_tg": 1412,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "profile_id": 2934597,
+      "tag": "Sgt.Pepper",
+      "clan": "nW",
+      "cur_1v1": 1990,
+      "max_1v1": 2210,
+      "cur_tg": 1718,
+      "max_tg": 1735
+    },
+    {
+      "profile_id": 13215279,
+      "tag": "GO1_mx",
+      "clan": "MZTK",
+      "cur_1v1": 1986,
+      "max_1v1": 2093,
+      "cur_tg": 1687,
+      "max_tg": 1860
     },
     {
       "profile_id": 2926018,
@@ -499,13 +320,7 @@
       "cur_1v1": 1958,
       "max_1v1": 2039,
       "cur_tg": 1643,
-      "max_tg": 1888,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "max_tg": 1888
     },
     {
       "profile_id": 2986966,
@@ -514,13 +329,7 @@
       "cur_1v1": 1952,
       "max_1v1": 1972,
       "cur_tg": 1647,
-      "max_tg": 1824,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "max_tg": 1824
     },
     {
       "profile_id": 358501,
@@ -529,28 +338,7 @@
       "cur_1v1": 1951,
       "max_1v1": 2115,
       "cur_tg": 1757,
-      "max_tg": 1820,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
-    },
-    {
-      "profile_id": 13215279,
-      "tag": "GO1_mx",
-      "clan": "MZTK",
-      "cur_1v1": 1950,
-      "max_1v1": 2093,
-      "cur_tg": 1664,
-      "max_tg": 1860,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "max_tg": 1820
     },
     {
       "profile_id": 467847,
@@ -558,13 +346,16 @@
       "cur_1v1": 1940,
       "max_1v1": 2078,
       "cur_tg": 1648,
-      "max_tg": 1755,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "max_tg": 1755
+    },
+    {
+      "profile_id": 4764520,
+      "tag": "BooMBastic_",
+      "clan": "KH",
+      "cur_1v1": 1934,
+      "max_1v1": 2060,
+      "cur_tg": 1711,
+      "max_tg": 1788
     },
     {
       "profile_id": 278380,
@@ -573,13 +364,15 @@
       "cur_1v1": 1933,
       "max_1v1": 1970,
       "cur_tg": 1793,
-      "max_tg": 1865,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "max_tg": 1865
+    },
+    {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1933,
+      "max_1v1": 2003,
+      "cur_tg": 1412,
+      "max_tg": 1412
     },
     {
       "profile_id": 2969449,
@@ -588,28 +381,7 @@
       "cur_1v1": 1931,
       "max_1v1": 1996,
       "cur_tg": 1820,
-      "max_tg": 1821,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
-    },
-    {
-      "profile_id": 4764520,
-      "tag": "BooMBastic_",
-      "clan": "KH",
-      "cur_1v1": 1920,
-      "max_1v1": 2060,
-      "cur_tg": 1678,
-      "max_tg": 1788,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "max_tg": 1821
     },
     {
       "profile_id": 324005,
@@ -618,13 +390,7 @@
       "cur_1v1": 1909,
       "max_1v1": 1929,
       "cur_tg": 1747,
-      "max_tg": 1874,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ]
+      "max_tg": 1874
     }
   ],
   "show_top": 30
