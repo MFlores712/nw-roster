@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-19T16:15:10Z",
+  "updated_at": "2026-10-19T17:30:12Z",
   "baseline": {
     "taken_at": "2026-10-19T14:00:13Z",
     "ranks": {
@@ -181,6 +181,15 @@
       "max_tg": 2050
     },
     {
+      "profile_id": 611972,
+      "tag": "Adam",
+      "clan": "Dark",
+      "cur_1v1": 2206,
+      "max_1v1": 2323,
+      "cur_tg": 1838,
+      "max_tg": 1880
+    },
+    {
       "profile_id": 4412109,
       "tag": "HGB",
       "cur_1v1": 2203,
@@ -196,15 +205,6 @@
       "max_1v1": 2241,
       "cur_tg": 1909,
       "max_tg": 2024
-    },
-    {
-      "profile_id": 611972,
-      "tag": "Adam",
-      "clan": "Dark",
-      "cur_1v1": 2183,
-      "max_1v1": 2323,
-      "cur_tg": 1838,
-      "max_tg": 1880
     },
     {
       "profile_id": 580573,
