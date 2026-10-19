@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-19T06:15:09Z",
+  "updated_at": "2026-10-19T07:45:10Z",
   "baseline": {
     "taken_at": "2026-10-18T14:00:13Z",
     "ranks": {
@@ -108,7 +108,7 @@
       "clan": "CL",
       "cur_1v1": 2009,
       "max_1v1": 2016,
-      "cur_tg": 1861,
+      "cur_tg": 1872,
       "max_tg": 1992
     },
     {
