@@ -117,6 +117,50 @@ def prefetch(official_ids: set[int]) -> None:
         print(f"  ! no stats for official ids {missing}", file=sys.stderr)
 
 
+# Who is in a game right now. The official API has no live-match endpoint;
+# aoe2companion's public API lists recent matches for many profiles in one
+# request, and an ongoing one has no "finished" time yet.
+MATCHES_URL = "https://data.aoe2companion.com/api/matches"
+MATCH_PAGE = 100            # newest matches across all our players (~16h' worth)
+LIVE_MAX_AGE = timedelta(hours=3)  # older "unfinished" matches never got closed
+
+_live: dict[int, dict] = {}
+
+
+def parse_live(data: dict, ours: set[int], now: datetime) -> dict[int, dict]:
+    """official id -> {"match": id, "game": ladder name} for ongoing matches."""
+    live = {}
+    for m in data.get("matches", []):
+        if m.get("finished") or m.get("abandoned") or not m.get("started"):
+            continue
+        started = datetime.fromisoformat(m["started"].replace("Z", "+00:00"))
+        if now - started > LIVE_MAX_AGE:
+            continue
+        for team in m.get("teams", []):
+            for p in team.get("players", []):
+                pid = p.get("profileId")
+                if pid in ours and pid not in live:  # newest match first
+                    live[pid] = {"match": m["matchId"], "game": m.get("leaderboardName") or "Game"}
+    return live
+
+
+def fetch_live(official_ids: set[int], now: datetime) -> None:
+    """Fill _live. On failure nobody shows as live this run; never fatal."""
+    query = urlencode({"profile_ids": ",".join(map(str, sorted(official_ids))), "per_page": MATCH_PAGE})
+    req = Request(f"{MATCHES_URL}?{query}", headers={**HEADERS, "Accept": "application/json"})
+    for attempt in (1, 2):
+        try:
+            with urlopen(req, timeout=30) as resp:
+                data = json.loads(resp.read().decode("utf-8"))
+            _live.update(parse_live(data, official_ids, now))
+            print(f"== live now: {len(_live)} player(s)")
+            return
+        except TRANSIENT_ERRORS as e:
+            print(f"  ! live-match request failed (attempt {attempt}): {e}", file=sys.stderr)
+            if attempt == 1:
+                time.sleep(RETRY_DELAY_SECONDS)
+
+
 def official_id(player: dict) -> int | None:
     """None when config says the official account isn't known yet
     ("official_id": null): that player just keeps their last known values."""
@@ -169,6 +213,10 @@ def build_player(player: dict, prev: dict | None, prefixes: dict | None = None) 
             result[f] = prev[f]
         if stale:
             result["stale"] = stale
+
+    live = _live.get(official_id(player))
+    if live:
+        result["live"] = live
     return result
 
 
@@ -273,7 +321,9 @@ def update_roster(roster: dict, now: datetime) -> bool:
 def main():
     now = datetime.now(timezone.utc)
     # One batched lookup for everyone on every roster (shared players once)
-    prefetch({official_id(p) for r in ROSTERS for p in load_json(r["config"])["players"]} - {None})
+    everyone = {official_id(p) for r in ROSTERS for p in load_json(r["config"])["players"]} - {None}
+    prefetch(everyone)
+    fetch_live(everyone, now)
     ok = True
     for roster in ROSTERS:
         ok = update_roster(roster, now) and ok

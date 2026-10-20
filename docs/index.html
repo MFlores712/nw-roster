@@ -20,6 +20,8 @@
   --muted: #7c8bab;
   --move-up: #6aa877;
   --move-down: #c06a5e;
+  --live: var(--nw-teal);       /* LIVE badge: same teal as the nW clan tags */
+  --live-text: 150, 218, 212;
   --nw-teal: 74, 176, 172;  /* rgb parts, for the nW-member row tint */
 }
 * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -98,8 +100,22 @@ body {
 .move { position: absolute; top: 100%; left: 0; right: 0; font-family: 'EB Garamond', serif; font-size: 12px; font-weight: 500; letter-spacing: 0.5px; line-height: 1; }
 .up { color: var(--move-up); }
 .down { color: var(--move-down); }
-.move.new { color: var(--gold); font-size: 8px; letter-spacing: 1px; }.who { padding-left: 10px; min-width: 0; }
-.tag { font-family: 'Yuji Mai', sans-serif; font-size: 22px; color: var(--foam); overflow-wrap: anywhere; }
+.move.new { color: var(--gold); font-size: 8px; letter-spacing: 1px; }
+.who { padding-left: 10px; min-width: 0; display: flex; align-items: center; gap: 8px; }
+.tag { font-family: 'Yuji Mai', sans-serif; font-size: 22px; color: var(--foam); overflow-wrap: anywhere; min-width: 0; }
+/* LIVE badge next to the name of anyone in a game right now; opens the match */
+.live {
+  flex: none; display: inline-flex; align-items: center; gap: 4px;
+  padding: 2px 7px 2px 6px; border-radius: 999px;
+  border: 1px solid rgba(var(--live), 0.6); background: rgba(var(--live), 0.15);
+  color: rgb(var(--live-text)); font-family: 'EB Garamond', serif; font-size: 10px; font-weight: 500;
+  letter-spacing: 1.5px; line-height: 1.2; cursor: pointer; transition: background .15s;
+}
+.live::before { content: ""; width: 6px; height: 6px; border-radius: 50%; background: rgb(var(--live)); animation: live-pulse 1.6s ease-in-out infinite; }
+.live:hover { background: rgba(var(--live), 0.3); }
+.live:focus-visible { outline: 2px solid rgb(var(--live-text)); outline-offset: 2px; }
+@keyframes live-pulse { 50% { opacity: 0.35; } }
+@media (prefers-reduced-motion: reduce) { .live::before { animation: none; } }
 /* Clan tag shown small before the name (México tab) */
 .clan { font-family: 'EB Garamond', serif; font-size: 13px; color: var(--muted); margin-right: 2px; letter-spacing: 0.5px; }
 .stat { text-align: center; }
@@ -157,7 +173,9 @@ body {
   .poster:not(.exporting) .rank { font-size: 12px; text-align: left; }
   .poster:not(.exporting) .move { font-size: 8px; letter-spacing: 0; }
   .poster:not(.exporting) .move.new { font-size: 6px; }
-  .poster:not(.exporting) .who { padding-left: 4px; }
+  .poster:not(.exporting) .who { padding-left: 4px; gap: 4px; }
+  .poster:not(.exporting) .live { font-size: 8px; letter-spacing: 0.5px; padding: 1px 4px 1px 3px; gap: 3px; }
+  .poster:not(.exporting) .live::before { width: 4px; height: 4px; }
   /* Names stay on one line; "…" only if a very narrow phone can't fit one */
   .poster:not(.exporting) .tag { font-size: clamp(13px, 4vw, 18px); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
   /* Last resort for very long names: two lines (max), set by fitNames() */
@@ -393,6 +411,16 @@ function renderUpdated() {
 
 // Position change since the daily 08:00 Mexico City snapshot (baseline.ranks
 // maps profile ID -> position then). Nothing when unchanged or no snapshot yet.
+// LIVE badge for a player in a game right now (p.live from the update job).
+// The row is already a link to their profile and links can't nest, so this is
+// a span that behaves like a link (see the handler at the bottom).
+const MATCH_URL = id => `https://www.aoe2companion.com/matches/${encodeURIComponent(id)}`;
+function liveBadge(p) {
+  if (!p.live) return '';
+  const tip = `In a game now (${p.live.game}) · open match`.replace(/"/g, '&quot;');
+  return `<span class="live no-export" role="link" tabindex="0" data-match="${escapeHtml(String(p.live.match))}" title="${escapeHtml(tip)}">LIVE</span>`;
+}
+
 function moveBadge(baseline, p, pos) {
   if (!baseline || !baseline.ranks) return '';
   const before = baseline.ranks[String(p.profile_id)] ?? baseline.ranks[p.tag];  // older snapshots used names
@@ -425,7 +453,7 @@ function render(data, lastCheck) {
     row.innerHTML = `
       <div class="rank"><span>${rankLabel}</span>${moveBadge(data.baseline, p, i + 1)}</div>
       <div class="who">
-        <div class="tag">${clan}${escapeHtml(p.tag)}</div>
+        <div class="tag">${clan}${escapeHtml(p.tag)}</div>${liveBadge(p)}
       </div>
       ${COLUMNS.map(c => `
       <div class="stat">
@@ -487,6 +515,16 @@ function escapeHtml(str) {
 }
 
 document.getElementById('download').addEventListener('click', downloadPoster);
+// A LIVE badge opens the match instead of the row's profile link
+function openLiveMatch(e) {
+  const badge = e.target.closest('.live');
+  if (!badge || (e.type === 'keydown' && e.key !== 'Enter' && e.key !== ' ')) return;
+  e.preventDefault();
+  e.stopPropagation();
+  window.open(MATCH_URL(badge.dataset.match), '_blank', 'noopener');
+}
+document.getElementById('rows').addEventListener('click', openLiveMatch);
+document.getElementById('rows').addEventListener('keydown', openLiveMatch);
 document.querySelectorAll('.tab').forEach(b => b.addEventListener('click', () => {
   // The hash makes each tab linkable (…/nw-roster/#mexico); hashchange loads it
   const hash = b.dataset.tab === 'nw' ? '' : '#' + b.dataset.tab;
