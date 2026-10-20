@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-20T18:20:11Z",
+  "updated_at": "2026-10-20T18:25:08Z",
   "baseline": {
     "taken_at": "2026-10-20T14:00:15Z",
     "ranks": {
@@ -181,15 +181,6 @@
       "max_tg": 2050
     },
     {
-      "profile_id": 917863,
-      "tag": "Romell13",
-      "clan": "hK",
-      "cur_1v1": 2219,
-      "max_1v1": 2233,
-      "cur_tg": 1807,
-      "max_tg": 1837
-    },
-    {
       "profile_id": 611972,
       "tag": "Adam",
       "clan": "Dark",
@@ -206,6 +197,15 @@
       "max_1v1": 2241,
       "cur_tg": 1909,
       "max_tg": 2024
+    },
+    {
+      "profile_id": 917863,
+      "tag": "Romell13",
+      "clan": "hK",
+      "cur_1v1": 2204,
+      "max_1v1": 2233,
+      "cur_tg": 1807,
+      "max_tg": 1837
     },
     {
       "profile_id": 4412109,
