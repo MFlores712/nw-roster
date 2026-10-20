@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-20T06:10:10Z",
+  "updated_at": "2026-10-20T06:15:08Z",
   "baseline": {
     "taken_at": "2026-10-19T14:00:13Z",
     "ranks": {
@@ -112,7 +112,7 @@
       "profile_id": 310739,
       "tag": "SoyLaHostia",
       "clan": "hK",
-      "cur_1v1": 2409,
+      "cur_1v1": 2400,
       "max_1v1": 2484,
       "cur_tg": 1791,
       "max_tg": 1959
@@ -261,21 +261,30 @@
       "max_tg": 1997
     },
     {
+      "profile_id": 2876835,
+      "tag": "Abejorro",
+      "clan": "nW",
+      "cur_1v1": 2019,
+      "max_1v1": 2152,
+      "cur_tg": 1675,
+      "max_tg": 1793
+    },
+    {
+      "profile_id": 2850920,
+      "tag": "Chimtzin",
+      "clan": "Ux",
+      "cur_1v1": 2017,
+      "max_1v1": 2124,
+      "cur_tg": 1639,
+      "max_tg": 1820
+    },
+    {
       "profile_id": 9770338,
       "tag": "SynfonY",
       "cur_1v1": 2016,
       "max_1v1": 2020,
       "cur_tg": 1790,
       "max_tg": 1962
-    },
-    {
-      "profile_id": 2850920,
-      "tag": "Chimtzin",
-      "clan": "Ux",
-      "cur_1v1": 2012,
-      "max_1v1": 2124,
-      "cur_tg": 1639,
-      "max_tg": 1820
     },
     {
       "profile_id": 6501299,
@@ -294,15 +303,6 @@
       "max_1v1": 2093,
       "cur_tg": 1687,
       "max_tg": 1860
-    },
-    {
-      "profile_id": 2876835,
-      "tag": "Abejorro",
-      "clan": "nW",
-      "cur_1v1": 2004,
-      "max_1v1": 2152,
-      "cur_tg": 1675,
-      "max_tg": 1793
     },
     {
       "profile_id": 2934597,
