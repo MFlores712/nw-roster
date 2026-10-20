@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-20T14:00:15Z",
+  "updated_at": "2026-10-20T15:15:12Z",
   "baseline": {
     "taken_at": "2026-10-20T14:00:15Z",
     "ranks": {
@@ -207,6 +207,15 @@
       "max_tg": 2083
     },
     {
+      "profile_id": 917863,
+      "tag": "Romell13",
+      "clan": "hK",
+      "cur_1v1": 2169,
+      "max_1v1": 2233,
+      "cur_tg": 1807,
+      "max_tg": 1837
+    },
+    {
       "profile_id": 13138746,
       "tag": "FraKTal",
       "clan": "hK",
@@ -214,15 +223,6 @@
       "max_1v1": 2233,
       "cur_tg": 1855,
       "max_tg": 1983
-    },
-    {
-      "profile_id": 917863,
-      "tag": "Romell13",
-      "clan": "hK",
-      "cur_1v1": 2153,
-      "max_1v1": 2233,
-      "cur_tg": 1807,
-      "max_tg": 1837
     },
     {
       "profile_id": 1947348,
