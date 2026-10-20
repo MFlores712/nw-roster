@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-20T00:45:10Z",
+  "updated_at": "2026-10-20T01:00:13Z",
   "baseline": {
     "taken_at": "2026-10-19T14:00:13Z",
     "ranks": {
@@ -239,14 +239,14 @@
       "clan": "nW",
       "cur_1v1": 2085,
       "max_1v1": 2309,
-      "cur_tg": 1854,
+      "cur_tg": 1839,
       "max_tg": 1854
     },
     {
       "profile_id": 580573,
       "tag": "Puerco_Negro",
       "clan": "hK",
-      "cur_1v1": 2064,
+      "cur_1v1": 2077,
       "max_1v1": 2350,
       "cur_tg": 1840,
       "max_tg": 1974
@@ -376,14 +376,6 @@
       "max_tg": 1821
     },
     {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1917,
-      "max_1v1": 2003,
-      "cur_tg": 1412,
-      "max_tg": 1412
-    },
-    {
       "profile_id": 324005,
       "tag": "Narizberto",
       "clan": "VN",
@@ -391,6 +383,14 @@
       "max_1v1": 1929,
       "cur_tg": 1747,
       "max_tg": 1874
+    },
+    {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1895,
+      "max_1v1": 2003,
+      "cur_tg": 1412,
+      "max_tg": 1412
     }
   ],
   "show_top": 30

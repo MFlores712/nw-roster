@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-20T00:45:10Z",
+  "updated_at": "2026-10-20T01:00:13Z",
   "baseline": {
     "taken_at": "2026-10-19T14:00:13Z",
     "ranks": {
@@ -43,7 +43,7 @@
       "clan": "nW",
       "cur_1v1": 2298,
       "max_1v1": 2410,
-      "cur_tg": 1864,
+      "cur_tg": 1848,
       "max_tg": 1882
     },
     {
@@ -72,6 +72,15 @@
       "max_tg": 1710
     },
     {
+      "profile_id": 1062980,
+      "tag": "DeaH",
+      "clan": "VLC",
+      "cur_1v1": 1978,
+      "max_1v1": 1978,
+      "cur_tg": 1706,
+      "max_tg": 1764
+    },
+    {
       "profile_id": 1743420,
       "tag": "OliverAtom",
       "clan": "NuMa",
@@ -88,15 +97,6 @@
       "max_1v1": 2054,
       "cur_tg": 1669,
       "max_tg": 1759
-    },
-    {
-      "profile_id": 1062980,
-      "tag": "DeaH",
-      "clan": "VLC",
-      "cur_1v1": 1971,
-      "max_1v1": 1971,
-      "cur_tg": 1706,
-      "max_tg": 1764
     },
     {
       "profile_id": 2479622,
