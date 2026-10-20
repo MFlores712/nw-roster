@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-19T23:47:40Z",
+  "updated_at": "2026-10-20T00:00:14Z",
   "baseline": {
     "taken_at": "2026-10-19T14:00:13Z",
     "ranks": {
@@ -228,7 +228,7 @@
       "profile_id": 580573,
       "tag": "Puerco_Negro",
       "clan": "hK",
-      "cur_1v1": 2114,
+      "cur_1v1": 2100,
       "max_1v1": 2350,
       "cur_tg": 1840,
       "max_tg": 1974

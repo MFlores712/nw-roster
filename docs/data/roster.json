@@ -1,6 +1,6 @@
 {
   "name": "new Wave",
-  "updated_at": "2026-10-19T23:45:10Z",
+  "updated_at": "2026-10-20T00:00:14Z",
   "baseline": {
     "taken_at": "2026-10-19T14:00:13Z",
     "ranks": {
@@ -19,7 +19,7 @@
       "profile_id": 13267917,
       "tag": "Manuel",
       "country": "Colombia",
-      "cur_1v1": 2305,
+      "cur_1v1": 2287,
       "max_1v1": 2410,
       "cur_tg": 1852,
       "max_tg": 1882
