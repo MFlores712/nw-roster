@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-20T23:40:09Z",
+  "updated_at": "2026-10-20T23:50:08Z",
   "baseline": {
     "taken_at": "2026-10-20T14:00:15Z",
     "ranks": {
@@ -224,14 +224,10 @@
     {
       "profile_id": 5803221,
       "tag": "Mahmoud Ahmadinejad",
-      "cur_1v1": 2178,
+      "cur_1v1": 2161,
       "max_1v1": 2181,
       "cur_tg": 1638,
-      "max_tg": 1652,
-      "live": {
-        "match": 515147537,
-        "game": "1v1 Random Map"
-      }
+      "max_tg": 1652
     },
     {
       "profile_id": 13138746,
@@ -273,14 +269,10 @@
       "profile_id": 1249720,
       "tag": "Asdrubald",
       "clan": "VN",
-      "cur_1v1": 2047,
+      "cur_1v1": 2060,
       "max_1v1": 2087,
       "cur_tg": 1826,
-      "max_tg": 1997,
-      "live": {
-        "match": 515148581,
-        "game": "1v1 Random Map"
-      }
+      "max_tg": 1997
     },
     {
       "profile_id": 1708286,
