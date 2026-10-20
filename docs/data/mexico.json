@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-20T01:45:09Z",
+  "updated_at": "2026-10-20T02:00:12Z",
   "baseline": {
     "taken_at": "2026-10-19T14:00:13Z",
     "ranks": {
@@ -132,7 +132,7 @@
       "clan": "VENÓN",
       "cur_1v1": 2350,
       "max_1v1": 2394,
-      "cur_tg": 1745,
+      "cur_tg": 1759,
       "max_tg": 2099
     },
     {
@@ -190,21 +190,21 @@
       "max_tg": 1880
     },
     {
+      "profile_id": 914665,
+      "tag": "Caguamas",
+      "clan": "nW",
+      "cur_1v1": 2210,
+      "max_1v1": 2241,
+      "cur_tg": 1909,
+      "max_tg": 2024
+    },
+    {
       "profile_id": 4412109,
       "tag": "HGB",
       "cur_1v1": 2203,
       "max_1v1": 2317,
       "cur_tg": 2022,
       "max_tg": 2083
-    },
-    {
-      "profile_id": 914665,
-      "tag": "Caguamas",
-      "clan": "nW",
-      "cur_1v1": 2195,
-      "max_1v1": 2241,
-      "cur_tg": 1909,
-      "max_tg": 2024
     },
     {
       "profile_id": 13138746,
