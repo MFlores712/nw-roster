@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-20T22:10:10Z",
+  "updated_at": "2026-10-20T22:15:19Z",
   "baseline": {
     "taken_at": "2026-10-20T14:00:15Z",
     "ranks": {
@@ -387,7 +387,7 @@
     {
       "profile_id": 3254820,
       "tag": "__Chino",
-      "cur_1v1": 1902,
+      "cur_1v1": 1889,
       "max_1v1": 2003,
       "cur_tg": 1412,
       "max_tg": 1412
