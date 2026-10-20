@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-20T04:30:11Z",
+  "updated_at": "2026-10-20T04:45:08Z",
   "baseline": {
     "taken_at": "2026-10-19T14:00:13Z",
     "ranks": {
@@ -97,7 +97,7 @@
       "clan": "VENÓN",
       "cur_1v1": 2476,
       "max_1v1": 2512,
-      "cur_tg": 2045,
+      "cur_tg": 2053,
       "max_tg": 2190
     },
     {
@@ -252,6 +252,15 @@
       "max_tg": 1854
     },
     {
+      "profile_id": 2850920,
+      "tag": "Chimtzin",
+      "clan": "Ux",
+      "cur_1v1": 2033,
+      "max_1v1": 2124,
+      "cur_tg": 1639,
+      "max_tg": 1820
+    },
+    {
       "profile_id": 1249720,
       "tag": "Asdrubald",
       "clan": "VN",
@@ -267,15 +276,6 @@
       "max_1v1": 2020,
       "cur_tg": 1790,
       "max_tg": 1962
-    },
-    {
-      "profile_id": 2850920,
-      "tag": "Chimtzin",
-      "clan": "Ux",
-      "cur_1v1": 2014,
-      "max_1v1": 2124,
-      "cur_tg": 1639,
-      "max_tg": 1820
     },
     {
       "profile_id": 6501299,
@@ -337,7 +337,7 @@
       "clan": "VENÓN",
       "cur_1v1": 1951,
       "max_1v1": 2115,
-      "cur_tg": 1751,
+      "cur_tg": 1776,
       "max_tg": 1820
     },
     {
