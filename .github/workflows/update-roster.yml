@@ -47,7 +47,7 @@ jobs:
           git commit -m "Update roster data [automated]"
           # Pick up any commit pushed since checkout (e.g. a manual edit). If
           # that commit touched the same data, skip this save rather than fail:
-          # the next run, 15 minutes later, writes fresh data anyway.
+          # the next run, a few minutes later, writes fresh data anyway.
           if ! git pull --rebase; then
             git rebase --abort
             echo "::warning::Data changed upstream during this run; skipping this save (next run will update)."

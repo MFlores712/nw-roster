@@ -33,7 +33,7 @@ ROOT = Path(__file__).resolve().parent.parent
 
 # Each roster: player list in config/, output read directly by the live page.
 # Players with a "tag" in config use it; others get their name from the API.
-# Every roster updates on every run (the timer fires every 15 min).
+# Every roster updates on every run (the cron-job.org timer fires every 5 min).
 ROSTERS = [
     {"config": ROOT / "config" / "players.json", "output": ROOT / "docs" / "data" / "roster.json"},
     {"config": ROOT / "config" / "mexico.json", "output": ROOT / "docs" / "data" / "mexico.json"},

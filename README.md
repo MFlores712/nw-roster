@@ -2,7 +2,7 @@
 
 A live, auto-updating version of the new Wave clan poster, with tabs for the
 clan and the México, Colombia and Perú rankings. Ratings come from the
-official Age of Empires II ranked-stats API (World's Edge) every 15 minutes
+official Age of Empires II ranked-stats API (World's Edge) every 5 minutes
 via GitHub Actions; the page itself is a static HTML file on GitHub Pages.
 
 ## Structure
@@ -55,9 +55,16 @@ can only publish from the repo root or a `/docs` folder.
 
 GitHub's built-in `schedule:` trigger is unreliable — on this repo it fired
 roughly every 3 hours instead of every 15 minutes. So an external timer at
-[cron-job.org](https://cron-job.org) starts the workflow every 15 minutes via
-GitHub's API. The `schedule:` in the workflow stays as a backup; overlapping
-runs are harmless (the workflow's `concurrency` setting queues them).
+[cron-job.org](https://cron-job.org) starts the workflow every 5 minutes via
+GitHub's API. The `schedule:` in the workflow (every 15 minutes) stays as a
+backup; overlapping runs are harmless (the workflow's `concurrency` setting
+queues them, and each starts from the latest data).
+
+Why not more often: a run only commits when a rating changed, and each commit
+rebuilds the GitHub Pages site. Pages allows roughly 10 rebuilds an hour;
+every 5 minutes stays under that, every 1–2 minutes would start getting
+rebuilds delayed. Ratings only move when a game ends (25–40 min games), so
+5 minutes already shows results within minutes.
 
 **Token** — GitHub → Settings → Developer settings → Fine-grained tokens:
 repository access *Only select repositories → nw-roster*, permission
@@ -68,7 +75,7 @@ repository access *Only select repositories → nw-roster*, permission
 | Setting | Value |
 |---|---|
 | URL | `https://api.github.com/repos/MFlores712/nw-roster/actions/workflows/update-roster.yml/dispatches` |
-| Schedule | every 15 minutes |
+| Schedule | every 5 minutes |
 | Request method | `POST` |
 | Headers | `Accept: application/vnd.github+json`<br>`Authorization: Bearer <token>`<br>`X-GitHub-Api-Version: 2022-11-28` |
 | Request body | `{"ref":"main"}` |
