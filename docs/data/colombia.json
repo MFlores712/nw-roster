@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-20T01:15:10Z",
+  "updated_at": "2026-10-20T01:30:12Z",
   "baseline": {
     "taken_at": "2026-10-19T14:00:13Z",
     "ranks": {
@@ -72,10 +72,19 @@
       "max_tg": 1710
     },
     {
+      "profile_id": 1743420,
+      "tag": "OliverAtom",
+      "clan": "NuMa",
+      "cur_1v1": 1975,
+      "max_1v1": 2193,
+      "cur_tg": 1645,
+      "max_tg": 1772
+    },
+    {
       "profile_id": 1062980,
       "tag": "DeaH",
       "clan": "VLC",
-      "cur_1v1": 1978,
+      "cur_1v1": 1974,
       "max_1v1": 1978,
       "cur_tg": 1706,
       "max_tg": 1764
@@ -90,15 +99,6 @@
       "max_tg": 1759
     },
     {
-      "profile_id": 1743420,
-      "tag": "OliverAtom",
-      "clan": "NuMa",
-      "cur_1v1": 1965,
-      "max_1v1": 2193,
-      "cur_tg": 1645,
-      "max_tg": 1772
-    },
-    {
       "profile_id": 2479622,
       "tag": "Nicky",
       "clan": "VENÓN",
@@ -110,7 +110,7 @@
     {
       "profile_id": 5368998,
       "tag": "Matazombies",
-      "cur_1v1": 1908,
+      "cur_1v1": 1896,
       "max_1v1": 1933,
       "cur_tg": 1785,
       "max_tg": 1975
