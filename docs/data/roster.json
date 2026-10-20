@@ -1,6 +1,6 @@
 {
   "name": "new Wave",
-  "updated_at": "2026-10-20T01:00:13Z",
+  "updated_at": "2026-10-20T01:15:10Z",
   "baseline": {
     "taken_at": "2026-10-19T14:00:13Z",
     "ranks": {
@@ -21,7 +21,7 @@
       "country": "Colombia",
       "cur_1v1": 2298,
       "max_1v1": 2410,
-      "cur_tg": 1848,
+      "cur_tg": 1856,
       "max_tg": 1882
     },
     {
@@ -48,7 +48,7 @@
       "country": "Mexico",
       "cur_1v1": 2085,
       "max_1v1": 2309,
-      "cur_tg": 1839,
+      "cur_tg": 1847,
       "max_tg": 1854
     },
     {
@@ -70,15 +70,6 @@
       "max_tg": 1793
     },
     {
-      "profile_id": 1359694,
-      "tag": "AtilA",
-      "country": "Peru",
-      "cur_1v1": 2000,
-      "max_1v1": 2123,
-      "cur_tg": 1637,
-      "max_tg": 1670
-    },
-    {
       "profile_id": 2934597,
       "tag": "Sgt.Pepper",
       "country": "Mexico",
@@ -86,6 +77,15 @@
       "max_1v1": 2210,
       "cur_tg": 1718,
       "max_tg": 1735
+    },
+    {
+      "profile_id": 1359694,
+      "tag": "AtilA",
+      "country": "Peru",
+      "cur_1v1": 1987,
+      "max_1v1": 2123,
+      "cur_tg": 1637,
+      "max_tg": 1670
     }
   ]
 }
