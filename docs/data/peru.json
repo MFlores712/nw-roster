@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-20T11:50:11Z",
+  "updated_at": "2026-10-20T12:05:10Z",
   "baseline": {
     "taken_at": "2026-10-19T14:00:13Z",
     "ranks": {
@@ -103,15 +103,6 @@
       "max_tg": 1840
     },
     {
-      "profile_id": 1359694,
-      "tag": "AtilA",
-      "clan": "nW",
-      "cur_1v1": 1995,
-      "max_1v1": 2123,
-      "cur_tg": 1637,
-      "max_tg": 1670
-    },
-    {
       "profile_id": 12167914,
       "tag": "lorecs",
       "clan": "CL",
@@ -119,6 +110,15 @@
       "max_1v1": 2016,
       "cur_tg": 1863,
       "max_tg": 1992
+    },
+    {
+      "profile_id": 1359694,
+      "tag": "AtilA",
+      "clan": "nW",
+      "cur_1v1": 1984,
+      "max_1v1": 2123,
+      "cur_tg": 1637,
+      "max_tg": 1670
     },
     {
       "profile_id": 633255,
