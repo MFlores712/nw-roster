@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-20T15:35:11Z",
+  "updated_at": "2026-10-20T15:40:11Z",
   "baseline": {
     "taken_at": "2026-10-20T14:00:15Z",
     "ranks": {
@@ -199,21 +199,21 @@
       "max_tg": 2024
     },
     {
+      "profile_id": 917863,
+      "tag": "Romell13",
+      "clan": "hK",
+      "cur_1v1": 2205,
+      "max_1v1": 2233,
+      "cur_tg": 1807,
+      "max_tg": 1837
+    },
+    {
       "profile_id": 4412109,
       "tag": "HGB",
       "cur_1v1": 2203,
       "max_1v1": 2317,
       "cur_tg": 1972,
       "max_tg": 2083
-    },
-    {
-      "profile_id": 917863,
-      "tag": "Romell13",
-      "clan": "hK",
-      "cur_1v1": 2184,
-      "max_1v1": 2233,
-      "cur_tg": 1807,
-      "max_tg": 1837
     },
     {
       "profile_id": 13138746,
