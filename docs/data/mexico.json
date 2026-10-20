@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-20T00:00:14Z",
+  "updated_at": "2026-10-20T00:15:08Z",
   "baseline": {
     "taken_at": "2026-10-19T14:00:13Z",
     "ranks": {
@@ -130,7 +130,7 @@
       "profile_id": 1485562,
       "tag": "MrOsoVC8",
       "clan": "VENÓN",
-      "cur_1v1": 2351,
+      "cur_1v1": 2350,
       "max_1v1": 2394,
       "cur_tg": 1764,
       "max_tg": 2099
@@ -363,7 +363,7 @@
       "clan": "VL",
       "cur_1v1": 1933,
       "max_1v1": 1970,
-      "cur_tg": 1793,
+      "cur_tg": 1805,
       "max_tg": 1865
     },
     {
