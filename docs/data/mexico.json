@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-20T06:40:11Z",
+  "updated_at": "2026-10-20T06:50:10Z",
   "baseline": {
     "taken_at": "2026-10-19T14:00:13Z",
     "ranks": {
@@ -114,7 +114,7 @@
       "clan": "hK",
       "cur_1v1": 2400,
       "max_1v1": 2484,
-      "cur_tg": 1791,
+      "cur_tg": 1796,
       "max_tg": 1959
     },
     {
