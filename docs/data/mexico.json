@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-20T06:50:10Z",
+  "updated_at": "2026-10-20T06:55:09Z",
   "baseline": {
     "taken_at": "2026-10-19T14:00:13Z",
     "ranks": {
@@ -79,7 +79,7 @@
       "clan": "Ux",
       "cur_1v1": 2615,
       "max_1v1": 2629,
-      "cur_tg": 1825,
+      "cur_tg": 1809,
       "max_tg": 1999
     },
     {
@@ -275,7 +275,7 @@
       "clan": "Ux",
       "cur_1v1": 2017,
       "max_1v1": 2124,
-      "cur_tg": 1653,
+      "cur_tg": 1644,
       "max_tg": 1820
     },
     {
@@ -337,7 +337,7 @@
       "clan": "VENÓN",
       "cur_1v1": 1951,
       "max_1v1": 2115,
-      "cur_tg": 1760,
+      "cur_tg": 1773,
       "max_tg": 1820
     },
     {
