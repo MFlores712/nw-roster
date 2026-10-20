@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-20T05:00:12Z",
+  "updated_at": "2026-10-20T05:15:09Z",
   "baseline": {
     "taken_at": "2026-10-19T14:00:13Z",
     "ranks": {
@@ -255,7 +255,7 @@
       "profile_id": 2850920,
       "tag": "Chimtzin",
       "clan": "Ux",
-      "cur_1v1": 2033,
+      "cur_1v1": 2022,
       "max_1v1": 2124,
       "cur_tg": 1639,
       "max_tg": 1820
