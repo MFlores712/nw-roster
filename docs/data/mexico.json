@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-20T04:45:08Z",
+  "updated_at": "2026-10-20T05:00:12Z",
   "baseline": {
     "taken_at": "2026-10-19T14:00:13Z",
     "ranks": {
@@ -105,7 +105,7 @@
       "tag": "Imfury_",
       "cur_1v1": 2433,
       "max_1v1": 2433,
-      "cur_tg": 2025,
+      "cur_tg": 1999,
       "max_tg": 2104
     },
     {
@@ -132,7 +132,7 @@
       "clan": "VENÓN",
       "cur_1v1": 2350,
       "max_1v1": 2394,
-      "cur_tg": 1794,
+      "cur_tg": 1813,
       "max_tg": 2099
     },
     {
@@ -203,7 +203,7 @@
       "tag": "HGB",
       "cur_1v1": 2203,
       "max_1v1": 2317,
-      "cur_tg": 2022,
+      "cur_tg": 1997,
       "max_tg": 2083
     },
     {
@@ -287,6 +287,15 @@
       "max_tg": 1745
     },
     {
+      "profile_id": 13215279,
+      "tag": "GO1_mx",
+      "clan": "MZTK",
+      "cur_1v1": 2007,
+      "max_1v1": 2093,
+      "cur_tg": 1687,
+      "max_tg": 1860
+    },
+    {
       "profile_id": 2876835,
       "tag": "Abejorro",
       "clan": "nW",
@@ -294,15 +303,6 @@
       "max_1v1": 2152,
       "cur_tg": 1675,
       "max_tg": 1793
-    },
-    {
-      "profile_id": 13215279,
-      "tag": "GO1_mx",
-      "clan": "MZTK",
-      "cur_1v1": 1994,
-      "max_1v1": 2093,
-      "cur_tg": 1687,
-      "max_tg": 1860
     },
     {
       "profile_id": 2934597,
