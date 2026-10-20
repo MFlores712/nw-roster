@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-20T03:30:11Z",
+  "updated_at": "2026-10-20T03:45:11Z",
   "baseline": {
     "taken_at": "2026-10-19T14:00:13Z",
     "ranks": {
@@ -132,7 +132,7 @@
       "clan": "VENÓN",
       "cur_1v1": 2350,
       "max_1v1": 2394,
-      "cur_tg": 1770,
+      "cur_tg": 1794,
       "max_tg": 2099
     },
     {
@@ -287,6 +287,24 @@
       "max_tg": 1793
     },
     {
+      "profile_id": 2850920,
+      "tag": "Chimtzin",
+      "clan": "Ux",
+      "cur_1v1": 1996,
+      "max_1v1": 2124,
+      "cur_tg": 1639,
+      "max_tg": 1820
+    },
+    {
+      "profile_id": 13215279,
+      "tag": "GO1_mx",
+      "clan": "MZTK",
+      "cur_1v1": 1995,
+      "max_1v1": 2093,
+      "cur_tg": 1687,
+      "max_tg": 1860
+    },
+    {
       "profile_id": 2934597,
       "tag": "Sgt.Pepper",
       "clan": "nW",
@@ -294,24 +312,6 @@
       "max_1v1": 2210,
       "cur_tg": 1718,
       "max_tg": 1735
-    },
-    {
-      "profile_id": 13215279,
-      "tag": "GO1_mx",
-      "clan": "MZTK",
-      "cur_1v1": 1983,
-      "max_1v1": 2093,
-      "cur_tg": 1687,
-      "max_tg": 1860
-    },
-    {
-      "profile_id": 2850920,
-      "tag": "Chimtzin",
-      "clan": "Ux",
-      "cur_1v1": 1981,
-      "max_1v1": 2124,
-      "cur_tg": 1639,
-      "max_tg": 1820
     },
     {
       "profile_id": 2926018,
