@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-20T00:15:08Z",
+  "updated_at": "2026-10-20T00:30:11Z",
   "baseline": {
     "taken_at": "2026-10-19T14:00:13Z",
     "ranks": {
@@ -41,7 +41,7 @@
       "profile_id": 13267917,
       "tag": "Manuel",
       "clan": "nW",
-      "cur_1v1": 2287,
+      "cur_1v1": 2298,
       "max_1v1": 2410,
       "cur_tg": 1852,
       "max_tg": 1882
