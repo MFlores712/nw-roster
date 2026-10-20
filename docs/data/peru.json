@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-20T18:40:10Z",
+  "updated_at": "2026-10-20T19:05:10Z",
   "baseline": {
     "taken_at": "2026-10-20T14:00:15Z",
     "ranks": {
@@ -36,7 +36,7 @@
     {
       "profile_id": 3216208,
       "tag": "Dimo",
-      "cur_1v1": 2403,
+      "cur_1v1": 2395,
       "max_1v1": 2558,
       "cur_tg": 1874,
       "max_tg": 1935
@@ -158,7 +158,7 @@
       "profile_id": 4167535,
       "tag": "Dia franptom",
       "clan": "LE",
-      "cur_1v1": 1883,
+      "cur_1v1": 1872,
       "max_1v1": 1995,
       "cur_tg": 1452,
       "max_tg": 1581
