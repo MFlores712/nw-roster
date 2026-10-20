@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-20T02:00:12Z",
+  "updated_at": "2026-10-20T02:30:12Z",
   "baseline": {
     "taken_at": "2026-10-19T14:00:13Z",
     "ranks": {
@@ -132,7 +132,7 @@
       "clan": "VENÓN",
       "cur_1v1": 2350,
       "max_1v1": 2394,
-      "cur_tg": 1759,
+      "cur_tg": 1770,
       "max_tg": 2099
     },
     {
@@ -287,15 +287,6 @@
       "max_tg": 1793
     },
     {
-      "profile_id": 13215279,
-      "tag": "GO1_mx",
-      "clan": "MZTK",
-      "cur_1v1": 1995,
-      "max_1v1": 2093,
-      "cur_tg": 1687,
-      "max_tg": 1860
-    },
-    {
       "profile_id": 2934597,
       "tag": "Sgt.Pepper",
       "clan": "nW",
@@ -303,6 +294,15 @@
       "max_1v1": 2210,
       "cur_tg": 1718,
       "max_tg": 1735
+    },
+    {
+      "profile_id": 13215279,
+      "tag": "GO1_mx",
+      "clan": "MZTK",
+      "cur_1v1": 1981,
+      "max_1v1": 2093,
+      "cur_tg": 1687,
+      "max_tg": 1860
     },
     {
       "profile_id": 2850920,
