@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-21T12:55:09Z",
+  "updated_at": "2026-10-21T13:00:14Z",
   "baseline": {
     "taken_at": "2026-10-20T14:00:15Z",
     "ranks": {
@@ -515,12 +515,7 @@
       "max_1v1": 1996,
       "cur_tg": 1820,
       "max_tg": 1821,
-      "last_1v1": "2026-09-18",
-      "live": {
-        "match": 515241612,
-        "game": "Unranked",
-        "account": "James P. Solivan"
-      }
+      "last_1v1": "2026-09-18"
     },
     {
       "profile_id": 324005,
