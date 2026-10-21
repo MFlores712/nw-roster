@@ -1,7 +1,7 @@
 {
   "name": "Colombia",
   "_show_top": "Only the best N players (by current 1v1) are shown; everyone listed is still checked, so others can climb in.",
-  "show_top": 10,
+  "show_top": 15,
   "source": "aoe2insights.com",
   "_clan_prefixes": "Clans some players write into the name itself instead of 'TAG | name'. Matching prefixes are moved into the small clan tag. Names written as '[TAG] Name' are handled automatically.",
   "clan_prefixes": {
@@ -24,6 +24,12 @@
     { "id": 1062980 },
     { "id": 2479622 },
     { "id": 5368998 },
-    { "id": 12930522, "official_id": 20466570 }
+    { "id": 12930522, "official_id": 20466570 },
+    { "id": 6431793 },
+    { "id": 12722189, "official_id": 19029303 },
+    { "id": 5981761 },
+    { "id": 1542191 },
+    { "id": 2134856 },
+    { "id": 10733016 }
   ]
 }
