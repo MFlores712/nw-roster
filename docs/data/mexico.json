@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-21T08:05:07Z",
+  "updated_at": "2026-10-21T08:10:11Z",
   "baseline": {
     "taken_at": "2026-10-20T14:00:15Z",
     "ranks": {
@@ -143,13 +143,9 @@
       "clan": "VENÓN",
       "cur_1v1": 2350,
       "max_1v1": 2394,
-      "cur_tg": 1810,
+      "cur_tg": 1791,
       "max_tg": 2099,
-      "last_1v1": "2026-10-20",
-      "live": {
-        "match": 515207155,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-20"
     },
     {
       "profile_id": 312774,
@@ -179,12 +175,7 @@
       "max_1v1": 2322,
       "cur_tg": 1968,
       "max_tg": 1982,
-      "last_1v1": "2026-10-17",
-      "live": {
-        "match": 515209218,
-        "game": "1v1 Random Map",
-        "account": "FierroFlash"
-      }
+      "last_1v1": "2026-10-17"
     },
     {
       "profile_id": 12723994,
@@ -272,13 +263,9 @@
       "clan": "nW",
       "cur_1v1": 2094,
       "max_1v1": 2211,
-      "cur_tg": 1751,
+      "cur_tg": 1734,
       "max_tg": 2034,
-      "last_1v1": "2026-07-08",
-      "live": {
-        "match": 515207155,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-07-08"
     },
     {
       "profile_id": 12171002,
@@ -530,7 +517,7 @@
       "max_tg": 1821,
       "last_1v1": "2026-09-18",
       "live": {
-        "match": 515210254,
+        "match": 515211064,
         "game": "Quick Play 1v1 Random Map",
         "account": "James P. Solivan"
       }
