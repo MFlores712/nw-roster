@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-21T03:25:10Z",
+  "updated_at": "2026-10-21T03:30:12Z",
   "baseline": {
     "taken_at": "2026-10-20T14:00:15Z",
     "ranks": {
@@ -121,7 +121,11 @@
       "cur_1v1": 1992,
       "max_1v1": 2016,
       "cur_tg": 1855,
-      "max_tg": 1992
+      "max_tg": 1992,
+      "live": {
+        "match": 515183894,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 633255,
