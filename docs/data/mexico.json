@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-21T23:45:09Z",
+  "updated_at": "2026-10-21T23:50:08Z",
   "baseline": {
     "taken_at": "2026-10-21T14:00:15Z",
     "ranks": {
@@ -76,7 +76,11 @@
       "max_1v1": 2752,
       "cur_tg": 1763,
       "max_tg": 1885,
-      "last_1v1": "2026-10-21"
+      "last_1v1": "2026-10-21",
+      "live": {
+        "match": 515364545,
+        "game": "1v1 Random Map"
+      }
     },
     {
       "profile_id": 2920057,
@@ -269,8 +273,7 @@
     },
     {
       "profile_id": 580573,
-      "tag": "Puerco_Negro",
-      "clan": "hK",
+      "tag": "Bluku_Uktan",
       "cur_1v1": 2113,
       "max_1v1": 2350,
       "cur_tg": 1840,
@@ -391,7 +394,11 @@
       "max_1v1": 2002,
       "cur_tg": 1613,
       "max_tg": 1631,
-      "last_1v1": "2026-10-21"
+      "last_1v1": "2026-10-21",
+      "live": {
+        "match": 515362939,
+        "game": "Unranked"
+      }
     },
     {
       "profile_id": 233625,
