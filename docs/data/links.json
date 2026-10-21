@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T04:46:48Z",
+ "updated_at": "2026-10-21T04:55:08Z",
  "players": {
   "22889810": {
    "name": "Manuel",
@@ -720,25 +720,6 @@
     }
    ]
   },
-  "611972": {
-   "name": "Dark Adam",
-   "accounts": [
-    {
-     "id": 3229922,
-     "hops": 1,
-     "name": "OutPost Malone",
-     "rating": 1892,
-     "last": "2024-04-30"
-    },
-    {
-     "id": 5549365,
-     "hops": 1,
-     "name": "Adamantium",
-     "rating": null,
-     "last": null
-    }
-   ]
-  },
   "9031952": {
    "name": "hK ChossMx",
    "accounts": [
@@ -1257,7 +1238,7 @@
    "accounts": []
   },
   "233625": {
-   "name": "233625",
+   "name": "MooN MooN",
    "accounts": [
     {
      "id": 1295034,
@@ -1286,6 +1267,18 @@
      "name": "al03069175",
      "rating": 1478,
      "last": "2026-07-08"
+    }
+   ]
+  },
+  "1261126": {
+   "name": "1261126",
+   "accounts": [
+    {
+     "id": 6228629,
+     "hops": 1,
+     "name": "Capibarita",
+     "rating": 1645,
+     "last": "2024-08-21"
     }
    ]
   },

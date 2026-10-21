@@ -1,6 +1,6 @@
 # Linked accounts
 
-Generated 2026-10-21T04:46:48Z from aoe2companion's linked profiles (followed up to 4 links deep; each account belongs to the closest listed player).
+Generated 2026-10-21T04:55:08Z from aoe2companion's linked profiles (followed up to 4 links deep; each account belongs to the closest listed player).
 Used to show players LIVE when they play on any of their accounts. Ratings are RM 1v1.
 
 ## new Wave
@@ -33,7 +33,6 @@ Used to show players LIVE when they play on any of their accounts. Ratings are R
 | VENÓN SiNisTeR | VENÓN / SiNisTeR (2409), SiNisTeR (2114), Taquería El Primo (2041), OrangeKato (—), DSLG / Acuna (1516, 2 links away), Pichulita Feli (—, 3 links away), DSLG / NotAcuna (1649, 3 links away), NotAcuna_ (1529, 3 links away) |
 | hK Puerco_Negro | THE_BLACK_PIG (—), PuercoBlackTG (—), BlukuUktan (—), blukuuktan (—), BlackAbE (—), puerco_white (—), Rook4Ever (1968), mamadejuannn (1793), RandomPlayer (1639), SecretFace (2150), osirismichelle95 (2008) |
 | hK Eren | hK  / Volg (2296), Rhaegar (1879), hK / Andobienmachinsobrelaidea (1886), Mexican Pyscho (1777), twitch.tv/sunshine_aoe (1843), Tryw (—), LE / Dimoking (1661, 2 links away), larryRy cañonga! (—, 2 links away) |
-| Dark Adam | OutPost Malone (1892), Adamantium (—) |
 | iamkaito | iamkaito (2249) |
 | hK ChossMx | FierroFlash (2289) |
 | VN DarK_KnighT_ | 1106779817143 (1956) |
@@ -68,7 +67,8 @@ Used to show players LIVE when they play on any of their accounts. Ratings are R
 | VL albafica | Niino (1912), Combi / elseñordeloshelados (1760, 2 links away), Combi / salario_minimo (—, 2 links away), Combi / crack (1679, 2 links away), Combi / niino (1726, 2 links away), VL Niino (1932, 2 links away), V (1832, 2 links away) |
 | Ux BlueUltra | — |
 | Ux Nova | — |
-| 233625 | Annlost13 (1712), Luna (1644), MooN / Lunatico (1831), al03069175 (1478) |
+| MooN MooN | Annlost13 (1712), Luna (1644), MooN / Lunatico (1831), al03069175 (1478) |
+| 1261126 | Capibarita (1645) |
 
 ## Colombia
 
