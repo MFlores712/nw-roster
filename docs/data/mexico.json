@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-21T19:00:14Z",
+  "updated_at": "2026-10-21T19:05:10Z",
   "baseline": {
     "taken_at": "2026-10-21T14:00:15Z",
     "ranks": {
@@ -128,7 +128,7 @@
       "max_tg": 2104,
       "last_1v1": "2026-10-16",
       "live": {
-        "match": 515311855,
+        "match": 515312851,
         "game": "Team Random Map"
       }
     },
@@ -142,7 +142,7 @@
       "max_tg": 1959,
       "last_1v1": "2026-10-20",
       "live": {
-        "match": 515311855,
+        "match": 515312851,
         "game": "Team Random Map"
       }
     },
@@ -186,7 +186,7 @@
       "max_tg": 1985,
       "last_1v1": "2026-10-17",
       "live": {
-        "match": 515311855,
+        "match": 515312851,
         "game": "Team Random Map"
       }
     },
@@ -231,7 +231,7 @@
       "max_tg": 2050,
       "last_1v1": "2026-10-19",
       "live": {
-        "match": 515311855,
+        "match": 515312851,
         "game": "Team Random Map"
       }
     },
@@ -370,11 +370,7 @@
       "max_1v1": 2087,
       "cur_tg": 1839,
       "max_tg": 1997,
-      "last_1v1": "2026-10-21",
-      "live": {
-        "match": 515302271,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-21"
     },
     {
       "profile_id": 13215279,
@@ -437,7 +433,7 @@
       "max_tg": 1966,
       "last_1v1": "2026-09-10",
       "live": {
-        "match": 515311855,
+        "match": 515312851,
         "game": "Team Random Map"
       }
     },
