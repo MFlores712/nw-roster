@@ -152,6 +152,8 @@ INACTIVE_DAYS = 90
 # Most recent ranked 1v1 date (YYYY-MM-DD) across each player's linked
 # accounts, by owner official id; from links.json (refreshed daily).
 _linked_last: dict[int, str] = {}
+# owner official id -> their linked account ids (links.json)
+_linked_accounts: dict[int, list[int]] = {}
 _today = datetime.now(timezone.utc).date()
 
 
@@ -220,10 +222,43 @@ def apply_clan_rules(clan: str | None, name: str | None, player: dict,
     return clan, name
 
 
+def days_ago(day: str | None) -> int | None:
+    return (_today - datetime.fromisoformat(day).date()).days if day else None
+
+
+def pick_substitute(player: dict) -> tuple[int, tuple] | None:
+    """If the listed account hasn't played ranked 1v1 for INACTIVE_DAYS but a
+    linked account has (more recently), return (account id, its stats): the
+    one played most recently, highest rating breaking ties."""
+    oid = official_id(player)
+    own = _stats.get(oid)
+    own_last = own[0].get("last_1v1") if own else None
+    if own_last and days_ago(own_last) <= INACTIVE_DAYS:
+        return None
+    best = None
+    for acct in _linked_accounts.get(oid, []):
+        st = _stats.get(acct)
+        last = st[0].get("last_1v1") if st else None
+        if not last or days_ago(last) > INACTIVE_DAYS or (own_last and last <= own_last):
+            continue
+        key = (last, st[0].get("cur_1v1") or 0)
+        if best is None or key > best[0]:
+            best = (key, acct, st)
+    return (best[1], best[2]) if best else None
+
+
 def build_player(player: dict, prev: dict | None, prefixes: dict | None = None) -> dict:
     ratings, (clan, name) = fetch_profile(player)
+    # Listed account inactive but a linked one isn't: show that account instead
+    # (its name and ratings; the row keeps the player's id for arrows/history)
+    sub = pick_substitute(player)
+    if sub:
+        listed_last = ratings.get("last_1v1")
+        sub_id, (ratings, (clan, name)) = sub
     clan, name = apply_clan_rules(clan, name, player, prefixes or {})
     result = {"profile_id": player["id"]}
+    if sub:
+        result["via"] = {"id": sub_id, **({"listed_last": listed_last} if listed_last else {})}
     if "tag" in player:                       # name fixed in config (nW roster, or a short name like "Lobo")
         result["tag"] = player["tag"]
         if "country" in player:
@@ -432,6 +467,15 @@ def main():
         dates = [a["last"] for a in p["accounts"] if a.get("last")]
         if dates:
             _linked_last[int(oid)] = max(dates)
+        _linked_accounts[int(oid)] = [a["id"] for a in p["accounts"]]
+    # Players whose listed account is inactive may be shown on a linked
+    # account instead: look those linked accounts up too (usually a handful)
+    stale = [o for o in everyone
+             if not (_stats.get(o) and _stats[o][0].get("last_1v1")
+                     and days_ago(_stats[o][0]["last_1v1"]) <= INACTIVE_DAYS)]
+    extra = {a for o in stale for a in _linked_accounts.get(o, [])} - set(_stats)
+    if extra:
+        prefetch(extra)
     from links import account_owners
     fetch_live(everyone, account_owners(links), now)
     ok = True

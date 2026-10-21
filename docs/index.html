@@ -470,6 +470,15 @@ function render(data, lastCheck) {
     row.target = '_blank';
     row.rel = 'noopener';
     row.title = `Open ${(p.clan ? p.clan + ' | ' : '') + p.tag} on aoe2insights`;
+    if (p.via) {
+      // Shown on a linked account because the listed one went inactive. We
+      // only know that account's official id, so link its aoe2companion page.
+      row.href = `https://www.aoe2companion.com/players/${encodeURIComponent(p.via.id)}`;
+      const since = p.via.listed_last
+        ? ` since ${new Date(p.via.listed_last + 'T12:00:00Z').toLocaleDateString(undefined, { day: 'numeric', month: 'short', year: 'numeric' })}`
+        : '';
+      row.title = `Open ${(p.clan ? p.clan + ' | ' : '') + p.tag} on aoe2companion · linked account (main account inactive${since})`;
+    }
     if (p.inactive) {
       row.classList.add('inactive');
       row.title += p.last_seen
