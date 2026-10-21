@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-21T04:35:08Z",
+  "updated_at": "2026-10-21T04:40:08Z",
   "baseline": {
     "taken_at": "2026-10-20T14:00:15Z",
     "ranks": {
@@ -81,7 +81,7 @@
       "max_tg": 2105,
       "last_1v1": "2026-10-10",
       "live": {
-        "match": 515185879,
+        "match": 515193103,
         "game": "1v1 Random Map"
       }
     },
@@ -172,7 +172,12 @@
       "max_1v1": 2322,
       "cur_tg": 1968,
       "max_tg": 1982,
-      "last_1v1": "2026-10-17"
+      "last_1v1": "2026-10-17",
+      "live": {
+        "match": 515192207,
+        "game": "Team Random Map",
+        "account": "FierroFlash"
+      }
     },
     {
       "profile_id": 12723994,
@@ -253,7 +258,11 @@
       "max_1v1": 2233,
       "cur_tg": 1855,
       "max_tg": 1983,
-      "last_1v1": "2026-10-21"
+      "last_1v1": "2026-10-21",
+      "live": {
+        "match": 515192207,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 5803221,
@@ -304,13 +313,13 @@
       "profile_id": 2850920,
       "tag": "Chimtzin",
       "clan": "Ux",
-      "cur_1v1": 2046,
+      "cur_1v1": 2058,
       "max_1v1": 2124,
       "cur_tg": 1635,
       "max_tg": 1820,
       "last_1v1": "2026-10-21",
       "live": {
-        "match": 515190216,
+        "match": 515192405,
         "game": "1v1 Random Map"
       }
     },
@@ -375,6 +384,15 @@
       "last_1v1": "2026-10-13"
     },
     {
+      "profile_id": 2291749,
+      "tag": "Biner",
+      "cur_1v1": 2002,
+      "max_1v1": 2002,
+      "cur_tg": 1613,
+      "max_tg": 1631,
+      "last_1v1": "2026-10-21"
+    },
+    {
       "profile_id": 2934597,
       "tag": "Sgt.Pepper",
       "clan": "nW",
@@ -390,12 +408,22 @@
         "id": 5195050,
         "listed_last": "2026-05-30"
       },
-      "tag": "HelloGoodBye_",
+      "tag": "HGB",
       "cur_1v1": 1983,
       "max_1v1": 2280,
       "cur_tg": 1721,
       "max_tg": 1966,
       "last_1v1": "2026-09-10"
+    },
+    {
+      "profile_id": 235877,
+      "tag": "AsMelodiant",
+      "clan": "VENÓN",
+      "cur_1v1": 1963,
+      "max_1v1": 2013,
+      "cur_tg": 1585,
+      "max_tg": 1798,
+      "last_1v1": "2026-09-29"
     },
     {
       "profile_id": 2986966,
@@ -416,6 +444,26 @@
       "cur_tg": 1785,
       "max_tg": 1820,
       "last_1v1": "2026-10-18"
+    },
+    {
+      "profile_id": 3285258,
+      "tag": "Kiss",
+      "clan": "MZTK",
+      "cur_1v1": 1947,
+      "max_1v1": 1993,
+      "cur_tg": 1649,
+      "max_tg": 1858,
+      "last_1v1": "2026-10-06"
+    },
+    {
+      "profile_id": 13192381,
+      "tag": "albafica",
+      "clan": "VL",
+      "cur_1v1": 1947,
+      "max_1v1": 1947,
+      "cur_tg": 1802,
+      "max_tg": 1824,
+      "last_1v1": "2026-10-11"
     },
     {
       "profile_id": 2926018,
@@ -444,7 +492,12 @@
       "max_1v1": 2060,
       "cur_tg": 1711,
       "max_tg": 1788,
-      "last_1v1": "2026-10-19"
+      "last_1v1": "2026-10-19",
+      "live": {
+        "match": 515192207,
+        "game": "Team Random Map",
+        "account": "hK | Charles Martel"
+      }
     },
     {
       "profile_id": 278380,
@@ -455,6 +508,16 @@
       "cur_tg": 1814,
       "max_tg": 1865,
       "last_1v1": "2026-10-16"
+    },
+    {
+      "profile_id": 13241217,
+      "tag": "BlueUltra",
+      "clan": "Ux",
+      "cur_1v1": 1933,
+      "max_1v1": 1993,
+      "cur_tg": 1651,
+      "max_tg": 1688,
+      "last_1v1": "2026-10-18"
     },
     {
       "profile_id": 2969449,
@@ -475,6 +538,20 @@
       "cur_tg": 1747,
       "max_tg": 1874,
       "last_1v1": "2026-09-24"
+    },
+    {
+      "profile_id": 12472496,
+      "tag": "Nova",
+      "clan": "Ux",
+      "cur_1v1": 1909,
+      "max_1v1": 1909,
+      "cur_tg": 1701,
+      "max_tg": 1805,
+      "last_1v1": "2026-10-16",
+      "live": {
+        "match": 515193147,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 3254820,

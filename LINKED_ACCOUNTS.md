@@ -1,6 +1,6 @@
 # Linked accounts
 
-Generated 2026-10-21T03:30:41Z from aoe2companion's linked profiles (followed up to 4 links deep; each account belongs to the closest listed player).
+Generated 2026-10-21T04:40:08Z from aoe2companion's linked profiles (followed up to 4 links deep; each account belongs to the closest listed player).
 Used to show players LIVE when they play on any of their accounts. Ratings are RM 1v1.
 
 ## new Wave
@@ -22,7 +22,7 @@ Used to show players LIVE when they play on any of their accounts. Ratings are R
 |---|---|
 | Oni Kingstone | KingstoNe (—), Combi / KingstoNe (—), Kingstone (2225), Combi / TG Plasher (—) |
 | Ux Combito | Skirmisher Timing (2483), C, (2417, 2 links away), White Knight (2416, 2 links away) |
-| Ux LobodeLaNieve | Ux'LobodeLaNieve (2599), BlackSlayer (1974), Combi / JyuVioleGrace (—), Ux'Auu (—), BlackSlayer (1461) |
+| Ux Lobo | Ux'LobodeLaNieve (2599), BlackSlayer (1974), Combi / JyuVioleGrace (—), Ux'Auu (—), BlackSlayer (1461) |
 | Ux Uzzi | Uzzi (2438), Metapod (—), Combi / Maruri (2364), 7Swords (—), Floki (—), Combi / 7Swords (2285), _Iridium_ (—), El_Chompiras (—), Incadescence (1854), Reptar (1686, 2 links away) |
 | VENÓN Miauricio | xboxyyds8966 (—), [GDL] Frida (646), IranX (—), Mau AE1313 (—), DiscipuloDeSoldaditoDePlomo (1771), VENÓN / Mauricio (2456), Papa de Botzanga (—), Mauricioae13 (—), [GDL] Chuchito (—) |
 | VENÓN EnvyZ | S1mulated w (2213), KH / Murdock (2033) |
@@ -57,11 +57,17 @@ Used to show players LIVE when they play on any of their accounts. Ratings are R
 | SotC PerezPodrido | — |
 | __Chino | — |
 | SynfonY | SynfonY (—), The_Godfather (1648, 2 links away), Combi / Volker (1654, 2 links away), Stalingrado (2042, 2 links away), Zoschenko17 (—, 2 links away) |
-| HGB | HelloGoodBye_ (1983) |
-| VENÓN PuNii | VENÓN / TIC TAC (2009), ERICH VON MANSTEIN (1856, 2 links away), VENÓN / Frida Lover (2052, 2 links away), ReBeL_Roshi (—, 2 links away), [5oy] RockLee_ (—, 2 links away), GaiSensei (1341, 2 links away), PIKACHU95 (973, 2 links away), OmegaFC (1232, 2 links away), MexicanoGenerico :( (2045, 2 links away), VENÓN / seemylame (2031, 2 links away), ReformedGGWP (2037, 2 links away) |
+| HelloGoodBye_ | HelloGoodBye_ (1983) |
+| VENÓN PuNii | VENÓN / TIC TAC (2009), ERICH VON MANSTEIN (1856, 2 links away), VENÓN / Frida Lover (2052, 2 links away), ReBeL_Roshi (—, 2 links away), [5oy] RockLee_ (—, 2 links away), GaiSensei (1341, 2 links away), PIKACHU95 (973, 2 links away), OmegaFC (1232, 2 links away), VENÓN / 45 Dias habiles (2045, 2 links away), VENÓN / seemylame (2031, 2 links away), ReformedGGWP (2037, 2 links away) |
 | Mahmoud Ahmadinejad | emmanueldltq08 (1490) |
 | IamAlextremo | _WiZarD_ (1768), Combi / IamAlextremo (1956), Melano (—), IamSasha (2101), SIR Prosonazo (2136), ELO Forge (1739) |
-| 9666666 | — |
+| Guki | — |
+| 2291749 | — |
+| 235877 | VENÓN / Meliodas (1905) |
+| Kiss | Kiss (1846), Horseman (1691, 2 links away) |
+| 13192381 | Niino (1912), Combi / elseñordeloshelados (1760, 2 links away), Combi / salario_minimo (—, 2 links away), Combi / crack (1679, 2 links away), Combi / niino (1726, 2 links away), VL Niino (1932, 2 links away), V (1832, 2 links away) |
+| 13241217 | — |
+| 12472496 | — |
 
 ## Colombia
 
@@ -86,7 +92,7 @@ Used to show players LIVE when they play on any of their accounts. Ratings are R
 | VIT Hearttt | X (—) |
 | Dimo | Dimo (2446), Anubis (2152), _DonCagón (2370) |
 | LE WilliamS | LE / WilliamS (2320) |
-| CTM Lelouch | CTM / Lelouch ELO bajito (2079), CTM / Lelouch Jogo Bonito (2235), DK_Chris Evans (1769), CTM / Ligth (2156), CTM / Lelouch jugando borracho (2222), Combi / Controla tus palabras (1740) |
+| CTM Lelouch ELO bajito | CTM / Lelouch ELO bajito (2079), CTM / Lelouch Jogo Bonito (2235), DK_Chris Evans (1769), CTM / Ligth (2156), CTM / Lelouch jugando borracho (2222), Combi / Controla tus palabras (1740) |
 | CL Rey Enigmaaa | [CL] The Fabulous Merasmus (1731), Lord Of War con Tuberculosis (—, 2 links away), [CL] Tatán (1471, 2 links away), CL / PainFelipeJupyCastigador (2011, 2 links away) |
 | VL Lil Franco | Ferxxo (1998) |
 | LvSP Réyiman | Akira Toreyama (—) |

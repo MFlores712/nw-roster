@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T03:30:41Z",
+ "updated_at": "2026-10-21T04:40:08Z",
  "players": {
   "22889810": {
    "name": "Manuel",
@@ -197,7 +197,7 @@
    ]
   },
   "2920057": {
-   "name": "Ux LobodeLaNieve",
+   "name": "Ux Lobo",
    "accounts": [
     {
      "id": 3317764,
@@ -1003,7 +1003,7 @@
    ]
   },
   "4412109": {
-   "name": "HGB",
+   "name": "HelloGoodBye_",
    "accounts": [
     {
      "id": 5195050,
@@ -1076,7 +1076,7 @@
     {
      "id": 20930753,
      "hops": 2,
-     "name": "MexicanoGenerico :(",
+     "name": "VENÓN | 45 Dias habiles",
      "rating": 2045,
      "last": "2026-10-19"
     },
@@ -1156,7 +1156,104 @@
    ]
   },
   "9666666": {
-   "name": "9666666",
+   "name": "Guki",
+   "accounts": []
+  },
+  "2291749": {
+   "name": "2291749",
+   "accounts": []
+  },
+  "235877": {
+   "name": "235877",
+   "accounts": [
+    {
+     "id": 2909366,
+     "hops": 1,
+     "name": "VENÓN | Meliodas",
+     "rating": 1905,
+     "last": "2024-10-01"
+    }
+   ]
+  },
+  "3285258": {
+   "name": "Kiss",
+   "accounts": [
+    {
+     "id": 2785844,
+     "hops": 1,
+     "name": "Kiss",
+     "rating": 1846,
+     "last": "2026-07-15"
+    },
+    {
+     "id": 6238487,
+     "hops": 2,
+     "name": "Horseman",
+     "rating": 1691,
+     "last": "2026-03-09"
+    }
+   ]
+  },
+  "22430074": {
+   "name": "13192381",
+   "accounts": [
+    {
+     "id": 279587,
+     "hops": 1,
+     "name": "Niino",
+     "rating": 1912,
+     "last": "2026-06-25"
+    },
+    {
+     "id": 2086416,
+     "hops": 2,
+     "name": "Combi | elseñordeloshelados",
+     "rating": 1760,
+     "last": "2023-06-09"
+    },
+    {
+     "id": 3886334,
+     "hops": 2,
+     "name": "Combi | salario_minimo",
+     "rating": null,
+     "last": null
+    },
+    {
+     "id": 5418884,
+     "hops": 2,
+     "name": "Combi | crack",
+     "rating": 1679,
+     "last": "2022-10-01"
+    },
+    {
+     "id": 11394180,
+     "hops": 2,
+     "name": "Combi | niino",
+     "rating": 1726,
+     "last": "2023-04-14"
+    },
+    {
+     "id": 12259312,
+     "hops": 2,
+     "name": "VL Niino",
+     "rating": 1932,
+     "last": "2026-07-03"
+    },
+    {
+     "id": 14234765,
+     "hops": 2,
+     "name": "V",
+     "rating": 1832,
+     "last": "2025-01-06"
+    }
+   ]
+  },
+  "22736819": {
+   "name": "13241217",
+   "accounts": []
+  },
+  "18816291": {
+   "name": "12472496",
    "accounts": []
   },
   "2654577": {
@@ -1406,7 +1503,7 @@
    ]
   },
   "2366434": {
-   "name": "CTM Lelouch",
+   "name": "CTM Lelouch ELO bajito",
    "accounts": [
     {
      "id": 3265324,
