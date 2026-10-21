@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-21T03:20:09Z",
+  "updated_at": "2026-10-21T03:25:10Z",
   "baseline": {
     "taken_at": "2026-10-20T14:00:15Z",
     "ranks": {
@@ -112,7 +112,11 @@
       "cur_1v1": 2433,
       "max_1v1": 2433,
       "cur_tg": 2027,
-      "max_tg": 2104
+      "max_tg": 2104,
+      "live": {
+        "match": 515182804,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 310739,
@@ -139,7 +143,12 @@
       "cur_1v1": 2336,
       "max_1v1": 2469,
       "cur_tg": 1832,
-      "max_tg": 2072
+      "max_tg": 2072,
+      "live": {
+        "match": 515182804,
+        "game": "Team Random Map",
+        "account": "hK | Siesta"
+      }
     },
     {
       "profile_id": 2295504,
@@ -157,7 +166,12 @@
       "cur_1v1": 2322,
       "max_1v1": 2322,
       "cur_tg": 1968,
-      "max_tg": 1982
+      "max_tg": 1982,
+      "live": {
+        "match": 515182804,
+        "game": "Team Random Map",
+        "account": "FierroFlash"
+      }
     },
     {
       "profile_id": 12723994,
@@ -210,7 +224,24 @@
       "cur_1v1": 2203,
       "max_1v1": 2317,
       "cur_tg": 2024,
-      "max_tg": 2083
+      "max_tg": 2083,
+      "live": {
+        "match": 515182804,
+        "game": "Team Random Map"
+      }
+    },
+    {
+      "profile_id": 917863,
+      "tag": "Romell13",
+      "clan": "hK",
+      "cur_1v1": 2201,
+      "max_1v1": 2233,
+      "cur_tg": 1819,
+      "max_tg": 1837,
+      "live": {
+        "match": 515181323,
+        "game": "1v1 Random Map"
+      }
     },
     {
       "profile_id": 13138746,
@@ -219,18 +250,9 @@
       "cur_1v1": 2191,
       "max_1v1": 2233,
       "cur_tg": 1855,
-      "max_tg": 1983
-    },
-    {
-      "profile_id": 917863,
-      "tag": "Romell13",
-      "clan": "hK",
-      "cur_1v1": 2188,
-      "max_1v1": 2233,
-      "cur_tg": 1819,
-      "max_tg": 1837,
+      "max_tg": 1983,
       "live": {
-        "match": 515181323,
+        "match": 515183293,
         "game": "1v1 Random Map"
       }
     },
@@ -311,19 +333,19 @@
       "cur_1v1": 2017,
       "max_1v1": 2124,
       "cur_tg": 1635,
-      "max_tg": 1820
+      "max_tg": 1820,
+      "live": {
+        "match": 515182823,
+        "game": "1v1 Random Map"
+      }
     },
     {
       "profile_id": 9770338,
       "tag": "SynfonY",
       "cur_1v1": 2016,
       "max_1v1": 2020,
-      "cur_tg": 1777,
-      "max_tg": 1962,
-      "live": {
-        "match": 515179476,
-        "game": "Team Random Map"
-      }
+      "cur_tg": 1787,
+      "max_tg": 1962
     },
     {
       "profile_id": 6501299,
