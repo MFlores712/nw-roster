@@ -322,7 +322,7 @@ def next_baseline(prev_output: dict, results: list, now: datetime) -> dict:
     baseline = prev_output.get("baseline")
     taken = datetime.fromisoformat(baseline["taken_at"].replace("Z", "+00:00")) if baseline else None
     if taken and taken >= last_baseline_time(now):
-        return migrate_baseline_keys(baseline, prev_output.get("players") or results)
+        return fit_roster(migrate_baseline_keys(baseline, prev_output.get("players") or results), results)
     order = prev_output.get("players") or results
     return snapshot(order, now)
 
@@ -336,6 +336,24 @@ def snapshot(order: list, now: datetime) -> dict:
         "ranks": {str(p["profile_id"]): i + 1 for i, p in enumerate(active)},
         "inactive": [str(p["profile_id"]) for p in order if p.get("inactive")],
     }
+
+
+def fit_roster(baseline: dict, results: list) -> dict:
+    """Keep the snapshot in step with config edits made since 08:00, so they
+    don't cause arrows: removed players are dropped (closing their gap), and
+    added players are slotted in at the place they first appear (no NEW badge,
+    and nobody shows a ▼ for being passed by them)."""
+    ids = [str(p["profile_id"]) for p in results if not p.get("inactive")]
+    inactive = set(baseline.get("inactive", []))
+    kept = sorted((k for k in baseline["ranks"] if k in ids), key=baseline["ranks"].get)
+    for i, pid in enumerate(ids):
+        if pid not in baseline["ranks"] and pid not in inactive:
+            kept.insert(min(i, len(kept)), pid)
+    ranks = {pid: i + 1 for i, pid in enumerate(kept)}
+    if ranks == baseline["ranks"]:
+        return baseline
+    return {**baseline, "ranks": ranks, "inactive": [k for k in baseline.get("inactive", [])
+                                                      if k in {str(p["profile_id"]) for p in results}]}
 
 
 def migrate_baseline_keys(baseline: dict, players: list) -> dict:
