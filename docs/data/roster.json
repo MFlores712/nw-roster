@@ -1,6 +1,6 @@
 {
   "name": "new Wave",
-  "updated_at": "2026-10-21T07:35:09Z",
+  "updated_at": "2026-10-21T07:40:08Z",
   "baseline": {
     "taken_at": "2026-10-20T14:00:15Z",
     "ranks": {
@@ -58,7 +58,12 @@
       "max_1v1": 2309,
       "cur_tg": 1820,
       "max_tg": 1854,
-      "last_1v1": "2026-10-16"
+      "last_1v1": "2026-10-16",
+      "live": {
+        "match": 515208047,
+        "game": "1v1 Random Map",
+        "account": "iamkaito"
+      }
     },
     {
       "profile_id": 2876835,
