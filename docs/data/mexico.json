@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-21T05:20:09Z",
+  "updated_at": "2026-10-21T05:26:31Z",
   "baseline": {
     "taken_at": "2026-10-20T14:00:15Z",
     "ranks": {
@@ -92,11 +92,11 @@
       "profile_id": 13099159,
       "tag": "Uzzi",
       "clan": "Ux",
-      "cur_1v1": 2615,
+      "cur_1v1": 2604,
       "max_1v1": 2629,
       "cur_tg": 1794,
       "max_tg": 1999,
-      "last_1v1": "2026-10-18",
+      "last_1v1": "2026-10-21",
       "live": {
         "match": 515196879,
         "game": "1v1 Random Map"
