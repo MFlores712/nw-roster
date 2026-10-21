@@ -1,0 +1,1637 @@
+{
+ "updated_at": "2026-10-21T01:16:53Z",
+ "players": {
+  "22889810": {
+   "name": "Manuel",
+   "accounts": []
+  },
+  "14666598": {
+   "name": "iamkaito",
+   "accounts": [
+    {
+     "id": 3816609,
+     "hops": 1,
+     "name": "iamkaito",
+     "rating": 2249,
+     "last": "2026-10-21"
+    }
+   ]
+  },
+  "914665": {
+   "name": "Caguamas",
+   "accounts": [
+    {
+     "id": 3405152,
+     "hops": 1,
+     "name": "Fontana Bella",
+     "rating": 2076,
+     "last": "2026-10-06"
+    },
+    {
+     "id": 9674008,
+     "hops": 1,
+     "name": "Jose Ali",
+     "rating": 1660,
+     "last": "2023-03-15"
+    },
+    {
+     "id": 10283755,
+     "hops": 1,
+     "name": "Cawi",
+     "rating": 2243,
+     "last": "2026-08-31"
+    }
+   ]
+  },
+  "2934597": {
+   "name": "Sgt.Pepper",
+   "accounts": [
+    {
+     "id": 17092381,
+     "hops": 1,
+     "name": "Hozmi",
+     "rating": 2160,
+     "last": "2026-06-01"
+    }
+   ]
+  },
+  "2876835": {
+   "name": "Abejorro",
+   "accounts": [
+    {
+     "id": 5338394,
+     "hops": 1,
+     "name": "El_Abejorro",
+     "rating": 1609,
+     "last": "2023-06-11"
+    },
+    {
+     "id": 15535176,
+     "hops": 1,
+     "name": "Benito Juárez",
+     "rating": null,
+     "last": null
+    },
+    {
+     "id": 19600273,
+     "hops": 1,
+     "name": "Benito Camelo",
+     "rating": null,
+     "last": null
+    },
+    {
+     "id": 25493595,
+     "hops": 1,
+     "name": "Obsidian Dragon",
+     "rating": 1877,
+     "last": "2026-10-11"
+    }
+   ]
+  },
+  "1359694": {
+   "name": "AtilA",
+   "accounts": [
+    {
+     "id": 17959576,
+     "hops": 1,
+     "name": "AtilA",
+     "rating": 1831,
+     "last": "2025-05-15"
+    }
+   ]
+  },
+  "1947348": {
+   "name": "themariach1",
+   "accounts": [
+    {
+     "id": 3275362,
+     "hops": 1,
+     "name": "SmartIgZ",
+     "rating": 2149,
+     "last": "2025-01-21"
+    },
+    {
+     "id": 3434952,
+     "hops": 1,
+     "name": "ZacK",
+     "rating": 1945,
+     "last": "2024-09-13"
+    },
+    {
+     "id": 5085973,
+     "hops": 1,
+     "name": "NobuNaga",
+     "rating": 1985,
+     "last": "2024-06-09"
+    },
+    {
+     "id": 14584633,
+     "hops": 1,
+     "name": "Hyohon",
+     "rating": null,
+     "last": null
+    }
+   ]
+  },
+  "6501299": {
+   "name": "ShutAzarquay",
+   "accounts": []
+  },
+  "2776293": {
+   "name": "Oni Kingstone",
+   "accounts": [
+    {
+     "id": 2938425,
+     "hops": 1,
+     "name": "KingstoNe",
+     "rating": null,
+     "last": null
+    },
+    {
+     "id": 3253348,
+     "hops": 1,
+     "name": "Combi | KingstoNe",
+     "rating": null,
+     "last": null
+    },
+    {
+     "id": 4957841,
+     "hops": 1,
+     "name": "Kingstone",
+     "rating": 2225,
+     "last": "2023-02-10"
+    },
+    {
+     "id": 15606105,
+     "hops": 1,
+     "name": "Combi | TG Plasher",
+     "rating": null,
+     "last": null
+    }
+   ]
+  },
+  "5984120": {
+   "name": "Ux Combito",
+   "accounts": [
+    {
+     "id": 21914183,
+     "hops": 1,
+     "name": "Skirmisher Timing",
+     "rating": 2483,
+     "last": "2026-09-11"
+    },
+    {
+     "id": 16550341,
+     "hops": 2,
+     "name": "C,",
+     "rating": 2417,
+     "last": "2025-08-22"
+    },
+    {
+     "id": 18317143,
+     "hops": 2,
+     "name": "White Knight",
+     "rating": 2416,
+     "last": "2025-08-10"
+    }
+   ]
+  },
+  "2920057": {
+   "name": "Ux LobodeLaNieve",
+   "accounts": [
+    {
+     "id": 3317764,
+     "hops": 1,
+     "name": "Ux'LobodeLaNieve",
+     "rating": 2599,
+     "last": "2026-09-13"
+    },
+    {
+     "id": 4974647,
+     "hops": 1,
+     "name": "BlackSlayer",
+     "rating": 1974,
+     "last": "2026-10-07"
+    },
+    {
+     "id": 5232076,
+     "hops": 1,
+     "name": "Combi | JyuVioleGrace",
+     "rating": null,
+     "last": null
+    },
+    {
+     "id": 5653221,
+     "hops": 1,
+     "name": "Ux'Auu",
+     "rating": null,
+     "last": null
+    },
+    {
+     "id": 15439426,
+     "hops": 1,
+     "name": "BlackSlayer",
+     "rating": 1461,
+     "last": "2025-04-02"
+    }
+   ]
+  },
+  "21627109": {
+   "name": "Ux Uzzi",
+   "accounts": [
+    {
+     "id": 229071,
+     "hops": 1,
+     "name": "Uzzi",
+     "rating": 2438,
+     "last": "2024-12-31"
+    },
+    {
+     "id": 2136214,
+     "hops": 1,
+     "name": "Metapod",
+     "rating": null,
+     "last": null
+    },
+    {
+     "id": 2621863,
+     "hops": 1,
+     "name": "Combi | Maruri",
+     "rating": 2364,
+     "last": "2023-06-19"
+    },
+    {
+     "id": 2873733,
+     "hops": 1,
+     "name": "7Swords",
+     "rating": null,
+     "last": null
+    },
+    {
+     "id": 3583533,
+     "hops": 1,
+     "name": "Floki",
+     "rating": null,
+     "last": null
+    },
+    {
+     "id": 4785288,
+     "hops": 1,
+     "name": "Combi | 7Swords",
+     "rating": 2285,
+     "last": "2024-09-03"
+    },
+    {
+     "id": 5021401,
+     "hops": 1,
+     "name": "_Iridium_",
+     "rating": null,
+     "last": null
+    },
+    {
+     "id": 9646265,
+     "hops": 1,
+     "name": "El_Chompiras",
+     "rating": null,
+     "last": null
+    },
+    {
+     "id": 22969678,
+     "hops": 1,
+     "name": "Incadescence",
+     "rating": 1854,
+     "last": "2025-06-03"
+    },
+    {
+     "id": 15602345,
+     "hops": 2,
+     "name": "Reptar",
+     "rating": 1686,
+     "last": "2026-03-22"
+    }
+   ]
+  },
+  "9449579": {
+   "name": "VENÓN Miauricio",
+   "accounts": [
+    {
+     "id": 13164223,
+     "hops": 1,
+     "name": "xboxyyds8966",
+     "rating": null,
+     "last": null
+    },
+    {
+     "id": 14928165,
+     "hops": 1,
+     "name": "[GDL] Frida",
+     "rating": 646,
+     "last": "2026-10-11"
+    },
+    {
+     "id": 16719224,
+     "hops": 1,
+     "name": "IranX",
+     "rating": null,
+     "last": null
+    },
+    {
+     "id": 17608717,
+     "hops": 1,
+     "name": "Mau AE1313",
+     "rating": null,
+     "last": null
+    },
+    {
+     "id": 17811123,
+     "hops": 1,
+     "name": "DiscipuloDeSoldaditoDePlomo",
+     "rating": 1771,
+     "last": "2024-05-20"
+    },
+    {
+     "id": 19831974,
+     "hops": 1,
+     "name": "VENÓN | Mauricio",
+     "rating": 2456,
+     "last": "2026-09-12"
+    },
+    {
+     "id": 21158901,
+     "hops": 1,
+     "name": "Papa de Botzanga",
+     "rating": null,
+     "last": null
+    },
+    {
+     "id": 22229878,
+     "hops": 1,
+     "name": "Mauricioae13",
+     "rating": null,
+     "last": null
+    },
+    {
+     "id": 24534554,
+     "hops": 1,
+     "name": "[GDL] Chuchito",
+     "rating": null,
+     "last": null
+    }
+   ]
+  },
+  "401359": {
+   "name": "VENÓN EnvyZ",
+   "accounts": [
+    {
+     "id": 2498538,
+     "hops": 1,
+     "name": "S1mulated w",
+     "rating": 2213,
+     "last": "2026-03-20"
+    },
+    {
+     "id": 5014056,
+     "hops": 1,
+     "name": "KH | Murdock",
+     "rating": 2033,
+     "last": "2024-01-21"
+    }
+   ]
+  },
+  "310739": {
+   "name": "hK SoyLaHostia",
+   "accounts": [
+    {
+     "id": 325918,
+     "hops": 1,
+     "name": "Warlock_Ndk",
+     "rating": 1951,
+     "last": "2026-08-12"
+    }
+   ]
+  },
+  "312774": {
+   "name": "hK Keno_",
+   "accounts": [
+    {
+     "id": 738273,
+     "hops": 1,
+     "name": "Ideas.Necias",
+     "rating": 2073,
+     "last": "2023-05-12"
+    },
+    {
+     "id": 4362172,
+     "hops": 1,
+     "name": "_Siesta",
+     "rating": null,
+     "last": null
+    },
+    {
+     "id": 6345180,
+     "hops": 1,
+     "name": "Stevenash_",
+     "rating": 2429,
+     "last": "2026-09-04"
+    },
+    {
+     "id": 15174925,
+     "hops": 1,
+     "name": "hK | Siesta",
+     "rating": 2471,
+     "last": "2026-09-03"
+    },
+    {
+     "id": 23101014,
+     "hops": 1,
+     "name": "hK | RanDoM",
+     "rating": 2322,
+     "last": "2026-10-20"
+    }
+   ]
+  },
+  "4221810": {
+   "name": "Imfury_",
+   "accounts": [
+    {
+     "id": 5303231,
+     "hops": 1,
+     "name": "_Imfury_",
+     "rating": 2237,
+     "last": "2024-09-09"
+    },
+    {
+     "id": 8448734,
+     "hops": 1,
+     "name": "The_Fury",
+     "rating": 2444,
+     "last": "2026-10-07"
+    }
+   ]
+  },
+  "1485562": {
+   "name": "VENÓN MrOsoVC8",
+   "accounts": [
+    {
+     "id": 3759883,
+     "hops": 1,
+     "name": "Combi | Noob",
+     "rating": 1987,
+     "last": "2023-02-26"
+    },
+    {
+     "id": 4839087,
+     "hops": 1,
+     "name": "Discipulo de eL | Bicho",
+     "rating": 2134,
+     "last": "2023-10-20"
+    },
+    {
+     "id": 5778141,
+     "hops": 1,
+     "name": "FlagPlayer",
+     "rating": 705,
+     "last": "2024-10-12"
+    },
+    {
+     "id": 9175056,
+     "hops": 1,
+     "name": "Danyselacome",
+     "rating": 2140,
+     "last": "2024-03-14"
+    },
+    {
+     "id": 11819879,
+     "hops": 1,
+     "name": "FanDelPerrubis",
+     "rating": 1947,
+     "last": "2023-08-22"
+    },
+    {
+     "id": 15636676,
+     "hops": 1,
+     "name": "babababa",
+     "rating": 2056,
+     "last": "2025-05-28"
+    }
+   ]
+  },
+  "2598146": {
+   "name": "VENÓN SiNisTeR",
+   "accounts": [
+    {
+     "id": 2888687,
+     "hops": 1,
+     "name": "VENÓN | SiNisTeR",
+     "rating": 2409,
+     "last": "2026-09-29"
+    },
+    {
+     "id": 10888512,
+     "hops": 1,
+     "name": "SiNisTeR",
+     "rating": 2114,
+     "last": "2025-01-24"
+    },
+    {
+     "id": 14230268,
+     "hops": 1,
+     "name": "Taquería El Primo",
+     "rating": 2041,
+     "last": "2024-12-25"
+    },
+    {
+     "id": 22841622,
+     "hops": 1,
+     "name": "OrangeKato",
+     "rating": null,
+     "last": null
+    },
+    {
+     "id": 6627311,
+     "hops": 2,
+     "name": "DSLG | Acuna",
+     "rating": 1516,
+     "last": "2024-05-11"
+    },
+    {
+     "id": 10309368,
+     "hops": 3,
+     "name": "Pichulita Feli",
+     "rating": null,
+     "last": null
+    },
+    {
+     "id": 21601654,
+     "hops": 3,
+     "name": "DSLG | NotAcuna",
+     "rating": 1649,
+     "last": "2026-02-02"
+    },
+    {
+     "id": 23008733,
+     "hops": 3,
+     "name": "NotAcuna_",
+     "rating": 1529,
+     "last": "2026-02-28"
+    }
+   ]
+  },
+  "580573": {
+   "name": "hK Puerco_Negro",
+   "accounts": [
+    {
+     "id": 2717438,
+     "hops": 1,
+     "name": "THE_BLACK_PIG",
+     "rating": null,
+     "last": null
+    },
+    {
+     "id": 4388039,
+     "hops": 1,
+     "name": "PuercoBlackTG",
+     "rating": null,
+     "last": null
+    },
+    {
+     "id": 4822090,
+     "hops": 1,
+     "name": "BlukuUktan",
+     "rating": null,
+     "last": null
+    },
+    {
+     "id": 5369403,
+     "hops": 1,
+     "name": "blukuuktan",
+     "rating": null,
+     "last": null
+    },
+    {
+     "id": 10243171,
+     "hops": 1,
+     "name": "BlackAbE",
+     "rating": null,
+     "last": null
+    },
+    {
+     "id": 10798747,
+     "hops": 1,
+     "name": "puerco_white",
+     "rating": null,
+     "last": null
+    },
+    {
+     "id": 11475829,
+     "hops": 1,
+     "name": "Rook4Ever",
+     "rating": 1968,
+     "last": "2023-04-21"
+    },
+    {
+     "id": 15042744,
+     "hops": 1,
+     "name": "mamadejuannn",
+     "rating": 1793,
+     "last": "2023-05-07"
+    },
+    {
+     "id": 17582292,
+     "hops": 1,
+     "name": "RandomPlayer",
+     "rating": 1639,
+     "last": "2023-12-06"
+    },
+    {
+     "id": 20710182,
+     "hops": 1,
+     "name": "SecretFace",
+     "rating": 2150,
+     "last": "2025-07-20"
+    },
+    {
+     "id": 21395499,
+     "hops": 1,
+     "name": "osirismichelle95",
+     "rating": 2008,
+     "last": "2025-01-08"
+    }
+   ]
+  },
+  "2295504": {
+   "name": "hK Eren",
+   "accounts": [
+    {
+     "id": 5400817,
+     "hops": 1,
+     "name": "hK  | Volg",
+     "rating": 2296,
+     "last": "2026-10-18"
+    },
+    {
+     "id": 6234396,
+     "hops": 1,
+     "name": "Rhaegar",
+     "rating": 1879,
+     "last": "2026-07-04"
+    },
+    {
+     "id": 8014106,
+     "hops": 1,
+     "name": "hK | Andobienmachinsobrelaidea",
+     "rating": 1886,
+     "last": "2026-09-05"
+    },
+    {
+     "id": 9683105,
+     "hops": 1,
+     "name": "Mexican Pyscho",
+     "rating": 1777,
+     "last": "2026-06-29"
+    },
+    {
+     "id": 11226478,
+     "hops": 1,
+     "name": "twitch.tv/sunshine_aoe",
+     "rating": 1843,
+     "last": "2022-11-05"
+    },
+    {
+     "id": 22409066,
+     "hops": 1,
+     "name": "Tryw",
+     "rating": null,
+     "last": null
+    },
+    {
+     "id": 3314032,
+     "hops": 2,
+     "name": "LE | Dimoking",
+     "rating": 1661,
+     "last": "2023-10-07"
+    },
+    {
+     "id": 5605001,
+     "hops": 2,
+     "name": "larryRy cañonga!",
+     "rating": null,
+     "last": null
+    }
+   ]
+  },
+  "611972": {
+   "name": "Dark Adam",
+   "accounts": [
+    {
+     "id": 3229922,
+     "hops": 1,
+     "name": "OutPost Malone",
+     "rating": 1892,
+     "last": "2024-04-30"
+    },
+    {
+     "id": 5549365,
+     "hops": 1,
+     "name": "Adamantium",
+     "rating": null,
+     "last": null
+    }
+   ]
+  },
+  "9031952": {
+   "name": "hK ChossMx",
+   "accounts": [
+    {
+     "id": 20927991,
+     "hops": 1,
+     "name": "FierroFlash",
+     "rating": 2289,
+     "last": "2026-10-20"
+    }
+   ]
+  },
+  "757886": {
+   "name": "VN DarK_KnighT_",
+   "accounts": [
+    {
+     "id": 3395893,
+     "hops": 1,
+     "name": "1106779817143",
+     "rating": 1956,
+     "last": "2023-05-21"
+    }
+   ]
+  },
+  "917863": {
+   "name": "hK Romell13",
+   "accounts": [
+    {
+     "id": 24341664,
+     "hops": 1,
+     "name": "ang",
+     "rating": 1788,
+     "last": "2026-01-09"
+    }
+   ]
+  },
+  "22003517": {
+   "name": "hK FraKTal",
+   "accounts": [
+    {
+     "id": 25179480,
+     "hops": 1,
+     "name": "Chapulin Colorado",
+     "rating": 2151,
+     "last": "2026-05-31"
+    }
+   ]
+  },
+  "2850920": {
+   "name": "Ux Chimtzin",
+   "accounts": [
+    {
+     "id": 5601064,
+     "hops": 1,
+     "name": "Chimirindo",
+     "rating": 2072,
+     "last": "2026-10-15"
+    }
+   ]
+  },
+  "358501": {
+   "name": "VENÓN El Claut_One",
+   "accounts": [
+    {
+     "id": 20001367,
+     "hops": 1,
+     "name": "VENÓN | PARZIVAL",
+     "rating": 1733,
+     "last": "2025-03-02"
+    }
+   ]
+  },
+  "2969449": {
+   "name": "VENÓN BetoxAOE",
+   "accounts": [
+    {
+     "id": 4522446,
+     "hops": 1,
+     "name": "[GDL]BetoxAOE",
+     "rating": 1938,
+     "last": "2026-09-28"
+    },
+    {
+     "id": 5977505,
+     "hops": 1,
+     "name": "El calienta Lomitos",
+     "rating": 1451,
+     "last": "2023-09-14"
+    },
+    {
+     "id": 6329936,
+     "hops": 1,
+     "name": "twitch.tv/BetoxAOE",
+     "rating": 1574,
+     "last": "2023-09-18"
+    },
+    {
+     "id": 9880217,
+     "hops": 1,
+     "name": "James P. Solivan",
+     "rating": 1317,
+     "last": "2026-10-18"
+    },
+    {
+     "id": 20669666,
+     "hops": 1,
+     "name": "xXx_69_xXx",
+     "rating": 1796,
+     "last": "2026-09-12"
+    },
+    {
+     "id": 21699887,
+     "hops": 1,
+     "name": "[GDL]CemenTox",
+     "rating": 1844,
+     "last": "2026-09-11"
+    }
+   ]
+  },
+  "1249720": {
+   "name": "VN Asdrubald",
+   "accounts": []
+  },
+  "324005": {
+   "name": "VN Narizberto",
+   "accounts": [
+    {
+     "id": 20898174,
+     "hops": 1,
+     "name": "Chepe",
+     "rating": null,
+     "last": null
+    },
+    {
+     "id": 24012461,
+     "hops": 1,
+     "name": "[GDL] Zuko",
+     "rating": null,
+     "last": null
+    },
+    {
+     "id": 25209752,
+     "hops": 1,
+     "name": "[GDL] Zuko",
+     "rating": 1676,
+     "last": "2026-10-03"
+    }
+   ]
+  },
+  "278380": {
+   "name": "VL Lemoine",
+   "accounts": [
+    {
+     "id": 11808654,
+     "hops": 1,
+     "name": "VL Formolin",
+     "rating": null,
+     "last": null
+    }
+   ]
+  },
+  "467847": {
+   "name": "DoN.Vergas",
+   "accounts": [
+    {
+     "id": 5938874,
+     "hops": 1,
+     "name": "bZ.Slayer",
+     "rating": 1855,
+     "last": "2024-12-02"
+    }
+   ]
+  },
+  "22564772": {
+   "name": "MZTK GO1_mx",
+   "accounts": []
+  },
+  "2986966": {
+   "name": "VL JPGP",
+   "accounts": [
+    {
+     "id": 9135071,
+     "hops": 1,
+     "name": "[Tkilla]Temujin",
+     "rating": 1325,
+     "last": "2022-10-07"
+    },
+    {
+     "id": 9716805,
+     "hops": 1,
+     "name": "Mazahua",
+     "rating": 1544,
+     "last": "2022-10-01"
+    },
+    {
+     "id": 14639916,
+     "hops": 1,
+     "name": "eFotboll",
+     "rating": 1791,
+     "last": "2026-10-16"
+    }
+   ]
+  },
+  "4764520": {
+   "name": "KH BooMBastic_",
+   "accounts": [
+    {
+     "id": 13019977,
+     "hops": 1,
+     "name": "hK | Charles Martel",
+     "rating": 1528,
+     "last": "2026-09-16"
+    }
+   ]
+  },
+  "2926018": {
+   "name": "SotC PerezPodrido",
+   "accounts": []
+  },
+  "3254820": {
+   "name": "__Chino",
+   "accounts": []
+  },
+  "9770338": {
+   "name": "SynfonY",
+   "accounts": [
+    {
+     "id": 2131956,
+     "hops": 1,
+     "name": "SynfonY",
+     "rating": null,
+     "last": null
+    },
+    {
+     "id": 3322822,
+     "hops": 2,
+     "name": "The_Godfather",
+     "rating": 1648,
+     "last": "2023-07-01"
+    },
+    {
+     "id": 14381742,
+     "hops": 2,
+     "name": "Combi | Volker",
+     "rating": 1654,
+     "last": "2023-05-27"
+    },
+    {
+     "id": 15529711,
+     "hops": 2,
+     "name": "Stalingrado",
+     "rating": 2042,
+     "last": "2026-10-19"
+    },
+    {
+     "id": 21800778,
+     "hops": 2,
+     "name": "Zoschenko17",
+     "rating": null,
+     "last": null
+    }
+   ]
+  },
+  "4412109": {
+   "name": "HGB",
+   "accounts": [
+    {
+     "id": 5195050,
+     "hops": 1,
+     "name": "HelloGoodBye_",
+     "rating": 1983,
+     "last": "2026-09-10"
+    }
+   ]
+  },
+  "19041340": {
+   "name": "VENÓN PuNii",
+   "accounts": [
+    {
+     "id": 1574999,
+     "hops": 1,
+     "name": "VENÓN | TIC TAC",
+     "rating": 2009,
+     "last": "2026-09-15"
+    },
+    {
+     "id": 3880263,
+     "hops": 2,
+     "name": "ERICH VON MANSTEIN",
+     "rating": 1856,
+     "last": "2024-05-12"
+    },
+    {
+     "id": 9658534,
+     "hops": 2,
+     "name": "VENÓN | Frida Lover",
+     "rating": 2052,
+     "last": "2026-10-20"
+    },
+    {
+     "id": 9708725,
+     "hops": 2,
+     "name": "ReBeL_Roshi",
+     "rating": null,
+     "last": null
+    },
+    {
+     "id": 10575170,
+     "hops": 2,
+     "name": "[5oy] RockLee_",
+     "rating": null,
+     "last": null
+    },
+    {
+     "id": 11684883,
+     "hops": 2,
+     "name": "GaiSensei",
+     "rating": 1341,
+     "last": "2023-07-19"
+    },
+    {
+     "id": 15746272,
+     "hops": 2,
+     "name": "PIKACHU95",
+     "rating": 973,
+     "last": "2023-07-21"
+    },
+    {
+     "id": 19971215,
+     "hops": 2,
+     "name": "OmegaFC",
+     "rating": 1232,
+     "last": "2024-08-26"
+    },
+    {
+     "id": 20930753,
+     "hops": 2,
+     "name": "MexicanoGenerico :(",
+     "rating": 2045,
+     "last": "2026-10-19"
+    },
+    {
+     "id": 21097279,
+     "hops": 2,
+     "name": "VENÓN | seemylame",
+     "rating": 2031,
+     "last": "2026-08-14"
+    },
+    {
+     "id": 21433190,
+     "hops": 2,
+     "name": "ReformedGGWP",
+     "rating": 2037,
+     "last": "2026-10-08"
+    }
+   ]
+  },
+  "5803221": {
+   "name": "Mahmoud Ahmadinejad",
+   "accounts": [
+    {
+     "id": 21203567,
+     "hops": 1,
+     "name": "emmanueldltq08",
+     "rating": 1490,
+     "last": "2026-10-20"
+    }
+   ]
+  },
+  "1708286": {
+   "name": "IamAlextremo",
+   "accounts": [
+    {
+     "id": 2327188,
+     "hops": 1,
+     "name": "_WiZarD_",
+     "rating": 1768,
+     "last": "2024-04-11"
+    },
+    {
+     "id": 2469636,
+     "hops": 1,
+     "name": "Combi | IamAlextremo",
+     "rating": 1956,
+     "last": "2023-09-06"
+    },
+    {
+     "id": 10751086,
+     "hops": 1,
+     "name": "Melano",
+     "rating": null,
+     "last": null
+    },
+    {
+     "id": 15603824,
+     "hops": 1,
+     "name": "IamSasha",
+     "rating": 2101,
+     "last": "2026-02-27"
+    },
+    {
+     "id": 21757656,
+     "hops": 1,
+     "name": "SIR Prosonazo",
+     "rating": 2136,
+     "last": "2026-02-25"
+    },
+    {
+     "id": 23543946,
+     "hops": 1,
+     "name": "ELO Forge",
+     "rating": 1739,
+     "last": "2026-05-21"
+    }
+   ]
+  },
+  "2654577": {
+   "name": "Ux Ozone",
+   "accounts": [
+    {
+     "id": 8664489,
+     "hops": 1,
+     "name": "Marcus Fenix",
+     "rating": null,
+     "last": null
+    },
+    {
+     "id": 11962856,
+     "hops": 1,
+     "name": "O3",
+     "rating": 2123,
+     "last": "2024-10-10"
+    },
+    {
+     "id": 15499337,
+     "hops": 1,
+     "name": "DS_Negan",
+     "rating": null,
+     "last": null
+    }
+   ]
+  },
+  "6838238": {
+   "name": "NuMa AngelR",
+   "accounts": [
+    {
+     "id": 10785458,
+     "hops": 1,
+     "name": "monroyjohan29",
+     "rating": null,
+     "last": null
+    },
+    {
+     "id": 12538850,
+     "hops": 1,
+     "name": "[NuMa] MancoFarfan",
+     "rating": 1340,
+     "last": "2023-06-03"
+    },
+    {
+     "id": 15079805,
+     "hops": 1,
+     "name": "Xever Clan de Hpts",
+     "rating": 1427,
+     "last": "2024-05-29"
+    },
+    {
+     "id": 15293475,
+     "hops": 1,
+     "name": "NuMa | AngelR2",
+     "rating": 2357,
+     "last": "2026-10-19"
+    },
+    {
+     "id": 4394494,
+     "hops": 2,
+     "name": "NuMa | Empire",
+     "rating": 1705,
+     "last": "2026-08-21"
+    },
+    {
+     "id": 11832036,
+     "hops": 3,
+     "name": "VoyMeta",
+     "rating": 1613,
+     "last": "2026-10-21"
+    }
+   ]
+  },
+  "2825261": {
+   "name": "VL Tou",
+   "accounts": [
+    {
+     "id": 2524306,
+     "hops": 1,
+     "name": "Retember",
+     "rating": 2022,
+     "last": "2026-10-19"
+    },
+    {
+     "id": 11796319,
+     "hops": 2,
+     "name": "Seteada Remix",
+     "rating": 1503,
+     "last": "2023-01-09"
+    }
+   ]
+  },
+  "2955183": {
+   "name": "JOLIAT",
+   "accounts": [
+    {
+     "id": 5407486,
+     "hops": 1,
+     "name": "Alvaro_Uribest",
+     "rating": 1989,
+     "last": "2026-10-20"
+    },
+    {
+     "id": 6410880,
+     "hops": 1,
+     "name": "Man_at_Laptop",
+     "rating": 2049,
+     "last": "2026-08-16"
+    }
+   ]
+  },
+  "1743420": {
+   "name": "NuMa OliverAtom",
+   "accounts": [
+    {
+     "id": 6413664,
+     "hops": 1,
+     "name": "Voywall",
+     "rating": 1859,
+     "last": "2024-02-01"
+    }
+   ]
+  },
+  "2955846": {
+   "name": "FMG KauTrEnS",
+   "accounts": [
+    {
+     "id": 7717959,
+     "hops": 1,
+     "name": "DkT | HuecoYoruga",
+     "rating": 1710,
+     "last": "2024-04-16"
+    },
+    {
+     "id": 19504176,
+     "hops": 1,
+     "name": "KaUTreNS",
+     "rating": 1812,
+     "last": "2024-10-25"
+    }
+   ]
+  },
+  "1062980": {
+   "name": "VLC DeaH",
+   "accounts": [
+    {
+     "id": 6187685,
+     "hops": 1,
+     "name": "VLC | 3L0Ki",
+     "rating": 1795,
+     "last": "2026-07-14"
+    },
+    {
+     "id": 6410695,
+     "hops": 1,
+     "name": "RamZú",
+     "rating": 1704,
+     "last": "2025-06-25"
+    }
+   ]
+  },
+  "2479622": {
+   "name": "VENÓN Nicky",
+   "accounts": [
+    {
+     "id": 21164226,
+     "hops": 1,
+     "name": "[GDL] Capitan Nicky",
+     "rating": 1841,
+     "last": "2026-10-20"
+    }
+   ]
+  },
+  "5368998": {
+   "name": "Matazombies",
+   "accounts": []
+  },
+  "20466570": {
+   "name": "VENÓN Kevin",
+   "accounts": [
+    {
+     "id": 25563363,
+     "hops": 1,
+     "name": "Chupapimuñeño",
+     "rating": 1873,
+     "last": "2026-10-18"
+    },
+    {
+     "id": 23764609,
+     "hops": 2,
+     "name": "GDL Kevin",
+     "rating": 387,
+     "last": "2026-10-19"
+    }
+   ]
+  },
+  "582058": {
+   "name": "VIT Hearttt",
+   "accounts": [
+    {
+     "id": 3261326,
+     "hops": 1,
+     "name": "X",
+     "rating": null,
+     "last": null
+    }
+   ]
+  },
+  "3216208": {
+   "name": "Dimo",
+   "accounts": [
+    {
+     "id": 6040432,
+     "hops": 1,
+     "name": "Dimo",
+     "rating": 2446,
+     "last": "2026-10-15"
+    },
+    {
+     "id": 19152282,
+     "hops": 1,
+     "name": "Anubis",
+     "rating": 2152,
+     "last": "2024-08-13"
+    },
+    {
+     "id": 21447318,
+     "hops": 1,
+     "name": "_DonCagón",
+     "rating": 2370,
+     "last": "2025-11-15"
+    }
+   ]
+  },
+  "9558892": {
+   "name": "LE WilliamS",
+   "accounts": [
+    {
+     "id": 10795310,
+     "hops": 1,
+     "name": "LE | WilliamS",
+     "rating": 2320,
+     "last": "2026-09-15"
+    }
+   ]
+  },
+  "2366434": {
+   "name": "CTM Lelouch",
+   "accounts": [
+    {
+     "id": 3265324,
+     "hops": 1,
+     "name": "CTM | Lelouch ELO bajito",
+     "rating": 2079,
+     "last": "2026-10-20"
+    },
+    {
+     "id": 6387067,
+     "hops": 1,
+     "name": "CTM | Lelouch Jogo Bonito",
+     "rating": 2235,
+     "last": "2026-09-14"
+    },
+    {
+     "id": 6868823,
+     "hops": 1,
+     "name": "DK_Chris Evans",
+     "rating": 1769,
+     "last": "2024-08-17"
+    },
+    {
+     "id": 10037844,
+     "hops": 1,
+     "name": "CTM | Ligth",
+     "rating": 2156,
+     "last": "2026-08-08"
+    },
+    {
+     "id": 11618587,
+     "hops": 1,
+     "name": "CTM | Lelouch jugando borracho",
+     "rating": 2222,
+     "last": "2026-09-24"
+    },
+    {
+     "id": 15064195,
+     "hops": 1,
+     "name": "Combi | Controla tus palabras",
+     "rating": 1740,
+     "last": "2023-08-30"
+    }
+   ]
+  },
+  "4706179": {
+   "name": "CL Rey Enigmaaa",
+   "accounts": [
+    {
+     "id": 291851,
+     "hops": 1,
+     "name": "[CL] The Fabulous Merasmus",
+     "rating": 1731,
+     "last": "2026-09-28"
+    },
+    {
+     "id": 16859253,
+     "hops": 2,
+     "name": "Lord Of War con Tuberculosis",
+     "rating": null,
+     "last": null
+    },
+    {
+     "id": 23302301,
+     "hops": 2,
+     "name": "[CL] Tatán",
+     "rating": 1471,
+     "last": "2026-05-24"
+    },
+    {
+     "id": 23516254,
+     "hops": 2,
+     "name": "CL | PainFelipeJupyCastigador",
+     "rating": 2011,
+     "last": "2026-09-06"
+    }
+   ]
+  },
+  "5464646": {
+   "name": "VL Lil Franco",
+   "accounts": [
+    {
+     "id": 3634744,
+     "hops": 1,
+     "name": "Ferxxo",
+     "rating": 1998,
+     "last": "2026-04-09"
+    }
+   ]
+  },
+  "4229962": {
+   "name": "LvSP Réyiman",
+   "accounts": [
+    {
+     "id": 19299444,
+     "hops": 1,
+     "name": "Akira Toreyama",
+     "rating": null,
+     "last": null
+    }
+   ]
+  },
+  "6090060": {
+   "name": "noru",
+   "accounts": []
+  },
+  "9998167": {
+   "name": "CL lorecs",
+   "accounts": [
+    {
+     "id": 19725840,
+     "hops": 1,
+     "name": "SistemFix",
+     "rating": 1877,
+     "last": "2026-09-17"
+    },
+    {
+     "id": 21960667,
+     "hops": 1,
+     "name": "Raayz",
+     "rating": 1247,
+     "last": "2025-10-22"
+    },
+    {
+     "id": 24363928,
+     "hops": 1,
+     "name": "CuyLover",
+     "rating": 1494,
+     "last": "2026-09-07"
+    }
+   ]
+  },
+  "3244108": {
+   "name": "Legendario",
+   "accounts": [
+    {
+     "id": 6219826,
+     "hops": 1,
+     "name": "LE | dabighead",
+     "rating": 2025,
+     "last": "2026-08-02"
+    },
+    {
+     "id": 14179654,
+     "hops": 1,
+     "name": "Take",
+     "rating": 1984,
+     "last": "2023-07-04"
+    },
+    {
+     "id": 14734877,
+     "hops": 1,
+     "name": "Denniz",
+     "rating": 1971,
+     "last": "2024-02-04"
+    },
+    {
+     "id": 15685084,
+     "hops": 1,
+     "name": "Igor",
+     "rating": 1957,
+     "last": "2023-07-31"
+    }
+   ]
+  },
+  "633255": {
+   "name": "Tempo",
+   "accounts": []
+  },
+  "4234652": {
+   "name": "_The_Oldergold",
+   "accounts": []
+  },
+  "4167535": {
+   "name": "LE Dia franptom",
+   "accounts": [
+    {
+     "id": 5655708,
+     "hops": 1,
+     "name": "LE | Emaxcito2",
+     "rating": 1905,
+     "last": "2026-10-07"
+    },
+    {
+     "id": 19259037,
+     "hops": 1,
+     "name": "LE| valx1111",
+     "rating": null,
+     "last": null
+    }
+   ]
+  },
+  "3034651": {
+   "name": "MANCO II",
+   "accounts": []
+  },
+  "1865687": {
+   "name": "CTM Pentrus",
+   "accounts": [
+    {
+     "id": 1871383,
+     "hops": 1,
+     "name": "lopy32",
+     "rating": 1143,
+     "last": "2026-08-28"
+    },
+    {
+     "id": 3497130,
+     "hops": 1,
+     "name": "CTM | VaccumDestroyer",
+     "rating": 1646,
+     "last": "2026-10-19"
+    },
+    {
+     "id": 24380125,
+     "hops": 1,
+     "name": "alexandra1845",
+     "rating": null,
+     "last": null
+    },
+    {
+     "id": 25949563,
+     "hops": 1,
+     "name": "levatoan96",
+     "rating": null,
+     "last": null
+    }
+   ]
+  }
+ },
+ "ambiguous": []
+}

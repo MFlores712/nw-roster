@@ -144,21 +144,43 @@ def parse_live(data: dict, ours: set[int], now: datetime) -> dict[int, dict]:
     return live
 
 
-def fetch_live(official_ids: set[int], now: datetime) -> None:
-    """Fill _live. On failure nobody shows as live this run; never fatal."""
-    query = urlencode({"profile_ids": ",".join(map(str, sorted(official_ids))), "per_page": MATCH_PAGE})
-    req = Request(f"{MATCHES_URL}?{query}", headers={**HEADERS, "Accept": "application/json"})
-    for attempt in (1, 2):
-        try:
-            with urlopen(req, timeout=30) as resp:
-                data = json.loads(resp.read().decode("utf-8"))
-            _live.update(parse_live(data, official_ids, now))
-            print(f"== live now: {len(_live)} player(s)")
-            return
-        except TRANSIENT_ERRORS as e:
-            print(f"  ! live-match request failed (attempt {attempt}): {e}", file=sys.stderr)
-            if attempt == 1:
-                time.sleep(RETRY_DELAY_SECONDS)
+LIVE_CHUNK = 300  # account ids per matches request (URL length)
+
+
+def resolve_live(found: dict[int, dict], listed: set[int], owners: dict[int, tuple[int, str]]) -> dict[int, dict]:
+    """Map live accounts to listed players. A player's own listed account wins;
+    otherwise a linked account (smurf) counts, recorded as "account"."""
+    live = {pid: m for pid, m in found.items() if pid in listed}
+    for pid, m in found.items():
+        if pid not in listed and pid in owners:
+            owner, name = owners[pid]
+            live.setdefault(owner, {**m, "account": name})
+    return live
+
+
+def fetch_live(listed: set[int], owners: dict[int, tuple[int, str]], now: datetime) -> None:
+    """Fill _live from listed accounts plus every linked account (links.json).
+    A failed request just means fewer badges this run; never fatal."""
+    accounts = sorted(set(listed) | set(owners))
+    found: dict[int, dict] = {}
+    for i in range(0, len(accounts), LIVE_CHUNK):
+        chunk = accounts[i:i + LIVE_CHUNK]
+        query = urlencode({"profile_ids": ",".join(map(str, chunk)), "per_page": MATCH_PAGE})
+        req = Request(f"{MATCHES_URL}?{query}", headers={**HEADERS, "Accept": "application/json"})
+        for attempt in (1, 2):
+            try:
+                with urlopen(req, timeout=30) as resp:
+                    data = json.loads(resp.read().decode("utf-8"))
+                for pid, m in parse_live(data, set(chunk), now).items():
+                    found.setdefault(pid, m)
+                break
+            except TRANSIENT_ERRORS as e:
+                print(f"  ! live-match request failed (attempt {attempt}): {e}", file=sys.stderr)
+                if attempt == 1:
+                    time.sleep(RETRY_DELAY_SECONDS)
+    _live.update(resolve_live(found, listed, owners))
+    via = sum(1 for v in _live.values() if "account" in v)
+    print(f"== live now: {len(_live)} player(s) ({via} on a linked account; {len(accounts)} accounts checked)")
 
 
 def official_id(player: dict) -> int | None:
@@ -318,12 +340,64 @@ def update_roster(roster: dict, now: datetime) -> bool:
     return len(missing) < len(results)
 
 
+LINKS_PATH = ROOT / "docs" / "data" / "links.json"
+LINKS_SUMMARY = ROOT / "LINKED_ACCOUNTS.md"
+
+
+def listed_players() -> tuple[dict[int, str], list[tuple[str, list[int]]]]:
+    """official id -> display name for every listed player, and the per-roster
+    order (for the summary). Names come from the current data files."""
+    names, rosters = {}, []
+    for r in ROSTERS:
+        cfg, data = load_json(r["config"]), load_json(r["output"])
+        shown = {x["profile_id"]: ((x.get("clan") or "") + " " + x["tag"]).strip() for x in data.get("players", [])}
+        ids = []
+        for p in cfg["players"]:
+            oid = official_id(p)
+            if oid:
+                names.setdefault(oid, shown.get(p["id"]) or p.get("tag") or str(p["id"]))
+                ids.append(oid)
+        rosters.append((cfg.get("name") or cfg.get("clan_name"), ids))
+    return names, rosters
+
+
+def refresh_links(now: datetime, force: bool) -> dict:
+    """links.json, rebuilt once a day (first run after the 08:00 snapshot),
+    when a listed player isn't in it yet, or with --links. On failure the
+    previous file is kept."""
+    links = load_json(LINKS_PATH)
+    names, rosters = listed_players()
+    built = links.get("updated_at")
+    due = (force or not built or missing_from(links, names)
+           or datetime.fromisoformat(built.replace("Z", "+00:00")) < last_baseline_time(now))
+    if not due:
+        return links
+    import links as linkmap  # scripts/links.py
+    try:
+        t = time.time()
+        links = linkmap.build_links(names, HEADERS, now)
+        LINKS_PATH.write_text(json.dumps(links, indent=1, ensure_ascii=False), encoding="utf-8")
+        linkmap.write_summary(links, rosters, LINKS_SUMMARY)
+        n = sum(len(p["accounts"]) for p in links["players"].values())
+        print(f"== linked accounts rebuilt: {n} accounts for {len(names)} players, "
+              f"{len(links['ambiguous'])} ambiguous ({time.time() - t:.0f}s)")
+    except Exception as e:  # never let the link map break the ratings update
+        print(f"  ! linked-account rebuild failed, keeping the previous map: {e}", file=sys.stderr)
+    return links
+
+
+def missing_from(links: dict, names: dict[int, str]) -> bool:
+    return any(str(o) not in links.get("players", {}) for o in names)
+
+
 def main():
     now = datetime.now(timezone.utc)
     # One batched lookup for everyone on every roster (shared players once)
     everyone = {official_id(p) for r in ROSTERS for p in load_json(r["config"])["players"]} - {None}
     prefetch(everyone)
-    fetch_live(everyone, now)
+    links = refresh_links(now, "--links" in sys.argv[1:])
+    from links import account_owners
+    fetch_live(everyone, account_owners(links), now)
     ok = True
     for roster in ROSTERS:
         ok = update_roster(roster, now) and ok

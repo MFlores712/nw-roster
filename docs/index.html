@@ -417,8 +417,10 @@ function renderUpdated() {
 const MATCH_URL = id => `https://www.aoe2companion.com/matches/${encodeURIComponent(id)}`;
 function liveBadge(p) {
   if (!p.live) return '';
-  const tip = `In a game now (${p.live.game}) · open match`.replace(/"/g, '&quot;');
-  return `<span class="live no-export" role="link" tabindex="0" data-match="${escapeHtml(String(p.live.match))}" title="${escapeHtml(tip)}">LIVE</span>`;
+  // p.live.account is set when they're playing on a linked account (smurf)
+  const where = p.live.account ? ` on ${p.live.account}` : '';
+  const tip = `In a game now${where} (${p.live.game}) · open match`;
+  return `<span class="live no-export" role="link" tabindex="0" data-match="${escapeHtml(String(p.live.match))}" title="${escapeHtml(tip).replace(/"/g, '&quot;')}">LIVE</span>`;
 }
 
 function moveBadge(baseline, p, pos) {

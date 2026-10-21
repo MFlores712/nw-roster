@@ -94,6 +94,17 @@ differ; give those an `"official_id"` (find it with the API's `aliases`
 lookup by in-game name). `"official_id": null` means "not found yet": the
 player keeps their last known values.
 
+## Linked accounts (smurfs)
+
+`scripts/links.py` builds `docs/data/links.json` from aoe2companion's linked
+profiles: every account linked to a listed player, following links of links up
+to 4 deep, each given to its closest listed player (so two people are never
+merged through someone else's accounts). It is rebuilt once a day on the first
+run after 08:00 Mexico City (~4–5 min), whenever a listed player is missing from
+it, or with `python scripts/fetch_ratings.py --links`. The LIVE badge uses it:
+a player shows live when they're in a game on any of their accounts.
+`LINKED_ACCOUNTS.md` is the human-readable summary.
+
 ## Known limitations
 
 - aoe2insights.com was scraped until 2026-10-18, when it put its pages behind
