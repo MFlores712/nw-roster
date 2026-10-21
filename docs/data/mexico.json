@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-21T08:45:09Z",
+  "updated_at": "2026-10-21T09:00:14Z",
   "baseline": {
     "taken_at": "2026-10-20T14:00:15Z",
     "ranks": {
@@ -143,13 +143,9 @@
       "clan": "VENÓN",
       "cur_1v1": 2350,
       "max_1v1": 2394,
-      "cur_tg": 1791,
+      "cur_tg": 1806,
       "max_tg": 2099,
-      "last_1v1": "2026-10-20",
-      "live": {
-        "match": 515212351,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-20"
     },
     {
       "profile_id": 312774,
@@ -267,13 +263,9 @@
       "clan": "nW",
       "cur_1v1": 2094,
       "max_1v1": 2211,
-      "cur_tg": 1734,
+      "cur_tg": 1752,
       "max_tg": 2034,
-      "last_1v1": "2026-07-08",
-      "live": {
-        "match": 515212351,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-07-08"
     },
     {
       "profile_id": 12171002,
@@ -523,12 +515,7 @@
       "max_1v1": 1996,
       "cur_tg": 1820,
       "max_tg": 1821,
-      "last_1v1": "2026-09-18",
-      "live": {
-        "match": 515213776,
-        "game": "Quick Play 1v1 Random Map",
-        "account": "James P. Solivan"
-      }
+      "last_1v1": "2026-09-18"
     },
     {
       "profile_id": 324005,
