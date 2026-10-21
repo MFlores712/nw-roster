@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-21T03:55:09Z",
+  "updated_at": "2026-10-21T03:59:30Z",
   "baseline": {
     "taken_at": "2026-10-20T14:00:15Z",
     "ranks": {
@@ -122,7 +122,11 @@
       "max_1v1": 2433,
       "cur_tg": 2008,
       "max_tg": 2104,
-      "last_1v1": "2026-10-16"
+      "last_1v1": "2026-10-16",
+      "live": {
+        "match": 515187409,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 310739,
@@ -152,7 +156,12 @@
       "max_1v1": 2469,
       "cur_tg": 1832,
       "max_tg": 2072,
-      "last_1v1": "2026-10-20"
+      "last_1v1": "2026-10-20",
+      "live": {
+        "match": 515187409,
+        "game": "Team Random Map",
+        "account": "hK | Siesta"
+      }
     },
     {
       "profile_id": 2295504,
@@ -172,7 +181,12 @@
       "max_1v1": 2322,
       "cur_tg": 1968,
       "max_tg": 1982,
-      "last_1v1": "2026-10-17"
+      "last_1v1": "2026-10-17",
+      "live": {
+        "match": 515187409,
+        "game": "Team Random Map",
+        "account": "FierroFlash"
+      }
     },
     {
       "profile_id": 12723994,
@@ -239,15 +253,6 @@
         "game": "Team Random Map",
         "account": "Cawi"
       }
-    },
-    {
-      "profile_id": 4412109,
-      "tag": "HGB",
-      "cur_1v1": 2203,
-      "max_1v1": 2317,
-      "cur_tg": 2005,
-      "max_tg": 2083,
-      "last_1v1": "2026-05-30"
     },
     {
       "profile_id": 917863,
@@ -326,20 +331,6 @@
       "last_seen": "2026-05-21"
     },
     {
-      "profile_id": 13215279,
-      "tag": "GO1_mx",
-      "clan": "MZTK",
-      "cur_1v1": 2038,
-      "max_1v1": 2093,
-      "cur_tg": 1687,
-      "max_tg": 1860,
-      "last_1v1": "2026-10-21",
-      "live": {
-        "match": 515185889,
-        "game": "1v1 Random Map"
-      }
-    },
-    {
       "profile_id": 2850920,
       "tag": "Chimtzin",
       "clan": "Ux",
@@ -361,6 +352,16 @@
       "max_1v1": 2087,
       "cur_tg": 1826,
       "max_tg": 1997,
+      "last_1v1": "2026-10-21"
+    },
+    {
+      "profile_id": 13215279,
+      "tag": "GO1_mx",
+      "clan": "MZTK",
+      "cur_1v1": 2021,
+      "max_1v1": 2093,
+      "cur_tg": 1687,
+      "max_tg": 1860,
       "last_1v1": "2026-10-21"
     },
     {
@@ -401,6 +402,23 @@
       "cur_tg": 1718,
       "max_tg": 1735,
       "last_1v1": "2026-10-19"
+    },
+    {
+      "profile_id": 4412109,
+      "via": {
+        "id": 5195050,
+        "listed_last": "2026-05-30"
+      },
+      "tag": "HelloGoodBye_",
+      "cur_1v1": 1983,
+      "max_1v1": 2280,
+      "cur_tg": 1721,
+      "max_tg": 1966,
+      "last_1v1": "2026-09-10",
+      "live": {
+        "match": 515187409,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 2986966,

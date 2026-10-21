@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-21T03:55:09Z",
+  "updated_at": "2026-10-21T03:59:30Z",
   "baseline": {
     "taken_at": "2026-10-20T14:00:15Z",
     "ranks": {
@@ -54,16 +54,6 @@
       "last_1v1": "2026-10-20"
     },
     {
-      "profile_id": 2366434,
-      "tag": "Lelouch",
-      "clan": "CTM",
-      "cur_1v1": 2202,
-      "max_1v1": 2202,
-      "cur_tg": 1696,
-      "max_tg": 1827,
-      "last_1v1": "2026-07-01"
-    },
-    {
       "profile_id": 4706179,
       "tag": "Rey Enigmaaa",
       "clan": "CL",
@@ -92,6 +82,20 @@
       "cur_tg": 1832,
       "max_tg": 1932,
       "last_1v1": "2026-10-07"
+    },
+    {
+      "profile_id": 2366434,
+      "via": {
+        "id": 3265324,
+        "listed_last": "2026-07-01"
+      },
+      "tag": "Lelouch ELO bajito",
+      "clan": "CTM",
+      "cur_1v1": 2079,
+      "max_1v1": 2222,
+      "cur_tg": 1711,
+      "max_tg": 1767,
+      "last_1v1": "2026-10-20"
     },
     {
       "profile_id": 3244108,
