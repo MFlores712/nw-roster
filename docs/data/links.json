@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T05:20:09Z",
+ "updated_at": "2026-10-21T14:00:15Z",
  "players": {
   "22889810": {
    "name": "Manuel",
@@ -12,7 +12,7 @@
      "id": 3816609,
      "hops": 1,
      "name": "iamkaito",
-     "rating": 2249,
+     "rating": 2235,
      "last": "2026-10-21"
     }
    ]
@@ -727,8 +727,8 @@
      "id": 20927991,
      "hops": 1,
      "name": "FierroFlash",
-     "rating": 2289,
-     "last": "2026-10-20"
+     "rating": 2268,
+     "last": "2026-10-21"
     }
    ]
   },
@@ -1479,7 +1479,7 @@
    ]
   },
   "6431793": {
-   "name": "6431793",
+   "name": "NuMa Toth",
    "accounts": [
     {
      "id": 2984476,
@@ -1512,7 +1512,7 @@
    ]
   },
   "19029303": {
-   "name": "12722189",
+   "name": "CLB PEGASO",
    "accounts": [
     {
      "id": 22663219,
@@ -1524,7 +1524,7 @@
    ]
   },
   "5981761": {
-   "name": "5981761",
+   "name": "AiM Alexander the conqueror",
    "accounts": [
     {
      "id": 21919786,
@@ -1536,7 +1536,7 @@
    ]
   },
   "1542191": {
-   "name": "1542191",
+   "name": "obi11",
    "accounts": [
     {
      "id": 18493231,
@@ -1555,11 +1555,11 @@
    ]
   },
   "2134856": {
-   "name": "2134856",
+   "name": "Jacko",
    "accounts": []
   },
   "10733016": {
-   "name": "10733016",
+   "name": "The .Gocho",
    "accounts": []
   },
   "582058": {
@@ -1613,7 +1613,7 @@
    ]
   },
   "2366434": {
-   "name": "CTM Lelouch ELO bajito",
+   "name": "CTM Lelouch",
    "accounts": [
     {
      "id": 3265324,

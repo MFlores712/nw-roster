@@ -1,6 +1,6 @@
 # Linked accounts
 
-Generated 2026-10-21T05:20:09Z from aoe2companion's linked profiles (followed up to 4 links deep; each account belongs to the closest listed player).
+Generated 2026-10-21T14:00:15Z from aoe2companion's linked profiles (followed up to 4 links deep; each account belongs to the closest listed player).
 Used to show players LIVE when they play on any of their accounts. Ratings are RM 1v1.
 
 ## new Wave
@@ -8,7 +8,7 @@ Used to show players LIVE when they play on any of their accounts. Ratings are R
 | Player | Linked accounts |
 |---|---|
 | Manuel | — |
-| iamkaito | iamkaito (2249) |
+| iamkaito | iamkaito (2235) |
 | Caguamas | Fontana Bella (2076), Jose Ali (1660), Cawi (2223) |
 | Sgt.Pepper | Hozmi (2160) |
 | Abejorro | El_Abejorro (1609), Benito Juárez (—), Benito Camelo (—), Obsidian Dragon (1877) |
@@ -33,8 +33,8 @@ Used to show players LIVE when they play on any of their accounts. Ratings are R
 | VENÓN SiNisTeR | VENÓN / SiNisTeR (2409), SiNisTeR (2114), Taquería El Primo (2041), OrangeKato (—), DSLG / Acuna (1516, 2 links away), Pichulita Feli (—, 3 links away), DSLG / NotAcuna (1649, 3 links away), NotAcuna_ (1529, 3 links away) |
 | hK Puerco_Negro | THE_BLACK_PIG (—), PuercoBlackTG (—), BlukuUktan (—), blukuuktan (—), BlackAbE (—), puerco_white (—), Rook4Ever (1968), mamadejuannn (1793), RandomPlayer (1639), SecretFace (2150), osirismichelle95 (2008) |
 | hK Eren | hK  / Volg (2296), Rhaegar (1879), hK / Andobienmachinsobrelaidea (1886), Mexican Pyscho (1777), twitch.tv/sunshine_aoe (1843), Tryw (—), LE / Dimoking (1661, 2 links away), larryRy cañonga! (—, 2 links away) |
-| iamkaito | iamkaito (2249) |
-| hK ChossMx | FierroFlash (2289) |
+| iamkaito | iamkaito (2235) |
+| hK ChossMx | FierroFlash (2268) |
 | VN DarK_KnighT_ | 1106779817143 (1956) |
 | Caguamas | Fontana Bella (2076), Jose Ali (1660), Cawi (2223) |
 | hK Romell13 | ang (1788) |
@@ -85,12 +85,12 @@ Used to show players LIVE when they play on any of their accounts. Ratings are R
 | VENÓN Nicky | [GDL] Capitan Nicky (1841) |
 | Matazombies | — |
 | VENÓN Kevin | Chupapimuñeño (1873), GDL Kevin (387, 2 links away) |
-| 6431793 | NuMa / Toth (2001), SH / Toth (1801, 2 links away), Magio / Paradox (2037, 2 links away), CD JJ / Heda (1773, 2 links away) |
-| 12722189 | Ares (1783) |
-| 5981761 | alexnub (1405) |
-| 1542191 | orquideas (1878), Tintin (1881) |
-| 2134856 | — |
-| 10733016 | — |
+| NuMa Toth | NuMa / Toth (2001), SH / Toth (1801, 2 links away), Magio / Paradox (2037, 2 links away), CD JJ / Heda (1773, 2 links away) |
+| CLB PEGASO | Ares (1783) |
+| AiM Alexander the conqueror | alexnub (1405) |
+| obi11 | orquideas (1878), Tintin (1881) |
+| Jacko | — |
+| The .Gocho | — |
 
 ## Perú
 
@@ -99,7 +99,7 @@ Used to show players LIVE when they play on any of their accounts. Ratings are R
 | VIT Hearttt | X (—) |
 | Dimo | Dimo (2446), Anubis (2152), _DonCagón (2370) |
 | LE WilliamS | LE / WilliamS (2320) |
-| CTM Lelouch ELO bajito | CTM / Lelouch ELO bajito (2079), CTM / Lelouch Jogo Bonito (2235), DK_Chris Evans (1769), CTM / Ligth (2156), CTM / Lelouch jugando borracho (2222), Combi / Controla tus palabras (1740) |
+| CTM Lelouch | CTM / Lelouch ELO bajito (2079), CTM / Lelouch Jogo Bonito (2235), DK_Chris Evans (1769), CTM / Ligth (2156), CTM / Lelouch jugando borracho (2222), Combi / Controla tus palabras (1740) |
 | CL Rey Enigmaaa | [CL] The Fabulous Merasmus (1731), Lord Of War con Tuberculosis (—, 2 links away), [CL] Tatán (1471, 2 links away), CL / PainFelipeJupyCastigador (2011, 2 links away) |
 | VL Lil Franco | Ferxxo (1998) |
 | LvSP Réyiman | Akira Toreyama (—) |
