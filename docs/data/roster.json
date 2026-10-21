@@ -1,6 +1,6 @@
 {
   "name": "new Wave",
-  "updated_at": "2026-10-21T05:10:09Z",
+  "updated_at": "2026-10-21T05:15:19Z",
   "baseline": {
     "taken_at": "2026-10-20T14:00:15Z",
     "ranks": {
@@ -23,7 +23,7 @@
       "country": "Colombia",
       "cur_1v1": 2320,
       "max_1v1": 2410,
-      "cur_tg": 1845,
+      "cur_tg": 1832,
       "max_tg": 1882,
       "last_1v1": "2026-10-20"
     },
