@@ -288,7 +288,10 @@ def build_player(player: dict, prev: dict | None, prefixes: dict | None = None) 
     # out of the rank numbers.
     seen = [d for d in (result.get("last_1v1"), _linked_last.get(official_id(player))) if d]
     last_seen = max(seen) if seen else None
-    if last_seen is None or (_today - datetime.fromisoformat(last_seen).date()).days > INACTIVE_DAYS:
+    # "always_active": true in config exempts a player from this (by hand, per player).
+    if player.get("always_active"):
+        pass
+    elif last_seen is None or (_today - datetime.fromisoformat(last_seen).date()).days > INACTIVE_DAYS:
         result["inactive"] = True
         if last_seen:
             result["last_seen"] = last_seen
@@ -342,18 +345,19 @@ def fit_roster(baseline: dict, results: list) -> dict:
     """Keep the snapshot in step with config edits made since 08:00, so they
     don't cause arrows: removed players are dropped (closing their gap), and
     added players are slotted in at the place they first appear (no NEW badge,
-    and nobody shows a ▼ for being passed by them)."""
+    and nobody shows a ▼ for being passed by them). Players back from inactive
+    are slotted in the same way."""
     ids = [str(p["profile_id"]) for p in results if not p.get("inactive")]
-    inactive = set(baseline.get("inactive", []))
     kept = sorted((k for k in baseline["ranks"] if k in ids), key=baseline["ranks"].get)
     for i, pid in enumerate(ids):
-        if pid not in baseline["ranks"] and pid not in inactive:
+        if pid not in baseline["ranks"]:
             kept.insert(min(i, len(kept)), pid)
     ranks = {pid: i + 1 for i, pid in enumerate(kept)}
     if ranks == baseline["ranks"]:
         return baseline
-    return {**baseline, "ranks": ranks, "inactive": [k for k in baseline.get("inactive", [])
-                                                      if k in {str(p["profile_id"]) for p in results}]}
+    listed = {str(p["profile_id"]) for p in results}
+    return {**baseline, "ranks": ranks,
+            "inactive": [k for k in baseline.get("inactive", []) if k in listed and k not in ranks]}
 
 
 def migrate_baseline_keys(baseline: dict, players: list) -> dict:
