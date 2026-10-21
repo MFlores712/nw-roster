@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-21T19:05:10Z",
+  "updated_at": "2026-10-21T19:10:09Z",
   "baseline": {
     "taken_at": "2026-10-21T14:00:15Z",
     "ranks": {
@@ -279,6 +279,20 @@
       "last_1v1": "2026-10-21"
     },
     {
+      "profile_id": 580573,
+      "tag": "Puerco_Negro",
+      "clan": "hK",
+      "cur_1v1": 2101,
+      "max_1v1": 2350,
+      "cur_tg": 1840,
+      "max_tg": 1974,
+      "last_1v1": "2026-10-21",
+      "live": {
+        "match": 515311727,
+        "game": "1v1 Random Map"
+      }
+    },
+    {
       "profile_id": 1947348,
       "tag": "themariach1",
       "clan": "nW",
@@ -297,20 +311,6 @@
       "cur_tg": 1820,
       "max_tg": 1854,
       "last_1v1": "2026-10-16"
-    },
-    {
-      "profile_id": 580573,
-      "tag": "Puerco_Negro",
-      "clan": "hK",
-      "cur_1v1": 2073,
-      "max_1v1": 2350,
-      "cur_tg": 1840,
-      "max_tg": 1974,
-      "last_1v1": "2026-10-21",
-      "live": {
-        "match": 515311727,
-        "game": "1v1 Random Map"
-      }
     },
     {
       "profile_id": 2850920,
