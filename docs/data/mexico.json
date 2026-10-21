@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-21T18:50:09Z",
+  "updated_at": "2026-10-21T18:55:12Z",
   "baseline": {
     "taken_at": "2026-10-21T14:00:15Z",
     "ranks": {
@@ -121,6 +121,7 @@
     {
       "profile_id": 4221810,
       "tag": "Imfury_",
+      "clan": "hK",
       "cur_1v1": 2433,
       "max_1v1": 2433,
       "cur_tg": 2011,
