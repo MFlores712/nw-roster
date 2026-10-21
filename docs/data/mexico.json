@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-21T05:45:12Z",
+  "updated_at": "2026-10-21T06:05:09Z",
   "baseline": {
     "taken_at": "2026-10-20T14:00:15Z",
     "ranks": {
@@ -112,7 +112,7 @@
       "max_tg": 2151,
       "last_1v1": "2026-10-16",
       "live": {
-        "match": 515198152,
+        "match": 515200422,
         "game": "Team Random Map",
         "account": "[GDL] Frida"
       }
@@ -205,7 +205,7 @@
       "max_tg": 1922,
       "last_1v1": "2026-10-18",
       "live": {
-        "match": 515198152,
+        "match": 515200422,
         "game": "Team Random Map",
         "account": "VENÓN | 45 Dias habiles"
       }
