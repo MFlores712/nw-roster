@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-21T02:50:10Z",
+  "updated_at": "2026-10-21T02:55:08Z",
   "baseline": {
     "taken_at": "2026-10-20T14:00:15Z",
     "ranks": {
@@ -236,7 +236,11 @@
       "cur_1v1": 2182,
       "max_1v1": 2233,
       "cur_tg": 1819,
-      "max_tg": 1837
+      "max_tg": 1837,
+      "live": {
+        "match": 515179064,
+        "game": "1v1 Random Map"
+      }
     },
     {
       "profile_id": 5803221,
@@ -326,7 +330,7 @@
       "tag": "SynfonY",
       "cur_1v1": 2016,
       "max_1v1": 2020,
-      "cur_tg": 1790,
+      "cur_tg": 1777,
       "max_tg": 1962,
       "live": {
         "match": 515178112,
