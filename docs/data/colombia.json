@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-21T22:35:09Z",
+  "updated_at": "2026-10-21T22:55:08Z",
   "baseline": {
     "taken_at": "2026-10-21T14:00:15Z",
     "ranks": {
@@ -43,18 +43,13 @@
       "max_1v1": 2350,
       "cur_tg": 1788,
       "max_tg": 1828,
-      "last_1v1": "2026-10-19",
-      "live": {
-        "match": 515352065,
-        "game": "1v1 Random Map",
-        "account": "VoyMeta"
-      }
+      "last_1v1": "2026-10-19"
     },
     {
       "profile_id": 13267917,
       "tag": "Manuel",
       "clan": "nW",
-      "cur_1v1": 2288,
+      "cur_1v1": 2307,
       "max_1v1": 2410,
       "cur_tg": 1881,
       "max_tg": 1882,
