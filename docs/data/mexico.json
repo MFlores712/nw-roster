@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-21T05:30:12Z",
+  "updated_at": "2026-10-21T05:35:08Z",
   "baseline": {
     "taken_at": "2026-10-20T14:00:15Z",
     "ranks": {
@@ -92,13 +92,13 @@
       "profile_id": 13099159,
       "tag": "Uzzi",
       "clan": "Ux",
-      "cur_1v1": 2604,
+      "cur_1v1": 2594,
       "max_1v1": 2629,
       "cur_tg": 1794,
       "max_tg": 1999,
       "last_1v1": "2026-10-21",
       "live": {
-        "match": 515196879,
+        "match": 515197895,
         "game": "1v1 Random Map"
       }
     },
@@ -267,13 +267,9 @@
       "clan": "nW",
       "cur_1v1": 2094,
       "max_1v1": 2211,
-      "cur_tg": 1787,
+      "cur_tg": 1798,
       "max_tg": 2034,
-      "last_1v1": "2026-07-08",
-      "live": {
-        "match": 515194522,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-07-08"
     },
     {
       "profile_id": 12171002,
@@ -283,12 +279,7 @@
       "max_1v1": 2309,
       "cur_tg": 1820,
       "max_tg": 1854,
-      "last_1v1": "2026-10-16",
-      "live": {
-        "match": 515195964,
-        "game": "1v1 Random Map",
-        "account": "iamkaito"
-      }
+      "last_1v1": "2026-10-16"
     },
     {
       "profile_id": 580573,
