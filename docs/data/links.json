@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T04:55:08Z",
+ "updated_at": "2026-10-21T05:10:09Z",
  "players": {
   "22889810": {
    "name": "Manuel",
@@ -1238,7 +1238,7 @@
    "accounts": []
   },
   "233625": {
-   "name": "MooN MooN",
+   "name": "MooN",
    "accounts": [
     {
      "id": 1295034,
@@ -1271,7 +1271,7 @@
    ]
   },
   "1261126": {
-   "name": "1261126",
+   "name": "SotC Spirit",
    "accounts": [
     {
      "id": 6228629,
@@ -1754,6 +1754,93 @@
      "id": 25949563,
      "hops": 1,
      "name": "levatoan96",
+     "rating": null,
+     "last": null
+    }
+   ]
+  },
+  "24619298": {
+   "name": "13518993",
+   "accounts": [
+    {
+     "id": 2802420,
+     "hops": 1,
+     "name": "HR PUGRRITO",
+     "rating": 2107,
+     "last": "2026-08-11"
+    },
+    {
+     "id": 10450601,
+     "hops": 2,
+     "name": "Mini pug",
+     "rating": 1572,
+     "last": "2022-09-19"
+    },
+    {
+     "id": 10941888,
+     "hops": 2,
+     "name": "Panini",
+     "rating": null,
+     "last": null
+    },
+    {
+     "id": 11413804,
+     "hops": 2,
+     "name": "BACHIRA",
+     "rating": 1505,
+     "last": "2022-12-05"
+    },
+    {
+     "id": 12372316,
+     "hops": 2,
+     "name": "PN | FULL DEFEND",
+     "rating": 1785,
+     "last": "2023-06-09"
+    },
+    {
+     "id": 16245149,
+     "hops": 2,
+     "name": "Andreu pero sin manos",
+     "rating": 1823,
+     "last": "2024-05-11"
+    },
+    {
+     "id": 17573347,
+     "hops": 2,
+     "name": "Susy Diaz",
+     "rating": 1601,
+     "last": "2024-01-22"
+    },
+    {
+     "id": 19295158,
+     "hops": 2,
+     "name": "Ceviche de elite",
+     "rating": 1838,
+     "last": "2024-05-09"
+    },
+    {
+     "id": 22846276,
+     "hops": 2,
+     "name": "Pugrrito",
+     "rating": 2008,
+     "last": "2025-12-27"
+    },
+    {
+     "id": 25171883,
+     "hops": 2,
+     "name": "HR SHOKO",
+     "rating": 2076,
+     "last": "2026-08-03"
+    }
+   ]
+  },
+  "4210400": {
+   "name": "4210400",
+   "accounts": [
+    {
+     "id": 18674837,
+     "hops": 1,
+     "name": "julio123",
      "rating": null,
      "last": null
     }

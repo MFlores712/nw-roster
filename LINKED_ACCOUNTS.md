@@ -1,6 +1,6 @@
 # Linked accounts
 
-Generated 2026-10-21T04:55:08Z from aoe2companion's linked profiles (followed up to 4 links deep; each account belongs to the closest listed player).
+Generated 2026-10-21T05:10:09Z from aoe2companion's linked profiles (followed up to 4 links deep; each account belongs to the closest listed player).
 Used to show players LIVE when they play on any of their accounts. Ratings are RM 1v1.
 
 ## new Wave
@@ -67,8 +67,8 @@ Used to show players LIVE when they play on any of their accounts. Ratings are R
 | VL albafica | Niino (1912), Combi / elseñordeloshelados (1760, 2 links away), Combi / salario_minimo (—, 2 links away), Combi / crack (1679, 2 links away), Combi / niino (1726, 2 links away), VL Niino (1932, 2 links away), V (1832, 2 links away) |
 | Ux BlueUltra | — |
 | Ux Nova | — |
-| MooN MooN | Annlost13 (1712), Luna (1644), MooN / Lunatico (1831), al03069175 (1478) |
-| 1261126 | Capibarita (1645) |
+| MooN | Annlost13 (1712), Luna (1644), MooN / Lunatico (1831), al03069175 (1478) |
+| SotC Spirit | Capibarita (1645) |
 
 ## Colombia
 
@@ -106,3 +106,5 @@ Used to show players LIVE when they play on any of their accounts. Ratings are R
 | LE Dia franptom | LE / Emaxcito2 (1905), LE/ valx1111 (—) |
 | MANCO II | — |
 | CTM Pentrus | lopy32 (1143), CTM / VaccumDestroyer (1646), alexandra1845 (—), levatoan96 (—) |
+| 13518993 | HR PUGRRITO (2107), Mini pug (1572, 2 links away), Panini (—, 2 links away), BACHIRA (1505, 2 links away), PN / FULL DEFEND (1785, 2 links away), Andreu pero sin manos (1823, 2 links away), Susy Diaz (1601, 2 links away), Ceviche de elite (1838, 2 links away), Pugrrito (2008, 2 links away), HR SHOKO (2076, 2 links away) |
+| 4210400 | julio123 (—) |
