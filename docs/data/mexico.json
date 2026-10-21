@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-21T01:40:11Z",
+  "updated_at": "2026-10-21T01:45:09Z",
   "baseline": {
     "taken_at": "2026-10-20T14:00:15Z",
     "ranks": {
@@ -73,7 +73,11 @@
       "cur_1v1": 2660,
       "max_1v1": 2685,
       "cur_tg": 2086,
-      "max_tg": 2086
+      "max_tg": 2086,
+      "live": {
+        "match": 515168054,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 13099159,
@@ -108,7 +112,11 @@
       "cur_1v1": 2433,
       "max_1v1": 2433,
       "cur_tg": 1995,
-      "max_tg": 2104
+      "max_tg": 2104,
+      "live": {
+        "match": 515167705,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 310739,
@@ -117,7 +125,11 @@
       "cur_1v1": 2401,
       "max_1v1": 2484,
       "cur_tg": 1795,
-      "max_tg": 1959
+      "max_tg": 1959,
+      "live": {
+        "match": 515167705,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 1485562,
@@ -206,7 +218,11 @@
       "cur_1v1": 2203,
       "max_1v1": 2317,
       "cur_tg": 1992,
-      "max_tg": 2083
+      "max_tg": 2083,
+      "live": {
+        "match": 515167705,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 917863,
@@ -221,14 +237,10 @@
       "profile_id": 13138746,
       "tag": "FraKTal",
       "clan": "hK",
-      "cur_1v1": 2155,
+      "cur_1v1": 2168,
       "max_1v1": 2233,
       "cur_tg": 1855,
-      "max_tg": 1983,
-      "live": {
-        "match": 515164634,
-        "game": "1v1 Random Map"
-      }
+      "max_tg": 1983
     },
     {
       "profile_id": 5803221,
@@ -341,12 +353,8 @@
       "clan": "VL",
       "cur_1v1": 1952,
       "max_1v1": 1972,
-      "cur_tg": 1618,
-      "max_tg": 1824,
-      "live": {
-        "match": 515163800,
-        "game": "Team Random Map"
-      }
+      "cur_tg": 1632,
+      "max_tg": 1824
     },
     {
       "profile_id": 358501,
