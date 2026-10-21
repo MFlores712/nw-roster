@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-21T20:05:09Z",
+  "updated_at": "2026-10-21T20:10:10Z",
   "baseline": {
     "taken_at": "2026-10-21T14:00:15Z",
     "ranks": {
@@ -132,7 +132,7 @@
       "max_tg": 2104,
       "last_1v1": "2026-10-16",
       "live": {
-        "match": 515320101,
+        "match": 515327144,
         "game": "Team Random Map"
       }
     },
@@ -190,7 +190,7 @@
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
       "live": {
-        "match": 515320101,
+        "match": 515327144,
         "game": "Team Random Map"
       }
     },
@@ -263,7 +263,7 @@
       "profile_id": 13138746,
       "tag": "FraKTal",
       "clan": "hK",
-      "cur_1v1": 2183,
+      "cur_1v1": 2170,
       "max_1v1": 2233,
       "cur_tg": 1842,
       "max_tg": 1983,
@@ -316,7 +316,7 @@
       "max_tg": 1854,
       "last_1v1": "2026-10-16",
       "live": {
-        "match": 515320098,
+        "match": 515326807,
         "game": "1v1 Random Map",
         "account": "iamkaito"
       }
@@ -446,7 +446,7 @@
       "max_tg": 1966,
       "last_1v1": "2026-09-10",
       "live": {
-        "match": 515320101,
+        "match": 515327144,
         "game": "Team Random Map"
       }
     },
