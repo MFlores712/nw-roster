@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-21T06:25:08Z",
+  "updated_at": "2026-10-21T06:35:09Z",
   "baseline": {
     "taken_at": "2026-10-20T14:00:15Z",
     "ranks": {
@@ -110,12 +110,7 @@
       "max_1v1": 2573,
       "cur_tg": 2140,
       "max_tg": 2151,
-      "last_1v1": "2026-10-16",
-      "live": {
-        "match": 515200422,
-        "game": "Team Random Map",
-        "account": "[GDL] Frida"
-      }
+      "last_1v1": "2026-10-16"
     },
     {
       "profile_id": 401359,
@@ -184,12 +179,7 @@
       "max_1v1": 2322,
       "cur_tg": 1968,
       "max_tg": 1982,
-      "last_1v1": "2026-10-17",
-      "live": {
-        "match": 515202146,
-        "game": "Team Random Map",
-        "account": "FierroFlash"
-      }
+      "last_1v1": "2026-10-17"
     },
     {
       "profile_id": 12723994,
@@ -199,12 +189,7 @@
       "max_1v1": 2315,
       "cur_tg": 1821,
       "max_tg": 1922,
-      "last_1v1": "2026-10-18",
-      "live": {
-        "match": 515200422,
-        "game": "Team Random Map",
-        "account": "VENÓN | 45 Dias habiles"
-      }
+      "last_1v1": "2026-10-18"
     },
     {
       "profile_id": 9666666,
@@ -274,7 +259,11 @@
       "max_1v1": 2181,
       "cur_tg": 1638,
       "max_tg": 1652,
-      "last_1v1": "2026-10-21"
+      "last_1v1": "2026-10-21",
+      "live": {
+        "match": 515202749,
+        "game": "1v1 Random Map"
+      }
     },
     {
       "profile_id": 1947348,
@@ -521,12 +510,7 @@
       "max_1v1": 2060,
       "cur_tg": 1711,
       "max_tg": 1788,
-      "last_1v1": "2026-10-19",
-      "live": {
-        "match": 515202146,
-        "game": "Team Random Map",
-        "account": "hK | Charles Martel"
-      }
+      "last_1v1": "2026-10-19"
     },
     {
       "profile_id": 278380,
