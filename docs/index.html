@@ -88,6 +88,12 @@ body {
 .row:focus-visible { outline: 2px solid var(--gold-bright); outline-offset: -2px; }
 /* nW members on the country tabs: teal tint */
 .row.nw-member { background: rgba(var(--nw-teal), 0.13); }
+/* Inactive (no ranked 1v1 in 90+ days on any account): faded and gray. Colours
+   are overridden directly rather than with a grayscale filter, which the PNG
+   export doesn't support. */
+.row.inactive { opacity: 0.5; }
+.row.inactive .rank, .row.inactive .tag, .row.inactive .clan,
+.row.inactive .stat-num { color: var(--muted) !important; }
 .row.nw-member:hover { background: rgba(var(--nw-teal), 0.2); }
 .row.nw-member .clan { color: rgb(var(--nw-teal)); }
 .row:not(:last-child)::after {
@@ -179,7 +185,7 @@ body {
   /* Names stay on one line; "…" only if a very narrow phone can't fit one */
   .poster:not(.exporting) .tag { font-size: clamp(13px, 4vw, 18px); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
   /* Last resort for very long names: two lines (max), set by fitNames() */
-  .poster:not(.exporting) .tag.wrap { white-space: normal; line-height: 1.15; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
+  .poster:not(.exporting) .tag.wrap { white-space: normal; overflow-wrap: anywhere; line-height: 1.3; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
   .poster:not(.exporting) .stat-num { font-size: clamp(13px, 4vw, 19px); }
   .poster:not(.exporting) .stat-num.is-max { font-size: clamp(11px, 3.4vw, 15px); }
 
@@ -424,8 +430,10 @@ function liveBadge(p) {
 }
 
 function moveBadge(baseline, p, pos) {
-  if (!baseline || !baseline.ranks) return '';
+  if (!baseline || !baseline.ranks || p.inactive) return '';
   const before = baseline.ranks[String(p.profile_id)] ?? baseline.ranks[p.tag];  // older snapshots used names
+  // Inactive at 8:00 and back since: no arrow (they had no rank to move from)
+  if (before == null && (baseline.inactive || []).includes(String(p.profile_id))) return '';
   if (before == null) return '<span class="move new" title="New since 8:00 a.m.">NEW</span>';
   const d = before - pos;
   if (d > 0) return `<span class="move up" title="Up ${d} since 8:00 a.m.">▲${d}</span>`;
@@ -439,8 +447,20 @@ function render(data, lastCheck) {
 
   // Country rankings list more players than they show (show_top); the rest
   // are still tracked so they can climb in
-  const shown = data.show_top ? data.players.slice(0, data.show_top) : data.players;
-  shown.forEach((p, i) => {
+  // Inactive players (no ranked 1v1 on any of their accounts for 90+ days) keep
+  // their place but don't count: no rank number, and show_top counts only
+  // active players (inactive ones in between are shown too, faded).
+  const shown = [];
+  let active = 0;
+  for (const p of data.players) {
+    if (!p.inactive) {
+      if (data.show_top && active >= data.show_top) break;
+      active++;
+    }
+    shown.push({ p, rank: p.inactive ? null : active });
+  }
+  while (shown.length && shown[shown.length - 1].p.inactive) shown.pop();  // none trailing after the last active
+  shown.forEach(({ p, rank }) => {
     // Each row links to the player's aoe2insights profile
     const row = document.createElement('a');
     row.className = 'row';
@@ -450,10 +470,16 @@ function render(data, lastCheck) {
     row.target = '_blank';
     row.rel = 'noopener';
     row.title = `Open ${(p.clan ? p.clan + ' | ' : '') + p.tag} on aoe2insights`;
-    const rankLabel = i + 1;
+    if (p.inactive) {
+      row.classList.add('inactive');
+      row.title += p.last_seen
+        ? ` · Inactive: last ranked 1v1 on ${new Date(p.last_seen + 'T12:00:00Z').toLocaleDateString(undefined, { day: 'numeric', month: 'short', year: 'numeric' })}`
+        : ' · Inactive: no ranked 1v1 found';
+    }
+    const rankLabel = rank ?? '—';
     const clan = p.clan ? `<span class="clan">${escapeHtml(p.clan)}</span> ` : '';
     row.innerHTML = `
-      <div class="rank"><span>${rankLabel}</span>${moveBadge(data.baseline, p, i + 1)}</div>
+      <div class="rank"><span>${rankLabel}</span>${moveBadge(data.baseline, p, rank)}</div>
       <div class="who">
         <div class="tag">${clan}${escapeHtml(p.tag)}</div>${liveBadge(p)}
       </div>
@@ -484,24 +510,30 @@ function textWidth(el) {
   range.selectNodeContents(el);
   return range.getBoundingClientRect().width;
 }
+// Shrink one name to fit its box (never below MIN_NAME_PX); true if it fits.
+function shrinkToFit(t) {
+  t.style.fontSize = '';
+  // Aim a few px short of the edge: names that only just fit can still be
+  // cut off by small font-rendering differences between devices.
+  // A few passes: the clan tag has its own fixed size, so one proportional
+  // step can land slightly short.
+  const room = t.clientWidth - NAME_SLACK_PX;
+  for (let i = 0; i < 4 && textWidth(t) > room; i++) {
+    const px = parseFloat(getComputedStyle(t).fontSize);
+    if (px <= MIN_NAME_PX) break;
+    t.style.fontSize = Math.max(MIN_NAME_PX, Math.floor(px * room / textWidth(t) * 10) / 10 - 0.1) + 'px';
+  }
+  return textWidth(t) <= room;
+}
 function fitNames() {
   document.querySelectorAll('.tag').forEach(t => {
     t.style.fontSize = '';
     t.classList.remove('wrap');
     if (getComputedStyle(t).whiteSpace !== 'nowrap') return;  // phone layout only
-    // Aim a few px short of the edge: names that only just fit can still be
-    // cut off by small font-rendering differences between devices.
-    // A few passes: the clan tag has its own fixed size, so one proportional
-    // step can land slightly short.
-    const room = t.clientWidth - NAME_SLACK_PX;
-    for (let i = 0; i < 4 && textWidth(t) > room; i++) {
-      const px = parseFloat(getComputedStyle(t).fontSize);
-      if (px <= MIN_NAME_PX) break;
-      t.style.fontSize = Math.max(MIN_NAME_PX, Math.floor(px * room / textWidth(t) * 10) / 10 - 0.1) + 'px';
-    }
+    if (shrinkToFit(t)) return;
     // Still too long at the smallest size (e.g. "Alexander the conqueror"):
     // let it wrap onto a second line rather than cut it off
-    if (textWidth(t) > room && /\s/.test(t.textContent.trim())) t.classList.add('wrap');
+    if (/\s/.test(t.textContent.trim())) t.classList.add('wrap');
   });
 }
 function clearFit() {

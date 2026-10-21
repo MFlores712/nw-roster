@@ -12,11 +12,11 @@
     "VL ": "VL",
     "CL_": "CL"
   },
-  "_players": "Add \"clan\": \"TAG\" to a player to set their clan when it isn't in their name.",
+  "_players": "Add \"clan\": \"TAG\" to a player to set their clan when it isn't in their name, and \"tag\": \"Name\" to show a shorter name than their in-game one.",
   "players": [
     { "id": 2776293 },
     { "id": 5984120 },
-    { "id": 2920057 },
+    { "id": 2920057, "tag": "Lobo", "clan": "Ux" },
     { "id": 13099159, "official_id": 21627109 },
     { "id": 9449579 },
     { "id": 401359, "clan": "VENÓN" },
@@ -54,6 +54,7 @@
     { "id": 4412109 },
     { "id": 12723994, "official_id": 19041340 },
     { "id": 5803221 },
-    { "id": 1708286 }
+    { "id": 1708286 },
+    { "id": 9666666 }
   ]
 }

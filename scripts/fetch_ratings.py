@@ -92,6 +92,8 @@ def parse_stats(data: dict) -> dict[int, tuple[dict, tuple]]:
             ratings = out[m["profile_id"]][0]
             ratings[f"cur_{suffix}"] = s.get("rating")
             ratings[f"max_{suffix}"] = s.get("highestrating") or None
+            if suffix == "1v1" and s.get("lastmatchdate"):
+                ratings["last_1v1"] = datetime.fromtimestamp(s["lastmatchdate"], timezone.utc).strftime("%Y-%m-%d")
     return out
 
 
@@ -145,6 +147,12 @@ def parse_live(data: dict, ours: set[int], now: datetime) -> dict[int, dict]:
 
 
 LIVE_CHUNK = 300  # account ids per matches request (URL length)
+
+INACTIVE_DAYS = 90
+# Most recent ranked 1v1 date (YYYY-MM-DD) across each player's linked
+# accounts, by owner official id; from links.json (refreshed daily).
+_linked_last: dict[int, str] = {}
+_today = datetime.now(timezone.utc).date()
 
 
 def resolve_live(found: dict[int, dict], listed: set[int], owners: dict[int, tuple[int, str]]) -> dict[int, dict]:
@@ -216,10 +224,12 @@ def build_player(player: dict, prev: dict | None, prefixes: dict | None = None) 
     ratings, (clan, name) = fetch_profile(player)
     clan, name = apply_clan_rules(clan, name, player, prefixes or {})
     result = {"profile_id": player["id"]}
-    if "tag" in player:                       # name fixed in config (nW roster)
+    if "tag" in player:                       # name fixed in config (nW roster, or a short name like "Lobo")
         result["tag"] = player["tag"]
         if "country" in player:
             result["country"] = player["country"]
+        if player.get("clan"):
+            result["clan"] = player["clan"]
     else:                                     # name from the API
         if name is None and prev:             # lookup failed: keep last known name
             clan, name = prev.get("clan"), prev.get("tag")
@@ -235,6 +245,18 @@ def build_player(player: dict, prev: dict | None, prefixes: dict | None = None) 
             result[f] = prev[f]
         if stale:
             result["stale"] = stale
+        if not result.get("last_1v1") and prev.get("last_1v1"):
+            result["last_1v1"] = prev["last_1v1"]
+
+    # Inactive: no ranked 1v1 on this account or any linked account for
+    # INACTIVE_DAYS. The page keeps their place but fades them and leaves them
+    # out of the rank numbers.
+    seen = [d for d in (result.get("last_1v1"), _linked_last.get(official_id(player))) if d]
+    last_seen = max(seen) if seen else None
+    if last_seen is None or (_today - datetime.fromisoformat(last_seen).date()).days > INACTIVE_DAYS:
+        result["inactive"] = True
+        if last_seen:
+            result["last_seen"] = last_seen
 
     live = _live.get(official_id(player))
     if live:
@@ -267,9 +289,17 @@ def next_baseline(prev_output: dict, results: list, now: datetime) -> dict:
     if taken and taken >= last_baseline_time(now):
         return migrate_baseline_keys(baseline, prev_output.get("players") or results)
     order = prev_output.get("players") or results
+    return snapshot(order, now)
+
+
+def snapshot(order: list, now: datetime) -> dict:
+    """Rank snapshot: active players numbered 1..n in order; inactive players
+    get no rank (listed separately, so the page shows no arrow for them)."""
+    active = [p for p in order if not p.get("inactive")]
     return {
         "taken_at": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "ranks": {str(p["profile_id"]): i + 1 for i, p in enumerate(order)},
+        "ranks": {str(p["profile_id"]): i + 1 for i, p in enumerate(active)},
+        "inactive": [str(p["profile_id"]) for p in order if p.get("inactive")],
     }
 
 
@@ -396,6 +426,12 @@ def main():
     everyone = {official_id(p) for r in ROSTERS for p in load_json(r["config"])["players"]} - {None}
     prefetch(everyone)
     links = refresh_links(now, "--links" in sys.argv[1:])
+    global _today
+    _today = now.date()
+    for oid, p in links.get("players", {}).items():
+        dates = [a["last"] for a in p["accounts"] if a.get("last")]
+        if dates:
+            _linked_last[int(oid)] = max(dates)
     from links import account_owners
     fetch_live(everyone, account_owners(links), now)
     ok = True

@@ -1,6 +1,6 @@
 # Linked accounts
 
-Generated 2026-10-21T01:16:53Z from aoe2companion's linked profiles (followed up to 4 links deep; each account belongs to the closest listed player).
+Generated 2026-10-21T03:30:41Z from aoe2companion's linked profiles (followed up to 4 links deep; each account belongs to the closest listed player).
 Used to show players LIVE when they play on any of their accounts. Ratings are RM 1v1.
 
 ## new Wave
@@ -9,7 +9,7 @@ Used to show players LIVE when they play on any of their accounts. Ratings are R
 |---|---|
 | Manuel | — |
 | iamkaito | iamkaito (2249) |
-| Caguamas | Fontana Bella (2076), Jose Ali (1660), Cawi (2243) |
+| Caguamas | Fontana Bella (2076), Jose Ali (1660), Cawi (2223) |
 | Sgt.Pepper | Hozmi (2160) |
 | Abejorro | El_Abejorro (1609), Benito Juárez (—), Benito Camelo (—), Obsidian Dragon (1877) |
 | AtilA | AtilA (1831) |
@@ -37,7 +37,7 @@ Used to show players LIVE when they play on any of their accounts. Ratings are R
 | iamkaito | iamkaito (2249) |
 | hK ChossMx | FierroFlash (2289) |
 | VN DarK_KnighT_ | 1106779817143 (1956) |
-| Caguamas | Fontana Bella (2076), Jose Ali (1660), Cawi (2243) |
+| Caguamas | Fontana Bella (2076), Jose Ali (1660), Cawi (2223) |
 | hK Romell13 | ang (1788) |
 | Sgt.Pepper | Hozmi (2160) |
 | Abejorro | El_Abejorro (1609), Benito Juárez (—), Benito Camelo (—), Obsidian Dragon (1877) |
@@ -61,6 +61,7 @@ Used to show players LIVE when they play on any of their accounts. Ratings are R
 | VENÓN PuNii | VENÓN / TIC TAC (2009), ERICH VON MANSTEIN (1856, 2 links away), VENÓN / Frida Lover (2052, 2 links away), ReBeL_Roshi (—, 2 links away), [5oy] RockLee_ (—, 2 links away), GaiSensei (1341, 2 links away), PIKACHU95 (973, 2 links away), OmegaFC (1232, 2 links away), MexicanoGenerico :( (2045, 2 links away), VENÓN / seemylame (2031, 2 links away), ReformedGGWP (2037, 2 links away) |
 | Mahmoud Ahmadinejad | emmanueldltq08 (1490) |
 | IamAlextremo | _WiZarD_ (1768), Combi / IamAlextremo (1956), Melano (—), IamSasha (2101), SIR Prosonazo (2136), ELO Forge (1739) |
+| 9666666 | — |
 
 ## Colombia
 
