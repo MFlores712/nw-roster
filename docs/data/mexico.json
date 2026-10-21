@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-21T03:50:08Z",
+  "updated_at": "2026-10-21T03:55:09Z",
   "baseline": {
     "taken_at": "2026-10-20T14:00:15Z",
     "ranks": {
@@ -111,26 +111,18 @@
       "clan": "VENÓN",
       "cur_1v1": 2484,
       "max_1v1": 2512,
-      "cur_tg": 2053,
+      "cur_tg": 2026,
       "max_tg": 2190,
-      "last_1v1": "2026-10-21",
-      "live": {
-        "match": 515183894,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-21"
     },
     {
       "profile_id": 4221810,
       "tag": "Imfury_",
       "cur_1v1": 2433,
       "max_1v1": 2433,
-      "cur_tg": 2027,
+      "cur_tg": 2008,
       "max_tg": 2104,
-      "last_1v1": "2026-10-16",
-      "live": {
-        "match": 515182804,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-16"
     },
     {
       "profile_id": 310739,
@@ -160,12 +152,7 @@
       "max_1v1": 2469,
       "cur_tg": 1832,
       "max_tg": 2072,
-      "last_1v1": "2026-10-20",
-      "live": {
-        "match": 515182804,
-        "game": "Team Random Map",
-        "account": "hK | Siesta"
-      }
+      "last_1v1": "2026-10-20"
     },
     {
       "profile_id": 2295504,
@@ -185,12 +172,7 @@
       "max_1v1": 2322,
       "cur_tg": 1968,
       "max_tg": 1982,
-      "last_1v1": "2026-10-17",
-      "live": {
-        "match": 515182804,
-        "game": "Team Random Map",
-        "account": "FierroFlash"
-      }
+      "last_1v1": "2026-10-17"
     },
     {
       "profile_id": 12723994,
@@ -263,13 +245,9 @@
       "tag": "HGB",
       "cur_1v1": 2203,
       "max_1v1": 2317,
-      "cur_tg": 2024,
+      "cur_tg": 2005,
       "max_tg": 2083,
-      "last_1v1": "2026-05-30",
-      "live": {
-        "match": 515182804,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-05-30"
     },
     {
       "profile_id": 917863,
@@ -362,6 +340,20 @@
       }
     },
     {
+      "profile_id": 2850920,
+      "tag": "Chimtzin",
+      "clan": "Ux",
+      "cur_1v1": 2033,
+      "max_1v1": 2124,
+      "cur_tg": 1635,
+      "max_tg": 1820,
+      "last_1v1": "2026-10-21",
+      "live": {
+        "match": 515187137,
+        "game": "1v1 Random Map"
+      }
+    },
+    {
       "profile_id": 1249720,
       "tag": "Asdrubald",
       "clan": "VN",
@@ -382,32 +374,13 @@
       "last_1v1": "2026-10-20"
     },
     {
-      "profile_id": 2850920,
-      "tag": "Chimtzin",
-      "clan": "Ux",
-      "cur_1v1": 2017,
-      "max_1v1": 2124,
-      "cur_tg": 1635,
-      "max_tg": 1820,
-      "last_1v1": "2026-10-20",
-      "live": {
-        "match": 515182823,
-        "game": "1v1 Random Map"
-      }
-    },
-    {
       "profile_id": 9770338,
       "tag": "SynfonY",
       "cur_1v1": 2016,
       "max_1v1": 2020,
       "cur_tg": 1787,
       "max_tg": 1962,
-      "last_1v1": "2026-10-16",
-      "live": {
-        "match": 515183894,
-        "game": "Team Random Map",
-        "account": "SynfonY"
-      }
+      "last_1v1": "2026-10-16"
     },
     {
       "profile_id": 6501299,
