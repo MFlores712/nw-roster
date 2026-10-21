@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-21T23:50:08Z",
+  "updated_at": "2026-10-21T23:55:08Z",
   "baseline": {
     "taken_at": "2026-10-21T14:00:15Z",
     "ranks": {
@@ -278,7 +278,11 @@
       "max_1v1": 2350,
       "cur_tg": 1840,
       "max_tg": 1974,
-      "last_1v1": "2026-10-21"
+      "last_1v1": "2026-10-21",
+      "live": {
+        "match": 515364792,
+        "game": "1v1 Random Map"
+      }
     },
     {
       "profile_id": 5803221,
@@ -354,20 +358,6 @@
       "last_1v1": "2026-10-21"
     },
     {
-      "profile_id": 1249720,
-      "tag": "Asdrubald",
-      "clan": "VN",
-      "cur_1v1": 2027,
-      "max_1v1": 2087,
-      "cur_tg": 1831,
-      "max_tg": 1997,
-      "last_1v1": "2026-10-21",
-      "live": {
-        "match": 515359476,
-        "game": "1v1 Random Map"
-      }
-    },
-    {
       "profile_id": 13215279,
       "tag": "GO1_mx",
       "clan": "MZTK",
@@ -376,6 +366,20 @@
       "cur_tg": 1687,
       "max_tg": 1860,
       "last_1v1": "2026-10-21"
+    },
+    {
+      "profile_id": 1249720,
+      "tag": "Asdrubald",
+      "clan": "VN",
+      "cur_1v1": 2014,
+      "max_1v1": 2087,
+      "cur_tg": 1831,
+      "max_tg": 1997,
+      "last_1v1": "2026-10-21",
+      "live": {
+        "match": 515364992,
+        "game": "1v1 Random Map"
+      }
     },
     {
       "profile_id": 6501299,
@@ -394,11 +398,7 @@
       "max_1v1": 2002,
       "cur_tg": 1613,
       "max_tg": 1631,
-      "last_1v1": "2026-10-21",
-      "live": {
-        "match": 515362939,
-        "game": "Unranked"
-      }
+      "last_1v1": "2026-10-21"
     },
     {
       "profile_id": 233625,
@@ -449,7 +449,11 @@
       "max_1v1": 2003,
       "cur_tg": 1403,
       "max_tg": 1412,
-      "last_1v1": "2026-10-21"
+      "last_1v1": "2026-10-21",
+      "live": {
+        "match": 515364792,
+        "game": "1v1 Random Map"
+      }
     },
     {
       "profile_id": 2986966,
