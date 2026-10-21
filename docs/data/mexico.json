@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-21T17:50:09Z",
+  "updated_at": "2026-10-21T17:55:08Z",
   "baseline": {
     "taken_at": "2026-10-21T14:00:15Z",
     "ranks": {
@@ -477,6 +477,16 @@
       "last_1v1": "2026-10-20"
     },
     {
+      "profile_id": 13241217,
+      "tag": "BlueUltra",
+      "clan": "Ux",
+      "cur_1v1": 1942,
+      "max_1v1": 1993,
+      "cur_tg": 1651,
+      "max_tg": 1688,
+      "last_1v1": "2026-10-21"
+    },
+    {
       "profile_id": 467847,
       "tag": "DoN.Vergas",
       "cur_1v1": 1940,
@@ -514,20 +524,6 @@
       "cur_tg": 1820,
       "max_tg": 1821,
       "last_1v1": "2026-09-18"
-    },
-    {
-      "profile_id": 13241217,
-      "tag": "BlueUltra",
-      "clan": "Ux",
-      "cur_1v1": 1921,
-      "max_1v1": 1993,
-      "cur_tg": 1651,
-      "max_tg": 1688,
-      "last_1v1": "2026-10-21",
-      "live": {
-        "match": 515292830,
-        "game": "1v1 Random Map"
-      }
     },
     {
       "profile_id": 324005,
