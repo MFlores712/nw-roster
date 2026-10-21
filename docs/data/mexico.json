@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-21T07:05:09Z",
+  "updated_at": "2026-10-21T07:10:10Z",
   "baseline": {
     "taken_at": "2026-10-20T14:00:15Z",
     "ranks": {
@@ -185,8 +185,8 @@
       "max_tg": 1982,
       "last_1v1": "2026-10-17",
       "live": {
-        "match": 515203312,
-        "game": "Team Random Map",
+        "match": 515206013,
+        "game": "1v1 Random Map",
         "account": "FierroFlash"
       }
     },
@@ -264,15 +264,11 @@
     {
       "profile_id": 5803221,
       "tag": "Mahmoud Ahmadinejad",
-      "cur_1v1": 2127,
+      "cur_1v1": 2108,
       "max_1v1": 2181,
       "cur_tg": 1638,
       "max_tg": 1652,
-      "last_1v1": "2026-10-21",
-      "live": {
-        "match": 515202749,
-        "game": "1v1 Random Map"
-      }
+      "last_1v1": "2026-10-21"
     },
     {
       "profile_id": 1947348,
@@ -515,12 +511,7 @@
       "max_1v1": 2060,
       "cur_tg": 1711,
       "max_tg": 1788,
-      "last_1v1": "2026-10-19",
-      "live": {
-        "match": 515203312,
-        "game": "Team Random Map",
-        "account": "hK | Charles Martel"
-      }
+      "last_1v1": "2026-10-19"
     },
     {
       "profile_id": 278380,
