@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-21T23:25:08Z",
+  "updated_at": "2026-10-21T23:35:11Z",
   "baseline": {
     "taken_at": "2026-10-21T14:00:15Z",
     "ranks": {
@@ -49,15 +49,11 @@
       "profile_id": 13267917,
       "tag": "Manuel",
       "clan": "nW",
-      "cur_1v1": 2307,
+      "cur_1v1": 2318,
       "max_1v1": 2410,
       "cur_tg": 1881,
       "max_tg": 1882,
-      "last_1v1": "2026-10-21",
-      "live": {
-        "match": 515357946,
-        "game": "1v1 Random Map"
-      }
+      "last_1v1": "2026-10-21"
     },
     {
       "profile_id": 2825261,
@@ -194,13 +190,9 @@
       "tag": "The .Gocho",
       "cur_1v1": 1814,
       "max_1v1": 1814,
-      "cur_tg": 1756,
+      "cur_tg": 1737,
       "max_tg": 1839,
-      "last_1v1": "2026-10-09",
-      "live": {
-        "match": 515357764,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-09"
     }
   ],
   "show_top": 15
