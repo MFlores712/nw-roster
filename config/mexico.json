@@ -1,7 +1,9 @@
 {
   "name": "México",
   "_show_top": "Only the best N players (by current 1v1) are shown; everyone listed is still checked, so others can climb in.",
-  "show_top": 35,
+  "show_top": 45,
+  "_page_size": "Split the shown players into pages of N (by active rank), switched with buttons under the list.",
+  "page_size": 15,
   "source": "aoe2insights.com",
   "_clan_prefixes": "Clans some players write into the name itself instead of 'TAG | name'. Matching prefixes are moved into the small clan tag.",
   "clan_prefixes": {
@@ -61,7 +63,7 @@
     { "id": 13192381, "official_id": 22430074 },
     { "id": 13241217, "official_id": 22736819 },
     { "id": 12472496, "official_id": 18816291 },
-    { "id": 233625 },
+    { "id": 233625, "tag": "MooN" },
     { "id": 1261126 }
   ]
 }

@@ -10,6 +10,7 @@ via GitHub Actions; the page itself is a static HTML file on GitHub Pages.
 ```
 config/players.json          the clan members — profile IDs, tags, countries
 config/{mexico,colombia,peru}.json   country rankings — IDs, clan rules, show_top
+                             (and page_size, which splits the shown players into pages)
 scripts/fetch_ratings.py     queries the stats API, writes docs/data/*.json
 docs/index.html              the live poster page (reads docs/data/*.json)
 docs/assets/logo_nW.png      clan logo

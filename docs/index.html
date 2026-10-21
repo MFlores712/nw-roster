@@ -70,6 +70,18 @@ body {
 .tab:hover { color: var(--gold); }
 .tab[aria-selected="true"] { color: var(--gold-bright); background: rgba(201,167,95,0.14); }
 .tab:focus-visible { outline: 2px solid var(--gold-bright); outline-offset: -2px; }
+/* Page buttons under a long ranking (page_size), same look as the tabs */
+.pager { display: flex; width: fit-content; margin: 22px auto 0; border: 1px solid var(--gold-dim); border-radius: 3px; overflow: hidden; }
+.pager:empty { display: none; }
+.page-btn {
+  padding: 5px 22px; background: transparent; border: 0; cursor: pointer;
+  font-family: 'EB Garamond', serif; font-size: 15px; letter-spacing: 1px; font-style: italic; font-weight: 500;
+  color: var(--muted); transition: color .15s, background .15s;
+}
+.page-btn + .page-btn { border-left: 1px solid var(--gold-dim); }
+.page-btn:hover { color: var(--gold); }
+.page-btn[aria-current="true"] { color: var(--gold-bright); background: rgba(201,167,95,0.14); }
+.page-btn:focus-visible { outline: 2px solid var(--gold-bright); outline-offset: -2px; }
 .roster { margin-top: 24px; width: 100%; position: relative; z-index: 2; }
 .col-headers, .row {
   display: grid;
@@ -171,6 +183,8 @@ body {
      tighter spacing, never wrap a label */
   .poster:not(.exporting) .tabs { width: 100%; max-width: 360px; }
   .poster:not(.exporting) .tab { flex: 1 1 auto; padding: 4px 4px; font-size: clamp(11px, 3.6vw, 14px); letter-spacing: 0.5px; white-space: nowrap; }
+  .poster:not(.exporting) .pager { margin-top: 14px; width: 100%; max-width: 360px; }
+  .poster:not(.exporting) .page-btn { flex: 1 1 auto; padding: 4px 4px; font-size: clamp(11px, 3.6vw, 14px); letter-spacing: 0.5px; white-space: nowrap; }
   .poster:not(.exporting) .col-headers { padding: 0 0 6px; }
   .poster:not(.exporting) .group-label { font-size: 10px; letter-spacing: 1.5px; }
   .poster:not(.exporting) .stat-label { font-size: 8px; letter-spacing: 0; }
@@ -229,6 +243,7 @@ body {
       <div class="stat h4"><div class="stat-label">Max</div></div>
     </div>
     <div id="rows"></div>
+    <div class="pager no-export" id="pager" aria-label="Ranking pages"></div>
   </div>
 
   <div class="footer">
@@ -260,12 +275,19 @@ const TABS = {
   peru:     { file: 'data/peru.json',     subtitle: 'Age of Empires II · Perú Ranking',     png: 'peru-ranking' },
 };
 let currentTab = 'nw';
+let currentPage = 1;      // tabs with page_size show one page of the ranking at a time
+let currentPageRange = '';  // e.g. "16-30", for the PNG filename
+let lastRender = null;    // [data, lastCheck], so switching pages needs no refetch
 let lastUpdatedAt = null;
 let loadSeq = 0;  // ignore responses from a tab the viewer has already left
 
-function tabFromHash() {
-  const t = location.hash.slice(1);
-  return TABS[t] ? t : 'nw';
+// "#mexico" or "#mexico-2" (page 2)
+function routeFromHash() {
+  const m = location.hash.slice(1).match(/^(.*?)(?:-(\d+))?$/);
+  return TABS[m[1]] ? { tab: m[1], page: Number(m[2]) || 1 } : { tab: 'nw', page: 1 };
+}
+function hashFor(tab, page) {
+  return tab === 'nw' ? '' : '#' + tab + (page > 1 ? '-' + page : '');
 }
 
 async function fetchRoster(file) {
@@ -292,9 +314,10 @@ async function fetchLastCheck() {
   }
 }
 
-async function loadTab(tab) {
+async function loadTab(tab, page = 1) {
   const seq = ++loadSeq;
   currentTab = tab;
+  currentPage = page;
   const cfg = TABS[tab];
   document.querySelectorAll('.tab').forEach(b => b.setAttribute('aria-selected', String(b.dataset.tab === tab)));
   document.getElementById('subtitle').textContent = cfg.subtitle;
@@ -303,6 +326,7 @@ async function loadTab(tab) {
     if (seq === loadSeq) render(data, lastCheck);
   } catch (err) {
     if (seq !== loadSeq) return;
+    document.getElementById('pager').innerHTML = '';
     document.getElementById('rows').innerHTML =
       '<div class="error">Couldn\'t load ranking data.<br>' + escapeHtml(err.message) + '</div>';
   }
@@ -384,7 +408,7 @@ async function downloadPoster() {
     const dataUrl = canvas.toDataURL('image/png');
     const a = document.createElement('a');
     a.href = dataUrl;
-    a.download = TABS[currentTab].png + '-' + new Date().toISOString().slice(0, 10) + '.png';
+    a.download = TABS[currentTab].png + (currentPageRange ? '-' + currentPageRange : '') + '-' + new Date().toISOString().slice(0, 10) + '.png';
     document.body.appendChild(a);
     a.click();
     a.remove();
@@ -442,6 +466,7 @@ function moveBadge(baseline, p, pos) {
 }
 
 function render(data, lastCheck) {
+  lastRender = [data, lastCheck];
   const rowsEl = document.getElementById('rows');
   rowsEl.innerHTML = '';
 
@@ -460,7 +485,7 @@ function render(data, lastCheck) {
     shown.push({ p, rank: p.inactive ? null : active });
   }
   while (shown.length && shown[shown.length - 1].p.inactive) shown.pop();  // none trailing after the last active
-  shown.forEach(({ p, rank }) => {
+  shown.filter(inPage(shown, data.page_size)).forEach(({ p, rank }) => {
     // Each row links to the player's aoe2insights profile
     const row = document.createElement('a');
     row.className = 'row';
@@ -501,11 +526,61 @@ function render(data, lastCheck) {
   });
   fitNames();
   document.fonts.ready.then(fitNames);  // re-fit once the web fonts have loaded
+  renderPager(shown, data.page_size);
 
   // Whichever is newer: last check, or last data change (covers API failures)
   const changed = data.updated_at ? new Date(data.updated_at) : null;
   lastUpdatedAt = [lastCheck, changed].filter(Boolean).sort((a, b) => b - a)[0] || null;
   renderUpdated();
+}
+
+// Paging (page_size in the data): page k holds active ranks size·(k−1)+1 … size·k.
+// A faded inactive player sits on the page of the next active player, i.e.
+// where their place falls. Clamps currentPage to the pages that exist.
+function pageCount(shown, size) {
+  const active = shown.filter(s => s.rank != null).length;
+  return size ? Math.max(1, Math.ceil(active / size)) : 1;
+}
+function inPage(shown, size) {
+  if (!size) return () => true;
+  currentPage = Math.min(currentPage, pageCount(shown, size));
+  const pageOf = new Map();
+  let next = null;
+  for (let i = shown.length - 1; i >= 0; i--) {
+    if (shown[i].rank != null) next = Math.ceil(shown[i].rank / size);
+    pageOf.set(shown[i], next);
+  }
+  return s => pageOf.get(s) === currentPage;
+}
+function renderPager(shown, size) {
+  const pager = document.getElementById('pager');
+  pager.innerHTML = '';
+  currentPageRange = '';
+  const pages = pageCount(shown, size);
+  if (!size || pages < 2) return;
+  const active = shown.filter(s => s.rank != null).length;
+  for (let k = 1; k <= pages; k++) {
+    const range = `${size * (k - 1) + 1}–${Math.min(size * k, active)}`;
+    const b = document.createElement('button');
+    b.type = 'button';
+    b.className = 'page-btn';
+    b.textContent = range;
+    b.setAttribute('aria-label', 'Ranks ' + range);
+    if (k === currentPage) {
+      b.setAttribute('aria-current', 'true');
+      currentPageRange = range.replace('–', '-');
+    }
+    b.addEventListener('click', () => {
+      if (k === currentPage) return;
+      currentPage = k;
+      history.pushState(null, '', hashFor(currentTab, k) || location.pathname + location.search);
+      render(...lastRender);
+      // The pager is under the list: bring the new page's first row into view
+      const roster = document.getElementById('roster');
+      if (roster.getBoundingClientRect().top < 0) roster.scrollIntoView({ block: 'start' });
+    });
+    pager.appendChild(b);
+  }
 }
 
 // On phones names are kept to one line. Long ones (e.g. "Ux'LobodeLaNieve")
@@ -570,13 +645,19 @@ document.getElementById('rows').addEventListener('click', openLiveMatch);
 document.getElementById('rows').addEventListener('keydown', openLiveMatch);
 document.querySelectorAll('.tab').forEach(b => b.addEventListener('click', () => {
   // The hash makes each tab linkable (…/nw-roster/#mexico); hashchange loads it
-  const hash = b.dataset.tab === 'nw' ? '' : '#' + b.dataset.tab;
+  // (a tab always opens on its first page)
+  const hash = hashFor(b.dataset.tab, 1);
   if (location.hash !== hash) history.pushState(null, '', hash || location.pathname + location.search);
   loadTab(b.dataset.tab);
 }));
-window.addEventListener('popstate', () => loadTab(tabFromHash()));
+window.addEventListener('popstate', () => {
+  const { tab, page } = routeFromHash();
+  if (tab === currentTab && lastRender) { currentPage = page; render(...lastRender); }
+  else loadTab(tab, page);
+});
 setInterval(renderUpdated, 30000);  // keep "X min ago" current
-loadTab(tabFromHash());
+const start = routeFromHash();
+loadTab(start.tab, start.page);
 </script>
 </body>
 </html>

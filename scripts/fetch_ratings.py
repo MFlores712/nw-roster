@@ -397,11 +397,14 @@ def update_roster(roster: dict, now: datetime) -> bool:
     # show_top: the page shows only the best N, but every listed player stays
     # in the file (and in the rank snapshot) so anyone can climb into the top N
     # and their arrow reflects their real previous position.
+    # page_size: the page splits the shown players into pages of N.
     show_top = config.get("show_top")
+    page_size = config.get("page_size")
     if (results == prev_output.get("players")
             and baseline == prev_output.get("baseline")
             and name == prev_output.get("name")
-            and show_top == prev_output.get("show_top")):
+            and show_top == prev_output.get("show_top")
+            and page_size == prev_output.get("page_size")):
         print(f"No rating changes — leaving {out_path.name} untouched")
     else:
         output = {
@@ -412,6 +415,8 @@ def update_roster(roster: dict, now: datetime) -> bool:
         }
         if show_top:
             output["show_top"] = show_top
+        if page_size:
+            output["page_size"] = page_size
         out_path.parent.mkdir(parents=True, exist_ok=True)
         out_path.write_text(json.dumps(output, indent=2, ensure_ascii=False), encoding="utf-8")
         print(f"Wrote {out_path}")
