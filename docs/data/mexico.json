@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-21T02:00:14Z",
+  "updated_at": "2026-10-21T02:05:09Z",
   "baseline": {
     "taken_at": "2026-10-20T14:00:15Z",
     "ranks": {
@@ -55,7 +55,11 @@
       "cur_1v1": 2725,
       "max_1v1": 2752,
       "cur_tg": 1763,
-      "max_tg": 1885
+      "max_tg": 1885,
+      "live": {
+        "match": 515171067,
+        "game": "1v1 Random Map"
+      }
     },
     {
       "profile_id": 2776293,
@@ -75,7 +79,7 @@
       "cur_tg": 2096,
       "max_tg": 2096,
       "live": {
-        "match": 515168054,
+        "match": 515171107,
         "game": "Team Random Map"
       }
     },
@@ -111,12 +115,8 @@
       "tag": "Imfury_",
       "cur_1v1": 2433,
       "max_1v1": 2433,
-      "cur_tg": 1995,
-      "max_tg": 2104,
-      "live": {
-        "match": 515167705,
-        "game": "Team Random Map"
-      }
+      "cur_tg": 2003,
+      "max_tg": 2104
     },
     {
       "profile_id": 310739,
@@ -124,12 +124,8 @@
       "clan": "hK",
       "cur_1v1": 2401,
       "max_1v1": 2484,
-      "cur_tg": 1795,
-      "max_tg": 1959,
-      "live": {
-        "match": 515167705,
-        "game": "Team Random Map"
-      }
+      "cur_tg": 1812,
+      "max_tg": 1959
     },
     {
       "profile_id": 1485562,
@@ -217,12 +213,8 @@
       "tag": "HGB",
       "cur_1v1": 2203,
       "max_1v1": 2317,
-      "cur_tg": 1992,
-      "max_tg": 2083,
-      "live": {
-        "match": 515167705,
-        "game": "Team Random Map"
-      }
+      "cur_tg": 2000,
+      "max_tg": 2083
     },
     {
       "profile_id": 917863,
@@ -358,7 +350,11 @@
       "cur_1v1": 1952,
       "max_1v1": 1972,
       "cur_tg": 1650,
-      "max_tg": 1824
+      "max_tg": 1824,
+      "live": {
+        "match": 515170798,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 358501,
