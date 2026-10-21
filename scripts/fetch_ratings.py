@@ -272,6 +272,11 @@ def build_player(player: dict, prev: dict | None, prefixes: dict | None = None) 
         if clan:
             result["clan"] = clan
     result.update(ratings)
+    # "1v1_from": <official id> in config takes the 1v1 numbers (current, max,
+    # last played) from another of the player's accounts; TG stays from this one.
+    alt = _stats.get(player.get("1v1_from"))
+    if alt:
+        result.update({k: alt[0][k] for k in ("cur_1v1", "max_1v1", "last_1v1") if alt[0].get(k) is not None})
 
     # Fallback to last known good value for any field that came back empty
     if prev:
@@ -485,8 +490,9 @@ def missing_from(links: dict, names: dict[int, str]) -> bool:
 def main():
     now = datetime.now(timezone.utc)
     # One batched lookup for everyone on every roster (shared players once)
-    everyone = {official_id(p) for r in ROSTERS for p in load_json(r["config"])["players"]} - {None}
-    prefetch(everyone)
+    configs = [p for r in ROSTERS for p in load_json(r["config"])["players"]]
+    everyone = {official_id(p) for p in configs} - {None}
+    prefetch(everyone | {p["1v1_from"] for p in configs if p.get("1v1_from")})
     links = refresh_links(now, "--links" in sys.argv[1:])
     global _today
     _today = now.date()
