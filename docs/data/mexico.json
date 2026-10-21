@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-21T00:35:08Z",
+  "updated_at": "2026-10-21T00:40:09Z",
   "baseline": {
     "taken_at": "2026-10-20T14:00:15Z",
     "ranks": {
@@ -230,18 +230,6 @@
       }
     },
     {
-      "profile_id": 5803221,
-      "tag": "Mahmoud Ahmadinejad",
-      "cur_1v1": 2161,
-      "max_1v1": 2181,
-      "cur_tg": 1638,
-      "max_tg": 1652,
-      "live": {
-        "match": 515153038,
-        "game": "1v1 Random Map"
-      }
-    },
-    {
       "profile_id": 13138746,
       "tag": "FraKTal",
       "clan": "hK",
@@ -249,6 +237,14 @@
       "max_1v1": 2233,
       "cur_tg": 1855,
       "max_tg": 1983
+    },
+    {
+      "profile_id": 5803221,
+      "tag": "Mahmoud Ahmadinejad",
+      "cur_1v1": 2149,
+      "max_1v1": 2181,
+      "cur_tg": 1638,
+      "max_tg": 1652
     },
     {
       "profile_id": 1947348,
@@ -433,14 +429,10 @@
     {
       "profile_id": 3254820,
       "tag": "__Chino",
-      "cur_1v1": 1879,
+      "cur_1v1": 1907,
       "max_1v1": 2003,
       "cur_tg": 1412,
-      "max_tg": 1412,
-      "live": {
-        "match": 515156771,
-        "game": "1v1 Random Map"
-      }
+      "max_tg": 1412
     }
   ],
   "show_top": 35
