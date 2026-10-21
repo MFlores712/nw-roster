@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-21T06:15:10Z",
+  "updated_at": "2026-10-21T06:20:11Z",
   "baseline": {
     "taken_at": "2026-10-20T14:00:15Z",
     "ranks": {
@@ -96,7 +96,11 @@
       "max_1v1": 2629,
       "cur_tg": 1794,
       "max_tg": 1999,
-      "last_1v1": "2026-10-21"
+      "last_1v1": "2026-10-21",
+      "live": {
+        "match": 515201626,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 9449579,
@@ -138,13 +142,9 @@
       "clan": "hK",
       "cur_1v1": 2401,
       "max_1v1": 2484,
-      "cur_tg": 1825,
+      "cur_tg": 1835,
       "max_tg": 1959,
-      "last_1v1": "2026-10-20",
-      "live": {
-        "match": 515198320,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-20"
     },
     {
       "profile_id": 1485562,
@@ -184,12 +184,7 @@
       "max_1v1": 2322,
       "cur_tg": 1968,
       "max_tg": 1982,
-      "last_1v1": "2026-10-17",
-      "live": {
-        "match": 515198320,
-        "game": "Team Random Map",
-        "account": "FierroFlash"
-      }
+      "last_1v1": "2026-10-17"
     },
     {
       "profile_id": 12723994,
@@ -284,7 +279,11 @@
       "max_1v1": 2211,
       "cur_tg": 1786,
       "max_tg": 2034,
-      "last_1v1": "2026-07-08"
+      "last_1v1": "2026-07-08",
+      "live": {
+        "match": 515201626,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 12171002,
@@ -294,7 +293,12 @@
       "max_1v1": 2309,
       "cur_tg": 1820,
       "max_tg": 1854,
-      "last_1v1": "2026-10-16"
+      "last_1v1": "2026-10-16",
+      "live": {
+        "match": 515201794,
+        "game": "1v1 Random Map",
+        "account": "iamkaito"
+      }
     },
     {
       "profile_id": 580573,
@@ -314,7 +318,11 @@
       "max_1v1": 2124,
       "cur_tg": 1635,
       "max_tg": 1820,
-      "last_1v1": "2026-10-21"
+      "last_1v1": "2026-10-21",
+      "live": {
+        "match": 515201626,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 1261126,
@@ -504,12 +512,7 @@
       "max_1v1": 2060,
       "cur_tg": 1711,
       "max_tg": 1788,
-      "last_1v1": "2026-10-19",
-      "live": {
-        "match": 515198320,
-        "game": "Team Random Map",
-        "account": "hK | Charles Martel"
-      }
+      "last_1v1": "2026-10-19"
     },
     {
       "profile_id": 278380,
