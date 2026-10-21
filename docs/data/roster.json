@@ -1,6 +1,6 @@
 {
   "name": "new Wave",
-  "updated_at": "2026-10-21T20:55:11Z",
+  "updated_at": "2026-10-21T21:10:10Z",
   "baseline": {
     "taken_at": "2026-10-21T14:00:15Z",
     "ranks": {
@@ -22,7 +22,7 @@
       "country": "Colombia",
       "cur_1v1": 2320,
       "max_1v1": 2410,
-      "cur_tg": 1852,
+      "cur_tg": 1863,
       "max_tg": 1882,
       "last_1v1": "2026-10-20",
       "live": {
@@ -56,7 +56,7 @@
       "country": "Mexico",
       "cur_1v1": 2085,
       "max_1v1": 2309,
-      "cur_tg": 1820,
+      "cur_tg": 1832,
       "max_tg": 1854,
       "last_1v1": "2026-10-16",
       "live": {
