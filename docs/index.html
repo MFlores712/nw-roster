@@ -444,6 +444,9 @@ function renderUpdated() {
 // LIVE badge for a player in a game right now (p.live from the update job).
 // The row is already a link to their profile and links can't nest, so this is
 // a span that behaves like a link (see the handler at the bottom).
+// aoe2insights profile ids equal official ids for accounts older than this
+// (checked up to ~10.7M; every mismatch seen so far is above 18M)
+const AOE2INSIGHTS_SAME_ID_BELOW = 12000000;
 const MATCH_URL = id => `https://www.aoe2companion.com/matches/${encodeURIComponent(id)}`;
 function liveBadge(p) {
   if (!p.live) return '';
@@ -497,12 +500,17 @@ function render(data, lastCheck) {
     row.title = `Open ${(p.clan ? p.clan + ' | ' : '') + p.tag} on aoe2insights`;
     if (p.via) {
       // Shown on a linked account because the listed one went inactive. We
-      // only know that account's official id, so link its aoe2companion page.
-      row.href = `https://www.aoe2companion.com/players/${encodeURIComponent(p.via.id)}`;
+      // only know that account's official id. Older accounts have the same id
+      // on aoe2insights; newer ones (official id above ~12M) don't, so those
+      // link aoe2companion, which uses official ids.
+      const site = p.via.id < AOE2INSIGHTS_SAME_ID_BELOW ? 'aoe2insights' : 'aoe2companion';
+      row.href = site === 'aoe2insights'
+        ? `https://www.aoe2insights.com/user/${encodeURIComponent(p.via.id)}/`
+        : `https://www.aoe2companion.com/players/${encodeURIComponent(p.via.id)}`;
       const since = p.via.listed_last
         ? ` since ${new Date(p.via.listed_last + 'T12:00:00Z').toLocaleDateString(undefined, { day: 'numeric', month: 'short', year: 'numeric' })}`
         : '';
-      row.title = `Open ${(p.clan ? p.clan + ' | ' : '') + p.tag} on aoe2companion · linked account (main account inactive${since})`;
+      row.title = `Open ${(p.clan ? p.clan + ' | ' : '') + p.tag} on ${site} · linked account (main account inactive${since})`;
     }
     if (p.inactive) {
       row.classList.add('inactive');
