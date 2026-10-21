@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-21T20:45:10Z",
+  "updated_at": "2026-10-21T20:50:09Z",
   "baseline": {
     "taken_at": "2026-10-21T14:00:15Z",
     "ranks": {
@@ -128,13 +128,9 @@
       "clan": "hK",
       "cur_1v1": 2433,
       "max_1v1": 2433,
-      "cur_tg": 2006,
+      "cur_tg": 2019,
       "max_tg": 2104,
-      "last_1v1": "2026-10-16",
-      "live": {
-        "match": 515327144,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-16"
     },
     {
       "profile_id": 310739,
@@ -144,11 +140,7 @@
       "max_1v1": 2484,
       "cur_tg": 1859,
       "max_tg": 1959,
-      "last_1v1": "2026-10-20",
-      "live": {
-        "match": 515320101,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-20"
     },
     {
       "profile_id": 1485562,
@@ -186,13 +178,9 @@
       "clan": "hK",
       "cur_1v1": 2322,
       "max_1v1": 2322,
-      "cur_tg": 1976,
+      "cur_tg": 1990,
       "max_tg": 1995,
-      "last_1v1": "2026-10-17",
-      "live": {
-        "match": 515327144,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-17"
     },
     {
       "profile_id": 12723994,
@@ -267,7 +255,11 @@
       "max_1v1": 2233,
       "cur_tg": 1842,
       "max_tg": 1983,
-      "last_1v1": "2026-10-21"
+      "last_1v1": "2026-10-21",
+      "live": {
+        "match": 515335023,
+        "game": "1v1 Random Map"
+      }
     },
     {
       "profile_id": 5803221,
@@ -440,11 +432,7 @@
       "max_1v1": 2280,
       "cur_tg": 1721,
       "max_tg": 1966,
-      "last_1v1": "2026-09-10",
-      "live": {
-        "match": 515327144,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-09-10"
     },
     {
       "profile_id": 235877,
