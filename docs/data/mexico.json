@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-21T00:25:09Z",
+  "updated_at": "2026-10-21T00:30:12Z",
   "baseline": {
     "taken_at": "2026-10-20T14:00:15Z",
     "ranks": {
@@ -112,7 +112,11 @@
       "cur_1v1": 2433,
       "max_1v1": 2433,
       "cur_tg": 1999,
-      "max_tg": 2104
+      "max_tg": 2104,
+      "live": {
+        "match": 515156788,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 310739,
@@ -210,7 +214,11 @@
       "cur_1v1": 2203,
       "max_1v1": 2317,
       "cur_tg": 1996,
-      "max_tg": 2083
+      "max_tg": 2083,
+      "live": {
+        "match": 515156788,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 917863,
@@ -269,7 +277,7 @@
       "cur_tg": 1840,
       "max_tg": 1974,
       "live": {
-        "match": 515154753,
+        "match": 515156287,
         "game": "1v1 Random Map"
       }
     },
@@ -288,7 +296,11 @@
       "cur_1v1": 2042,
       "max_1v1": 2087,
       "cur_tg": 1826,
-      "max_tg": 1997
+      "max_tg": 1997,
+      "live": {
+        "match": 515156287,
+        "game": "1v1 Random Map"
+      }
     },
     {
       "profile_id": 2876835,
@@ -421,12 +433,12 @@
     {
       "profile_id": 3254820,
       "tag": "__Chino",
-      "cur_1v1": 1890,
+      "cur_1v1": 1879,
       "max_1v1": 2003,
       "cur_tg": 1412,
       "max_tg": 1412,
       "live": {
-        "match": 515154021,
+        "match": 515156771,
         "game": "1v1 Random Map"
       }
     }
