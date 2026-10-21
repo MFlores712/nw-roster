@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-21T23:05:07Z",
+  "updated_at": "2026-10-21T23:10:09Z",
   "baseline": {
     "taken_at": "2026-10-21T14:00:15Z",
     "ranks": {
@@ -59,32 +59,24 @@
   },
   "players": [
     {
-      "profile_id": 5984120,
-      "tag": "Combito",
-      "clan": "Ux",
-      "cur_1v1": 2719,
-      "max_1v1": 2752,
-      "cur_tg": 1763,
-      "max_tg": 1885,
-      "last_1v1": "2026-10-21",
-      "live": {
-        "match": 515356840,
-        "game": "1v1 Random Map"
-      }
-    },
-    {
       "profile_id": 2776293,
       "tag": "Kingstone",
       "clan": "Oni",
-      "cur_1v1": 2676,
+      "cur_1v1": 2710,
       "max_1v1": 2867,
       "cur_tg": 2152,
       "max_tg": 2169,
-      "last_1v1": "2026-10-15",
-      "live": {
-        "match": 515356840,
-        "game": "1v1 Random Map"
-      }
+      "last_1v1": "2026-10-21"
+    },
+    {
+      "profile_id": 5984120,
+      "tag": "Combito",
+      "clan": "Ux",
+      "cur_1v1": 2685,
+      "max_1v1": 2752,
+      "cur_tg": 1763,
+      "max_tg": 1885,
+      "last_1v1": "2026-10-21"
     },
     {
       "profile_id": 2920057,
@@ -236,6 +228,16 @@
       "last_1v1": "2026-10-19"
     },
     {
+      "profile_id": 12171002,
+      "tag": "iamkaito",
+      "clan": "nW",
+      "cur_1v1": 2238,
+      "max_1v1": 2269,
+      "cur_tg": 1851,
+      "max_tg": 1854,
+      "last_1v1": "2026-10-21"
+    },
+    {
       "profile_id": 914665,
       "tag": "Caguamas",
       "clan": "nW",
@@ -293,16 +295,6 @@
       "cur_tg": 1752,
       "max_tg": 2034,
       "last_1v1": "2026-07-08"
-    },
-    {
-      "profile_id": 12171002,
-      "tag": "iamkaito",
-      "clan": "nW",
-      "cur_1v1": 2085,
-      "max_1v1": 2309,
-      "cur_tg": 1851,
-      "max_tg": 1854,
-      "last_1v1": "2026-10-16"
     },
     {
       "profile_id": 2850920,
@@ -445,13 +437,9 @@
       "clan": "VL",
       "cur_1v1": 1952,
       "max_1v1": 1972,
-      "cur_tg": 1633,
+      "cur_tg": 1612,
       "max_tg": 1824,
-      "last_1v1": "2026-10-13",
-      "live": {
-        "match": 515354219,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-13"
     },
     {
       "profile_id": 358501,
@@ -500,7 +488,11 @@
       "max_1v1": 2003,
       "cur_tg": 1403,
       "max_tg": 1412,
-      "last_1v1": "2026-10-21"
+      "last_1v1": "2026-10-21",
+      "live": {
+        "match": 515358390,
+        "game": "1v1 Random Map"
+      }
     },
     {
       "profile_id": 13241217,

@@ -1,6 +1,6 @@
 {
   "name": "new Wave",
-  "updated_at": "2026-10-21T23:05:07Z",
+  "updated_at": "2026-10-21T23:10:09Z",
   "baseline": {
     "taken_at": "2026-10-21T14:00:15Z",
     "ranks": {
@@ -31,6 +31,16 @@
       }
     },
     {
+      "profile_id": 12171002,
+      "tag": "iamkaito",
+      "country": "Mexico",
+      "cur_1v1": 2238,
+      "max_1v1": 2269,
+      "cur_tg": 1851,
+      "max_tg": 1854,
+      "last_1v1": "2026-10-21"
+    },
+    {
       "profile_id": 914665,
       "tag": "Caguamas",
       "country": "Mexico",
@@ -49,16 +59,6 @@
       "cur_tg": 1752,
       "max_tg": 2034,
       "last_1v1": "2026-07-08"
-    },
-    {
-      "profile_id": 12171002,
-      "tag": "iamkaito",
-      "country": "Mexico",
-      "cur_1v1": 2085,
-      "max_1v1": 2309,
-      "cur_tg": 1851,
-      "max_tg": 1854,
-      "last_1v1": "2026-10-16"
     },
     {
       "profile_id": 2876835,
