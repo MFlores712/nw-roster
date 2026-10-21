@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-21T00:20:08Z",
+  "updated_at": "2026-10-21T00:25:09Z",
   "baseline": {
     "taken_at": "2026-10-20T14:00:15Z",
     "ranks": {
@@ -252,19 +252,6 @@
       "max_tg": 2034
     },
     {
-      "profile_id": 580573,
-      "tag": "Puerco_Negro",
-      "clan": "hK",
-      "cur_1v1": 2086,
-      "max_1v1": 2350,
-      "cur_tg": 1840,
-      "max_tg": 1974,
-      "live": {
-        "match": 515154753,
-        "game": "1v1 Random Map"
-      }
-    },
-    {
       "profile_id": 12171002,
       "tag": "iamkaito",
       "clan": "nW",
@@ -274,15 +261,15 @@
       "max_tg": 1854
     },
     {
-      "profile_id": 1249720,
-      "tag": "Asdrubald",
-      "clan": "VN",
-      "cur_1v1": 2060,
-      "max_1v1": 2087,
-      "cur_tg": 1826,
-      "max_tg": 1997,
+      "profile_id": 580573,
+      "tag": "Puerco_Negro",
+      "clan": "hK",
+      "cur_1v1": 2061,
+      "max_1v1": 2350,
+      "cur_tg": 1840,
+      "max_tg": 1974,
       "live": {
-        "match": 515150982,
+        "match": 515154753,
         "game": "1v1 Random Map"
       }
     },
@@ -293,6 +280,15 @@
       "max_1v1": 2129,
       "cur_tg": 1499,
       "max_tg": 1818
+    },
+    {
+      "profile_id": 1249720,
+      "tag": "Asdrubald",
+      "clan": "VN",
+      "cur_1v1": 2042,
+      "max_1v1": 2087,
+      "cur_tg": 1826,
+      "max_tg": 1997
     },
     {
       "profile_id": 2876835,
