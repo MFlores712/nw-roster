@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-21T19:40:10Z",
+  "updated_at": "2026-10-21T19:55:10Z",
   "baseline": {
     "taken_at": "2026-10-21T14:00:15Z",
     "ranks": {
@@ -235,7 +235,7 @@
       "max_tg": 2050,
       "last_1v1": "2026-10-19",
       "live": {
-        "match": 515312851,
+        "match": 515323836,
         "game": "Team Random Map"
       }
     },
@@ -379,7 +379,11 @@
       "max_1v1": 2087,
       "cur_tg": 1839,
       "max_tg": 1997,
-      "last_1v1": "2026-10-21"
+      "last_1v1": "2026-10-21",
+      "live": {
+        "match": 515323836,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 13215279,
@@ -556,6 +560,19 @@
       "last_1v1": "2026-09-18"
     },
     {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1922,
+      "max_1v1": 2003,
+      "cur_tg": 1403,
+      "max_tg": 1412,
+      "last_1v1": "2026-10-21",
+      "live": {
+        "match": 515317988,
+        "game": "1v1 Random Map"
+      }
+    },
+    {
       "profile_id": 324005,
       "tag": "Narizberto",
       "clan": "VN",
@@ -574,19 +591,6 @@
       "cur_tg": 1736,
       "max_tg": 1805,
       "last_1v1": "2026-10-16"
-    },
-    {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1907,
-      "max_1v1": 2003,
-      "cur_tg": 1403,
-      "max_tg": 1412,
-      "last_1v1": "2026-10-21",
-      "live": {
-        "match": 515317988,
-        "game": "1v1 Random Map"
-      }
     }
   ],
   "show_top": 45,
