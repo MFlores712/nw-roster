@@ -1,6 +1,6 @@
 # Linked accounts
 
-Generated 2026-10-21T04:40:08Z from aoe2companion's linked profiles (followed up to 4 links deep; each account belongs to the closest listed player).
+Generated 2026-10-21T04:46:48Z from aoe2companion's linked profiles (followed up to 4 links deep; each account belongs to the closest listed player).
 Used to show players LIVE when they play on any of their accounts. Ratings are RM 1v1.
 
 ## new Wave
@@ -57,17 +57,18 @@ Used to show players LIVE when they play on any of their accounts. Ratings are R
 | SotC PerezPodrido | — |
 | __Chino | — |
 | SynfonY | SynfonY (—), The_Godfather (1648, 2 links away), Combi / Volker (1654, 2 links away), Stalingrado (2042, 2 links away), Zoschenko17 (—, 2 links away) |
-| HelloGoodBye_ | HelloGoodBye_ (1983) |
+| HGB | HelloGoodBye_ (1983) |
 | VENÓN PuNii | VENÓN / TIC TAC (2009), ERICH VON MANSTEIN (1856, 2 links away), VENÓN / Frida Lover (2052, 2 links away), ReBeL_Roshi (—, 2 links away), [5oy] RockLee_ (—, 2 links away), GaiSensei (1341, 2 links away), PIKACHU95 (973, 2 links away), OmegaFC (1232, 2 links away), VENÓN / 45 Dias habiles (2045, 2 links away), VENÓN / seemylame (2031, 2 links away), ReformedGGWP (2037, 2 links away) |
 | Mahmoud Ahmadinejad | emmanueldltq08 (1490) |
 | IamAlextremo | _WiZarD_ (1768), Combi / IamAlextremo (1956), Melano (—), IamSasha (2101), SIR Prosonazo (2136), ELO Forge (1739) |
 | Guki | — |
-| 2291749 | — |
-| 235877 | VENÓN / Meliodas (1905) |
-| Kiss | Kiss (1846), Horseman (1691, 2 links away) |
-| 13192381 | Niino (1912), Combi / elseñordeloshelados (1760, 2 links away), Combi / salario_minimo (—, 2 links away), Combi / crack (1679, 2 links away), Combi / niino (1726, 2 links away), VL Niino (1932, 2 links away), V (1832, 2 links away) |
-| 13241217 | — |
-| 12472496 | — |
+| Biner | — |
+| VENÓN AsMelodiant | VENÓN / Meliodas (1905) |
+| MZTK Kiss | Kiss (1846), Horseman (1691, 2 links away) |
+| VL albafica | Niino (1912), Combi / elseñordeloshelados (1760, 2 links away), Combi / salario_minimo (—, 2 links away), Combi / crack (1679, 2 links away), Combi / niino (1726, 2 links away), VL Niino (1932, 2 links away), V (1832, 2 links away) |
+| Ux BlueUltra | — |
+| Ux Nova | — |
+| 233625 | Annlost13 (1712), Luna (1644), MooN / Lunatico (1831), al03069175 (1478) |
 
 ## Colombia
 
