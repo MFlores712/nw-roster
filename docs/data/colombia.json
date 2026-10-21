@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-21T19:30:11Z",
+  "updated_at": "2026-10-21T19:50:09Z",
   "baseline": {
     "taken_at": "2026-10-21T14:00:15Z",
     "ranks": {
@@ -148,20 +148,6 @@
       "last_1v1": "2026-10-17"
     },
     {
-      "profile_id": 12722189,
-      "tag": "PEGASO",
-      "clan": "CLB",
-      "cur_1v1": 1870,
-      "max_1v1": 1889,
-      "cur_tg": 1747,
-      "max_tg": 1855,
-      "last_1v1": "2026-10-21",
-      "live": {
-        "match": 515318642,
-        "game": "1v1 Random Map"
-      }
-    },
-    {
       "profile_id": 5981761,
       "tag": "Alexander the conqueror",
       "clan": "AiM",
@@ -170,6 +156,20 @@
       "cur_tg": 1395,
       "max_tg": 1630,
       "last_1v1": "2026-10-21"
+    },
+    {
+      "profile_id": 12722189,
+      "tag": "PEGASO",
+      "clan": "CLB",
+      "cur_1v1": 1853,
+      "max_1v1": 1889,
+      "cur_tg": 1747,
+      "max_tg": 1855,
+      "last_1v1": "2026-10-21",
+      "live": {
+        "match": 515318642,
+        "game": "1v1 Random Map"
+      }
     },
     {
       "profile_id": 1542191,
