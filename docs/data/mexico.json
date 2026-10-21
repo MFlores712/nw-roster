@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-21T06:35:09Z",
+  "updated_at": "2026-10-21T06:40:09Z",
   "baseline": {
     "taken_at": "2026-10-20T14:00:15Z",
     "ranks": {
@@ -179,7 +179,12 @@
       "max_1v1": 2322,
       "cur_tg": 1968,
       "max_tg": 1982,
-      "last_1v1": "2026-10-17"
+      "last_1v1": "2026-10-17",
+      "live": {
+        "match": 515203312,
+        "game": "Team Random Map",
+        "account": "FierroFlash"
+      }
     },
     {
       "profile_id": 12723994,
@@ -510,7 +515,12 @@
       "max_1v1": 2060,
       "cur_tg": 1711,
       "max_tg": 1788,
-      "last_1v1": "2026-10-19"
+      "last_1v1": "2026-10-19",
+      "live": {
+        "match": 515203312,
+        "game": "Team Random Map",
+        "account": "hK | Charles Martel"
+      }
     },
     {
       "profile_id": 278380,
