@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-22T23:50:09Z",
+  "updated_at": "2026-10-22T23:55:07Z",
   "baseline": {
     "taken_at": "2026-10-22T14:00:17Z",
     "ranks": {
@@ -90,7 +90,11 @@
       "max_1v1": 2685,
       "cur_tg": 2097,
       "max_tg": 2105,
-      "last_1v1": "2026-10-22"
+      "last_1v1": "2026-10-22",
+      "live": {
+        "match": 515580925,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 13099159,
@@ -100,7 +104,11 @@
       "max_1v1": 2629,
       "cur_tg": 1833,
       "max_tg": 1999,
-      "last_1v1": "2026-10-21"
+      "last_1v1": "2026-10-21",
+      "live": {
+        "match": 515580925,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 9449579,
@@ -110,7 +118,12 @@
       "max_1v1": 2573,
       "cur_tg": 2140,
       "max_tg": 2151,
-      "last_1v1": "2026-10-16"
+      "last_1v1": "2026-10-16",
+      "live": {
+        "match": 515580925,
+        "game": "Team Random Map",
+        "account": "VENÓN | Mauricio"
+      }
     },
     {
       "profile_id": 401359,
@@ -130,7 +143,11 @@
       "max_1v1": 2433,
       "cur_tg": 2046,
       "max_tg": 2104,
-      "last_1v1": "2026-10-16"
+      "last_1v1": "2026-10-16",
+      "live": {
+        "match": 515581327,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 310739,
@@ -150,7 +167,11 @@
       "max_1v1": 2394,
       "cur_tg": 1795,
       "max_tg": 2099,
-      "last_1v1": "2026-10-22"
+      "last_1v1": "2026-10-22",
+      "live": {
+        "match": 515580925,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 312774,
@@ -220,7 +241,12 @@
       "max_1v1": 2368,
       "cur_tg": 2182,
       "max_tg": 2227,
-      "last_1v1": "2026-10-19"
+      "last_1v1": "2026-10-19",
+      "live": {
+        "match": 515580925,
+        "game": "Team Random Map",
+        "account": "VENÓN | SiNisTeR"
+      }
     },
     {
       "profile_id": 757886,
@@ -399,7 +425,11 @@
       "max_1v1": 2280,
       "cur_tg": 1721,
       "max_tg": 1966,
-      "last_1v1": "2026-09-10"
+      "last_1v1": "2026-09-10",
+      "live": {
+        "match": 515581327,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 2934597,
@@ -452,7 +482,11 @@
       "max_1v1": 2003,
       "cur_tg": 1403,
       "max_tg": 1412,
-      "last_1v1": "2026-10-22"
+      "last_1v1": "2026-10-22",
+      "live": {
+        "match": 515581158,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 3285258,
