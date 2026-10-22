@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-22T02:55:10Z",
+  "updated_at": "2026-10-22T03:00:12Z",
   "baseline": {
     "taken_at": "2026-10-21T14:00:15Z",
     "ranks": {
@@ -110,12 +110,7 @@
       "max_1v1": 2573,
       "cur_tg": 2140,
       "max_tg": 2151,
-      "last_1v1": "2026-10-16",
-      "live": {
-        "match": 515388997,
-        "game": "Team Random Map",
-        "account": "VENÓN | Mauricio"
-      }
+      "last_1v1": "2026-10-16"
     },
     {
       "profile_id": 401359,
@@ -123,13 +118,9 @@
       "clan": "VENÓN",
       "cur_1v1": 2484,
       "max_1v1": 2512,
-      "cur_tg": 2046,
+      "cur_tg": 2053,
       "max_tg": 2190,
-      "last_1v1": "2026-10-21",
-      "live": {
-        "match": 515388997,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-21"
     },
     {
       "profile_id": 4221810,
@@ -147,13 +138,9 @@
       "clan": "hK",
       "cur_1v1": 2414,
       "max_1v1": 2484,
-      "cur_tg": 1859,
+      "cur_tg": 1845,
       "max_tg": 1959,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515388997,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-22"
     },
     {
       "profile_id": 1485562,
@@ -171,13 +158,9 @@
       "clan": "hK",
       "cur_1v1": 2336,
       "max_1v1": 2469,
-      "cur_tg": 1832,
+      "cur_tg": 1819,
       "max_tg": 2072,
-      "last_1v1": "2026-10-20",
-      "live": {
-        "match": 515388997,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-20"
     },
     {
       "profile_id": 2295504,
@@ -275,13 +258,9 @@
       "clan": "hK",
       "cur_1v1": 2152,
       "max_1v1": 2233,
-      "cur_tg": 1857,
+      "cur_tg": 1843,
       "max_tg": 1983,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515388997,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-22"
     },
     {
       "profile_id": 5803221,
@@ -584,7 +563,11 @@
       "max_1v1": 1909,
       "cur_tg": 1736,
       "max_tg": 1805,
-      "last_1v1": "2026-10-16"
+      "last_1v1": "2026-10-16",
+      "live": {
+        "match": 515393165,
+        "game": "Team Random Map"
+      }
     }
   ],
   "show_top": 45,
