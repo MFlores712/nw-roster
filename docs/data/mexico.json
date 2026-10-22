@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-22T20:20:10Z",
+  "updated_at": "2026-10-22T20:30:14Z",
   "baseline": {
     "taken_at": "2026-10-22T14:00:17Z",
     "ranks": {
@@ -160,12 +160,7 @@
       "max_1v1": 2469,
       "cur_tg": 1856,
       "max_tg": 2072,
-      "last_1v1": "2026-10-20",
-      "live": {
-        "match": 515538837,
-        "game": "1v1 Random Map",
-        "account": "hK | RanDoM"
-      }
+      "last_1v1": "2026-10-20"
     },
     {
       "profile_id": 2295504,
@@ -562,13 +557,9 @@
       "clan": "Ux",
       "cur_1v1": 1909,
       "max_1v1": 1909,
-      "cur_tg": 1735,
+      "cur_tg": 1712,
       "max_tg": 1805,
-      "last_1v1": "2026-10-16",
-      "live": {
-        "match": 515542380,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-16"
     }
   ],
   "show_top": 45,
