@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T14:00:15Z",
+ "updated_at": "2026-10-22T14:00:17Z",
  "players": {
   "22889810": {
    "name": "Manuel",
@@ -12,8 +12,8 @@
      "id": 3816609,
      "hops": 1,
      "name": "iamkaito",
-     "rating": 2235,
-     "last": "2026-10-21"
+     "rating": 2285,
+     "last": "2026-10-22"
     }
    ]
   },
@@ -38,8 +38,8 @@
      "id": 10283755,
      "hops": 1,
      "name": "Cawi",
-     "rating": 2223,
-     "last": "2026-10-21"
+     "rating": 2232,
+     "last": "2026-10-22"
     }
    ]
   },
@@ -289,6 +289,13 @@
      "last": null
     },
     {
+     "id": 6912966,
+     "hops": 1,
+     "name": "Maruri",
+     "rating": null,
+     "last": null
+    },
+    {
      "id": 9646265,
      "hops": 1,
      "name": "El_Chompiras",
@@ -324,7 +331,7 @@
     {
      "id": 14928165,
      "hops": 1,
-     "name": "[GDL] Frida",
+     "name": "[GDL]CemenTox",
      "rating": 646,
      "last": "2026-10-11"
     },
@@ -445,13 +452,13 @@
      "id": 23101014,
      "hops": 1,
      "name": "hK | RanDoM",
-     "rating": 2322,
-     "last": "2026-10-20"
+     "rating": 2285,
+     "last": "2026-10-22"
     }
    ]
   },
   "4221810": {
-   "name": "Imfury_",
+   "name": "hK Imfury_",
    "accounts": [
     {
      "id": 5303231,
@@ -578,7 +585,7 @@
    ]
   },
   "580573": {
-   "name": "hK Puerco_Negro",
+   "name": "Bluku_Uktan",
    "accounts": [
     {
      "id": 2717438,
@@ -605,6 +612,13 @@
      "id": 5369403,
      "hops": 1,
      "name": "blukuuktan",
+     "rating": null,
+     "last": null
+    },
+    {
+     "id": 9307337,
+     "hops": 1,
+     "name": "lechon_negro",
      "rating": null,
      "last": null
     },
@@ -660,7 +674,7 @@
    ]
   },
   "2295504": {
-   "name": "hK Eren",
+   "name": "Eren",
    "accounts": [
     {
      "id": 5400817,
@@ -863,7 +877,7 @@
     {
      "id": 25209752,
      "hops": 1,
-     "name": "[GDL] Zuko",
+     "name": "EXILE | Zuko",
      "rating": 1676,
      "last": "2026-10-03"
     }
@@ -949,7 +963,7 @@
     {
      "id": 2131956,
      "hops": 1,
-     "name": "SynfonY",
+     "name": "CL_Zoschenko",
      "rating": null,
      "last": null
     },
@@ -1084,8 +1098,8 @@
      "id": 21203567,
      "hops": 1,
      "name": "emmanueldltq08",
-     "rating": 1490,
-     "last": "2026-10-20"
+     "rating": 1489,
+     "last": "2026-10-22"
     }
    ]
   },
@@ -1350,7 +1364,7 @@
      "id": 11832036,
      "hops": 3,
      "name": "VoyMeta",
-     "rating": 1613,
+     "rating": 1618,
      "last": "2026-10-21"
     }
    ]
@@ -1361,7 +1375,7 @@
     {
      "id": 2524306,
      "hops": 1,
-     "name": "Retember",
+     "name": "VL Retember",
      "rating": 2022,
      "last": "2026-10-19"
     },
@@ -1450,8 +1464,8 @@
      "id": 21164226,
      "hops": 1,
      "name": "[GDL] Capitan Nicky",
-     "rating": 1841,
-     "last": "2026-10-20"
+     "rating": 1824,
+     "last": "2026-10-22"
     }
    ]
   },
@@ -1824,8 +1838,8 @@
      "id": 3497130,
      "hops": 1,
      "name": "CTM | VaccumDestroyer",
-     "rating": 1646,
-     "last": "2026-10-19"
+     "rating": 1716,
+     "last": "2026-10-22"
     },
     {
      "id": 24380125,
