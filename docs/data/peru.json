@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-22T01:40:11Z",
+  "updated_at": "2026-10-22T01:45:08Z",
   "baseline": {
     "taken_at": "2026-10-21T14:00:15Z",
     "ranks": {
@@ -110,20 +110,20 @@
       "max_1v1": 2174,
       "cur_tg": 1572,
       "max_tg": 1834,
-      "last_1v1": "2026-10-21"
+      "last_1v1": "2026-10-21",
+      "live": {
+        "match": 515381745,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 6090060,
       "tag": "noru",
       "cur_1v1": 2031,
       "max_1v1": 2031,
-      "cur_tg": 1724,
+      "cur_tg": 1706,
       "max_tg": 1840,
-      "last_1v1": "2026-09-24",
-      "live": {
-        "match": 515376875,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-09-24"
     },
     {
       "profile_id": 1359694,
