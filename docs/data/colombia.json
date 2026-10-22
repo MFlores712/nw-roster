@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-22T22:30:12Z",
+  "updated_at": "2026-10-22T22:45:09Z",
   "baseline": {
     "taken_at": "2026-10-22T14:00:17Z",
     "ranks": {
@@ -107,15 +107,11 @@
     {
       "profile_id": 5368998,
       "tag": "Matazombies",
-      "cur_1v1": 1931,
-      "max_1v1": 1933,
+      "cur_1v1": 1953,
+      "max_1v1": 1953,
       "cur_tg": 1807,
       "max_tg": 1975,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515567814,
-        "game": "1v1 Random Map"
-      }
+      "last_1v1": "2026-10-22"
     },
     {
       "profile_id": 2479622,
