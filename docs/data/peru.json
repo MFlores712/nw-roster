@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-22T05:45:09Z",
+  "updated_at": "2026-10-22T06:10:09Z",
   "baseline": {
     "taken_at": "2026-10-21T14:00:15Z",
     "ranks": {
@@ -151,13 +151,9 @@
       "clan": "CL",
       "cur_1v1": 1992,
       "max_1v1": 2016,
-      "cur_tg": 1851,
+      "cur_tg": 1858,
       "max_tg": 1992,
-      "last_1v1": "2026-10-20",
-      "live": {
-        "match": 515412134,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-20"
     },
     {
       "profile_id": 3034651,
@@ -187,7 +183,7 @@
       "max_tg": 1608,
       "last_1v1": "2026-09-19",
       "live": {
-        "match": 515412591,
+        "match": 515414717,
         "game": "Quick Play 1v1 Random Map",
         "account": "lopy32"
       }
@@ -195,15 +191,11 @@
     {
       "profile_id": 4234652,
       "tag": "_The_Oldergold",
-      "cur_1v1": 1852,
+      "cur_1v1": 1840,
       "max_1v1": 1940,
       "cur_tg": 1498,
       "max_tg": 1719,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515411783,
-        "game": "1v1 Random Map"
-      }
+      "last_1v1": "2026-10-22"
     },
     {
       "profile_id": 4167535,
