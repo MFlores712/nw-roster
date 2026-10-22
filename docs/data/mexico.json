@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-22T03:35:09Z",
+  "updated_at": "2026-10-22T03:45:09Z",
   "baseline": {
     "taken_at": "2026-10-21T14:00:15Z",
     "ranks": {
@@ -119,7 +119,7 @@
       "clan": "VENÓN",
       "cur_1v1": 2484,
       "max_1v1": 2512,
-      "cur_tg": 2053,
+      "cur_tg": 2032,
       "max_tg": 2190,
       "last_1v1": "2026-10-21",
       "live": {
@@ -242,6 +242,16 @@
       "last_1v1": "2026-10-21"
     },
     {
+      "profile_id": 917863,
+      "tag": "Romell13",
+      "clan": "hK",
+      "cur_1v1": 2211,
+      "max_1v1": 2233,
+      "cur_tg": 1819,
+      "max_tg": 1837,
+      "last_1v1": "2026-10-22"
+    },
+    {
       "profile_id": 914665,
       "tag": "Caguamas",
       "clan": "nW",
@@ -249,20 +259,11 @@
       "max_1v1": 2241,
       "cur_tg": 1909,
       "max_tg": 2024,
-      "last_1v1": "2026-10-20"
-    },
-    {
-      "profile_id": 917863,
-      "tag": "Romell13",
-      "clan": "hK",
-      "cur_1v1": 2201,
-      "max_1v1": 2233,
-      "cur_tg": 1819,
-      "max_tg": 1837,
-      "last_1v1": "2026-10-21",
+      "last_1v1": "2026-10-20",
       "live": {
-        "match": 515397310,
-        "game": "1v1 Random Map"
+        "match": 515399584,
+        "game": "1v1 Random Map",
+        "account": "Cawi"
       }
     },
     {
@@ -304,20 +305,6 @@
       "last_1v1": "2026-07-08"
     },
     {
-      "profile_id": 2850920,
-      "tag": "Chimtzin",
-      "clan": "Ux",
-      "cur_1v1": 2056,
-      "max_1v1": 2124,
-      "cur_tg": 1633,
-      "max_tg": 1820,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515395350,
-        "game": "1v1 Random Map"
-      }
-    },
-    {
       "profile_id": 1249720,
       "tag": "Asdrubald",
       "clan": "VN",
@@ -347,6 +334,16 @@
       "last_1v1": "2026-03-21",
       "inactive": true,
       "last_seen": "2026-05-21"
+    },
+    {
+      "profile_id": 2850920,
+      "tag": "Chimtzin",
+      "clan": "Ux",
+      "cur_1v1": 2040,
+      "max_1v1": 2124,
+      "cur_tg": 1633,
+      "max_tg": 1820,
+      "last_1v1": "2026-10-22"
     },
     {
       "profile_id": 9770338,
