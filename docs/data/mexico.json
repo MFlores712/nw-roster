@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-22T23:35:10Z",
+  "updated_at": "2026-10-22T23:40:08Z",
   "baseline": {
     "taken_at": "2026-10-22T14:00:17Z",
     "ranks": {
@@ -66,11 +66,7 @@
       "max_1v1": 2752,
       "cur_tg": 1763,
       "max_tg": 1885,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515577239,
-        "game": "1v1 Random Map"
-      }
+      "last_1v1": "2026-10-22"
     },
     {
       "profile_id": 2776293,
@@ -118,12 +114,7 @@
       "max_1v1": 2573,
       "cur_tg": 2140,
       "max_tg": 2151,
-      "last_1v1": "2026-10-16",
-      "live": {
-        "match": 515577195,
-        "game": "Team Random Map",
-        "account": "VENÓN | Mauricio"
-      }
+      "last_1v1": "2026-10-16"
     },
     {
       "profile_id": 401359,
@@ -141,13 +132,9 @@
       "clan": "hK",
       "cur_1v1": 2433,
       "max_1v1": 2433,
-      "cur_tg": 2043,
+      "cur_tg": 2046,
       "max_tg": 2104,
-      "last_1v1": "2026-10-16",
-      "live": {
-        "match": 515575330,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-16"
     },
     {
       "profile_id": 310739,
@@ -155,13 +142,9 @@
       "clan": "hK",
       "cur_1v1": 2432,
       "max_1v1": 2484,
-      "cur_tg": 1848,
+      "cur_tg": 1855,
       "max_tg": 1959,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515575330,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-22"
     },
     {
       "profile_id": 1485562,
@@ -169,13 +152,9 @@
       "clan": "VENÓN",
       "cur_1v1": 2353,
       "max_1v1": 2394,
-      "cur_tg": 1769,
+      "cur_tg": 1784,
       "max_tg": 2099,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515577195,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-22"
     },
     {
       "profile_id": 312774,
@@ -185,12 +164,7 @@
       "max_1v1": 2469,
       "cur_tg": 1856,
       "max_tg": 2072,
-      "last_1v1": "2026-10-20",
-      "live": {
-        "match": 515575330,
-        "game": "Team Random Map",
-        "account": "hK | Siesta"
-      }
+      "last_1v1": "2026-10-20"
     },
     {
       "profile_id": 2295504,
@@ -250,12 +224,7 @@
       "max_1v1": 2368,
       "cur_tg": 2182,
       "max_tg": 2227,
-      "last_1v1": "2026-10-19",
-      "live": {
-        "match": 515577195,
-        "game": "Team Random Map",
-        "account": "VENÓN | SiNisTeR"
-      }
+      "last_1v1": "2026-10-19"
     },
     {
       "profile_id": 757886,
@@ -434,11 +403,7 @@
       "max_1v1": 2280,
       "cur_tg": 1721,
       "max_tg": 1966,
-      "last_1v1": "2026-09-10",
-      "live": {
-        "match": 515575330,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-09-10"
     },
     {
       "profile_id": 2934597,
@@ -468,7 +433,11 @@
       "max_1v1": 1972,
       "cur_tg": 1617,
       "max_tg": 1824,
-      "last_1v1": "2026-10-13"
+      "last_1v1": "2026-10-13",
+      "live": {
+        "match": 515579195,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 358501,
@@ -546,7 +515,11 @@
       "max_1v1": 1970,
       "cur_tg": 1814,
       "max_tg": 1865,
-      "last_1v1": "2026-10-16"
+      "last_1v1": "2026-10-16",
+      "live": {
+        "match": 515579195,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 2969449,
