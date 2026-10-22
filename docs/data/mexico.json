@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-22T04:50:09Z",
+  "updated_at": "2026-10-22T04:55:09Z",
   "baseline": {
     "taken_at": "2026-10-21T14:00:15Z",
     "ranks": {
@@ -110,12 +110,7 @@
       "max_1v1": 2573,
       "cur_tg": 2140,
       "max_tg": 2151,
-      "last_1v1": "2026-10-16",
-      "live": {
-        "match": 515403352,
-        "game": "Team Random Map",
-        "account": "VENÓN | Mauricio"
-      }
+      "last_1v1": "2026-10-16"
     },
     {
       "profile_id": 401359,
@@ -123,13 +118,9 @@
       "clan": "VENÓN",
       "cur_1v1": 2484,
       "max_1v1": 2512,
-      "cur_tg": 2032,
+      "cur_tg": 2042,
       "max_tg": 2190,
-      "last_1v1": "2026-10-21",
-      "live": {
-        "match": 515403352,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-21"
     },
     {
       "profile_id": 4221810,
@@ -219,12 +210,7 @@
       "max_1v1": 2368,
       "cur_tg": 2182,
       "max_tg": 2227,
-      "last_1v1": "2026-10-19",
-      "live": {
-        "match": 515403352,
-        "game": "Team Random Map",
-        "account": "VENÓN | SiNisTeR"
-      }
+      "last_1v1": "2026-10-19"
     },
     {
       "profile_id": 757886,
@@ -332,11 +318,7 @@
       "max_1v1": 2124,
       "cur_tg": 1633,
       "max_tg": 1820,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515405049,
-        "game": "1v1 Random Map"
-      }
+      "last_1v1": "2026-10-22"
     },
     {
       "profile_id": 1708286,
@@ -366,11 +348,7 @@
       "max_1v1": 2152,
       "cur_tg": 1684,
       "max_tg": 1793,
-      "last_1v1": "2026-10-21",
-      "live": {
-        "match": 515403049,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-21"
     },
     {
       "profile_id": 13215279,
@@ -463,13 +441,9 @@
       "clan": "VENÓN",
       "cur_1v1": 1951,
       "max_1v1": 2115,
-      "cur_tg": 1785,
+      "cur_tg": 1778,
       "max_tg": 1820,
-      "last_1v1": "2026-10-18",
-      "live": {
-        "match": 515403352,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-18"
     },
     {
       "profile_id": 3254820,
