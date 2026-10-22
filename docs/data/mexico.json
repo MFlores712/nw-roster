@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-22T06:20:09Z",
+  "updated_at": "2026-10-22T06:25:08Z",
   "baseline": {
     "taken_at": "2026-10-21T14:00:15Z",
     "ranks": {
@@ -350,6 +350,16 @@
       }
     },
     {
+      "profile_id": 2876835,
+      "tag": "Abejorro",
+      "clan": "nW",
+      "cur_1v1": 2030,
+      "max_1v1": 2152,
+      "cur_tg": 1669,
+      "max_tg": 1793,
+      "last_1v1": "2026-10-22"
+    },
+    {
       "profile_id": 13215279,
       "tag": "GO1_mx",
       "clan": "MZTK",
@@ -358,20 +368,6 @@
       "cur_tg": 1702,
       "max_tg": 1860,
       "last_1v1": "2026-10-21"
-    },
-    {
-      "profile_id": 2876835,
-      "tag": "Abejorro",
-      "clan": "nW",
-      "cur_1v1": 2015,
-      "max_1v1": 2152,
-      "cur_tg": 1669,
-      "max_tg": 1793,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515414670,
-        "game": "1v1 Random Map"
-      }
     },
     {
       "profile_id": 6501299,
@@ -548,12 +544,7 @@
       "max_1v1": 1996,
       "cur_tg": 1820,
       "max_tg": 1821,
-      "last_1v1": "2026-09-18",
-      "live": {
-        "match": 515413116,
-        "game": "Unranked",
-        "account": "[GDL]BetoxAOE"
-      }
+      "last_1v1": "2026-09-18"
     },
     {
       "profile_id": 324005,
