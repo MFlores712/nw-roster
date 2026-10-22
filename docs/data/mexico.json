@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-22T05:55:08Z",
+  "updated_at": "2026-10-22T06:00:13Z",
   "baseline": {
     "taken_at": "2026-10-21T14:00:15Z",
     "ranks": {
@@ -549,7 +549,12 @@
       "max_1v1": 1996,
       "cur_tg": 1820,
       "max_tg": 1821,
-      "last_1v1": "2026-09-18"
+      "last_1v1": "2026-09-18",
+      "live": {
+        "match": 515413116,
+        "game": "Unranked",
+        "account": "[GDL]BetoxAOE"
+      }
     },
     {
       "profile_id": 324005,
