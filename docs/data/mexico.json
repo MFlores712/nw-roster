@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-22T06:55:10Z",
+  "updated_at": "2026-10-22T07:00:13Z",
   "baseline": {
     "taken_at": "2026-10-21T14:00:15Z",
     "ranks": {
@@ -151,11 +151,7 @@
       "max_1v1": 2394,
       "cur_tg": 1806,
       "max_tg": 2099,
-      "last_1v1": "2026-10-20",
-      "live": {
-        "match": 515417470,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-20"
     },
     {
       "profile_id": 312774,
@@ -225,12 +221,7 @@
       "max_1v1": 2269,
       "cur_tg": 1851,
       "max_tg": 1854,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515417168,
-        "game": "1v1 Random Map",
-        "account": "iamkaito"
-      }
+      "last_1v1": "2026-10-22"
     },
     {
       "profile_id": 757886,
@@ -342,6 +333,16 @@
       "last_seen": "2026-05-21"
     },
     {
+      "profile_id": 2876835,
+      "tag": "Abejorro",
+      "clan": "nW",
+      "cur_1v1": 2037,
+      "max_1v1": 2152,
+      "cur_tg": 1669,
+      "max_tg": 1793,
+      "last_1v1": "2026-10-22"
+    },
+    {
       "profile_id": 9770338,
       "tag": "SynfonY",
       "cur_1v1": 2032,
@@ -349,20 +350,6 @@
       "cur_tg": 1837,
       "max_tg": 1962,
       "last_1v1": "2026-10-21"
-    },
-    {
-      "profile_id": 2876835,
-      "tag": "Abejorro",
-      "clan": "nW",
-      "cur_1v1": 2030,
-      "max_1v1": 2152,
-      "cur_tg": 1669,
-      "max_tg": 1793,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515417626,
-        "game": "1v1 Random Map"
-      }
     },
     {
       "profile_id": 13215279,
