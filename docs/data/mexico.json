@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-22T02:15:09Z",
+  "updated_at": "2026-10-22T02:20:08Z",
   "baseline": {
     "taken_at": "2026-10-21T14:00:15Z",
     "ranks": {
@@ -256,15 +256,11 @@
       "profile_id": 13138746,
       "tag": "FraKTal",
       "clan": "hK",
-      "cur_1v1": 2158,
+      "cur_1v1": 2152,
       "max_1v1": 2233,
       "cur_tg": 1857,
       "max_tg": 1983,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515383436,
-        "game": "1v1 Random Map"
-      }
+      "last_1v1": "2026-10-22"
     },
     {
       "profile_id": 5803221,
@@ -295,16 +291,16 @@
       "last_1v1": "2026-07-08"
     },
     {
-      "profile_id": 2850920,
-      "tag": "Chimtzin",
-      "clan": "Ux",
-      "cur_1v1": 2058,
-      "max_1v1": 2124,
-      "cur_tg": 1633,
-      "max_tg": 1820,
-      "last_1v1": "2026-10-21",
+      "profile_id": 1249720,
+      "tag": "Asdrubald",
+      "clan": "VN",
+      "cur_1v1": 2050,
+      "max_1v1": 2087,
+      "cur_tg": 1831,
+      "max_tg": 1997,
+      "last_1v1": "2026-10-22",
       "live": {
-        "match": 515382740,
+        "match": 515386067,
         "game": "1v1 Random Map"
       }
     },
@@ -319,6 +315,20 @@
       "last_1v1": "2026-10-21"
     },
     {
+      "profile_id": 2850920,
+      "tag": "Chimtzin",
+      "clan": "Ux",
+      "cur_1v1": 2044,
+      "max_1v1": 2124,
+      "cur_tg": 1633,
+      "max_tg": 1820,
+      "last_1v1": "2026-10-22",
+      "live": {
+        "match": 515382740,
+        "game": "1v1 Random Map"
+      }
+    },
+    {
       "profile_id": 1708286,
       "tag": "IamAlextremo",
       "cur_1v1": 2044,
@@ -328,20 +338,6 @@
       "last_1v1": "2026-03-21",
       "inactive": true,
       "last_seen": "2026-05-21"
-    },
-    {
-      "profile_id": 1249720,
-      "tag": "Asdrubald",
-      "clan": "VN",
-      "cur_1v1": 2038,
-      "max_1v1": 2087,
-      "cur_tg": 1831,
-      "max_tg": 1997,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515386067,
-        "game": "1v1 Random Map"
-      }
     },
     {
       "profile_id": 9770338,
