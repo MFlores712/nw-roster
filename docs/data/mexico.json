@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-22T17:20:09Z",
+  "updated_at": "2026-10-22T17:25:09Z",
   "baseline": {
     "taken_at": "2026-10-22T14:00:17Z",
     "ranks": {
@@ -158,7 +158,7 @@
       "max_tg": 2072,
       "last_1v1": "2026-10-20",
       "live": {
-        "match": 515502041,
+        "match": 515506188,
         "game": "1v1 Random Map",
         "account": "hK | RanDoM"
       }
@@ -229,7 +229,7 @@
       "clan": "VN",
       "cur_1v1": 2258,
       "max_1v1": 2285,
-      "cur_tg": 1853,
+      "cur_tg": 1866,
       "max_tg": 2050,
       "last_1v1": "2026-10-19",
       "live": {
