@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-22T02:05:09Z",
+  "updated_at": "2026-10-22T02:10:09Z",
   "baseline": {
     "taken_at": "2026-10-21T14:00:15Z",
     "ranks": {
@@ -102,7 +102,7 @@
       "max_tg": 1764,
       "last_1v1": "2026-10-20",
       "live": {
-        "match": 515382081,
+        "match": 515385754,
         "game": "Team Random Map"
       }
     },
@@ -124,14 +124,19 @@
       "max_1v1": 1912,
       "cur_tg": 1900,
       "max_tg": 1905,
-      "last_1v1": "2026-09-21"
+      "last_1v1": "2026-09-21",
+      "live": {
+        "match": 515385754,
+        "game": "Team Random Map",
+        "account": "[GDL] Capitan Nicky"
+      }
     },
     {
       "profile_id": 5368998,
       "tag": "Matazombies",
       "cur_1v1": 1901,
       "max_1v1": 1933,
-      "cur_tg": 1780,
+      "cur_tg": 1791,
       "max_tg": 1975,
       "last_1v1": "2026-10-22",
       "live": {

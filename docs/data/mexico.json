@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-22T02:05:09Z",
+  "updated_at": "2026-10-22T02:10:09Z",
   "baseline": {
     "taken_at": "2026-10-21T14:00:15Z",
     "ranks": {
@@ -335,6 +335,20 @@
       "last_seen": "2026-05-21"
     },
     {
+      "profile_id": 1249720,
+      "tag": "Asdrubald",
+      "clan": "VN",
+      "cur_1v1": 2038,
+      "max_1v1": 2087,
+      "cur_tg": 1831,
+      "max_tg": 1997,
+      "last_1v1": "2026-10-22",
+      "live": {
+        "match": 515382429,
+        "game": "1v1 Random Map"
+      }
+    },
+    {
       "profile_id": 9770338,
       "tag": "SynfonY",
       "cur_1v1": 2032,
@@ -354,20 +368,6 @@
       "last_1v1": "2026-10-21"
     },
     {
-      "profile_id": 1249720,
-      "tag": "Asdrubald",
-      "clan": "VN",
-      "cur_1v1": 2025,
-      "max_1v1": 2087,
-      "cur_tg": 1831,
-      "max_tg": 1997,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515382429,
-        "game": "1v1 Random Map"
-      }
-    },
-    {
       "profile_id": 13215279,
       "tag": "GO1_mx",
       "clan": "MZTK",
@@ -375,7 +375,11 @@
       "max_1v1": 2093,
       "cur_tg": 1687,
       "max_tg": 1860,
-      "last_1v1": "2026-10-21"
+      "last_1v1": "2026-10-21",
+      "live": {
+        "match": 515385325,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 6501299,
@@ -394,7 +398,11 @@
       "max_1v1": 2002,
       "cur_tg": 1613,
       "max_tg": 1631,
-      "last_1v1": "2026-10-21"
+      "last_1v1": "2026-10-21",
+      "live": {
+        "match": 515384687,
+        "game": "Unranked"
+      }
     },
     {
       "profile_id": 233625,
@@ -467,6 +475,15 @@
       "last_1v1": "2026-10-18"
     },
     {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1951,
+      "max_1v1": 2003,
+      "cur_tg": 1403,
+      "max_tg": 1412,
+      "last_1v1": "2026-10-22"
+    },
+    {
       "profile_id": 3285258,
       "tag": "Kiss",
       "clan": "MZTK",
@@ -516,19 +533,6 @@
       "last_1v1": "2026-09-16"
     },
     {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1938,
-      "max_1v1": 2003,
-      "cur_tg": 1403,
-      "max_tg": 1412,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515381915,
-        "game": "1v1 Random Map"
-      }
-    },
-    {
       "profile_id": 4764520,
       "tag": "BooMBastic_",
       "clan": "KH",
@@ -538,7 +542,7 @@
       "max_tg": 1788,
       "last_1v1": "2026-10-19",
       "live": {
-        "match": 515384771,
+        "match": 515385325,
         "game": "Team Random Map"
       }
     },
