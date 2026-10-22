@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-22T04:25:09Z",
+  "updated_at": "2026-10-22T04:30:11Z",
   "baseline": {
     "taken_at": "2026-10-21T14:00:15Z",
     "ranks": {
@@ -313,20 +313,6 @@
       "last_1v1": "2026-07-08"
     },
     {
-      "profile_id": 2850920,
-      "tag": "Chimtzin",
-      "clan": "Ux",
-      "cur_1v1": 2051,
-      "max_1v1": 2124,
-      "cur_tg": 1633,
-      "max_tg": 1820,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515404196,
-        "game": "1v1 Random Map"
-      }
-    },
-    {
       "profile_id": 1249720,
       "tag": "Asdrubald",
       "clan": "VN",
@@ -356,6 +342,20 @@
       "last_1v1": "2026-03-21",
       "inactive": true,
       "last_seen": "2026-05-21"
+    },
+    {
+      "profile_id": 2850920,
+      "tag": "Chimtzin",
+      "clan": "Ux",
+      "cur_1v1": 2034,
+      "max_1v1": 2124,
+      "cur_tg": 1633,
+      "max_tg": 1820,
+      "last_1v1": "2026-10-22",
+      "live": {
+        "match": 515405049,
+        "game": "1v1 Random Map"
+      }
     },
     {
       "profile_id": 9770338,
@@ -407,11 +407,7 @@
       "max_1v1": 2002,
       "cur_tg": 1613,
       "max_tg": 1631,
-      "last_1v1": "2026-10-21",
-      "live": {
-        "match": 515402330,
-        "game": "Unranked"
-      }
+      "last_1v1": "2026-10-21"
     },
     {
       "profile_id": 233625,
@@ -498,13 +494,9 @@
       "clan": "MZTK",
       "cur_1v1": 1947,
       "max_1v1": 1993,
-      "cur_tg": 1660,
+      "cur_tg": 1671,
       "max_tg": 1858,
-      "last_1v1": "2026-10-06",
-      "live": {
-        "match": 515402531,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-06"
     },
     {
       "profile_id": 13192381,
