@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-22T22:20:09Z",
+  "updated_at": "2026-10-22T22:25:08Z",
   "baseline": {
     "taken_at": "2026-10-22T14:00:17Z",
     "ranks": {
@@ -62,15 +62,11 @@
       "profile_id": 5984120,
       "tag": "Combito",
       "clan": "Ux",
-      "cur_1v1": 2728,
+      "cur_1v1": 2731,
       "max_1v1": 2752,
       "cur_tg": 1763,
       "max_tg": 1885,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515563720,
-        "game": "1v1 Random Map"
-      }
+      "last_1v1": "2026-10-22"
     },
     {
       "profile_id": 2776293,
@@ -155,15 +151,11 @@
       "profile_id": 1485562,
       "tag": "MrOsoVC8",
       "clan": "VENÓN",
-      "cur_1v1": 2356,
+      "cur_1v1": 2353,
       "max_1v1": 2394,
       "cur_tg": 1779,
       "max_tg": 2099,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515563720,
-        "game": "1v1 Random Map"
-      }
+      "last_1v1": "2026-10-22"
     },
     {
       "profile_id": 312774,
