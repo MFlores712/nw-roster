@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-22T04:15:09Z",
+  "updated_at": "2026-10-22T04:20:09Z",
   "baseline": {
     "taken_at": "2026-10-21T14:00:15Z",
     "ranks": {
@@ -110,7 +110,12 @@
       "max_1v1": 2573,
       "cur_tg": 2140,
       "max_tg": 2151,
-      "last_1v1": "2026-10-16"
+      "last_1v1": "2026-10-16",
+      "live": {
+        "match": 515403352,
+        "game": "Team Random Map",
+        "account": "VENÓN | Mauricio"
+      }
     },
     {
       "profile_id": 401359,
@@ -120,7 +125,11 @@
       "max_1v1": 2512,
       "cur_tg": 2032,
       "max_tg": 2190,
-      "last_1v1": "2026-10-21"
+      "last_1v1": "2026-10-21",
+      "live": {
+        "match": 515403352,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 4221810,
@@ -128,7 +137,7 @@
       "clan": "hK",
       "cur_1v1": 2433,
       "max_1v1": 2433,
-      "cur_tg": 2005,
+      "cur_tg": 2010,
       "max_tg": 2104,
       "last_1v1": "2026-10-16",
       "live": {
@@ -214,7 +223,12 @@
       "max_1v1": 2368,
       "cur_tg": 2182,
       "max_tg": 2227,
-      "last_1v1": "2026-10-19"
+      "last_1v1": "2026-10-19",
+      "live": {
+        "match": 515403352,
+        "game": "Team Random Map",
+        "account": "VENÓN | SiNisTeR"
+      }
     },
     {
       "profile_id": 757886,
@@ -295,6 +309,20 @@
       "last_1v1": "2026-07-08"
     },
     {
+      "profile_id": 2850920,
+      "tag": "Chimtzin",
+      "clan": "Ux",
+      "cur_1v1": 2051,
+      "max_1v1": 2124,
+      "cur_tg": 1633,
+      "max_tg": 1820,
+      "last_1v1": "2026-10-22",
+      "live": {
+        "match": 515402432,
+        "game": "1v1 Random Map"
+      }
+    },
+    {
       "profile_id": 1249720,
       "tag": "Asdrubald",
       "clan": "VN",
@@ -324,20 +352,6 @@
       "last_1v1": "2026-03-21",
       "inactive": true,
       "last_seen": "2026-05-21"
-    },
-    {
-      "profile_id": 2850920,
-      "tag": "Chimtzin",
-      "clan": "Ux",
-      "cur_1v1": 2034,
-      "max_1v1": 2124,
-      "cur_tg": 1633,
-      "max_tg": 1820,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515402432,
-        "game": "1v1 Random Map"
-      }
     },
     {
       "profile_id": 9770338,
@@ -459,7 +473,11 @@
       "max_1v1": 2115,
       "cur_tg": 1785,
       "max_tg": 1820,
-      "last_1v1": "2026-10-18"
+      "last_1v1": "2026-10-18",
+      "live": {
+        "match": 515403352,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 3254820,
