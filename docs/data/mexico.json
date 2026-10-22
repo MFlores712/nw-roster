@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-22T03:05:08Z",
+  "updated_at": "2026-10-22T03:10:10Z",
   "baseline": {
     "taken_at": "2026-10-21T14:00:15Z",
     "ranks": {
@@ -72,15 +72,11 @@
       "profile_id": 5984120,
       "tag": "Combito",
       "clan": "Ux",
-      "cur_1v1": 2661,
+      "cur_1v1": 2670,
       "max_1v1": 2752,
       "cur_tg": 1763,
       "max_tg": 1885,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515392133,
-        "game": "1v1 Random Map"
-      }
+      "last_1v1": "2026-10-22"
     },
     {
       "profile_id": 2920057,
@@ -300,6 +296,20 @@
       "last_1v1": "2026-07-08"
     },
     {
+      "profile_id": 2850920,
+      "tag": "Chimtzin",
+      "clan": "Ux",
+      "cur_1v1": 2056,
+      "max_1v1": 2124,
+      "cur_tg": 1633,
+      "max_tg": 1820,
+      "last_1v1": "2026-10-22",
+      "live": {
+        "match": 515387791,
+        "game": "1v1 Random Map"
+      }
+    },
+    {
       "profile_id": 1249720,
       "tag": "Asdrubald",
       "clan": "VN",
@@ -318,20 +328,6 @@
       "cur_tg": 1626,
       "max_tg": 1870,
       "last_1v1": "2026-10-21"
-    },
-    {
-      "profile_id": 2850920,
-      "tag": "Chimtzin",
-      "clan": "Ux",
-      "cur_1v1": 2044,
-      "max_1v1": 2124,
-      "cur_tg": 1633,
-      "max_tg": 1820,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515387791,
-        "game": "1v1 Random Map"
-      }
     },
     {
       "profile_id": 1708286,
@@ -390,11 +386,7 @@
       "max_1v1": 2002,
       "cur_tg": 1613,
       "max_tg": 1631,
-      "last_1v1": "2026-10-21",
-      "live": {
-        "match": 515389250,
-        "game": "Unranked"
-      }
+      "last_1v1": "2026-10-21"
     },
     {
       "profile_id": 233625,
@@ -404,20 +396,6 @@
       "cur_tg": 1751,
       "max_tg": 1885,
       "last_1v1": "2026-08-15"
-    },
-    {
-      "profile_id": 2934597,
-      "tag": "Sgt.Pepper",
-      "clan": "nW",
-      "cur_1v1": 1991,
-      "max_1v1": 2210,
-      "cur_tg": 1718,
-      "max_tg": 1735,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515388153,
-        "game": "1v1 Random Map"
-      }
     },
     {
       "profile_id": 4412109,
@@ -431,6 +409,16 @@
       "cur_tg": 1721,
       "max_tg": 1966,
       "last_1v1": "2026-09-10"
+    },
+    {
+      "profile_id": 2934597,
+      "tag": "Sgt.Pepper",
+      "clan": "nW",
+      "cur_1v1": 1972,
+      "max_1v1": 2210,
+      "cur_tg": 1718,
+      "max_tg": 1735,
+      "last_1v1": "2026-10-22"
     },
     {
       "profile_id": 235877,
