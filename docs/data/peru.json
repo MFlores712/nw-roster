@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-22T23:45:08Z",
+  "updated_at": "2026-10-22T23:50:09Z",
   "baseline": {
     "taken_at": "2026-10-22T14:00:17Z",
     "ranks": {
@@ -71,7 +71,7 @@
       "clan": "LvSP",
       "cur_1v1": 2099,
       "max_1v1": 2139,
-      "cur_tg": 1595,
+      "cur_tg": 1609,
       "max_tg": 1719,
       "last_1v1": "2026-10-22",
       "live": {
@@ -101,7 +101,12 @@
       "max_1v1": 2222,
       "cur_tg": 1711,
       "max_tg": 1767,
-      "last_1v1": "2026-10-20"
+      "last_1v1": "2026-10-20",
+      "live": {
+        "match": 515580479,
+        "game": "Team Random Map",
+        "account": "CTM | Lelouch Jogo Bonito"
+      }
     },
     {
       "profile_id": 3244108,
@@ -147,11 +152,7 @@
       "max_1v1": 2177,
       "cur_tg": 1663,
       "max_tg": 1843,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515575770,
-        "game": "Team Death Match"
-      }
+      "last_1v1": "2026-10-22"
     },
     {
       "profile_id": 12167914,
