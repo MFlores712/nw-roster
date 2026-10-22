@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-22T02:35:09Z",
+  "updated_at": "2026-10-22T02:40:09Z",
   "baseline": {
     "taken_at": "2026-10-21T14:00:15Z",
     "ranks": {
@@ -113,13 +113,18 @@
       "tag": "noru",
       "cur_1v1": 2031,
       "max_1v1": 2031,
-      "cur_tg": 1720,
+      "cur_tg": 1734,
       "max_tg": 1840,
-      "last_1v1": "2026-09-24",
-      "live": {
-        "match": 515385325,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-09-24"
+    },
+    {
+      "profile_id": 13518993,
+      "tag": "Miguel T",
+      "cur_1v1": 2031,
+      "max_1v1": 2031,
+      "cur_tg": 1694,
+      "max_tg": 1703,
+      "last_1v1": "2026-10-22"
     },
     {
       "profile_id": 1359694,
@@ -130,19 +135,6 @@
       "cur_tg": 1637,
       "max_tg": 1670,
       "last_1v1": "2026-10-21"
-    },
-    {
-      "profile_id": 13518993,
-      "tag": "Miguel T",
-      "cur_1v1": 2007,
-      "max_1v1": 2015,
-      "cur_tg": 1694,
-      "max_tg": 1703,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515389362,
-        "game": "1v1 Random Map"
-      }
     },
     {
       "profile_id": 12167914,
