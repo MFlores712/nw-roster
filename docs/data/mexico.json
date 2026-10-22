@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-22T05:40:08Z",
+  "updated_at": "2026-10-22T05:50:09Z",
   "baseline": {
     "taken_at": "2026-10-21T14:00:15Z",
     "ranks": {
@@ -214,6 +214,16 @@
       "last_1v1": "2026-10-19"
     },
     {
+      "profile_id": 12171002,
+      "tag": "iamkaito",
+      "clan": "nW",
+      "cur_1v1": 2258,
+      "max_1v1": 2269,
+      "cur_tg": 1851,
+      "max_tg": 1854,
+      "last_1v1": "2026-10-22"
+    },
+    {
       "profile_id": 757886,
       "tag": "DarK_KnighT_",
       "clan": "VN",
@@ -222,21 +232,6 @@
       "cur_tg": 1853,
       "max_tg": 2050,
       "last_1v1": "2026-10-19"
-    },
-    {
-      "profile_id": 12171002,
-      "tag": "iamkaito",
-      "clan": "nW",
-      "cur_1v1": 2238,
-      "max_1v1": 2269,
-      "cur_tg": 1851,
-      "max_tg": 1854,
-      "last_1v1": "2026-10-21",
-      "live": {
-        "match": 515410569,
-        "game": "1v1 Random Map",
-        "account": "iamkaito"
-      }
     },
     {
       "profile_id": 917863,
