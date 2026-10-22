@@ -1,6 +1,6 @@
 {
   "name": "new Wave",
-  "updated_at": "2026-10-22T00:30:10Z",
+  "updated_at": "2026-10-22T00:45:09Z",
   "baseline": {
     "taken_at": "2026-10-21T14:00:15Z",
     "ranks": {
@@ -90,15 +90,11 @@
       "profile_id": 2934597,
       "tag": "Sgt.Pepper",
       "country": "Mexico",
-      "cur_1v1": 1990,
+      "cur_1v1": 2001,
       "max_1v1": 2210,
       "cur_tg": 1718,
       "max_tg": 1735,
-      "last_1v1": "2026-10-19",
-      "live": {
-        "match": 515369831,
-        "game": "1v1 Random Map"
-      }
+      "last_1v1": "2026-10-22"
     }
   ]
 }
