@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-22T08:15:09Z",
+  "updated_at": "2026-10-22T08:25:09Z",
   "baseline": {
     "taken_at": "2026-10-21T14:00:15Z",
     "ranks": {
@@ -134,12 +134,12 @@
       "clan": "hK",
       "cur_1v1": 2414,
       "max_1v1": 2484,
-      "cur_tg": 1845,
+      "cur_tg": 1832,
       "max_tg": 1959,
       "last_1v1": "2026-10-22",
       "live": {
-        "match": 515425283,
-        "game": "Team Random Map"
+        "match": 515426723,
+        "game": "1v1 Random Map"
       }
     },
     {
@@ -220,7 +220,12 @@
       "max_1v1": 2278,
       "cur_tg": 1851,
       "max_tg": 1854,
-      "last_1v1": "2026-10-22"
+      "last_1v1": "2026-10-22",
+      "live": {
+        "match": 515426850,
+        "game": "1v1 Random Map",
+        "account": "iamkaito"
+      }
     },
     {
       "profile_id": 757886,
@@ -384,13 +389,9 @@
       "tag": "MooN",
       "cur_1v1": 2002,
       "max_1v1": 2002,
-      "cur_tg": 1737,
+      "cur_tg": 1728,
       "max_tg": 1885,
-      "last_1v1": "2026-08-15",
-      "live": {
-        "match": 515425283,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-08-15"
     },
     {
       "profile_id": 4412109,
