@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-22T23:30:11Z",
+  "updated_at": "2026-10-22T23:35:10Z",
   "baseline": {
     "taken_at": "2026-10-22T14:00:17Z",
     "ranks": {
@@ -62,7 +62,7 @@
       "profile_id": 5984120,
       "tag": "Combito",
       "clan": "Ux",
-      "cur_1v1": 2742,
+      "cur_1v1": 2745,
       "max_1v1": 2752,
       "cur_tg": 1763,
       "max_tg": 1885,
@@ -80,7 +80,11 @@
       "max_1v1": 2867,
       "cur_tg": 2152,
       "max_tg": 2169,
-      "last_1v1": "2026-10-21"
+      "last_1v1": "2026-10-21",
+      "live": {
+        "match": 515578326,
+        "game": "1v1 Random Map"
+      }
     },
     {
       "profile_id": 2920057,
@@ -464,11 +468,7 @@
       "max_1v1": 1972,
       "cur_tg": 1617,
       "max_tg": 1824,
-      "last_1v1": "2026-10-13",
-      "live": {
-        "match": 515575144,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-13"
     },
     {
       "profile_id": 358501,
@@ -546,12 +546,7 @@
       "max_1v1": 1970,
       "cur_tg": 1814,
       "max_tg": 1865,
-      "last_1v1": "2026-10-16",
-      "live": {
-        "match": 515575144,
-        "game": "Team Random Map",
-        "account": "VL Formolin"
-      }
+      "last_1v1": "2026-10-16"
     },
     {
       "profile_id": 2969449,
