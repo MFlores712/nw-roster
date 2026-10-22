@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-22T19:05:08Z",
+  "updated_at": "2026-10-22T19:10:12Z",
   "baseline": {
     "taken_at": "2026-10-22T14:00:17Z",
     "ranks": {
@@ -160,12 +160,7 @@
       "max_1v1": 2469,
       "cur_tg": 1856,
       "max_tg": 2072,
-      "last_1v1": "2026-10-20",
-      "live": {
-        "match": 515523615,
-        "game": "1v1 Random Map",
-        "account": "hK | RanDoM"
-      }
+      "last_1v1": "2026-10-20"
     },
     {
       "profile_id": 2295504,
@@ -279,15 +274,11 @@
     {
       "profile_id": 580573,
       "tag": "Bluku_Uktan",
-      "cur_1v1": 2131,
+      "cur_1v1": 2137,
       "max_1v1": 2350,
       "cur_tg": 1840,
       "max_tg": 1974,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515522803,
-        "game": "1v1 Random Map"
-      }
+      "last_1v1": "2026-10-22"
     },
     {
       "profile_id": 1947348,
