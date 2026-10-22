@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-22T01:45:08Z",
+  "updated_at": "2026-10-22T01:50:08Z",
   "baseline": {
     "taken_at": "2026-10-21T14:00:15Z",
     "ranks": {
@@ -170,7 +170,6 @@
     {
       "profile_id": 2295504,
       "tag": "Eren",
-      "clan": "hK",
       "cur_1v1": 2333,
       "max_1v1": 2333,
       "cur_tg": 1845,
@@ -358,7 +357,11 @@
       "max_1v1": 2087,
       "cur_tg": 1831,
       "max_tg": 1997,
-      "last_1v1": "2026-10-22"
+      "last_1v1": "2026-10-22",
+      "live": {
+        "match": 515382429,
+        "game": "1v1 Random Map"
+      }
     },
     {
       "profile_id": 13215279,
