@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-22T02:00:12Z",
+  "updated_at": "2026-10-22T02:05:09Z",
   "baseline": {
     "taken_at": "2026-10-21T14:00:15Z",
     "ranks": {
@@ -53,7 +53,11 @@
       "max_1v1": 2410,
       "cur_tg": 1881,
       "max_tg": 1882,
-      "last_1v1": "2026-10-21"
+      "last_1v1": "2026-10-21",
+      "live": {
+        "match": 515384988,
+        "game": "1v1 Random Map"
+      }
     },
     {
       "profile_id": 2825261,
@@ -94,7 +98,7 @@
       "clan": "VLC",
       "cur_1v1": 1974,
       "max_1v1": 1978,
-      "cur_tg": 1647,
+      "cur_tg": 1661,
       "max_tg": 1764,
       "last_1v1": "2026-10-20",
       "live": {
@@ -165,7 +169,7 @@
       "max_tg": 1855,
       "last_1v1": "2026-10-22",
       "live": {
-        "match": 515383943,
+        "match": 515384313,
         "game": "1v1 Random Map"
       }
     },
