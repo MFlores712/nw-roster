@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-22T17:25:09Z",
+  "updated_at": "2026-10-22T17:30:12Z",
   "baseline": {
     "taken_at": "2026-10-22T14:00:17Z",
     "ranks": {
@@ -49,7 +49,7 @@
       "profile_id": 9558892,
       "tag": "WilliamS",
       "clan": "LE",
-      "cur_1v1": 2289,
+      "cur_1v1": 2292,
       "max_1v1": 2423,
       "cur_tg": 1762,
       "max_tg": 1846,
@@ -200,15 +200,11 @@
       "profile_id": 4167535,
       "tag": "Dia franptom",
       "clan": "LE",
-      "cur_1v1": 1810,
+      "cur_1v1": 1834,
       "max_1v1": 1995,
       "cur_tg": 1452,
       "max_tg": 1581,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515502756,
-        "game": "1v1 Random Map"
-      }
+      "last_1v1": "2026-10-22"
     }
   ],
   "show_top": 15
