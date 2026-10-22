@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-22T16:45:11Z",
+  "updated_at": "2026-10-22T16:55:09Z",
   "baseline": {
     "taken_at": "2026-10-22T14:00:17Z",
     "ranks": {
@@ -231,7 +231,11 @@
       "max_1v1": 2285,
       "cur_tg": 1853,
       "max_tg": 2050,
-      "last_1v1": "2026-10-19"
+      "last_1v1": "2026-10-19",
+      "live": {
+        "match": 515500017,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 917863,
@@ -491,20 +495,6 @@
       "last_1v1": "2026-09-16"
     },
     {
-      "profile_id": 13241217,
-      "tag": "BlueUltra",
-      "clan": "Ux",
-      "cur_1v1": 1936,
-      "max_1v1": 1993,
-      "cur_tg": 1651,
-      "max_tg": 1688,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515496180,
-        "game": "1v1 Random Map"
-      }
-    },
-    {
       "profile_id": 4764520,
       "tag": "BooMBastic_",
       "clan": "KH",
@@ -537,6 +527,20 @@
         "match": 515497613,
         "game": "Team Random Map",
         "account": "[GDL]BetoxAOE"
+      }
+    },
+    {
+      "profile_id": 13241217,
+      "tag": "BlueUltra",
+      "clan": "Ux",
+      "cur_1v1": 1922,
+      "max_1v1": 1993,
+      "cur_tg": 1651,
+      "max_tg": 1688,
+      "last_1v1": "2026-10-22",
+      "live": {
+        "match": 515500601,
+        "game": "1v1 Random Map"
       }
     },
     {
