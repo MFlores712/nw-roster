@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-22T20:25:09Z",
+  "updated_at": "2026-10-22T20:35:08Z",
   "baseline": {
     "taken_at": "2026-10-22T14:00:17Z",
     "ranks": {
@@ -66,20 +66,10 @@
       "last_1v1": "2026-10-07"
     },
     {
-      "profile_id": 5464646,
-      "tag": "Lil Franco",
-      "clan": "VL",
-      "cur_1v1": 2090,
-      "max_1v1": 2242,
-      "cur_tg": 1832,
-      "max_tg": 1932,
-      "last_1v1": "2026-10-07"
-    },
-    {
       "profile_id": 4229962,
       "tag": "Réyiman",
       "clan": "LvSP",
-      "cur_1v1": 2087,
+      "cur_1v1": 2099,
       "max_1v1": 2139,
       "cur_tg": 1585,
       "max_tg": 1719,
@@ -88,6 +78,16 @@
         "match": 515540793,
         "game": "1v1 Random Map"
       }
+    },
+    {
+      "profile_id": 5464646,
+      "tag": "Lil Franco",
+      "clan": "VL",
+      "cur_1v1": 2090,
+      "max_1v1": 2242,
+      "cur_tg": 1832,
+      "max_tg": 1932,
+      "last_1v1": "2026-10-07"
     },
     {
       "profile_id": 2366434,
@@ -147,11 +147,7 @@
       "max_1v1": 2177,
       "cur_tg": 1663,
       "max_tg": 1843,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515542757,
-        "game": "Team Death Match"
-      }
+      "last_1v1": "2026-10-22"
     },
     {
       "profile_id": 12167914,
