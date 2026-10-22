@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-22T20:45:09Z",
+  "updated_at": "2026-10-22T20:50:10Z",
   "baseline": {
     "taken_at": "2026-10-22T14:00:17Z",
     "ranks": {
@@ -555,11 +555,7 @@
       "max_1v1": 1909,
       "cur_tg": 1712,
       "max_tg": 1805,
-      "last_1v1": "2026-10-16",
-      "live": {
-        "match": 515547071,
-        "game": "Team Empire Wars"
-      }
+      "last_1v1": "2026-10-16"
     }
   ],
   "show_top": 45,
