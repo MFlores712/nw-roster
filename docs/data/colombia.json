@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-22T01:35:08Z",
+  "updated_at": "2026-10-22T01:40:11Z",
   "baseline": {
     "taken_at": "2026-10-21T14:00:15Z",
     "ranks": {
@@ -63,11 +63,7 @@
       "max_1v1": 2190,
       "cur_tg": 1868,
       "max_tg": 1947,
-      "last_1v1": "2026-10-17",
-      "live": {
-        "match": 515376671,
-        "game": "Unranked"
-      }
+      "last_1v1": "2026-10-17"
     },
     {
       "profile_id": 2955183,
@@ -180,13 +176,9 @@
       "tag": "obi11",
       "cur_1v1": 1849,
       "max_1v1": 1849,
-      "cur_tg": 1810,
+      "cur_tg": 1816,
       "max_tg": 1851,
-      "last_1v1": "2026-10-17",
-      "live": {
-        "match": 515377313,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-17"
     },
     {
       "profile_id": 2134856,
