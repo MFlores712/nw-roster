@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-22T22:45:09Z",
+  "updated_at": "2026-10-22T22:50:11Z",
   "baseline": {
     "taken_at": "2026-10-22T14:00:17Z",
     "ranks": {
@@ -102,13 +102,9 @@
       "clan": "Ux",
       "cur_1v1": 2585,
       "max_1v1": 2629,
-      "cur_tg": 1816,
+      "cur_tg": 1833,
       "max_tg": 1999,
-      "last_1v1": "2026-10-21",
-      "live": {
-        "match": 515565829,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-21"
     },
     {
       "profile_id": 9449579,
@@ -138,7 +134,11 @@
       "max_1v1": 2433,
       "cur_tg": 2034,
       "max_tg": 2104,
-      "last_1v1": "2026-10-16"
+      "last_1v1": "2026-10-16",
+      "live": {
+        "match": 515571457,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 310739,
@@ -148,7 +148,11 @@
       "max_1v1": 2484,
       "cur_tg": 1832,
       "max_tg": 1959,
-      "last_1v1": "2026-10-22"
+      "last_1v1": "2026-10-22",
+      "live": {
+        "match": 515571457,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 1485562,
@@ -168,7 +172,12 @@
       "max_1v1": 2469,
       "cur_tg": 1856,
       "max_tg": 2072,
-      "last_1v1": "2026-10-20"
+      "last_1v1": "2026-10-20",
+      "live": {
+        "match": 515571457,
+        "game": "Team Random Map",
+        "account": "hK | Siesta"
+      }
     },
     {
       "profile_id": 2295504,
@@ -238,7 +247,11 @@
       "max_1v1": 2285,
       "cur_tg": 1889,
       "max_tg": 2050,
-      "last_1v1": "2026-10-19"
+      "last_1v1": "2026-10-19",
+      "live": {
+        "match": 515571457,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 917863,
@@ -296,7 +309,11 @@
       "max_1v1": 2097,
       "cur_tg": 1865,
       "max_tg": 1997,
-      "last_1v1": "2026-10-22"
+      "last_1v1": "2026-10-22",
+      "live": {
+        "match": 515571457,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 1947348,
@@ -407,7 +424,11 @@
       "max_1v1": 2280,
       "cur_tg": 1721,
       "max_tg": 1966,
-      "last_1v1": "2026-09-10"
+      "last_1v1": "2026-09-10",
+      "live": {
+        "match": 515571457,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 2934597,
@@ -549,7 +570,11 @@
       "max_1v1": 1929,
       "cur_tg": 1810,
       "max_tg": 1874,
-      "last_1v1": "2026-09-24"
+      "last_1v1": "2026-09-24",
+      "live": {
+        "match": 515571457,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 12472496,
