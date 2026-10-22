@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-22T01:00:12Z",
+  "updated_at": "2026-10-22T01:10:09Z",
   "baseline": {
     "taken_at": "2026-10-21T14:00:15Z",
     "ranks": {
@@ -82,13 +82,13 @@
       "profile_id": 2920057,
       "tag": "Lobo",
       "clan": "Ux",
-      "cur_1v1": 2635,
+      "cur_1v1": 2608,
       "max_1v1": 2685,
       "cur_tg": 2091,
       "max_tg": 2105,
       "last_1v1": "2026-10-22",
       "live": {
-        "match": 515371726,
+        "match": 515376108,
         "game": "1v1 Random Map"
       }
     },
@@ -112,7 +112,7 @@
       "max_tg": 2151,
       "last_1v1": "2026-10-16",
       "live": {
-        "match": 515373200,
+        "match": 515376176,
         "game": "Team Random Map",
         "account": "[GDL] Frida"
       }
@@ -441,6 +441,15 @@
       "last_1v1": "2026-09-29"
     },
     {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1954,
+      "max_1v1": 2003,
+      "cur_tg": 1403,
+      "max_tg": 1412,
+      "last_1v1": "2026-10-22"
+    },
+    {
       "profile_id": 2986966,
       "tag": "JPGP",
       "clan": "VL",
@@ -512,19 +521,6 @@
       "cur_tg": 1648,
       "max_tg": 1755,
       "last_1v1": "2026-09-16"
-    },
-    {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1938,
-      "max_1v1": 2003,
-      "cur_tg": 1403,
-      "max_tg": 1412,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515371156,
-        "game": "1v1 Random Map"
-      }
     },
     {
       "profile_id": 4764520,
