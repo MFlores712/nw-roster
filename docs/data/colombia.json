@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-22T00:10:10Z",
+  "updated_at": "2026-10-22T00:40:10Z",
   "baseline": {
     "taken_at": "2026-10-21T14:00:15Z",
     "ranks": {
@@ -119,9 +119,13 @@
       "tag": "Matazombies",
       "cur_1v1": 1901,
       "max_1v1": 1933,
-      "cur_tg": 1808,
+      "cur_tg": 1788,
       "max_tg": 1975,
-      "last_1v1": "2026-10-22"
+      "last_1v1": "2026-10-22",
+      "live": {
+        "match": 515371833,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 6431793,
@@ -186,13 +190,9 @@
       "tag": "The .Gocho",
       "cur_1v1": 1814,
       "max_1v1": 1814,
-      "cur_tg": 1737,
+      "cur_tg": 1739,
       "max_tg": 1839,
-      "last_1v1": "2026-10-09",
-      "live": {
-        "match": 515367409,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-09"
     }
   ],
   "show_top": 15
