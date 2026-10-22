@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-22T20:30:14Z",
+  "updated_at": "2026-10-22T21:00:13Z",
   "baseline": {
     "taken_at": "2026-10-22T14:00:17Z",
     "ranks": {
@@ -36,20 +36,6 @@
       "last_1v1": "2026-10-20"
     },
     {
-      "profile_id": 13267917,
-      "tag": "Manuel",
-      "clan": "nW",
-      "cur_1v1": 2357,
-      "max_1v1": 2410,
-      "cur_tg": 1881,
-      "max_tg": 1882,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515545768,
-        "game": "1v1 Random Map"
-      }
-    },
-    {
       "profile_id": 6838238,
       "tag": "AngelR",
       "clan": "NuMa",
@@ -58,6 +44,20 @@
       "cur_tg": 1788,
       "max_tg": 1828,
       "last_1v1": "2026-10-19"
+    },
+    {
+      "profile_id": 13267917,
+      "tag": "Manuel",
+      "clan": "nW",
+      "cur_1v1": 2348,
+      "max_1v1": 2410,
+      "cur_tg": 1881,
+      "max_tg": 1882,
+      "last_1v1": "2026-10-22",
+      "live": {
+        "match": 515551711,
+        "game": "1v1 Random Map"
+      }
     },
     {
       "profile_id": 2825261,
