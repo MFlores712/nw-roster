@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-22T02:10:09Z",
+  "updated_at": "2026-10-22T02:15:09Z",
   "baseline": {
     "taken_at": "2026-10-21T14:00:15Z",
     "ranks": {
@@ -160,12 +160,7 @@
       "max_1v1": 2469,
       "cur_tg": 1832,
       "max_tg": 2072,
-      "last_1v1": "2026-10-20",
-      "live": {
-        "match": 515383576,
-        "game": "1v1 Random Map",
-        "account": "hK | RanDoM"
-      }
+      "last_1v1": "2026-10-20"
     },
     {
       "profile_id": 2295504,
@@ -344,7 +339,7 @@
       "max_tg": 1997,
       "last_1v1": "2026-10-22",
       "live": {
-        "match": 515382429,
+        "match": 515386067,
         "game": "1v1 Random Map"
       }
     },
@@ -456,13 +451,9 @@
       "clan": "VL",
       "cur_1v1": 1952,
       "max_1v1": 1972,
-      "cur_tg": 1600,
+      "cur_tg": 1590,
       "max_tg": 1824,
-      "last_1v1": "2026-10-13",
-      "live": {
-        "match": 515381534,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-13"
     },
     {
       "profile_id": 358501,
@@ -552,13 +543,9 @@
       "clan": "VL",
       "cur_1v1": 1933,
       "max_1v1": 1970,
-      "cur_tg": 1823,
+      "cur_tg": 1804,
       "max_tg": 1865,
-      "last_1v1": "2026-10-16",
-      "live": {
-        "match": 515381534,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-16"
     },
     {
       "profile_id": 2969449,
