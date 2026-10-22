@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-22T21:35:08Z",
+  "updated_at": "2026-10-22T22:10:09Z",
   "baseline": {
     "taken_at": "2026-10-22T14:00:17Z",
     "ranks": {
@@ -105,6 +105,15 @@
       "last_1v1": "2026-10-04"
     },
     {
+      "profile_id": 5368998,
+      "tag": "Matazombies",
+      "cur_1v1": 1916,
+      "max_1v1": 1933,
+      "cur_tg": 1807,
+      "max_tg": 1975,
+      "last_1v1": "2026-10-22"
+    },
+    {
       "profile_id": 2479622,
       "tag": "Nicky",
       "clan": "VENÓN",
@@ -113,19 +122,6 @@
       "cur_tg": 1900,
       "max_tg": 1905,
       "last_1v1": "2026-09-21"
-    },
-    {
-      "profile_id": 5368998,
-      "tag": "Matazombies",
-      "cur_1v1": 1901,
-      "max_1v1": 1933,
-      "cur_tg": 1807,
-      "max_tg": 1975,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515558664,
-        "game": "1v1 Random Map"
-      }
     },
     {
       "profile_id": 6431793,

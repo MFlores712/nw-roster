@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-22T22:05:08Z",
+  "updated_at": "2026-10-22T22:10:09Z",
   "baseline": {
     "taken_at": "2026-10-22T14:00:17Z",
     "ranks": {
@@ -98,7 +98,7 @@
       "clan": "Ux",
       "cur_1v1": 2585,
       "max_1v1": 2629,
-      "cur_tg": 1805,
+      "cur_tg": 1816,
       "max_tg": 1999,
       "last_1v1": "2026-10-21",
       "live": {
@@ -356,7 +356,12 @@
       "max_1v1": 2032,
       "cur_tg": 1871,
       "max_tg": 1962,
-      "last_1v1": "2026-10-21"
+      "last_1v1": "2026-10-21",
+      "live": {
+        "match": 515563663,
+        "game": "Unranked",
+        "account": "CL_Zoschenko"
+      }
     },
     {
       "profile_id": 13215279,
