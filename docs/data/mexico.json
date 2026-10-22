@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-22T02:20:08Z",
+  "updated_at": "2026-10-22T02:25:09Z",
   "baseline": {
     "taken_at": "2026-10-21T14:00:15Z",
     "ranks": {
@@ -76,7 +76,11 @@
       "max_1v1": 2752,
       "cur_tg": 1763,
       "max_tg": 1885,
-      "last_1v1": "2026-10-22"
+      "last_1v1": "2026-10-22",
+      "live": {
+        "match": 515387493,
+        "game": "1v1 Random Map"
+      }
     },
     {
       "profile_id": 2920057,
@@ -132,7 +136,7 @@
       "profile_id": 310739,
       "tag": "SoyLaHostia",
       "clan": "hK",
-      "cur_1v1": 2406,
+      "cur_1v1": 2414,
       "max_1v1": 2484,
       "cur_tg": 1859,
       "max_tg": 1959,
@@ -298,11 +302,7 @@
       "max_1v1": 2087,
       "cur_tg": 1831,
       "max_tg": 1997,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515386067,
-        "game": "1v1 Random Map"
-      }
+      "last_1v1": "2026-10-22"
     },
     {
       "profile_id": 1261126,
@@ -324,7 +324,7 @@
       "max_tg": 1820,
       "last_1v1": "2026-10-22",
       "live": {
-        "match": 515382740,
+        "match": 515387791,
         "game": "1v1 Random Map"
       }
     },
@@ -408,13 +408,13 @@
       "profile_id": 2934597,
       "tag": "Sgt.Pepper",
       "clan": "nW",
-      "cur_1v1": 2000,
+      "cur_1v1": 1991,
       "max_1v1": 2210,
       "cur_tg": 1718,
       "max_tg": 1735,
       "last_1v1": "2026-10-22",
       "live": {
-        "match": 515384265,
+        "match": 515388153,
         "game": "1v1 Random Map"
       }
     },
@@ -449,7 +449,11 @@
       "max_1v1": 1972,
       "cur_tg": 1590,
       "max_tg": 1824,
-      "last_1v1": "2026-10-13"
+      "last_1v1": "2026-10-13",
+      "live": {
+        "match": 515387605,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 358501,
@@ -541,7 +545,11 @@
       "max_1v1": 1970,
       "cur_tg": 1804,
       "max_tg": 1865,
-      "last_1v1": "2026-10-16"
+      "last_1v1": "2026-10-16",
+      "live": {
+        "match": 515387605,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 2969449,
