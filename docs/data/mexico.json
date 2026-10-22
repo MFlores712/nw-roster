@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-22T23:10:09Z",
+  "updated_at": "2026-10-22T23:15:10Z",
   "baseline": {
     "taken_at": "2026-10-22T14:00:17Z",
     "ranks": {
@@ -66,11 +66,7 @@
       "max_1v1": 2752,
       "cur_tg": 1763,
       "max_tg": 1885,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515570529,
-        "game": "1v1 Random Map"
-      }
+      "last_1v1": "2026-10-22"
     },
     {
       "profile_id": 2776293,
@@ -86,15 +82,11 @@
       "profile_id": 2920057,
       "tag": "Lobo",
       "clan": "Ux",
-      "cur_1v1": 2627,
+      "cur_1v1": 2616,
       "max_1v1": 2685,
       "cur_tg": 2091,
       "max_tg": 2105,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515570529,
-        "game": "1v1 Random Map"
-      }
+      "last_1v1": "2026-10-22"
     },
     {
       "profile_id": 13099159,
@@ -137,11 +129,11 @@
       "clan": "hK",
       "cur_1v1": 2433,
       "max_1v1": 2433,
-      "cur_tg": 2034,
+      "cur_tg": 2043,
       "max_tg": 2104,
       "last_1v1": "2026-10-16",
       "live": {
-        "match": 515571457,
+        "match": 515575330,
         "game": "Team Random Map"
       }
     },
@@ -151,11 +143,11 @@
       "clan": "hK",
       "cur_1v1": 2432,
       "max_1v1": 2484,
-      "cur_tg": 1832,
+      "cur_tg": 1848,
       "max_tg": 1959,
       "last_1v1": "2026-10-22",
       "live": {
-        "match": 515571457,
+        "match": 515575330,
         "game": "Team Random Map"
       }
     },
@@ -183,7 +175,7 @@
       "max_tg": 2072,
       "last_1v1": "2026-10-20",
       "live": {
-        "match": 515571457,
+        "match": 515575330,
         "game": "Team Random Map",
         "account": "hK | Siesta"
       }
@@ -259,13 +251,9 @@
       "clan": "VN",
       "cur_1v1": 2258,
       "max_1v1": 2285,
-      "cur_tg": 1889,
+      "cur_tg": 1876,
       "max_tg": 2050,
-      "last_1v1": "2026-10-19",
-      "live": {
-        "match": 515571457,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-19"
     },
     {
       "profile_id": 917863,
@@ -321,13 +309,9 @@
       "clan": "VN",
       "cur_1v1": 2097,
       "max_1v1": 2097,
-      "cur_tg": 1865,
+      "cur_tg": 1853,
       "max_tg": 1997,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515571457,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-22"
     },
     {
       "profile_id": 1947348,
@@ -440,7 +424,7 @@
       "max_tg": 1966,
       "last_1v1": "2026-09-10",
       "live": {
-        "match": 515571457,
+        "match": 515575330,
         "game": "Team Random Map"
       }
     },
@@ -472,7 +456,11 @@
       "max_1v1": 1972,
       "cur_tg": 1617,
       "max_tg": 1824,
-      "last_1v1": "2026-10-13"
+      "last_1v1": "2026-10-13",
+      "live": {
+        "match": 515575144,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 358501,
@@ -550,7 +538,12 @@
       "max_1v1": 1970,
       "cur_tg": 1814,
       "max_tg": 1865,
-      "last_1v1": "2026-10-16"
+      "last_1v1": "2026-10-16",
+      "live": {
+        "match": 515575144,
+        "game": "Team Random Map",
+        "account": "VL Formolin"
+      }
     },
     {
       "profile_id": 2969449,
@@ -578,13 +571,9 @@
       "clan": "VN",
       "cur_1v1": 1909,
       "max_1v1": 1929,
-      "cur_tg": 1810,
+      "cur_tg": 1800,
       "max_tg": 1874,
-      "last_1v1": "2026-09-24",
-      "live": {
-        "match": 515571457,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-09-24"
     },
     {
       "profile_id": 12472496,
