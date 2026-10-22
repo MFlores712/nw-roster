@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-22T19:40:11Z",
+  "updated_at": "2026-10-22T19:45:09Z",
   "baseline": {
     "taken_at": "2026-10-22T14:00:17Z",
     "ranks": {
@@ -160,12 +160,7 @@
       "max_1v1": 2469,
       "cur_tg": 1856,
       "max_tg": 2072,
-      "last_1v1": "2026-10-20",
-      "live": {
-        "match": 515529338,
-        "game": "1v1 Random Map",
-        "account": "hK | RanDoM"
-      }
+      "last_1v1": "2026-10-20"
     },
     {
       "profile_id": 2295504,
@@ -286,6 +281,16 @@
       "last_1v1": "2026-10-22"
     },
     {
+      "profile_id": 1249720,
+      "tag": "Asdrubald",
+      "clan": "VN",
+      "cur_1v1": 2097,
+      "max_1v1": 2097,
+      "cur_tg": 1831,
+      "max_tg": 1997,
+      "last_1v1": "2026-10-22"
+    },
+    {
       "profile_id": 1947348,
       "tag": "themariach1",
       "clan": "nW",
@@ -294,20 +299,6 @@
       "cur_tg": 1752,
       "max_tg": 2034,
       "last_1v1": "2026-07-08"
-    },
-    {
-      "profile_id": 1249720,
-      "tag": "Asdrubald",
-      "clan": "VN",
-      "cur_1v1": 2072,
-      "max_1v1": 2087,
-      "cur_tg": 1831,
-      "max_tg": 1997,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515529104,
-        "game": "1v1 Random Map"
-      }
     },
     {
       "profile_id": 1261126,
