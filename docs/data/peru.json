@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-22T06:35:08Z",
+  "updated_at": "2026-10-22T06:50:10Z",
   "baseline": {
     "taken_at": "2026-10-21T14:00:15Z",
     "ranks": {
@@ -151,7 +151,7 @@
       "clan": "CL",
       "cur_1v1": 1992,
       "max_1v1": 2016,
-      "cur_tg": 1858,
+      "cur_tg": 1876,
       "max_tg": 1992,
       "last_1v1": "2026-10-20",
       "live": {
@@ -185,12 +185,7 @@
       "max_1v1": 1902,
       "cur_tg": 1458,
       "max_tg": 1608,
-      "last_1v1": "2026-09-19",
-      "live": {
-        "match": 515416896,
-        "game": "Quick Play 1v1 Random Map",
-        "account": "lopy32"
-      }
+      "last_1v1": "2026-09-19"
     },
     {
       "profile_id": 4234652,
