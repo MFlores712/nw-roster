@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-22T18:30:11Z",
+  "updated_at": "2026-10-22T18:35:09Z",
   "baseline": {
     "taken_at": "2026-10-22T14:00:17Z",
     "ranks": {
@@ -536,13 +536,9 @@
       "clan": "VN",
       "cur_1v1": 1909,
       "max_1v1": 1929,
-      "cur_tg": 1747,
+      "cur_tg": 1765,
       "max_tg": 1874,
-      "last_1v1": "2026-09-24",
-      "live": {
-        "match": 515517876,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-09-24"
     },
     {
       "profile_id": 12472496,
