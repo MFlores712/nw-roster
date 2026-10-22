@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-22T15:05:09Z",
+  "updated_at": "2026-10-22T15:10:12Z",
   "baseline": {
     "taken_at": "2026-10-22T14:00:17Z",
     "ranks": {
@@ -71,13 +71,9 @@
       "clan": "LvSP",
       "cur_1v1": 2105,
       "max_1v1": 2139,
-      "cur_tg": 1576,
+      "cur_tg": 1585,
       "max_tg": 1719,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515475178,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-22"
     },
     {
       "profile_id": 5464646,
