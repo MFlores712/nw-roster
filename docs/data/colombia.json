@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-23T00:15:10Z",
+  "updated_at": "2026-10-23T00:25:08Z",
   "baseline": {
     "taken_at": "2026-10-22T14:00:17Z",
     "ranks": {
@@ -63,7 +63,12 @@
       "max_1v1": 2190,
       "cur_tg": 1848,
       "max_tg": 1947,
-      "last_1v1": "2026-10-17"
+      "last_1v1": "2026-10-17",
+      "live": {
+        "match": 515586129,
+        "game": "1v1 Random Map",
+        "account": "VL Retember"
+      }
     },
     {
       "profile_id": 2955183,
