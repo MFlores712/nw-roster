@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-23T21:15:10Z",
+  "updated_at": "2026-10-23T21:20:09Z",
   "baseline": {
     "taken_at": "2026-10-23T14:00:15Z",
     "ranks": {
@@ -193,6 +193,21 @@
       "last_seen": "2025-06-11"
     },
     {
+      "profile_id": 12171002,
+      "tag": "iamkaito",
+      "clan": "nW",
+      "cur_1v1": 2301,
+      "max_1v1": 2301,
+      "cur_tg": 1843,
+      "max_tg": 1854,
+      "last_1v1": "2026-10-23",
+      "live": {
+        "match": 515788186,
+        "game": "1v1 Random Map",
+        "account": "iamkaito"
+      }
+    },
+    {
       "profile_id": 12723994,
       "tag": "PuNii",
       "clan": "VENÓN",
@@ -201,21 +216,6 @@
       "cur_tg": 1821,
       "max_tg": 1922,
       "last_1v1": "2026-10-22"
-    },
-    {
-      "profile_id": 12171002,
-      "tag": "iamkaito",
-      "clan": "nW",
-      "cur_1v1": 2285,
-      "max_1v1": 2285,
-      "cur_tg": 1843,
-      "max_tg": 1854,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515788186,
-        "game": "1v1 Random Map",
-        "account": "iamkaito"
-      }
     },
     {
       "profile_id": 2598146,
