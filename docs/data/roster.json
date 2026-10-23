@@ -1,6 +1,6 @@
 {
   "name": "new Wave",
-  "updated_at": "2026-10-23T06:25:08Z",
+  "updated_at": "2026-10-23T06:40:10Z",
   "baseline": {
     "taken_at": "2026-10-22T14:00:17Z",
     "ranks": {
@@ -22,8 +22,8 @@
       "country": "Colombia",
       "cur_1v1": 2348,
       "max_1v1": 2410,
-      "cur_tg": 1903,
-      "max_tg": 1903,
+      "cur_tg": 1915,
+      "max_tg": 1915,
       "last_1v1": "2026-10-22",
       "live": {
         "match": 515635984,
@@ -71,7 +71,7 @@
       "country": "Mexico",
       "cur_1v1": 2037,
       "max_1v1": 2152,
-      "cur_tg": 1728,
+      "cur_tg": 1747,
       "max_tg": 1793,
       "last_1v1": "2026-10-22",
       "live": {
