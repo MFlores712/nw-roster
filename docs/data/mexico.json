@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-23T00:40:09Z",
+  "updated_at": "2026-10-23T00:45:09Z",
   "baseline": {
     "taken_at": "2026-10-22T14:00:17Z",
     "ranks": {
@@ -458,19 +458,6 @@
       "last_1v1": "2026-10-18"
     },
     {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1951,
-      "max_1v1": 2003,
-      "cur_tg": 1417,
-      "max_tg": 1417,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515584738,
-        "game": "1v1 Random Map"
-      }
-    },
-    {
       "profile_id": 3285258,
       "tag": "Kiss",
       "clan": "MZTK",
@@ -508,6 +495,19 @@
       "cur_tg": 1648,
       "max_tg": 1755,
       "last_1v1": "2026-09-16"
+    },
+    {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1938,
+      "max_1v1": 2003,
+      "cur_tg": 1417,
+      "max_tg": 1417,
+      "last_1v1": "2026-10-23",
+      "live": {
+        "match": 515588977,
+        "game": "1v1 Random Map"
+      }
     },
     {
       "profile_id": 4764520,
