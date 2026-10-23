@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-23T04:50:10Z",
+  "updated_at": "2026-10-23T04:55:09Z",
   "baseline": {
     "taken_at": "2026-10-22T14:00:17Z",
     "ranks": {
@@ -213,13 +213,9 @@
       "clan": "nW",
       "cur_1v1": 2285,
       "max_1v1": 2285,
-      "cur_tg": 1852,
+      "cur_tg": 1825,
       "max_tg": 1854,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515622931,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-22"
     },
     {
       "profile_id": 2598146,
@@ -270,13 +266,9 @@
       "clan": "nW",
       "cur_1v1": 2210,
       "max_1v1": 2241,
-      "cur_tg": 1909,
+      "cur_tg": 1880,
       "max_tg": 2024,
-      "last_1v1": "2026-10-20",
-      "live": {
-        "match": 515622931,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-20"
     },
     {
       "profile_id": 5803221,
@@ -363,13 +355,9 @@
       "clan": "nW",
       "cur_1v1": 2037,
       "max_1v1": 2152,
-      "cur_tg": 1669,
+      "cur_tg": 1647,
       "max_tg": 1793,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515622931,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-22"
     },
     {
       "profile_id": 9770338,
@@ -468,13 +456,9 @@
       "clan": "MZTK",
       "cur_1v1": 1947,
       "max_1v1": 1993,
-      "cur_tg": 1707,
+      "cur_tg": 1688,
       "max_tg": 1858,
-      "last_1v1": "2026-10-06",
-      "live": {
-        "match": 515623433,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-06"
     },
     {
       "profile_id": 13192381,
@@ -566,18 +550,14 @@
       "clan": "Ux",
       "cur_1v1": 1909,
       "max_1v1": 1909,
-      "cur_tg": 1684,
+      "cur_tg": 1666,
       "max_tg": 1805,
-      "last_1v1": "2026-10-16",
-      "live": {
-        "match": 515623433,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-16"
     },
     {
       "profile_id": 3254820,
       "tag": "__Chino",
-      "cur_1v1": 1902,
+      "cur_1v1": 1892,
       "max_1v1": 2003,
       "cur_tg": 1417,
       "max_tg": 1417,
