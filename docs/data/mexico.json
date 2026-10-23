@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-23T04:25:09Z",
+  "updated_at": "2026-10-23T04:30:13Z",
   "baseline": {
     "taken_at": "2026-10-22T14:00:17Z",
     "ranks": {
@@ -106,12 +106,7 @@
       "max_1v1": 2573,
       "cur_tg": 2140,
       "max_tg": 2151,
-      "last_1v1": "2026-10-16",
-      "live": {
-        "match": 515621699,
-        "game": "Team Random Map",
-        "account": "[GDL]CemenTox"
-      }
+      "last_1v1": "2026-10-16"
     },
     {
       "profile_id": 401359,
@@ -201,12 +196,7 @@
       "max_1v1": 2315,
       "cur_tg": 1821,
       "max_tg": 1922,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515621699,
-        "game": "Team Random Map",
-        "account": "VENÓN | 45 Dias habiles"
-      }
+      "last_1v1": "2026-10-22"
     },
     {
       "profile_id": 12171002,
@@ -469,7 +459,7 @@
       "max_tg": 1858,
       "last_1v1": "2026-10-06",
       "live": {
-        "match": 515617514,
+        "match": 515623433,
         "game": "Team Random Map"
       }
     },
@@ -580,7 +570,7 @@
       "max_tg": 1805,
       "last_1v1": "2026-10-16",
       "live": {
-        "match": 515619956,
+        "match": 515623433,
         "game": "Team Random Map"
       }
     }
