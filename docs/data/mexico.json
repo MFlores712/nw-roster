@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-23T04:15:09Z",
+  "updated_at": "2026-10-23T04:20:09Z",
   "baseline": {
     "taken_at": "2026-10-22T14:00:17Z",
     "ranks": {
@@ -327,11 +327,7 @@
       "max_1v1": 2098,
       "cur_tg": 1631,
       "max_tg": 1870,
-      "last_1v1": "2026-10-21",
-      "live": {
-        "match": 515618442,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-21"
     },
     {
       "profile_id": 1708286,
@@ -343,6 +339,16 @@
       "last_1v1": "2026-03-21",
       "inactive": true,
       "last_seen": "2026-05-21"
+    },
+    {
+      "profile_id": 2850920,
+      "tag": "Chimtzin",
+      "clan": "Ux",
+      "cur_1v1": 2039,
+      "max_1v1": 2124,
+      "cur_tg": 1633,
+      "max_tg": 1820,
+      "last_1v1": "2026-10-23"
     },
     {
       "profile_id": 2876835,
@@ -362,20 +368,6 @@
       "cur_tg": 1871,
       "max_tg": 1962,
       "last_1v1": "2026-10-21"
-    },
-    {
-      "profile_id": 2850920,
-      "tag": "Chimtzin",
-      "clan": "Ux",
-      "cur_1v1": 2027,
-      "max_1v1": 2124,
-      "cur_tg": 1633,
-      "max_tg": 1820,
-      "last_1v1": "2026-10-23",
-      "live": {
-        "match": 515619162,
-        "game": "1v1 Random Map"
-      }
     },
     {
       "profile_id": 13215279,
@@ -526,23 +518,18 @@
       "max_1v1": 1996,
       "cur_tg": 1820,
       "max_tg": 1821,
-      "last_1v1": "2026-09-18",
-      "live": {
-        "match": 515616820,
-        "game": "Unranked",
-        "account": "[GDL]BetoxAOE"
-      }
+      "last_1v1": "2026-09-18"
     },
     {
       "profile_id": 3254820,
       "tag": "__Chino",
-      "cur_1v1": 1927,
+      "cur_1v1": 1915,
       "max_1v1": 2003,
       "cur_tg": 1417,
       "max_tg": 1417,
       "last_1v1": "2026-10-23",
       "live": {
-        "match": 515619162,
+        "match": 515622433,
         "game": "1v1 Random Map"
       }
     },
