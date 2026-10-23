@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-23T20:30:13Z",
+  "updated_at": "2026-10-23T20:40:12Z",
   "baseline": {
     "taken_at": "2026-10-23T14:00:15Z",
     "ranks": {
@@ -143,7 +143,11 @@
       "max_1v1": 2177,
       "cur_tg": 1663,
       "max_tg": 1843,
-      "last_1v1": "2026-10-23"
+      "last_1v1": "2026-10-23",
+      "live": {
+        "match": 515785514,
+        "game": "Team Death Match"
+      }
     },
     {
       "profile_id": 12167914,
@@ -158,15 +162,11 @@
     {
       "profile_id": 3034651,
       "tag": "MANCO II",
-      "cur_1v1": 1939,
+      "cur_1v1": 1949,
       "max_1v1": 2035,
       "cur_tg": 1519,
       "max_tg": 1657,
-      "last_1v1": "2026-10-16",
-      "live": {
-        "match": 515780665,
-        "game": "1v1 Random Map"
-      }
+      "last_1v1": "2026-10-23"
     },
     {
       "profile_id": 4210400,

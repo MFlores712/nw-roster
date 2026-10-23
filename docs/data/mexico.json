@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-23T20:35:09Z",
+  "updated_at": "2026-10-23T20:40:12Z",
   "baseline": {
     "taken_at": "2026-10-23T14:00:15Z",
     "ranks": {
@@ -72,15 +72,11 @@
       "profile_id": 5984120,
       "tag": "Combito",
       "clan": "Ux",
-      "cur_1v1": 2677,
+      "cur_1v1": 2680,
       "max_1v1": 2752,
       "cur_tg": 1763,
       "max_tg": 1885,
-      "last_1v1": "2026-10-23",
-      "live": {
-        "match": 515783161,
-        "game": "1v1 Random Map"
-      }
+      "last_1v1": "2026-10-23"
     },
     {
       "profile_id": 2920057,
@@ -110,7 +106,12 @@
       "max_1v1": 2573,
       "cur_tg": 2140,
       "max_tg": 2151,
-      "last_1v1": "2026-10-23"
+      "last_1v1": "2026-10-23",
+      "live": {
+        "match": 515785299,
+        "game": "Team Random Map",
+        "account": "VENÓN | Mauricio"
+      }
     },
     {
       "profile_id": 401359,
@@ -169,7 +170,11 @@
       "max_1v1": 2394,
       "cur_tg": 1797,
       "max_tg": 2099,
-      "last_1v1": "2026-10-23"
+      "last_1v1": "2026-10-23",
+      "live": {
+        "match": 515785299,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 9031952,
@@ -504,7 +509,12 @@
       "max_1v1": 1996,
       "cur_tg": 1820,
       "max_tg": 1821,
-      "last_1v1": "2026-09-18"
+      "last_1v1": "2026-09-18",
+      "live": {
+        "match": 515785299,
+        "game": "Team Random Map",
+        "account": "[GDL]BetoxAOE"
+      }
     },
     {
       "profile_id": 13241217,
