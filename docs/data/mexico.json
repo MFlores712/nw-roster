@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-23T16:50:10Z",
+  "updated_at": "2026-10-23T17:00:14Z",
   "baseline": {
     "taken_at": "2026-10-23T14:00:15Z",
     "ranks": {
@@ -106,12 +106,7 @@
       "max_1v1": 2573,
       "cur_tg": 2140,
       "max_tg": 2151,
-      "last_1v1": "2026-10-23",
-      "live": {
-        "match": 515730707,
-        "game": "Team Random Map",
-        "account": "VENÓN | Mauricio"
-      }
+      "last_1v1": "2026-10-23"
     },
     {
       "profile_id": 401359,
