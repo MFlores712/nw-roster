@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-23T03:55:08Z",
+  "updated_at": "2026-10-23T04:00:13Z",
   "baseline": {
     "taken_at": "2026-10-22T14:00:17Z",
     "ranks": {
@@ -255,11 +255,7 @@
       "max_1v1": 2241,
       "cur_tg": 1909,
       "max_tg": 2024,
-      "last_1v1": "2026-10-20",
-      "live": {
-        "match": 515614526,
-        "game": "Unranked"
-      }
+      "last_1v1": "2026-10-20"
     },
     {
       "profile_id": 5803221,
@@ -342,11 +338,7 @@
       "max_1v1": 2152,
       "cur_tg": 1669,
       "max_tg": 1793,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515614526,
-        "game": "Unranked"
-      }
+      "last_1v1": "2026-10-22"
     },
     {
       "profile_id": 9770338,
@@ -575,12 +567,7 @@
       "max_1v1": 1929,
       "cur_tg": 1793,
       "max_tg": 1874,
-      "last_1v1": "2026-09-24",
-      "live": {
-        "match": 515614837,
-        "game": "Team Random Map",
-        "account": "EXILE | Zuko"
-      }
+      "last_1v1": "2026-09-24"
     },
     {
       "profile_id": 12472496,
@@ -588,13 +575,9 @@
       "clan": "Ux",
       "cur_1v1": 1909,
       "max_1v1": 1909,
-      "cur_tg": 1712,
+      "cur_tg": 1699,
       "max_tg": 1805,
-      "last_1v1": "2026-10-16",
-      "live": {
-        "match": 515615984,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-16"
     }
   ],
   "show_top": 45,
