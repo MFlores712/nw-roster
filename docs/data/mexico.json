@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-23T21:20:09Z",
+  "updated_at": "2026-10-23T21:25:08Z",
   "baseline": {
     "taken_at": "2026-10-23T14:00:15Z",
     "ranks": {
@@ -200,12 +200,7 @@
       "max_1v1": 2301,
       "cur_tg": 1843,
       "max_tg": 1854,
-      "last_1v1": "2026-10-23",
-      "live": {
-        "match": 515788186,
-        "game": "1v1 Random Map",
-        "account": "iamkaito"
-      }
+      "last_1v1": "2026-10-23"
     },
     {
       "profile_id": 12723994,
