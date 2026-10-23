@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-23T17:20:11Z",
+  "updated_at": "2026-10-23T17:30:14Z",
   "baseline": {
     "taken_at": "2026-10-23T14:00:15Z",
     "ranks": {
@@ -47,7 +47,7 @@
       "live": {
         "match": 515737511,
         "game": "Team Random Map",
-        "account": "NuMa | AngelR2"
+        "account": "VoyMeta"
       }
     },
     {
@@ -168,20 +168,6 @@
       "last_1v1": "2026-10-22"
     },
     {
-      "profile_id": 5981761,
-      "tag": "Alexander the conqueror",
-      "clan": "AiM",
-      "cur_1v1": 1819,
-      "max_1v1": 1903,
-      "cur_tg": 1419,
-      "max_tg": 1630,
-      "last_1v1": "2026-10-23",
-      "live": {
-        "match": 515737057,
-        "game": "1v1 Random Map"
-      }
-    },
-    {
       "profile_id": 10733016,
       "tag": "The .Gocho",
       "cur_1v1": 1814,
@@ -198,6 +184,20 @@
       "cur_tg": 1119,
       "max_tg": 1119,
       "last_1v1": "2026-10-23"
+    },
+    {
+      "profile_id": 5981761,
+      "tag": "Alexander the conqueror",
+      "clan": "AiM",
+      "cur_1v1": 1810,
+      "max_1v1": 1903,
+      "cur_tg": 1419,
+      "max_tg": 1630,
+      "last_1v1": "2026-10-23",
+      "live": {
+        "match": 515742479,
+        "game": "1v1 Random Map"
+      }
     }
   ],
   "show_top": 15
