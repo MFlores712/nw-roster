@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-23T13:10:10Z",
+  "updated_at": "2026-10-23T13:50:10Z",
   "baseline": {
     "taken_at": "2026-10-22T14:00:17Z",
     "ranks": {
@@ -93,7 +93,7 @@
       },
       "tag": "Lelouch",
       "clan": "CTM",
-      "cur_1v1": 2072,
+      "cur_1v1": 2080,
       "max_1v1": 2222,
       "cur_tg": 1711,
       "max_tg": 1767,
