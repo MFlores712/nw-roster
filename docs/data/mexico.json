@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-23T01:05:11Z",
+  "updated_at": "2026-10-23T01:10:08Z",
   "baseline": {
     "taken_at": "2026-10-22T14:00:17Z",
     "ranks": {
@@ -114,7 +114,12 @@
       "max_1v1": 2573,
       "cur_tg": 2140,
       "max_tg": 2151,
-      "last_1v1": "2026-10-16"
+      "last_1v1": "2026-10-16",
+      "live": {
+        "match": 515592940,
+        "game": "Team Random Map",
+        "account": "[GDL]CemenTox"
+      }
     },
     {
       "profile_id": 401359,
@@ -154,11 +159,7 @@
       "max_1v1": 2394,
       "cur_tg": 1816,
       "max_tg": 2099,
-      "last_1v1": "2026-10-23",
-      "live": {
-        "match": 515585887,
-        "game": "1v1 Random Map"
-      }
+      "last_1v1": "2026-10-23"
     },
     {
       "profile_id": 312774,
@@ -296,7 +297,11 @@
       "max_1v1": 2097,
       "cur_tg": 1853,
       "max_tg": 1997,
-      "last_1v1": "2026-10-22"
+      "last_1v1": "2026-10-22",
+      "live": {
+        "match": 515592686,
+        "game": "1v1 Random Map"
+      }
     },
     {
       "profile_id": 1947348,
@@ -439,7 +444,7 @@
       "max_tg": 1824,
       "last_1v1": "2026-10-13",
       "live": {
-        "match": 515587834,
+        "match": 515592825,
         "game": "Team Random Map"
       }
     },
@@ -512,7 +517,7 @@
       "max_tg": 1865,
       "last_1v1": "2026-10-16",
       "live": {
-        "match": 515587834,
+        "match": 515592825,
         "game": "Team Random Map"
       }
     },
