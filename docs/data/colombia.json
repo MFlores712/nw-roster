@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-23T18:20:10Z",
+  "updated_at": "2026-10-23T18:25:09Z",
   "baseline": {
     "taken_at": "2026-10-23T14:00:15Z",
     "ranks": {
@@ -47,7 +47,7 @@
       "live": {
         "match": 515752344,
         "game": "Team Random Map",
-        "account": "NuMa | AngelR2"
+        "account": "VoyMeta"
       }
     },
     {

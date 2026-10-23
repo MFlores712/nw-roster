@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-23T18:20:10Z",
+  "updated_at": "2026-10-23T18:25:09Z",
   "baseline": {
     "taken_at": "2026-10-23T14:00:15Z",
     "ranks": {
@@ -71,13 +71,9 @@
       "clan": "LvSP",
       "cur_1v1": 2099,
       "max_1v1": 2139,
-      "cur_tg": 1612,
+      "cur_tg": 1624,
       "max_tg": 1719,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515752162,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-22"
     },
     {
       "profile_id": 5464646,
@@ -110,7 +106,12 @@
       "max_1v1": 2222,
       "cur_tg": 1711,
       "max_tg": 1767,
-      "last_1v1": "2026-10-23"
+      "last_1v1": "2026-10-23",
+      "live": {
+        "match": 515753402,
+        "game": "1v1 Random Map",
+        "account": "CTM | Lelouch ELO bajito"
+      }
     },
     {
       "profile_id": 6090060,
@@ -189,12 +190,7 @@
       "max_1v1": 1902,
       "cur_tg": 1475,
       "max_tg": 1608,
-      "last_1v1": "2026-09-19",
-      "live": {
-        "match": 515749175,
-        "game": "Quick Play 1v1 Random Map",
-        "account": "lopy32"
-      }
+      "last_1v1": "2026-09-19"
     },
     {
       "profile_id": 4234652,
