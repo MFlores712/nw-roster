@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-23T17:45:09Z",
+  "updated_at": "2026-10-23T17:50:09Z",
   "baseline": {
     "taken_at": "2026-10-23T14:00:15Z",
     "ranks": {
@@ -43,7 +43,12 @@
       "max_1v1": 2350,
       "cur_tg": 1788,
       "max_tg": 1828,
-      "last_1v1": "2026-10-19"
+      "last_1v1": "2026-10-19",
+      "live": {
+        "match": 515745636,
+        "game": "Team Random Map",
+        "account": "NuMa | AngelR2"
+      }
     },
     {
       "profile_id": 13267917,
