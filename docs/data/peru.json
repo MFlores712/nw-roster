@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-23T19:15:10Z",
+  "updated_at": "2026-10-23T19:20:10Z",
   "baseline": {
     "taken_at": "2026-10-23T14:00:15Z",
     "ranks": {
@@ -95,15 +95,6 @@
       "last_1v1": "2026-10-21"
     },
     {
-      "profile_id": 6090060,
-      "tag": "noru",
-      "cur_1v1": 2031,
-      "max_1v1": 2031,
-      "cur_tg": 1694,
-      "max_tg": 1840,
-      "last_1v1": "2026-09-24"
-    },
-    {
       "profile_id": 2366434,
       "via": {
         "id": 3265324,
@@ -111,16 +102,20 @@
       },
       "tag": "Lelouch",
       "clan": "CTM",
-      "cur_1v1": 2029,
+      "cur_1v1": 2049,
       "max_1v1": 2222,
       "cur_tg": 1711,
       "max_tg": 1767,
-      "last_1v1": "2026-10-23",
-      "live": {
-        "match": 515765346,
-        "game": "1v1 Random Map",
-        "account": "CTM | Lelouch ELO bajito"
-      }
+      "last_1v1": "2026-10-23"
+    },
+    {
+      "profile_id": 6090060,
+      "tag": "noru",
+      "cur_1v1": 2031,
+      "max_1v1": 2031,
+      "cur_tg": 1694,
+      "max_tg": 1840,
+      "last_1v1": "2026-09-24"
     },
     {
       "profile_id": 13518993,
