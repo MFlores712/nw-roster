@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-23T23:45:09Z",
+  "updated_at": "2026-10-23T23:50:09Z",
   "baseline": {
     "taken_at": "2026-10-23T14:00:15Z",
     "ranks": {
@@ -119,20 +119,6 @@
       "last_1v1": "2026-10-21"
     },
     {
-      "profile_id": 310739,
-      "tag": "SoyLaHostia",
-      "clan": "hK",
-      "cur_1v1": 2411,
-      "max_1v1": 2484,
-      "cur_tg": 1855,
-      "max_tg": 1959,
-      "last_1v1": "2026-10-23",
-      "live": {
-        "match": 515820222,
-        "game": "1v1 Random Map"
-      }
-    },
-    {
       "profile_id": 4221810,
       "tag": "Imfury_",
       "clan": "hK",
@@ -140,6 +126,16 @@
       "max_1v1": 2433,
       "cur_tg": 2052,
       "max_tg": 2104,
+      "last_1v1": "2026-10-23"
+    },
+    {
+      "profile_id": 310739,
+      "tag": "SoyLaHostia",
+      "clan": "hK",
+      "cur_1v1": 2395,
+      "max_1v1": 2484,
+      "cur_tg": 1855,
+      "max_tg": 1959,
       "last_1v1": "2026-10-23"
     },
     {
@@ -206,15 +202,11 @@
       "profile_id": 12723994,
       "tag": "PuNii",
       "clan": "VENÓN",
-      "cur_1v1": 2289,
+      "cur_1v1": 2298,
       "max_1v1": 2315,
       "cur_tg": 1821,
       "max_tg": 1922,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515817856,
-        "game": "1v1 Random Map"
-      }
+      "last_1v1": "2026-10-23"
     },
     {
       "profile_id": 2598146,
