@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-23T03:15:10Z",
+  "updated_at": "2026-10-23T03:20:09Z",
   "baseline": {
     "taken_at": "2026-10-22T14:00:17Z",
     "ranks": {
@@ -111,7 +111,11 @@
       "max_1v1": 1974,
       "cur_tg": 1754,
       "max_tg": 1975,
-      "last_1v1": "2026-10-22"
+      "last_1v1": "2026-10-22",
+      "live": {
+        "match": 515613996,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 2479622,
@@ -121,7 +125,12 @@
       "max_1v1": 1912,
       "cur_tg": 1900,
       "max_tg": 1905,
-      "last_1v1": "2026-09-21"
+      "last_1v1": "2026-09-21",
+      "live": {
+        "match": 515612631,
+        "game": "Unranked",
+        "account": "[GDL] Capitan Nicky"
+      }
     },
     {
       "profile_id": 6431793,
