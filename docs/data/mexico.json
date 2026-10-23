@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-23T19:35:09Z",
+  "updated_at": "2026-10-23T19:45:10Z",
   "baseline": {
     "taken_at": "2026-10-23T14:00:15Z",
     "ranks": {
@@ -141,15 +141,11 @@
       "profile_id": 4221810,
       "tag": "Imfury_",
       "clan": "hK",
-      "cur_1v1": 2392,
+      "cur_1v1": 2404,
       "max_1v1": 2433,
       "cur_tg": 2052,
       "max_tg": 2104,
-      "last_1v1": "2026-10-23",
-      "live": {
-        "match": 515770584,
-        "game": "1v1 Random Map"
-      }
+      "last_1v1": "2026-10-23"
     },
     {
       "profile_id": 1485562,
@@ -529,20 +525,6 @@
       }
     },
     {
-      "profile_id": 13241217,
-      "tag": "BlueUltra",
-      "clan": "Ux",
-      "cur_1v1": 1921,
-      "max_1v1": 1993,
-      "cur_tg": 1651,
-      "max_tg": 1688,
-      "last_1v1": "2026-10-23",
-      "live": {
-        "match": 515764508,
-        "game": "1v1 Random Map"
-      }
-    },
-    {
       "profile_id": 324005,
       "tag": "Narizberto",
       "clan": "VN",
@@ -561,6 +543,20 @@
       "cur_tg": 1678,
       "max_tg": 1805,
       "last_1v1": "2026-10-16"
+    },
+    {
+      "profile_id": 13241217,
+      "tag": "BlueUltra",
+      "clan": "Ux",
+      "cur_1v1": 1897,
+      "max_1v1": 1993,
+      "cur_tg": 1651,
+      "max_tg": 1688,
+      "last_1v1": "2026-10-23",
+      "live": {
+        "match": 515772985,
+        "game": "1v1 Random Map"
+      }
     },
     {
       "profile_id": 3254820,
