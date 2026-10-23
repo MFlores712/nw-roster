@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-23T00:50:09Z",
+  "updated_at": "2026-10-23T00:55:07Z",
   "baseline": {
     "taken_at": "2026-10-22T14:00:17Z",
     "ranks": {
@@ -63,7 +63,12 @@
       "max_1v1": 2190,
       "cur_tg": 1848,
       "max_tg": 1947,
-      "last_1v1": "2026-10-17"
+      "last_1v1": "2026-10-17",
+      "live": {
+        "match": 515590668,
+        "game": "1v1 Random Map",
+        "account": "VL Retember"
+      }
     },
     {
       "profile_id": 2955183,
@@ -75,6 +80,16 @@
       "last_1v1": "2026-10-18"
     },
     {
+      "profile_id": 1062980,
+      "tag": "DeaH",
+      "clan": "VLC",
+      "cur_1v1": 1983,
+      "max_1v1": 1983,
+      "cur_tg": 1685,
+      "max_tg": 1764,
+      "last_1v1": "2026-10-23"
+    },
+    {
       "profile_id": 1743420,
       "tag": "OliverAtom",
       "clan": "NuMa",
@@ -83,20 +98,6 @@
       "cur_tg": 1625,
       "max_tg": 1772,
       "last_1v1": "2026-10-20"
-    },
-    {
-      "profile_id": 1062980,
-      "tag": "DeaH",
-      "clan": "VLC",
-      "cur_1v1": 1974,
-      "max_1v1": 1978,
-      "cur_tg": 1685,
-      "max_tg": 1764,
-      "last_1v1": "2026-10-20",
-      "live": {
-        "match": 515586756,
-        "game": "1v1 Random Map"
-      }
     },
     {
       "profile_id": 2955846,
@@ -181,19 +182,6 @@
       }
     },
     {
-      "profile_id": 2134856,
-      "tag": "Jacko",
-      "cur_1v1": 1820,
-      "max_1v1": 1867,
-      "cur_tg": 1119,
-      "max_tg": 1119,
-      "last_1v1": "2026-10-23",
-      "live": {
-        "match": 515586756,
-        "game": "1v1 Random Map"
-      }
-    },
-    {
       "profile_id": 10733016,
       "tag": "The .Gocho",
       "cur_1v1": 1814,
@@ -201,6 +189,15 @@
       "cur_tg": 1739,
       "max_tg": 1839,
       "last_1v1": "2026-10-09"
+    },
+    {
+      "profile_id": 2134856,
+      "tag": "Jacko",
+      "cur_1v1": 1811,
+      "max_1v1": 1867,
+      "cur_tg": 1119,
+      "max_tg": 1119,
+      "last_1v1": "2026-10-23"
     }
   ],
   "show_top": 15
