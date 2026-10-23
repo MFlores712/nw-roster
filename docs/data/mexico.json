@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-23T05:20:09Z",
+  "updated_at": "2026-10-23T05:25:10Z",
   "baseline": {
     "taken_at": "2026-10-22T14:00:17Z",
     "ranks": {
@@ -106,7 +106,12 @@
       "max_1v1": 2573,
       "cur_tg": 2140,
       "max_tg": 2151,
-      "last_1v1": "2026-10-16"
+      "last_1v1": "2026-10-16",
+      "live": {
+        "match": 515629562,
+        "game": "Team Random Map",
+        "account": "[GDL]CemenTox"
+      }
     },
     {
       "profile_id": 401359,
@@ -196,7 +201,12 @@
       "max_1v1": 2315,
       "cur_tg": 1821,
       "max_tg": 1922,
-      "last_1v1": "2026-10-22"
+      "last_1v1": "2026-10-22",
+      "live": {
+        "match": 515629562,
+        "game": "Team Random Map",
+        "account": "VENÓN | 45 Dias habiles"
+      }
     },
     {
       "profile_id": 12171002,
@@ -281,7 +291,11 @@
       "max_1v1": 2350,
       "cur_tg": 1840,
       "max_tg": 1974,
-      "last_1v1": "2026-10-22"
+      "last_1v1": "2026-10-22",
+      "live": {
+        "match": 515629851,
+        "game": "1v1 Random Map"
+      }
     },
     {
       "profile_id": 13138746,
@@ -314,6 +328,20 @@
       "last_1v1": "2026-07-08"
     },
     {
+      "profile_id": 2850920,
+      "tag": "Chimtzin",
+      "clan": "Ux",
+      "cur_1v1": 2055,
+      "max_1v1": 2124,
+      "cur_tg": 1633,
+      "max_tg": 1820,
+      "last_1v1": "2026-10-23",
+      "live": {
+        "match": 515629999,
+        "game": "1v1 Random Map"
+      }
+    },
+    {
       "profile_id": 1261126,
       "tag": "Spirit",
       "clan": "SotC",
@@ -333,20 +361,6 @@
       "last_1v1": "2026-03-21",
       "inactive": true,
       "last_seen": "2026-05-21"
-    },
-    {
-      "profile_id": 2850920,
-      "tag": "Chimtzin",
-      "clan": "Ux",
-      "cur_1v1": 2039,
-      "max_1v1": 2124,
-      "cur_tg": 1633,
-      "max_tg": 1820,
-      "last_1v1": "2026-10-23",
-      "live": {
-        "match": 515627441,
-        "game": "1v1 Random Map"
-      }
     },
     {
       "profile_id": 2876835,
@@ -455,13 +469,9 @@
       "clan": "MZTK",
       "cur_1v1": 1947,
       "max_1v1": 1993,
-      "cur_tg": 1688,
+      "cur_tg": 1699,
       "max_tg": 1858,
-      "last_1v1": "2026-10-06",
-      "live": {
-        "match": 515626925,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-06"
     },
     {
       "profile_id": 13192381,
@@ -548,13 +558,9 @@
       "clan": "Ux",
       "cur_1v1": 1909,
       "max_1v1": 1909,
-      "cur_tg": 1666,
+      "cur_tg": 1678,
       "max_tg": 1805,
-      "last_1v1": "2026-10-16",
-      "live": {
-        "match": 515626925,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-16"
     },
     {
       "profile_id": 3254820,
@@ -563,11 +569,7 @@
       "max_1v1": 2003,
       "cur_tg": 1417,
       "max_tg": 1417,
-      "last_1v1": "2026-10-23",
-      "live": {
-        "match": 515626961,
-        "game": "1v1 Random Map"
-      }
+      "last_1v1": "2026-10-23"
     }
   ],
   "show_top": 45,
