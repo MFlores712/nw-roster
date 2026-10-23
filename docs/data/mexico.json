@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-23T19:30:11Z",
+  "updated_at": "2026-10-23T19:35:09Z",
   "baseline": {
     "taken_at": "2026-10-23T14:00:15Z",
     "ranks": {
@@ -72,13 +72,13 @@
       "profile_id": 5984120,
       "tag": "Combito",
       "clan": "Ux",
-      "cur_1v1": 2705,
+      "cur_1v1": 2689,
       "max_1v1": 2752,
       "cur_tg": 1763,
       "max_tg": 1885,
       "last_1v1": "2026-10-23",
       "live": {
-        "match": 515766696,
+        "match": 515770830,
         "game": "1v1 Random Map"
       }
     },
@@ -145,7 +145,11 @@
       "max_1v1": 2433,
       "cur_tg": 2052,
       "max_tg": 2104,
-      "last_1v1": "2026-10-23"
+      "last_1v1": "2026-10-23",
+      "live": {
+        "match": 515770584,
+        "game": "1v1 Random Map"
+      }
     },
     {
       "profile_id": 1485562,
@@ -155,7 +159,11 @@
       "max_1v1": 2394,
       "cur_tg": 1816,
       "max_tg": 2099,
-      "last_1v1": "2026-10-23"
+      "last_1v1": "2026-10-23",
+      "live": {
+        "match": 515770434,
+        "game": "1v1 Random Map"
+      }
     },
     {
       "profile_id": 312774,
@@ -267,6 +275,15 @@
       "last_1v1": "2026-10-20"
     },
     {
+      "profile_id": 580573,
+      "tag": "Bluku_Uktan",
+      "cur_1v1": 2179,
+      "max_1v1": 2350,
+      "cur_tg": 1840,
+      "max_tg": 1974,
+      "last_1v1": "2026-10-23"
+    },
+    {
       "profile_id": 13138746,
       "tag": "FraKTal",
       "clan": "hK",
@@ -275,19 +292,6 @@
       "cur_tg": 1843,
       "max_tg": 1983,
       "last_1v1": "2026-10-23"
-    },
-    {
-      "profile_id": 580573,
-      "tag": "Bluku_Uktan",
-      "cur_1v1": 2167,
-      "max_1v1": 2350,
-      "cur_tg": 1840,
-      "max_tg": 1974,
-      "last_1v1": "2026-10-23",
-      "live": {
-        "match": 515768161,
-        "game": "1v1 Random Map"
-      }
     },
     {
       "profile_id": 5803221,
