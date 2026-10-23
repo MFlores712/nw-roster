@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-23T23:20:09Z",
+  "updated_at": "2026-10-23T23:25:08Z",
   "baseline": {
     "taken_at": "2026-10-23T14:00:15Z",
     "ranks": {
@@ -158,13 +158,13 @@
     {
       "profile_id": 3034651,
       "tag": "MANCO II",
-      "cur_1v1": 1949,
+      "cur_1v1": 1933,
       "max_1v1": 2035,
       "cur_tg": 1519,
       "max_tg": 1657,
       "last_1v1": "2026-10-23",
       "live": {
-        "match": 515817146,
+        "match": 515819779,
         "game": "1v1 Random Map"
       }
     },
@@ -185,12 +185,7 @@
       "max_1v1": 1902,
       "cur_tg": 1475,
       "max_tg": 1608,
-      "last_1v1": "2026-09-19",
-      "live": {
-        "match": 515818252,
-        "game": "Team Random Map",
-        "account": "CTM | VaccumDestroyer"
-      }
+      "last_1v1": "2026-09-19"
     },
     {
       "profile_id": 4234652,
