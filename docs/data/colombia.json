@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-23T01:15:09Z",
+  "updated_at": "2026-10-23T01:30:12Z",
   "baseline": {
     "taken_at": "2026-10-22T14:00:17Z",
     "ranks": {
@@ -66,6 +66,16 @@
       "last_1v1": "2026-10-17"
     },
     {
+      "profile_id": 1062980,
+      "tag": "DeaH",
+      "clan": "VLC",
+      "cur_1v1": 2001,
+      "max_1v1": 2001,
+      "cur_tg": 1685,
+      "max_tg": 1764,
+      "last_1v1": "2026-10-23"
+    },
+    {
       "profile_id": 2955183,
       "tag": "JOLIAT",
       "cur_1v1": 2000,
@@ -73,20 +83,6 @@
       "cur_tg": 1600,
       "max_tg": 1710,
       "last_1v1": "2026-10-18"
-    },
-    {
-      "profile_id": 1062980,
-      "tag": "DeaH",
-      "clan": "VLC",
-      "cur_1v1": 1983,
-      "max_1v1": 1983,
-      "cur_tg": 1685,
-      "max_tg": 1764,
-      "last_1v1": "2026-10-23",
-      "live": {
-        "match": 515591707,
-        "game": "1v1 Random Map"
-      }
     },
     {
       "profile_id": 1743420,
@@ -159,7 +155,11 @@
       "max_1v1": 1903,
       "cur_tg": 1395,
       "max_tg": 1630,
-      "last_1v1": "2026-10-21"
+      "last_1v1": "2026-10-21",
+      "live": {
+        "match": 515595850,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 12722189,
