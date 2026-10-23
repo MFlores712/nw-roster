@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-23T01:25:09Z",
+  "updated_at": "2026-10-23T01:35:10Z",
   "baseline": {
     "taken_at": "2026-10-22T14:00:17Z",
     "ranks": {
@@ -114,12 +114,7 @@
       "max_1v1": 2573,
       "cur_tg": 2140,
       "max_tg": 2151,
-      "last_1v1": "2026-10-16",
-      "live": {
-        "match": 515592940,
-        "game": "Team Random Map",
-        "account": "[GDL]CemenTox"
-      }
+      "last_1v1": "2026-10-16"
     },
     {
       "profile_id": 401359,
@@ -269,7 +264,11 @@
       "max_1v1": 2233,
       "cur_tg": 1887,
       "max_tg": 1983,
-      "last_1v1": "2026-10-22"
+      "last_1v1": "2026-10-22",
+      "live": {
+        "match": 515596789,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 5803221,
@@ -293,15 +292,11 @@
       "profile_id": 1249720,
       "tag": "Asdrubald",
       "clan": "VN",
-      "cur_1v1": 2097,
-      "max_1v1": 2097,
+      "cur_1v1": 2102,
+      "max_1v1": 2102,
       "cur_tg": 1853,
       "max_tg": 1997,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515592686,
-        "game": "1v1 Random Map"
-      }
+      "last_1v1": "2026-10-23"
     },
     {
       "profile_id": 1947348,
@@ -522,7 +517,11 @@
       "max_1v1": 2060,
       "cur_tg": 1716,
       "max_tg": 1788,
-      "last_1v1": "2026-10-19"
+      "last_1v1": "2026-10-19",
+      "live": {
+        "match": 515596789,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 278380,
