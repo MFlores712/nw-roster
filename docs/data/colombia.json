@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-23T05:00:12Z",
+  "updated_at": "2026-10-23T05:10:09Z",
   "baseline": {
     "taken_at": "2026-10-22T14:00:17Z",
     "ranks": {
@@ -51,7 +51,7 @@
       "clan": "nW",
       "cur_1v1": 2348,
       "max_1v1": 2410,
-      "cur_tg": 1859,
+      "cur_tg": 1865,
       "max_tg": 1887,
       "last_1v1": "2026-10-22",
       "live": {
@@ -154,11 +154,7 @@
       "max_1v1": 1859,
       "cur_tg": 1836,
       "max_tg": 1858,
-      "last_1v1": "2026-10-23",
-      "live": {
-        "match": 515622993,
-        "game": "Unranked"
-      }
+      "last_1v1": "2026-10-23"
     },
     {
       "profile_id": 12722189,

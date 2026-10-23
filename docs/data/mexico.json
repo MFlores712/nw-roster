@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-23T05:05:09Z",
+  "updated_at": "2026-10-23T05:10:09Z",
   "baseline": {
     "taken_at": "2026-10-22T14:00:17Z",
     "ranks": {
@@ -213,7 +213,7 @@
       "clan": "nW",
       "cur_1v1": 2285,
       "max_1v1": 2285,
-      "cur_tg": 1825,
+      "cur_tg": 1832,
       "max_tg": 1854,
       "last_1v1": "2026-10-22",
       "live": {
@@ -252,19 +252,6 @@
       "last_1v1": "2026-10-22"
     },
     {
-      "profile_id": 4412109,
-      "tag": "HGB",
-      "cur_1v1": 2218,
-      "max_1v1": 2317,
-      "cur_tg": 2052,
-      "max_tg": 2083,
-      "last_1v1": "2026-10-23",
-      "live": {
-        "match": 515625705,
-        "game": "1v1 Random Map"
-      }
-    },
-    {
       "profile_id": 914665,
       "tag": "Caguamas",
       "clan": "nW",
@@ -273,6 +260,15 @@
       "cur_tg": 1880,
       "max_tg": 2024,
       "last_1v1": "2026-10-20"
+    },
+    {
+      "profile_id": 4412109,
+      "tag": "HGB",
+      "cur_1v1": 2205,
+      "max_1v1": 2317,
+      "cur_tg": 2052,
+      "max_tg": 2083,
+      "last_1v1": "2026-10-23"
     },
     {
       "profile_id": 5803221,
@@ -363,7 +359,7 @@
       "clan": "nW",
       "cur_1v1": 2037,
       "max_1v1": 2152,
-      "cur_tg": 1647,
+      "cur_tg": 1660,
       "max_tg": 1793,
       "last_1v1": "2026-10-22",
       "live": {
@@ -432,7 +428,7 @@
       "profile_id": 358501,
       "tag": "El Claut_One",
       "clan": "VENÓN",
-      "cur_1v1": 1967,
+      "cur_1v1": 1979,
       "max_1v1": 2115,
       "cur_tg": 1804,
       "max_tg": 1820,
