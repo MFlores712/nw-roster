@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-23T20:05:08Z",
+  "updated_at": "2026-10-23T20:15:13Z",
   "baseline": {
     "taken_at": "2026-10-23T14:00:15Z",
     "ranks": {
@@ -420,15 +420,11 @@
       "profile_id": 358501,
       "tag": "El Claut_One",
       "clan": "VENÓN",
-      "cur_1v1": 1979,
+      "cur_1v1": 1995,
       "max_1v1": 2115,
       "cur_tg": 1804,
       "max_tg": 1820,
-      "last_1v1": "2026-10-23",
-      "live": {
-        "match": 515773194,
-        "game": "1v1 Random Map"
-      }
+      "last_1v1": "2026-10-23"
     },
     {
       "profile_id": 235877,
@@ -525,6 +521,20 @@
       }
     },
     {
+      "profile_id": 13241217,
+      "tag": "BlueUltra",
+      "clan": "Ux",
+      "cur_1v1": 1916,
+      "max_1v1": 1993,
+      "cur_tg": 1651,
+      "max_tg": 1688,
+      "last_1v1": "2026-10-23",
+      "live": {
+        "match": 515772985,
+        "game": "1v1 Random Map"
+      }
+    },
+    {
       "profile_id": 324005,
       "tag": "Narizberto",
       "clan": "VN",
@@ -543,20 +553,6 @@
       "cur_tg": 1678,
       "max_tg": 1805,
       "last_1v1": "2026-10-16"
-    },
-    {
-      "profile_id": 13241217,
-      "tag": "BlueUltra",
-      "clan": "Ux",
-      "cur_1v1": 1897,
-      "max_1v1": 1993,
-      "cur_tg": 1651,
-      "max_tg": 1688,
-      "last_1v1": "2026-10-23",
-      "live": {
-        "match": 515772985,
-        "game": "1v1 Random Map"
-      }
     },
     {
       "profile_id": 3254820,
