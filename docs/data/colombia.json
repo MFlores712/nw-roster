@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-23T16:25:09Z",
+  "updated_at": "2026-10-23T16:35:08Z",
   "baseline": {
     "taken_at": "2026-10-23T14:00:15Z",
     "ranks": {
@@ -126,7 +126,12 @@
       "max_1v1": 1912,
       "cur_tg": 1900,
       "max_tg": 1905,
-      "last_1v1": "2026-09-21"
+      "last_1v1": "2026-09-21",
+      "live": {
+        "match": 515730707,
+        "game": "Team Random Map",
+        "account": "[GDL] Capitan Nicky"
+      }
     },
     {
       "profile_id": 6431793,
@@ -168,20 +173,6 @@
       "last_1v1": "2026-10-22"
     },
     {
-      "profile_id": 5981761,
-      "tag": "Alexander the conqueror",
-      "clan": "AiM",
-      "cur_1v1": 1843,
-      "max_1v1": 1903,
-      "cur_tg": 1419,
-      "max_tg": 1630,
-      "last_1v1": "2026-10-23",
-      "live": {
-        "match": 515724674,
-        "game": "1v1 Random Map"
-      }
-    },
-    {
       "profile_id": 10733016,
       "tag": "The .Gocho",
       "cur_1v1": 1814,
@@ -197,6 +188,16 @@
       "max_1v1": 1867,
       "cur_tg": 1119,
       "max_tg": 1119,
+      "last_1v1": "2026-10-23"
+    },
+    {
+      "profile_id": 5981761,
+      "tag": "Alexander the conqueror",
+      "clan": "AiM",
+      "cur_1v1": 1803,
+      "max_1v1": 1903,
+      "cur_tg": 1419,
+      "max_tg": 1630,
       "last_1v1": "2026-10-23"
     }
   ],
