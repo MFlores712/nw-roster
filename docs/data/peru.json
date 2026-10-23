@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-23T23:40:09Z",
+  "updated_at": "2026-10-23T23:45:09Z",
   "baseline": {
     "taken_at": "2026-10-23T14:00:15Z",
     "ranks": {
@@ -115,7 +115,11 @@
       "max_1v1": 2031,
       "cur_tg": 1687,
       "max_tg": 1840,
-      "last_1v1": "2026-09-24"
+      "last_1v1": "2026-09-24",
+      "live": {
+        "match": 515823140,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 13518993,
@@ -156,19 +160,6 @@
       "last_1v1": "2026-10-20"
     },
     {
-      "profile_id": 3034651,
-      "tag": "MANCO II",
-      "cur_1v1": 1933,
-      "max_1v1": 2035,
-      "cur_tg": 1519,
-      "max_tg": 1657,
-      "last_1v1": "2026-10-23",
-      "live": {
-        "match": 515819779,
-        "game": "1v1 Random Map"
-      }
-    },
-    {
       "profile_id": 4210400,
       "tag": "Darwiz1233",
       "cur_1v1": 1931,
@@ -178,6 +169,19 @@
       "last_1v1": "2026-10-01"
     },
     {
+      "profile_id": 3034651,
+      "tag": "MANCO II",
+      "cur_1v1": 1924,
+      "max_1v1": 2035,
+      "cur_tg": 1519,
+      "max_tg": 1657,
+      "last_1v1": "2026-10-23",
+      "live": {
+        "match": 515823217,
+        "game": "1v1 Random Map"
+      }
+    },
+    {
       "profile_id": 1865687,
       "tag": "Pentrus",
       "clan": "CTM",
@@ -185,7 +189,12 @@
       "max_1v1": 1902,
       "cur_tg": 1475,
       "max_tg": 1608,
-      "last_1v1": "2026-09-19"
+      "last_1v1": "2026-09-19",
+      "live": {
+        "match": 515822813,
+        "game": "Team Random Map",
+        "account": "CTM | VaccumDestroyer"
+      }
     },
     {
       "profile_id": 4234652,
