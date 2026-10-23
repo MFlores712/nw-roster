@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-23T05:50:08Z",
+  "updated_at": "2026-10-23T05:55:08Z",
   "baseline": {
     "taken_at": "2026-10-22T14:00:17Z",
     "ranks": {
@@ -51,11 +51,11 @@
       "clan": "nW",
       "cur_1v1": 2348,
       "max_1v1": 2410,
-      "cur_tg": 1884,
-      "max_tg": 1887,
+      "cur_tg": 1894,
+      "max_tg": 1894,
       "last_1v1": "2026-10-22",
       "live": {
-        "match": 515632381,
+        "match": 515632777,
         "game": "Team Random Map"
       }
     },
