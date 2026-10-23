@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-23T22:40:09Z",
+  "updated_at": "2026-10-23T23:10:09Z",
   "baseline": {
     "taken_at": "2026-10-23T14:00:15Z",
     "ranks": {
@@ -163,6 +163,19 @@
       "last_1v1": "2026-10-22"
     },
     {
+      "profile_id": 2134856,
+      "tag": "Jacko",
+      "cur_1v1": 1830,
+      "max_1v1": 1867,
+      "cur_tg": 1119,
+      "max_tg": 1119,
+      "last_1v1": "2026-10-23",
+      "live": {
+        "match": 515816987,
+        "game": "1v1 Random Map"
+      }
+    },
+    {
       "profile_id": 10733016,
       "tag": "The .Gocho",
       "cur_1v1": 1814,
@@ -170,19 +183,6 @@
       "cur_tg": 1739,
       "max_tg": 1839,
       "last_1v1": "2026-10-09"
-    },
-    {
-      "profile_id": 2134856,
-      "tag": "Jacko",
-      "cur_1v1": 1811,
-      "max_1v1": 1867,
-      "cur_tg": 1119,
-      "max_tg": 1119,
-      "last_1v1": "2026-10-23",
-      "live": {
-        "match": 515811698,
-        "game": "1v1 Random Map"
-      }
     },
     {
       "profile_id": 5981761,
