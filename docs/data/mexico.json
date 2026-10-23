@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-23T02:05:08Z",
+  "updated_at": "2026-10-23T02:10:12Z",
   "baseline": {
     "taken_at": "2026-10-22T14:00:17Z",
     "ranks": {
@@ -114,7 +114,12 @@
       "max_1v1": 2573,
       "cur_tg": 2140,
       "max_tg": 2151,
-      "last_1v1": "2026-10-16"
+      "last_1v1": "2026-10-16",
+      "live": {
+        "match": 515602927,
+        "game": "Team Random Map",
+        "account": "[GDL]CemenTox"
+      }
     },
     {
       "profile_id": 401359,
@@ -206,8 +211,8 @@
       "max_tg": 1922,
       "last_1v1": "2026-10-22",
       "live": {
-        "match": 515599015,
-        "game": "1v1 Random Map",
+        "match": 515602927,
+        "game": "Team Random Map",
         "account": "VENÓN | 45 Dias habiles"
       }
     },
@@ -271,7 +276,7 @@
       "clan": "hK",
       "cur_1v1": 2152,
       "max_1v1": 2233,
-      "cur_tg": 1887,
+      "cur_tg": 1866,
       "max_tg": 1983,
       "last_1v1": "2026-10-22",
       "live": {
@@ -460,7 +465,11 @@
       "max_1v1": 2115,
       "cur_tg": 1804,
       "max_tg": 1820,
-      "last_1v1": "2026-10-18"
+      "last_1v1": "2026-10-18",
+      "live": {
+        "match": 515602932,
+        "game": "1v1 Random Map"
+      }
     },
     {
       "profile_id": 3285258,
@@ -507,7 +516,7 @@
       "clan": "KH",
       "cur_1v1": 1934,
       "max_1v1": 2060,
-      "cur_tg": 1716,
+      "cur_tg": 1700,
       "max_tg": 1788,
       "last_1v1": "2026-10-19",
       "live": {
@@ -526,6 +535,15 @@
       "last_1v1": "2026-10-16"
     },
     {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1932,
+      "max_1v1": 2003,
+      "cur_tg": 1417,
+      "max_tg": 1417,
+      "last_1v1": "2026-10-23"
+    },
+    {
       "profile_id": 2969449,
       "tag": "BetoxAOE",
       "clan": "VENÓN",
@@ -534,19 +552,6 @@
       "cur_tg": 1820,
       "max_tg": 1821,
       "last_1v1": "2026-09-18"
-    },
-    {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1918,
-      "max_1v1": 2003,
-      "cur_tg": 1417,
-      "max_tg": 1417,
-      "last_1v1": "2026-10-23",
-      "live": {
-        "match": 515600347,
-        "game": "1v1 Random Map"
-      }
     },
     {
       "profile_id": 13241217,
@@ -566,7 +571,12 @@
       "max_1v1": 1929,
       "cur_tg": 1793,
       "max_tg": 1874,
-      "last_1v1": "2026-09-24"
+      "last_1v1": "2026-09-24",
+      "live": {
+        "match": 515602199,
+        "game": "Team Random Map",
+        "account": "EXILE | Zuko"
+      }
     },
     {
       "profile_id": 12472496,
