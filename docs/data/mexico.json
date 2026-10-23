@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-23T03:50:09Z",
+  "updated_at": "2026-10-23T03:55:08Z",
   "baseline": {
     "taken_at": "2026-10-22T14:00:17Z",
     "ranks": {
@@ -283,15 +283,11 @@
       "profile_id": 13138746,
       "tag": "FraKTal",
       "clan": "hK",
-      "cur_1v1": 2127,
+      "cur_1v1": 2125,
       "max_1v1": 2233,
       "cur_tg": 1866,
       "max_tg": 1983,
-      "last_1v1": "2026-10-23",
-      "live": {
-        "match": 515617284,
-        "game": "1v1 Random Map"
-      }
+      "last_1v1": "2026-10-23"
     },
     {
       "profile_id": 1249720,
@@ -321,7 +317,11 @@
       "max_1v1": 2098,
       "cur_tg": 1626,
       "max_tg": 1870,
-      "last_1v1": "2026-10-21"
+      "last_1v1": "2026-10-21",
+      "live": {
+        "match": 515618442,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 1708286,
@@ -358,6 +358,20 @@
       "last_1v1": "2026-10-21"
     },
     {
+      "profile_id": 2850920,
+      "tag": "Chimtzin",
+      "clan": "Ux",
+      "cur_1v1": 2027,
+      "max_1v1": 2124,
+      "cur_tg": 1633,
+      "max_tg": 1820,
+      "last_1v1": "2026-10-23",
+      "live": {
+        "match": 515619162,
+        "game": "1v1 Random Map"
+      }
+    },
+    {
       "profile_id": 13215279,
       "tag": "GO1_mx",
       "clan": "MZTK",
@@ -366,20 +380,6 @@
       "cur_tg": 1702,
       "max_tg": 1860,
       "last_1v1": "2026-10-21"
-    },
-    {
-      "profile_id": 2850920,
-      "tag": "Chimtzin",
-      "clan": "Ux",
-      "cur_1v1": 2014,
-      "max_1v1": 2124,
-      "cur_tg": 1633,
-      "max_tg": 1820,
-      "last_1v1": "2026-10-23",
-      "live": {
-        "match": 515615187,
-        "game": "1v1 Random Map"
-      }
     },
     {
       "profile_id": 6501299,
@@ -510,19 +510,6 @@
       "last_1v1": "2026-09-16"
     },
     {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1940,
-      "max_1v1": 2003,
-      "cur_tg": 1417,
-      "max_tg": 1417,
-      "last_1v1": "2026-10-23",
-      "live": {
-        "match": 515615187,
-        "game": "1v1 Random Map"
-      }
-    },
-    {
       "profile_id": 4764520,
       "tag": "BooMBastic_",
       "clan": "KH",
@@ -555,6 +542,19 @@
         "match": 515616820,
         "game": "Unranked",
         "account": "[GDL]BetoxAOE"
+      }
+    },
+    {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1927,
+      "max_1v1": 2003,
+      "cur_tg": 1417,
+      "max_tg": 1417,
+      "last_1v1": "2026-10-23",
+      "live": {
+        "match": 515619162,
+        "game": "1v1 Random Map"
       }
     },
     {
