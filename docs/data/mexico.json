@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-23T03:25:07Z",
+  "updated_at": "2026-10-23T03:30:12Z",
   "baseline": {
     "taken_at": "2026-10-22T14:00:17Z",
     "ranks": {
@@ -106,12 +106,7 @@
       "max_1v1": 2573,
       "cur_tg": 2140,
       "max_tg": 2151,
-      "last_1v1": "2026-10-16",
-      "live": {
-        "match": 515610785,
-        "game": "Team Random Map",
-        "account": "[GDL]CemenTox"
-      }
+      "last_1v1": "2026-10-16"
     },
     {
       "profile_id": 401359,
@@ -382,7 +377,7 @@
       "max_tg": 1820,
       "last_1v1": "2026-10-23",
       "live": {
-        "match": 515610651,
+        "match": 515615187,
         "game": "1v1 Random Map"
       }
     },
@@ -523,7 +518,7 @@
       "max_tg": 1417,
       "last_1v1": "2026-10-23",
       "live": {
-        "match": 515610892,
+        "match": 515615187,
         "game": "1v1 Random Map"
       }
     },
@@ -580,7 +575,12 @@
       "max_1v1": 1929,
       "cur_tg": 1793,
       "max_tg": 1874,
-      "last_1v1": "2026-09-24"
+      "last_1v1": "2026-09-24",
+      "live": {
+        "match": 515614837,
+        "game": "Team Random Map",
+        "account": "EXILE | Zuko"
+      }
     },
     {
       "profile_id": 12472496,
