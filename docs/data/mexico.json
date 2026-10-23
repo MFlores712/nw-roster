@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-23T02:30:13Z",
+  "updated_at": "2026-10-23T02:35:10Z",
   "baseline": {
     "taken_at": "2026-10-22T14:00:17Z",
     "ranks": {
@@ -121,7 +121,11 @@
       "max_1v1": 2512,
       "cur_tg": 2019,
       "max_tg": 2190,
-      "last_1v1": "2026-10-21"
+      "last_1v1": "2026-10-21",
+      "live": {
+        "match": 515606506,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 4221810,
@@ -419,7 +423,11 @@
       "max_1v1": 2210,
       "cur_tg": 1718,
       "max_tg": 1735,
-      "last_1v1": "2026-10-22"
+      "last_1v1": "2026-10-22",
+      "live": {
+        "match": 515607087,
+        "game": "1v1 Random Map"
+      }
     },
     {
       "profile_id": 235877,
@@ -551,12 +559,7 @@
       "max_1v1": 1929,
       "cur_tg": 1793,
       "max_tg": 1874,
-      "last_1v1": "2026-09-24",
-      "live": {
-        "match": 515602199,
-        "game": "Team Random Map",
-        "account": "EXILE | Zuko"
-      }
+      "last_1v1": "2026-09-24"
     },
     {
       "profile_id": 12472496,
