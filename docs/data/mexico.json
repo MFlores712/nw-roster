@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-23T18:25:09Z",
+  "updated_at": "2026-10-23T18:30:13Z",
   "baseline": {
     "taken_at": "2026-10-23T14:00:15Z",
     "ranks": {
@@ -136,7 +136,11 @@
       "max_1v1": 2433,
       "cur_tg": 2052,
       "max_tg": 2104,
-      "last_1v1": "2026-10-23"
+      "last_1v1": "2026-10-23",
+      "live": {
+        "match": 515754484,
+        "game": "1v1 Random Map"
+      }
     },
     {
       "profile_id": 1485562,
@@ -229,19 +233,6 @@
       "last_1v1": "2026-10-19"
     },
     {
-      "profile_id": 4412109,
-      "tag": "HGB",
-      "cur_1v1": 2237,
-      "max_1v1": 2317,
-      "cur_tg": 2052,
-      "max_tg": 2083,
-      "last_1v1": "2026-10-23",
-      "live": {
-        "match": 515747417,
-        "game": "1v1 Random Map"
-      }
-    },
-    {
       "profile_id": 917863,
       "tag": "Romell13",
       "clan": "hK",
@@ -250,6 +241,15 @@
       "cur_tg": 1819,
       "max_tg": 1837,
       "last_1v1": "2026-10-22"
+    },
+    {
+      "profile_id": 4412109,
+      "tag": "HGB",
+      "cur_1v1": 2215,
+      "max_1v1": 2317,
+      "cur_tg": 2052,
+      "max_tg": 2083,
+      "last_1v1": "2026-10-23"
     },
     {
       "profile_id": 914665,
