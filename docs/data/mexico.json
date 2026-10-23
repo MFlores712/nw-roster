@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-23T00:00:16Z",
+  "updated_at": "2026-10-23T00:15:10Z",
   "baseline": {
     "taken_at": "2026-10-22T14:00:17Z",
     "ranks": {
@@ -141,13 +141,9 @@
       "clan": "hK",
       "cur_1v1": 2433,
       "max_1v1": 2433,
-      "cur_tg": 2046,
+      "cur_tg": 2052,
       "max_tg": 2104,
-      "last_1v1": "2026-10-16",
-      "live": {
-        "match": 515581327,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-16"
     },
     {
       "profile_id": 310739,
@@ -429,11 +425,7 @@
       "max_1v1": 2280,
       "cur_tg": 1721,
       "max_tg": 1966,
-      "last_1v1": "2026-09-10",
-      "live": {
-        "match": 515581327,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-09-10"
     },
     {
       "profile_id": 2934597,
@@ -484,13 +476,9 @@
       "tag": "__Chino",
       "cur_1v1": 1951,
       "max_1v1": 2003,
-      "cur_tg": 1403,
-      "max_tg": 1412,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515581158,
-        "game": "Team Random Map"
-      }
+      "cur_tg": 1417,
+      "max_tg": 1417,
+      "last_1v1": "2026-10-22"
     },
     {
       "profile_id": 3285258,
