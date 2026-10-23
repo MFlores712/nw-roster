@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-23T05:25:10Z",
+  "updated_at": "2026-10-23T05:35:08Z",
   "baseline": {
     "taken_at": "2026-10-22T14:00:17Z",
     "ranks": {
@@ -106,12 +106,7 @@
       "max_1v1": 2573,
       "cur_tg": 2140,
       "max_tg": 2151,
-      "last_1v1": "2026-10-16",
-      "live": {
-        "match": 515629562,
-        "game": "Team Random Map",
-        "account": "[GDL]CemenTox"
-      }
+      "last_1v1": "2026-10-16"
     },
     {
       "profile_id": 401359,
@@ -201,12 +196,7 @@
       "max_1v1": 2315,
       "cur_tg": 1821,
       "max_tg": 1922,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515629562,
-        "game": "Team Random Map",
-        "account": "VENÓN | 45 Dias habiles"
-      }
+      "last_1v1": "2026-10-22"
     },
     {
       "profile_id": 12171002,
@@ -214,13 +204,9 @@
       "clan": "nW",
       "cur_1v1": 2285,
       "max_1v1": 2285,
-      "cur_tg": 1832,
+      "cur_tg": 1843,
       "max_tg": 1854,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515628858,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-22"
     },
     {
       "profile_id": 2598146,
@@ -243,6 +229,19 @@
       "last_1v1": "2026-10-19"
     },
     {
+      "profile_id": 4412109,
+      "tag": "HGB",
+      "cur_1v1": 2225,
+      "max_1v1": 2317,
+      "cur_tg": 2052,
+      "max_tg": 2083,
+      "last_1v1": "2026-10-23",
+      "live": {
+        "match": 515628553,
+        "game": "1v1 Random Map"
+      }
+    },
+    {
       "profile_id": 917863,
       "tag": "Romell13",
       "clan": "hK",
@@ -261,19 +260,6 @@
       "cur_tg": 1880,
       "max_tg": 2024,
       "last_1v1": "2026-10-20"
-    },
-    {
-      "profile_id": 4412109,
-      "tag": "HGB",
-      "cur_1v1": 2205,
-      "max_1v1": 2317,
-      "cur_tg": 2052,
-      "max_tg": 2083,
-      "last_1v1": "2026-10-23",
-      "live": {
-        "match": 515628553,
-        "game": "1v1 Random Map"
-      }
     },
     {
       "profile_id": 5803221,
@@ -368,13 +354,9 @@
       "clan": "nW",
       "cur_1v1": 2037,
       "max_1v1": 2152,
-      "cur_tg": 1660,
+      "cur_tg": 1678,
       "max_tg": 1793,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515628858,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-22"
     },
     {
       "profile_id": 9770338,
