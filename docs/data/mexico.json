@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-23T01:35:10Z",
+  "updated_at": "2026-10-23T01:40:10Z",
   "baseline": {
     "taken_at": "2026-10-22T14:00:17Z",
     "ranks": {
@@ -565,7 +565,12 @@
       "max_1v1": 1929,
       "cur_tg": 1793,
       "max_tg": 1874,
-      "last_1v1": "2026-09-24"
+      "last_1v1": "2026-09-24",
+      "live": {
+        "match": 515597763,
+        "game": "Team Random Map",
+        "account": "EXILE | Zuko"
+      }
     },
     {
       "profile_id": 12472496,
