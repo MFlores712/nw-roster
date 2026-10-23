@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-23T03:30:12Z",
+  "updated_at": "2026-10-23T03:35:10Z",
   "baseline": {
     "taken_at": "2026-10-22T14:00:17Z",
     "ranks": {
@@ -106,7 +106,12 @@
       "max_1v1": 2573,
       "cur_tg": 2140,
       "max_tg": 2151,
-      "last_1v1": "2026-10-16"
+      "last_1v1": "2026-10-16",
+      "live": {
+        "match": 515615756,
+        "game": "Team Random Map",
+        "account": "[GDL]CemenTox"
+      }
     },
     {
       "profile_id": 401359,
@@ -114,13 +119,9 @@
       "clan": "VENÓN",
       "cur_1v1": 2484,
       "max_1v1": 2512,
-      "cur_tg": 2039,
+      "cur_tg": 2046,
       "max_tg": 2190,
-      "last_1v1": "2026-10-21",
-      "live": {
-        "match": 515613417,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-21"
     },
     {
       "profile_id": 4221810,
@@ -392,6 +393,16 @@
       "last_1v1": "2026-10-13"
     },
     {
+      "profile_id": 2934597,
+      "tag": "Sgt.Pepper",
+      "clan": "nW",
+      "cur_1v1": 2004,
+      "max_1v1": 2210,
+      "cur_tg": 1718,
+      "max_tg": 1735,
+      "last_1v1": "2026-10-23"
+    },
+    {
       "profile_id": 2291749,
       "tag": "Biner",
       "cur_1v1": 2002,
@@ -408,20 +419,6 @@
       "cur_tg": 1728,
       "max_tg": 1885,
       "last_1v1": "2026-08-15"
-    },
-    {
-      "profile_id": 2934597,
-      "tag": "Sgt.Pepper",
-      "clan": "nW",
-      "cur_1v1": 1988,
-      "max_1v1": 2210,
-      "cur_tg": 1718,
-      "max_tg": 1735,
-      "last_1v1": "2026-10-23",
-      "live": {
-        "match": 515611634,
-        "game": "1v1 Random Map"
-      }
     },
     {
       "profile_id": 4412109,
@@ -590,7 +587,11 @@
       "max_1v1": 1909,
       "cur_tg": 1712,
       "max_tg": 1805,
-      "last_1v1": "2026-10-16"
+      "last_1v1": "2026-10-16",
+      "live": {
+        "match": 515615984,
+        "game": "Team Random Map"
+      }
     }
   ],
   "show_top": 45,
