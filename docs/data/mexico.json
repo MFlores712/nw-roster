@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-24T01:20:09Z",
+  "updated_at": "2026-10-24T01:25:08Z",
   "baseline": {
     "taken_at": "2026-10-23T14:00:15Z",
     "ranks": {
@@ -96,11 +96,7 @@
       "max_1v1": 2629,
       "cur_tg": 1868,
       "max_tg": 1999,
-      "last_1v1": "2026-10-21",
-      "live": {
-        "match": 515835125,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-21"
     },
     {
       "profile_id": 9449579,
@@ -116,13 +112,13 @@
       "profile_id": 401359,
       "tag": "EnvyZ",
       "clan": "VENÓN",
-      "cur_1v1": 2484,
+      "cur_1v1": 2477,
       "max_1v1": 2512,
       "cur_tg": 2053,
       "max_tg": 2190,
-      "last_1v1": "2026-10-21",
+      "last_1v1": "2026-10-24",
       "live": {
-        "match": 515836070,
+        "match": 515840281,
         "game": "1v1 Random Map"
       }
     },
@@ -134,11 +130,7 @@
       "max_1v1": 2433,
       "cur_tg": 2048,
       "max_tg": 2104,
-      "last_1v1": "2026-10-23",
-      "live": {
-        "match": 515835125,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-23"
     },
     {
       "profile_id": 310739,
@@ -247,7 +239,11 @@
       "max_1v1": 2285,
       "cur_tg": 1842,
       "max_tg": 2050,
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 515840281,
+        "game": "1v1 Random Map"
+      }
     },
     {
       "profile_id": 917863,
@@ -266,11 +262,7 @@
       "max_1v1": 2317,
       "cur_tg": 2048,
       "max_tg": 2083,
-      "last_1v1": "2026-10-23",
-      "live": {
-        "match": 515835125,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-23"
     },
     {
       "profile_id": 580573,
@@ -581,15 +573,11 @@
     {
       "profile_id": 3254820,
       "tag": "__Chino",
-      "cur_1v1": 1869,
+      "cur_1v1": 1886,
       "max_1v1": 2003,
       "cur_tg": 1417,
       "max_tg": 1417,
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 515835475,
-        "game": "1v1 Random Map"
-      }
+      "last_1v1": "2026-10-24"
     }
   ],
   "show_top": 45,
