@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-24T00:05:09Z",
+  "updated_at": "2026-10-24T00:10:09Z",
   "baseline": {
     "taken_at": "2026-10-23T14:00:15Z",
     "ranks": {
@@ -72,15 +72,11 @@
       "profile_id": 5984120,
       "tag": "Combito",
       "clan": "Ux",
-      "cur_1v1": 2649,
+      "cur_1v1": 2651,
       "max_1v1": 2752,
       "cur_tg": 1763,
       "max_tg": 1885,
-      "last_1v1": "2026-10-23",
-      "live": {
-        "match": 515825078,
-        "game": "1v1 Random Map"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 2920057,
@@ -158,15 +154,11 @@
       "profile_id": 312774,
       "tag": "Keno_",
       "clan": "hK",
-      "cur_1v1": 2336,
+      "cur_1v1": 2341,
       "max_1v1": 2469,
       "cur_tg": 1856,
       "max_tg": 2072,
-      "last_1v1": "2026-10-20",
-      "live": {
-        "match": 515824634,
-        "game": "1v1 Random Map"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 2295504,
@@ -420,11 +412,7 @@
       "max_1v1": 2002,
       "cur_tg": 1613,
       "max_tg": 1631,
-      "last_1v1": "2026-10-21",
-      "live": {
-        "match": 515824557,
-        "game": "Unranked"
-      }
+      "last_1v1": "2026-10-21"
     },
     {
       "profile_id": 233625,
