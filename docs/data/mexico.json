@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-24T04:50:10Z",
+  "updated_at": "2026-10-24T05:00:14Z",
   "baseline": {
     "taken_at": "2026-10-23T14:00:15Z",
     "ranks": {
@@ -116,15 +116,11 @@
       "profile_id": 401359,
       "tag": "EnvyZ",
       "clan": "VENÓN",
-      "cur_1v1": 2421,
+      "cur_1v1": 2432,
       "max_1v1": 2512,
       "cur_tg": 2053,
       "max_tg": 2190,
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 515876863,
-        "game": "1v1 Random Map"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 4221810,
@@ -223,7 +219,11 @@
       "max_1v1": 2315,
       "cur_tg": 1826,
       "max_tg": 1922,
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 515878742,
+        "game": "1v1 Random Map"
+      }
     },
     {
       "profile_id": 2598146,
@@ -387,13 +387,9 @@
       "tag": "Biner",
       "cur_1v1": 2016,
       "max_1v1": 2016,
-      "cur_tg": 1660,
-      "max_tg": 1660,
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 515875627,
-        "game": "Team Random Map"
-      }
+      "cur_tg": 1670,
+      "max_tg": 1670,
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 6501299,
@@ -404,20 +400,6 @@
       "cur_tg": 1731,
       "max_tg": 1745,
       "last_1v1": "2026-10-13"
-    },
-    {
-      "profile_id": 2850920,
-      "tag": "Chimtzin",
-      "clan": "Ux",
-      "cur_1v1": 2005,
-      "max_1v1": 2124,
-      "cur_tg": 1633,
-      "max_tg": 1820,
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 515875111,
-        "game": "1v1 Random Map"
-      }
     },
     {
       "profile_id": 2934597,
@@ -447,6 +429,16 @@
       "cur_tg": 1804,
       "max_tg": 1820,
       "last_1v1": "2026-10-23"
+    },
+    {
+      "profile_id": 2850920,
+      "tag": "Chimtzin",
+      "clan": "Ux",
+      "cur_1v1": 1992,
+      "max_1v1": 2124,
+      "cur_tg": 1633,
+      "max_tg": 1820,
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 235877,
