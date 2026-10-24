@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-24T03:15:09Z",
+  "updated_at": "2026-10-24T03:25:09Z",
   "baseline": {
     "taken_at": "2026-10-23T14:00:15Z",
     "ranks": {
@@ -76,7 +76,11 @@
       "max_1v1": 2752,
       "cur_tg": 1763,
       "max_tg": 1885,
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 515862331,
+        "game": "1v1 Random Map"
+      }
     },
     {
       "profile_id": 2920057,
@@ -124,13 +128,9 @@
       "clan": "hK",
       "cur_1v1": 2404,
       "max_1v1": 2433,
-      "cur_tg": 2063,
+      "cur_tg": 2067,
       "max_tg": 2104,
-      "last_1v1": "2026-10-23",
-      "live": {
-        "match": 515860845,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-23"
     },
     {
       "profile_id": 310739,
@@ -159,12 +159,7 @@
       "max_1v1": 2469,
       "cur_tg": 1876,
       "max_tg": 2072,
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 515860845,
-        "game": "Team Random Map",
-        "account": "hK | Siesta"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 1485562,
@@ -266,13 +261,9 @@
       "tag": "HGB",
       "cur_1v1": 2215,
       "max_1v1": 2317,
-      "cur_tg": 2063,
+      "cur_tg": 2067,
       "max_tg": 2083,
-      "last_1v1": "2026-10-23",
-      "live": {
-        "match": 515860845,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-23"
     },
     {
       "profile_id": 914665,
@@ -290,13 +281,9 @@
       "clan": "hK",
       "cur_1v1": 2174,
       "max_1v1": 2233,
-      "cur_tg": 1897,
+      "cur_tg": 1906,
       "max_tg": 1983,
-      "last_1v1": "2026-10-23",
-      "live": {
-        "match": 515860845,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-23"
     },
     {
       "profile_id": 5803221,
@@ -365,7 +352,12 @@
       "max_1v1": 2032,
       "cur_tg": 1871,
       "max_tg": 1962,
-      "last_1v1": "2026-10-21"
+      "last_1v1": "2026-10-21",
+      "live": {
+        "match": 515862359,
+        "game": "Team Random Map",
+        "account": "Zoschenko17"
+      }
     },
     {
       "profile_id": 2850920,
@@ -389,11 +381,7 @@
       "max_1v1": 2093,
       "cur_tg": 1702,
       "max_tg": 1860,
-      "last_1v1": "2026-10-21",
-      "live": {
-        "match": 515855760,
-        "game": "Unranked"
-      }
+      "last_1v1": "2026-10-21"
     },
     {
       "profile_id": 2291749,
@@ -471,11 +459,7 @@
       "max_1v1": 1993,
       "cur_tg": 1699,
       "max_tg": 1858,
-      "last_1v1": "2026-10-06",
-      "live": {
-        "match": 515855760,
-        "game": "Unranked"
-      }
+      "last_1v1": "2026-10-06"
     },
     {
       "profile_id": 13192381,
@@ -485,11 +469,7 @@
       "max_1v1": 1947,
       "cur_tg": 1802,
       "max_tg": 1824,
-      "last_1v1": "2026-10-11",
-      "live": {
-        "match": 515855760,
-        "game": "Unranked"
-      }
+      "last_1v1": "2026-10-11"
     },
     {
       "profile_id": 2926018,
@@ -528,11 +508,7 @@
       "max_1v1": 1970,
       "cur_tg": 1753,
       "max_tg": 1865,
-      "last_1v1": "2026-10-16",
-      "live": {
-        "match": 515855760,
-        "game": "Unranked"
-      }
+      "last_1v1": "2026-10-16"
     },
     {
       "profile_id": 2969449,
