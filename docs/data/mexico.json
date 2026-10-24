@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-24T22:15:08Z",
+  "updated_at": "2026-10-24T22:20:09Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -587,21 +587,6 @@
       "last_tg": "2026-10-24"
     },
     {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1909,
-      "max_1v1": 2003,
-      "cur_tg": 1417,
-      "max_tg": 1417,
-      "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-23",
-      "live": {
-        "match": 516088470,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 324005,
       "tag": "Narizberto",
       "clan": "VN",
@@ -610,13 +595,7 @@
       "cur_tg": 1793,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-10-22",
-      "live": {
-        "match": 516085756,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "ZUKO | Tag Exiliado Exile"
-      }
+      "last_tg": "2026-10-22"
     },
     {
       "profile_id": 12472496,
@@ -628,6 +607,21 @@
       "max_tg": 1805,
       "last_tg": "2026-10-24",
       "last_1v1": "2026-10-16"
+    },
+    {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1890,
+      "max_1v1": 2003,
+      "cur_tg": 1417,
+      "max_tg": 1417,
+      "last_1v1": "2026-10-24",
+      "last_tg": "2026-10-23",
+      "live": {
+        "match": 516092254,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     }
   ],
   "show_top": 45,
