@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-24T21:20:09Z",
+  "updated_at": "2026-10-24T21:25:10Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -151,7 +151,12 @@
       "cur_tg": 1875,
       "max_tg": 1959,
       "last_1v1": "2026-10-23",
-      "last_tg": "2026-10-24"
+      "last_tg": "2026-10-24",
+      "live": {
+        "match": 516078274,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 2295504,
@@ -172,7 +177,12 @@
       "cur_tg": 1876,
       "max_tg": 2072,
       "last_tg": "2026-10-24",
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 516078274,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 1485562,
@@ -194,7 +204,12 @@
       "cur_tg": 1990,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-10-21"
+      "last_tg": "2026-10-21",
+      "live": {
+        "match": 516078274,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 9666666,
@@ -236,22 +251,6 @@
       "last_1v1": "2026-10-19"
     },
     {
-      "profile_id": 757886,
-      "tag": "DarK_KnighT_",
-      "clan": "VN",
-      "cur_1v1": 2272,
-      "max_1v1": 2285,
-      "cur_tg": 1842,
-      "max_tg": 2050,
-      "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-24",
-      "live": {
-        "match": 516073180,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 12723994,
       "tag": "PuNii",
       "clan": "VENÓN",
@@ -266,6 +265,22 @@
         "game": "Team Random Map",
         "format": "4v4",
         "account": "VENÓN | 45 Dias habiles"
+      }
+    },
+    {
+      "profile_id": 757886,
+      "tag": "DarK_KnighT_",
+      "clan": "VN",
+      "cur_1v1": 2257,
+      "max_1v1": 2285,
+      "cur_tg": 1842,
+      "max_tg": 2050,
+      "last_1v1": "2026-10-24",
+      "last_tg": "2026-10-24",
+      "live": {
+        "match": 516073180,
+        "game": "1v1 Random Map",
+        "format": "1v1"
       }
     },
     {
@@ -550,7 +565,12 @@
       "cur_tg": 1700,
       "max_tg": 1788,
       "last_tg": "2026-10-23",
-      "last_1v1": "2026-10-19"
+      "last_1v1": "2026-10-19",
+      "live": {
+        "match": 516078274,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 278380,
