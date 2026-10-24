@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-24T01:00:13Z",
+  "updated_at": "2026-10-24T01:05:08Z",
   "baseline": {
     "taken_at": "2026-10-23T14:00:15Z",
     "ranks": {
@@ -247,14 +247,14 @@
       "profile_id": 757886,
       "tag": "DarK_KnighT_",
       "clan": "VN",
-      "cur_1v1": 2258,
+      "cur_1v1": 2239,
       "max_1v1": 2285,
       "cur_tg": 1857,
       "max_tg": 2050,
-      "last_1v1": "2026-10-19",
+      "last_1v1": "2026-10-24",
       "live": {
-        "match": 515832178,
-        "game": "1v1 Random Map"
+        "match": 515836679,
+        "game": "Team Random Map"
       }
     },
     {
@@ -281,6 +281,16 @@
       }
     },
     {
+      "profile_id": 580573,
+      "tag": "Puerco Black",
+      "clan": "hK",
+      "cur_1v1": 2211,
+      "max_1v1": 2350,
+      "cur_tg": 1840,
+      "max_tg": 1974,
+      "last_1v1": "2026-10-24"
+    },
+    {
       "profile_id": 914665,
       "tag": "Caguamas",
       "clan": "nW",
@@ -289,20 +299,6 @@
       "cur_tg": 1880,
       "max_tg": 2024,
       "last_1v1": "2026-10-20"
-    },
-    {
-      "profile_id": 580573,
-      "tag": "Puerco Black",
-      "clan": "hK",
-      "cur_1v1": 2192,
-      "max_1v1": 2350,
-      "cur_tg": 1840,
-      "max_tg": 1974,
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 515832178,
-        "game": "1v1 Random Map"
-      }
     },
     {
       "profile_id": 13138746,
@@ -475,13 +471,9 @@
       "clan": "VL",
       "cur_1v1": 1952,
       "max_1v1": 1972,
-      "cur_tg": 1620,
+      "cur_tg": 1607,
       "max_tg": 1824,
-      "last_1v1": "2026-10-13",
-      "live": {
-        "match": 515830785,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-13"
     },
     {
       "profile_id": 3285258,
@@ -538,13 +530,9 @@
       "clan": "VL",
       "cur_1v1": 1933,
       "max_1v1": 1970,
-      "cur_tg": 1754,
+      "cur_tg": 1735,
       "max_tg": 1865,
-      "last_1v1": "2026-10-16",
-      "live": {
-        "match": 515830785,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-16"
     },
     {
       "profile_id": 2969449,
