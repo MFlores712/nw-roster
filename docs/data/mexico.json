@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-24T17:40:09Z",
+  "updated_at": "2026-10-24T17:50:08Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -74,14 +74,14 @@
       "profile_id": 5984120,
       "tag": "Combito",
       "clan": "Ux",
-      "cur_1v1": 2652,
+      "cur_1v1": 2656,
       "max_1v1": 2752,
       "cur_tg": 1801,
       "max_tg": 1885,
       "last_1v1": "2026-10-24",
       "last_tg": "2026-10-24",
       "live": {
-        "match": 516019177,
+        "match": 516022989,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -139,7 +139,12 @@
       "cur_tg": 2053,
       "max_tg": 2190,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-23"
+      "last_tg": "2026-10-23",
+      "live": {
+        "match": 516022802,
+        "game": "Team Random Map",
+        "format": "2v2"
+      }
     },
     {
       "profile_id": 310739,
@@ -160,7 +165,13 @@
       "cur_tg": 1845,
       "max_tg": 1907,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-14"
+      "last_tg": "2026-10-14",
+      "live": {
+        "match": 516023038,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "Volg"
+      }
     },
     {
       "profile_id": 312774,
@@ -173,7 +184,7 @@
       "last_tg": "2026-10-24",
       "last_1v1": "2026-10-24",
       "live": {
-        "match": 516019177,
+        "match": 516022984,
         "game": "1v1 Random Map",
         "format": "1v1",
         "account": "hK | RanDoM"

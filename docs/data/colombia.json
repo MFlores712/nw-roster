@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-24T17:45:10Z",
+  "updated_at": "2026-10-24T17:50:08Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -29,14 +29,14 @@
       "profile_id": 2654577,
       "tag": "Ozone",
       "clan": "Ux",
-      "cur_1v1": 2417,
+      "cur_1v1": 2424,
       "max_1v1": 2636,
       "cur_tg": 1766,
       "max_tg": 2001,
       "last_1v1": "2026-10-24",
       "last_tg": "2026-10-24",
       "live": {
-        "match": 516021113,
+        "match": 516023054,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
