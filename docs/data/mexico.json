@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-24T06:10:08Z",
+  "updated_at": "2026-10-24T06:15:11Z",
   "baseline": {
     "taken_at": "2026-10-23T14:00:15Z",
     "ranks": {
@@ -375,13 +375,9 @@
       "tag": "Biner",
       "cur_1v1": 2016,
       "max_1v1": 2016,
-      "cur_tg": 1659,
-      "max_tg": 1670,
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 515885335,
-        "game": "Team Random Map"
-      }
+      "cur_tg": 1680,
+      "max_tg": 1680,
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 6501299,
