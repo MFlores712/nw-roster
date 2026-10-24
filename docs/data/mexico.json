@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-24T02:15:08Z",
+  "updated_at": "2026-10-24T02:20:09Z",
   "baseline": {
     "taken_at": "2026-10-23T14:00:15Z",
     "ranks": {
@@ -117,15 +117,11 @@
       "profile_id": 401359,
       "tag": "EnvyZ",
       "clan": "VENÓN",
-      "cur_1v1": 2451,
+      "cur_1v1": 2460,
       "max_1v1": 2512,
       "cur_tg": 2053,
       "max_tg": 2190,
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 515844679,
-        "game": "1v1 Random Map"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 4221810,
@@ -135,11 +131,7 @@
       "max_1v1": 2433,
       "cur_tg": 2056,
       "max_tg": 2104,
-      "last_1v1": "2026-10-23",
-      "live": {
-        "match": 515843837,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-23"
     },
     {
       "profile_id": 310739,
@@ -273,11 +265,7 @@
       "max_1v1": 2317,
       "cur_tg": 2056,
       "max_tg": 2083,
-      "last_1v1": "2026-10-23",
-      "live": {
-        "match": 515843837,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-23"
     },
     {
       "profile_id": 914665,
@@ -295,13 +283,9 @@
       "clan": "hK",
       "cur_1v1": 2174,
       "max_1v1": 2233,
-      "cur_tg": 1886,
+      "cur_tg": 1892,
       "max_tg": 1983,
-      "last_1v1": "2026-10-23",
-      "live": {
-        "match": 515844426,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-23"
     },
     {
       "profile_id": 5803221,
@@ -397,11 +381,11 @@
       "tag": "Biner",
       "cur_1v1": 2016,
       "max_1v1": 2016,
-      "cur_tg": 1613,
+      "cur_tg": 1625,
       "max_tg": 1631,
       "last_1v1": "2026-10-24",
       "live": {
-        "match": 515846661,
+        "match": 515850050,
         "game": "Team Random Map"
       }
     },
