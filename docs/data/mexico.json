@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-24T07:10:09Z",
+  "updated_at": "2026-10-24T07:15:09Z",
   "baseline": {
     "taken_at": "2026-10-23T14:00:15Z",
     "ranks": {
@@ -114,7 +114,11 @@
       "max_1v1": 2573,
       "cur_tg": 2140,
       "max_tg": 2151,
-      "last_1v1": "2026-10-23"
+      "last_1v1": "2026-10-23",
+      "live": {
+        "match": 515899408,
+        "game": "1v1 Random Map"
+      }
     },
     {
       "profile_id": 401359,
@@ -183,12 +187,7 @@
       "max_1v1": 2322,
       "cur_tg": 1990,
       "max_tg": 1995,
-      "last_1v1": "2026-10-17",
-      "live": {
-        "match": 515896639,
-        "game": "Team Random Map",
-        "account": "FierroFlash"
-      }
+      "last_1v1": "2026-10-17"
     },
     {
       "profile_id": 9666666,
@@ -293,11 +292,7 @@
       "max_1v1": 2233,
       "cur_tg": 1910,
       "max_tg": 1983,
-      "last_1v1": "2026-10-23",
-      "live": {
-        "match": 515896639,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-23"
     },
     {
       "profile_id": 5803221,
@@ -493,12 +488,7 @@
       "max_1v1": 2060,
       "cur_tg": 1700,
       "max_tg": 1788,
-      "last_1v1": "2026-10-19",
-      "live": {
-        "match": 515896639,
-        "game": "Team Random Map",
-        "account": "hK | Charles Martel"
-      }
+      "last_1v1": "2026-10-19"
     },
     {
       "profile_id": 278380,
