@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-24T00:40:08Z",
+  "updated_at": "2026-10-24T00:45:08Z",
   "baseline": {
     "taken_at": "2026-10-23T14:00:15Z",
     "ranks": {
@@ -76,7 +76,11 @@
       "max_1v1": 2752,
       "cur_tg": 1763,
       "max_tg": 1885,
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 515833047,
+        "game": "1v1 Random Map"
+      }
     },
     {
       "profile_id": 2920057,
@@ -228,6 +232,16 @@
       "last_1v1": "2026-10-23"
     },
     {
+      "profile_id": 12723994,
+      "tag": "PuNii",
+      "clan": "VENÓN",
+      "cur_1v1": 2282,
+      "max_1v1": 2315,
+      "cur_tg": 1821,
+      "max_tg": 1922,
+      "last_1v1": "2026-10-24"
+    },
+    {
       "profile_id": 2598146,
       "tag": "SiNisTeR",
       "clan": "VENÓN",
@@ -236,20 +250,6 @@
       "cur_tg": 2182,
       "max_tg": 2227,
       "last_1v1": "2026-10-19"
-    },
-    {
-      "profile_id": 12723994,
-      "tag": "PuNii",
-      "clan": "VENÓN",
-      "cur_1v1": 2278,
-      "max_1v1": 2315,
-      "cur_tg": 1821,
-      "max_tg": 1922,
-      "last_1v1": "2026-10-23",
-      "live": {
-        "match": 515831705,
-        "game": "1v1 Random Map"
-      }
     },
     {
       "profile_id": 757886,
@@ -596,13 +596,13 @@
     {
       "profile_id": 3254820,
       "tag": "__Chino",
-      "cur_1v1": 1879,
+      "cur_1v1": 1858,
       "max_1v1": 2003,
       "cur_tg": 1417,
       "max_tg": 1417,
-      "last_1v1": "2026-10-23",
+      "last_1v1": "2026-10-24",
       "live": {
-        "match": 515830143,
+        "match": 515833182,
         "game": "1v1 Random Map"
       }
     }
