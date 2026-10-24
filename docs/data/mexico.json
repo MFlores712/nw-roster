@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-24T05:15:08Z",
+  "updated_at": "2026-10-24T05:20:09Z",
   "baseline": {
     "taken_at": "2026-10-23T14:00:15Z",
     "ranks": {
@@ -165,11 +165,7 @@
       "max_1v1": 2394,
       "cur_tg": 1864,
       "max_tg": 2099,
-      "last_1v1": "2026-10-23",
-      "live": {
-        "match": 515876345,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-23"
     },
     {
       "profile_id": 9031952,
@@ -203,20 +199,6 @@
       "last_1v1": "2026-10-23"
     },
     {
-      "profile_id": 12723994,
-      "tag": "PuNii",
-      "clan": "VENÓN",
-      "cur_1v1": 2282,
-      "max_1v1": 2315,
-      "cur_tg": 1826,
-      "max_tg": 1922,
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 515878742,
-        "game": "1v1 Random Map"
-      }
-    },
-    {
       "profile_id": 2598146,
       "tag": "SiNisTeR",
       "clan": "VENÓN",
@@ -225,6 +207,16 @@
       "cur_tg": 2182,
       "max_tg": 2227,
       "last_1v1": "2026-10-19"
+    },
+    {
+      "profile_id": 12723994,
+      "tag": "PuNii",
+      "clan": "VENÓN",
+      "cur_1v1": 2267,
+      "max_1v1": 2315,
+      "cur_tg": 1826,
+      "max_tg": 1922,
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 757886,
