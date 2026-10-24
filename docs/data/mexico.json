@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-24T05:25:09Z",
+  "updated_at": "2026-10-24T05:30:10Z",
   "baseline": {
     "taken_at": "2026-10-23T14:00:15Z",
     "ranks": {
@@ -286,13 +286,9 @@
       "clan": "hK",
       "cur_1v1": 2174,
       "max_1v1": 2233,
-      "cur_tg": 1941,
+      "cur_tg": 1924,
       "max_tg": 1983,
-      "last_1v1": "2026-10-23",
-      "live": {
-        "match": 515880353,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-23"
     },
     {
       "profile_id": 5803221,
@@ -359,13 +355,9 @@
       "tag": "SynfonY",
       "cur_1v1": 2032,
       "max_1v1": 2032,
-      "cur_tg": 1871,
+      "cur_tg": 1857,
       "max_tg": 1962,
-      "last_1v1": "2026-10-21",
-      "live": {
-        "match": 515880353,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-21"
     },
     {
       "profile_id": 13215279,
@@ -382,13 +374,9 @@
       "tag": "Biner",
       "cur_1v1": 2016,
       "max_1v1": 2016,
-      "cur_tg": 1670,
+      "cur_tg": 1659,
       "max_tg": 1670,
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 515879714,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 6501299,
@@ -399,20 +387,6 @@
       "cur_tg": 1731,
       "max_tg": 1745,
       "last_1v1": "2026-10-13"
-    },
-    {
-      "profile_id": 2850920,
-      "tag": "Chimtzin",
-      "clan": "Ux",
-      "cur_1v1": 2006,
-      "max_1v1": 2124,
-      "cur_tg": 1633,
-      "max_tg": 1820,
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 515880216,
-        "game": "1v1 Random Map"
-      }
     },
     {
       "profile_id": 2934597,
@@ -442,6 +416,16 @@
       "cur_tg": 1804,
       "max_tg": 1820,
       "last_1v1": "2026-10-23"
+    },
+    {
+      "profile_id": 2850920,
+      "tag": "Chimtzin",
+      "clan": "Ux",
+      "cur_1v1": 1989,
+      "max_1v1": 2124,
+      "cur_tg": 1633,
+      "max_tg": 1820,
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 235877,
