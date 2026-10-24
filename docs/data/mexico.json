@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-24T08:15:08Z",
+  "updated_at": "2026-10-24T08:20:10Z",
   "baseline": {
     "taken_at": "2026-10-23T14:00:15Z",
     "ranks": {
@@ -110,11 +110,15 @@
       "profile_id": 9449579,
       "tag": "Miauricio",
       "clan": "VENÓN",
-      "cur_1v1": 2468,
+      "cur_1v1": 2451,
       "max_1v1": 2573,
       "cur_tg": 2140,
       "max_tg": 2151,
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 515907872,
+        "game": "1v1 Random Map"
+      }
     },
     {
       "profile_id": 401359,
@@ -185,7 +189,7 @@
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
       "live": {
-        "match": 515903939,
+        "match": 515907999,
         "game": "1v1 Random Map",
         "account": "FierroFlash"
       }
@@ -514,7 +518,12 @@
       "max_1v1": 1996,
       "cur_tg": 1820,
       "max_tg": 1821,
-      "last_1v1": "2026-09-18"
+      "last_1v1": "2026-09-18",
+      "live": {
+        "match": 515907397,
+        "game": "Unranked",
+        "account": "[GDL]BetoxAOE"
+      }
     },
     {
       "profile_id": 13241217,
