@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-24T22:30:09Z",
+  "updated_at": "2026-10-24T22:35:08Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -191,9 +191,9 @@
       "tag": "The .Gocho",
       "cur_1v1": 1814,
       "max_1v1": 1814,
-      "cur_tg": 1739,
+      "cur_tg": 1717,
       "max_tg": 1839,
-      "last_tg": "2026-10-22",
+      "last_tg": "2026-10-24",
       "last_1v1": "2026-10-09",
       "live": {
         "match": 516089718,

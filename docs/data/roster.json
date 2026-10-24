@@ -1,6 +1,6 @@
 {
   "name": "new Wave",
-  "updated_at": "2026-10-24T22:25:08Z",
+  "updated_at": "2026-10-24T22:35:08Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -72,22 +72,6 @@
       "last_tg": "2026-10-23"
     },
     {
-      "profile_id": 1359694,
-      "tag": "AtilA",
-      "country": "Peru",
-      "cur_1v1": 2007,
-      "max_1v1": 2123,
-      "cur_tg": 1637,
-      "max_tg": 1670,
-      "last_tg": "2026-09-07",
-      "last_1v1": "2026-10-21",
-      "live": {
-        "match": 516092506,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 2934597,
       "tag": "Sgt.Pepper",
       "country": "Mexico",
@@ -97,6 +81,17 @@
       "max_tg": 1735,
       "last_1v1": "2026-10-23",
       "last_tg": "2026-09-07"
+    },
+    {
+      "profile_id": 1359694,
+      "tag": "AtilA",
+      "country": "Peru",
+      "cur_1v1": 2002,
+      "max_1v1": 2123,
+      "cur_tg": 1637,
+      "max_tg": 1670,
+      "last_tg": "2026-09-07",
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 6501299,

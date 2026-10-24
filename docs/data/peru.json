@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-24T22:30:09Z",
+  "updated_at": "2026-10-24T22:35:08Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -106,15 +106,10 @@
       "tag": "noru",
       "cur_1v1": 2031,
       "max_1v1": 2031,
-      "cur_tg": 1645,
+      "cur_tg": 1659,
       "max_tg": 1840,
       "last_tg": "2026-10-24",
-      "last_1v1": "2026-09-24",
-      "live": {
-        "match": 516090802,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_1v1": "2026-09-24"
     },
     {
       "profile_id": 2366434,
@@ -151,17 +146,12 @@
       "profile_id": 1359694,
       "tag": "AtilA",
       "clan": "nW",
-      "cur_1v1": 2007,
+      "cur_1v1": 2002,
       "max_1v1": 2123,
       "cur_tg": 1637,
       "max_tg": 1670,
       "last_tg": "2026-09-07",
-      "last_1v1": "2026-10-21",
-      "live": {
-        "match": 516092506,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 12167914,
@@ -172,7 +162,12 @@
       "cur_tg": 1925,
       "max_tg": 1992,
       "last_1v1": "2026-10-20",
-      "last_tg": "2026-10-24"
+      "last_tg": "2026-10-24",
+      "live": {
+        "match": 516095118,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 633255,
