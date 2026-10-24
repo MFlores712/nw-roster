@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-24T00:30:12Z",
+  "updated_at": "2026-10-24T00:35:10Z",
   "baseline": {
     "taken_at": "2026-10-23T14:00:15Z",
     "ranks": {
@@ -72,11 +72,15 @@
       "profile_id": 5984120,
       "tag": "Combito",
       "clan": "Ux",
-      "cur_1v1": 2651,
+      "cur_1v1": 2655,
       "max_1v1": 2752,
       "cur_tg": 1763,
       "max_tg": 1885,
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 515831128,
+        "game": "1v1 Random Map"
+      }
     },
     {
       "profile_id": 2920057,
@@ -130,7 +134,11 @@
       "max_1v1": 2433,
       "cur_tg": 2058,
       "max_tg": 2104,
-      "last_1v1": "2026-10-23"
+      "last_1v1": "2026-10-23",
+      "live": {
+        "match": 515831108,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 310739,
@@ -138,13 +146,9 @@
       "clan": "hK",
       "cur_1v1": 2395,
       "max_1v1": 2484,
-      "cur_tg": 1855,
+      "cur_tg": 1864,
       "max_tg": 1959,
-      "last_1v1": "2026-10-23",
-      "live": {
-        "match": 515828745,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-23"
     },
     {
       "profile_id": 312774,
@@ -152,22 +156,22 @@
       "clan": "hK",
       "cur_1v1": 2341,
       "max_1v1": 2469,
-      "cur_tg": 1856,
+      "cur_tg": 1865,
       "max_tg": 2072,
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 515828745,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 2295504,
       "tag": "Eren",
-      "cur_1v1": 2333,
+      "cur_1v1": 2329,
       "max_1v1": 2333,
       "cur_tg": 1845,
       "max_tg": 1907,
-      "last_1v1": "2026-10-03"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 515831128,
+        "game": "1v1 Random Map"
+      }
     },
     {
       "profile_id": 1485562,
@@ -187,12 +191,7 @@
       "max_1v1": 2322,
       "cur_tg": 1990,
       "max_tg": 1995,
-      "last_1v1": "2026-10-17",
-      "live": {
-        "match": 515828745,
-        "game": "Team Random Map",
-        "account": "FierroFlash"
-      }
+      "last_1v1": "2026-10-17"
     },
     {
       "profile_id": 9666666,
@@ -233,7 +232,11 @@
       "max_1v1": 2315,
       "cur_tg": 1821,
       "max_tg": 1922,
-      "last_1v1": "2026-10-23"
+      "last_1v1": "2026-10-23",
+      "live": {
+        "match": 515831705,
+        "game": "1v1 Random Map"
+      }
     },
     {
       "profile_id": 757886,
@@ -262,7 +265,11 @@
       "max_1v1": 2317,
       "cur_tg": 2058,
       "max_tg": 2083,
-      "last_1v1": "2026-10-23"
+      "last_1v1": "2026-10-23",
+      "live": {
+        "match": 515831108,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 914665,
@@ -277,15 +284,11 @@
     {
       "profile_id": 580573,
       "tag": "Bluku_Uktan",
-      "cur_1v1": 2195,
+      "cur_1v1": 2192,
       "max_1v1": 2350,
       "cur_tg": 1840,
       "max_tg": 1974,
-      "last_1v1": "2026-10-23",
-      "live": {
-        "match": 515828854,
-        "game": "1v1 Random Map"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 13138746,
@@ -295,7 +298,11 @@
       "max_1v1": 2233,
       "cur_tg": 1841,
       "max_tg": 1983,
-      "last_1v1": "2026-10-23"
+      "last_1v1": "2026-10-23",
+      "live": {
+        "match": 515831331,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 5803221,
