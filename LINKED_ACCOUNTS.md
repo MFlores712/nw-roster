@@ -1,6 +1,6 @@
 # Linked accounts
 
-Generated 2026-10-24T14:00:12Z from aoe2companion's linked profiles (followed up to 4 links deep; each account belongs to the closest listed player).
+Generated 2026-10-24T15:00:12Z from aoe2companion's linked profiles (followed up to 4 links deep; each account belongs to the closest listed player).
 Used to show players LIVE when they play on any of their accounts. Ratings are RM 1v1.
 
 ## new Wave
@@ -8,7 +8,7 @@ Used to show players LIVE when they play on any of their accounts. Ratings are R
 | Player | Linked accounts |
 |---|---|
 | Manuel | — |
-| iamkaito | nW / iamkaito (2301) |
+| iamkaito | nW / iamkaito (2085) |
 | Caguamas | Fontana Bella (2076), Jose Ali (1660), Cawi (2232) |
 | Sgt.Pepper | Hozmi (2160) |
 | Abejorro | El_Abejorro (1609), Benito Juárez (—), Benito Camelo (—), Obsidian Dragon (1877) |
@@ -33,7 +33,7 @@ Used to show players LIVE when they play on any of their accounts. Ratings are R
 | VENÓN SiNisTeR | VENÓN / SiNisTeR (2409), SiNisTeR (2114), Taquería El Primo (2041), OrangeKato (—), DSLG / Acuna (1516, 2 links away), Pichulita Feli (—, 3 links away), DSLG / NotAcuna (1649, 3 links away), NotAcuna_ (1529, 3 links away) |
 | hK Puerco Black | THE_BLACK_PIG (—), PuercoBlackTG (—), BlukuUktan (—), blukuuktan (—), lechon_negro (—), BlackAbE (—), puerco_white (—), Rook4Ever (1968), mamadejuannn (1793), RandomPlayer (1639), SecretFace (2150), osirismichelle95 (2008) |
 | Eren | Volg (2296), Rhaegar (1879), hK / Andobienmachinsobrelaidea (1886), Mexican Pyscho (1777), twitch.tv/sunshine_aoe (1843), Tryw (—), LE / Dimoking (1661, 2 links away), larryRy cañonga! (—, 2 links away) |
-| iamkaito | nW / iamkaito (2301) |
+| iamkaito | nW / iamkaito (2085) |
 | hK ChossMx | FierroFlash (2144) |
 | VN DarK_KnighT_ | 1106779817143 (1979) |
 | Caguamas | Fontana Bella (2076), Jose Ali (1660), Cawi (2232) |
@@ -69,6 +69,7 @@ Used to show players LIVE when they play on any of their accounts. Ratings are R
 | Ux Nova | — |
 | MooN | Annlost13 (1712), Luna (1644), MooN / Lunatico (1831), al03069175 (1478) |
 | SotC Spirit | Capibarita (1645) |
+| 400111 | Simbolos (1912) |
 
 ## Colombia
 

@@ -1,19 +1,19 @@
 {
- "updated_at": "2026-10-24T14:00:12Z",
+ "updated_at": "2026-10-24T15:00:12Z",
  "players": {
   "22889810": {
    "name": "Manuel",
    "accounts": []
   },
-  "14666598": {
+  "3816609": {
    "name": "iamkaito",
    "accounts": [
     {
-     "id": 3816609,
+     "id": 14666598,
      "hops": 1,
      "name": "nW | iamkaito",
-     "rating": 2301,
-     "last": "2026-10-23"
+     "rating": 2085,
+     "last": "2026-10-16"
     }
    ]
   },
@@ -1293,6 +1293,18 @@
      "name": "Capibarita",
      "rating": 1645,
      "last": "2024-08-21"
+    }
+   ]
+  },
+  "400111": {
+   "name": "400111",
+   "accounts": [
+    {
+     "id": 5731478,
+     "hops": 1,
+     "name": "Simbolos",
+     "rating": 1912,
+     "last": "2024-06-25"
     }
    ]
   },
