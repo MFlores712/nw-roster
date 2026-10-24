@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-24T04:35:09Z",
+  "updated_at": "2026-10-24T04:40:08Z",
   "baseline": {
     "taken_at": "2026-10-23T14:00:15Z",
     "ranks": {
@@ -69,6 +69,20 @@
       "last_1v1": "2026-10-23"
     },
     {
+      "profile_id": 5984120,
+      "tag": "Combito",
+      "clan": "Ux",
+      "cur_1v1": 2618,
+      "max_1v1": 2752,
+      "cur_tg": 1763,
+      "max_tg": 1885,
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 515875714,
+        "game": "1v1 Random Map"
+      }
+    },
+    {
       "profile_id": 2920057,
       "tag": "Lobo",
       "clan": "Ux",
@@ -77,20 +91,6 @@
       "cur_tg": 2062,
       "max_tg": 2105,
       "last_1v1": "2026-10-22"
-    },
-    {
-      "profile_id": 5984120,
-      "tag": "Combito",
-      "clan": "Ux",
-      "cur_1v1": 2601,
-      "max_1v1": 2752,
-      "cur_tg": 1763,
-      "max_tg": 1885,
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 515870966,
-        "game": "1v1 Random Map"
-      }
     },
     {
       "profile_id": 13099159,
@@ -171,13 +171,9 @@
       "clan": "VENÓN",
       "cur_1v1": 2324,
       "max_1v1": 2394,
-      "cur_tg": 1845,
+      "cur_tg": 1856,
       "max_tg": 2099,
-      "last_1v1": "2026-10-23",
-      "live": {
-        "match": 515871192,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-23"
     },
     {
       "profile_id": 9031952,
@@ -187,12 +183,7 @@
       "max_1v1": 2322,
       "cur_tg": 1990,
       "max_tg": 1995,
-      "last_1v1": "2026-10-17",
-      "live": {
-        "match": 515873545,
-        "game": "1v1 Random Map",
-        "account": "FierroFlash"
-      }
+      "last_1v1": "2026-10-17"
     },
     {
       "profile_id": 9666666,
@@ -389,7 +380,11 @@
       "max_1v1": 2016,
       "cur_tg": 1660,
       "max_tg": 1660,
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 515875627,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 6501299,
@@ -521,11 +516,7 @@
       "max_1v1": 1970,
       "cur_tg": 1753,
       "max_tg": 1865,
-      "last_1v1": "2026-10-16",
-      "live": {
-        "match": 515871258,
-        "game": "Unranked"
-      }
+      "last_1v1": "2026-10-16"
     },
     {
       "profile_id": 2969449,
