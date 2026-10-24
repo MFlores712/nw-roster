@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-24T20:55:07Z",
+  "updated_at": "2026-10-24T21:00:13Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -217,20 +217,9 @@
       "cur_tg": 1828,
       "max_tg": 1828,
       "last_1v1": "2026-10-23",
-      "last_tg": "2026-10-24"
-    },
-    {
-      "profile_id": 757886,
-      "tag": "DarK_KnighT_",
-      "clan": "VN",
-      "cur_1v1": 2282,
-      "max_1v1": 2285,
-      "cur_tg": 1842,
-      "max_tg": 2050,
-      "last_1v1": "2026-10-24",
       "last_tg": "2026-10-24",
       "live": {
-        "match": 516067562,
+        "match": 516073003,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -247,6 +236,17 @@
       "last_1v1": "2026-10-19"
     },
     {
+      "profile_id": 757886,
+      "tag": "DarK_KnighT_",
+      "clan": "VN",
+      "cur_1v1": 2272,
+      "max_1v1": 2285,
+      "cur_tg": 1842,
+      "max_tg": 2050,
+      "last_1v1": "2026-10-24",
+      "last_tg": "2026-10-24"
+    },
+    {
       "profile_id": 12723994,
       "tag": "PuNii",
       "clan": "VENÓN",
@@ -255,13 +255,7 @@
       "cur_tg": 1826,
       "max_tg": 1922,
       "last_tg": "2026-10-24",
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 516069843,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "VENÓN | 45 Dias habiles"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 580573,
@@ -312,15 +306,10 @@
       "clan": "hK",
       "cur_1v1": 2174,
       "max_1v1": 2233,
-      "cur_tg": 1896,
+      "cur_tg": 1900,
       "max_tg": 1983,
       "last_1v1": "2026-10-23",
-      "last_tg": "2026-10-24",
-      "live": {
-        "match": 516068474,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-24"
     },
     {
       "profile_id": 5803221,
