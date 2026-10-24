@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-24T23:20:10Z",
+  "updated_at": "2026-10-24T23:25:08Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -117,13 +117,7 @@
       "cur_tg": 2140,
       "max_tg": 2151,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-15",
-      "live": {
-        "match": 516097695,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "[GDL] Chuchito"
-      }
+      "last_tg": "2026-10-15"
     },
     {
       "profile_id": 4221810,
@@ -306,15 +300,10 @@
       "clan": "hK",
       "cur_1v1": 2174,
       "max_1v1": 2233,
-      "cur_tg": 1904,
+      "cur_tg": 1911,
       "max_tg": 1983,
       "last_1v1": "2026-10-23",
-      "last_tg": "2026-10-24",
-      "live": {
-        "match": 516098569,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-24"
     },
     {
       "profile_id": 5803221,
@@ -575,22 +564,6 @@
       "last_1v1": "2026-09-18"
     },
     {
-      "profile_id": 13241217,
-      "tag": "BlueUltra",
-      "clan": "Ux",
-      "cur_1v1": 1916,
-      "max_1v1": 1993,
-      "cur_tg": 1636,
-      "max_tg": 1688,
-      "last_1v1": "2026-10-23",
-      "last_tg": "2026-10-24",
-      "live": {
-        "match": 516099261,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 324005,
       "tag": "Narizberto",
       "clan": "VN",
@@ -599,7 +572,13 @@
       "cur_tg": 1793,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-10-22"
+      "last_tg": "2026-10-22",
+      "live": {
+        "match": 516104970,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "ZUKO | Tag Exiliado Exile"
+      }
     },
     {
       "profile_id": 12472496,
@@ -615,17 +594,23 @@
     {
       "profile_id": 3254820,
       "tag": "__Chino",
-      "cur_1v1": 1900,
+      "cur_1v1": 1907,
       "max_1v1": 2003,
       "cur_tg": 1417,
       "max_tg": 1417,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-23",
-      "live": {
-        "match": 516100151,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-23"
+    },
+    {
+      "profile_id": 13241217,
+      "tag": "BlueUltra",
+      "clan": "Ux",
+      "cur_1v1": 1904,
+      "max_1v1": 1993,
+      "cur_tg": 1636,
+      "max_tg": 1688,
+      "last_1v1": "2026-10-24",
+      "last_tg": "2026-10-24"
     }
   ],
   "show_top": 45,
