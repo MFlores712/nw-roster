@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-24T19:00:13Z",
+  "updated_at": "2026-10-24T19:05:09Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -199,13 +199,7 @@
       "cur_tg": 1990,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-10-21",
-      "live": {
-        "match": 516037301,
-        "game": "Team Random Map",
-        "format": "3v3",
-        "account": "FierroFlash"
-      }
+      "last_tg": "2026-10-21"
     },
     {
       "profile_id": 9666666,
@@ -231,6 +225,17 @@
       "last_tg": "2026-10-24"
     },
     {
+      "profile_id": 757886,
+      "tag": "DarK_KnighT_",
+      "clan": "VN",
+      "cur_1v1": 2282,
+      "max_1v1": 2285,
+      "cur_tg": 1842,
+      "max_tg": 2050,
+      "last_1v1": "2026-10-24",
+      "last_tg": "2026-10-24"
+    },
+    {
       "profile_id": 2598146,
       "tag": "SiNisTeR",
       "clan": "VENÓN",
@@ -251,22 +256,6 @@
       "max_tg": 1922,
       "last_tg": "2026-10-24",
       "last_1v1": "2026-10-24"
-    },
-    {
-      "profile_id": 757886,
-      "tag": "DarK_KnighT_",
-      "clan": "VN",
-      "cur_1v1": 2265,
-      "max_1v1": 2285,
-      "cur_tg": 1842,
-      "max_tg": 2050,
-      "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-24",
-      "live": {
-        "match": 516036051,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 580573,
