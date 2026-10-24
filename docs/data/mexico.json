@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-24T07:00:15Z",
+  "updated_at": "2026-10-24T07:10:09Z",
   "baseline": {
     "taken_at": "2026-10-23T14:00:15Z",
     "ranks": {
@@ -76,7 +76,11 @@
       "max_1v1": 2752,
       "cur_tg": 1788,
       "max_tg": 1885,
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 515898586,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 2920057,
@@ -96,7 +100,11 @@
       "max_1v1": 2629,
       "cur_tg": 1886,
       "max_tg": 1999,
-      "last_1v1": "2026-10-21"
+      "last_1v1": "2026-10-21",
+      "live": {
+        "match": 515898586,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 9449579,
@@ -201,7 +209,12 @@
       "max_1v1": 2301,
       "cur_tg": 1843,
       "max_tg": 1854,
-      "last_1v1": "2026-10-23"
+      "last_1v1": "2026-10-23",
+      "live": {
+        "match": 515898206,
+        "game": "Team Random Map",
+        "account": "iamkaito"
+      }
     },
     {
       "profile_id": 2598146,
@@ -278,7 +291,7 @@
       "clan": "hK",
       "cur_1v1": 2174,
       "max_1v1": 2233,
-      "cur_tg": 1903,
+      "cur_tg": 1910,
       "max_tg": 1983,
       "last_1v1": "2026-10-23",
       "live": {
@@ -515,12 +528,7 @@
       "max_1v1": 1996,
       "cur_tg": 1820,
       "max_tg": 1821,
-      "last_1v1": "2026-09-18",
-      "live": {
-        "match": 515890559,
-        "game": "Unranked",
-        "account": "[GDL]BetoxAOE"
-      }
+      "last_1v1": "2026-09-18"
     },
     {
       "profile_id": 13241217,
