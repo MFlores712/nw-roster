@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-24T02:25:08Z",
+  "updated_at": "2026-10-24T02:30:12Z",
   "baseline": {
     "taken_at": "2026-10-23T14:00:15Z",
     "ranks": {
@@ -186,7 +186,7 @@
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
       "live": {
-        "match": 515847116,
+        "match": 515852276,
         "game": "1v1 Random Map",
         "account": "FierroFlash"
       }
@@ -389,13 +389,9 @@
       "tag": "Biner",
       "cur_1v1": 2016,
       "max_1v1": 2016,
-      "cur_tg": 1625,
-      "max_tg": 1631,
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 515850050,
-        "game": "Team Random Map"
-      }
+      "cur_tg": 1639,
+      "max_tg": 1639,
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 6501299,
