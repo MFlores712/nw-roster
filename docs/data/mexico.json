@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-24T21:45:09Z",
+  "updated_at": "2026-10-24T21:50:08Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -74,14 +74,14 @@
       "profile_id": 5984120,
       "tag": "Combito",
       "clan": "Ux",
-      "cur_1v1": 2673,
+      "cur_1v1": 2658,
       "max_1v1": 2752,
       "cur_tg": 1801,
       "max_tg": 1885,
       "last_1v1": "2026-10-24",
       "last_tg": "2026-10-24",
       "live": {
-        "match": 516082168,
+        "match": 516085484,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -128,7 +128,13 @@
       "cur_tg": 2050,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-24"
+      "last_tg": "2026-10-24",
+      "live": {
+        "match": 516084785,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "The_Fury"
+      }
     },
     {
       "profile_id": 401359,
@@ -618,13 +624,7 @@
       "cur_tg": 1793,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-10-22",
-      "live": {
-        "match": 516075169,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "ZUKO | Tag Exiliado Exile"
-      }
+      "last_tg": "2026-10-22"
     },
     {
       "profile_id": 12472496,
