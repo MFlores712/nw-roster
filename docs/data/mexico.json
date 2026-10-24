@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-24T01:05:08Z",
+  "updated_at": "2026-10-24T01:10:10Z",
   "baseline": {
     "taken_at": "2026-10-23T14:00:15Z",
     "ranks": {
@@ -306,13 +306,9 @@
       "clan": "hK",
       "cur_1v1": 2174,
       "max_1v1": 2233,
-      "cur_tg": 1854,
+      "cur_tg": 1875,
       "max_tg": 1983,
-      "last_1v1": "2026-10-23",
-      "live": {
-        "match": 515834672,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-23"
     },
     {
       "profile_id": 5803221,
@@ -404,6 +400,15 @@
       "last_1v1": "2026-10-21"
     },
     {
+      "profile_id": 2291749,
+      "tag": "Biner",
+      "cur_1v1": 2016,
+      "max_1v1": 2016,
+      "cur_tg": 1613,
+      "max_tg": 1631,
+      "last_1v1": "2026-10-24"
+    },
+    {
       "profile_id": 6501299,
       "tag": "ShutAzarquay",
       "clan": "nW",
@@ -422,19 +427,6 @@
       "cur_tg": 1718,
       "max_tg": 1735,
       "last_1v1": "2026-10-23"
-    },
-    {
-      "profile_id": 2291749,
-      "tag": "Biner",
-      "cur_1v1": 2002,
-      "max_1v1": 2002,
-      "cur_tg": 1613,
-      "max_tg": 1631,
-      "last_1v1": "2026-10-21",
-      "live": {
-        "match": 515832662,
-        "game": "1v1 Random Map"
-      }
     },
     {
       "profile_id": 233625,
@@ -473,7 +465,11 @@
       "max_1v1": 1972,
       "cur_tg": 1607,
       "max_tg": 1824,
-      "last_1v1": "2026-10-13"
+      "last_1v1": "2026-10-13",
+      "live": {
+        "match": 515837509,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 3285258,
@@ -532,7 +528,11 @@
       "max_1v1": 1970,
       "cur_tg": 1735,
       "max_tg": 1865,
-      "last_1v1": "2026-10-16"
+      "last_1v1": "2026-10-16",
+      "live": {
+        "match": 515837509,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 2969449,
