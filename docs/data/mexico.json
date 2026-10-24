@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-24T06:50:09Z",
+  "updated_at": "2026-10-24T07:00:15Z",
   "baseline": {
     "taken_at": "2026-10-23T14:00:15Z",
     "ranks": {
@@ -74,13 +74,9 @@
       "clan": "Ux",
       "cur_1v1": 2634,
       "max_1v1": 2752,
-      "cur_tg": 1777,
+      "cur_tg": 1788,
       "max_tg": 1885,
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 515892169,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 2920057,
@@ -98,13 +94,9 @@
       "clan": "Ux",
       "cur_1v1": 2585,
       "max_1v1": 2629,
-      "cur_tg": 1878,
+      "cur_tg": 1886,
       "max_tg": 1999,
-      "last_1v1": "2026-10-21",
-      "live": {
-        "match": 515892169,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-21"
     },
     {
       "profile_id": 9449579,
@@ -183,7 +175,12 @@
       "max_1v1": 2322,
       "cur_tg": 1990,
       "max_tg": 1995,
-      "last_1v1": "2026-10-17"
+      "last_1v1": "2026-10-17",
+      "live": {
+        "match": 515896639,
+        "game": "Team Random Map",
+        "account": "FierroFlash"
+      }
     },
     {
       "profile_id": 9666666,
@@ -283,7 +280,11 @@
       "max_1v1": 2233,
       "cur_tg": 1903,
       "max_tg": 1983,
-      "last_1v1": "2026-10-23"
+      "last_1v1": "2026-10-23",
+      "live": {
+        "match": 515896639,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 5803221,
@@ -479,7 +480,12 @@
       "max_1v1": 2060,
       "cur_tg": 1700,
       "max_tg": 1788,
-      "last_1v1": "2026-10-19"
+      "last_1v1": "2026-10-19",
+      "live": {
+        "match": 515896639,
+        "game": "Team Random Map",
+        "account": "hK | Charles Martel"
+      }
     },
     {
       "profile_id": 278380,
