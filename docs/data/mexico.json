@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-24T03:50:09Z",
+  "updated_at": "2026-10-24T03:55:07Z",
   "baseline": {
     "taken_at": "2026-10-23T14:00:15Z",
     "ranks": {
@@ -76,7 +76,11 @@
       "max_1v1": 2752,
       "cur_tg": 1763,
       "max_tg": 1885,
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 515867939,
+        "game": "1v1 Random Map"
+      }
     },
     {
       "profile_id": 2920057,
