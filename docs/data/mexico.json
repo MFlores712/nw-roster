@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-24T22:00:14Z",
+  "updated_at": "2026-10-24T22:05:09Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -246,7 +246,7 @@
       "last_tg": "2026-10-24",
       "last_1v1": "2026-10-24",
       "live": {
-        "match": 516085746,
+        "match": 516088519,
         "game": "Team Random Map",
         "format": "2v2",
         "account": "VENÓN | 45 Dias habiles"
@@ -599,7 +599,12 @@
       "cur_tg": 1417,
       "max_tg": 1417,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-23"
+      "last_tg": "2026-10-23",
+      "live": {
+        "match": 516088470,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 324005,
