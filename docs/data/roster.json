@@ -1,6 +1,6 @@
 {
   "name": "new Wave",
-  "updated_at": "2026-10-24T17:10:09Z",
+  "updated_at": "2026-10-24T17:35:08Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -47,13 +47,7 @@
       "cur_tg": 1880,
       "max_tg": 2024,
       "last_1v1": "2026-10-20",
-      "last_tg": "2026-10-23",
-      "live": {
-        "match": 516013187,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "Cawi"
-      }
+      "last_tg": "2026-10-23"
     },
     {
       "profile_id": 1947348,
