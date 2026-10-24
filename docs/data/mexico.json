@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-24T09:00:13Z",
+  "updated_at": "2026-10-24T09:05:09Z",
   "baseline": {
     "taken_at": "2026-10-23T14:00:15Z",
     "ranks": {
@@ -179,12 +179,7 @@
       "max_1v1": 2322,
       "cur_tg": 1990,
       "max_tg": 1995,
-      "last_1v1": "2026-10-17",
-      "live": {
-        "match": 515912041,
-        "game": "1v1 Random Map",
-        "account": "FierroFlash"
-      }
+      "last_1v1": "2026-10-17"
     },
     {
       "profile_id": 9666666,
@@ -510,7 +505,12 @@
       "max_1v1": 1996,
       "cur_tg": 1820,
       "max_tg": 1821,
-      "last_1v1": "2026-09-18"
+      "last_1v1": "2026-09-18",
+      "live": {
+        "match": 515913978,
+        "game": "Quick Play 1v1 Random Map",
+        "account": "James P. Solivan"
+      }
     },
     {
       "profile_id": 13241217,
