@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-24T00:15:09Z",
+  "updated_at": "2026-10-24T00:20:10Z",
   "baseline": {
     "taken_at": "2026-10-23T14:00:15Z",
     "ranks": {
@@ -140,7 +140,11 @@
       "max_1v1": 2484,
       "cur_tg": 1855,
       "max_tg": 1959,
-      "last_1v1": "2026-10-23"
+      "last_1v1": "2026-10-23",
+      "live": {
+        "match": 515828745,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 312774,
@@ -150,7 +154,11 @@
       "max_1v1": 2469,
       "cur_tg": 1856,
       "max_tg": 2072,
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 515828745,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 2295504,
@@ -179,7 +187,12 @@
       "max_1v1": 2322,
       "cur_tg": 1990,
       "max_tg": 1995,
-      "last_1v1": "2026-10-17"
+      "last_1v1": "2026-10-17",
+      "live": {
+        "match": 515828745,
+        "game": "Team Random Map",
+        "account": "FierroFlash"
+      }
     },
     {
       "profile_id": 9666666,
@@ -272,7 +285,11 @@
       "max_1v1": 2350,
       "cur_tg": 1840,
       "max_tg": 1974,
-      "last_1v1": "2026-10-23"
+      "last_1v1": "2026-10-23",
+      "live": {
+        "match": 515828854,
+        "game": "1v1 Random Map"
+      }
     },
     {
       "profile_id": 13138746,
