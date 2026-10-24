@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-24T01:10:10Z",
+  "updated_at": "2026-10-24T01:15:10Z",
   "baseline": {
     "taken_at": "2026-10-23T14:00:15Z",
     "ranks": {
@@ -72,15 +72,11 @@
       "profile_id": 5984120,
       "tag": "Combito",
       "clan": "Ux",
-      "cur_1v1": 2637,
+      "cur_1v1": 2631,
       "max_1v1": 2752,
       "cur_tg": 1763,
       "max_tg": 1885,
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 515835062,
-        "game": "1v1 Random Map"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 2920057,
@@ -155,6 +151,15 @@
       "last_1v1": "2026-10-23"
     },
     {
+      "profile_id": 2295504,
+      "tag": "Eren",
+      "cur_1v1": 2345,
+      "max_1v1": 2345,
+      "cur_tg": 1845,
+      "max_tg": 1907,
+      "last_1v1": "2026-10-24"
+    },
+    {
       "profile_id": 312774,
       "tag": "Keno_",
       "clan": "hK",
@@ -163,19 +168,6 @@
       "cur_tg": 1876,
       "max_tg": 2072,
       "last_1v1": "2026-10-24"
-    },
-    {
-      "profile_id": 2295504,
-      "tag": "Eren",
-      "cur_1v1": 2332,
-      "max_1v1": 2333,
-      "cur_tg": 1845,
-      "max_tg": 1907,
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 515835280,
-        "game": "1v1 Random Map"
-      }
     },
     {
       "profile_id": 1485562,
@@ -197,7 +189,7 @@
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
       "live": {
-        "match": 515835280,
+        "match": 515838425,
         "game": "1v1 Random Map",
         "account": "FierroFlash"
       }
@@ -231,7 +223,11 @@
       "max_1v1": 2315,
       "cur_tg": 1821,
       "max_tg": 1922,
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 515838259,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 2598146,
@@ -288,7 +284,11 @@
       "max_1v1": 2350,
       "cur_tg": 1840,
       "max_tg": 1974,
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 515838425,
+        "game": "1v1 Random Map"
+      }
     },
     {
       "profile_id": 914665,
@@ -308,7 +308,11 @@
       "max_1v1": 2233,
       "cur_tg": 1875,
       "max_tg": 1983,
-      "last_1v1": "2026-10-23"
+      "last_1v1": "2026-10-23",
+      "live": {
+        "match": 515838136,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 5803221,
