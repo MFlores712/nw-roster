@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-24T21:50:08Z",
+  "updated_at": "2026-10-24T21:55:08Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -153,15 +153,10 @@
       "clan": "hK",
       "cur_1v1": 2395,
       "max_1v1": 2484,
-      "cur_tg": 1875,
+      "cur_tg": 1857,
       "max_tg": 1959,
       "last_1v1": "2026-10-23",
-      "last_tg": "2026-10-24",
-      "live": {
-        "match": 516078274,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-24"
     },
     {
       "profile_id": 2295504,
@@ -179,15 +174,10 @@
       "clan": "hK",
       "cur_1v1": 2341,
       "max_1v1": 2469,
-      "cur_tg": 1876,
+      "cur_tg": 1858,
       "max_tg": 2072,
       "last_tg": "2026-10-24",
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 516078274,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 1485562,
@@ -206,15 +196,10 @@
       "clan": "hK",
       "cur_1v1": 2322,
       "max_1v1": 2322,
-      "cur_tg": 1990,
+      "cur_tg": 1967,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-10-21",
-      "live": {
-        "match": 516078274,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-24"
     },
     {
       "profile_id": 9666666,
@@ -259,7 +244,13 @@
       "cur_tg": 1826,
       "max_tg": 1922,
       "last_tg": "2026-10-24",
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 516085746,
+        "game": "Team Random Map",
+        "format": "2v2",
+        "account": "VENÓN | 45 Dias habiles"
+      }
     },
     {
       "profile_id": 757886,
@@ -551,15 +542,10 @@
       "clan": "KH",
       "cur_1v1": 1934,
       "max_1v1": 2060,
-      "cur_tg": 1700,
+      "cur_tg": 1689,
       "max_tg": 1788,
-      "last_tg": "2026-10-23",
-      "last_1v1": "2026-10-19",
-      "live": {
-        "match": 516078274,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-24",
+      "last_1v1": "2026-10-19"
     },
     {
       "profile_id": 278380,
@@ -624,7 +610,13 @@
       "cur_tg": 1793,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-10-22"
+      "last_tg": "2026-10-22",
+      "live": {
+        "match": 516085756,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "ZUKO | Tag Exiliado Exile"
+      }
     },
     {
       "profile_id": 12472496,
