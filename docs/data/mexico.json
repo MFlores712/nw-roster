@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-24T02:55:10Z",
+  "updated_at": "2026-10-24T03:00:13Z",
   "baseline": {
     "taken_at": "2026-10-23T14:00:15Z",
     "ranks": {
@@ -130,7 +130,11 @@
       "max_1v1": 2433,
       "cur_tg": 2061,
       "max_tg": 2104,
-      "last_1v1": "2026-10-23"
+      "last_1v1": "2026-10-23",
+      "live": {
+        "match": 515857869,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 310739,
@@ -159,7 +163,12 @@
       "max_1v1": 2469,
       "cur_tg": 1876,
       "max_tg": 2072,
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 515857869,
+        "game": "Team Random Map",
+        "account": "hK | Siesta"
+      }
     },
     {
       "profile_id": 1485562,
@@ -263,7 +272,11 @@
       "max_1v1": 2317,
       "cur_tg": 2061,
       "max_tg": 2083,
-      "last_1v1": "2026-10-23"
+      "last_1v1": "2026-10-23",
+      "live": {
+        "match": 515857869,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 914665,
@@ -283,7 +296,11 @@
       "max_1v1": 2233,
       "cur_tg": 1892,
       "max_tg": 1983,
-      "last_1v1": "2026-10-23"
+      "last_1v1": "2026-10-23",
+      "live": {
+        "match": 515857869,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 5803221,
@@ -547,7 +564,7 @@
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
       "live": {
-        "match": 515856387,
+        "match": 515857670,
         "game": "Team Random Map",
         "account": "EXILE | Zuko"
       }
