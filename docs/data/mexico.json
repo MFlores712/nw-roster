@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-24T01:45:10Z",
+  "updated_at": "2026-10-24T01:50:09Z",
   "baseline": {
     "taken_at": "2026-10-23T14:00:15Z",
     "ranks": {
@@ -112,13 +112,13 @@
       "profile_id": 401359,
       "tag": "EnvyZ",
       "clan": "VENÓN",
-      "cur_1v1": 2477,
+      "cur_1v1": 2451,
       "max_1v1": 2512,
       "cur_tg": 2053,
       "max_tg": 2190,
       "last_1v1": "2026-10-24",
       "live": {
-        "match": 515840281,
+        "match": 515844679,
         "game": "1v1 Random Map"
       }
     },
@@ -130,7 +130,11 @@
       "max_1v1": 2433,
       "cur_tg": 2050,
       "max_tg": 2104,
-      "last_1v1": "2026-10-23"
+      "last_1v1": "2026-10-23",
+      "live": {
+        "match": 515843837,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 310739,
@@ -179,7 +183,12 @@
       "max_1v1": 2322,
       "cur_tg": 1990,
       "max_tg": 1995,
-      "last_1v1": "2026-10-17"
+      "last_1v1": "2026-10-17",
+      "live": {
+        "match": 515844211,
+        "game": "1v1 Random Map",
+        "account": "FierroFlash"
+      }
     },
     {
       "profile_id": 9666666,
@@ -226,15 +235,11 @@
       "profile_id": 757886,
       "tag": "DarK_KnighT_",
       "clan": "VN",
-      "cur_1v1": 2239,
+      "cur_1v1": 2265,
       "max_1v1": 2285,
       "cur_tg": 1842,
       "max_tg": 2050,
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 515840281,
-        "game": "1v1 Random Map"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 580573,
@@ -263,7 +268,11 @@
       "max_1v1": 2317,
       "cur_tg": 2050,
       "max_tg": 2083,
-      "last_1v1": "2026-10-23"
+      "last_1v1": "2026-10-23",
+      "live": {
+        "match": 515843837,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 914665,
@@ -283,7 +292,11 @@
       "max_1v1": 2233,
       "cur_tg": 1886,
       "max_tg": 1983,
-      "last_1v1": "2026-10-23"
+      "last_1v1": "2026-10-23",
+      "live": {
+        "match": 515844426,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 5803221,
