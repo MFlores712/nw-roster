@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-24T06:15:11Z",
+  "updated_at": "2026-10-24T06:20:08Z",
   "baseline": {
     "taken_at": "2026-10-23T14:00:15Z",
     "ranks": {
@@ -74,7 +74,7 @@
       "clan": "Ux",
       "cur_1v1": 2634,
       "max_1v1": 2752,
-      "cur_tg": 1763,
+      "cur_tg": 1777,
       "max_tg": 1885,
       "last_1v1": "2026-10-24"
     },
@@ -94,7 +94,7 @@
       "clan": "Ux",
       "cur_1v1": 2585,
       "max_1v1": 2629,
-      "cur_tg": 1868,
+      "cur_tg": 1878,
       "max_tg": 1999,
       "last_1v1": "2026-10-21"
     },
@@ -180,12 +180,7 @@
       "max_1v1": 2322,
       "cur_tg": 1990,
       "max_tg": 1995,
-      "last_1v1": "2026-10-17",
-      "live": {
-        "match": 515886883,
-        "game": "1v1 Random Map",
-        "account": "FierroFlash"
-      }
+      "last_1v1": "2026-10-17"
     },
     {
       "profile_id": 9666666,
@@ -352,13 +347,9 @@
       "tag": "SynfonY",
       "cur_1v1": 2032,
       "max_1v1": 2032,
-      "cur_tg": 1857,
+      "cur_tg": 1832,
       "max_tg": 1962,
-      "last_1v1": "2026-10-21",
-      "live": {
-        "match": 515888412,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-21"
     },
     {
       "profile_id": 13215279,
@@ -519,12 +510,7 @@
       "max_1v1": 1996,
       "cur_tg": 1820,
       "max_tg": 1821,
-      "last_1v1": "2026-09-18",
-      "live": {
-        "match": 515884457,
-        "game": "Unranked",
-        "account": "[GDL]BetoxAOE"
-      }
+      "last_1v1": "2026-09-18"
     },
     {
       "profile_id": 13241217,
