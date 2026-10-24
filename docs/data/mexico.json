@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-24T20:45:09Z",
+  "updated_at": "2026-10-24T20:50:09Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -107,17 +107,12 @@
       "profile_id": 9449579,
       "tag": "Miauricio",
       "clan": "VENÓN",
-      "cur_1v1": 2473,
+      "cur_1v1": 2478,
       "max_1v1": 2573,
       "cur_tg": 2140,
       "max_tg": 2151,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-15",
-      "live": {
-        "match": 516065614,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-15"
     },
     {
       "profile_id": 4221810,
@@ -193,13 +188,7 @@
       "cur_tg": 1990,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-10-21",
-      "live": {
-        "match": 516065614,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "FierroFlash"
-      }
+      "last_tg": "2026-10-21"
     },
     {
       "profile_id": 9666666,
@@ -260,7 +249,13 @@
       "cur_tg": 1826,
       "max_tg": 1922,
       "last_tg": "2026-10-24",
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 516069843,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "VENÓN | 45 Dias habiles"
+      }
     },
     {
       "profile_id": 580573,
