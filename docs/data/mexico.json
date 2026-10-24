@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-24T18:45:10Z",
+  "updated_at": "2026-10-24T18:50:10Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -74,17 +74,12 @@
       "profile_id": 5984120,
       "tag": "Combito",
       "clan": "Ux",
-      "cur_1v1": 2648,
+      "cur_1v1": 2652,
       "max_1v1": 2752,
       "cur_tg": 1801,
       "max_tg": 1885,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-24",
-      "live": {
-        "match": 516031156,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-24"
     },
     {
       "profile_id": 2920057,
@@ -128,13 +123,7 @@
       "cur_tg": 2067,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-24",
-      "live": {
-        "match": 516029137,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "The_Fury"
-      }
+      "last_tg": "2026-10-24"
     },
     {
       "profile_id": 401359,
@@ -205,7 +194,13 @@
       "cur_tg": 1990,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-10-21"
+      "last_tg": "2026-10-21",
+      "live": {
+        "match": 516037301,
+        "game": "Team Random Map",
+        "format": "3v3",
+        "account": "FierroFlash"
+      }
     },
     {
       "profile_id": 9666666,
@@ -429,22 +424,6 @@
       "last_tg": "2026-10-24"
     },
     {
-      "profile_id": 6501299,
-      "tag": "ShutAzarquay",
-      "clan": "nW",
-      "cur_1v1": 2011,
-      "max_1v1": 2011,
-      "cur_tg": 1731,
-      "max_tg": 1745,
-      "last_tg": "2026-10-09",
-      "last_1v1": "2026-10-13",
-      "live": {
-        "match": 516029737,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 2934597,
       "tag": "Sgt.Pepper",
       "clan": "nW",
@@ -475,6 +454,17 @@
       "max_tg": 1820,
       "last_tg": "2026-10-22",
       "last_1v1": "2026-10-23"
+    },
+    {
+      "profile_id": 6501299,
+      "tag": "ShutAzarquay",
+      "clan": "nW",
+      "cur_1v1": 1990,
+      "max_1v1": 2011,
+      "cur_tg": 1731,
+      "max_tg": 1745,
+      "last_tg": "2026-10-09",
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 235877,
