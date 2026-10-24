@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-24T02:50:09Z",
+  "updated_at": "2026-10-24T02:55:10Z",
   "baseline": {
     "taken_at": "2026-10-23T14:00:15Z",
     "ranks": {
@@ -183,12 +183,7 @@
       "max_1v1": 2322,
       "cur_tg": 1990,
       "max_tg": 1995,
-      "last_1v1": "2026-10-17",
-      "live": {
-        "match": 515855301,
-        "game": "1v1 Random Map",
-        "account": "FierroFlash"
-      }
+      "last_1v1": "2026-10-17"
     },
     {
       "profile_id": 9666666,
@@ -377,20 +372,20 @@
       "max_1v1": 2093,
       "cur_tg": 1702,
       "max_tg": 1860,
-      "last_1v1": "2026-10-21"
+      "last_1v1": "2026-10-21",
+      "live": {
+        "match": 515855760,
+        "game": "Unranked"
+      }
     },
     {
       "profile_id": 2291749,
       "tag": "Biner",
       "cur_1v1": 2016,
       "max_1v1": 2016,
-      "cur_tg": 1639,
-      "max_tg": 1639,
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 515852633,
-        "game": "Team Random Map"
-      }
+      "cur_tg": 1650,
+      "max_tg": 1650,
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 6501299,
@@ -459,7 +454,11 @@
       "max_1v1": 1993,
       "cur_tg": 1699,
       "max_tg": 1858,
-      "last_1v1": "2026-10-06"
+      "last_1v1": "2026-10-06",
+      "live": {
+        "match": 515855760,
+        "game": "Unranked"
+      }
     },
     {
       "profile_id": 13192381,
@@ -469,7 +468,11 @@
       "max_1v1": 1947,
       "cur_tg": 1802,
       "max_tg": 1824,
-      "last_1v1": "2026-10-11"
+      "last_1v1": "2026-10-11",
+      "live": {
+        "match": 515855760,
+        "game": "Unranked"
+      }
     },
     {
       "profile_id": 2926018,
@@ -508,7 +511,11 @@
       "max_1v1": 1970,
       "cur_tg": 1753,
       "max_tg": 1865,
-      "last_1v1": "2026-10-16"
+      "last_1v1": "2026-10-16",
+      "live": {
+        "match": 515855760,
+        "game": "Unranked"
+      }
     },
     {
       "profile_id": 2969449,
@@ -538,7 +545,12 @@
       "max_1v1": 1929,
       "cur_tg": 1793,
       "max_tg": 1874,
-      "last_1v1": "2026-09-24"
+      "last_1v1": "2026-09-24",
+      "live": {
+        "match": 515856387,
+        "game": "Team Random Map",
+        "account": "EXILE | Zuko"
+      }
     },
     {
       "profile_id": 3254820,
