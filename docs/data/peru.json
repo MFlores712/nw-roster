@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-24T03:40:09Z",
+  "updated_at": "2026-10-24T03:50:09Z",
   "baseline": {
     "taken_at": "2026-10-23T14:00:15Z",
     "ranks": {
@@ -43,12 +43,7 @@
       "max_1v1": 2558,
       "cur_tg": 1879,
       "max_tg": 1935,
-      "last_1v1": "2026-10-22",
-      "live": {
-        "match": 515863205,
-        "game": "1v1 Random Map",
-        "account": "Dimo"
-      }
+      "last_1v1": "2026-10-22"
     },
     {
       "profile_id": 9558892,
@@ -58,7 +53,11 @@
       "max_1v1": 2423,
       "cur_tg": 1762,
       "max_tg": 1846,
-      "last_1v1": "2026-10-22"
+      "last_1v1": "2026-10-22",
+      "live": {
+        "match": 515865959,
+        "game": "Unranked"
+      }
     },
     {
       "profile_id": 4706179,
@@ -106,7 +105,11 @@
       "max_1v1": 2031,
       "cur_tg": 1694,
       "max_tg": 1840,
-      "last_1v1": "2026-09-24"
+      "last_1v1": "2026-09-24",
+      "live": {
+        "match": 515866740,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 13518993,
@@ -158,7 +161,11 @@
       "max_1v1": 2177,
       "cur_tg": 1663,
       "max_tg": 1843,
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 515860494,
+        "game": "Team Death Match"
+      }
     },
     {
       "profile_id": 4210400,
@@ -205,13 +212,13 @@
       "profile_id": 4167535,
       "tag": "Dia franptom",
       "clan": "LE",
-      "cur_1v1": 1808,
+      "cur_1v1": 1797,
       "max_1v1": 1995,
       "cur_tg": 1452,
       "max_tg": 1581,
       "last_1v1": "2026-10-24",
       "live": {
-        "match": 515862969,
+        "match": 515867505,
         "game": "1v1 Random Map"
       }
     }
