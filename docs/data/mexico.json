@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-24T20:35:09Z",
+  "updated_at": "2026-10-24T20:40:08Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -123,17 +123,12 @@
       "profile_id": 4221810,
       "tag": "Imfury_",
       "clan": "hK",
-      "cur_1v1": 2425,
+      "cur_1v1": 2427,
       "max_1v1": 2433,
       "cur_tg": 2050,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-24",
-      "live": {
-        "match": 516062245,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-24"
     },
     {
       "profile_id": 401359,
@@ -227,12 +222,7 @@
       "cur_tg": 1828,
       "max_tg": 1828,
       "last_1v1": "2026-10-23",
-      "last_tg": "2026-10-24",
-      "live": {
-        "match": 516059603,
-        "game": "Unranked",
-        "format": "FFA"
-      }
+      "last_tg": "2026-10-24"
     },
     {
       "profile_id": 757886,
@@ -243,7 +233,12 @@
       "cur_tg": 1842,
       "max_tg": 2050,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-24"
+      "last_tg": "2026-10-24",
+      "live": {
+        "match": 516067562,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2598146,
