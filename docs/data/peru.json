@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-24T04:05:09Z",
+  "updated_at": "2026-10-24T04:10:08Z",
   "baseline": {
     "taken_at": "2026-10-23T14:00:15Z",
     "ranks": {
@@ -99,13 +99,9 @@
       "tag": "noru-ego",
       "cur_1v1": 2031,
       "max_1v1": 2031,
-      "cur_tg": 1694,
+      "cur_tg": 1707,
       "max_tg": 1840,
-      "last_1v1": "2026-09-24",
-      "live": {
-        "match": 515866740,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-09-24"
     },
     {
       "profile_id": 13518993,
@@ -138,7 +134,12 @@
       "max_1v1": 2222,
       "cur_tg": 1711,
       "max_tg": 1767,
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 515870698,
+        "game": "1v1 Random Map",
+        "account": "CTM | Lelouch ELO bajito"
+      }
     },
     {
       "profile_id": 12167914,
@@ -148,7 +149,11 @@
       "max_1v1": 2016,
       "cur_tg": 1906,
       "max_tg": 1992,
-      "last_1v1": "2026-10-20"
+      "last_1v1": "2026-10-20",
+      "live": {
+        "match": 515870743,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 633255,
@@ -157,11 +162,7 @@
       "max_1v1": 2177,
       "cur_tg": 1663,
       "max_tg": 1843,
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 515860494,
-        "game": "Team Death Match"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 4210400,
