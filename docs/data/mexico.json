@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-24T21:40:08Z",
+  "updated_at": "2026-10-24T21:45:09Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -117,13 +117,7 @@
       "cur_tg": 2140,
       "max_tg": 2151,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-15",
-      "live": {
-        "match": 516082294,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "[GDL] Chuchito"
-      }
+      "last_tg": "2026-10-15"
     },
     {
       "profile_id": 4221810,
@@ -259,13 +253,7 @@
       "cur_tg": 1826,
       "max_tg": 1922,
       "last_tg": "2026-10-24",
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 516082294,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "VENÓN | 45 Dias habiles"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 757886,
@@ -292,14 +280,14 @@
     {
       "profile_id": 4412109,
       "tag": "HGB",
-      "cur_1v1": 2215,
+      "cur_1v1": 2220,
       "max_1v1": 2317,
       "cur_tg": 2050,
       "max_tg": 2083,
-      "last_1v1": "2026-10-23",
+      "last_1v1": "2026-10-24",
       "last_tg": "2026-10-24",
       "live": {
-        "match": 516077411,
+        "match": 516083912,
         "game": "1v1 Random Map",
         "format": "1v1"
       }

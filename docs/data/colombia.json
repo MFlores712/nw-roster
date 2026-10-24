@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-24T21:15:10Z",
+  "updated_at": "2026-10-24T21:45:09Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -107,15 +107,10 @@
       "clan": "FMG",
       "cur_1v1": 1971,
       "max_1v1": 2054,
-      "cur_tg": 1631,
+      "cur_tg": 1641,
       "max_tg": 1759,
       "last_1v1": "2026-10-04",
-      "last_tg": "2026-10-24",
-      "live": {
-        "match": 516076044,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-10-24"
     },
     {
       "profile_id": 5368998,
