@@ -100,7 +100,7 @@ body {
 .row:focus-visible { outline: 2px solid var(--gold-bright); outline-offset: -2px; }
 /* nW members on the country tabs: teal tint */
 .row.nw-member { background: rgba(var(--nw-teal), 0.13); }
-/* Inactive (no ranked 1v1 in 90+ days on any account): faded and gray. Colours
+/* Inactive (no ranked 1v1 in 90 days or team game in 60, on any account): faded and gray. Colours
    are overridden directly rather than with a grayscale filter, which the PNG
    export doesn't support. */
 .row.inactive { opacity: 0.5; }
@@ -196,6 +196,8 @@ body {
   .poster:not(.exporting) .who { padding-left: 4px; gap: 4px; }
   .poster:not(.exporting) .live { font-size: 8px; letter-spacing: 0.5px; padding: 1px 4px 1px 3px; gap: 3px; }
   .poster:not(.exporting) .live::before { width: 4px; height: 4px; }
+  /* "● 1v1" instead of "● LIVE 1v1": leaves room for the name */
+  .poster:not(.exporting) .live-word { display: none; }
   /* Names stay on one line; "…" only if a very narrow phone can't fit one */
   .poster:not(.exporting) .tag { font-size: clamp(13px, 4vw, 18px); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
   /* Last resort for very long names: two lines (max), set by fitNames() */
@@ -453,7 +455,10 @@ function liveBadge(p) {
   // p.live.account is set when they're playing on a linked account (smurf)
   const where = p.live.account ? ` on ${p.live.account}` : '';
   const tip = `In a game now${where} (${p.live.game}) · open match`;
-  return `<span class="live no-export" role="link" tabindex="0" data-match="${escapeHtml(String(p.live.match))}" title="${escapeHtml(tip).replace(/"/g, '&quot;')}">LIVE</span>`;
+  // "LIVE 1v1", "LIVE 2v2", "LIVE FFA"… (format from the match's team sizes)
+  // (on phones just the dot and the format, see .live-word)
+  const label = p.live.format ? `<span class="live-word">LIVE </span>${escapeHtml(p.live.format)}` : 'LIVE';
+  return `<span class="live no-export" role="link" tabindex="0" data-match="${escapeHtml(String(p.live.match))}" title="${escapeHtml(tip).replace(/"/g, '&quot;')}">${label}</span>`;
 }
 
 function moveBadge(baseline, p, pos) {
@@ -475,7 +480,8 @@ function render(data, lastCheck) {
 
   // Country rankings list more players than they show (show_top); the rest
   // are still tracked so they can climb in
-  // Inactive players (no ranked 1v1 on any of their accounts for 90+ days) keep
+  // Inactive players (on none of their accounts a ranked 1v1 in 90 days or a
+  // ranked team game in 60) keep
   // their place but don't count: no rank number, and show_top counts only
   // active players (inactive ones in between are shown too, faded).
   const shown = [];
@@ -515,8 +521,8 @@ function render(data, lastCheck) {
     if (p.inactive) {
       row.classList.add('inactive');
       row.title += p.last_seen
-        ? ` · Inactive: last ranked 1v1 on ${new Date(p.last_seen + 'T12:00:00Z').toLocaleDateString(undefined, { day: 'numeric', month: 'short', year: 'numeric' })}`
-        : ' · Inactive: no ranked 1v1 found';
+        ? ` · Inactive: last ranked game on ${new Date(p.last_seen + 'T12:00:00Z').toLocaleDateString(undefined, { day: 'numeric', month: 'short', year: 'numeric' })}`
+        : ' · Inactive: no ranked games found';
     }
     const rankLabel = rank ?? '—';
     const clan = p.clan ? `<span class="clan">${escapeHtml(p.clan)}</span> ` : '';

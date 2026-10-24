@@ -92,8 +92,8 @@ def parse_stats(data: dict) -> dict[int, tuple[dict, tuple]]:
             ratings = out[m["profile_id"]][0]
             ratings[f"cur_{suffix}"] = s.get("rating")
             ratings[f"max_{suffix}"] = s.get("highestrating") or None
-            if suffix == "1v1" and s.get("lastmatchdate"):
-                ratings["last_1v1"] = datetime.fromtimestamp(s["lastmatchdate"], timezone.utc).strftime("%Y-%m-%d")
+            if s.get("lastmatchdate"):  # last_1v1 / last_tg
+                ratings[f"last_{suffix}"] = datetime.fromtimestamp(s["lastmatchdate"], timezone.utc).strftime("%Y-%m-%d")
     return out
 
 
@@ -143,12 +143,28 @@ def parse_live(data: dict, ours: set[int], now: datetime) -> dict[int, dict]:
                 pid = p.get("profileId")
                 if pid in ours and pid not in live:  # newest match first
                     live[pid] = {"match": m["matchId"], "game": m.get("leaderboardName") or "Game"}
+                    fmt = match_format(m)
+                    if fmt:
+                        live[pid]["format"] = fmt
     return live
+
+
+def match_format(m: dict) -> str | None:
+    """"1v1", "2v2", "3v4"… from the team sizes; "FFA" for 3+ one-player teams."""
+    sizes = [len(t["players"]) for t in m.get("teams", []) if t.get("players")]
+    if len(sizes) < 2:
+        return None
+    if len(sizes) > 2 and all(n == 1 for n in sizes):
+        return "FFA"
+    return "v".join(map(str, sizes))
 
 
 LIVE_CHUNK = 300  # account ids per matches request (URL length)
 
+# Active = a ranked 1v1 in the last INACTIVE_DAYS or a ranked team game in the
+# last INACTIVE_TG_DAYS, on the listed account or any linked one.
 INACTIVE_DAYS = 90
+INACTIVE_TG_DAYS = 60
 # Most recent ranked 1v1 date (YYYY-MM-DD) across each player's linked
 # accounts, by owner official id; from links.json (refreshed daily).
 _linked_last: dict[int, str] = {}
@@ -226,6 +242,11 @@ def days_ago(day: str | None) -> int | None:
     return (_today - datetime.fromisoformat(day).date()).days if day else None
 
 
+def played_recently(last_1v1: str | None, last_tg: str | None) -> bool:
+    return bool((last_1v1 and days_ago(last_1v1) <= INACTIVE_DAYS)
+                or (last_tg and days_ago(last_tg) <= INACTIVE_TG_DAYS))
+
+
 def pick_substitute(player: dict) -> tuple[int, tuple] | None:
     """If the listed account hasn't played ranked 1v1 for INACTIVE_DAYS but a
     linked account has (more recently), return (account id, its stats): the
@@ -285,21 +306,24 @@ def build_player(player: dict, prev: dict | None, prefixes: dict | None = None) 
             result[f] = prev[f]
         if stale:
             result["stale"] = stale
-        if not result.get("last_1v1") and prev.get("last_1v1"):
-            result["last_1v1"] = prev["last_1v1"]
+        for f in ("last_1v1", "last_tg"):
+            if not result.get(f) and prev.get(f):
+                result[f] = prev[f]
 
-    # Inactive: no ranked 1v1 on this account or any linked account for
-    # INACTIVE_DAYS. The page keeps their place but fades them and leaves them
-    # out of the rank numbers.
-    seen = [d for d in (result.get("last_1v1"), _linked_last.get(official_id(player))) if d]
-    last_seen = max(seen) if seen else None
-    # "always_active": true in config exempts a player from this (by hand, per player).
-    if player.get("always_active"):
-        pass
-    elif last_seen is None or (_today - datetime.fromisoformat(last_seen).date()).days > INACTIVE_DAYS:
+    # Inactive: not played recently (see played_recently) on this account or
+    # any linked account. The page keeps their place but fades them and leaves
+    # them out of the rank numbers. Linked accounts of anyone not active on
+    # their own account are in _stats (main() looks them up); links.json's
+    # 1v1 date covers any whose lookup failed.
+    oid = official_id(player)
+    dates = [(result.get("last_1v1"), result.get("last_tg")), (_linked_last.get(oid), None)]
+    dates += [(st[0].get("last_1v1"), st[0].get("last_tg"))
+              for st in (_stats.get(a) for a in _linked_accounts.get(oid, [])) if st]
+    if not any(played_recently(*d) for d in dates):
         result["inactive"] = True
-        if last_seen:
-            result["last_seen"] = last_seen
+        seen = [d for pair in dates for d in pair if d]
+        if seen:
+            result["last_seen"] = max(seen)
 
     live = _live.get(official_id(player))
     if live:
@@ -396,7 +420,7 @@ def update_roster(roster: dict, now: datetime) -> bool:
         print(f"  {len(stale)} kept last known values: {stale}")
 
     # Sort by current 1v1 ELO descending, unranked (None) go last
-    results.sort(key=lambda p: (p["cur_1v1"] is None, -(p["cur_1v1"] or 0)))
+    results.sort(key=lambda p: (p["cur_1v1"] is None, -(p["cur_1v1"] or 0), -(p["max_1v1"] or 0)))
 
     baseline = next_baseline(prev_output, results, now)
 
