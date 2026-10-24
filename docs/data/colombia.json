@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-24T16:35:08Z",
+  "updated_at": "2026-10-24T16:40:11Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -216,7 +216,12 @@
       "cur_tg": 1119,
       "max_tg": 1119,
       "last_1v1": "2026-10-24",
-      "last_tg": "2025-03-14"
+      "last_tg": "2025-03-14",
+      "live": {
+        "match": 516005608,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     }
   ],
   "show_top": 15
