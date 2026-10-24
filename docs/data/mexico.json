@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-24T00:50:08Z",
+  "updated_at": "2026-10-24T00:55:08Z",
   "baseline": {
     "taken_at": "2026-10-23T14:00:15Z",
     "ranks": {
@@ -72,13 +72,13 @@
       "profile_id": 5984120,
       "tag": "Combito",
       "clan": "Ux",
-      "cur_1v1": 2655,
+      "cur_1v1": 2637,
       "max_1v1": 2752,
       "cur_tg": 1763,
       "max_tg": 1885,
       "last_1v1": "2026-10-24",
       "live": {
-        "match": 515833047,
+        "match": 515835062,
         "game": "1v1 Random Map"
       }
     },
@@ -102,7 +102,7 @@
       "max_tg": 1999,
       "last_1v1": "2026-10-21",
       "live": {
-        "match": 515830000,
+        "match": 515835125,
         "game": "Team Random Map"
       }
     },
@@ -124,11 +124,7 @@
       "max_1v1": 2512,
       "cur_tg": 2053,
       "max_tg": 2190,
-      "last_1v1": "2026-10-21",
-      "live": {
-        "match": 515832413,
-        "game": "Unranked"
-      }
+      "last_1v1": "2026-10-21"
     },
     {
       "profile_id": 4221810,
@@ -138,7 +134,11 @@
       "max_1v1": 2433,
       "cur_tg": 2066,
       "max_tg": 2104,
-      "last_1v1": "2026-10-23"
+      "last_1v1": "2026-10-23",
+      "live": {
+        "match": 515835125,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 310739,
@@ -146,13 +146,9 @@
       "clan": "hK",
       "cur_1v1": 2395,
       "max_1v1": 2484,
-      "cur_tg": 1864,
+      "cur_tg": 1875,
       "max_tg": 1959,
-      "last_1v1": "2026-10-23",
-      "live": {
-        "match": 515832253,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-23"
     },
     {
       "profile_id": 312774,
@@ -160,13 +156,9 @@
       "clan": "hK",
       "cur_1v1": 2341,
       "max_1v1": 2469,
-      "cur_tg": 1865,
+      "cur_tg": 1876,
       "max_tg": 2072,
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 515832253,
-        "game": "Team Random Map"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 2295504,
@@ -195,12 +187,7 @@
       "max_1v1": 2322,
       "cur_tg": 1990,
       "max_tg": 1995,
-      "last_1v1": "2026-10-17",
-      "live": {
-        "match": 515832253,
-        "game": "Team Random Map",
-        "account": "FierroFlash"
-      }
+      "last_1v1": "2026-10-17"
     },
     {
       "profile_id": 9666666,
@@ -274,7 +261,11 @@
       "max_1v1": 2317,
       "cur_tg": 2066,
       "max_tg": 2083,
-      "last_1v1": "2026-10-23"
+      "last_1v1": "2026-10-23",
+      "live": {
+        "match": 515835125,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 914665,
@@ -288,7 +279,8 @@
     },
     {
       "profile_id": 580573,
-      "tag": "Bluku_Uktan",
+      "tag": "Puerco Black",
+      "clan": "hK",
       "cur_1v1": 2192,
       "max_1v1": 2350,
       "cur_tg": 1840,
@@ -307,7 +299,11 @@
       "max_1v1": 2233,
       "cur_tg": 1854,
       "max_tg": 1983,
-      "last_1v1": "2026-10-23"
+      "last_1v1": "2026-10-23",
+      "live": {
+        "match": 515834672,
+        "game": "Team Random Map"
+      }
     },
     {
       "profile_id": 5803221,
@@ -580,15 +576,11 @@
     {
       "profile_id": 3254820,
       "tag": "__Chino",
-      "cur_1v1": 1858,
+      "cur_1v1": 1869,
       "max_1v1": 2003,
       "cur_tg": 1417,
       "max_tg": 1417,
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 515833182,
-        "game": "1v1 Random Map"
-      }
+      "last_1v1": "2026-10-24"
     }
   ],
   "show_top": 45,
