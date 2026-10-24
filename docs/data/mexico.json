@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-24T19:30:11Z",
+  "updated_at": "2026-10-24T19:35:09Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -74,7 +74,7 @@
       "profile_id": 5984120,
       "tag": "Combito",
       "clan": "Ux",
-      "cur_1v1": 2658,
+      "cur_1v1": 2673,
       "max_1v1": 2752,
       "cur_tg": 1801,
       "max_tg": 1885,
