@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-24T19:25:09Z",
+  "updated_at": "2026-10-24T19:30:11Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -128,7 +128,12 @@
       "cur_tg": 2067,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-24"
+      "last_tg": "2026-10-24",
+      "live": {
+        "match": 516048038,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 401359,
@@ -195,9 +200,9 @@
       "last_1v1": "2026-10-17",
       "last_tg": "2026-10-21",
       "live": {
-        "match": 516043441,
-        "game": "Team Random Map",
-        "format": "4v4",
+        "match": 516048195,
+        "game": "1v1 Random Map",
+        "format": "1v1",
         "account": "FierroFlash"
       }
     },
@@ -276,7 +281,12 @@
       "cur_tg": 2067,
       "max_tg": 2083,
       "last_1v1": "2026-10-23",
-      "last_tg": "2026-10-24"
+      "last_tg": "2026-10-24",
+      "live": {
+        "match": 516048038,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 914665,
@@ -306,15 +316,10 @@
       "clan": "hK",
       "cur_1v1": 2174,
       "max_1v1": 2233,
-      "cur_tg": 1916,
+      "cur_tg": 1896,
       "max_tg": 1983,
       "last_1v1": "2026-10-23",
-      "last_tg": "2026-10-24",
-      "live": {
-        "match": 516043441,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-24"
     },
     {
       "profile_id": 5803221,
