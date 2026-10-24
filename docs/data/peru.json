@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-24T23:40:09Z",
+  "updated_at": "2026-10-24T23:45:08Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -94,14 +94,14 @@
       "profile_id": 4229962,
       "tag": "Réyiman",
       "clan": "LvSP",
-      "cur_1v1": 2057,
+      "cur_1v1": 2033,
       "max_1v1": 2139,
       "cur_tg": 1624,
       "max_tg": 1719,
       "last_1v1": "2026-10-24",
       "last_tg": "2026-10-23",
       "live": {
-        "match": 516104553,
+        "match": 516108389,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -129,13 +129,7 @@
       "cur_tg": 1711,
       "max_tg": 1767,
       "last_tg": "2026-10-19",
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 516103748,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "CTM | Lelouch Jogo Bonito"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 13518993,
