@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-24T09:05:09Z",
+  "updated_at": "2026-10-24T09:10:09Z",
   "baseline": {
     "taken_at": "2026-10-23T14:00:15Z",
     "ranks": {
@@ -72,13 +72,13 @@
       "profile_id": 5984120,
       "tag": "Combito",
       "clan": "Ux",
-      "cur_1v1": 2634,
+      "cur_1v1": 2643,
       "max_1v1": 2752,
       "cur_tg": 1801,
       "max_tg": 1885,
       "last_1v1": "2026-10-24",
       "live": {
-        "match": 515912280,
+        "match": 515914831,
         "game": "1v1 Random Map"
       }
     },
@@ -179,7 +179,12 @@
       "max_1v1": 2322,
       "cur_tg": 1990,
       "max_tg": 1995,
-      "last_1v1": "2026-10-17"
+      "last_1v1": "2026-10-17",
+      "live": {
+        "match": 515914448,
+        "game": "1v1 Random Map",
+        "account": "FierroFlash"
+      }
     },
     {
       "profile_id": 9666666,
@@ -505,12 +510,7 @@
       "max_1v1": 1996,
       "cur_tg": 1820,
       "max_tg": 1821,
-      "last_1v1": "2026-09-18",
-      "live": {
-        "match": 515913978,
-        "game": "Quick Play 1v1 Random Map",
-        "account": "James P. Solivan"
-      }
+      "last_1v1": "2026-09-18"
     },
     {
       "profile_id": 13241217,
