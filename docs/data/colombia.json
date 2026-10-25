@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-25T02:05:08Z",
+  "updated_at": "2026-10-25T02:10:11Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -45,7 +45,12 @@
       "cur_tg": 1915,
       "max_tg": 1915,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-10-23"
+      "last_tg": "2026-10-23",
+      "live": {
+        "match": 516134520,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 6838238,
@@ -107,7 +112,7 @@
       "clan": "FMG",
       "cur_1v1": 1971,
       "max_1v1": 2054,
-      "cur_tg": 1667,
+      "cur_tg": 1679,
       "max_tg": 1759,
       "last_1v1": "2026-10-04",
       "last_tg": "2026-10-25",
@@ -179,12 +184,7 @@
       "cur_tg": 1726,
       "max_tg": 1855,
       "last_1v1": "2026-10-22",
-      "last_tg": "2026-10-22",
-      "live": {
-        "match": 516129032,
-        "game": "Unranked",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-22"
     },
     {
       "profile_id": 10733016,
