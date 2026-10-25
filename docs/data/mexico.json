@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-25T19:20:08Z",
+  "updated_at": "2026-10-25T19:25:08Z",
   "baseline": {
     "taken_at": "2026-10-25T14:00:13Z",
     "ranks": {
@@ -90,7 +90,12 @@
       "cur_tg": 1801,
       "max_tg": 1885,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-10-24"
+      "last_tg": "2026-10-24",
+      "live": {
+        "match": 516335191,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 13099159,
@@ -315,22 +320,6 @@
       "last_tg": "2026-10-25"
     },
     {
-      "profile_id": 1249720,
-      "tag": "Asdrubald",
-      "clan": "VN",
-      "cur_1v1": 2102,
-      "max_1v1": 2102,
-      "cur_tg": 1840,
-      "max_tg": 1997,
-      "last_1v1": "2026-10-23",
-      "last_tg": "2026-10-23",
-      "live": {
-        "match": 516331728,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 1947348,
       "tag": "themariach1",
       "clan": "nW",
@@ -342,6 +331,17 @@
       "last_tg": "2026-10-21"
     },
     {
+      "profile_id": 1249720,
+      "tag": "Asdrubald",
+      "clan": "VN",
+      "cur_1v1": 2084,
+      "max_1v1": 2102,
+      "cur_tg": 1840,
+      "max_tg": 1997,
+      "last_1v1": "2026-10-25",
+      "last_tg": "2026-10-23"
+    },
+    {
       "profile_id": 5803221,
       "tag": "Mahmoud Ahmadinejad",
       "cur_1v1": 2077,
@@ -351,9 +351,9 @@
       "last_tg": "2026-10-15",
       "last_1v1": "2026-10-25",
       "live": {
-        "match": 516328698,
-        "game": "Team Random Map",
-        "format": "4v4",
+        "match": 516336062,
+        "game": "1v1 Random Map",
+        "format": "1v1",
         "account": "emmanueldltq08"
       }
     },
@@ -519,7 +519,7 @@
       "clan": "VL",
       "cur_1v1": 1960,
       "max_1v1": 1960,
-      "cur_tg": 1779,
+      "cur_tg": 1790,
       "max_tg": 1824,
       "last_1v1": "2026-10-25",
       "last_tg": "2026-10-25",
