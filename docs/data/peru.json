@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-25T03:05:10Z",
+  "updated_at": "2026-10-25T03:10:08Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -141,15 +141,10 @@
       "tag": "Miguel T",
       "cur_1v1": 2019,
       "max_1v1": 2034,
-      "cur_tg": 1624,
+      "cur_tg": 1648,
       "max_tg": 1703,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-25",
-      "live": {
-        "match": 516142765,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-25"
     },
     {
       "profile_id": 1359694,
