@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-25T21:35:08Z",
+  "updated_at": "2026-10-25T21:40:09Z",
   "baseline": {
     "taken_at": "2026-10-25T14:00:13Z",
     "ranks": {
@@ -82,6 +82,17 @@
       "last_tg": "2026-10-25"
     },
     {
+      "profile_id": 5984120,
+      "tag": "Combito",
+      "clan": "Ux",
+      "cur_1v1": 2593,
+      "max_1v1": 2752,
+      "cur_tg": 1801,
+      "max_tg": 1885,
+      "last_1v1": "2026-10-25",
+      "last_tg": "2026-10-24"
+    },
+    {
       "profile_id": 13099159,
       "tag": "Uzzi",
       "clan": "Ux",
@@ -91,22 +102,6 @@
       "max_tg": 1999,
       "last_1v1": "2026-10-21",
       "last_tg": "2026-10-24"
-    },
-    {
-      "profile_id": 5984120,
-      "tag": "Combito",
-      "clan": "Ux",
-      "cur_1v1": 2583,
-      "max_1v1": 2752,
-      "cur_tg": 1801,
-      "max_tg": 1885,
-      "last_1v1": "2026-10-25",
-      "last_tg": "2026-10-24",
-      "live": {
-        "match": 516362976,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 9449579,
@@ -180,10 +175,10 @@
       "clan": "VENÓN",
       "cur_1v1": 2324,
       "max_1v1": 2394,
-      "cur_tg": 1864,
+      "cur_tg": 1848,
       "max_tg": 2099,
       "last_1v1": "2026-10-23",
-      "last_tg": "2026-10-24",
+      "last_tg": "2026-10-25",
       "live": {
         "match": 516361843,
         "game": "Team Random Map",
@@ -313,22 +308,6 @@
       "last_tg": "2026-10-25"
     },
     {
-      "profile_id": 1249720,
-      "tag": "Asdrubald",
-      "clan": "VN",
-      "cur_1v1": 2098,
-      "max_1v1": 2102,
-      "cur_tg": 1840,
-      "max_tg": 1997,
-      "last_1v1": "2026-10-25",
-      "last_tg": "2026-10-23",
-      "live": {
-        "match": 516361944,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 5803221,
       "tag": "Mahmoud Ahmadinejad",
       "cur_1v1": 2095,
@@ -353,6 +332,22 @@
       "max_tg": 2034,
       "last_1v1": "2026-07-08",
       "last_tg": "2026-10-21"
+    },
+    {
+      "profile_id": 1249720,
+      "tag": "Asdrubald",
+      "clan": "VN",
+      "cur_1v1": 2091,
+      "max_1v1": 2102,
+      "cur_tg": 1840,
+      "max_tg": 1997,
+      "last_1v1": "2026-10-25",
+      "last_tg": "2026-10-23",
+      "live": {
+        "match": 516369003,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 400111,
