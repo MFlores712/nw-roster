@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-25T22:00:11Z",
+  "updated_at": "2026-10-25T22:05:09Z",
   "baseline": {
     "taken_at": "2026-10-25T14:00:13Z",
     "ranks": {
@@ -308,21 +308,6 @@
       "last_tg": "2026-10-25"
     },
     {
-      "profile_id": 5803221,
-      "tag": "Mahmoud Ahmadinejad",
-      "cur_1v1": 2095,
-      "max_1v1": 2181,
-      "cur_tg": 1638,
-      "max_tg": 1652,
-      "last_tg": "2026-10-15",
-      "last_1v1": "2026-10-25",
-      "live": {
-        "match": 516367215,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 1947348,
       "tag": "themariach1",
       "clan": "nW",
@@ -345,6 +330,21 @@
       "last_tg": "2026-10-23",
       "live": {
         "match": 516369003,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
+      "profile_id": 5803221,
+      "tag": "Mahmoud Ahmadinejad",
+      "cur_1v1": 2081,
+      "max_1v1": 2181,
+      "cur_tg": 1638,
+      "max_tg": 1652,
+      "last_tg": "2026-10-15",
+      "last_1v1": "2026-10-25",
+      "live": {
+        "match": 516367215,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
