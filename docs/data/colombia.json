@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-25T23:25:10Z",
+  "updated_at": "2026-10-25T23:50:08Z",
   "baseline": {
     "taken_at": "2026-10-25T14:00:13Z",
     "ranks": {
@@ -191,15 +191,10 @@
       "tag": "The .Gocho",
       "cur_1v1": 1814,
       "max_1v1": 1814,
-      "cur_tg": 1717,
+      "cur_tg": 1698,
       "max_tg": 1839,
-      "last_tg": "2026-10-24",
-      "last_1v1": "2026-10-09",
-      "live": {
-        "match": 516389584,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-25",
+      "last_1v1": "2026-10-09"
     },
     {
       "profile_id": 5981761,
