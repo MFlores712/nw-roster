@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-25T04:40:08Z",
+  "updated_at": "2026-10-25T04:45:08Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -150,6 +150,7 @@
     {
       "profile_id": 2295504,
       "tag": "Eren",
+      "clan": "hK",
       "cur_1v1": 2345,
       "max_1v1": 2345,
       "cur_tg": 1845,
@@ -261,6 +262,7 @@
     {
       "profile_id": 4412109,
       "tag": "HGB",
+      "clan": "hK",
       "cur_1v1": 2232,
       "max_1v1": 2317,
       "cur_tg": 2050,
@@ -400,6 +402,7 @@
     {
       "profile_id": 9770338,
       "tag": "SynfonY",
+      "clan": "CL",
       "cur_1v1": 2032,
       "max_1v1": 2032,
       "cur_tg": 1832,
@@ -469,7 +472,12 @@
       "cur_tg": 1633,
       "max_tg": 1820,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-10-21"
+      "last_tg": "2026-10-21",
+      "live": {
+        "match": 516161872,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 6501299,
@@ -622,14 +630,14 @@
     {
       "profile_id": 3254820,
       "tag": "__Chino",
-      "cur_1v1": 1871,
+      "cur_1v1": 1865,
       "max_1v1": 2003,
       "cur_tg": 1377,
       "max_tg": 1417,
       "last_1v1": "2026-10-25",
       "last_tg": "2026-10-25",
       "live": {
-        "match": 516159488,
+        "match": 516162288,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
