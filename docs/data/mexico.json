@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-25T01:45:08Z",
+  "updated_at": "2026-10-25T02:00:13Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -293,17 +293,12 @@
       "profile_id": 13138746,
       "tag": "FraKTal",
       "clan": "hK",
-      "cur_1v1": 2174,
+      "cur_1v1": 2155,
       "max_1v1": 2233,
       "cur_tg": 1911,
       "max_tg": 1983,
-      "last_1v1": "2026-10-23",
-      "last_tg": "2026-10-24",
-      "live": {
-        "match": 516123515,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-10-25",
+      "last_tg": "2026-10-24"
     },
     {
       "profile_id": 5803221,
@@ -509,6 +504,17 @@
       "last_tg": "2026-10-19"
     },
     {
+      "profile_id": 2850920,
+      "tag": "Chimtzin",
+      "clan": "Ux",
+      "cur_1v1": 1945,
+      "max_1v1": 2124,
+      "cur_tg": 1633,
+      "max_tg": 1820,
+      "last_1v1": "2026-10-25",
+      "last_tg": "2026-10-21"
+    },
+    {
       "profile_id": 2926018,
       "tag": "PerezPodrido",
       "clan": "SotC",
@@ -552,22 +558,6 @@
       "last_1v1": "2026-10-16"
     },
     {
-      "profile_id": 2850920,
-      "tag": "Chimtzin",
-      "clan": "Ux",
-      "cur_1v1": 1932,
-      "max_1v1": 2124,
-      "cur_tg": 1633,
-      "max_tg": 1820,
-      "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-21",
-      "live": {
-        "match": 516128533,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 2969449,
       "tag": "BetoxAOE",
       "clan": "VENÓN",
@@ -587,7 +577,13 @@
       "cur_tg": 1793,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-10-22"
+      "last_tg": "2026-10-22",
+      "live": {
+        "match": 516131758,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "ZUKO | Tag Exiliado Exile"
+      }
     },
     {
       "profile_id": 12472496,
