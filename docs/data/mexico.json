@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-25T05:55:09Z",
+  "updated_at": "2026-10-25T06:00:12Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -134,7 +134,12 @@
       "cur_tg": 2074,
       "max_tg": 2190,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-25"
+      "last_tg": "2026-10-25",
+      "live": {
+        "match": 516173102,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 310739,
@@ -167,7 +172,13 @@
       "cur_tg": 1858,
       "max_tg": 2072,
       "last_tg": "2026-10-24",
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 516173102,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "hK | RanDoM"
+      }
     },
     {
       "profile_id": 1485562,
@@ -189,7 +200,13 @@
       "cur_tg": 1967,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-10-24"
+      "last_tg": "2026-10-24",
+      "live": {
+        "match": 516173102,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "FierroFlash"
+      }
     },
     {
       "profile_id": 9666666,
@@ -223,7 +240,13 @@
       "cur_tg": 2182,
       "max_tg": 2227,
       "last_tg": "2026-09-28",
-      "last_1v1": "2026-10-19"
+      "last_1v1": "2026-10-19",
+      "live": {
+        "match": 516173400,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "VENÓN | SiNisTeR"
+      }
     },
     {
       "profile_id": 12723994,
@@ -234,7 +257,13 @@
       "cur_tg": 1826,
       "max_tg": 1922,
       "last_tg": "2026-10-24",
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 516173174,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "ReformedGGWP"
+      }
     },
     {
       "profile_id": 757886,
@@ -300,7 +329,12 @@
       "cur_tg": 1911,
       "max_tg": 1983,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-10-24"
+      "last_tg": "2026-10-24",
+      "live": {
+        "match": 516173102,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 1249720,
@@ -547,7 +581,13 @@
       "cur_tg": 1703,
       "max_tg": 1788,
       "last_tg": "2026-10-25",
-      "last_1v1": "2026-10-19"
+      "last_1v1": "2026-10-19",
+      "live": {
+        "match": 516173102,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "hK | Charles Martel"
+      }
     },
     {
       "profile_id": 278380,
@@ -597,17 +637,12 @@
       "profile_id": 13241217,
       "tag": "BlueUltra",
       "clan": "Ux",
-      "cur_1v1": 1904,
+      "cur_1v1": 1901,
       "max_1v1": 1993,
       "cur_tg": 1636,
       "max_tg": 1688,
-      "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-24",
-      "live": {
-        "match": 516169865,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-10-25",
+      "last_tg": "2026-10-24"
     },
     {
       "profile_id": 3254820,
