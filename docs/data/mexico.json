@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-25T16:35:24Z",
+  "updated_at": "2026-10-25T16:40:09Z",
   "baseline": {
     "taken_at": "2026-10-25T14:00:13Z",
     "ranks": {
@@ -245,7 +245,12 @@
       "cur_tg": 1842,
       "max_tg": 2050,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-24"
+      "last_tg": "2026-10-24",
+      "live": {
+        "match": 516292400,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 4412109,
@@ -280,7 +285,7 @@
       "last_1v1": "2026-10-20",
       "last_tg": "2026-10-23",
       "live": {
-        "match": 516288959,
+        "match": 516292832,
         "game": "Team Random Map",
         "format": "4v4",
         "account": "nW | Cawi"
@@ -508,7 +513,7 @@
       "last_1v1": "2026-10-25",
       "last_tg": "2026-10-25",
       "live": {
-        "match": 516288959,
+        "match": 516292832,
         "game": "Team Random Map",
         "format": "4v4"
       }
@@ -576,7 +581,13 @@
       "cur_tg": 1820,
       "max_tg": 1821,
       "last_tg": "2026-10-16",
-      "last_1v1": "2026-09-18"
+      "last_1v1": "2026-09-18",
+      "live": {
+        "match": 516290603,
+        "game": "Unranked",
+        "format": "4v4",
+        "account": "James P. Solivan"
+      }
     },
     {
       "profile_id": 324005,
