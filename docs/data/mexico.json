@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-25T22:05:09Z",
+  "updated_at": "2026-10-25T22:10:09Z",
   "baseline": {
     "taken_at": "2026-10-25T14:00:13Z",
     "ranks": {
@@ -175,7 +175,7 @@
       "clan": "VENÓN",
       "cur_1v1": 2324,
       "max_1v1": 2394,
-      "cur_tg": 1848,
+      "cur_tg": 1855,
       "max_tg": 2099,
       "last_1v1": "2026-10-23",
       "last_tg": "2026-10-25",
@@ -319,22 +319,6 @@
       "last_tg": "2026-10-21"
     },
     {
-      "profile_id": 1249720,
-      "tag": "Asdrubald",
-      "clan": "VN",
-      "cur_1v1": 2091,
-      "max_1v1": 2102,
-      "cur_tg": 1840,
-      "max_tg": 1997,
-      "last_1v1": "2026-10-25",
-      "last_tg": "2026-10-23",
-      "live": {
-        "match": 516369003,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 5803221,
       "tag": "Mahmoud Ahmadinejad",
       "cur_1v1": 2081,
@@ -342,12 +326,18 @@
       "cur_tg": 1638,
       "max_tg": 1652,
       "last_tg": "2026-10-15",
+      "last_1v1": "2026-10-25"
+    },
+    {
+      "profile_id": 1249720,
+      "tag": "Asdrubald",
+      "clan": "VN",
+      "cur_1v1": 2075,
+      "max_1v1": 2102,
+      "cur_tg": 1840,
+      "max_tg": 1997,
       "last_1v1": "2026-10-25",
-      "live": {
-        "match": 516367215,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-23"
     },
     {
       "profile_id": 400111,
@@ -427,7 +417,12 @@
       "cur_tg": 1680,
       "max_tg": 1680,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-24"
+      "last_tg": "2026-10-24",
+      "live": {
+        "match": 516374778,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2934597,
