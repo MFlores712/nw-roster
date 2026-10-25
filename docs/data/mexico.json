@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-25T02:00:13Z",
+  "updated_at": "2026-10-25T02:05:08Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -512,7 +512,12 @@
       "cur_tg": 1633,
       "max_tg": 1820,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-10-21"
+      "last_tg": "2026-10-21",
+      "live": {
+        "match": 516133157,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2926018,
@@ -579,7 +584,7 @@
       "last_1v1": "2026-09-24",
       "last_tg": "2026-10-22",
       "live": {
-        "match": 516131758,
+        "match": 516133672,
         "game": "Team Random Map",
         "format": "4v4",
         "account": "ZUKO | Tag Exiliado Exile"
