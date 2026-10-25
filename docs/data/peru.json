@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-25T07:20:10Z",
+  "updated_at": "2026-10-25T07:45:10Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -198,13 +198,7 @@
       "cur_tg": 1480,
       "max_tg": 1608,
       "last_1v1": "2026-09-19",
-      "last_tg": "2026-10-24",
-      "live": {
-        "match": 516184589,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "lopy32"
-      }
+      "last_tg": "2026-10-24"
     },
     {
       "profile_id": 4234652,
