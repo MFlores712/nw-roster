@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-25T02:30:11Z",
+  "updated_at": "2026-10-25T02:35:09Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -384,12 +384,7 @@
       "cur_tg": 1718,
       "max_tg": 1735,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-09-07",
-      "live": {
-        "match": 516135331,
-        "game": "Unranked",
-        "format": "1v1"
-      }
+      "last_tg": "2026-09-07"
     },
     {
       "profile_id": 9770338,
@@ -452,12 +447,7 @@
       "cur_tg": 1731,
       "max_tg": 1745,
       "last_tg": "2026-10-09",
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 516135331,
-        "game": "Unranked",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 2850920,
@@ -468,7 +458,12 @@
       "cur_tg": 1633,
       "max_tg": 1820,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-10-21"
+      "last_tg": "2026-10-21",
+      "live": {
+        "match": 516139235,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 235877,
@@ -480,6 +475,17 @@
       "max_tg": 1798,
       "last_1v1": "2026-09-29",
       "last_tg": "2026-10-20"
+    },
+    {
+      "profile_id": 2926018,
+      "tag": "PerezPodrido",
+      "clan": "SotC",
+      "cur_1v1": 1959,
+      "max_1v1": 2039,
+      "cur_tg": 1651,
+      "max_tg": 1888,
+      "last_1v1": "2026-10-25",
+      "last_tg": "2026-10-21"
     },
     {
       "profile_id": 2986966,
@@ -513,22 +519,6 @@
       "max_tg": 1824,
       "last_1v1": "2026-10-11",
       "last_tg": "2026-10-19"
-    },
-    {
-      "profile_id": 2926018,
-      "tag": "PerezPodrido",
-      "clan": "SotC",
-      "cur_1v1": 1944,
-      "max_1v1": 2039,
-      "cur_tg": 1651,
-      "max_tg": 1888,
-      "last_1v1": "2026-10-20",
-      "last_tg": "2026-10-21",
-      "live": {
-        "match": 516133974,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 467847,
@@ -582,13 +572,7 @@
       "cur_tg": 1793,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-10-22",
-      "live": {
-        "match": 516133672,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "ZUKO | Tag Exiliado Exile"
-      }
+      "last_tg": "2026-10-22"
     },
     {
       "profile_id": 12472496,
