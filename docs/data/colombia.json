@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-25T03:20:08Z",
+  "updated_at": "2026-10-25T03:35:07Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -107,15 +107,10 @@
       "clan": "FMG",
       "cur_1v1": 1971,
       "max_1v1": 2054,
-      "cur_tg": 1634,
+      "cur_tg": 1654,
       "max_tg": 1759,
       "last_1v1": "2026-10-04",
-      "last_tg": "2026-10-25",
-      "live": {
-        "match": 516147486,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-10-25"
     },
     {
       "profile_id": 5368998,
@@ -136,7 +131,13 @@
       "cur_tg": 1900,
       "max_tg": 1905,
       "last_1v1": "2026-09-21",
-      "last_tg": "2026-10-02"
+      "last_tg": "2026-10-02",
+      "live": {
+        "match": 516150066,
+        "game": "Team Random Map",
+        "format": "3v3",
+        "account": "[GDL] Capitan Nicky"
+      }
     },
     {
       "profile_id": 6431793,
