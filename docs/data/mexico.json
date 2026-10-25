@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-25T01:20:08Z",
+  "updated_at": "2026-10-25T01:25:07Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -387,20 +387,10 @@
       "last_tg": "2026-10-23"
     },
     {
-      "profile_id": 9770338,
-      "tag": "SynfonY",
-      "cur_1v1": 2032,
-      "max_1v1": 2032,
-      "cur_tg": 1832,
-      "max_tg": 1962,
-      "last_1v1": "2026-10-21",
-      "last_tg": "2026-10-24"
-    },
-    {
       "profile_id": 2934597,
       "tag": "Sgt.Pepper",
       "clan": "nW",
-      "cur_1v1": 2021,
+      "cur_1v1": 2035,
       "max_1v1": 2210,
       "cur_tg": 1718,
       "max_tg": 1735,
@@ -411,6 +401,16 @@
         "game": "1v1 Random Map",
         "format": "1v1"
       }
+    },
+    {
+      "profile_id": 9770338,
+      "tag": "SynfonY",
+      "cur_1v1": 2032,
+      "max_1v1": 2032,
+      "cur_tg": 1832,
+      "max_tg": 1962,
+      "last_1v1": "2026-10-21",
+      "last_tg": "2026-10-24"
     },
     {
       "profile_id": 13215279,
