@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-25T05:30:11Z",
+  "updated_at": "2026-10-25T05:35:07Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -332,21 +332,6 @@
       "last_tg": "2026-10-24"
     },
     {
-      "profile_id": 5803221,
-      "tag": "Mahmoud Ahmadinejad",
-      "cur_1v1": 2120,
-      "max_1v1": 2181,
-      "cur_tg": 1638,
-      "max_tg": 1652,
-      "last_tg": "2026-10-15",
-      "last_1v1": "2026-10-25",
-      "live": {
-        "match": 516168355,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 1249720,
       "tag": "Asdrubald",
       "clan": "VN",
@@ -369,17 +354,32 @@
       "last_tg": "2026-10-21"
     },
     {
+      "profile_id": 5803221,
+      "tag": "Mahmoud Ahmadinejad",
+      "cur_1v1": 2093,
+      "max_1v1": 2181,
+      "cur_tg": 1638,
+      "max_tg": 1652,
+      "last_tg": "2026-10-15",
+      "last_1v1": "2026-10-25",
+      "live": {
+        "match": 516170045,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 400111,
       "tag": "Mibel",
       "clan": "VL",
       "cur_1v1": 2055,
       "max_1v1": 2089,
-      "cur_tg": 1777,
+      "cur_tg": 1760,
       "max_tg": 1867,
       "last_1v1": "2026-06-27",
-      "last_tg": "2026-10-19",
+      "last_tg": "2026-10-25",
       "live": {
-        "match": 516165674,
+        "match": 516170173,
         "game": "Team Random Map",
         "format": "4v4"
       }
@@ -411,15 +411,10 @@
       "clan": "nW",
       "cur_1v1": 2037,
       "max_1v1": 2152,
-      "cur_tg": 1747,
+      "cur_tg": 1763,
       "max_tg": 1793,
       "last_1v1": "2026-10-22",
-      "last_tg": "2026-10-25",
-      "live": {
-        "match": 516165674,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-25"
     },
     {
       "profile_id": 9770338,
@@ -641,7 +636,12 @@
       "cur_tg": 1636,
       "max_tg": 1688,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-24"
+      "last_tg": "2026-10-24",
+      "live": {
+        "match": 516169865,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 3254820,

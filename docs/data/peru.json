@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-25T05:30:11Z",
+  "updated_at": "2026-10-25T05:35:07Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -203,23 +203,18 @@
         "match": 516169218,
         "game": "Team Random Map",
         "format": "3v3",
-        "account": "lopy32"
+        "account": "CTM | VaccumDestroyer"
       }
     },
     {
       "profile_id": 4234652,
       "tag": "_The_Oldergold",
-      "cur_1v1": 1840,
+      "cur_1v1": 1849,
       "max_1v1": 1940,
       "cur_tg": 1498,
       "max_tg": 1719,
-      "last_1v1": "2026-10-22",
-      "last_tg": "2026-10-21",
-      "live": {
-        "match": 516165954,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-10-25",
+      "last_tg": "2026-10-21"
     },
     {
       "profile_id": 4167535,
