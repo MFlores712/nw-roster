@@ -1,6 +1,6 @@
 {
   "name": "new Wave",
-  "updated_at": "2026-10-25T03:10:08Z",
+  "updated_at": "2026-10-25T03:15:09Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -20,17 +20,12 @@
       "profile_id": 13267917,
       "tag": "Manuel",
       "country": "Colombia",
-      "cur_1v1": 2366,
+      "cur_1v1": 2358,
       "max_1v1": 2410,
       "cur_tg": 1915,
       "max_tg": 1915,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-10-23",
-      "live": {
-        "match": 516145385,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-23"
     },
     {
       "profile_id": 3816609,
@@ -77,6 +72,17 @@
       "last_tg": "2026-10-23"
     },
     {
+      "profile_id": 1359694,
+      "tag": "AtilA",
+      "country": "Peru",
+      "cur_1v1": 2029,
+      "max_1v1": 2123,
+      "cur_tg": 1637,
+      "max_tg": 1670,
+      "last_tg": "2026-09-07",
+      "last_1v1": "2026-10-25"
+    },
+    {
       "profile_id": 2934597,
       "tag": "Sgt.Pepper",
       "country": "Mexico",
@@ -86,22 +92,6 @@
       "max_tg": 1735,
       "last_1v1": "2026-10-25",
       "last_tg": "2026-09-07"
-    },
-    {
-      "profile_id": 1359694,
-      "tag": "AtilA",
-      "country": "Peru",
-      "cur_1v1": 2015,
-      "max_1v1": 2123,
-      "cur_tg": 1637,
-      "max_tg": 1670,
-      "last_tg": "2026-09-07",
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 516138835,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 6501299,
