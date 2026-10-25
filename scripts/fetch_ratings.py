@@ -67,6 +67,18 @@ def split_alias(alias: str | None) -> tuple[str | None, str | None]:
     return None, text or None
 
 
+# In-game clan codes (the account's clan in the game) -> the tag players write
+# in their names, which is what the page shows. Used only for players whose
+# name carries no clan; codes not listed here are ignored.
+GAME_CLANS = {
+    "VENAS": "VENÓN", "nWAve": "nW", "HNuu": "hK", "Uxx": "Ux", "VLs": "VL",
+    "CL98": "CL", "Lion9": "LE", "LCTM": "CTM", "xVNx": "VN", "NUMA": "NuMa",
+    "SotC": "SotC", "MAZTK": "MZTK", "MZTK": "MZTK", "LvSP": "LvSP",
+    "AiMP": "AiM", "FUMAG": "FMG", "Vill": "VLC",
+}
+_game_clan: dict[int, str] = {}  # official id -> in-game clan code
+
+
 def request_stats(official_ids: list[int]) -> dict:
     query = urlencode({"title": "age2", "profile_ids": json.dumps(official_ids)})
     req = Request(f"{STATS_URL}?{query}", headers=HEADERS)
@@ -85,6 +97,9 @@ def parse_stats(data: dict) -> dict[int, tuple[dict, tuple]]:
             members[group["id"]] = m
     out = {m["profile_id"]: (dict.fromkeys(FIELDS), split_alias(m.get("alias")))
            for m in members.values()}
+    for m in members.values():
+        if m.get("clanlist_name"):
+            _game_clan[m["profile_id"]] = m["clanlist_name"]
     for s in data.get("leaderboardStats", []):
         m = members.get(s.get("statgroup_id"))
         suffix = LEADERBOARDS.get(s.get("leaderboard_id"))
@@ -277,6 +292,8 @@ def build_player(player: dict, prev: dict | None, prefixes: dict | None = None) 
         listed_last = ratings.get("last_1v1")
         sub_id, (ratings, (clan, name)) = sub
     clan, name = apply_clan_rules(clan, name, player, prefixes or {})
+    if not clan:  # nothing in the name: fall back to the account's in-game clan
+        clan = GAME_CLANS.get(_game_clan.get(sub[0] if sub else official_id(player)))
     result = {"profile_id": player["id"]}
     if sub:
         result["via"] = {"id": sub_id, **({"listed_last": listed_last} if listed_last else {})}
