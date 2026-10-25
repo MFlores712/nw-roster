@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-25T04:20:09Z",
+  "updated_at": "2026-10-25T04:25:07Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -545,7 +545,12 @@
       "cur_tg": 1774,
       "max_tg": 1824,
       "last_1v1": "2026-10-11",
-      "last_tg": "2026-10-25"
+      "last_tg": "2026-10-25",
+      "live": {
+        "match": 516158729,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 467847,
@@ -616,7 +621,12 @@
       "cur_tg": 1673,
       "max_tg": 1805,
       "last_tg": "2026-10-25",
-      "last_1v1": "2026-10-16"
+      "last_1v1": "2026-10-16",
+      "live": {
+        "match": 516158729,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 13241217,
@@ -632,14 +642,14 @@
     {
       "profile_id": 3254820,
       "tag": "__Chino",
-      "cur_1v1": 1889,
+      "cur_1v1": 1871,
       "max_1v1": 2003,
       "cur_tg": 1377,
       "max_tg": 1417,
       "last_1v1": "2026-10-25",
       "last_tg": "2026-10-25",
       "live": {
-        "match": 516155852,
+        "match": 516159488,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
