@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-25T21:45:09Z",
+  "updated_at": "2026-10-25T21:50:10Z",
   "baseline": {
     "taken_at": "2026-10-25T14:00:13Z",
     "ranks": {
@@ -83,7 +83,7 @@
     {
       "profile_id": 3244108,
       "tag": "Legendario",
-      "cur_1v1": 2076,
+      "cur_1v1": 2085,
       "max_1v1": 2174,
       "cur_tg": 1580,
       "max_tg": 1834,
@@ -171,7 +171,12 @@
       "cur_tg": 1663,
       "max_tg": 1843,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-17"
+      "last_tg": "2026-10-17",
+      "live": {
+        "match": 516370192,
+        "game": "Team Death Match",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 4210400,
