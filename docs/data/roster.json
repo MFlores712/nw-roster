@@ -1,6 +1,6 @@
 {
   "name": "new Wave",
-  "updated_at": "2026-10-25T16:00:15Z",
+  "updated_at": "2026-10-25T16:25:08Z",
   "baseline": {
     "taken_at": "2026-10-25T14:00:13Z",
     "ranks": {
@@ -49,7 +49,7 @@
       "last_1v1": "2026-10-20",
       "last_tg": "2026-10-23",
       "live": {
-        "match": 516282547,
+        "match": 516288959,
         "game": "Team Random Map",
         "format": "4v4",
         "account": "nW | Cawi"
