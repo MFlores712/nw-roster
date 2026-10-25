@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-25T21:10:09Z",
+  "updated_at": "2026-10-25T21:15:08Z",
   "baseline": {
     "taken_at": "2026-10-25T14:00:13Z",
     "ranks": {
@@ -103,7 +103,7 @@
       "last_1v1": "2026-10-25",
       "last_tg": "2026-10-24",
       "live": {
-        "match": 516361098,
+        "match": 516362976,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -294,17 +294,12 @@
       "profile_id": 914665,
       "tag": "Caguamas",
       "clan": "nW",
-      "cur_1v1": 2183,
+      "cur_1v1": 2201,
       "max_1v1": 2241,
       "cur_tg": 1880,
       "max_tg": 2024,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-10-23",
-      "live": {
-        "match": 516357977,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-23"
     },
     {
       "profile_id": 13138746,
@@ -354,10 +349,9 @@
       "last_tg": "2026-10-15",
       "last_1v1": "2026-10-25",
       "live": {
-        "match": 516360767,
+        "match": 516363699,
         "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "emmanueldltq08"
+        "format": "1v1"
       }
     },
     {
@@ -612,7 +606,12 @@
       "cur_tg": 1701,
       "max_tg": 1805,
       "last_tg": "2026-10-25",
-      "last_1v1": "2026-10-16"
+      "last_1v1": "2026-10-16",
+      "live": {
+        "match": 516363389,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 13241217,
