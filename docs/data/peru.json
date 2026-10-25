@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-25T22:25:09Z",
+  "updated_at": "2026-10-25T22:28:54Z",
   "baseline": {
     "taken_at": "2026-10-25T14:00:13Z",
     "ranks": {
@@ -88,7 +88,12 @@
       "cur_tg": 1580,
       "max_tg": 1834,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-10-24"
+      "last_tg": "2026-10-24",
+      "live": {
+        "match": 516378975,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 6090060,
@@ -168,7 +173,7 @@
       "last_1v1": "2026-10-24",
       "last_tg": "2026-10-17",
       "live": {
-        "match": 516377122,
+        "match": 516379405,
         "game": "Team Death Match",
         "format": "4v4"
       }
@@ -206,22 +211,6 @@
       "last_tg": "2026-10-21"
     },
     {
-      "profile_id": 4167535,
-      "tag": "Dia franptom",
-      "clan": "LE",
-      "cur_1v1": 1819,
-      "max_1v1": 1995,
-      "cur_tg": 1452,
-      "max_tg": 1581,
-      "last_1v1": "2026-10-25",
-      "last_tg": "2026-09-13",
-      "live": {
-        "match": 516373530,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 3034651,
       "tag": "MANCO II",
       "cur_1v1": 1813,
@@ -230,6 +219,17 @@
       "max_tg": 1657,
       "last_1v1": "2026-10-25",
       "last_tg": "2026-10-24"
+    },
+    {
+      "profile_id": 4167535,
+      "tag": "Dia franptom",
+      "clan": "LE",
+      "cur_1v1": 1803,
+      "max_1v1": 1995,
+      "cur_tg": 1452,
+      "max_tg": 1581,
+      "last_1v1": "2026-10-25",
+      "last_tg": "2026-09-13"
     }
   ],
   "show_top": 15
