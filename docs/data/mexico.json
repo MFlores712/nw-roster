@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-25T05:00:13Z",
+  "updated_at": "2026-10-25T05:05:08Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -275,17 +275,12 @@
       "profile_id": 4412109,
       "tag": "HGB",
       "clan": "hK",
-      "cur_1v1": 2232,
+      "cur_1v1": 2237,
       "max_1v1": 2317,
       "cur_tg": 2050,
       "max_tg": 2083,
-      "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-24",
-      "live": {
-        "match": 516161648,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-10-25",
+      "last_tg": "2026-10-24"
     },
     {
       "profile_id": 580573,
@@ -377,7 +372,12 @@
       "cur_tg": 1777,
       "max_tg": 1867,
       "last_1v1": "2026-06-27",
-      "last_tg": "2026-10-19"
+      "last_tg": "2026-10-19",
+      "live": {
+        "match": 516165674,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 1261126,
@@ -406,12 +406,12 @@
       "clan": "nW",
       "cur_1v1": 2037,
       "max_1v1": 2152,
-      "cur_tg": 1766,
+      "cur_tg": 1747,
       "max_tg": 1793,
       "last_1v1": "2026-10-22",
       "last_tg": "2026-10-25",
       "live": {
-        "match": 516164887,
+        "match": 516165674,
         "game": "Team Random Map",
         "format": "4v4"
       }
@@ -470,6 +470,22 @@
       "last_tg": "2026-10-22"
     },
     {
+      "profile_id": 2850920,
+      "tag": "Chimtzin",
+      "clan": "Ux",
+      "cur_1v1": 1999,
+      "max_1v1": 2124,
+      "cur_tg": 1633,
+      "max_tg": 1820,
+      "last_1v1": "2026-10-25",
+      "last_tg": "2026-10-21",
+      "live": {
+        "match": 516165681,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 358501,
       "tag": "El Claut_One",
       "clan": "VENÓN",
@@ -479,22 +495,6 @@
       "max_tg": 1820,
       "last_tg": "2026-10-22",
       "last_1v1": "2026-10-23"
-    },
-    {
-      "profile_id": 2850920,
-      "tag": "Chimtzin",
-      "clan": "Ux",
-      "cur_1v1": 1993,
-      "max_1v1": 2124,
-      "cur_tg": 1633,
-      "max_tg": 1820,
-      "last_1v1": "2026-10-25",
-      "last_tg": "2026-10-21",
-      "live": {
-        "match": 516161872,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 6501299,
@@ -647,14 +647,14 @@
     {
       "profile_id": 3254820,
       "tag": "__Chino",
-      "cur_1v1": 1865,
+      "cur_1v1": 1859,
       "max_1v1": 2003,
       "cur_tg": 1377,
       "max_tg": 1417,
       "last_1v1": "2026-10-25",
       "last_tg": "2026-10-25",
       "live": {
-        "match": 516162288,
+        "match": 516165681,
         "game": "1v1 Random Map",
         "format": "1v1"
       }

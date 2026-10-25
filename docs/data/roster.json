@@ -1,6 +1,6 @@
 {
   "name": "new Wave",
-  "updated_at": "2026-10-25T05:00:13Z",
+  "updated_at": "2026-10-25T05:05:08Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -66,12 +66,12 @@
       "country": "Mexico",
       "cur_1v1": 2037,
       "max_1v1": 2152,
-      "cur_tg": 1766,
+      "cur_tg": 1747,
       "max_tg": 1793,
       "last_1v1": "2026-10-22",
       "last_tg": "2026-10-25",
       "live": {
-        "match": 516164887,
+        "match": 516165674,
         "game": "Team Random Map",
         "format": "4v4"
       }
