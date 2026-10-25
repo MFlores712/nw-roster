@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-25T03:35:07Z",
+  "updated_at": "2026-10-25T03:40:09Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -244,13 +244,7 @@
       "cur_tg": 1826,
       "max_tg": 1922,
       "last_tg": "2026-10-24",
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 516148044,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "ReformedGGWP"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 757886,
@@ -395,7 +389,12 @@
       "cur_tg": 1747,
       "max_tg": 1793,
       "last_1v1": "2026-10-22",
-      "last_tg": "2026-10-23"
+      "last_tg": "2026-10-23",
+      "live": {
+        "match": 516150881,
+        "game": "Team Random Map",
+        "format": "2v2"
+      }
     },
     {
       "profile_id": 9770338,
@@ -437,7 +436,12 @@
       "cur_tg": 1718,
       "max_tg": 1735,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-09-07"
+      "last_tg": "2026-09-07",
+      "live": {
+        "match": 516150881,
+        "game": "Team Random Map",
+        "format": "2v2"
+      }
     },
     {
       "profile_id": 233625,
@@ -521,15 +525,10 @@
       "clan": "VL",
       "cur_1v1": 1947,
       "max_1v1": 1947,
-      "cur_tg": 1784,
+      "cur_tg": 1794,
       "max_tg": 1824,
       "last_1v1": "2026-10-11",
-      "last_tg": "2026-10-25",
-      "live": {
-        "match": 516146386,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-25"
     },
     {
       "profile_id": 467847,
@@ -607,30 +606,20 @@
       "clan": "Ux",
       "cur_1v1": 1909,
       "max_1v1": 1909,
-      "cur_tg": 1674,
+      "cur_tg": 1689,
       "max_tg": 1805,
       "last_tg": "2026-10-25",
-      "last_1v1": "2026-10-16",
-      "live": {
-        "match": 516146386,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_1v1": "2026-10-16"
     },
     {
       "profile_id": 3254820,
       "tag": "__Chino",
       "cur_1v1": 1904,
       "max_1v1": 2003,
-      "cur_tg": 1396,
+      "cur_tg": 1377,
       "max_tg": 1417,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-10-25",
-      "live": {
-        "match": 516148799,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-10-25"
     },
     {
       "profile_id": 13241217,
