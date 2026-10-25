@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-25T18:20:10Z",
+  "updated_at": "2026-10-25T18:25:08Z",
   "baseline": {
     "taken_at": "2026-10-25T14:00:13Z",
     "ranks": {
@@ -338,13 +338,7 @@
       "cur_tg": 1638,
       "max_tg": 1652,
       "last_tg": "2026-10-15",
-      "last_1v1": "2026-10-25",
-      "live": {
-        "match": 516310198,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "emmanueldltq08"
-      }
+      "last_1v1": "2026-10-25"
     },
     {
       "profile_id": 400111,
