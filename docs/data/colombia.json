@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-25T04:00:13Z",
+  "updated_at": "2026-10-25T04:15:08Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -107,15 +107,10 @@
       "clan": "FMG",
       "cur_1v1": 1971,
       "max_1v1": 2054,
-      "cur_tg": 1641,
+      "cur_tg": 1658,
       "max_tg": 1759,
       "last_1v1": "2026-10-04",
-      "last_tg": "2026-10-25",
-      "live": {
-        "match": 516153454,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-25"
     },
     {
       "profile_id": 5368998,
@@ -174,13 +169,7 @@
       "cur_tg": 1827,
       "max_tg": 1858,
       "last_tg": "2026-10-25",
-      "last_1v1": "2026-10-23",
-      "live": {
-        "match": 516153454,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "orquideas"
-      }
+      "last_1v1": "2026-10-23"
     },
     {
       "profile_id": 12722189,
@@ -217,14 +206,14 @@
     {
       "profile_id": 2134856,
       "tag": "Jacko",
-      "cur_1v1": 1781,
+      "cur_1v1": 1794,
       "max_1v1": 1867,
       "cur_tg": 1119,
       "max_tg": 1119,
       "last_1v1": "2026-10-25",
       "last_tg": "2025-03-14",
       "live": {
-        "match": 516147327,
+        "match": 516157826,
         "game": "1v1 Random Map",
         "format": "1v1"
       }

@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-25T04:10:09Z",
+  "updated_at": "2026-10-25T04:15:08Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -488,6 +488,22 @@
       "last_tg": "2026-10-21"
     },
     {
+      "profile_id": 2850920,
+      "tag": "Chimtzin",
+      "clan": "Ux",
+      "cur_1v1": 1969,
+      "max_1v1": 2124,
+      "cur_tg": 1633,
+      "max_tg": 1820,
+      "last_1v1": "2026-10-25",
+      "last_tg": "2026-10-21",
+      "live": {
+        "match": 516157635,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 235877,
       "tag": "AsMelodiant",
       "clan": "VENÓN",
@@ -534,22 +550,6 @@
         "match": 516152815,
         "game": "Team Random Map",
         "format": "4v4"
-      }
-    },
-    {
-      "profile_id": 2850920,
-      "tag": "Chimtzin",
-      "clan": "Ux",
-      "cur_1v1": 1945,
-      "max_1v1": 2124,
-      "cur_tg": 1633,
-      "max_tg": 1820,
-      "last_1v1": "2026-10-25",
-      "last_tg": "2026-10-21",
-      "live": {
-        "match": 516154850,
-        "game": "1v1 Random Map",
-        "format": "1v1"
       }
     },
     {
