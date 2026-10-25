@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-25T03:00:11Z",
+  "updated_at": "2026-10-25T03:05:10Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -482,22 +482,6 @@
       }
     },
     {
-      "profile_id": 2850920,
-      "tag": "Chimtzin",
-      "clan": "Ux",
-      "cur_1v1": 1963,
-      "max_1v1": 2124,
-      "cur_tg": 1633,
-      "max_tg": 1820,
-      "last_1v1": "2026-10-25",
-      "last_tg": "2026-10-21",
-      "live": {
-        "match": 516139235,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 235877,
       "tag": "AsMelodiant",
       "clan": "VENÓN",
@@ -517,12 +501,7 @@
       "cur_tg": 1630,
       "max_tg": 1824,
       "last_tg": "2026-10-24",
-      "last_1v1": "2026-10-13",
-      "live": {
-        "match": 516139759,
-        "game": "Unranked",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-10-13"
     },
     {
       "profile_id": 3285258,
@@ -550,6 +529,17 @@
         "game": "Team Random Map",
         "format": "4v4"
       }
+    },
+    {
+      "profile_id": 2850920,
+      "tag": "Chimtzin",
+      "clan": "Ux",
+      "cur_1v1": 1940,
+      "max_1v1": 2124,
+      "cur_tg": 1633,
+      "max_tg": 1820,
+      "last_1v1": "2026-10-25",
+      "last_tg": "2026-10-21"
     },
     {
       "profile_id": 467847,
@@ -603,7 +593,13 @@
       "cur_tg": 1793,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-10-22"
+      "last_tg": "2026-10-22",
+      "live": {
+        "match": 516144731,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "ZUKO | Tag Exiliado Exile"
+      }
     },
     {
       "profile_id": 12472496,
