@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-25T18:55:09Z",
+  "updated_at": "2026-10-25T19:05:08Z",
   "baseline": {
     "taken_at": "2026-10-25T14:00:13Z",
     "ranks": {
@@ -83,7 +83,7 @@
     {
       "profile_id": 3244108,
       "tag": "Legendario",
-      "cur_1v1": 2051,
+      "cur_1v1": 2076,
       "max_1v1": 2174,
       "cur_tg": 1580,
       "max_tg": 1834,
@@ -118,13 +118,7 @@
       "cur_tg": 1711,
       "max_tg": 1767,
       "last_tg": "2026-10-19",
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 516322747,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "CTM | Lelouch Jogo Bonito"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 13518993,
