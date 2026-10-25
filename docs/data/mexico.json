@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-25T15:30:11Z",
+  "updated_at": "2026-10-25T15:50:09Z",
   "baseline": {
     "taken_at": "2026-10-25T14:00:13Z",
     "ranks": {
@@ -129,14 +129,14 @@
       "profile_id": 401359,
       "tag": "EnvyZ",
       "clan": "VENÓN",
-      "cur_1v1": 2414,
+      "cur_1v1": 2425,
       "max_1v1": 2512,
       "cur_tg": 2082,
       "max_tg": 2190,
-      "last_1v1": "2026-10-24",
+      "last_1v1": "2026-10-25",
       "last_tg": "2026-10-25",
       "live": {
-        "match": 516275069,
+        "match": 516279891,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -521,7 +521,12 @@
       "cur_tg": 1795,
       "max_tg": 1824,
       "last_1v1": "2026-10-11",
-      "last_tg": "2026-10-25"
+      "last_tg": "2026-10-25",
+      "live": {
+        "match": 516279519,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 467847,
