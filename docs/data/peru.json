@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-25T08:45:09Z",
+  "updated_at": "2026-10-25T09:00:13Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -180,21 +180,6 @@
       "last_1v1": "2026-10-01"
     },
     {
-      "profile_id": 3034651,
-      "tag": "MANCO II",
-      "cur_1v1": 1914,
-      "max_1v1": 2035,
-      "cur_tg": 1544,
-      "max_tg": 1657,
-      "last_1v1": "2026-10-25",
-      "last_tg": "2026-10-24",
-      "live": {
-        "match": 516193100,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 1865687,
       "tag": "Pentrus",
       "clan": "CTM",
@@ -203,6 +188,16 @@
       "cur_tg": 1480,
       "max_tg": 1608,
       "last_1v1": "2026-09-19",
+      "last_tg": "2026-10-24"
+    },
+    {
+      "profile_id": 3034651,
+      "tag": "MANCO II",
+      "cur_1v1": 1897,
+      "max_1v1": 2035,
+      "cur_tg": 1544,
+      "max_tg": 1657,
+      "last_1v1": "2026-10-25",
       "last_tg": "2026-10-24"
     },
     {
