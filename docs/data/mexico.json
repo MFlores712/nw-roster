@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-25T04:45:08Z",
+  "updated_at": "2026-10-25T04:50:08Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -189,13 +189,7 @@
       "cur_tg": 1967,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-10-24",
-      "live": {
-        "match": 516156574,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "FierroFlash"
-      }
+      "last_tg": "2026-10-24"
     },
     {
       "profile_id": 9666666,
@@ -229,13 +223,7 @@
       "cur_tg": 2182,
       "max_tg": 2227,
       "last_tg": "2026-09-28",
-      "last_1v1": "2026-10-19",
-      "live": {
-        "match": 516156574,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "VENÓN | SiNisTeR"
-      }
+      "last_1v1": "2026-10-19"
     },
     {
       "profile_id": 12723994,
@@ -246,7 +234,13 @@
       "cur_tg": 1826,
       "max_tg": 1922,
       "last_tg": "2026-10-24",
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 516163425,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "ReformedGGWP"
+      }
     },
     {
       "profile_id": 757886,
@@ -303,15 +297,10 @@
       "clan": "hK",
       "cur_1v1": 2203,
       "max_1v1": 2233,
-      "cur_tg": 1819,
-      "max_tg": 1837,
+      "cur_tg": 1838,
+      "max_tg": 1838,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-10-20",
-      "live": {
-        "match": 516156574,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-25"
     },
     {
       "profile_id": 13138746,
@@ -397,7 +386,12 @@
       "cur_tg": 1772,
       "max_tg": 1793,
       "last_1v1": "2026-10-22",
-      "last_tg": "2026-10-25"
+      "last_tg": "2026-10-25",
+      "live": {
+        "match": 516163016,
+        "game": "Team Random Map",
+        "format": "2v2"
+      }
     },
     {
       "profile_id": 9770338,
@@ -564,13 +558,7 @@
       "cur_tg": 1689,
       "max_tg": 1788,
       "last_tg": "2026-10-24",
-      "last_1v1": "2026-10-19",
-      "live": {
-        "match": 516156574,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "hK | Charles Martel"
-      }
+      "last_1v1": "2026-10-19"
     },
     {
       "profile_id": 278380,
