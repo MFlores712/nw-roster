@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-25T04:35:10Z",
+  "updated_at": "2026-10-25T04:40:08Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -266,7 +266,12 @@
       "cur_tg": 2050,
       "max_tg": 2083,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-24"
+      "last_tg": "2026-10-24",
+      "live": {
+        "match": 516161648,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 580573,
@@ -456,6 +461,17 @@
       "last_1v1": "2026-10-23"
     },
     {
+      "profile_id": 2850920,
+      "tag": "Chimtzin",
+      "clan": "Ux",
+      "cur_1v1": 1993,
+      "max_1v1": 2124,
+      "cur_tg": 1633,
+      "max_tg": 1820,
+      "last_1v1": "2026-10-25",
+      "last_tg": "2026-10-21"
+    },
+    {
       "profile_id": 6501299,
       "tag": "ShutAzarquay",
       "clan": "nW",
@@ -476,22 +492,6 @@
       "max_tg": 1888,
       "last_1v1": "2026-10-25",
       "last_tg": "2026-10-21"
-    },
-    {
-      "profile_id": 2850920,
-      "tag": "Chimtzin",
-      "clan": "Ux",
-      "cur_1v1": 1969,
-      "max_1v1": 2124,
-      "cur_tg": 1633,
-      "max_tg": 1820,
-      "last_1v1": "2026-10-25",
-      "last_tg": "2026-10-21",
-      "live": {
-        "match": 516157635,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 235877,
@@ -532,15 +532,10 @@
       "clan": "VL",
       "cur_1v1": 1947,
       "max_1v1": 1947,
-      "cur_tg": 1788,
+      "cur_tg": 1795,
       "max_tg": 1824,
       "last_1v1": "2026-10-11",
-      "last_tg": "2026-10-25",
-      "live": {
-        "match": 516160387,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-25"
     },
     {
       "profile_id": 467847,
@@ -608,15 +603,10 @@
       "clan": "Ux",
       "cur_1v1": 1909,
       "max_1v1": 1909,
-      "cur_tg": 1691,
+      "cur_tg": 1701,
       "max_tg": 1805,
       "last_tg": "2026-10-25",
-      "last_1v1": "2026-10-16",
-      "live": {
-        "match": 516160387,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_1v1": "2026-10-16"
     },
     {
       "profile_id": 13241217,
