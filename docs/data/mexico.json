@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-25T05:40:08Z",
+  "updated_at": "2026-10-25T05:50:08Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -131,15 +131,10 @@
       "clan": "VENÓN",
       "cur_1v1": 2414,
       "max_1v1": 2512,
-      "cur_tg": 2067,
+      "cur_tg": 2074,
       "max_tg": 2190,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-24",
-      "live": {
-        "match": 516169476,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-10-25"
     },
     {
       "profile_id": 310739,
@@ -172,13 +167,7 @@
       "cur_tg": 1858,
       "max_tg": 2072,
       "last_tg": "2026-10-24",
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 516168708,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "hK | RanDoM"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 1485562,
@@ -200,13 +189,7 @@
       "cur_tg": 1967,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-10-24",
-      "live": {
-        "match": 516168708,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "FierroFlash"
-      }
+      "last_tg": "2026-10-24"
     },
     {
       "profile_id": 9666666,
@@ -240,13 +223,7 @@
       "cur_tg": 2182,
       "max_tg": 2227,
       "last_tg": "2026-09-28",
-      "last_1v1": "2026-10-19",
-      "live": {
-        "match": 516169476,
-        "game": "Team Random Map",
-        "format": "3v3",
-        "account": "VENÓN | SiNisTeR"
-      }
+      "last_1v1": "2026-10-19"
     },
     {
       "profile_id": 12723994,
@@ -257,13 +234,7 @@
       "cur_tg": 1826,
       "max_tg": 1922,
       "last_tg": "2026-10-24",
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 516168153,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "ReformedGGWP"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 757886,
@@ -414,7 +385,12 @@
       "cur_tg": 1763,
       "max_tg": 1793,
       "last_1v1": "2026-10-22",
-      "last_tg": "2026-10-25"
+      "last_tg": "2026-10-25",
+      "live": {
+        "match": 516171974,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 9770338,
@@ -573,15 +549,10 @@
       "clan": "KH",
       "cur_1v1": 1934,
       "max_1v1": 2060,
-      "cur_tg": 1689,
+      "cur_tg": 1703,
       "max_tg": 1788,
-      "last_tg": "2026-10-24",
-      "last_1v1": "2026-10-19",
-      "live": {
-        "match": 516168708,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-25",
+      "last_1v1": "2026-10-19"
     },
     {
       "profile_id": 278380,
