@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-25T06:35:08Z",
+  "updated_at": "2026-10-25T06:40:09Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -221,12 +221,12 @@
       "clan": "nW",
       "cur_1v1": 2279,
       "max_1v1": 2301,
-      "cur_tg": 1839,
-      "max_tg": 1839,
+      "cur_tg": 1852,
+      "max_tg": 1852,
       "last_1v1": "2026-10-24",
       "last_tg": "2026-10-25",
       "live": {
-        "match": 516174741,
+        "match": 516179269,
         "game": "Team Random Map",
         "format": "4v4"
       }
@@ -240,7 +240,13 @@
       "cur_tg": 2182,
       "max_tg": 2227,
       "last_tg": "2026-09-28",
-      "last_1v1": "2026-10-19"
+      "last_1v1": "2026-10-19",
+      "live": {
+        "match": 516179269,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "VENÓN | SiNisTeR"
+      }
     },
     {
       "profile_id": 12723994,
@@ -405,8 +411,8 @@
       "clan": "nW",
       "cur_1v1": 2037,
       "max_1v1": 2152,
-      "cur_tg": 1787,
-      "max_tg": 1793,
+      "cur_tg": 1802,
+      "max_tg": 1802,
       "last_1v1": "2026-10-22",
       "last_tg": "2026-10-25",
       "live": {
