@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-25T03:55:08Z",
+  "updated_at": "2026-10-25T04:00:13Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -136,7 +136,13 @@
       "cur_tg": 1900,
       "max_tg": 1905,
       "last_1v1": "2026-09-21",
-      "last_tg": "2026-10-02"
+      "last_tg": "2026-10-02",
+      "live": {
+        "match": 516154826,
+        "game": "Team Random Map",
+        "format": "3v3",
+        "account": "[GDL] Capitan Nicky"
+      }
     },
     {
       "profile_id": 6431793,
