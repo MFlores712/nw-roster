@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-25T13:50:08Z",
+  "updated_at": "2026-10-25T13:55:08Z",
   "baseline": {
     "taken_at": "2026-10-24T14:00:12Z",
     "ranks": {
@@ -83,7 +83,7 @@
     {
       "profile_id": 3244108,
       "tag": "Legendario",
-      "cur_1v1": 2036,
+      "cur_1v1": 2051,
       "max_1v1": 2174,
       "cur_tg": 1580,
       "max_tg": 1834,
