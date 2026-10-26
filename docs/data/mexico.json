@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-26T03:00:13Z",
+  "updated_at": "2026-10-26T03:05:09Z",
   "baseline": {
     "taken_at": "2026-10-25T14:00:13Z",
     "ranks": {
@@ -274,7 +274,12 @@
       "cur_tg": 1839,
       "max_tg": 1852,
       "last_1v1": "2026-10-26",
-      "last_tg": "2026-10-25"
+      "last_tg": "2026-10-25",
+      "live": {
+        "match": 516429312,
+        "game": "Unranked",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 580573,
@@ -431,7 +436,12 @@
       "cur_tg": 1802,
       "max_tg": 1802,
       "last_1v1": "2026-10-22",
-      "last_tg": "2026-10-25"
+      "last_tg": "2026-10-25",
+      "live": {
+        "match": 516429312,
+        "game": "Unranked",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 9770338,
@@ -609,13 +619,7 @@
       "cur_tg": 1793,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-10-22",
-      "live": {
-        "match": 516419137,
-        "game": "Unranked",
-        "format": "FFA",
-        "account": "ZUKO | Taj Exiliado Exile"
-      }
+      "last_tg": "2026-10-22"
     },
     {
       "profile_id": 12472496,
@@ -632,7 +636,7 @@
       "profile_id": 13241217,
       "tag": "BlueUltra",
       "clan": "Ux",
-      "cur_1v1": 1897,
+      "cur_1v1": 1904,
       "max_1v1": 1993,
       "cur_tg": 1636,
       "max_tg": 1688,
