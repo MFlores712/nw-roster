@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-26T06:05:09Z",
+  "updated_at": "2026-10-26T06:10:10Z",
   "baseline": {
     "taken_at": "2026-10-25T14:00:13Z",
     "ranks": {
@@ -196,7 +196,7 @@
       "clan": "CTM",
       "cur_1v1": 1902,
       "max_1v1": 1902,
-      "cur_tg": 1427,
+      "cur_tg": 1438,
       "max_tg": 1608,
       "last_1v1": "2026-09-19",
       "last_tg": "2026-10-26",
@@ -211,7 +211,7 @@
       "tag": "_The_Oldergold",
       "cur_1v1": 1835,
       "max_1v1": 1940,
-      "cur_tg": 1478,
+      "cur_tg": 1490,
       "max_tg": 1719,
       "last_1v1": "2026-10-25",
       "last_tg": "2026-10-26",
@@ -226,10 +226,10 @@
       "tag": "MANCO II",
       "cur_1v1": 1832,
       "max_1v1": 2035,
-      "cur_tg": 1544,
+      "cur_tg": 1526,
       "max_tg": 1657,
       "last_1v1": "2026-10-26",
-      "last_tg": "2026-10-24",
+      "last_tg": "2026-10-26",
       "live": {
         "match": 516445000,
         "game": "Team Random Map",
