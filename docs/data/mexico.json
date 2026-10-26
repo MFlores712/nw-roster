@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-26T05:45:10Z",
+  "updated_at": "2026-10-26T05:55:09Z",
   "baseline": {
     "taken_at": "2026-10-25T14:00:13Z",
     "ranks": {
@@ -192,7 +192,7 @@
       "last_1v1": "2026-10-17",
       "last_tg": "2026-10-24",
       "live": {
-        "match": 516450408,
+        "match": 516451212,
         "game": "1v1 Random Map",
         "format": "1v1",
         "account": "FierroFlash"
@@ -477,22 +477,6 @@
       "last_tg": "2026-10-21"
     },
     {
-      "profile_id": 2876835,
-      "tag": "Abejorro",
-      "clan": "nW",
-      "cur_1v1": 1982,
-      "max_1v1": 2152,
-      "cur_tg": 1802,
-      "max_tg": 1802,
-      "last_1v1": "2026-10-26",
-      "last_tg": "2026-10-25",
-      "live": {
-        "match": 516448124,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 2850920,
       "tag": "Chimtzin",
       "clan": "Ux",
@@ -504,6 +488,22 @@
       "last_tg": "2026-10-21",
       "live": {
         "match": 516448503,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
+      "profile_id": 2876835,
+      "tag": "Abejorro",
+      "clan": "nW",
+      "cur_1v1": 1967,
+      "max_1v1": 2152,
+      "cur_tg": 1802,
+      "max_tg": 1802,
+      "last_1v1": "2026-10-26",
+      "last_tg": "2026-10-25",
+      "live": {
+        "match": 516448124,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
