@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-26T01:55:08Z",
+  "updated_at": "2026-10-26T02:05:09Z",
   "baseline": {
     "taken_at": "2026-10-25T14:00:13Z",
     "ranks": {
@@ -85,17 +85,12 @@
       "profile_id": 5984120,
       "tag": "Combito",
       "clan": "Ux",
-      "cur_1v1": 2615,
+      "cur_1v1": 2595,
       "max_1v1": 2752,
       "cur_tg": 1801,
       "max_tg": 1885,
       "last_1v1": "2026-10-26",
-      "last_tg": "2026-10-24",
-      "live": {
-        "match": 516415739,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-24"
     },
     {
       "profile_id": 13099159,
@@ -438,15 +433,10 @@
       "clan": "MZTK",
       "cur_1v1": 2021,
       "max_1v1": 2093,
-      "cur_tg": 1661,
+      "cur_tg": 1675,
       "max_tg": 1860,
       "last_1v1": "2026-10-21",
-      "last_tg": "2026-10-26",
-      "live": {
-        "match": 516409019,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-26"
     },
     {
       "profile_id": 233625,
@@ -597,7 +587,13 @@
       "cur_tg": 1793,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-10-22"
+      "last_tg": "2026-10-22",
+      "live": {
+        "match": 516419137,
+        "game": "Unranked",
+        "format": "FFA",
+        "account": "ZUKO | Taj Exiliado Exile"
+      }
     },
     {
       "profile_id": 12472496,
