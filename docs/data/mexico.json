@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-26T19:55:08Z",
+  "updated_at": "2026-10-26T20:10:09Z",
   "baseline": {
     "taken_at": "2026-10-26T14:00:16Z",
     "ranks": {
@@ -236,15 +236,10 @@
       "clan": "VN",
       "cur_1v1": 2279,
       "max_1v1": 2285,
-      "cur_tg": 1861,
+      "cur_tg": 1841,
       "max_tg": 2050,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-10-26",
-      "live": {
-        "match": 516568470,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-26"
     },
     {
       "profile_id": 2598146,
@@ -310,12 +305,7 @@
       "cur_tg": 1893,
       "max_tg": 1983,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-10-25",
-      "live": {
-        "match": 516572548,
-        "game": "Unranked",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-25"
     },
     {
       "profile_id": 1947348,
@@ -344,15 +334,10 @@
       "clan": "VN",
       "cur_1v1": 2063,
       "max_1v1": 2102,
-      "cur_tg": 1853,
+      "cur_tg": 1834,
       "max_tg": 1997,
       "last_1v1": "2026-10-26",
-      "last_tg": "2026-10-26",
-      "live": {
-        "match": 516568470,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-26"
     },
     {
       "profile_id": 400111,
@@ -430,22 +415,6 @@
       "last_tg": "2026-10-22"
     },
     {
-      "profile_id": 2926018,
-      "tag": "PerezPodrido",
-      "clan": "SotC",
-      "cur_1v1": 2001,
-      "max_1v1": 2039,
-      "cur_tg": 1651,
-      "max_tg": 1888,
-      "last_1v1": "2026-10-26",
-      "last_tg": "2026-10-21",
-      "live": {
-        "match": 516573883,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 2291749,
       "tag": "Biner",
       "cur_1v1": 1997,
@@ -487,6 +456,22 @@
       "max_tg": 1860,
       "last_1v1": "2026-10-26",
       "last_tg": "2026-10-26"
+    },
+    {
+      "profile_id": 2926018,
+      "tag": "PerezPodrido",
+      "clan": "SotC",
+      "cur_1v1": 1988,
+      "max_1v1": 2039,
+      "cur_tg": 1651,
+      "max_tg": 1888,
+      "last_1v1": "2026-10-26",
+      "last_tg": "2026-10-21",
+      "live": {
+        "match": 516577045,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 235877,
