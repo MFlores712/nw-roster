@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-26T02:20:09Z",
+  "updated_at": "2026-10-26T02:25:09Z",
   "baseline": {
     "taken_at": "2026-10-25T14:00:13Z",
     "ranks": {
@@ -90,7 +90,12 @@
       "cur_tg": 1801,
       "max_tg": 1885,
       "last_1v1": "2026-10-26",
-      "last_tg": "2026-10-24"
+      "last_tg": "2026-10-24",
+      "live": {
+        "match": 516423186,
+        "game": "Team Random Map",
+        "format": "2v2"
+      }
     },
     {
       "profile_id": 13099159,
@@ -184,7 +189,12 @@
       "cur_tg": 1857,
       "max_tg": 2099,
       "last_1v1": "2026-10-26",
-      "last_tg": "2026-10-25"
+      "last_tg": "2026-10-25",
+      "live": {
+        "match": 516423647,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 9031952,
@@ -195,7 +205,13 @@
       "cur_tg": 1967,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-10-24"
+      "last_tg": "2026-10-24",
+      "live": {
+        "match": 516423322,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "FierroFlash"
+      }
     },
     {
       "profile_id": 9666666,
@@ -218,7 +234,12 @@
       "cur_tg": 1839,
       "max_tg": 1852,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-25"
+      "last_tg": "2026-10-25",
+      "live": {
+        "match": 516424021,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 757886,
@@ -625,14 +646,14 @@
     {
       "profile_id": 3254820,
       "tag": "__Chino",
-      "cur_1v1": 1863,
+      "cur_1v1": 1851,
       "max_1v1": 2003,
       "cur_tg": 1377,
       "max_tg": 1417,
       "last_1v1": "2026-10-26",
       "last_tg": "2026-10-25",
       "live": {
-        "match": 516418550,
+        "match": 516424124,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
