@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-26T22:00:12Z",
+  "updated_at": "2026-10-26T22:05:10Z",
   "baseline": {
     "taken_at": "2026-10-26T14:00:16Z",
     "ranks": {
@@ -63,14 +63,14 @@
       "profile_id": 2776293,
       "tag": "Kingstone",
       "clan": "Oni",
-      "cur_1v1": 2720,
+      "cur_1v1": 2701,
       "max_1v1": 2867,
       "cur_tg": 2152,
       "max_tg": 2169,
       "last_tg": "2026-10-08",
       "last_1v1": "2026-10-26",
       "live": {
-        "match": 516596429,
+        "match": 516602119,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -183,7 +183,13 @@
       "cur_tg": 1967,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-10-24"
+      "last_tg": "2026-10-24",
+      "live": {
+        "match": 516601630,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "FierroFlash"
+      }
     },
     {
       "profile_id": 3816609,
@@ -305,7 +311,12 @@
       "cur_tg": 1860,
       "max_tg": 1983,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-10-26"
+      "last_tg": "2026-10-26",
+      "live": {
+        "match": 516601630,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 1947348,
