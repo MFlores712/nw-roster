@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-26T02:35:08Z",
+  "updated_at": "2026-10-26T02:40:08Z",
   "baseline": {
     "taken_at": "2026-10-25T14:00:13Z",
     "ranks": {
@@ -200,7 +200,13 @@
       "cur_tg": 1967,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-10-24"
+      "last_tg": "2026-10-24",
+      "live": {
+        "match": 516425949,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "FierroFlash"
+      }
     },
     {
       "profile_id": 9666666,
@@ -411,22 +417,6 @@
       "last_tg": "2026-10-25"
     },
     {
-      "profile_id": 2850920,
-      "tag": "Chimtzin",
-      "clan": "Ux",
-      "cur_1v1": 2035,
-      "max_1v1": 2124,
-      "cur_tg": 1633,
-      "max_tg": 1820,
-      "last_1v1": "2026-10-26",
-      "last_tg": "2026-10-21",
-      "live": {
-        "match": 516422295,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 9770338,
       "tag": "SynfonY",
       "clan": "CL",
@@ -449,6 +439,22 @@
       "last_tg": "2026-10-26",
       "live": {
         "match": 516425213,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
+      "profile_id": 2850920,
+      "tag": "Chimtzin",
+      "clan": "Ux",
+      "cur_1v1": 2018,
+      "max_1v1": 2124,
+      "cur_tg": 1633,
+      "max_tg": 1820,
+      "last_1v1": "2026-10-26",
+      "last_tg": "2026-10-21",
+      "live": {
+        "match": 516426292,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
