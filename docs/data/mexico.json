@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-26T22:50:10Z",
+  "updated_at": "2026-10-26T23:00:22Z",
   "baseline": {
     "taken_at": "2026-10-26T14:00:16Z",
     "ranks": {
@@ -79,17 +79,12 @@
       "profile_id": 5984120,
       "tag": "Combito",
       "clan": "Ux",
-      "cur_1v1": 2644,
+      "cur_1v1": 2650,
       "max_1v1": 2752,
       "cur_tg": 1774,
       "max_tg": 1885,
       "last_1v1": "2026-10-26",
-      "last_tg": "2026-10-26",
-      "live": {
-        "match": 516608775,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-26"
     },
     {
       "profile_id": 2920057,
@@ -267,17 +262,12 @@
       "profile_id": 580573,
       "tag": "Puerco Black",
       "clan": "hK",
-      "cur_1v1": 2252,
+      "cur_1v1": 2265,
       "max_1v1": 2350,
       "cur_tg": 1840,
       "max_tg": 1974,
       "last_1v1": "2026-10-26",
-      "last_tg": "2026-10-19",
-      "live": {
-        "match": 516607090,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-19"
     },
     {
       "profile_id": 4412109,
@@ -523,15 +513,10 @@
       "clan": "VL",
       "cur_1v1": 1952,
       "max_1v1": 1972,
-      "cur_tg": 1662,
+      "cur_tg": 1641,
       "max_tg": 1824,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-13",
-      "live": {
-        "match": 516607125,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_1v1": "2026-10-13"
     },
     {
       "profile_id": 3285258,
