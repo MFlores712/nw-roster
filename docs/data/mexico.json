@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-26T08:55:08Z",
+  "updated_at": "2026-10-26T09:45:10Z",
   "baseline": {
     "taken_at": "2026-10-25T14:00:13Z",
     "ranks": {
@@ -386,13 +386,7 @@
       "cur_tg": 1832,
       "max_tg": 1962,
       "last_1v1": "2026-10-21",
-      "last_tg": "2026-10-24",
-      "live": {
-        "match": 516455159,
-        "game": "Unranked",
-        "format": "2v2",
-        "account": "SynfonY"
-      }
+      "last_tg": "2026-10-24"
     },
     {
       "profile_id": 2850920,
