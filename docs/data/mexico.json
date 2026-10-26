@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-26T01:20:09Z",
+  "updated_at": "2026-10-26T01:25:09Z",
   "baseline": {
     "taken_at": "2026-10-25T14:00:13Z",
     "ranks": {
@@ -363,6 +363,22 @@
       "last_tg": "2026-10-25"
     },
     {
+      "profile_id": 2934597,
+      "tag": "Sgt.Pepper",
+      "clan": "nW",
+      "cur_1v1": 2051,
+      "max_1v1": 2210,
+      "cur_tg": 1747,
+      "max_tg": 1747,
+      "last_1v1": "2026-10-26",
+      "last_tg": "2026-10-25",
+      "live": {
+        "match": 516409850,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 1261126,
       "tag": "Spirit",
       "clan": "SotC",
@@ -382,22 +398,6 @@
       "max_tg": 1818,
       "last_tg": "2026-10-10",
       "last_1v1": "2026-03-21"
-    },
-    {
-      "profile_id": 2934597,
-      "tag": "Sgt.Pepper",
-      "clan": "nW",
-      "cur_1v1": 2037,
-      "max_1v1": 2210,
-      "cur_tg": 1747,
-      "max_tg": 1747,
-      "last_1v1": "2026-10-26",
-      "last_tg": "2026-10-25",
-      "live": {
-        "match": 516409850,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 2876835,
@@ -602,13 +602,7 @@
       "cur_tg": 1793,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-10-22",
-      "live": {
-        "match": 516407388,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "ZUKO | Taj Exiliado Exile"
-      }
+      "last_tg": "2026-10-22"
     },
     {
       "profile_id": 12472496,
