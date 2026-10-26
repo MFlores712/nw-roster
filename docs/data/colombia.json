@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-26T23:50:09Z",
+  "updated_at": "2026-10-26T23:55:09Z",
   "baseline": {
     "taken_at": "2026-10-26T14:00:16Z",
     "ranks": {
@@ -40,17 +40,12 @@
       "profile_id": 13267917,
       "tag": "Manuel",
       "clan": "nW",
-      "cur_1v1": 2371,
+      "cur_1v1": 2384,
       "max_1v1": 2410,
       "cur_tg": 1910,
       "max_tg": 1933,
       "last_1v1": "2026-10-26",
-      "last_tg": "2026-10-25",
-      "live": {
-        "match": 516618244,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-25"
     },
     {
       "profile_id": 6838238,
@@ -120,7 +115,7 @@
     {
       "profile_id": 5368998,
       "tag": "Matazombies",
-      "cur_1v1": 1941,
+      "cur_1v1": 1957,
       "max_1v1": 1974,
       "cur_tg": 1744,
       "max_tg": 1975,
