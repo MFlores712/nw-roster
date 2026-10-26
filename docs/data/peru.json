@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-26T06:45:10Z",
+  "updated_at": "2026-10-26T07:00:13Z",
   "baseline": {
     "taken_at": "2026-10-25T14:00:13Z",
     "ranks": {
@@ -222,20 +222,9 @@
       }
     },
     {
-      "profile_id": 4167535,
-      "tag": "Dia franptom",
-      "clan": "LE",
-      "cur_1v1": 1822,
-      "max_1v1": 1995,
-      "cur_tg": 1452,
-      "max_tg": 1581,
-      "last_1v1": "2026-10-25",
-      "last_tg": "2026-09-13"
-    },
-    {
       "profile_id": 3034651,
       "tag": "MANCO II",
-      "cur_1v1": 1813,
+      "cur_1v1": 1834,
       "max_1v1": 2035,
       "cur_tg": 1526,
       "max_tg": 1657,
@@ -246,6 +235,17 @@
         "game": "1v1 Random Map",
         "format": "1v1"
       }
+    },
+    {
+      "profile_id": 4167535,
+      "tag": "Dia franptom",
+      "clan": "LE",
+      "cur_1v1": 1822,
+      "max_1v1": 1995,
+      "cur_tg": 1452,
+      "max_tg": 1581,
+      "last_1v1": "2026-10-25",
+      "last_tg": "2026-09-13"
     }
   ],
   "show_top": 15
