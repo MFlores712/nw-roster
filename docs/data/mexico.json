@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-26T00:55:08Z",
+  "updated_at": "2026-10-26T01:00:13Z",
   "baseline": {
     "taken_at": "2026-10-25T14:00:13Z",
     "ranks": {
@@ -404,14 +404,14 @@
       "clan": "MZTK",
       "cur_1v1": 2021,
       "max_1v1": 2093,
-      "cur_tg": 1668,
+      "cur_tg": 1682,
       "max_tg": 1860,
       "last_1v1": "2026-10-21",
       "last_tg": "2026-10-26",
       "live": {
-        "match": 516405903,
+        "match": 516408205,
         "game": "Team Random Map",
-        "format": "4v4"
+        "format": "3v3"
       }
     },
     {
