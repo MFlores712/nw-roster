@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-26T03:10:09Z",
+  "updated_at": "2026-10-26T03:15:08Z",
   "baseline": {
     "taken_at": "2026-10-25T14:00:13Z",
     "ranks": {
@@ -447,20 +447,9 @@
       "cur_tg": 1633,
       "max_tg": 1820,
       "last_1v1": "2026-10-26",
-      "last_tg": "2026-10-21"
-    },
-    {
-      "profile_id": 13215279,
-      "tag": "GO1_mx",
-      "clan": "MZTK",
-      "cur_1v1": 2008,
-      "max_1v1": 2093,
-      "cur_tg": 1675,
-      "max_tg": 1860,
-      "last_1v1": "2026-10-26",
-      "last_tg": "2026-10-26",
+      "last_tg": "2026-10-21",
       "live": {
-        "match": 516429931,
+        "match": 516432021,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -506,6 +495,17 @@
       "max_tg": 1745,
       "last_tg": "2026-10-09",
       "last_1v1": "2026-10-24"
+    },
+    {
+      "profile_id": 13215279,
+      "tag": "GO1_mx",
+      "clan": "MZTK",
+      "cur_1v1": 1988,
+      "max_1v1": 2093,
+      "cur_tg": 1675,
+      "max_tg": 1860,
+      "last_1v1": "2026-10-26",
+      "last_tg": "2026-10-26"
     },
     {
       "profile_id": 2926018,
@@ -641,14 +641,14 @@
     {
       "profile_id": 3254820,
       "tag": "__Chino",
-      "cur_1v1": 1859,
+      "cur_1v1": 1844,
       "max_1v1": 2003,
       "cur_tg": 1377,
       "max_tg": 1417,
       "last_1v1": "2026-10-26",
       "last_tg": "2026-10-25",
       "live": {
-        "match": 516428811,
+        "match": 516432569,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
