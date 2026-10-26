@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-26T00:30:13Z",
+  "updated_at": "2026-10-26T00:35:08Z",
   "baseline": {
     "taken_at": "2026-10-25T14:00:13Z",
     "ranks": {
@@ -267,7 +267,12 @@
       "cur_tg": 1840,
       "max_tg": 1974,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-10-19"
+      "last_tg": "2026-10-19",
+      "live": {
+        "match": 516403816,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 917863,
@@ -590,7 +595,13 @@
       "cur_tg": 1793,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-10-22"
+      "last_tg": "2026-10-22",
+      "live": {
+        "match": 516403398,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "ZUKO | Taj Exiliado Exile"
+      }
     },
     {
       "profile_id": 12472496,
