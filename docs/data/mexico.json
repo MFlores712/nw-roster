@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-26T06:25:08Z",
+  "updated_at": "2026-10-26T06:30:10Z",
   "baseline": {
     "taken_at": "2026-10-25T14:00:13Z",
     "ranks": {
@@ -114,7 +114,7 @@
       "last_1v1": "2026-10-24",
       "last_tg": "2026-10-15",
       "live": {
-        "match": 516453127,
+        "match": 516454165,
         "game": "Team Random Map",
         "format": "4v4",
         "account": "[GDL] Chuchito"
@@ -192,7 +192,7 @@
       "last_1v1": "2026-10-17",
       "last_tg": "2026-10-24",
       "live": {
-        "match": 516452112,
+        "match": 516454152,
         "game": "1v1 Random Map",
         "format": "1v1",
         "account": "FierroFlash"
