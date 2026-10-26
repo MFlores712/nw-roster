@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-26T02:30:11Z",
+  "updated_at": "2026-10-26T02:35:08Z",
   "baseline": {
     "taken_at": "2026-10-25T14:00:13Z",
     "ranks": {
@@ -85,7 +85,7 @@
       "tag": "Legendario",
       "cur_1v1": 2080,
       "max_1v1": 2174,
-      "cur_tg": 1631,
+      "cur_tg": 1609,
       "max_tg": 1834,
       "last_1v1": "2026-10-25",
       "last_tg": "2026-10-26"
