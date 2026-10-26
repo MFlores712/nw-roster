@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-26T21:15:10Z",
+  "updated_at": "2026-10-26T21:20:09Z",
   "baseline": {
     "taken_at": "2026-10-26T14:00:16Z",
     "ranks": {
@@ -220,22 +220,6 @@
       "last_1v1": "2026-10-26"
     },
     {
-      "profile_id": 3816609,
-      "tag": "iamkaito",
-      "clan": "nW",
-      "cur_1v1": 2296,
-      "max_1v1": 2301,
-      "cur_tg": 1839,
-      "max_tg": 1852,
-      "last_1v1": "2026-10-26",
-      "last_tg": "2026-10-25",
-      "live": {
-        "match": 516585277,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 1485562,
       "tag": "MrOsoVC8",
       "clan": "VENÓN",
@@ -245,6 +229,22 @@
       "max_tg": 2099,
       "last_1v1": "2026-10-26",
       "last_tg": "2026-10-25"
+    },
+    {
+      "profile_id": 3816609,
+      "tag": "iamkaito",
+      "clan": "nW",
+      "cur_1v1": 2282,
+      "max_1v1": 2301,
+      "cur_tg": 1839,
+      "max_tg": 1852,
+      "last_1v1": "2026-10-26",
+      "last_tg": "2026-10-25",
+      "live": {
+        "match": 516593031,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 757886,
@@ -347,13 +347,7 @@
       "cur_tg": 1638,
       "max_tg": 1652,
       "last_tg": "2026-10-15",
-      "last_1v1": "2026-10-26",
-      "live": {
-        "match": 516586163,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "emmanueldltq08"
-      }
+      "last_1v1": "2026-10-26"
     },
     {
       "profile_id": 1249720,
@@ -526,7 +520,12 @@
       "cur_tg": 1630,
       "max_tg": 1824,
       "last_tg": "2026-10-24",
-      "last_1v1": "2026-10-13"
+      "last_1v1": "2026-10-13",
+      "live": {
+        "match": 516592173,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 3285258,
