@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-26T02:45:09Z",
+  "updated_at": "2026-10-26T02:50:09Z",
   "baseline": {
     "taken_at": "2026-10-25T14:00:13Z",
     "ranks": {
@@ -112,13 +112,7 @@
       "cur_tg": 2140,
       "max_tg": 2151,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-15",
-      "live": {
-        "match": 516423024,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "VENÓN | Mauricio"
-      }
+      "last_tg": "2026-10-15"
     },
     {
       "profile_id": 4221810,
@@ -176,22 +170,6 @@
       "last_1v1": "2026-10-24"
     },
     {
-      "profile_id": 1485562,
-      "tag": "MrOsoVC8",
-      "clan": "VENÓN",
-      "cur_1v1": 2333,
-      "max_1v1": 2394,
-      "cur_tg": 1857,
-      "max_tg": 2099,
-      "last_1v1": "2026-10-26",
-      "last_tg": "2026-10-25",
-      "live": {
-        "match": 516423647,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 9031952,
       "tag": "ChossMx",
       "clan": "hK",
@@ -206,6 +184,22 @@
         "game": "1v1 Random Map",
         "format": "1v1",
         "account": "FierroFlash"
+      }
+    },
+    {
+      "profile_id": 1485562,
+      "tag": "MrOsoVC8",
+      "clan": "VENÓN",
+      "cur_1v1": 2319,
+      "max_1v1": 2394,
+      "cur_tg": 1857,
+      "max_tg": 2099,
+      "last_1v1": "2026-10-26",
+      "last_tg": "2026-10-25",
+      "live": {
+        "match": 516428133,
+        "game": "1v1 Random Map",
+        "format": "1v1"
       }
     },
     {
@@ -267,13 +261,7 @@
       "cur_tg": 1826,
       "max_tg": 1922,
       "last_tg": "2026-10-24",
-      "last_1v1": "2026-10-26",
-      "live": {
-        "match": 516423024,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "VENÓN | 45 Dias habiles"
-      }
+      "last_1v1": "2026-10-26"
     },
     {
       "profile_id": 580573,
@@ -414,7 +402,12 @@
       "cur_tg": 1633,
       "max_tg": 1820,
       "last_1v1": "2026-10-26",
-      "last_tg": "2026-10-21"
+      "last_tg": "2026-10-21",
+      "live": {
+        "match": 516427908,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2876835,
