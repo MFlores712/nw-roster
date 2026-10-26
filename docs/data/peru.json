@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-26T06:25:08Z",
+  "updated_at": "2026-10-26T06:45:10Z",
   "baseline": {
     "taken_at": "2026-10-25T14:00:13Z",
     "ranks": {
@@ -123,27 +123,6 @@
       "last_tg": "2026-10-23"
     },
     {
-      "profile_id": 2366434,
-      "via": {
-        "id": 3265324,
-        "listed_last": "2026-07-01"
-      },
-      "tag": "Lelouch",
-      "clan": "CTM",
-      "cur_1v1": 2020,
-      "max_1v1": 2222,
-      "cur_tg": 1711,
-      "max_tg": 1767,
-      "last_tg": "2026-10-19",
-      "last_1v1": "2026-10-26",
-      "live": {
-        "match": 516453052,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "CTM | Lelouch ELO bajito"
-      }
-    },
-    {
       "profile_id": 13518993,
       "tag": "Miguel T",
       "cur_1v1": 2019,
@@ -152,6 +131,27 @@
       "max_tg": 1703,
       "last_1v1": "2026-10-24",
       "last_tg": "2026-10-25"
+    },
+    {
+      "profile_id": 2366434,
+      "via": {
+        "id": 3265324,
+        "listed_last": "2026-07-01"
+      },
+      "tag": "Lelouch",
+      "clan": "CTM",
+      "cur_1v1": 1997,
+      "max_1v1": 2222,
+      "cur_tg": 1711,
+      "max_tg": 1767,
+      "last_tg": "2026-10-19",
+      "last_1v1": "2026-10-26",
+      "live": {
+        "match": 516455482,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "CTM | Lelouch ELO bajito"
+      }
     },
     {
       "profile_id": 12167914,
@@ -164,7 +164,7 @@
       "last_1v1": "2026-10-20",
       "last_tg": "2026-10-24",
       "live": {
-        "match": 516452424,
+        "match": 516455159,
         "game": "Unranked",
         "format": "2v2"
       }
