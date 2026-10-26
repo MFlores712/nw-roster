@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-26T22:15:11Z",
+  "updated_at": "2026-10-26T22:25:09Z",
   "baseline": {
     "taken_at": "2026-10-26T14:00:16Z",
     "ranks": {
@@ -171,7 +171,12 @@
       "cur_tg": 1679,
       "max_tg": 1843,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-25"
+      "last_tg": "2026-10-25",
+      "live": {
+        "match": 516606207,
+        "game": "Team Death Match",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 4210400,
@@ -203,11 +208,17 @@
       "cur_tg": 1490,
       "max_tg": 1719,
       "last_1v1": "2026-10-26",
-      "last_tg": "2026-10-26"
+      "last_tg": "2026-10-26",
+      "live": {
+        "match": 516605556,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 3034651,
-      "tag": "MANCO II",
+      "tag": "SANGRE AZUL",
+      "clan": "MANCO II",
       "cur_1v1": 1834,
       "max_1v1": 2035,
       "cur_tg": 1526,
