@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-26T01:25:09Z",
+  "updated_at": "2026-10-26T01:30:11Z",
   "baseline": {
     "taken_at": "2026-10-25T14:00:13Z",
     "ranks": {
@@ -85,17 +85,12 @@
       "profile_id": 5984120,
       "tag": "Combito",
       "clan": "Ux",
-      "cur_1v1": 2598,
+      "cur_1v1": 2615,
       "max_1v1": 2752,
       "cur_tg": 1801,
       "max_tg": 1885,
       "last_1v1": "2026-10-26",
-      "last_tg": "2026-10-24",
-      "live": {
-        "match": 516411020,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-24"
     },
     {
       "profile_id": 13099159,
@@ -117,13 +112,7 @@
       "cur_tg": 2140,
       "max_tg": 2151,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-15",
-      "live": {
-        "match": 516411625,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "[GDL] Chuchito"
-      }
+      "last_tg": "2026-10-15"
     },
     {
       "profile_id": 4221810,
@@ -256,13 +245,7 @@
       "cur_tg": 1826,
       "max_tg": 1922,
       "last_tg": "2026-10-24",
-      "last_1v1": "2026-10-26",
-      "live": {
-        "match": 516411625,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "VENÓN | 45 Dias habiles"
-      }
+      "last_1v1": "2026-10-26"
     },
     {
       "profile_id": 580573,
@@ -371,12 +354,7 @@
       "cur_tg": 1747,
       "max_tg": 1747,
       "last_1v1": "2026-10-26",
-      "last_tg": "2026-10-25",
-      "live": {
-        "match": 516409850,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-25"
     },
     {
       "profile_id": 1261126,
@@ -446,7 +424,12 @@
       "cur_tg": 1633,
       "max_tg": 1820,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-10-21"
+      "last_tg": "2026-10-21",
+      "live": {
+        "match": 516413254,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 233625,
@@ -521,12 +504,7 @@
       "cur_tg": 1778,
       "max_tg": 1824,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-10-25",
-      "live": {
-        "match": 516407840,
-        "game": "Unranked",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-25"
     },
     {
       "profile_id": 2986966,
@@ -629,17 +607,12 @@
     {
       "profile_id": 3254820,
       "tag": "__Chino",
-      "cur_1v1": 1872,
+      "cur_1v1": 1886,
       "max_1v1": 2003,
       "cur_tg": 1377,
       "max_tg": 1417,
-      "last_1v1": "2026-10-25",
-      "last_tg": "2026-10-25",
-      "live": {
-        "match": 516409989,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-10-26",
+      "last_tg": "2026-10-25"
     }
   ],
   "show_top": 45,
