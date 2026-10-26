@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-26T02:55:08Z",
+  "updated_at": "2026-10-26T03:00:13Z",
   "baseline": {
     "taken_at": "2026-10-25T14:00:13Z",
     "ranks": {
@@ -221,22 +221,6 @@
       "last_seen": "2025-06-11"
     },
     {
-      "profile_id": 3816609,
-      "tag": "iamkaito",
-      "clan": "nW",
-      "cur_1v1": 2279,
-      "max_1v1": 2301,
-      "cur_tg": 1839,
-      "max_tg": 1852,
-      "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-25",
-      "live": {
-        "match": 516424021,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 757886,
       "tag": "DarK_KnighT_",
       "clan": "VN",
@@ -256,7 +240,13 @@
       "cur_tg": 2182,
       "max_tg": 2227,
       "last_tg": "2026-09-28",
-      "last_1v1": "2026-10-19"
+      "last_1v1": "2026-10-19",
+      "live": {
+        "match": 516429864,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "VENÓN | SiNisTeR"
+      }
     },
     {
       "profile_id": 12723994,
@@ -274,6 +264,17 @@
         "format": "4v4",
         "account": "VENÓN | 45 Dias habiles"
       }
+    },
+    {
+      "profile_id": 3816609,
+      "tag": "iamkaito",
+      "clan": "nW",
+      "cur_1v1": 2266,
+      "max_1v1": 2301,
+      "cur_tg": 1839,
+      "max_tg": 1852,
+      "last_1v1": "2026-10-26",
+      "last_tg": "2026-10-25"
     },
     {
       "profile_id": 580573,
@@ -447,14 +448,14 @@
       "profile_id": 13215279,
       "tag": "GO1_mx",
       "clan": "MZTK",
-      "cur_1v1": 2021,
+      "cur_1v1": 2008,
       "max_1v1": 2093,
       "cur_tg": 1675,
       "max_tg": 1860,
-      "last_1v1": "2026-10-21",
+      "last_1v1": "2026-10-26",
       "last_tg": "2026-10-26",
       "live": {
-        "match": 516425213,
+        "match": 516429931,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
