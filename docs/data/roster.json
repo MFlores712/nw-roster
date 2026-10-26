@@ -1,6 +1,6 @@
 {
   "name": "new Wave",
-  "updated_at": "2026-10-26T04:40:08Z",
+  "updated_at": "2026-10-26T04:50:08Z",
   "baseline": {
     "taken_at": "2026-10-25T14:00:13Z",
     "ranks": {
@@ -25,7 +25,12 @@
       "cur_tg": 1910,
       "max_tg": 1933,
       "last_1v1": "2026-10-26",
-      "last_tg": "2026-10-25"
+      "last_tg": "2026-10-25",
+      "live": {
+        "match": 516444416,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 3816609,
@@ -72,22 +77,6 @@
       "last_tg": "2026-10-25"
     },
     {
-      "profile_id": 2876835,
-      "tag": "Abejorro",
-      "country": "Mexico",
-      "cur_1v1": 2024,
-      "max_1v1": 2152,
-      "cur_tg": 1802,
-      "max_tg": 1802,
-      "last_1v1": "2026-10-26",
-      "last_tg": "2026-10-25",
-      "live": {
-        "match": 516442806,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 1359694,
       "tag": "AtilA",
       "country": "Peru",
@@ -99,6 +88,22 @@
       "last_1v1": "2026-10-26",
       "live": {
         "match": 516443842,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
+      "profile_id": 2876835,
+      "tag": "Abejorro",
+      "country": "Mexico",
+      "cur_1v1": 2001,
+      "max_1v1": 2152,
+      "cur_tg": 1802,
+      "max_tg": 1802,
+      "last_1v1": "2026-10-26",
+      "last_tg": "2026-10-25",
+      "live": {
+        "match": 516444857,
         "game": "1v1 Random Map",
         "format": "1v1"
       }

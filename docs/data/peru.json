@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-26T04:45:10Z",
+  "updated_at": "2026-10-26T04:50:08Z",
   "baseline": {
     "taken_at": "2026-10-25T14:00:13Z",
     "ranks": {
@@ -205,15 +205,10 @@
       "tag": "_The_Oldergold",
       "cur_1v1": 1835,
       "max_1v1": 1940,
-      "cur_tg": 1498,
+      "cur_tg": 1478,
       "max_tg": 1719,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-10-21",
-      "live": {
-        "match": 516441053,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-10-26"
     },
     {
       "profile_id": 3034651,
