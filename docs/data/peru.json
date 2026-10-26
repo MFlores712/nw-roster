@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-26T18:20:11Z",
+  "updated_at": "2026-10-26T18:25:10Z",
   "baseline": {
     "taken_at": "2026-10-26T14:00:16Z",
     "ranks": {
@@ -191,27 +191,22 @@
       "last_tg": "2026-10-26"
     },
     {
-      "profile_id": 4234652,
-      "tag": "_The_Oldergold",
-      "cur_1v1": 1835,
-      "max_1v1": 1940,
-      "cur_tg": 1490,
-      "max_tg": 1719,
-      "last_1v1": "2026-10-25",
-      "last_tg": "2026-10-26",
-      "live": {
-        "match": 516549630,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 3034651,
       "tag": "MANCO II",
       "cur_1v1": 1834,
       "max_1v1": 2035,
       "cur_tg": 1526,
       "max_tg": 1657,
+      "last_1v1": "2026-10-26",
+      "last_tg": "2026-10-26"
+    },
+    {
+      "profile_id": 4234652,
+      "tag": "_The_Oldergold",
+      "cur_1v1": 1821,
+      "max_1v1": 1940,
+      "cur_tg": 1490,
+      "max_tg": 1719,
       "last_1v1": "2026-10-26",
       "last_tg": "2026-10-26"
     },
