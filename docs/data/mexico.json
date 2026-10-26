@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-26T03:50:11Z",
+  "updated_at": "2026-10-26T03:55:08Z",
   "baseline": {
     "taken_at": "2026-10-25T14:00:13Z",
     "ranks": {
@@ -112,13 +112,7 @@
       "cur_tg": 2140,
       "max_tg": 2151,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-15",
-      "live": {
-        "match": 516434065,
-        "game": "Team Random Map",
-        "format": "3v3",
-        "account": "VENÓN | Mauricio"
-      }
+      "last_tg": "2026-10-15"
     },
     {
       "profile_id": 4221810,
@@ -173,13 +167,7 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 516434065,
-        "game": "Team Random Map",
-        "format": "3v3",
-        "account": "hK | RanDoM"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 9031952,
@@ -190,13 +178,7 @@
       "cur_tg": 1967,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-10-24",
-      "live": {
-        "match": 516434065,
-        "game": "Team Random Map",
-        "format": "3v3",
-        "account": "FierroFlash"
-      }
+      "last_tg": "2026-10-24"
     },
     {
       "profile_id": 9666666,
@@ -258,13 +240,7 @@
       "cur_tg": 1826,
       "max_tg": 1922,
       "last_tg": "2026-10-24",
-      "last_1v1": "2026-10-26",
-      "live": {
-        "match": 516434065,
-        "game": "Team Random Map",
-        "format": "3v3",
-        "account": "VENÓN | 45 Dias habiles"
-      }
+      "last_1v1": "2026-10-26"
     },
     {
       "profile_id": 3816609,
