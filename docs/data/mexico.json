@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-26T02:50:09Z",
+  "updated_at": "2026-10-26T02:55:08Z",
   "baseline": {
     "taken_at": "2026-10-25T14:00:13Z",
     "ranks": {
@@ -112,7 +112,13 @@
       "cur_tg": 2140,
       "max_tg": 2151,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-15"
+      "last_tg": "2026-10-15",
+      "live": {
+        "match": 516428431,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "VENÓN | Mauricio"
+      }
     },
     {
       "profile_id": 4221810,
@@ -180,7 +186,7 @@
       "last_1v1": "2026-10-17",
       "last_tg": "2026-10-24",
       "live": {
-        "match": 516425949,
+        "match": 516428680,
         "game": "1v1 Random Map",
         "format": "1v1",
         "account": "FierroFlash"
@@ -261,7 +267,13 @@
       "cur_tg": 1826,
       "max_tg": 1922,
       "last_tg": "2026-10-24",
-      "last_1v1": "2026-10-26"
+      "last_1v1": "2026-10-26",
+      "live": {
+        "match": 516428431,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "VENÓN | 45 Dias habiles"
+      }
     },
     {
       "profile_id": 580573,
@@ -634,14 +646,14 @@
     {
       "profile_id": 3254820,
       "tag": "__Chino",
-      "cur_1v1": 1851,
+      "cur_1v1": 1859,
       "max_1v1": 2003,
       "cur_tg": 1377,
       "max_tg": 1417,
       "last_1v1": "2026-10-26",
       "last_tg": "2026-10-25",
       "live": {
-        "match": 516424124,
+        "match": 516428811,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
