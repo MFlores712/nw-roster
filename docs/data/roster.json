@@ -1,6 +1,6 @@
 {
   "name": "new Wave",
-  "updated_at": "2026-10-26T08:35:09Z",
+  "updated_at": "2026-10-26T08:50:09Z",
   "baseline": {
     "taken_at": "2026-10-25T14:00:13Z",
     "ranks": {
@@ -31,7 +31,7 @@
       "profile_id": 3816609,
       "tag": "iamkaito",
       "country": "Mexico",
-      "cur_1v1": 2271,
+      "cur_1v1": 2283,
       "max_1v1": 2301,
       "cur_tg": 1839,
       "max_tg": 1852,

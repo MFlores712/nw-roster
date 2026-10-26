@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-26T08:35:09Z",
+  "updated_at": "2026-10-26T08:50:09Z",
   "baseline": {
     "taken_at": "2026-10-25T14:00:13Z",
     "ranks": {
@@ -140,17 +140,12 @@
       "profile_id": 310739,
       "tag": "SoyLaHostia",
       "clan": "hK",
-      "cur_1v1": 2395,
+      "cur_1v1": 2398,
       "max_1v1": 2484,
       "cur_tg": 1857,
       "max_tg": 1959,
-      "last_1v1": "2026-10-23",
-      "last_tg": "2026-10-24",
-      "live": {
-        "match": 516464700,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-10-26",
+      "last_tg": "2026-10-24"
     },
     {
       "profile_id": 2295504,
@@ -209,6 +204,22 @@
       "last_tg": "2026-10-25"
     },
     {
+      "profile_id": 3816609,
+      "tag": "iamkaito",
+      "clan": "nW",
+      "cur_1v1": 2283,
+      "max_1v1": 2301,
+      "cur_tg": 1839,
+      "max_tg": 1852,
+      "last_1v1": "2026-10-26",
+      "last_tg": "2026-10-25",
+      "live": {
+        "match": 516464926,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 757886,
       "tag": "DarK_KnighT_",
       "clan": "VN",
@@ -240,22 +251,6 @@
       "max_tg": 1922,
       "last_tg": "2026-10-24",
       "last_1v1": "2026-10-26"
-    },
-    {
-      "profile_id": 3816609,
-      "tag": "iamkaito",
-      "clan": "nW",
-      "cur_1v1": 2271,
-      "max_1v1": 2301,
-      "cur_tg": 1839,
-      "max_tg": 1852,
-      "last_1v1": "2026-10-26",
-      "last_tg": "2026-10-25",
-      "live": {
-        "match": 516464926,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 580573,
