@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-26T00:45:10Z",
+  "updated_at": "2026-10-26T01:10:09Z",
   "baseline": {
     "taken_at": "2026-10-25T14:00:13Z",
     "ranks": {
@@ -75,14 +75,14 @@
       "clan": "VLC",
       "cur_1v1": 2001,
       "max_1v1": 2001,
-      "cur_tg": 1736,
+      "cur_tg": 1750,
       "max_tg": 1764,
       "last_1v1": "2026-10-23",
       "last_tg": "2026-10-26",
       "live": {
-        "match": 516405731,
+        "match": 516410171,
         "game": "Team Random Map",
-        "format": "4v4"
+        "format": "2v2"
       }
     },
     {
