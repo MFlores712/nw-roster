@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-26T01:50:10Z",
+  "updated_at": "2026-10-26T01:55:08Z",
   "baseline": {
     "taken_at": "2026-10-25T14:00:13Z",
     "ranks": {
@@ -624,14 +624,14 @@
     {
       "profile_id": 3254820,
       "tag": "__Chino",
-      "cur_1v1": 1886,
+      "cur_1v1": 1863,
       "max_1v1": 2003,
       "cur_tg": 1377,
       "max_tg": 1417,
       "last_1v1": "2026-10-26",
       "last_tg": "2026-10-25",
       "live": {
-        "match": 516414059,
+        "match": 516418550,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
