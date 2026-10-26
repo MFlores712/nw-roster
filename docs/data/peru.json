@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-26T21:30:12Z",
+  "updated_at": "2026-10-26T22:00:12Z",
   "baseline": {
     "taken_at": "2026-10-26T14:00:16Z",
     "ranks": {
@@ -201,6 +201,21 @@
       "last_tg": "2026-10-26"
     },
     {
+      "profile_id": 4234652,
+      "tag": "_The_Oldergold",
+      "cur_1v1": 1834,
+      "max_1v1": 1940,
+      "cur_tg": 1490,
+      "max_tg": 1719,
+      "last_1v1": "2026-10-26",
+      "last_tg": "2026-10-26",
+      "live": {
+        "match": 516601315,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 4167535,
       "tag": "Dia franptom",
       "clan": "LE",
@@ -210,21 +225,6 @@
       "max_tg": 1581,
       "last_1v1": "2026-10-26",
       "last_tg": "2026-09-13"
-    },
-    {
-      "profile_id": 4234652,
-      "tag": "_The_Oldergold",
-      "cur_1v1": 1816,
-      "max_1v1": 1940,
-      "cur_tg": 1490,
-      "max_tg": 1719,
-      "last_1v1": "2026-10-26",
-      "last_tg": "2026-10-26",
-      "live": {
-        "match": 516594904,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     }
   ],
   "show_top": 15
