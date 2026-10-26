@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-26T21:35:09Z",
+  "updated_at": "2026-10-26T21:40:10Z",
   "baseline": {
     "taken_at": "2026-10-26T14:00:16Z",
     "ranks": {
@@ -79,17 +79,12 @@
       "profile_id": 5984120,
       "tag": "Combito",
       "clan": "Ux",
-      "cur_1v1": 2628,
+      "cur_1v1": 2644,
       "max_1v1": 2752,
       "cur_tg": 1774,
       "max_tg": 1885,
       "last_1v1": "2026-10-26",
-      "last_tg": "2026-10-26",
-      "live": {
-        "match": 516591503,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-26"
     },
     {
       "profile_id": 2920057,
@@ -188,13 +183,7 @@
       "cur_tg": 1967,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-10-24",
-      "live": {
-        "match": 516591622,
-        "game": "Team Random Map",
-        "format": "3v3",
-        "account": "FierroFlash"
-      }
+      "last_tg": "2026-10-24"
     },
     {
       "profile_id": 3816609,
@@ -313,15 +302,10 @@
       "clan": "hK",
       "cur_1v1": 2168,
       "max_1v1": 2233,
-      "cur_tg": 1893,
+      "cur_tg": 1875,
       "max_tg": 1983,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-10-25",
-      "live": {
-        "match": 516591622,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-10-26"
     },
     {
       "profile_id": 1947348,
@@ -342,13 +326,7 @@
       "cur_tg": 1638,
       "max_tg": 1652,
       "last_tg": "2026-10-15",
-      "last_1v1": "2026-10-26",
-      "live": {
-        "match": 516593214,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "emmanueldltq08"
-      }
+      "last_1v1": "2026-10-26"
     },
     {
       "profile_id": 1249720,
@@ -521,7 +499,12 @@
       "cur_tg": 1640,
       "max_tg": 1824,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-13"
+      "last_1v1": "2026-10-13",
+      "live": {
+        "match": 516597054,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 3285258,
