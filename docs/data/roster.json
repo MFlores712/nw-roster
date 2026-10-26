@@ -1,6 +1,6 @@
 {
   "name": "new Wave",
-  "updated_at": "2026-10-26T03:40:11Z",
+  "updated_at": "2026-10-26T03:45:09Z",
   "baseline": {
     "taken_at": "2026-10-25T14:00:13Z",
     "ranks": {
@@ -101,7 +101,12 @@
       "cur_tg": 1637,
       "max_tg": 1670,
       "last_tg": "2026-09-07",
-      "last_1v1": "2026-10-26"
+      "last_1v1": "2026-10-26",
+      "live": {
+        "match": 516436437,
+        "game": "Unranked",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 6501299,
