@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-27T16:30:13Z",
+  "updated_at": "2026-10-27T16:50:12Z",
   "baseline": {
     "taken_at": "2026-10-27T14:00:17Z",
     "ranks": {
@@ -73,14 +73,14 @@
       "profile_id": 5464646,
       "tag": "Lil Franco",
       "clan": "VL",
-      "cur_1v1": 2090,
+      "cur_1v1": 2103,
       "max_1v1": 2242,
       "cur_tg": 1832,
       "max_tg": 1932,
       "last_tg": "2026-10-15",
-      "last_1v1": "2026-10-07",
+      "last_1v1": "2026-10-27",
       "live": {
-        "match": 516752243,
+        "match": 516757026,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
