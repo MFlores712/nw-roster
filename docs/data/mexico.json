@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-27T04:30:12Z",
+  "updated_at": "2026-10-27T04:35:08Z",
   "baseline": {
     "taken_at": "2026-10-26T14:00:16Z",
     "ranks": {
@@ -117,7 +117,13 @@
       "cur_tg": 2140,
       "max_tg": 2151,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-15"
+      "last_tg": "2026-10-15",
+      "live": {
+        "match": 516666077,
+        "game": "Team Random Map",
+        "format": "3v3",
+        "account": "[GDL] Chuchito"
+      }
     },
     {
       "profile_id": 4221810,
@@ -172,7 +178,13 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 516666061,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "hK | RanDoM"
+      }
     },
     {
       "profile_id": 9031952,
@@ -261,7 +273,13 @@
       "cur_tg": 1874,
       "max_tg": 1922,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-27"
+      "last_1v1": "2026-10-27",
+      "live": {
+        "match": 516666077,
+        "game": "Team Random Map",
+        "format": "3v3",
+        "account": "VENÓN | seemylame"
+      }
     },
     {
       "profile_id": 4412109,
@@ -310,14 +328,14 @@
     {
       "profile_id": 5803221,
       "tag": "Mahmoud Ahmadinejad",
-      "cur_1v1": 2124,
+      "cur_1v1": 2129,
       "max_1v1": 2181,
       "cur_tg": 1638,
       "max_tg": 1652,
       "last_tg": "2026-10-15",
       "last_1v1": "2026-10-27",
       "live": {
-        "match": 516663976,
+        "match": 516666225,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -577,7 +595,12 @@
       "cur_tg": 1747,
       "max_tg": 1788,
       "last_tg": "2026-10-27",
-      "last_1v1": "2026-10-19"
+      "last_1v1": "2026-10-19",
+      "live": {
+        "match": 516666061,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 278380,
