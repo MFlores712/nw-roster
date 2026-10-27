@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-27T00:30:11Z",
+  "updated_at": "2026-10-27T00:35:09Z",
   "baseline": {
     "taken_at": "2026-10-26T14:00:16Z",
     "ranks": {
@@ -189,7 +189,12 @@
       "cur_tg": 1839,
       "max_tg": 1852,
       "last_1v1": "2026-10-26",
-      "last_tg": "2026-10-25"
+      "last_tg": "2026-10-25",
+      "live": {
+        "match": 516628430,
+        "game": "Team Random Map",
+        "format": "2v2"
+      }
     },
     {
       "profile_id": 9666666,
@@ -223,7 +228,12 @@
       "cur_tg": 1840,
       "max_tg": 1974,
       "last_1v1": "2026-10-27",
-      "last_tg": "2026-10-19"
+      "last_tg": "2026-10-19",
+      "live": {
+        "match": 516628822,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 757886,
@@ -321,7 +331,12 @@
       "cur_tg": 1638,
       "max_tg": 1652,
       "last_tg": "2026-10-15",
-      "last_1v1": "2026-10-26"
+      "last_1v1": "2026-10-26",
+      "live": {
+        "match": 516628938,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 1249720,
@@ -420,22 +435,6 @@
       "last_tg": "2026-10-25"
     },
     {
-      "profile_id": 358501,
-      "tag": "El Claut_One",
-      "clan": "VENÓN",
-      "cur_1v1": 1995,
-      "max_1v1": 2115,
-      "cur_tg": 1804,
-      "max_tg": 1820,
-      "last_tg": "2026-10-22",
-      "last_1v1": "2026-10-23",
-      "live": {
-        "match": 516623765,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 6501299,
       "tag": "ShutAzarquay",
       "clan": "nW",
@@ -456,6 +455,22 @@
       "max_tg": 1860,
       "last_1v1": "2026-10-26",
       "last_tg": "2026-10-26"
+    },
+    {
+      "profile_id": 358501,
+      "tag": "El Claut_One",
+      "clan": "VENÓN",
+      "cur_1v1": 1985,
+      "max_1v1": 2115,
+      "cur_tg": 1804,
+      "max_tg": 1820,
+      "last_tg": "2026-10-22",
+      "last_1v1": "2026-10-27",
+      "live": {
+        "match": 516628774,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2926018,
@@ -602,17 +617,12 @@
     {
       "profile_id": 3254820,
       "tag": "__Chino",
-      "cur_1v1": 1868,
+      "cur_1v1": 1884,
       "max_1v1": 2003,
       "cur_tg": 1377,
       "max_tg": 1417,
       "last_1v1": "2026-10-27",
-      "last_tg": "2026-10-25",
-      "live": {
-        "match": 516624706,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-25"
     }
   ],
   "show_top": 45,
