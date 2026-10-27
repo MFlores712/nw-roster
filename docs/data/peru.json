@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-27T05:20:10Z",
+  "updated_at": "2026-10-27T05:25:09Z",
   "baseline": {
     "taken_at": "2026-10-26T14:00:16Z",
     "ranks": {
@@ -163,15 +163,10 @@
       "clan": "CL",
       "cur_1v1": 1983,
       "max_1v1": 2016,
-      "cur_tg": 1908,
+      "cur_tg": 1894,
       "max_tg": 1992,
       "last_1v1": "2026-10-27",
-      "last_tg": "2026-10-27",
-      "live": {
-        "match": 516669066,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-27"
     },
     {
       "profile_id": 4210400,
@@ -203,7 +198,12 @@
       "cur_tg": 1490,
       "max_tg": 1719,
       "last_1v1": "2026-10-27",
-      "last_tg": "2026-10-26"
+      "last_tg": "2026-10-26",
+      "live": {
+        "match": 516671378,
+        "game": "1v1 Empire Wars",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 4167535,
@@ -220,17 +220,12 @@
       "profile_id": 3034651,
       "tag": "SANGRE AZUL",
       "clan": "MANCO II",
-      "cur_1v1": 1781,
+      "cur_1v1": 1790,
       "max_1v1": 2035,
       "cur_tg": 1526,
       "max_tg": 1657,
       "last_1v1": "2026-10-27",
-      "last_tg": "2026-10-26",
-      "live": {
-        "match": 516669677,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-26"
     }
   ],
   "show_top": 15
