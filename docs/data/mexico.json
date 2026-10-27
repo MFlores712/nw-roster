@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-27T17:10:10Z",
+  "updated_at": "2026-10-27T17:41:19Z",
   "baseline": {
     "taken_at": "2026-10-27T14:00:17Z",
     "ranks": {
@@ -409,6 +409,17 @@
       "last_tg": "2026-10-22"
     },
     {
+      "profile_id": 2926018,
+      "tag": "PerezPodrido",
+      "clan": "SotC",
+      "cur_1v1": 2001,
+      "max_1v1": 2039,
+      "cur_tg": 1672,
+      "max_tg": 1888,
+      "last_1v1": "2026-10-27",
+      "last_tg": "2026-10-27"
+    },
+    {
       "profile_id": 2850920,
       "tag": "Chimtzin",
       "clan": "Ux",
@@ -451,22 +462,6 @@
       "max_tg": 1820,
       "last_tg": "2026-10-22",
       "last_1v1": "2026-10-27"
-    },
-    {
-      "profile_id": 2926018,
-      "tag": "PerezPodrido",
-      "clan": "SotC",
-      "cur_1v1": 1986,
-      "max_1v1": 2039,
-      "cur_tg": 1672,
-      "max_tg": 1888,
-      "last_1v1": "2026-10-27",
-      "last_tg": "2026-10-27",
-      "live": {
-        "match": 516759949,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 13241217,
