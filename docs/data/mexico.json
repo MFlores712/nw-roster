@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-27T17:45:10Z",
+  "updated_at": "2026-10-27T17:50:10Z",
   "baseline": {
     "taken_at": "2026-10-27T14:00:17Z",
     "ranks": {
@@ -248,22 +248,6 @@
       "last_1v1": "2026-10-27"
     },
     {
-      "profile_id": 580573,
-      "tag": "Puerco Black",
-      "clan": "hK",
-      "cur_1v1": 2251,
-      "max_1v1": 2350,
-      "cur_tg": 1840,
-      "max_tg": 1974,
-      "last_1v1": "2026-10-27",
-      "last_tg": "2026-10-19",
-      "live": {
-        "match": 516767308,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 4412109,
       "tag": "HGB",
       "clan": "hK",
@@ -273,6 +257,22 @@
       "max_tg": 2083,
       "last_1v1": "2026-10-25",
       "last_tg": "2026-10-24"
+    },
+    {
+      "profile_id": 580573,
+      "tag": "Puerco Black",
+      "clan": "hK",
+      "cur_1v1": 2229,
+      "max_1v1": 2350,
+      "cur_tg": 1840,
+      "max_tg": 1974,
+      "last_1v1": "2026-10-27",
+      "last_tg": "2026-10-19",
+      "live": {
+        "match": 516768583,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 917863,
