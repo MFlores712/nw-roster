@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-27T20:45:11Z",
+  "updated_at": "2026-10-27T20:50:10Z",
   "baseline": {
     "taken_at": "2026-10-27T14:00:17Z",
     "ranks": {
@@ -74,7 +74,7 @@
       "profile_id": 5984120,
       "tag": "Combito",
       "clan": "Ux",
-      "cur_1v1": 2665,
+      "cur_1v1": 2647,
       "max_1v1": 2752,
       "cur_tg": 1774,
       "max_tg": 1885,
@@ -103,12 +103,12 @@
       "clan": "Ux",
       "cur_1v1": 2585,
       "max_1v1": 2629,
-      "cur_tg": 1901,
+      "cur_tg": 1878,
       "max_tg": 1999,
       "last_1v1": "2026-10-21",
       "last_tg": "2026-10-27",
       "live": {
-        "match": 516801794,
+        "match": 516809161,
         "game": "Team Random Map",
         "format": "4v4"
       }
@@ -182,13 +182,7 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 516801794,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "hK | RanDoM"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 9031952,
@@ -199,13 +193,7 @@
       "cur_tg": 1967,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-10-24",
-      "live": {
-        "match": 516801794,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "FierroFlash"
-      }
+      "last_tg": "2026-10-24"
     },
     {
       "profile_id": 3816609,
