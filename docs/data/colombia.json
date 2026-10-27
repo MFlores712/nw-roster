@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-27T19:40:11Z",
+  "updated_at": "2026-10-27T19:45:13Z",
   "baseline": {
     "taken_at": "2026-10-27T14:00:17Z",
     "ranks": {
@@ -31,15 +31,10 @@
       "clan": "Ux",
       "cur_1v1": 2434,
       "max_1v1": 2636,
-      "cur_tg": 1760,
+      "cur_tg": 1766,
       "max_tg": 2001,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-27",
-      "live": {
-        "match": 516787330,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-27"
     },
     {
       "profile_id": 13267917,
