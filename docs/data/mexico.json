@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-27T02:50:11Z",
+  "updated_at": "2026-10-27T02:55:08Z",
   "baseline": {
     "taken_at": "2026-10-26T14:00:16Z",
     "ranks": {
@@ -261,7 +261,13 @@
       "cur_tg": 1874,
       "max_tg": 1922,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-27"
+      "last_1v1": "2026-10-27",
+      "live": {
+        "match": 516652278,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "VENÓN | Frida Lover"
+      }
     },
     {
       "profile_id": 4412109,
