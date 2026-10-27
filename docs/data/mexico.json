@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-27T02:45:10Z",
+  "updated_at": "2026-10-27T02:50:11Z",
   "baseline": {
     "taken_at": "2026-10-26T14:00:16Z",
     "ranks": {
@@ -189,7 +189,12 @@
       "cur_tg": 1812,
       "max_tg": 1852,
       "last_1v1": "2026-10-26",
-      "last_tg": "2026-10-27"
+      "last_tg": "2026-10-27",
+      "live": {
+        "match": 516651246,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 9666666,
@@ -289,7 +294,12 @@
       "cur_tg": 1867,
       "max_tg": 2024,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-10-27"
+      "last_tg": "2026-10-27",
+      "live": {
+        "match": 516651246,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 13138746,
@@ -364,7 +374,12 @@
       "cur_tg": 1739,
       "max_tg": 1747,
       "last_1v1": "2026-10-26",
-      "last_tg": "2026-10-27"
+      "last_tg": "2026-10-27",
+      "live": {
+        "match": 516651246,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 1261126,
@@ -453,22 +468,6 @@
       "last_1v1": "2026-10-27"
     },
     {
-      "profile_id": 2926018,
-      "tag": "PerezPodrido",
-      "clan": "SotC",
-      "cur_1v1": 1972,
-      "max_1v1": 2039,
-      "cur_tg": 1651,
-      "max_tg": 1888,
-      "last_1v1": "2026-10-26",
-      "last_tg": "2026-10-21",
-      "live": {
-        "match": 516647774,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 2291749,
       "tag": "Biner",
       "cur_1v1": 1972,
@@ -476,7 +475,12 @@
       "cur_tg": 1670,
       "max_tg": 1688,
       "last_1v1": "2026-10-27",
-      "last_tg": "2026-10-25"
+      "last_tg": "2026-10-25",
+      "live": {
+        "match": 516651356,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 235877,
@@ -488,6 +492,17 @@
       "max_tg": 1798,
       "last_1v1": "2026-09-29",
       "last_tg": "2026-10-20"
+    },
+    {
+      "profile_id": 2926018,
+      "tag": "PerezPodrido",
+      "clan": "SotC",
+      "cur_1v1": 1961,
+      "max_1v1": 2039,
+      "cur_tg": 1651,
+      "max_tg": 1888,
+      "last_1v1": "2026-10-27",
+      "last_tg": "2026-10-21"
     },
     {
       "profile_id": 13192381,
@@ -563,7 +578,13 @@
       "cur_tg": 1820,
       "max_tg": 1821,
       "last_tg": "2026-10-16",
-      "last_1v1": "2026-09-18"
+      "last_1v1": "2026-09-18",
+      "live": {
+        "match": 516650033,
+        "game": "Unranked",
+        "format": "4v4",
+        "account": "[GDL]CemenTox"
+      }
     },
     {
       "profile_id": 13241217,

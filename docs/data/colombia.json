@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-27T02:45:10Z",
+  "updated_at": "2026-10-27T02:50:11Z",
   "baseline": {
     "taken_at": "2026-10-26T14:00:16Z",
     "ranks": {
@@ -45,7 +45,12 @@
       "cur_tg": 1878,
       "max_tg": 1933,
       "last_1v1": "2026-10-26",
-      "last_tg": "2026-10-27"
+      "last_tg": "2026-10-27",
+      "live": {
+        "match": 516651246,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 6838238,
@@ -169,7 +174,12 @@
       "cur_tg": 1835,
       "max_tg": 1858,
       "last_tg": "2026-10-27",
-      "last_1v1": "2026-10-23"
+      "last_1v1": "2026-10-23",
+      "live": {
+        "match": 516651145,
+        "game": "Unranked",
+        "format": "FFA"
+      }
     },
     {
       "profile_id": 12722189,
