@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-27T05:10:09Z",
+  "updated_at": "2026-10-27T05:20:10Z",
   "baseline": {
     "taken_at": "2026-10-26T14:00:16Z",
     "ranks": {
@@ -363,22 +363,6 @@
       "last_tg": "2026-10-27"
     },
     {
-      "profile_id": 2850920,
-      "tag": "Chimtzin",
-      "clan": "Ux",
-      "cur_1v1": 2045,
-      "max_1v1": 2124,
-      "cur_tg": 1633,
-      "max_tg": 1820,
-      "last_1v1": "2026-10-27",
-      "last_tg": "2026-10-21",
-      "live": {
-        "match": 516667282,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 1708286,
       "tag": "IamAlextremo",
       "cur_1v1": 2044,
@@ -387,6 +371,17 @@
       "max_tg": 1818,
       "last_tg": "2026-10-10",
       "last_1v1": "2026-03-21"
+    },
+    {
+      "profile_id": 2850920,
+      "tag": "Chimtzin",
+      "clan": "Ux",
+      "cur_1v1": 2035,
+      "max_1v1": 2124,
+      "cur_tg": 1633,
+      "max_tg": 1820,
+      "last_1v1": "2026-10-27",
+      "last_tg": "2026-10-21"
     },
     {
       "profile_id": 2934597,
