@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-27T07:10:09Z",
+  "updated_at": "2026-10-27T07:15:12Z",
   "baseline": {
     "taken_at": "2026-10-26T14:00:16Z",
     "ranks": {
@@ -112,7 +112,13 @@
       "cur_tg": 2140,
       "max_tg": 2151,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-15"
+      "last_tg": "2026-10-15",
+      "live": {
+        "match": 516680452,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "[GDL] Chuchito"
+      }
     },
     {
       "profile_id": 4221810,
@@ -140,17 +146,12 @@
       "profile_id": 310739,
       "tag": "SoyLaHostia",
       "clan": "hK",
-      "cur_1v1": 2398,
+      "cur_1v1": 2387,
       "max_1v1": 2484,
       "cur_tg": 1857,
       "max_tg": 1959,
-      "last_1v1": "2026-10-26",
-      "last_tg": "2026-10-24",
-      "live": {
-        "match": 516677956,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-10-27",
+      "last_tg": "2026-10-24"
     },
     {
       "profile_id": 2295504,
@@ -183,7 +184,13 @@
       "cur_tg": 1967,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-10-24"
+      "last_tg": "2026-10-24",
+      "live": {
+        "match": 516680580,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "FierroFlash"
+      }
     },
     {
       "profile_id": 3816609,
@@ -250,7 +257,12 @@
       "cur_tg": 2195,
       "max_tg": 2227,
       "last_tg": "2026-10-27",
-      "last_1v1": "2026-10-19"
+      "last_1v1": "2026-10-19",
+      "live": {
+        "match": 516680452,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 12723994,
