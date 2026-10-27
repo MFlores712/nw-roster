@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-27T03:15:10Z",
+  "updated_at": "2026-10-27T03:20:10Z",
   "baseline": {
     "taken_at": "2026-10-26T14:00:16Z",
     "ranks": {
@@ -295,7 +295,12 @@
       "cur_tg": 1823,
       "max_tg": 1838,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-10-25"
+      "last_tg": "2026-10-25",
+      "live": {
+        "match": 516656274,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 914665,
@@ -332,7 +337,12 @@
       "cur_tg": 1638,
       "max_tg": 1652,
       "last_tg": "2026-10-15",
-      "last_1v1": "2026-10-27"
+      "last_1v1": "2026-10-27",
+      "live": {
+        "match": 516655757,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 1947348,
@@ -402,7 +412,12 @@
       "cur_tg": 1813,
       "max_tg": 1997,
       "last_1v1": "2026-10-27",
-      "last_tg": "2026-10-26"
+      "last_tg": "2026-10-26",
+      "live": {
+        "match": 516656215,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 9770338,
@@ -539,6 +554,22 @@
       "last_1v1": "2026-10-13"
     },
     {
+      "profile_id": 13241217,
+      "tag": "BlueUltra",
+      "clan": "Ux",
+      "cur_1v1": 1951,
+      "max_1v1": 1993,
+      "cur_tg": 1636,
+      "max_tg": 1688,
+      "last_1v1": "2026-10-27",
+      "last_tg": "2026-10-24",
+      "live": {
+        "match": 516656422,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 3285258,
       "tag": "Kiss",
       "clan": "MZTK",
@@ -548,22 +579,6 @@
       "max_tg": 1858,
       "last_1v1": "2026-10-06",
       "last_tg": "2026-10-23"
-    },
-    {
-      "profile_id": 13241217,
-      "tag": "BlueUltra",
-      "clan": "Ux",
-      "cur_1v1": 1944,
-      "max_1v1": 1993,
-      "cur_tg": 1636,
-      "max_tg": 1688,
-      "last_1v1": "2026-10-27",
-      "last_tg": "2026-10-24",
-      "live": {
-        "match": 516653589,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 467847,
