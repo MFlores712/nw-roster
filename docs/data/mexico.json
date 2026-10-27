@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-27T22:10:09Z",
+  "updated_at": "2026-10-27T22:25:09Z",
   "baseline": {
     "taken_at": "2026-10-27T14:00:17Z",
     "ranks": {
@@ -172,13 +172,7 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 516826331,
-        "game": "Team Random Map",
-        "format": "3v3",
-        "account": "hK | RanDoM"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 9031952,
@@ -189,13 +183,7 @@
       "cur_tg": 1967,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-10-24",
-      "live": {
-        "match": 516826331,
-        "game": "Team Random Map",
-        "format": "3v3",
-        "account": "FierroFlash"
-      }
+      "last_tg": "2026-10-24"
     },
     {
       "profile_id": 3816609,
