@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-27T04:45:10Z",
+  "updated_at": "2026-10-27T04:50:08Z",
   "baseline": {
     "taken_at": "2026-10-26T14:00:16Z",
     "ranks": {
@@ -74,17 +74,12 @@
       "profile_id": 5984120,
       "tag": "Combito",
       "clan": "Ux",
-      "cur_1v1": 2644,
+      "cur_1v1": 2657,
       "max_1v1": 2752,
       "cur_tg": 1774,
       "max_tg": 1885,
       "last_1v1": "2026-10-27",
-      "last_tg": "2026-10-26",
-      "live": {
-        "match": 516664846,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-26"
     },
     {
       "profile_id": 2920057,
@@ -178,7 +173,13 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 516667542,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "hK | RanDoM"
+      }
     },
     {
       "profile_id": 9031952,
@@ -365,12 +366,7 @@
       "cur_tg": 1693,
       "max_tg": 1870,
       "last_1v1": "2026-10-21",
-      "last_tg": "2026-10-27",
-      "live": {
-        "match": 516663566,
-        "game": "Unranked",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-27"
     },
     {
       "profile_id": 2850920,
@@ -415,15 +411,10 @@
       "clan": "CL",
       "cur_1v1": 2032,
       "max_1v1": 2032,
-      "cur_tg": 1832,
+      "cur_tg": 1810,
       "max_tg": 1962,
       "last_1v1": "2026-10-21",
-      "last_tg": "2026-10-24",
-      "live": {
-        "match": 516665018,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-27"
     },
     {
       "profile_id": 1249720,
@@ -437,6 +428,16 @@
       "last_tg": "2026-10-26"
     },
     {
+      "profile_id": 2291749,
+      "tag": "Biner",
+      "cur_1v1": 2008,
+      "max_1v1": 2016,
+      "cur_tg": 1670,
+      "max_tg": 1688,
+      "last_1v1": "2026-10-27",
+      "last_tg": "2026-10-25"
+    },
+    {
       "profile_id": 233625,
       "tag": "MooN",
       "cur_1v1": 2002,
@@ -445,21 +446,6 @@
       "max_tg": 1885,
       "last_1v1": "2026-08-15",
       "last_tg": "2026-10-22"
-    },
-    {
-      "profile_id": 2291749,
-      "tag": "Biner",
-      "cur_1v1": 1997,
-      "max_1v1": 2016,
-      "cur_tg": 1670,
-      "max_tg": 1688,
-      "last_1v1": "2026-10-27",
-      "last_tg": "2026-10-25",
-      "live": {
-        "match": 516665384,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 6501299,
@@ -525,12 +511,7 @@
       "cur_tg": 1672,
       "max_tg": 1888,
       "last_1v1": "2026-10-27",
-      "last_tg": "2026-10-27",
-      "live": {
-        "match": 516663566,
-        "game": "Unranked",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-27"
     },
     {
       "profile_id": 13192381,
@@ -584,7 +565,12 @@
       "cur_tg": 1760,
       "max_tg": 1788,
       "last_tg": "2026-10-27",
-      "last_1v1": "2026-10-19"
+      "last_1v1": "2026-10-19",
+      "live": {
+        "match": 516667542,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 278380,
@@ -606,7 +592,13 @@
       "cur_tg": 1820,
       "max_tg": 1821,
       "last_tg": "2026-10-16",
-      "last_1v1": "2026-09-18"
+      "last_1v1": "2026-09-18",
+      "live": {
+        "match": 516667059,
+        "game": "Unranked",
+        "format": "4v4",
+        "account": "[GDL]CemenTox"
+      }
     },
     {
       "profile_id": 3254820,
