@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-27T00:15:10Z",
+  "updated_at": "2026-10-27T00:30:11Z",
   "baseline": {
     "taken_at": "2026-10-26T14:00:16Z",
     "ranks": {
@@ -215,22 +215,6 @@
       "last_tg": "2026-10-25"
     },
     {
-      "profile_id": 12723994,
-      "tag": "PuNii",
-      "clan": "VENÓN",
-      "cur_1v1": 2285,
-      "max_1v1": 2315,
-      "cur_tg": 1874,
-      "max_tg": 1922,
-      "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-26",
-      "live": {
-        "match": 516622105,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 580573,
       "tag": "Puerco Black",
       "clan": "hK",
@@ -262,6 +246,17 @@
       "max_tg": 2227,
       "last_tg": "2026-09-28",
       "last_1v1": "2026-10-19"
+    },
+    {
+      "profile_id": 12723994,
+      "tag": "PuNii",
+      "clan": "VENÓN",
+      "cur_1v1": 2271,
+      "max_1v1": 2315,
+      "cur_tg": 1874,
+      "max_tg": 1922,
+      "last_tg": "2026-10-26",
+      "last_1v1": "2026-10-27"
     },
     {
       "profile_id": 4412109,
