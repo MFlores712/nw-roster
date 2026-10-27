@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-27T03:20:10Z",
+  "updated_at": "2026-10-27T03:25:09Z",
   "baseline": {
     "taken_at": "2026-10-26T14:00:16Z",
     "ranks": {
@@ -167,13 +167,7 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 516653120,
-        "game": "Team Random Map",
-        "format": "3v3",
-        "account": "hK | RanDoM"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 9031952,
@@ -267,13 +261,7 @@
       "cur_tg": 1874,
       "max_tg": 1922,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-27",
-      "live": {
-        "match": 516652278,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "VENÓN | Frida Lover"
-      }
+      "last_1v1": "2026-10-27"
     },
     {
       "profile_id": 4412109,
@@ -521,15 +509,10 @@
       "clan": "SotC",
       "cur_1v1": 1961,
       "max_1v1": 2039,
-      "cur_tg": 1651,
+      "cur_tg": 1658,
       "max_tg": 1888,
       "last_1v1": "2026-10-27",
-      "last_tg": "2026-10-21",
-      "live": {
-        "match": 516652515,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-27"
     },
     {
       "profile_id": 13192381,
