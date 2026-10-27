@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-27T04:35:08Z",
+  "updated_at": "2026-10-27T04:40:09Z",
   "baseline": {
     "taken_at": "2026-10-26T14:00:16Z",
     "ranks": {
@@ -199,7 +199,13 @@
       "cur_tg": 1438,
       "max_tg": 1608,
       "last_1v1": "2026-09-19",
-      "last_tg": "2026-10-26"
+      "last_tg": "2026-10-26",
+      "live": {
+        "match": 516666328,
+        "game": "Team Random Map",
+        "format": "2v2",
+        "account": "lopy32"
+      }
     },
     {
       "profile_id": 4234652,
@@ -231,14 +237,14 @@
       "profile_id": 3034651,
       "tag": "SANGRE AZUL",
       "clan": "MANCO II",
-      "cur_1v1": 1805,
+      "cur_1v1": 1797,
       "max_1v1": 2035,
       "cur_tg": 1526,
       "max_tg": 1657,
       "last_1v1": "2026-10-27",
       "last_tg": "2026-10-26",
       "live": {
-        "match": 516664768,
+        "match": 516666653,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
