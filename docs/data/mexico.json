@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-27T02:20:10Z",
+  "updated_at": "2026-10-27T02:25:09Z",
   "baseline": {
     "taken_at": "2026-10-26T14:00:16Z",
     "ranks": {
@@ -261,7 +261,13 @@
       "cur_tg": 1874,
       "max_tg": 1922,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-27"
+      "last_1v1": "2026-10-27",
+      "live": {
+        "match": 516647150,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "VENÓN | Frida Lover"
+      }
     },
     {
       "profile_id": 4412109,
@@ -466,7 +472,12 @@
       "cur_tg": 1651,
       "max_tg": 1888,
       "last_1v1": "2026-10-26",
-      "last_tg": "2026-10-21"
+      "last_tg": "2026-10-21",
+      "live": {
+        "match": 516647774,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 235877,
@@ -498,7 +509,12 @@
       "cur_tg": 1670,
       "max_tg": 1688,
       "last_1v1": "2026-10-27",
-      "last_tg": "2026-10-25"
+      "last_tg": "2026-10-25",
+      "live": {
+        "match": 516647150,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2986966,
@@ -577,21 +593,6 @@
       "last_tg": "2026-10-24"
     },
     {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1922,
-      "max_1v1": 2003,
-      "cur_tg": 1377,
-      "max_tg": 1417,
-      "last_1v1": "2026-10-27",
-      "last_tg": "2026-10-25",
-      "live": {
-        "match": 516645146,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 324005,
       "tag": "Narizberto",
       "clan": "VN",
@@ -612,6 +613,16 @@
       "max_tg": 1805,
       "last_tg": "2026-10-25",
       "last_1v1": "2026-10-16"
+    },
+    {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1905,
+      "max_1v1": 2003,
+      "cur_tg": 1377,
+      "max_tg": 1417,
+      "last_1v1": "2026-10-27",
+      "last_tg": "2026-10-25"
     },
     {
       "profile_id": 2876835,
