@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-27T02:30:11Z",
+  "updated_at": "2026-10-27T02:35:09Z",
   "baseline": {
     "taken_at": "2026-10-26T14:00:16Z",
     "ranks": {
@@ -158,13 +158,7 @@
       "cur_tg": 1823,
       "max_tg": 1893,
       "last_tg": "2026-10-17",
-      "last_1v1": "2026-10-17",
-      "live": {
-        "match": 516644447,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "Chupapimuñeño"
-      }
+      "last_1v1": "2026-10-17"
     },
     {
       "profile_id": 1542191,
@@ -208,12 +202,12 @@
       "clan": "AiM",
       "cur_1v1": 1810,
       "max_1v1": 1903,
-      "cur_tg": 1493,
+      "cur_tg": 1504,
       "max_tg": 1630,
       "last_1v1": "2026-10-25",
       "last_tg": "2026-10-27",
       "live": {
-        "match": 516647883,
+        "match": 516649296,
         "game": "Team Random Map",
         "format": "4v4"
       }
