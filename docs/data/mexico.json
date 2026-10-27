@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-27T00:50:09Z",
+  "updated_at": "2026-10-27T00:55:09Z",
   "baseline": {
     "taken_at": "2026-10-26T14:00:16Z",
     "ranks": {
@@ -112,7 +112,13 @@
       "cur_tg": 2140,
       "max_tg": 2151,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-15"
+      "last_tg": "2026-10-15",
+      "live": {
+        "match": 516631763,
+        "game": "Team Random Map",
+        "format": "2v2",
+        "account": "[GDL] Chuchito"
+      }
     },
     {
       "profile_id": 4221810,
@@ -186,15 +192,10 @@
       "clan": "nW",
       "cur_1v1": 2304,
       "max_1v1": 2304,
-      "cur_tg": 1839,
+      "cur_tg": 1840,
       "max_tg": 1852,
       "last_1v1": "2026-10-26",
-      "last_tg": "2026-10-25",
-      "live": {
-        "match": 516628430,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-10-27"
     },
     {
       "profile_id": 9666666,
@@ -228,12 +229,7 @@
       "cur_tg": 1840,
       "max_tg": 1974,
       "last_1v1": "2026-10-27",
-      "last_tg": "2026-10-19",
-      "live": {
-        "match": 516628822,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-19"
     },
     {
       "profile_id": 757886,
@@ -331,12 +327,7 @@
       "cur_tg": 1638,
       "max_tg": 1652,
       "last_tg": "2026-10-15",
-      "last_1v1": "2026-10-27",
-      "live": {
-        "match": 516628938,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-10-27"
     },
     {
       "profile_id": 1249720,
@@ -432,7 +423,12 @@
       "cur_tg": 1670,
       "max_tg": 1688,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-10-25"
+      "last_tg": "2026-10-25",
+      "live": {
+        "match": 516631555,
+        "game": "Unranked",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 6501299,
