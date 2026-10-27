@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-27T04:10:10Z",
+  "updated_at": "2026-10-27T04:15:09Z",
   "baseline": {
     "taken_at": "2026-10-26T14:00:16Z",
     "ranks": {
@@ -341,22 +341,6 @@
       "last_tg": "2026-10-25"
     },
     {
-      "profile_id": 2934597,
-      "tag": "Sgt.Pepper",
-      "clan": "nW",
-      "cur_1v1": 2051,
-      "max_1v1": 2210,
-      "cur_tg": 1731,
-      "max_tg": 1747,
-      "last_1v1": "2026-10-26",
-      "last_tg": "2026-10-27",
-      "live": {
-        "match": 516661111,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 1261126,
       "tag": "Spirit",
       "clan": "SotC",
@@ -365,7 +349,12 @@
       "cur_tg": 1693,
       "max_tg": 1870,
       "last_1v1": "2026-10-21",
-      "last_tg": "2026-10-27"
+      "last_tg": "2026-10-27",
+      "live": {
+        "match": 516663566,
+        "game": "Unranked",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 1708286,
@@ -376,6 +365,17 @@
       "max_tg": 1818,
       "last_tg": "2026-10-10",
       "last_1v1": "2026-03-21"
+    },
+    {
+      "profile_id": 2934597,
+      "tag": "Sgt.Pepper",
+      "clan": "nW",
+      "cur_1v1": 2032,
+      "max_1v1": 2210,
+      "cur_tg": 1731,
+      "max_tg": 1747,
+      "last_1v1": "2026-10-27",
+      "last_tg": "2026-10-27"
     },
     {
       "profile_id": 9770338,
@@ -408,7 +408,12 @@
       "cur_tg": 1633,
       "max_tg": 1820,
       "last_1v1": "2026-10-27",
-      "last_tg": "2026-10-21"
+      "last_tg": "2026-10-21",
+      "live": {
+        "match": 516663224,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2291749,
@@ -488,7 +493,12 @@
       "cur_tg": 1672,
       "max_tg": 1888,
       "last_1v1": "2026-10-27",
-      "last_tg": "2026-10-27"
+      "last_tg": "2026-10-27",
+      "live": {
+        "match": 516663566,
+        "game": "Unranked",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 13241217,
@@ -499,7 +509,12 @@
       "cur_tg": 1636,
       "max_tg": 1688,
       "last_1v1": "2026-10-27",
-      "last_tg": "2026-10-24"
+      "last_tg": "2026-10-24",
+      "live": {
+        "match": 516663532,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 13192381,
