@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-27T23:35:11Z",
+  "updated_at": "2026-10-27T23:40:10Z",
   "baseline": {
     "taken_at": "2026-10-27T14:00:17Z",
     "ranks": {
@@ -63,14 +63,14 @@
       "profile_id": 5984120,
       "tag": "Combito",
       "clan": "Ux",
-      "cur_1v1": 2666,
+      "cur_1v1": 2687,
       "max_1v1": 2752,
       "cur_tg": 1774,
       "max_tg": 1885,
       "last_1v1": "2026-10-27",
       "last_tg": "2026-10-26",
       "live": {
-        "match": 516840263,
+        "match": 516844071,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -320,14 +320,14 @@
     {
       "profile_id": 5803221,
       "tag": "Mahmoud Ahmadinejad",
-      "cur_1v1": 2135,
+      "cur_1v1": 2113,
       "max_1v1": 2181,
       "cur_tg": 1638,
       "max_tg": 1652,
       "last_tg": "2026-10-15",
       "last_1v1": "2026-10-27",
       "live": {
-        "match": 516842904,
+        "match": 516844491,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -406,7 +406,12 @@
       "cur_tg": 1813,
       "max_tg": 1997,
       "last_1v1": "2026-10-27",
-      "last_tg": "2026-10-26"
+      "last_tg": "2026-10-26",
+      "live": {
+        "match": 516844261,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2291749,
