@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-27T23:50:10Z",
+  "updated_at": "2026-10-27T23:55:09Z",
   "baseline": {
     "taken_at": "2026-10-27T14:00:17Z",
     "ranks": {
@@ -525,12 +525,7 @@
       "cur_tg": 1659,
       "max_tg": 1824,
       "last_tg": "2026-10-27",
-      "last_1v1": "2026-10-13",
-      "live": {
-        "match": 516836856,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_1v1": "2026-10-13"
     },
     {
       "profile_id": 3285258,
@@ -565,6 +560,16 @@
       "last_1v1": "2026-10-19"
     },
     {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1933,
+      "max_1v1": 2003,
+      "cur_tg": 1377,
+      "max_tg": 1417,
+      "last_1v1": "2026-10-27",
+      "last_tg": "2026-10-25"
+    },
+    {
       "profile_id": 278380,
       "tag": "Lemoine",
       "clan": "VL",
@@ -585,16 +590,6 @@
       "max_tg": 1821,
       "last_tg": "2026-10-16",
       "last_1v1": "2026-09-18"
-    },
-    {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1923,
-      "max_1v1": 2003,
-      "cur_tg": 1377,
-      "max_tg": 1417,
-      "last_1v1": "2026-10-27",
-      "last_tg": "2026-10-25"
     },
     {
       "profile_id": 324005,
