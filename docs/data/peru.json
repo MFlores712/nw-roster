@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-27T06:50:10Z",
+  "updated_at": "2026-10-27T07:10:09Z",
   "baseline": {
     "taken_at": "2026-10-26T14:00:16Z",
     "ranks": {
@@ -215,17 +215,12 @@
       "profile_id": 3034651,
       "tag": "SANGRE AZUL",
       "clan": "MANCO II",
-      "cur_1v1": 1783,
+      "cur_1v1": 1795,
       "max_1v1": 2035,
       "cur_tg": 1526,
       "max_tg": 1657,
       "last_1v1": "2026-10-27",
-      "last_tg": "2026-10-26",
-      "live": {
-        "match": 516678348,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-26"
     }
   ],
   "show_top": 15
