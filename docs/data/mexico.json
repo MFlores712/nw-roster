@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-27T03:10:08Z",
+  "updated_at": "2026-10-27T03:15:10Z",
   "baseline": {
     "taken_at": "2026-10-26T14:00:16Z",
     "ranks": {
@@ -346,22 +346,6 @@
       "last_tg": "2026-10-21"
     },
     {
-      "profile_id": 1249720,
-      "tag": "Lice_Slide",
-      "clan": "VN",
-      "cur_1v1": 2063,
-      "max_1v1": 2102,
-      "cur_tg": 1813,
-      "max_tg": 1997,
-      "last_1v1": "2026-10-26",
-      "last_tg": "2026-10-26",
-      "live": {
-        "match": 516649603,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 400111,
       "tag": "Mibel",
       "clan": "VL",
@@ -410,6 +394,17 @@
       "last_1v1": "2026-03-21"
     },
     {
+      "profile_id": 1249720,
+      "tag": "Lice_Slide",
+      "clan": "VN",
+      "cur_1v1": 2044,
+      "max_1v1": 2102,
+      "cur_tg": 1813,
+      "max_tg": 1997,
+      "last_1v1": "2026-10-27",
+      "last_tg": "2026-10-26"
+    },
+    {
       "profile_id": 9770338,
       "tag": "SynfonY",
       "clan": "CL",
@@ -447,6 +442,21 @@
       "last_tg": "2026-10-22"
     },
     {
+      "profile_id": 2291749,
+      "tag": "Biner",
+      "cur_1v1": 1997,
+      "max_1v1": 2016,
+      "cur_tg": 1670,
+      "max_tg": 1688,
+      "last_1v1": "2026-10-27",
+      "last_tg": "2026-10-25",
+      "live": {
+        "match": 516655556,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 6501299,
       "tag": "ShutAzarquay",
       "clan": "nW",
@@ -478,21 +488,6 @@
       "max_tg": 1820,
       "last_tg": "2026-10-22",
       "last_1v1": "2026-10-27"
-    },
-    {
-      "profile_id": 2291749,
-      "tag": "Biner",
-      "cur_1v1": 1972,
-      "max_1v1": 2016,
-      "cur_tg": 1670,
-      "max_tg": 1688,
-      "last_1v1": "2026-10-27",
-      "last_tg": "2026-10-25",
-      "live": {
-        "match": 516651356,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 235877,
