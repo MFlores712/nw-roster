@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-27T03:25:09Z",
+  "updated_at": "2026-10-27T03:30:11Z",
   "baseline": {
     "taken_at": "2026-10-26T14:00:16Z",
     "ranks": {
@@ -167,7 +167,13 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 516657121,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "hK | RanDoM"
+      }
     },
     {
       "profile_id": 9031952,
@@ -422,14 +428,14 @@
       "profile_id": 2850920,
       "tag": "Chimtzin",
       "clan": "Ux",
-      "cur_1v1": 2003,
+      "cur_1v1": 2016,
       "max_1v1": 2124,
       "cur_tg": 1633,
       "max_tg": 1820,
-      "last_1v1": "2026-10-26",
+      "last_1v1": "2026-10-27",
       "last_tg": "2026-10-21",
       "live": {
-        "match": 516654569,
+        "match": 516657665,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -582,7 +588,12 @@
       "cur_tg": 1703,
       "max_tg": 1788,
       "last_tg": "2026-10-25",
-      "last_1v1": "2026-10-19"
+      "last_1v1": "2026-10-19",
+      "live": {
+        "match": 516657121,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 278380,
@@ -604,13 +615,7 @@
       "cur_tg": 1820,
       "max_tg": 1821,
       "last_tg": "2026-10-16",
-      "last_1v1": "2026-09-18",
-      "live": {
-        "match": 516650033,
-        "game": "Unranked",
-        "format": "4v4",
-        "account": "[GDL]CemenTox"
-      }
+      "last_1v1": "2026-09-18"
     },
     {
       "profile_id": 3254820,
