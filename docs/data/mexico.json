@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-27T05:35:09Z",
+  "updated_at": "2026-10-27T05:50:10Z",
   "baseline": {
     "taken_at": "2026-10-26T14:00:16Z",
     "ranks": {
@@ -373,22 +373,6 @@
       "last_1v1": "2026-03-21"
     },
     {
-      "profile_id": 2850920,
-      "tag": "Chimtzin",
-      "clan": "Ux",
-      "cur_1v1": 2035,
-      "max_1v1": 2124,
-      "cur_tg": 1633,
-      "max_tg": 1820,
-      "last_1v1": "2026-10-27",
-      "last_tg": "2026-10-21",
-      "live": {
-        "match": 516671021,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 2934597,
       "tag": "Sgt.Pepper",
       "clan": "nW",
@@ -427,6 +411,22 @@
       "last_tg": "2026-10-26"
     },
     {
+      "profile_id": 2850920,
+      "tag": "Chimtzin",
+      "clan": "Ux",
+      "cur_1v1": 2011,
+      "max_1v1": 2124,
+      "cur_tg": 1633,
+      "max_tg": 1820,
+      "last_1v1": "2026-10-27",
+      "last_tg": "2026-10-21",
+      "live": {
+        "match": 516673867,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 233625,
       "tag": "MooN",
       "cur_1v1": 2002,
@@ -435,6 +435,21 @@
       "max_tg": 1885,
       "last_1v1": "2026-08-15",
       "last_tg": "2026-10-22"
+    },
+    {
+      "profile_id": 2291749,
+      "tag": "Biner",
+      "cur_1v1": 1997,
+      "max_1v1": 2016,
+      "cur_tg": 1670,
+      "max_tg": 1688,
+      "last_1v1": "2026-10-27",
+      "last_tg": "2026-10-25",
+      "live": {
+        "match": 516671700,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 6501299,
@@ -457,21 +472,6 @@
       "max_tg": 1860,
       "last_1v1": "2026-10-26",
       "last_tg": "2026-10-26"
-    },
-    {
-      "profile_id": 2291749,
-      "tag": "Biner",
-      "cur_1v1": 1986,
-      "max_1v1": 2016,
-      "cur_tg": 1670,
-      "max_tg": 1688,
-      "last_1v1": "2026-10-27",
-      "last_tg": "2026-10-25",
-      "live": {
-        "match": 516671700,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 13241217,
