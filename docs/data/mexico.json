@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-27T06:20:09Z",
+  "updated_at": "2026-10-27T06:25:10Z",
   "baseline": {
     "taken_at": "2026-10-26T14:00:16Z",
     "ranks": {
@@ -186,7 +186,7 @@
       "last_1v1": "2026-10-17",
       "last_tg": "2026-10-24",
       "live": {
-        "match": 516674750,
+        "match": 516676749,
         "game": "1v1 Random Map",
         "format": "1v1",
         "account": "FierroFlash"
@@ -254,7 +254,7 @@
       "clan": "VENÓN",
       "cur_1v1": 2278,
       "max_1v1": 2368,
-      "cur_tg": 2189,
+      "cur_tg": 2192,
       "max_tg": 2227,
       "last_tg": "2026-10-27",
       "last_1v1": "2026-10-19",
@@ -412,6 +412,16 @@
       "last_tg": "2026-10-26"
     },
     {
+      "profile_id": 2291749,
+      "tag": "Biner",
+      "cur_1v1": 2007,
+      "max_1v1": 2016,
+      "cur_tg": 1670,
+      "max_tg": 1688,
+      "last_1v1": "2026-10-27",
+      "last_tg": "2026-10-25"
+    },
+    {
       "profile_id": 233625,
       "tag": "MooN",
       "cur_1v1": 2002,
@@ -420,21 +430,6 @@
       "max_tg": 1885,
       "last_1v1": "2026-08-15",
       "last_tg": "2026-10-22"
-    },
-    {
-      "profile_id": 2291749,
-      "tag": "Biner",
-      "cur_1v1": 1997,
-      "max_1v1": 2016,
-      "cur_tg": 1670,
-      "max_tg": 1688,
-      "last_1v1": "2026-10-27",
-      "last_tg": "2026-10-25",
-      "live": {
-        "match": 516674074,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 6501299,
@@ -469,7 +464,7 @@
       "last_1v1": "2026-10-27",
       "last_tg": "2026-10-21",
       "live": {
-        "match": 516675200,
+        "match": 516676502,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
