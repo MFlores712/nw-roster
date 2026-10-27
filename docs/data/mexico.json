@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-27T04:05:08Z",
+  "updated_at": "2026-10-27T04:10:10Z",
   "baseline": {
     "taken_at": "2026-10-26T14:00:16Z",
     "ranks": {
@@ -167,7 +167,13 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 516662684,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "hK | RanDoM"
+      }
     },
     {
       "profile_id": 9031952,
@@ -305,17 +311,12 @@
     {
       "profile_id": 5803221,
       "tag": "Mahmoud Ahmadinejad",
-      "cur_1v1": 2112,
+      "cur_1v1": 2124,
       "max_1v1": 2181,
       "cur_tg": 1638,
       "max_tg": 1652,
       "last_tg": "2026-10-15",
-      "last_1v1": "2026-10-27",
-      "live": {
-        "match": 516661846,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-10-27"
     },
     {
       "profile_id": 1947348,
@@ -361,15 +362,10 @@
       "clan": "SotC",
       "cur_1v1": 2048,
       "max_1v1": 2098,
-      "cur_tg": 1679,
+      "cur_tg": 1693,
       "max_tg": 1870,
       "last_1v1": "2026-10-21",
-      "last_tg": "2026-10-26",
-      "live": {
-        "match": 516657746,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-27"
     },
     {
       "profile_id": 1708286,
@@ -393,22 +389,6 @@
       "last_tg": "2026-10-24"
     },
     {
-      "profile_id": 2850920,
-      "tag": "Chimtzin",
-      "clan": "Ux",
-      "cur_1v1": 2027,
-      "max_1v1": 2124,
-      "cur_tg": 1633,
-      "max_tg": 1820,
-      "last_1v1": "2026-10-27",
-      "last_tg": "2026-10-21",
-      "live": {
-        "match": 516661846,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 1249720,
       "tag": "Lice_Slide",
       "clan": "VN",
@@ -418,6 +398,17 @@
       "max_tg": 1997,
       "last_1v1": "2026-10-27",
       "last_tg": "2026-10-26"
+    },
+    {
+      "profile_id": 2850920,
+      "tag": "Chimtzin",
+      "clan": "Ux",
+      "cur_1v1": 2015,
+      "max_1v1": 2124,
+      "cur_tg": 1633,
+      "max_tg": 1820,
+      "last_1v1": "2026-10-27",
+      "last_tg": "2026-10-21"
     },
     {
       "profile_id": 2291749,
@@ -467,6 +458,17 @@
       "last_tg": "2026-10-26"
     },
     {
+      "profile_id": 358501,
+      "tag": "El Claut_One",
+      "clan": "VENÓN",
+      "cur_1v1": 1969,
+      "max_1v1": 2115,
+      "cur_tg": 1804,
+      "max_tg": 1820,
+      "last_tg": "2026-10-22",
+      "last_1v1": "2026-10-27"
+    },
+    {
       "profile_id": 235877,
       "tag": "AsMelodiant",
       "clan": "VENÓN",
@@ -478,36 +480,15 @@
       "last_tg": "2026-10-20"
     },
     {
-      "profile_id": 358501,
-      "tag": "El Claut_One",
-      "clan": "VENÓN",
-      "cur_1v1": 1961,
-      "max_1v1": 2115,
-      "cur_tg": 1804,
-      "max_tg": 1820,
-      "last_tg": "2026-10-22",
-      "last_1v1": "2026-10-27",
-      "live": {
-        "match": 516660409,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 2926018,
       "tag": "PerezPodrido",
       "clan": "SotC",
       "cur_1v1": 1961,
       "max_1v1": 2039,
-      "cur_tg": 1658,
+      "cur_tg": 1672,
       "max_tg": 1888,
       "last_1v1": "2026-10-27",
-      "last_tg": "2026-10-27",
-      "live": {
-        "match": 516657746,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-27"
     },
     {
       "profile_id": 13241217,
@@ -572,7 +553,12 @@
       "cur_tg": 1733,
       "max_tg": 1788,
       "last_tg": "2026-10-27",
-      "last_1v1": "2026-10-19"
+      "last_1v1": "2026-10-19",
+      "live": {
+        "match": 516662684,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 278380,
@@ -596,7 +582,7 @@
       "last_tg": "2026-10-16",
       "last_1v1": "2026-09-18",
       "live": {
-        "match": 516657458,
+        "match": 516661965,
         "game": "Unranked",
         "format": "4v4",
         "account": "[GDL]CemenTox"
@@ -632,7 +618,12 @@
       "cur_tg": 1689,
       "max_tg": 1805,
       "last_tg": "2026-10-27",
-      "last_1v1": "2026-10-16"
+      "last_1v1": "2026-10-16",
+      "live": {
+        "match": 516662816,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 2876835,
