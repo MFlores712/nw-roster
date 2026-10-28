@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-28T02:10:09Z",
+  "updated_at": "2026-10-28T02:15:09Z",
   "baseline": {
     "taken_at": "2026-10-27T14:00:17Z",
     "ranks": {
@@ -117,7 +117,13 @@
       "cur_tg": 2140,
       "max_tg": 2151,
       "last_1v1": "2026-10-27",
-      "last_tg": "2026-10-15"
+      "last_tg": "2026-10-15",
+      "live": {
+        "match": 516871539,
+        "game": "Team Random Map",
+        "format": "3v3",
+        "account": "VENÓN | Mauricio"
+      }
     },
     {
       "profile_id": 4221810,
@@ -134,17 +140,12 @@
       "profile_id": 401359,
       "tag": "EnvyZ",
       "clan": "VENÓN",
-      "cur_1v1": 2401,
+      "cur_1v1": 2408,
       "max_1v1": 2512,
       "cur_tg": 2082,
       "max_tg": 2190,
       "last_1v1": "2026-10-28",
-      "last_tg": "2026-10-25",
-      "live": {
-        "match": 516867571,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-25"
     },
     {
       "profile_id": 310739,
@@ -271,7 +272,13 @@
       "cur_tg": 1874,
       "max_tg": 1922,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-27"
+      "last_1v1": "2026-10-27",
+      "live": {
+        "match": 516871539,
+        "game": "Team Random Map",
+        "format": "3v3",
+        "account": "VENÓN | TIC TAC"
+      }
     },
     {
       "profile_id": 580573,
@@ -336,13 +343,7 @@
       "cur_tg": 1638,
       "max_tg": 1652,
       "last_tg": "2026-10-15",
-      "last_1v1": "2026-10-28",
-      "live": {
-        "match": 516865250,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "emmanueldltq08"
-      }
+      "last_1v1": "2026-10-28"
     },
     {
       "profile_id": 1947348,
