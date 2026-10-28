@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-28T01:30:13Z",
+  "updated_at": "2026-10-28T01:35:09Z",
   "baseline": {
     "taken_at": "2026-10-27T14:00:17Z",
     "ranks": {
@@ -63,17 +63,12 @@
       "profile_id": 5984120,
       "tag": "Combito",
       "clan": "Ux",
-      "cur_1v1": 2723,
+      "cur_1v1": 2733,
       "max_1v1": 2752,
       "cur_tg": 1774,
       "max_tg": 1885,
       "last_1v1": "2026-10-28",
-      "last_tg": "2026-10-26",
-      "live": {
-        "match": 516858378,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-26"
     },
     {
       "profile_id": 2776293,
@@ -330,13 +325,7 @@
       "cur_tg": 1638,
       "max_tg": 1652,
       "last_tg": "2026-10-15",
-      "last_1v1": "2026-10-28",
-      "live": {
-        "match": 516857478,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "emmanueldltq08"
-      }
+      "last_1v1": "2026-10-28"
     },
     {
       "profile_id": 1947348,
@@ -534,21 +523,6 @@
       "last_1v1": "2026-10-13"
     },
     {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1947,
-      "max_1v1": 2003,
-      "cur_tg": 1377,
-      "max_tg": 1417,
-      "last_1v1": "2026-10-28",
-      "last_tg": "2026-10-25",
-      "live": {
-        "match": 516858744,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 3285258,
       "tag": "Kiss",
       "clan": "MZTK",
@@ -579,6 +553,16 @@
       "max_tg": 1788,
       "last_tg": "2026-10-27",
       "last_1v1": "2026-10-19"
+    },
+    {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1934,
+      "max_1v1": 2003,
+      "cur_tg": 1377,
+      "max_tg": 1417,
+      "last_1v1": "2026-10-28",
+      "last_tg": "2026-10-25"
     },
     {
       "profile_id": 278380,
