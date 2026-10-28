@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-27T23:55:09Z",
+  "updated_at": "2026-10-28T00:00:12Z",
   "baseline": {
     "taken_at": "2026-10-27T14:00:17Z",
     "ranks": {
@@ -63,14 +63,14 @@
       "profile_id": 5984120,
       "tag": "Combito",
       "clan": "Ux",
-      "cur_1v1": 2687,
+      "cur_1v1": 2706,
       "max_1v1": 2752,
       "cur_tg": 1774,
       "max_tg": 1885,
       "last_1v1": "2026-10-27",
       "last_tg": "2026-10-26",
       "live": {
-        "match": 516844071,
+        "match": 516847282,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -90,17 +90,12 @@
       "profile_id": 2920057,
       "tag": "Lobo",
       "clan": "Ux",
-      "cur_1v1": 2621,
+      "cur_1v1": 2624,
       "max_1v1": 2685,
       "cur_tg": 2080,
       "max_tg": 2105,
-      "last_1v1": "2026-10-25",
-      "last_tg": "2026-10-27",
-      "live": {
-        "match": 516841495,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-10-27",
+      "last_tg": "2026-10-27"
     },
     {
       "profile_id": 13099159,
@@ -315,16 +310,17 @@
     {
       "profile_id": 5803221,
       "tag": "Mahmoud Ahmadinejad",
-      "cur_1v1": 2113,
+      "cur_1v1": 2137,
       "max_1v1": 2181,
       "cur_tg": 1638,
       "max_tg": 1652,
       "last_tg": "2026-10-15",
       "last_1v1": "2026-10-27",
       "live": {
-        "match": 516844491,
-        "game": "1v1 Random Map",
-        "format": "1v1"
+        "match": 516843973,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "emmanueldltq08"
       }
     },
     {
@@ -371,6 +367,22 @@
       "last_1v1": "2026-03-21"
     },
     {
+      "profile_id": 1249720,
+      "tag": "Lice_Slide",
+      "clan": "VN",
+      "cur_1v1": 2037,
+      "max_1v1": 2102,
+      "cur_tg": 1813,
+      "max_tg": 1997,
+      "last_1v1": "2026-10-28",
+      "last_tg": "2026-10-26",
+      "live": {
+        "match": 516844261,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 2934597,
       "tag": "Sgt.Pepper",
       "clan": "nW",
@@ -391,22 +403,6 @@
       "max_tg": 1962,
       "last_1v1": "2026-10-21",
       "last_tg": "2026-10-27"
-    },
-    {
-      "profile_id": 1249720,
-      "tag": "Lice_Slide",
-      "clan": "VN",
-      "cur_1v1": 2021,
-      "max_1v1": 2102,
-      "cur_tg": 1813,
-      "max_tg": 1997,
-      "last_1v1": "2026-10-27",
-      "last_tg": "2026-10-26",
-      "live": {
-        "match": 516844261,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 2291749,
@@ -567,7 +563,12 @@
       "cur_tg": 1377,
       "max_tg": 1417,
       "last_1v1": "2026-10-27",
-      "last_tg": "2026-10-25"
+      "last_tg": "2026-10-25",
+      "live": {
+        "match": 516847074,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 278380,
