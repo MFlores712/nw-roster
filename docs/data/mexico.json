@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-28T21:35:10Z",
+  "updated_at": "2026-10-28T21:40:09Z",
   "baseline": {
     "taken_at": "2026-10-28T14:00:17Z",
     "ranks": {
@@ -231,6 +231,17 @@
       "last_tg": "2026-10-25"
     },
     {
+      "profile_id": 12723994,
+      "tag": "PuNii",
+      "clan": "VENÓN",
+      "cur_1v1": 2290,
+      "max_1v1": 2315,
+      "cur_tg": 1874,
+      "max_tg": 1922,
+      "last_tg": "2026-10-26",
+      "last_1v1": "2026-10-28"
+    },
+    {
       "profile_id": 757886,
       "tag": "DarK_KnighT_",
       "clan": "VN",
@@ -251,22 +262,6 @@
       "max_tg": 1852,
       "last_1v1": "2026-10-28",
       "last_tg": "2026-10-28"
-    },
-    {
-      "profile_id": 12723994,
-      "tag": "PuNii",
-      "clan": "VENÓN",
-      "cur_1v1": 2271,
-      "max_1v1": 2315,
-      "cur_tg": 1874,
-      "max_tg": 1922,
-      "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-27",
-      "live": {
-        "match": 517042239,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 4412109,
@@ -515,13 +510,7 @@
       "cur_tg": 1655,
       "max_tg": 1824,
       "last_tg": "2026-10-28",
-      "last_1v1": "2026-10-13",
-      "live": {
-        "match": 517040367,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "eFotboll"
-      }
+      "last_1v1": "2026-10-13"
     },
     {
       "profile_id": 3285258,
