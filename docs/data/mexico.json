@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-28T05:15:11Z",
+  "updated_at": "2026-10-28T05:20:10Z",
   "baseline": {
     "taken_at": "2026-10-27T14:00:17Z",
     "ranks": {
@@ -406,6 +406,17 @@
       "last_1v1": "2026-03-21"
     },
     {
+      "profile_id": 2850920,
+      "tag": "Chimtzin",
+      "clan": "Ux",
+      "cur_1v1": 2039,
+      "max_1v1": 2124,
+      "cur_tg": 1633,
+      "max_tg": 1820,
+      "last_1v1": "2026-10-28",
+      "last_tg": "2026-10-21"
+    },
+    {
       "profile_id": 9770338,
       "tag": "SynfonY",
       "clan": "CL",
@@ -415,22 +426,6 @@
       "max_tg": 1962,
       "last_1v1": "2026-10-21",
       "last_tg": "2026-10-27"
-    },
-    {
-      "profile_id": 2850920,
-      "tag": "Chimtzin",
-      "clan": "Ux",
-      "cur_1v1": 2022,
-      "max_1v1": 2124,
-      "cur_tg": 1633,
-      "max_tg": 1820,
-      "last_1v1": "2026-10-28",
-      "last_tg": "2026-10-21",
-      "live": {
-        "match": 516894574,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 1249720,
