@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-28T22:55:08Z",
+  "updated_at": "2026-10-28T23:00:15Z",
   "baseline": {
     "taken_at": "2026-10-28T14:00:17Z",
     "ranks": {
@@ -222,7 +222,12 @@
       "cur_tg": 1837,
       "max_tg": 1974,
       "last_1v1": "2026-10-28",
-      "last_tg": "2026-10-28"
+      "last_tg": "2026-10-28",
+      "live": {
+        "match": 517062881,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 1485562,
@@ -236,6 +241,17 @@
       "last_tg": "2026-10-25"
     },
     {
+      "profile_id": 12723994,
+      "tag": "PuNii",
+      "clan": "VENÓN",
+      "cur_1v1": 2288,
+      "max_1v1": 2315,
+      "cur_tg": 1874,
+      "max_tg": 1922,
+      "last_tg": "2026-10-26",
+      "last_1v1": "2026-10-28"
+    },
+    {
       "profile_id": 757886,
       "tag": "DarK_KnighT_",
       "clan": "VN",
@@ -245,22 +261,6 @@
       "max_tg": 2050,
       "last_1v1": "2026-10-28",
       "last_tg": "2026-10-28"
-    },
-    {
-      "profile_id": 12723994,
-      "tag": "PuNii",
-      "clan": "VENÓN",
-      "cur_1v1": 2272,
-      "max_1v1": 2315,
-      "cur_tg": 1874,
-      "max_tg": 1922,
-      "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-28",
-      "live": {
-        "match": 517059192,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 4412109,
@@ -282,14 +282,14 @@
       "profile_id": 3816609,
       "tag": "iamkaito",
       "clan": "nW",
-      "cur_1v1": 2265,
+      "cur_1v1": 2249,
       "max_1v1": 2304,
       "cur_tg": 1812,
       "max_tg": 1852,
       "last_1v1": "2026-10-28",
       "last_tg": "2026-10-28",
       "live": {
-        "match": 517059192,
+        "match": 517062987,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -325,7 +325,12 @@
       "cur_tg": 1858,
       "max_tg": 1983,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-10-28"
+      "last_tg": "2026-10-28",
+      "live": {
+        "match": 517062881,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 5803221,
