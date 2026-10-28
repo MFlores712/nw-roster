@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-28T22:00:13Z",
+  "updated_at": "2026-10-28T22:05:08Z",
   "baseline": {
     "taken_at": "2026-10-28T14:00:17Z",
     "ranks": {
@@ -231,22 +231,6 @@
       "last_tg": "2026-10-25"
     },
     {
-      "profile_id": 12723994,
-      "tag": "PuNii",
-      "clan": "VENÓN",
-      "cur_1v1": 2290,
-      "max_1v1": 2315,
-      "cur_tg": 1874,
-      "max_tg": 1922,
-      "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-28",
-      "live": {
-        "match": 517048582,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 757886,
       "tag": "DarK_KnighT_",
       "clan": "VN",
@@ -258,6 +242,17 @@
       "last_tg": "2026-10-28"
     },
     {
+      "profile_id": 12723994,
+      "tag": "PuNii",
+      "clan": "VENÓN",
+      "cur_1v1": 2281,
+      "max_1v1": 2315,
+      "cur_tg": 1874,
+      "max_tg": 1922,
+      "last_tg": "2026-10-26",
+      "last_1v1": "2026-10-28"
+    },
+    {
       "profile_id": 3816609,
       "tag": "iamkaito",
       "clan": "nW",
@@ -266,7 +261,12 @@
       "cur_tg": 1812,
       "max_tg": 1852,
       "last_1v1": "2026-10-28",
-      "last_tg": "2026-10-28"
+      "last_tg": "2026-10-28",
+      "live": {
+        "match": 517052585,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 4412109,
