@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-28T04:45:10Z",
+  "updated_at": "2026-10-28T04:50:09Z",
   "baseline": {
     "taken_at": "2026-10-27T14:00:17Z",
     "ranks": {
@@ -140,12 +140,7 @@
       "cur_tg": 2062,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-28",
-      "live": {
-        "match": 516890478,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-10-28"
     },
     {
       "profile_id": 310739,
@@ -296,12 +291,7 @@
       "cur_tg": 2062,
       "max_tg": 2083,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-10-28",
-      "live": {
-        "match": 516890478,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-10-28"
     },
     {
       "profile_id": 917863,
@@ -412,21 +402,10 @@
       "last_tg": "2026-10-27"
     },
     {
-      "profile_id": 1249720,
-      "tag": "Lice_Slide",
-      "clan": "VN",
-      "cur_1v1": 2006,
-      "max_1v1": 2102,
-      "cur_tg": 1813,
-      "max_tg": 1997,
-      "last_1v1": "2026-10-28",
-      "last_tg": "2026-10-26"
-    },
-    {
       "profile_id": 2850920,
       "tag": "Chimtzin",
       "clan": "Ux",
-      "cur_1v1": 2003,
+      "cur_1v1": 2022,
       "max_1v1": 2124,
       "cur_tg": 1633,
       "max_tg": 1820,
@@ -437,6 +416,17 @@
         "game": "1v1 Random Map",
         "format": "1v1"
       }
+    },
+    {
+      "profile_id": 1249720,
+      "tag": "Lice_Slide",
+      "clan": "VN",
+      "cur_1v1": 2006,
+      "max_1v1": 2102,
+      "cur_tg": 1813,
+      "max_tg": 1997,
+      "last_1v1": "2026-10-28",
+      "last_tg": "2026-10-26"
     },
     {
       "profile_id": 233625,
@@ -479,7 +469,12 @@
       "cur_tg": 1804,
       "max_tg": 1820,
       "last_tg": "2026-10-22",
-      "last_1v1": "2026-10-27"
+      "last_1v1": "2026-10-27",
+      "live": {
+        "match": 516894000,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2291749,
