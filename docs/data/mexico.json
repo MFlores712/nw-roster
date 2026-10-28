@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-28T07:45:09Z",
+  "updated_at": "2026-10-28T08:00:14Z",
   "baseline": {
     "taken_at": "2026-10-27T14:00:17Z",
     "ranks": {
@@ -142,15 +142,10 @@
       "clan": "hK",
       "cur_1v1": 2388,
       "max_1v1": 2484,
-      "cur_tg": 1873,
+      "cur_tg": 1887,
       "max_tg": 1959,
       "last_1v1": "2026-10-28",
-      "last_tg": "2026-10-28",
-      "live": {
-        "match": 516908357,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-28"
     },
     {
       "profile_id": 2295504,
@@ -409,15 +404,10 @@
       "tag": "MooN",
       "cur_1v1": 2002,
       "max_1v1": 2002,
-      "cur_tg": 1736,
+      "cur_tg": 1756,
       "max_tg": 1885,
       "last_1v1": "2026-08-15",
-      "last_tg": "2026-10-28",
-      "live": {
-        "match": 516908357,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-28"
     },
     {
       "profile_id": 6501299,
@@ -447,15 +437,10 @@
       "clan": "VENÓN",
       "cur_1v1": 1981,
       "max_1v1": 2115,
-      "cur_tg": 1780,
+      "cur_tg": 1764,
       "max_tg": 1820,
       "last_tg": "2026-10-28",
-      "last_1v1": "2026-10-28",
-      "live": {
-        "match": 516908357,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_1v1": "2026-10-28"
     },
     {
       "profile_id": 2291749,
