@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-28T03:40:10Z",
+  "updated_at": "2026-10-28T03:45:11Z",
   "baseline": {
     "taken_at": "2026-10-27T14:00:17Z",
     "ranks": {
@@ -117,13 +117,7 @@
       "cur_tg": 2140,
       "max_tg": 2151,
       "last_1v1": "2026-10-27",
-      "last_tg": "2026-10-15",
-      "live": {
-        "match": 516880758,
-        "game": "Team Random Map",
-        "format": "3v3",
-        "account": "VENÓN | Mauricio"
-      }
+      "last_tg": "2026-10-15"
     },
     {
       "profile_id": 401359,
@@ -189,7 +183,13 @@
       "cur_tg": 1967,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-10-24"
+      "last_tg": "2026-10-24",
+      "live": {
+        "match": 516885864,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "FierroFlash"
+      }
     },
     {
       "profile_id": 9666666,
@@ -256,13 +256,7 @@
       "cur_tg": 1874,
       "max_tg": 1922,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-27",
-      "live": {
-        "match": 516880758,
-        "game": "Team Random Map",
-        "format": "3v3",
-        "account": "VENÓN | TIC TAC"
-      }
+      "last_1v1": "2026-10-27"
     },
     {
       "profile_id": 580573,
@@ -421,22 +415,6 @@
       "last_tg": "2026-10-22"
     },
     {
-      "profile_id": 2850920,
-      "tag": "Chimtzin",
-      "clan": "Ux",
-      "cur_1v1": 1995,
-      "max_1v1": 2124,
-      "cur_tg": 1633,
-      "max_tg": 1820,
-      "last_1v1": "2026-10-28",
-      "last_tg": "2026-10-21",
-      "live": {
-        "match": 516882546,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 6501299,
       "tag": "ShutAzarquay",
       "clan": "nW",
@@ -482,6 +460,22 @@
         "match": 516882620,
         "game": "Team Random Map",
         "format": "4v4"
+      }
+    },
+    {
+      "profile_id": 2850920,
+      "tag": "Chimtzin",
+      "clan": "Ux",
+      "cur_1v1": 1978,
+      "max_1v1": 2124,
+      "cur_tg": 1633,
+      "max_tg": 1820,
+      "last_1v1": "2026-10-28",
+      "last_tg": "2026-10-21",
+      "live": {
+        "match": 516886085,
+        "game": "1v1 Random Map",
+        "format": "1v1"
       }
     },
     {
