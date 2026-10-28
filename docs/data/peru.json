@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-28T03:20:10Z",
+  "updated_at": "2026-10-28T03:35:09Z",
   "baseline": {
     "taken_at": "2026-10-27T14:00:17Z",
     "ranks": {
@@ -40,7 +40,7 @@
     {
       "profile_id": 3216208,
       "tag": "Dimo",
-      "cur_1v1": 2515,
+      "cur_1v1": 2495,
       "max_1v1": 2558,
       "cur_tg": 1879,
       "max_tg": 1935,
