@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-28T06:00:14Z",
+  "updated_at": "2026-10-28T06:10:09Z",
   "baseline": {
     "taken_at": "2026-10-27T14:00:17Z",
     "ranks": {
@@ -63,17 +63,12 @@
       "profile_id": 5984120,
       "tag": "Combito",
       "clan": "Ux",
-      "cur_1v1": 2754,
-      "max_1v1": 2754,
+      "cur_1v1": 2762,
+      "max_1v1": 2762,
       "cur_tg": 1774,
       "max_tg": 1885,
       "last_1v1": "2026-10-28",
-      "last_tg": "2026-10-26",
-      "live": {
-        "match": 516899694,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-26"
     },
     {
       "profile_id": 2776293,
@@ -136,15 +131,10 @@
       "clan": "hK",
       "cur_1v1": 2427,
       "max_1v1": 2433,
-      "cur_tg": 2036,
+      "cur_tg": 2045,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-28",
-      "live": {
-        "match": 516899180,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-28"
     },
     {
       "profile_id": 310739,
@@ -152,15 +142,10 @@
       "clan": "hK",
       "cur_1v1": 2388,
       "max_1v1": 2484,
-      "cur_tg": 1857,
+      "cur_tg": 1873,
       "max_tg": 1959,
       "last_1v1": "2026-10-28",
-      "last_tg": "2026-10-24",
-      "live": {
-        "match": 516899180,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-28"
     },
     {
       "profile_id": 2295504,
@@ -260,13 +245,7 @@
       "cur_tg": 1874,
       "max_tg": 1922,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-27",
-      "live": {
-        "match": 516899180,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "Parcero Erotico"
-      }
+      "last_1v1": "2026-10-27"
     },
     {
       "profile_id": 580573,
@@ -285,15 +264,10 @@
       "clan": "hK",
       "cur_1v1": 2237,
       "max_1v1": 2317,
-      "cur_tg": 2036,
+      "cur_tg": 2045,
       "max_tg": 2083,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-10-28",
-      "live": {
-        "match": 516899180,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-28"
     },
     {
       "profile_id": 917863,
@@ -430,15 +404,10 @@
       "tag": "MooN",
       "cur_1v1": 2002,
       "max_1v1": 2002,
-      "cur_tg": 1714,
+      "cur_tg": 1736,
       "max_tg": 1885,
       "last_1v1": "2026-08-15",
-      "last_tg": "2026-10-28",
-      "live": {
-        "match": 516899180,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-28"
     },
     {
       "profile_id": 6501299,
@@ -468,15 +437,10 @@
       "clan": "VENÓN",
       "cur_1v1": 1981,
       "max_1v1": 2115,
-      "cur_tg": 1804,
+      "cur_tg": 1792,
       "max_tg": 1820,
-      "last_tg": "2026-10-22",
-      "last_1v1": "2026-10-28",
-      "live": {
-        "match": 516899180,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-28",
+      "last_1v1": "2026-10-28"
     },
     {
       "profile_id": 2291749,
