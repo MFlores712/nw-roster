@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-28T03:00:13Z",
+  "updated_at": "2026-10-28T03:05:09Z",
   "baseline": {
     "taken_at": "2026-10-27T14:00:17Z",
     "ranks": {
@@ -117,13 +117,7 @@
       "cur_tg": 2140,
       "max_tg": 2151,
       "last_1v1": "2026-10-27",
-      "last_tg": "2026-10-15",
-      "live": {
-        "match": 516876304,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "VENÓN | Mauricio"
-      }
+      "last_tg": "2026-10-15"
     },
     {
       "profile_id": 4221810,
@@ -142,15 +136,10 @@
       "clan": "VENÓN",
       "cur_1v1": 2419,
       "max_1v1": 2512,
-      "cur_tg": 2082,
+      "cur_tg": 2085,
       "max_tg": 2190,
       "last_1v1": "2026-10-28",
-      "last_tg": "2026-10-25",
-      "live": {
-        "match": 516876304,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-28"
     },
     {
       "profile_id": 310739,
@@ -261,13 +250,7 @@
       "cur_tg": 1874,
       "max_tg": 1922,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-27",
-      "live": {
-        "match": 516876304,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "VENÓN | TIC TAC"
-      }
+      "last_1v1": "2026-10-27"
     },
     {
       "profile_id": 580573,
@@ -439,7 +422,12 @@
       "cur_tg": 1633,
       "max_tg": 1820,
       "last_1v1": "2026-10-27",
-      "last_tg": "2026-10-21"
+      "last_tg": "2026-10-21",
+      "live": {
+        "match": 516880275,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 6501299,
