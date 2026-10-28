@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-28T18:40:10Z",
+  "updated_at": "2026-10-28T18:50:15Z",
   "baseline": {
     "taken_at": "2026-10-28T14:00:17Z",
     "ranks": {
@@ -225,15 +225,10 @@
       "clan": "VN",
       "cur_1v1": 2288,
       "max_1v1": 2288,
-      "cur_tg": 1865,
+      "cur_tg": 1874,
       "max_tg": 2050,
       "last_1v1": "2026-10-28",
-      "last_tg": "2026-10-27",
-      "live": {
-        "match": 517005078,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-28"
     },
     {
       "profile_id": 580573,
@@ -414,15 +409,10 @@
       "clan": "VN",
       "cur_1v1": 1994,
       "max_1v1": 2102,
-      "cur_tg": 1813,
+      "cur_tg": 1823,
       "max_tg": 1997,
       "last_1v1": "2026-10-28",
-      "last_tg": "2026-10-26",
-      "live": {
-        "match": 517005078,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-28"
     },
     {
       "profile_id": 6501299,
