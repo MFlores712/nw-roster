@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-28T21:25:09Z",
+  "updated_at": "2026-10-28T21:35:10Z",
   "baseline": {
     "taken_at": "2026-10-28T14:00:17Z",
     "ranks": {
@@ -556,22 +556,6 @@
       "last_1v1": "2026-10-19"
     },
     {
-      "profile_id": 278380,
-      "tag": "Lemoine",
-      "clan": "VL",
-      "cur_1v1": 1933,
-      "max_1v1": 1970,
-      "cur_tg": 1721,
-      "max_tg": 1865,
-      "last_tg": "2026-10-28",
-      "last_1v1": "2026-10-16",
-      "live": {
-        "match": 517040746,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 2969449,
       "tag": "BetoxAOE",
       "clan": "VENÓN",
@@ -581,6 +565,17 @@
       "max_tg": 1821,
       "last_tg": "2026-10-16",
       "last_1v1": "2026-09-18"
+    },
+    {
+      "profile_id": 278380,
+      "tag": "Lemoine",
+      "clan": "VL",
+      "cur_1v1": 1923,
+      "max_1v1": 1970,
+      "cur_tg": 1721,
+      "max_tg": 1865,
+      "last_tg": "2026-10-28",
+      "last_1v1": "2026-10-28"
     },
     {
       "profile_id": 358501,
