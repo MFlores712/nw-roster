@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-28T04:15:09Z",
+  "updated_at": "2026-10-28T04:20:10Z",
   "baseline": {
     "taken_at": "2026-10-27T14:00:17Z",
     "ranks": {
@@ -140,7 +140,12 @@
       "cur_tg": 2050,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-24"
+      "last_tg": "2026-10-24",
+      "live": {
+        "match": 516890478,
+        "game": "Team Random Map",
+        "format": "2v2"
+      }
     },
     {
       "profile_id": 310739,
@@ -178,13 +183,7 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 516889803,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "hK | RanDoM"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 9031952,
@@ -296,7 +295,12 @@
       "cur_tg": 2050,
       "max_tg": 2083,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-10-24"
+      "last_tg": "2026-10-24",
+      "live": {
+        "match": 516890478,
+        "game": "Team Random Map",
+        "format": "2v2"
+      }
     },
     {
       "profile_id": 917863,
@@ -481,15 +485,10 @@
       "tag": "Biner",
       "cur_1v1": 1986,
       "max_1v1": 2016,
-      "cur_tg": 1650,
+      "cur_tg": 1659,
       "max_tg": 1688,
       "last_1v1": "2026-10-28",
-      "last_tg": "2026-10-28",
-      "live": {
-        "match": 516888347,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-10-28"
     },
     {
       "profile_id": 2926018,
@@ -573,15 +572,10 @@
       "clan": "KH",
       "cur_1v1": 1934,
       "max_1v1": 2060,
-      "cur_tg": 1775,
+      "cur_tg": 1786,
       "max_tg": 1788,
-      "last_tg": "2026-10-27",
-      "last_1v1": "2026-10-19",
-      "live": {
-        "match": 516889803,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-28",
+      "last_1v1": "2026-10-19"
     },
     {
       "profile_id": 278380,
@@ -628,22 +622,6 @@
       "last_1v1": "2026-10-16"
     },
     {
-      "profile_id": 2876835,
-      "tag": "Abejorro",
-      "clan": "nW",
-      "cur_1v1": 1898,
-      "max_1v1": 2152,
-      "cur_tg": 1802,
-      "max_tg": 1802,
-      "last_1v1": "2026-10-28",
-      "last_tg": "2026-10-25",
-      "live": {
-        "match": 516887624,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 3254820,
       "tag": "__Chino",
       "cur_1v1": 1897,
@@ -652,6 +630,22 @@
       "max_tg": 1417,
       "last_1v1": "2026-10-28",
       "last_tg": "2026-10-25"
+    },
+    {
+      "profile_id": 2876835,
+      "tag": "Abejorro",
+      "clan": "nW",
+      "cur_1v1": 1884,
+      "max_1v1": 2152,
+      "cur_tg": 1802,
+      "max_tg": 1802,
+      "last_1v1": "2026-10-28",
+      "last_tg": "2026-10-25",
+      "live": {
+        "match": 516890941,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     }
   ],
   "show_top": 45,
