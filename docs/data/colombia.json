@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-28T20:55:09Z",
+  "updated_at": "2026-10-28T21:10:17Z",
   "baseline": {
     "taken_at": "2026-10-28T14:00:17Z",
     "ranks": {
@@ -205,7 +205,7 @@
       "profile_id": 5981761,
       "tag": "Alexander the conqueror",
       "clan": "AiM",
-      "cur_1v1": 1785,
+      "cur_1v1": 1775,
       "max_1v1": 1903,
       "cur_tg": 1495,
       "max_tg": 1630,
