@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-28T17:30:13Z",
+  "updated_at": "2026-10-28T17:40:12Z",
   "baseline": {
     "taken_at": "2026-10-28T14:00:17Z",
     "ranks": {
@@ -184,17 +184,12 @@
       "profile_id": 2598146,
       "tag": "SiNisTeR",
       "clan": "VENÓN",
-      "cur_1v1": 2307,
+      "cur_1v1": 2314,
       "max_1v1": 2368,
       "cur_tg": 2200,
       "max_tg": 2227,
       "last_tg": "2026-10-27",
-      "last_1v1": "2026-10-28",
-      "live": {
-        "match": 516989351,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-10-28"
     },
     {
       "profile_id": 9666666,
@@ -272,7 +267,12 @@
       "cur_tg": 2045,
       "max_tg": 2083,
       "last_1v1": "2026-10-28",
-      "last_tg": "2026-10-28"
+      "last_tg": "2026-10-28",
+      "live": {
+        "match": 516994707,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 917863,
@@ -394,22 +394,6 @@
       "last_tg": "2026-10-27"
     },
     {
-      "profile_id": 1249720,
-      "tag": "Lice_Slide",
-      "clan": "VN",
-      "cur_1v1": 2006,
-      "max_1v1": 2102,
-      "cur_tg": 1813,
-      "max_tg": 1997,
-      "last_1v1": "2026-10-28",
-      "last_tg": "2026-10-26",
-      "live": {
-        "match": 516990985,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 233625,
       "tag": "MooN",
       "cur_1v1": 2002,
@@ -418,6 +402,17 @@
       "max_tg": 1885,
       "last_1v1": "2026-08-15",
       "last_tg": "2026-10-28"
+    },
+    {
+      "profile_id": 1249720,
+      "tag": "Lice_Slide",
+      "clan": "VN",
+      "cur_1v1": 1994,
+      "max_1v1": 2102,
+      "cur_tg": 1813,
+      "max_tg": 1997,
+      "last_1v1": "2026-10-28",
+      "last_tg": "2026-10-26"
     },
     {
       "profile_id": 6501299,
