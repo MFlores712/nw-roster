@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-28T22:35:08Z",
+  "updated_at": "2026-10-28T22:40:12Z",
   "baseline": {
     "taken_at": "2026-10-28T14:00:17Z",
     "ranks": {
@@ -247,22 +247,6 @@
       "last_tg": "2026-10-28"
     },
     {
-      "profile_id": 3816609,
-      "tag": "iamkaito",
-      "clan": "nW",
-      "cur_1v1": 2279,
-      "max_1v1": 2304,
-      "cur_tg": 1812,
-      "max_tg": 1852,
-      "last_1v1": "2026-10-28",
-      "last_tg": "2026-10-28",
-      "live": {
-        "match": 517052585,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 12723994,
       "tag": "PuNii",
       "clan": "VENÓN",
@@ -273,7 +257,7 @@
       "last_tg": "2026-10-26",
       "last_1v1": "2026-10-28",
       "live": {
-        "match": 517053594,
+        "match": 517059192,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -292,6 +276,22 @@
         "match": 517055915,
         "game": "Team Random Map",
         "format": "4v4"
+      }
+    },
+    {
+      "profile_id": 3816609,
+      "tag": "iamkaito",
+      "clan": "nW",
+      "cur_1v1": 2265,
+      "max_1v1": 2304,
+      "cur_tg": 1812,
+      "max_tg": 1852,
+      "last_1v1": "2026-10-28",
+      "last_tg": "2026-10-28",
+      "live": {
+        "match": 517059192,
+        "game": "1v1 Random Map",
+        "format": "1v1"
       }
     },
     {
@@ -530,13 +530,7 @@
       "cur_tg": 1655,
       "max_tg": 1824,
       "last_tg": "2026-10-28",
-      "last_1v1": "2026-10-13",
-      "live": {
-        "match": 517053509,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "eFotboll"
-      }
+      "last_1v1": "2026-10-13"
     },
     {
       "profile_id": 3285258,
