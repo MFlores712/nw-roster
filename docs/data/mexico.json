@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-28T17:10:11Z",
+  "updated_at": "2026-10-28T17:15:11Z",
   "baseline": {
     "taken_at": "2026-10-28T14:00:17Z",
     "ranks": {
@@ -442,6 +442,17 @@
       "last_tg": "2026-10-26"
     },
     {
+      "profile_id": 13241217,
+      "tag": "BlueUltra",
+      "clan": "Ux",
+      "cur_1v1": 1985,
+      "max_1v1": 1993,
+      "cur_tg": 1636,
+      "max_tg": 1688,
+      "last_1v1": "2026-10-28",
+      "last_tg": "2026-10-24"
+    },
+    {
       "profile_id": 2291749,
       "tag": "Biner",
       "cur_1v1": 1980,
@@ -461,22 +472,6 @@
       "max_tg": 1888,
       "last_1v1": "2026-10-27",
       "last_tg": "2026-10-27"
-    },
-    {
-      "profile_id": 13241217,
-      "tag": "BlueUltra",
-      "clan": "Ux",
-      "cur_1v1": 1970,
-      "max_1v1": 1993,
-      "cur_tg": 1636,
-      "max_tg": 1688,
-      "last_1v1": "2026-10-27",
-      "last_tg": "2026-10-24",
-      "live": {
-        "match": 516985925,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 235877,
@@ -538,22 +533,6 @@
       "last_tg": "2026-09-16"
     },
     {
-      "profile_id": 358501,
-      "tag": "El Claut_One",
-      "clan": "VENÓN",
-      "cur_1v1": 1935,
-      "max_1v1": 2115,
-      "cur_tg": 1747,
-      "max_tg": 1820,
-      "last_tg": "2026-10-28",
-      "last_1v1": "2026-10-28",
-      "live": {
-        "match": 516985143,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 4764520,
       "tag": "BooMBastic_",
       "clan": "KH",
@@ -585,6 +564,22 @@
       "max_tg": 1821,
       "last_tg": "2026-10-16",
       "last_1v1": "2026-09-18"
+    },
+    {
+      "profile_id": 358501,
+      "tag": "El Claut_One",
+      "clan": "VENÓN",
+      "cur_1v1": 1920,
+      "max_1v1": 2115,
+      "cur_tg": 1747,
+      "max_tg": 1820,
+      "last_tg": "2026-10-28",
+      "last_1v1": "2026-10-28",
+      "live": {
+        "match": 516990117,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2876835,
