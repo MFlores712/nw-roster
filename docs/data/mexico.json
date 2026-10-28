@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-28T00:50:10Z",
+  "updated_at": "2026-10-28T00:55:11Z",
   "baseline": {
     "taken_at": "2026-10-27T14:00:17Z",
     "ranks": {
@@ -81,7 +81,7 @@
       "last_tg": "2026-10-08",
       "last_1v1": "2026-10-28",
       "live": {
-        "match": 516851026,
+        "match": 516856804,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -174,7 +174,7 @@
       "last_tg": "2026-10-26",
       "last_1v1": "2026-10-24",
       "live": {
-        "match": 516852538,
+        "match": 516857093,
         "game": "1v1 Random Map",
         "format": "1v1",
         "account": "hK | RanDoM"
@@ -256,7 +256,12 @@
       "cur_tg": 1840,
       "max_tg": 1974,
       "last_1v1": "2026-10-27",
-      "last_tg": "2026-10-19"
+      "last_tg": "2026-10-19",
+      "live": {
+        "match": 516856529,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 12723994,
@@ -394,22 +399,6 @@
       "last_tg": "2026-10-27"
     },
     {
-      "profile_id": 1249720,
-      "tag": "Lice_Slide",
-      "clan": "VN",
-      "cur_1v1": 2025,
-      "max_1v1": 2102,
-      "cur_tg": 1813,
-      "max_tg": 1997,
-      "last_1v1": "2026-10-28",
-      "last_tg": "2026-10-26",
-      "live": {
-        "match": 516851527,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 2291749,
       "tag": "Biner",
       "cur_1v1": 2007,
@@ -418,6 +407,17 @@
       "max_tg": 1688,
       "last_1v1": "2026-10-27",
       "last_tg": "2026-10-25"
+    },
+    {
+      "profile_id": 1249720,
+      "tag": "Lice_Slide",
+      "clan": "VN",
+      "cur_1v1": 2006,
+      "max_1v1": 2102,
+      "cur_tg": 1813,
+      "max_tg": 1997,
+      "last_1v1": "2026-10-28",
+      "last_tg": "2026-10-26"
     },
     {
       "profile_id": 233625,
@@ -526,12 +526,7 @@
       "cur_tg": 1659,
       "max_tg": 1824,
       "last_tg": "2026-10-27",
-      "last_1v1": "2026-10-13",
-      "live": {
-        "match": 516847497,
-        "game": "Unranked",
-        "format": "3v3"
-      }
+      "last_1v1": "2026-10-13"
     },
     {
       "profile_id": 3254820,
@@ -581,15 +576,10 @@
       "clan": "VL",
       "cur_1v1": 1933,
       "max_1v1": 1970,
-      "cur_tg": 1753,
+      "cur_tg": 1763,
       "max_tg": 1865,
-      "last_tg": "2026-10-24",
-      "last_1v1": "2026-10-16",
-      "live": {
-        "match": 516854287,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-10-28",
+      "last_1v1": "2026-10-16"
     },
     {
       "profile_id": 2969449,
