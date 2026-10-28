@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-28T18:30:13Z",
+  "updated_at": "2026-10-28T18:40:10Z",
   "baseline": {
     "taken_at": "2026-10-28T14:00:17Z",
     "ranks": {
@@ -236,6 +236,17 @@
       }
     },
     {
+      "profile_id": 580573,
+      "tag": "Puerco Black",
+      "clan": "hK",
+      "cur_1v1": 2280,
+      "max_1v1": 2350,
+      "cur_tg": 1840,
+      "max_tg": 1974,
+      "last_1v1": "2026-10-28",
+      "last_tg": "2026-10-19"
+    },
+    {
       "profile_id": 3816609,
       "tag": "iamkaito",
       "clan": "nW",
@@ -245,22 +256,6 @@
       "max_tg": 1852,
       "last_1v1": "2026-10-28",
       "last_tg": "2026-10-28"
-    },
-    {
-      "profile_id": 580573,
-      "tag": "Puerco Black",
-      "clan": "hK",
-      "cur_1v1": 2272,
-      "max_1v1": 2350,
-      "cur_tg": 1840,
-      "max_tg": 1974,
-      "last_1v1": "2026-10-28",
-      "last_tg": "2026-10-19",
-      "live": {
-        "match": 517004952,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 12723994,
