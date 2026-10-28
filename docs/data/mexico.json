@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-28T04:40:10Z",
+  "updated_at": "2026-10-28T04:45:10Z",
   "baseline": {
     "taken_at": "2026-10-27T14:00:17Z",
     "ranks": {
@@ -112,7 +112,13 @@
       "cur_tg": 2140,
       "max_tg": 2151,
       "last_1v1": "2026-10-27",
-      "last_tg": "2026-10-15"
+      "last_tg": "2026-10-15",
+      "live": {
+        "match": 516893416,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "VENÓN | Mauricio"
+      }
     },
     {
       "profile_id": 401359,
@@ -131,10 +137,10 @@
       "clan": "hK",
       "cur_1v1": 2427,
       "max_1v1": 2433,
-      "cur_tg": 2050,
+      "cur_tg": 2062,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-24",
+      "last_tg": "2026-10-28",
       "live": {
         "match": 516890478,
         "game": "Team Random Map",
@@ -145,17 +151,12 @@
       "profile_id": 310739,
       "tag": "SoyLaHostia",
       "clan": "hK",
-      "cur_1v1": 2371,
+      "cur_1v1": 2388,
       "max_1v1": 2484,
       "cur_tg": 1857,
       "max_tg": 1959,
       "last_1v1": "2026-10-28",
-      "last_tg": "2026-10-24",
-      "live": {
-        "match": 516891307,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-24"
     },
     {
       "profile_id": 2295504,
@@ -267,7 +268,13 @@
       "cur_tg": 1874,
       "max_tg": 1922,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-27"
+      "last_1v1": "2026-10-27",
+      "live": {
+        "match": 516893416,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "VENÓN | TIC TAC"
+      }
     },
     {
       "profile_id": 580573,
@@ -286,10 +293,10 @@
       "clan": "hK",
       "cur_1v1": 2237,
       "max_1v1": 2317,
-      "cur_tg": 2050,
+      "cur_tg": 2062,
       "max_tg": 2083,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-10-24",
+      "last_tg": "2026-10-28",
       "live": {
         "match": 516890478,
         "game": "Team Random Map",
