@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-28T04:00:13Z",
+  "updated_at": "2026-10-28T04:05:08Z",
   "baseline": {
     "taken_at": "2026-10-27T14:00:17Z",
     "ranks": {
@@ -145,7 +145,12 @@
       "cur_tg": 1857,
       "max_tg": 1959,
       "last_1v1": "2026-10-28",
-      "last_tg": "2026-10-24"
+      "last_tg": "2026-10-24",
+      "live": {
+        "match": 516888647,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2295504,
@@ -178,13 +183,7 @@
       "cur_tg": 1967,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-10-24",
-      "live": {
-        "match": 516885864,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "FierroFlash"
-      }
+      "last_tg": "2026-10-24"
     },
     {
       "profile_id": 9666666,
@@ -416,6 +415,17 @@
       "last_1v1": "2026-10-24"
     },
     {
+      "profile_id": 2850920,
+      "tag": "Chimtzin",
+      "clan": "Ux",
+      "cur_1v1": 1988,
+      "max_1v1": 2124,
+      "cur_tg": 1633,
+      "max_tg": 1820,
+      "last_1v1": "2026-10-28",
+      "last_tg": "2026-10-21"
+    },
+    {
       "profile_id": 13215279,
       "tag": "GO1_mx",
       "clan": "MZTK",
@@ -450,22 +460,6 @@
         "match": 516888347,
         "game": "Team Random Map",
         "format": "2v2"
-      }
-    },
-    {
-      "profile_id": 2850920,
-      "tag": "Chimtzin",
-      "clan": "Ux",
-      "cur_1v1": 1978,
-      "max_1v1": 2124,
-      "cur_tg": 1633,
-      "max_tg": 1820,
-      "last_1v1": "2026-10-28",
-      "last_tg": "2026-10-21",
-      "live": {
-        "match": 516886085,
-        "game": "1v1 Random Map",
-        "format": "1v1"
       }
     },
     {
