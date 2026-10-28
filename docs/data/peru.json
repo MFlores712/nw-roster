@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-28T06:45:09Z",
+  "updated_at": "2026-10-28T07:10:11Z",
   "baseline": {
     "taken_at": "2026-10-27T14:00:17Z",
     "ranks": {
@@ -102,27 +102,6 @@
       "last_1v1": "2026-10-27"
     },
     {
-      "profile_id": 2366434,
-      "via": {
-        "id": 3265324,
-        "listed_last": "2026-07-01"
-      },
-      "tag": "Lelouch",
-      "clan": "CTM",
-      "cur_1v1": 2039,
-      "max_1v1": 2222,
-      "cur_tg": 1685,
-      "max_tg": 1767,
-      "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-27",
-      "live": {
-        "match": 516903966,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "CTM | Lelouch ELO bajito"
-      }
-    },
-    {
       "profile_id": 6090060,
       "tag": "noru",
       "cur_1v1": 2031,
@@ -152,6 +131,27 @@
       "max_tg": 1703,
       "last_1v1": "2026-10-24",
       "last_tg": "2026-10-25"
+    },
+    {
+      "profile_id": 2366434,
+      "via": {
+        "id": 3265324,
+        "listed_last": "2026-07-01"
+      },
+      "tag": "Lelouch",
+      "clan": "CTM",
+      "cur_1v1": 2015,
+      "max_1v1": 2222,
+      "cur_tg": 1685,
+      "max_tg": 1767,
+      "last_tg": "2026-10-26",
+      "last_1v1": "2026-10-28",
+      "live": {
+        "match": 516906780,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "CTM | Lelouch ELO bajito"
+      }
     },
     {
       "profile_id": 633255,
@@ -207,6 +207,22 @@
       "last_tg": "2026-10-26"
     },
     {
+      "profile_id": 3034651,
+      "tag": "SANGRE AZUL",
+      "clan": "MANCO II",
+      "cur_1v1": 1836,
+      "max_1v1": 2035,
+      "cur_tg": 1526,
+      "max_tg": 1657,
+      "last_1v1": "2026-10-28",
+      "last_tg": "2026-10-26",
+      "live": {
+        "match": 516906726,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 4167535,
       "tag": "Dia franptom",
       "clan": "LE",
@@ -216,22 +232,6 @@
       "max_tg": 1581,
       "last_1v1": "2026-10-26",
       "last_tg": "2026-09-13"
-    },
-    {
-      "profile_id": 3034651,
-      "tag": "SANGRE AZUL",
-      "clan": "MANCO II",
-      "cur_1v1": 1823,
-      "max_1v1": 2035,
-      "cur_tg": 1526,
-      "max_tg": 1657,
-      "last_1v1": "2026-10-27",
-      "last_tg": "2026-10-26",
-      "live": {
-        "match": 516904792,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     }
   ],
   "show_top": 15
