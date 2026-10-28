@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-28T21:20:10Z",
+  "updated_at": "2026-10-28T21:25:09Z",
   "baseline": {
     "taken_at": "2026-10-28T14:00:17Z",
     "ranks": {
@@ -164,22 +164,6 @@
       "last_tg": "2026-10-14"
     },
     {
-      "profile_id": 2598146,
-      "tag": "SiNisTeR",
-      "clan": "VENÓN",
-      "cur_1v1": 2343,
-      "max_1v1": 2368,
-      "cur_tg": 2200,
-      "max_tg": 2227,
-      "last_tg": "2026-10-27",
-      "last_1v1": "2026-10-28",
-      "live": {
-        "match": 517029984,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 312774,
       "tag": "Keno_",
       "clan": "hK",
@@ -189,6 +173,17 @@
       "max_tg": 2072,
       "last_tg": "2026-10-26",
       "last_1v1": "2026-10-24"
+    },
+    {
+      "profile_id": 2598146,
+      "tag": "SiNisTeR",
+      "clan": "VENÓN",
+      "cur_1v1": 2326,
+      "max_1v1": 2368,
+      "cur_tg": 2200,
+      "max_tg": 2227,
+      "last_tg": "2026-10-27",
+      "last_1v1": "2026-10-28"
     },
     {
       "profile_id": 9031952,
@@ -325,16 +320,17 @@
     {
       "profile_id": 5803221,
       "tag": "Mahmoud Ahmadinejad",
-      "cur_1v1": 2144,
+      "cur_1v1": 2149,
       "max_1v1": 2181,
       "cur_tg": 1638,
       "max_tg": 1652,
       "last_tg": "2026-10-15",
       "last_1v1": "2026-10-28",
       "live": {
-        "match": 517034969,
-        "game": "1v1 Random Map",
-        "format": "1v1"
+        "match": 517043459,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "emmanueldltq08"
       }
     },
     {
