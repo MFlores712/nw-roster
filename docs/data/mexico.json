@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-28T05:35:08Z",
+  "updated_at": "2026-10-28T05:40:10Z",
   "baseline": {
     "taken_at": "2026-10-27T14:00:17Z",
     "ranks": {
@@ -136,7 +136,7 @@
       "last_1v1": "2026-10-24",
       "last_tg": "2026-10-28",
       "live": {
-        "match": 516896126,
+        "match": 516899180,
         "game": "Team Random Map",
         "format": "4v4"
       }
@@ -150,7 +150,12 @@
       "cur_tg": 1857,
       "max_tg": 1959,
       "last_1v1": "2026-10-28",
-      "last_tg": "2026-10-24"
+      "last_tg": "2026-10-24",
+      "live": {
+        "match": 516899180,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 2295504,
@@ -172,13 +177,7 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 516896126,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "hK | RanDoM"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 9031952,
@@ -189,13 +188,7 @@
       "cur_tg": 1967,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-10-24",
-      "live": {
-        "match": 516896126,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "FierroFlash"
-      }
+      "last_tg": "2026-10-24"
     },
     {
       "profile_id": 9666666,
@@ -267,7 +260,13 @@
       "cur_tg": 1874,
       "max_tg": 1922,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-27"
+      "last_1v1": "2026-10-27",
+      "live": {
+        "match": 516899180,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "Parcero Erotico"
+      }
     },
     {
       "profile_id": 580573,
@@ -291,7 +290,7 @@
       "last_1v1": "2026-10-25",
       "last_tg": "2026-10-28",
       "live": {
-        "match": 516896126,
+        "match": 516899180,
         "game": "Team Random Map",
         "format": "4v4"
       }
@@ -441,7 +440,7 @@
       "last_1v1": "2026-08-15",
       "last_tg": "2026-10-28",
       "live": {
-        "match": 516896126,
+        "match": 516899180,
         "game": "Team Random Map",
         "format": "4v4"
       }
@@ -477,7 +476,12 @@
       "cur_tg": 1804,
       "max_tg": 1820,
       "last_tg": "2026-10-22",
-      "last_1v1": "2026-10-28"
+      "last_1v1": "2026-10-28",
+      "live": {
+        "match": 516899180,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 2291749,
@@ -574,12 +578,7 @@
       "cur_tg": 1813,
       "max_tg": 1813,
       "last_tg": "2026-10-28",
-      "last_1v1": "2026-10-19",
-      "live": {
-        "match": 516896126,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_1v1": "2026-10-19"
     },
     {
       "profile_id": 278380,
