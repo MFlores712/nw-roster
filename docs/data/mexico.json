@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-28T22:40:12Z",
+  "updated_at": "2026-10-28T22:45:09Z",
   "baseline": {
     "taken_at": "2026-10-28T14:00:17Z",
     "ranks": {
@@ -136,15 +136,10 @@
       "clan": "hK",
       "cur_1v1": 2427,
       "max_1v1": 2433,
-      "cur_tg": 2045,
+      "cur_tg": 2051,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-28",
-      "live": {
-        "match": 517055915,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-28"
     },
     {
       "profile_id": 310739,
@@ -268,15 +263,10 @@
       "clan": "hK",
       "cur_1v1": 2267,
       "max_1v1": 2317,
-      "cur_tg": 2045,
+      "cur_tg": 2051,
       "max_tg": 2083,
       "last_1v1": "2026-10-28",
-      "last_tg": "2026-10-28",
-      "live": {
-        "match": 517055915,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-28"
     },
     {
       "profile_id": 3816609,
@@ -340,13 +330,7 @@
       "cur_tg": 1638,
       "max_tg": 1652,
       "last_tg": "2026-10-15",
-      "last_1v1": "2026-10-28",
-      "live": {
-        "match": 517054112,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "emmanueldltq08"
-      }
+      "last_1v1": "2026-10-28"
     },
     {
       "profile_id": 1947348,
@@ -530,7 +514,12 @@
       "cur_tg": 1655,
       "max_tg": 1824,
       "last_tg": "2026-10-28",
-      "last_1v1": "2026-10-13"
+      "last_1v1": "2026-10-13",
+      "live": {
+        "match": 517059942,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 3285258,
