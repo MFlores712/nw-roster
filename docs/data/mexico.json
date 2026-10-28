@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-28T17:20:09Z",
+  "updated_at": "2026-10-28T17:25:11Z",
   "baseline": {
     "taken_at": "2026-10-28T14:00:17Z",
     "ranks": {
@@ -267,17 +267,12 @@
       "profile_id": 4412109,
       "tag": "HGB",
       "clan": "hK",
-      "cur_1v1": 2237,
+      "cur_1v1": 2249,
       "max_1v1": 2317,
       "cur_tg": 2045,
       "max_tg": 2083,
-      "last_1v1": "2026-10-25",
-      "last_tg": "2026-10-28",
-      "live": {
-        "match": 516987686,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-10-28",
+      "last_tg": "2026-10-28"
     },
     {
       "profile_id": 917863,
@@ -506,15 +501,10 @@
       "clan": "VL",
       "cur_1v1": 1952,
       "max_1v1": 1972,
-      "cur_tg": 1659,
+      "cur_tg": 1645,
       "max_tg": 1824,
-      "last_tg": "2026-10-27",
-      "last_1v1": "2026-10-13",
-      "live": {
-        "match": 516981711,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-10-28",
+      "last_1v1": "2026-10-13"
     },
     {
       "profile_id": 3285258,
@@ -571,22 +561,6 @@
       "last_1v1": "2026-09-18"
     },
     {
-      "profile_id": 358501,
-      "tag": "El Claut_One",
-      "clan": "VENÓN",
-      "cur_1v1": 1920,
-      "max_1v1": 2115,
-      "cur_tg": 1747,
-      "max_tg": 1820,
-      "last_tg": "2026-10-28",
-      "last_1v1": "2026-10-28",
-      "live": {
-        "match": 516990117,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 2876835,
       "tag": "Abejorro",
       "clan": "nW",
@@ -618,6 +592,17 @@
       "max_tg": 1805,
       "last_tg": "2026-10-27",
       "last_1v1": "2026-10-16"
+    },
+    {
+      "profile_id": 358501,
+      "tag": "El Claut_One",
+      "clan": "VENÓN",
+      "cur_1v1": 1903,
+      "max_1v1": 2115,
+      "cur_tg": 1747,
+      "max_tg": 1820,
+      "last_tg": "2026-10-28",
+      "last_1v1": "2026-10-28"
     },
     {
       "profile_id": 3254820,
