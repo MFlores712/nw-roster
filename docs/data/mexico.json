@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-28T04:20:10Z",
+  "updated_at": "2026-10-28T04:25:08Z",
   "baseline": {
     "taken_at": "2026-10-27T14:00:17Z",
     "ranks": {
@@ -151,14 +151,14 @@
       "profile_id": 310739,
       "tag": "SoyLaHostia",
       "clan": "hK",
-      "cur_1v1": 2382,
+      "cur_1v1": 2371,
       "max_1v1": 2484,
       "cur_tg": 1857,
       "max_tg": 1959,
       "last_1v1": "2026-10-28",
       "last_tg": "2026-10-24",
       "live": {
-        "match": 516888647,
+        "match": 516891307,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -183,7 +183,13 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 516891349,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "hK | RanDoM"
+      }
     },
     {
       "profile_id": 9031952,
@@ -422,6 +428,17 @@
       "last_tg": "2026-10-26"
     },
     {
+      "profile_id": 2850920,
+      "tag": "Chimtzin",
+      "clan": "Ux",
+      "cur_1v1": 2003,
+      "max_1v1": 2124,
+      "cur_tg": 1633,
+      "max_tg": 1820,
+      "last_1v1": "2026-10-28",
+      "last_tg": "2026-10-21"
+    },
+    {
       "profile_id": 233625,
       "tag": "MooN",
       "cur_1v1": 2002,
@@ -441,22 +458,6 @@
       "max_tg": 1745,
       "last_tg": "2026-10-09",
       "last_1v1": "2026-10-24"
-    },
-    {
-      "profile_id": 2850920,
-      "tag": "Chimtzin",
-      "clan": "Ux",
-      "cur_1v1": 1988,
-      "max_1v1": 2124,
-      "cur_tg": 1633,
-      "max_tg": 1820,
-      "last_1v1": "2026-10-28",
-      "last_tg": "2026-10-21",
-      "live": {
-        "match": 516889526,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 13215279,
@@ -488,7 +489,12 @@
       "cur_tg": 1659,
       "max_tg": 1688,
       "last_1v1": "2026-10-28",
-      "last_tg": "2026-10-28"
+      "last_tg": "2026-10-28",
+      "live": {
+        "match": 516891147,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2926018,
@@ -575,7 +581,12 @@
       "cur_tg": 1786,
       "max_tg": 1788,
       "last_tg": "2026-10-28",
-      "last_1v1": "2026-10-19"
+      "last_1v1": "2026-10-19",
+      "live": {
+        "match": 516891349,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 278380,
