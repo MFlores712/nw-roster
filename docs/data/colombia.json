@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-29T01:55:08Z",
+  "updated_at": "2026-10-29T02:05:09Z",
   "baseline": {
     "taken_at": "2026-10-28T14:00:17Z",
     "ranks": {
@@ -67,13 +67,7 @@
       "cur_tg": 1840,
       "max_tg": 1947,
       "last_1v1": "2026-10-28",
-      "last_tg": "2026-10-28",
-      "live": {
-        "match": 517092597,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "Retember"
-      }
+      "last_tg": "2026-10-28"
     },
     {
       "profile_id": 1743420,
@@ -131,7 +125,12 @@
       "cur_tg": 1772,
       "max_tg": 1975,
       "last_tg": "2026-10-29",
-      "last_1v1": "2026-10-28"
+      "last_1v1": "2026-10-28",
+      "live": {
+        "match": 517095081,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 2479622,
@@ -180,7 +179,13 @@
       "cur_tg": 1835,
       "max_tg": 1858,
       "last_tg": "2026-10-29",
-      "last_1v1": "2026-10-27"
+      "last_1v1": "2026-10-27",
+      "live": {
+        "match": 517094429,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "orquideas"
+      }
     },
     {
       "profile_id": 12722189,
