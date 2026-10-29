@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-29T04:15:09Z",
+  "updated_at": "2026-10-29T04:20:11Z",
   "baseline": {
     "taken_at": "2026-10-28T14:00:17Z",
     "ranks": {
@@ -416,14 +416,25 @@
       "tag": "MooN",
       "cur_1v1": 2002,
       "max_1v1": 2002,
-      "cur_tg": 1795,
+      "cur_tg": 1770,
       "max_tg": 1885,
       "last_1v1": "2026-08-15",
-      "last_tg": "2026-10-29",
+      "last_tg": "2026-10-29"
+    },
+    {
+      "profile_id": 2850920,
+      "tag": "Chimtzin",
+      "clan": "Ux",
+      "cur_1v1": 1997,
+      "max_1v1": 2124,
+      "cur_tg": 1633,
+      "max_tg": 1820,
+      "last_1v1": "2026-10-29",
+      "last_tg": "2026-10-21",
       "live": {
-        "match": 517112929,
-        "game": "Team Random Map",
-        "format": "3v3"
+        "match": 517115642,
+        "game": "1v1 Random Map",
+        "format": "1v1"
       }
     },
     {
@@ -458,22 +469,6 @@
       "max_tg": 1860,
       "last_1v1": "2026-10-26",
       "last_tg": "2026-10-26"
-    },
-    {
-      "profile_id": 2850920,
-      "tag": "Chimtzin",
-      "clan": "Ux",
-      "cur_1v1": 1987,
-      "max_1v1": 2124,
-      "cur_tg": 1633,
-      "max_tg": 1820,
-      "last_1v1": "2026-10-29",
-      "last_tg": "2026-10-21",
-      "live": {
-        "match": 517111658,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 13241217,
@@ -546,15 +541,10 @@
       "clan": "MZTK",
       "cur_1v1": 1947,
       "max_1v1": 1993,
-      "cur_tg": 1711,
+      "cur_tg": 1722,
       "max_tg": 1858,
       "last_1v1": "2026-10-06",
-      "last_tg": "2026-10-29",
-      "live": {
-        "match": 517112929,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-10-29"
     },
     {
       "profile_id": 467847,
