@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-29T01:35:09Z",
+  "updated_at": "2026-10-29T01:40:09Z",
   "baseline": {
     "taken_at": "2026-10-28T14:00:17Z",
     "ranks": {
@@ -622,12 +622,7 @@
       "cur_tg": 1693,
       "max_tg": 1805,
       "last_tg": "2026-10-29",
-      "last_1v1": "2026-10-16",
-      "live": {
-        "match": 517085752,
-        "game": "Unranked",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-10-16"
     }
   ],
   "show_top": 45,
