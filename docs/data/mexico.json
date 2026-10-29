@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-29T02:05:09Z",
+  "updated_at": "2026-10-29T02:10:11Z",
   "baseline": {
     "taken_at": "2026-10-28T14:00:17Z",
     "ranks": {
@@ -145,17 +145,12 @@
       "profile_id": 310739,
       "tag": "SoyLaHostia",
       "clan": "hK",
-      "cur_1v1": 2375,
+      "cur_1v1": 2367,
       "max_1v1": 2484,
       "cur_tg": 1887,
       "max_tg": 1959,
-      "last_1v1": "2026-10-28",
-      "last_tg": "2026-10-28",
-      "live": {
-        "match": 517092841,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-10-29",
+      "last_tg": "2026-10-28"
     },
     {
       "profile_id": 2295504,
@@ -514,7 +509,12 @@
       "cur_tg": 1715,
       "max_tg": 1824,
       "last_tg": "2026-10-29",
-      "last_1v1": "2026-10-13"
+      "last_1v1": "2026-10-13",
+      "live": {
+        "match": 517095758,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 3285258,
@@ -571,21 +571,6 @@
       "last_tg": "2026-10-25"
     },
     {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1924,
-      "max_1v1": 2003,
-      "cur_tg": 1377,
-      "max_tg": 1417,
-      "last_1v1": "2026-10-29",
-      "last_tg": "2026-10-25",
-      "live": {
-        "match": 517092673,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 278380,
       "tag": "Lemoine",
       "clan": "VL",
@@ -627,12 +612,17 @@
       "cur_tg": 1693,
       "max_tg": 1805,
       "last_tg": "2026-10-29",
-      "last_1v1": "2026-10-16",
-      "live": {
-        "match": 517090768,
-        "game": "Unranked",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-10-16"
+    },
+    {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1905,
+      "max_1v1": 2003,
+      "cur_tg": 1377,
+      "max_tg": 1417,
+      "last_1v1": "2026-10-29",
+      "last_tg": "2026-10-25"
     }
   ],
   "show_top": 45,
