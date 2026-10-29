@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-29T05:55:08Z",
+  "updated_at": "2026-10-29T06:00:15Z",
   "baseline": {
     "taken_at": "2026-10-28T14:00:17Z",
     "ranks": {
@@ -112,7 +112,13 @@
       "cur_tg": 2140,
       "max_tg": 2151,
       "last_1v1": "2026-10-28",
-      "last_tg": "2026-10-15"
+      "last_tg": "2026-10-15",
+      "live": {
+        "match": 517126453,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "VENÓN | Mauricio"
+      }
     },
     {
       "profile_id": 401359,
@@ -200,7 +206,13 @@
       "cur_tg": 1874,
       "max_tg": 1922,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-29"
+      "last_1v1": "2026-10-29",
+      "live": {
+        "match": 517126453,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "Parcero Erotico"
+      }
     },
     {
       "profile_id": 9666666,
@@ -251,14 +263,14 @@
       "profile_id": 4412109,
       "tag": "HGB",
       "clan": "hK",
-      "cur_1v1": 2261,
+      "cur_1v1": 2234,
       "max_1v1": 2317,
       "cur_tg": 2051,
       "max_tg": 2083,
       "last_1v1": "2026-10-29",
       "last_tg": "2026-10-29",
       "live": {
-        "match": 517124189,
+        "match": 517126584,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
