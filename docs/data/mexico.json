@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-29T00:15:09Z",
+  "updated_at": "2026-10-29T00:20:08Z",
   "baseline": {
     "taken_at": "2026-10-28T14:00:17Z",
     "ranks": {
@@ -131,15 +131,10 @@
       "clan": "hK",
       "cur_1v1": 2427,
       "max_1v1": 2433,
-      "cur_tg": 2046,
+      "cur_tg": 2051,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-28",
-      "live": {
-        "match": 517072730,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-29"
     },
     {
       "profile_id": 310739,
@@ -172,13 +167,7 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 517072730,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "hK | RanDoM"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 2598146,
@@ -269,15 +258,10 @@
       "clan": "hK",
       "cur_1v1": 2267,
       "max_1v1": 2317,
-      "cur_tg": 2046,
+      "cur_tg": 2051,
       "max_tg": 2083,
       "last_1v1": "2026-10-28",
-      "last_tg": "2026-10-28",
-      "live": {
-        "match": 517072730,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-29"
     },
     {
       "profile_id": 917863,
@@ -336,12 +320,7 @@
       "cur_tg": 1628,
       "max_tg": 1652,
       "last_tg": "2026-10-29",
-      "last_1v1": "2026-10-28",
-      "live": {
-        "match": 517070237,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_1v1": "2026-10-28"
     },
     {
       "profile_id": 1947348,
@@ -412,11 +391,11 @@
       "profile_id": 9770338,
       "tag": "SynfonY",
       "clan": "CL",
-      "cur_1v1": 2033,
+      "cur_1v1": 2020,
       "max_1v1": 2033,
       "cur_tg": 1787,
       "max_tg": 1962,
-      "last_1v1": "2026-10-28",
+      "last_1v1": "2026-10-29",
       "last_tg": "2026-10-27",
       "live": {
         "match": 517073562,
@@ -429,15 +408,10 @@
       "tag": "MooN",
       "cur_1v1": 2002,
       "max_1v1": 2002,
-      "cur_tg": 1782,
+      "cur_tg": 1795,
       "max_tg": 1885,
       "last_1v1": "2026-08-15",
-      "last_tg": "2026-10-28",
-      "live": {
-        "match": 517072730,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-29"
     },
     {
       "profile_id": 1249720,
