@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-29T05:05:08Z",
+  "updated_at": "2026-10-29T05:10:09Z",
   "baseline": {
     "taken_at": "2026-10-28T14:00:17Z",
     "ranks": {
@@ -250,7 +250,12 @@
       "cur_tg": 2051,
       "max_tg": 2083,
       "last_1v1": "2026-10-29",
-      "last_tg": "2026-10-29"
+      "last_tg": "2026-10-29",
+      "live": {
+        "match": 517121644,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 757886,
@@ -366,6 +371,17 @@
       "last_1v1": "2026-03-21"
     },
     {
+      "profile_id": 2850920,
+      "tag": "Chimtzin",
+      "clan": "Ux",
+      "cur_1v1": 2039,
+      "max_1v1": 2124,
+      "cur_tg": 1633,
+      "max_tg": 1820,
+      "last_1v1": "2026-10-29",
+      "last_tg": "2026-10-21"
+    },
+    {
       "profile_id": 2934597,
       "tag": "Sgt.Pepper",
       "clan": "nW",
@@ -386,22 +402,6 @@
       "max_tg": 1962,
       "last_1v1": "2026-10-29",
       "last_tg": "2026-10-27"
-    },
-    {
-      "profile_id": 2850920,
-      "tag": "Chimtzin",
-      "clan": "Ux",
-      "cur_1v1": 2012,
-      "max_1v1": 2124,
-      "cur_tg": 1633,
-      "max_tg": 1820,
-      "last_1v1": "2026-10-29",
-      "last_tg": "2026-10-21",
-      "live": {
-        "match": 517119358,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 233625,
