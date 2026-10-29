@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-29T01:15:09Z",
+  "updated_at": "2026-10-29T01:20:09Z",
   "baseline": {
     "taken_at": "2026-10-28T14:00:17Z",
     "ranks": {
@@ -226,6 +226,17 @@
       "last_tg": "2026-10-25"
     },
     {
+      "profile_id": 4412109,
+      "tag": "HGB",
+      "clan": "hK",
+      "cur_1v1": 2289,
+      "max_1v1": 2317,
+      "cur_tg": 2051,
+      "max_tg": 2083,
+      "last_1v1": "2026-10-29",
+      "last_tg": "2026-10-29"
+    },
+    {
       "profile_id": 12723994,
       "tag": "PuNii",
       "clan": "VENÓN",
@@ -235,22 +246,6 @@
       "max_tg": 1922,
       "last_tg": "2026-10-26",
       "last_1v1": "2026-10-28"
-    },
-    {
-      "profile_id": 4412109,
-      "tag": "HGB",
-      "clan": "hK",
-      "cur_1v1": 2273,
-      "max_1v1": 2317,
-      "cur_tg": 2051,
-      "max_tg": 2083,
-      "last_1v1": "2026-10-29",
-      "last_tg": "2026-10-29",
-      "live": {
-        "match": 517083744,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 757886,
@@ -504,7 +499,12 @@
       "cur_tg": 1693,
       "max_tg": 1824,
       "last_tg": "2026-10-29",
-      "last_1v1": "2026-10-13"
+      "last_1v1": "2026-10-13",
+      "live": {
+        "match": 517086819,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 3285258,
@@ -526,6 +526,16 @@
       "max_tg": 1755,
       "last_1v1": "2026-09-16",
       "last_tg": "2026-09-16"
+    },
+    {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1937,
+      "max_1v1": 2003,
+      "cur_tg": 1377,
+      "max_tg": 1417,
+      "last_1v1": "2026-10-29",
+      "last_tg": "2026-10-25"
     },
     {
       "profile_id": 4764520,
@@ -561,21 +571,6 @@
       "last_tg": "2026-10-25"
     },
     {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1924,
-      "max_1v1": 2003,
-      "cur_tg": 1377,
-      "max_tg": 1417,
-      "last_1v1": "2026-10-29",
-      "last_tg": "2026-10-25",
-      "live": {
-        "match": 517083800,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 278380,
       "tag": "Lemoine",
       "clan": "VL",
@@ -584,7 +579,12 @@
       "cur_tg": 1737,
       "max_tg": 1865,
       "last_tg": "2026-10-29",
-      "last_1v1": "2026-10-28"
+      "last_1v1": "2026-10-28",
+      "live": {
+        "match": 517086819,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 358501,

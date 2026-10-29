@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-29T01:15:09Z",
+  "updated_at": "2026-10-29T01:20:09Z",
   "baseline": {
     "taken_at": "2026-10-28T14:00:17Z",
     "ranks": {
@@ -89,12 +89,7 @@
       "cur_tg": 1737,
       "max_tg": 1764,
       "last_1v1": "2026-10-23",
-      "last_tg": "2026-10-26",
-      "live": {
-        "match": 517080950,
-        "game": "Unranked",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-26"
     },
     {
       "profile_id": 2955183,
@@ -218,15 +213,10 @@
       "clan": "AiM",
       "cur_1v1": 1787,
       "max_1v1": 1903,
-      "cur_tg": 1495,
+      "cur_tg": 1472,
       "max_tg": 1630,
       "last_1v1": "2026-10-28",
-      "last_tg": "2026-10-28",
-      "live": {
-        "match": 517083134,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-29"
     }
   ],
   "show_top": 15
