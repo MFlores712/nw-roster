@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-29T17:20:11Z",
+  "updated_at": "2026-10-29T17:25:09Z",
   "baseline": {
     "taken_at": "2026-10-29T14:00:15Z",
     "ranks": {
@@ -29,14 +29,14 @@
       "profile_id": 2654577,
       "tag": "Ozone",
       "clan": "Ux",
-      "cur_1v1": 2416,
+      "cur_1v1": 2421,
       "max_1v1": 2636,
       "cur_tg": 1781,
       "max_tg": 2001,
       "last_1v1": "2026-10-29",
       "last_tg": "2026-10-27",
       "live": {
-        "match": 517216106,
+        "match": 517216818,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -136,13 +136,7 @@
       "cur_tg": 1900,
       "max_tg": 1905,
       "last_1v1": "2026-09-21",
-      "last_tg": "2026-10-02",
-      "live": {
-        "match": 517213473,
-        "game": "Team Random Map",
-        "format": "3v3",
-        "account": "[GDL] Capitan Nicky"
-      }
+      "last_tg": "2026-10-02"
     },
     {
       "profile_id": 6431793,
@@ -164,13 +158,7 @@
       "cur_tg": 1823,
       "max_tg": 1893,
       "last_tg": "2026-10-17",
-      "last_1v1": "2026-10-17",
-      "live": {
-        "match": 517213473,
-        "game": "Team Random Map",
-        "format": "3v3",
-        "account": "Chupapimuñeño"
-      }
+      "last_1v1": "2026-10-17"
     },
     {
       "profile_id": 1542191,
