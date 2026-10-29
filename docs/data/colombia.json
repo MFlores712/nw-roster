@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-29T03:45:09Z",
+  "updated_at": "2026-10-29T03:50:09Z",
   "baseline": {
     "taken_at": "2026-10-28T14:00:17Z",
     "ranks": {
@@ -37,22 +37,6 @@
       "last_tg": "2026-10-27"
     },
     {
-      "profile_id": 13267917,
-      "tag": "Manuel",
-      "clan": "nW",
-      "cur_1v1": 2372,
-      "max_1v1": 2410,
-      "cur_tg": 1873,
-      "max_tg": 1933,
-      "last_1v1": "2026-10-29",
-      "last_tg": "2026-10-28",
-      "live": {
-        "match": 517107389,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 6838238,
       "tag": "AngelR",
       "clan": "NuMa",
@@ -62,6 +46,17 @@
       "max_tg": 1828,
       "last_1v1": "2026-10-27",
       "last_tg": "2026-09-05"
+    },
+    {
+      "profile_id": 13267917,
+      "tag": "Manuel",
+      "clan": "nW",
+      "cur_1v1": 2352,
+      "max_1v1": 2410,
+      "cur_tg": 1873,
+      "max_tg": 1933,
+      "last_1v1": "2026-10-29",
+      "last_tg": "2026-10-28"
     },
     {
       "profile_id": 2825261,
@@ -94,7 +89,13 @@
       "cur_tg": 1737,
       "max_tg": 1764,
       "last_1v1": "2026-10-23",
-      "last_tg": "2026-10-26"
+      "last_tg": "2026-10-26",
+      "live": {
+        "match": 517111542,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "VLC | 3L0Ki"
+      }
     },
     {
       "profile_id": 2955183,
@@ -125,7 +126,12 @@
       "cur_tg": 1807,
       "max_tg": 1975,
       "last_tg": "2026-10-29",
-      "last_1v1": "2026-10-28"
+      "last_1v1": "2026-10-28",
+      "live": {
+        "match": 517111409,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 2479622,
@@ -136,13 +142,7 @@
       "cur_tg": 1900,
       "max_tg": 1905,
       "last_1v1": "2026-09-21",
-      "last_tg": "2026-10-02",
-      "live": {
-        "match": 517110325,
-        "game": "Team Random Map",
-        "format": "2v2",
-        "account": "[GDL] Capitan Nicky"
-      }
+      "last_tg": "2026-10-02"
     },
     {
       "profile_id": 6431793,

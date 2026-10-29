@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-29T03:45:09Z",
+  "updated_at": "2026-10-29T03:50:09Z",
   "baseline": {
     "taken_at": "2026-10-28T14:00:17Z",
     "ranks": {
@@ -197,6 +197,17 @@
       "last_tg": "2026-10-24"
     },
     {
+      "profile_id": 12723994,
+      "tag": "PuNii",
+      "clan": "VENÓN",
+      "cur_1v1": 2308,
+      "max_1v1": 2315,
+      "cur_tg": 1874,
+      "max_tg": 1922,
+      "last_tg": "2026-10-26",
+      "last_1v1": "2026-10-29"
+    },
+    {
       "profile_id": 9666666,
       "tag": "Guki",
       "cur_1v1": 2302,
@@ -229,22 +240,6 @@
       "max_tg": 2099,
       "last_1v1": "2026-10-26",
       "last_tg": "2026-10-25"
-    },
-    {
-      "profile_id": 12723994,
-      "tag": "PuNii",
-      "clan": "VENÓN",
-      "cur_1v1": 2288,
-      "max_1v1": 2315,
-      "cur_tg": 1874,
-      "max_tg": 1922,
-      "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-28",
-      "live": {
-        "match": 517107389,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 4412109,
@@ -439,7 +434,12 @@
       "cur_tg": 1633,
       "max_tg": 1820,
       "last_1v1": "2026-10-29",
-      "last_tg": "2026-10-21"
+      "last_tg": "2026-10-21",
+      "live": {
+        "match": 517111658,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 13241217,
@@ -536,12 +536,7 @@
       "cur_tg": 1813,
       "max_tg": 1813,
       "last_tg": "2026-10-28",
-      "last_1v1": "2026-10-19",
-      "live": {
-        "match": 517106839,
-        "game": "Unranked",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-10-19"
     },
     {
       "profile_id": 2969449,
