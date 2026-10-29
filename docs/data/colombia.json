@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-29T16:00:15Z",
+  "updated_at": "2026-10-29T16:15:10Z",
   "baseline": {
     "taken_at": "2026-10-29T14:00:15Z",
     "ranks": {
@@ -155,7 +155,7 @@
       "last_tg": "2026-10-17",
       "last_1v1": "2026-10-17",
       "live": {
-        "match": 517200512,
+        "match": 517203636,
         "game": "1v1 Random Map",
         "format": "1v1",
         "account": "Chupapimuñeño"
