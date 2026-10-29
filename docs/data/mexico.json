@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-29T00:40:09Z",
+  "updated_at": "2026-10-29T00:45:11Z",
   "baseline": {
     "taken_at": "2026-10-28T14:00:17Z",
     "ranks": {
@@ -312,7 +312,7 @@
       "tag": "Mahmoud Ahmadinejad",
       "cur_1v1": 2149,
       "max_1v1": 2181,
-      "cur_tg": 1628,
+      "cur_tg": 1635,
       "max_tg": 1652,
       "last_tg": "2026-10-29",
       "last_1v1": "2026-10-28",
@@ -501,15 +501,10 @@
       "clan": "VL",
       "cur_1v1": 1952,
       "max_1v1": 1972,
-      "cur_tg": 1689,
+      "cur_tg": 1710,
       "max_tg": 1824,
       "last_tg": "2026-10-29",
-      "last_1v1": "2026-10-13",
-      "live": {
-        "match": 517074703,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_1v1": "2026-10-13"
     },
     {
       "profile_id": 3285258,
@@ -560,15 +555,10 @@
       "clan": "VL",
       "cur_1v1": 1923,
       "max_1v1": 1970,
-      "cur_tg": 1735,
+      "cur_tg": 1755,
       "max_tg": 1865,
       "last_tg": "2026-10-29",
-      "last_1v1": "2026-10-28",
-      "live": {
-        "match": 517074703,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_1v1": "2026-10-28"
     },
     {
       "profile_id": 358501,
@@ -617,7 +607,12 @@
       "cur_tg": 1708,
       "max_tg": 1805,
       "last_tg": "2026-10-27",
-      "last_1v1": "2026-10-16"
+      "last_1v1": "2026-10-16",
+      "live": {
+        "match": 517080889,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 3254820,
