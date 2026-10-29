@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-29T04:35:09Z",
+  "updated_at": "2026-10-29T04:40:11Z",
   "baseline": {
     "taken_at": "2026-10-28T14:00:17Z",
     "ranks": {
@@ -112,13 +112,7 @@
       "cur_tg": 2140,
       "max_tg": 2151,
       "last_1v1": "2026-10-28",
-      "last_tg": "2026-10-15",
-      "live": {
-        "match": 517114504,
-        "game": "Team Random Map",
-        "format": "2v2",
-        "account": "VENÓN | Mauricio"
-      }
+      "last_tg": "2026-10-15"
     },
     {
       "profile_id": 401359,
@@ -206,13 +200,7 @@
       "cur_tg": 1874,
       "max_tg": 1922,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-29",
-      "live": {
-        "match": 517114504,
-        "game": "Team Random Map",
-        "format": "2v2",
-        "account": "Parcero Erotico"
-      }
+      "last_1v1": "2026-10-29"
     },
     {
       "profile_id": 9666666,
@@ -279,7 +267,12 @@
       "cur_tg": 1823,
       "max_tg": 1838,
       "last_1v1": "2026-10-29",
-      "last_tg": "2026-10-25"
+      "last_tg": "2026-10-25",
+      "live": {
+        "match": 517118075,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 914665,
@@ -394,15 +387,10 @@
       "tag": "MooN",
       "cur_1v1": 2002,
       "max_1v1": 2002,
-      "cur_tg": 1770,
+      "cur_tg": 1747,
       "max_tg": 1885,
       "last_1v1": "2026-08-15",
-      "last_tg": "2026-10-29",
-      "live": {
-        "match": 517116148,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-29"
     },
     {
       "profile_id": 2850920,
