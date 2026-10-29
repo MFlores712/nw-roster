@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-29T19:55:09Z",
+  "updated_at": "2026-10-29T20:10:10Z",
   "baseline": {
     "taken_at": "2026-10-29T14:00:15Z",
     "ranks": {
@@ -42,6 +42,17 @@
       }
     },
     {
+      "profile_id": 13267917,
+      "tag": "Manuel",
+      "clan": "nW",
+      "cur_1v1": 2358,
+      "max_1v1": 2410,
+      "cur_tg": 1873,
+      "max_tg": 1933,
+      "last_1v1": "2026-10-29",
+      "last_tg": "2026-10-28"
+    },
+    {
       "profile_id": 6838238,
       "tag": "AngelR",
       "clan": "NuMa",
@@ -51,22 +62,6 @@
       "max_tg": 1828,
       "last_1v1": "2026-10-29",
       "last_tg": "2026-09-05"
-    },
-    {
-      "profile_id": 13267917,
-      "tag": "Manuel",
-      "clan": "nW",
-      "cur_1v1": 2352,
-      "max_1v1": 2410,
-      "cur_tg": 1873,
-      "max_tg": 1933,
-      "last_1v1": "2026-10-29",
-      "last_tg": "2026-10-28",
-      "live": {
-        "match": 517247845,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 2825261,
@@ -111,7 +106,7 @@
       "last_1v1": "2026-10-18",
       "last_tg": "2026-10-17",
       "live": {
-        "match": 517248320,
+        "match": 517252596,
         "game": "1v1 Random Map",
         "format": "1v1",
         "account": "Alvaro_Uribest"
