@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-29T18:40:09Z",
+  "updated_at": "2026-10-29T18:45:11Z",
   "baseline": {
     "taken_at": "2026-10-29T14:00:15Z",
     "ranks": {
@@ -321,7 +321,13 @@
       "cur_tg": 1646,
       "max_tg": 1652,
       "last_tg": "2026-10-29",
-      "last_1v1": "2026-10-28"
+      "last_1v1": "2026-10-28",
+      "live": {
+        "match": 517233447,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "emmanueldltq08"
+      }
     },
     {
       "profile_id": 1947348,
@@ -454,6 +460,22 @@
       "last_tg": "2026-10-24"
     },
     {
+      "profile_id": 2926018,
+      "tag": "PerezPodrido",
+      "clan": "SotC",
+      "cur_1v1": 1981,
+      "max_1v1": 2039,
+      "cur_tg": 1672,
+      "max_tg": 1888,
+      "last_1v1": "2026-10-29",
+      "last_tg": "2026-10-27",
+      "live": {
+        "match": 517233860,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 2291749,
       "tag": "Biner",
       "cur_1v1": 1980,
@@ -473,17 +495,6 @@
       "max_tg": 1798,
       "last_1v1": "2026-09-29",
       "last_tg": "2026-10-20"
-    },
-    {
-      "profile_id": 2926018,
-      "tag": "PerezPodrido",
-      "clan": "SotC",
-      "cur_1v1": 1962,
-      "max_1v1": 2039,
-      "cur_tg": 1672,
-      "max_tg": 1888,
-      "last_1v1": "2026-10-29",
-      "last_tg": "2026-10-27"
     },
     {
       "profile_id": 13192381,
