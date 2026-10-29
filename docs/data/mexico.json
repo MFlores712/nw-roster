@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-29T00:10:09Z",
+  "updated_at": "2026-10-29T00:15:09Z",
   "baseline": {
     "taken_at": "2026-10-28T14:00:17Z",
     "ranks": {
@@ -74,17 +74,12 @@
       "profile_id": 2776293,
       "tag": "Kingstone",
       "clan": "Oni",
-      "cur_1v1": 2666,
+      "cur_1v1": 2676,
       "max_1v1": 2867,
       "cur_tg": 2152,
       "max_tg": 2169,
       "last_tg": "2026-10-08",
-      "last_1v1": "2026-10-28",
-      "live": {
-        "match": 517073260,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-10-29"
     },
     {
       "profile_id": 2920057,
@@ -117,13 +112,7 @@
       "cur_tg": 2140,
       "max_tg": 2151,
       "last_1v1": "2026-10-28",
-      "last_tg": "2026-10-15",
-      "live": {
-        "match": 517071065,
-        "game": "Team Random Map",
-        "format": "3v3",
-        "account": "VENÓN | Mauricio"
-      }
+      "last_tg": "2026-10-15"
     },
     {
       "profile_id": 401359,
@@ -200,13 +189,7 @@
       "cur_tg": 2200,
       "max_tg": 2227,
       "last_tg": "2026-10-27",
-      "last_1v1": "2026-10-28",
-      "live": {
-        "match": 517071065,
-        "game": "Team Random Map",
-        "format": "3v3",
-        "account": "VENÓN | SiNisTeR"
-      }
+      "last_1v1": "2026-10-28"
     },
     {
       "profile_id": 9031952,
@@ -338,16 +321,21 @@
       "cur_tg": 1865,
       "max_tg": 1983,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-10-28"
+      "last_tg": "2026-10-28",
+      "live": {
+        "match": 517075960,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 5803221,
       "tag": "Mahmoud Ahmadinejad",
       "cur_1v1": 2149,
       "max_1v1": 2181,
-      "cur_tg": 1638,
+      "cur_tg": 1628,
       "max_tg": 1652,
-      "last_tg": "2026-10-15",
+      "last_tg": "2026-10-29",
       "last_1v1": "2026-10-28",
       "live": {
         "match": 517070237,
