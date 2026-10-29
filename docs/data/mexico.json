@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-29T04:05:08Z",
+  "updated_at": "2026-10-29T04:10:09Z",
   "baseline": {
     "taken_at": "2026-10-28T14:00:17Z",
     "ranks": {
@@ -112,7 +112,13 @@
       "cur_tg": 2140,
       "max_tg": 2151,
       "last_1v1": "2026-10-28",
-      "last_tg": "2026-10-15"
+      "last_tg": "2026-10-15",
+      "live": {
+        "match": 517114504,
+        "game": "Team Random Map",
+        "format": "2v2",
+        "account": "VENÓN | Mauricio"
+      }
     },
     {
       "profile_id": 401359,
@@ -206,7 +212,13 @@
       "cur_tg": 1874,
       "max_tg": 1922,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-29"
+      "last_1v1": "2026-10-29",
+      "live": {
+        "match": 517114504,
+        "game": "Team Random Map",
+        "format": "2v2",
+        "account": "Parcero Erotico"
+      }
     },
     {
       "profile_id": 9666666,
