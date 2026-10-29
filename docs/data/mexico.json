@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-29T05:25:08Z",
+  "updated_at": "2026-10-29T05:35:09Z",
   "baseline": {
     "taken_at": "2026-10-28T14:00:17Z",
     "ranks": {
@@ -249,22 +249,6 @@
       "last_tg": "2026-10-25"
     },
     {
-      "profile_id": 4412109,
-      "tag": "HGB",
-      "clan": "hK",
-      "cur_1v1": 2277,
-      "max_1v1": 2317,
-      "cur_tg": 2051,
-      "max_tg": 2083,
-      "last_1v1": "2026-10-29",
-      "last_tg": "2026-10-29",
-      "live": {
-        "match": 517121644,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 757886,
       "tag": "DarK_KnighT_",
       "clan": "VN",
@@ -276,6 +260,22 @@
       "last_tg": "2026-10-28"
     },
     {
+      "profile_id": 4412109,
+      "tag": "HGB",
+      "clan": "hK",
+      "cur_1v1": 2261,
+      "max_1v1": 2317,
+      "cur_tg": 2051,
+      "max_tg": 2083,
+      "last_1v1": "2026-10-29",
+      "last_tg": "2026-10-29",
+      "live": {
+        "match": 517124189,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 917863,
       "tag": "Romell13",
       "clan": "hK",
@@ -284,12 +284,7 @@
       "cur_tg": 1823,
       "max_tg": 1838,
       "last_1v1": "2026-10-29",
-      "last_tg": "2026-10-25",
-      "live": {
-        "match": 517120676,
-        "game": "Unranked",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-25"
     },
     {
       "profile_id": 914665,
@@ -563,12 +558,7 @@
       "cur_tg": 1809,
       "max_tg": 1813,
       "last_tg": "2026-10-29",
-      "last_1v1": "2026-10-19",
-      "live": {
-        "match": 517120676,
-        "game": "Unranked",
-        "format": "4v4"
-      }
+      "last_1v1": "2026-10-19"
     },
     {
       "profile_id": 2969449,
