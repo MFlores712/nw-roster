@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-29T01:45:11Z",
+  "updated_at": "2026-10-29T01:50:10Z",
   "baseline": {
     "taken_at": "2026-10-28T14:00:17Z",
     "ranks": {
@@ -533,21 +533,6 @@
       "last_tg": "2026-09-16"
     },
     {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1937,
-      "max_1v1": 2003,
-      "cur_tg": 1377,
-      "max_tg": 1417,
-      "last_1v1": "2026-10-29",
-      "last_tg": "2026-10-25",
-      "live": {
-        "match": 517088594,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 4764520,
       "tag": "BooMBastic_",
       "clan": "KH",
@@ -577,6 +562,16 @@
       "max_1v1": 2152,
       "cur_tg": 1802,
       "max_tg": 1802,
+      "last_1v1": "2026-10-29",
+      "last_tg": "2026-10-25"
+    },
+    {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1924,
+      "max_1v1": 2003,
+      "cur_tg": 1377,
+      "max_tg": 1417,
       "last_1v1": "2026-10-29",
       "last_tg": "2026-10-25"
     },
