@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-29T02:40:09Z",
+  "updated_at": "2026-10-29T02:45:08Z",
   "baseline": {
     "taken_at": "2026-10-28T14:00:17Z",
     "ranks": {
@@ -45,7 +45,12 @@
       "cur_tg": 1873,
       "max_tg": 1933,
       "last_1v1": "2026-10-29",
-      "last_tg": "2026-10-28"
+      "last_tg": "2026-10-28",
+      "live": {
+        "match": 517101708,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 6838238,
@@ -123,15 +128,10 @@
       "tag": "Matazombies",
       "cur_1v1": 1936,
       "max_1v1": 1974,
-      "cur_tg": 1772,
+      "cur_tg": 1783,
       "max_tg": 1975,
       "last_tg": "2026-10-29",
-      "last_1v1": "2026-10-28",
-      "live": {
-        "match": 517095081,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_1v1": "2026-10-28"
     },
     {
       "profile_id": 2479622,
@@ -213,15 +213,10 @@
       "clan": "AiM",
       "cur_1v1": 1787,
       "max_1v1": 1903,
-      "cur_tg": 1486,
+      "cur_tg": 1470,
       "max_tg": 1630,
       "last_1v1": "2026-10-28",
-      "last_tg": "2026-10-29",
-      "live": {
-        "match": 517097487,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-29"
     }
   ],
   "show_top": 15
