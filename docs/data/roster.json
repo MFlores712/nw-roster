@@ -1,6 +1,6 @@
 {
   "name": "new Wave",
-  "updated_at": "2026-10-29T04:15:09Z",
+  "updated_at": "2026-10-29T04:25:09Z",
   "baseline": {
     "taken_at": "2026-10-28T14:00:17Z",
     "ranks": {
@@ -28,22 +28,6 @@
       "last_tg": "2026-10-28"
     },
     {
-      "profile_id": 3816609,
-      "tag": "iamkaito",
-      "country": "Mexico",
-      "cur_1v1": 2210,
-      "max_1v1": 2304,
-      "cur_tg": 1812,
-      "max_tg": 1852,
-      "last_1v1": "2026-10-28",
-      "last_tg": "2026-10-28",
-      "live": {
-        "match": 517112220,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 914665,
       "tag": "Caguamas",
       "country": "Mexico",
@@ -52,6 +36,17 @@
       "cur_tg": 1863,
       "max_tg": 2024,
       "last_1v1": "2026-10-25",
+      "last_tg": "2026-10-28"
+    },
+    {
+      "profile_id": 3816609,
+      "tag": "iamkaito",
+      "country": "Mexico",
+      "cur_1v1": 2196,
+      "max_1v1": 2304,
+      "cur_tg": 1812,
+      "max_tg": 1852,
+      "last_1v1": "2026-10-29",
       "last_tg": "2026-10-28"
     },
     {
