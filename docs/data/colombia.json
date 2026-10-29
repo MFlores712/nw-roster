@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-29T01:25:08Z",
+  "updated_at": "2026-10-29T01:30:11Z",
   "baseline": {
     "taken_at": "2026-10-28T14:00:17Z",
     "ranks": {
@@ -67,7 +67,13 @@
       "cur_tg": 1840,
       "max_tg": 1947,
       "last_1v1": "2026-10-28",
-      "last_tg": "2026-10-28"
+      "last_tg": "2026-10-28",
+      "live": {
+        "match": 517088279,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "Retember"
+      }
     },
     {
       "profile_id": 1743420,
@@ -125,7 +131,12 @@
       "cur_tg": 1781,
       "max_tg": 1975,
       "last_tg": "2026-10-29",
-      "last_1v1": "2026-10-28"
+      "last_1v1": "2026-10-28",
+      "live": {
+        "match": 517088279,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 2479622,
@@ -147,7 +158,13 @@
       "cur_tg": 1832,
       "max_tg": 1858,
       "last_tg": "2026-09-28",
-      "last_1v1": "2026-09-27"
+      "last_1v1": "2026-09-27",
+      "live": {
+        "match": 517088279,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "NuMa | Toth"
+      }
     },
     {
       "profile_id": 12930522,
