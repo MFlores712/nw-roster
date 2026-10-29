@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-29T08:05:10Z",
+  "updated_at": "2026-10-29T08:25:08Z",
   "baseline": {
     "taken_at": "2026-10-28T14:00:17Z",
     "ranks": {
@@ -169,15 +169,10 @@
       "clan": "CL",
       "cur_1v1": 1983,
       "max_1v1": 2016,
-      "cur_tg": 1908,
+      "cur_tg": 1921,
       "max_tg": 1992,
       "last_1v1": "2026-10-27",
-      "last_tg": "2026-10-29",
-      "live": {
-        "match": 517135304,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-29"
     },
     {
       "profile_id": 4210400,
@@ -213,6 +208,17 @@
       "last_tg": "2026-09-13"
     },
     {
+      "profile_id": 3034651,
+      "tag": "SANGRE AZUL",
+      "clan": "MANCO II",
+      "cur_1v1": 1846,
+      "max_1v1": 2035,
+      "cur_tg": 1526,
+      "max_tg": 1657,
+      "last_1v1": "2026-10-29",
+      "last_tg": "2026-10-26"
+    },
+    {
       "profile_id": 4234652,
       "tag": "_The_Oldergold",
       "cur_1v1": 1839,
@@ -221,22 +227,6 @@
       "max_tg": 1719,
       "last_1v1": "2026-10-27",
       "last_tg": "2026-10-26"
-    },
-    {
-      "profile_id": 3034651,
-      "tag": "SANGRE AZUL",
-      "clan": "MANCO II",
-      "cur_1v1": 1836,
-      "max_1v1": 2035,
-      "cur_tg": 1526,
-      "max_tg": 1657,
-      "last_1v1": "2026-10-29",
-      "last_tg": "2026-10-26",
-      "live": {
-        "match": 517135473,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     }
   ],
   "show_top": 15
