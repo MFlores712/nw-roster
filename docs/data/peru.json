@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-29T19:15:10Z",
+  "updated_at": "2026-10-29T19:25:09Z",
   "baseline": {
     "taken_at": "2026-10-29T14:00:15Z",
     "ranks": {
@@ -145,7 +145,7 @@
       "profile_id": 4229962,
       "tag": "Réyiman",
       "clan": "LvSP",
-      "cur_1v1": 1997,
+      "cur_1v1": 2011,
       "max_1v1": 2139,
       "cur_tg": 1589,
       "max_tg": 1719,
