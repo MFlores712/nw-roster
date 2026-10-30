@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-30T18:35:10Z",
+  "updated_at": "2026-10-30T18:45:09Z",
   "baseline": {
     "taken_at": "2026-10-30T14:00:15Z",
     "ranks": {
@@ -201,17 +201,12 @@
       "profile_id": 12723994,
       "tag": "PuNii",
       "clan": "VENÓN",
-      "cur_1v1": 2308,
+      "cur_1v1": 2315,
       "max_1v1": 2315,
       "cur_tg": 1874,
       "max_tg": 1922,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-29",
-      "live": {
-        "match": 517464934,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-10-30"
     },
     {
       "profile_id": 1485562,
