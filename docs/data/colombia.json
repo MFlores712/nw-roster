@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-30T01:45:10Z",
+  "updated_at": "2026-10-30T02:10:10Z",
   "baseline": {
     "taken_at": "2026-10-29T14:00:15Z",
     "ranks": {
@@ -64,15 +64,10 @@
       "clan": "VL",
       "cur_1v1": 2161,
       "max_1v1": 2190,
-      "cur_tg": 1840,
+      "cur_tg": 1850,
       "max_tg": 1947,
       "last_1v1": "2026-10-28",
-      "last_tg": "2026-10-28",
-      "live": {
-        "match": 517318878,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-10-30"
     },
     {
       "profile_id": 1743420,
@@ -147,13 +142,7 @@
       "cur_tg": 1832,
       "max_tg": 1858,
       "last_tg": "2026-09-28",
-      "last_1v1": "2026-09-27",
-      "live": {
-        "match": 517316551,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "NuMa | Toth"
-      }
+      "last_1v1": "2026-09-27"
     },
     {
       "profile_id": 1542191,
