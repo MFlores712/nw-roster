@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-30T05:00:13Z",
+  "updated_at": "2026-10-30T05:05:09Z",
   "baseline": {
     "taken_at": "2026-10-29T14:00:15Z",
     "ranks": {
@@ -362,15 +362,10 @@
       "clan": "SotC",
       "cur_1v1": 2048,
       "max_1v1": 2098,
-      "cur_tg": 1706,
+      "cur_tg": 1712,
       "max_tg": 1870,
       "last_1v1": "2026-10-21",
-      "last_tg": "2026-10-30",
-      "live": {
-        "match": 517348761,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-30"
     },
     {
       "profile_id": 1708286,
@@ -501,15 +496,10 @@
       "clan": "SotC",
       "cur_1v1": 1953,
       "max_1v1": 2039,
-      "cur_tg": 1687,
+      "cur_tg": 1694,
       "max_tg": 1888,
       "last_1v1": "2026-10-30",
-      "last_tg": "2026-10-30",
-      "live": {
-        "match": 517348761,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-30"
     },
     {
       "profile_id": 2986966,
@@ -521,22 +511,6 @@
       "max_tg": 1824,
       "last_tg": "2026-10-30",
       "last_1v1": "2026-10-13"
-    },
-    {
-      "profile_id": 3285258,
-      "tag": "Kiss",
-      "clan": "MZTK",
-      "cur_1v1": 1947,
-      "max_1v1": 1993,
-      "cur_tg": 1722,
-      "max_tg": 1858,
-      "last_1v1": "2026-10-06",
-      "last_tg": "2026-10-29",
-      "live": {
-        "match": 517346493,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 467847,
@@ -569,6 +543,22 @@
       "max_tg": 1821,
       "last_tg": "2026-10-16",
       "last_1v1": "2026-09-18"
+    },
+    {
+      "profile_id": 3285258,
+      "tag": "Kiss",
+      "clan": "MZTK",
+      "cur_1v1": 1931,
+      "max_1v1": 1993,
+      "cur_tg": 1722,
+      "max_tg": 1858,
+      "last_1v1": "2026-10-30",
+      "last_tg": "2026-10-29",
+      "live": {
+        "match": 517346493,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 278380,
