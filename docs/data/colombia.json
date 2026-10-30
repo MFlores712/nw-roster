@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-30T23:05:10Z",
+  "updated_at": "2026-10-30T23:09:50Z",
   "baseline": {
     "taken_at": "2026-10-30T14:00:15Z",
     "ranks": {
@@ -160,15 +160,10 @@
       "clan": "VENÓN",
       "cur_1v1": 1866,
       "max_1v1": 1885,
-      "cur_tg": 1816,
+      "cur_tg": 1828,
       "max_tg": 1893,
       "last_tg": "2026-10-30",
-      "last_1v1": "2026-10-30",
-      "live": {
-        "match": 517526873,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_1v1": "2026-10-30"
     },
     {
       "profile_id": 12722189,
@@ -194,17 +189,12 @@
     {
       "profile_id": 2134856,
       "tag": "Jacko",
-      "cur_1v1": 1811,
+      "cur_1v1": 1793,
       "max_1v1": 1867,
       "cur_tg": 1119,
       "max_tg": 1119,
       "last_1v1": "2026-10-30",
-      "last_tg": "2025-03-14",
-      "live": {
-        "match": 517530674,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2025-03-14"
     },
     {
       "profile_id": 5981761,
