@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-30T17:35:09Z",
+  "updated_at": "2026-10-30T17:55:11Z",
   "baseline": {
     "taken_at": "2026-10-30T14:00:15Z",
     "ranks": {
@@ -121,15 +121,10 @@
       "tag": "noru",
       "cur_1v1": 2031,
       "max_1v1": 2031,
-      "cur_tg": 1574,
+      "cur_tg": 1590,
       "max_tg": 1840,
       "last_tg": "2026-10-30",
-      "last_1v1": "2026-09-24",
-      "live": {
-        "match": 517450046,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_1v1": "2026-09-24"
     },
     {
       "profile_id": 13518993,
@@ -220,17 +215,12 @@
       "profile_id": 4167535,
       "tag": "Dia franptom",
       "clan": "LE",
-      "cur_1v1": 1808,
+      "cur_1v1": 1823,
       "max_1v1": 1995,
       "cur_tg": 1452,
       "max_tg": 1581,
       "last_1v1": "2026-10-30",
-      "last_tg": "2026-09-13",
-      "live": {
-        "match": 517453274,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-09-13"
     }
   ],
   "show_top": 15
