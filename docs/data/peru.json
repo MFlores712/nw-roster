@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-30T17:20:11Z",
+  "updated_at": "2026-10-30T17:25:09Z",
   "baseline": {
     "taken_at": "2026-10-30T14:00:15Z",
     "ranks": {
@@ -51,7 +51,7 @@
       "profile_id": 9558892,
       "tag": "WilliamS",
       "clan": "LE",
-      "cur_1v1": 2284,
+      "cur_1v1": 2294,
       "max_1v1": 2446,
       "cur_tg": 1715,
       "max_tg": 1846,
