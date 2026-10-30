@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-30T02:50:11Z",
+  "updated_at": "2026-10-30T02:55:09Z",
   "baseline": {
     "taken_at": "2026-10-29T14:00:15Z",
     "ranks": {
@@ -167,7 +167,13 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 517330918,
+        "game": "Team Random Map",
+        "format": "3v3",
+        "account": "hK | RanDoM"
+      }
     },
     {
       "profile_id": 2598146,
@@ -452,22 +458,6 @@
       "last_tg": "2026-10-28"
     },
     {
-      "profile_id": 2926018,
-      "tag": "PerezPodrido",
-      "clan": "SotC",
-      "cur_1v1": 1971,
-      "max_1v1": 2039,
-      "cur_tg": 1672,
-      "max_tg": 1888,
-      "last_1v1": "2026-10-30",
-      "last_tg": "2026-10-27",
-      "live": {
-        "match": 517325589,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 235877,
       "tag": "AsMelodiant",
       "clan": "VENÓN",
@@ -506,6 +496,17 @@
       }
     },
     {
+      "profile_id": 2926018,
+      "tag": "PerezPodrido",
+      "clan": "SotC",
+      "cur_1v1": 1953,
+      "max_1v1": 2039,
+      "cur_tg": 1672,
+      "max_tg": 1888,
+      "last_1v1": "2026-10-30",
+      "last_tg": "2026-10-27"
+    },
+    {
       "profile_id": 2986966,
       "tag": "JPGP",
       "clan": "VL",
@@ -528,6 +529,17 @@
       "last_tg": "2026-10-29"
     },
     {
+      "profile_id": 2876835,
+      "tag": "Abejorro",
+      "clan": "nW",
+      "cur_1v1": 1944,
+      "max_1v1": 2152,
+      "cur_tg": 1802,
+      "max_tg": 1802,
+      "last_1v1": "2026-10-30",
+      "last_tg": "2026-10-25"
+    },
+    {
       "profile_id": 467847,
       "tag": "DoN.Vergas",
       "cur_1v1": 1940,
@@ -546,7 +558,12 @@
       "cur_tg": 1809,
       "max_tg": 1813,
       "last_tg": "2026-10-29",
-      "last_1v1": "2026-10-19"
+      "last_1v1": "2026-10-19",
+      "live": {
+        "match": 517330918,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 2969449,
@@ -558,22 +575,6 @@
       "max_tg": 1821,
       "last_tg": "2026-10-16",
       "last_1v1": "2026-09-18"
-    },
-    {
-      "profile_id": 2876835,
-      "tag": "Abejorro",
-      "clan": "nW",
-      "cur_1v1": 1926,
-      "max_1v1": 2152,
-      "cur_tg": 1802,
-      "max_tg": 1802,
-      "last_1v1": "2026-10-29",
-      "last_tg": "2026-10-25",
-      "live": {
-        "match": 517325589,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 278380,
@@ -629,7 +630,7 @@
       "last_1v1": "2026-10-30",
       "last_tg": "2026-10-30",
       "live": {
-        "match": 517326413,
+        "match": 517331266,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
