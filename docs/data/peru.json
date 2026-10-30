@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-30T19:25:09Z",
+  "updated_at": "2026-10-30T19:30:13Z",
   "baseline": {
     "taken_at": "2026-10-30T14:00:15Z",
     "ranks": {
@@ -191,15 +191,10 @@
       "clan": "CTM",
       "cur_1v1": 1902,
       "max_1v1": 1902,
-      "cur_tg": 1488,
+      "cur_tg": 1496,
       "max_tg": 1608,
       "last_1v1": "2026-09-19",
-      "last_tg": "2026-10-30",
-      "live": {
-        "match": 517472562,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-10-30"
     },
     {
       "profile_id": 4167535,
@@ -210,7 +205,12 @@
       "cur_tg": 1452,
       "max_tg": 1581,
       "last_1v1": "2026-10-30",
-      "last_tg": "2026-09-13"
+      "last_tg": "2026-09-13",
+      "live": {
+        "match": 517478862,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 3034651,
