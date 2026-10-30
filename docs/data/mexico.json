@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-30T07:30:13Z",
+  "updated_at": "2026-10-30T07:35:08Z",
   "baseline": {
     "taken_at": "2026-10-29T14:00:15Z",
     "ranks": {
@@ -356,15 +356,10 @@
       "clan": "SotC",
       "cur_1v1": 2048,
       "max_1v1": 2098,
-      "cur_tg": 1678,
+      "cur_tg": 1688,
       "max_tg": 1870,
       "last_1v1": "2026-10-21",
-      "last_tg": "2026-10-30",
-      "live": {
-        "match": 517361750,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-30"
     },
     {
       "profile_id": 1708286,
@@ -403,7 +398,7 @@
       "tag": "MooN",
       "cur_1v1": 2002,
       "max_1v1": 2002,
-      "cur_tg": 1730,
+      "cur_tg": 1735,
       "max_tg": 1885,
       "last_1v1": "2026-08-15",
       "last_tg": "2026-10-30",
