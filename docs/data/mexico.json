@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-30T16:30:12Z",
+  "updated_at": "2026-10-30T16:35:10Z",
   "baseline": {
     "taken_at": "2026-10-30T14:00:15Z",
     "ranks": {
@@ -531,7 +531,13 @@
       "cur_tg": 1820,
       "max_tg": 1821,
       "last_tg": "2026-10-16",
-      "last_1v1": "2026-09-18"
+      "last_1v1": "2026-09-18",
+      "live": {
+        "match": 517440469,
+        "game": "Quick Play 1v1 Random Map",
+        "format": "1v1",
+        "account": "James P. Solivan"
+      }
     },
     {
       "profile_id": 278380,
