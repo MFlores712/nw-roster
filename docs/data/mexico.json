@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-30T03:35:08Z",
+  "updated_at": "2026-10-30T03:40:09Z",
   "baseline": {
     "taken_at": "2026-10-29T14:00:15Z",
     "ranks": {
@@ -209,6 +209,17 @@
       "last_1v1": "2026-10-29"
     },
     {
+      "profile_id": 1485562,
+      "tag": "MrOsoVC8",
+      "clan": "VENÓN",
+      "cur_1v1": 2305,
+      "max_1v1": 2394,
+      "cur_tg": 1857,
+      "max_tg": 2099,
+      "last_1v1": "2026-10-30",
+      "last_tg": "2026-10-25"
+    },
+    {
       "profile_id": 9666666,
       "tag": "Guki",
       "cur_1v1": 2302,
@@ -230,22 +241,6 @@
       "max_tg": 1974,
       "last_1v1": "2026-10-28",
       "last_tg": "2026-10-28"
-    },
-    {
-      "profile_id": 1485562,
-      "tag": "MrOsoVC8",
-      "clan": "VENÓN",
-      "cur_1v1": 2297,
-      "max_1v1": 2394,
-      "cur_tg": 1857,
-      "max_tg": 2099,
-      "last_1v1": "2026-10-30",
-      "last_tg": "2026-10-25",
-      "live": {
-        "match": 517335666,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 757886,
@@ -343,7 +338,12 @@
       "cur_tg": 1633,
       "max_tg": 1820,
       "last_1v1": "2026-10-30",
-      "last_tg": "2026-10-21"
+      "last_tg": "2026-10-21",
+      "live": {
+        "match": 517337997,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 400111,
