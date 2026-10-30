@@ -1,6 +1,6 @@
 {
   "name": "new Wave",
-  "updated_at": "2026-10-30T05:25:08Z",
+  "updated_at": "2026-10-30T05:40:09Z",
   "baseline": {
     "taken_at": "2026-10-29T14:00:15Z",
     "ranks": {
@@ -25,7 +25,12 @@
       "cur_tg": 1875,
       "max_tg": 1933,
       "last_1v1": "2026-10-29",
-      "last_tg": "2026-10-30"
+      "last_tg": "2026-10-30",
+      "live": {
+        "match": 517352880,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 3816609,
@@ -36,7 +41,12 @@
       "cur_tg": 1815,
       "max_tg": 1852,
       "last_1v1": "2026-10-29",
-      "last_tg": "2026-10-30"
+      "last_tg": "2026-10-30",
+      "live": {
+        "match": 517352880,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 914665,
@@ -102,7 +112,12 @@
       "cur_tg": 1805,
       "max_tg": 1805,
       "last_1v1": "2026-10-30",
-      "last_tg": "2026-10-30"
+      "last_tg": "2026-10-30",
+      "live": {
+        "match": 517352880,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     }
   ]
 }
