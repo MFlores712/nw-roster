@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-30T20:35:08Z",
+  "updated_at": "2026-10-30T20:40:10Z",
   "baseline": {
     "taken_at": "2026-10-30T14:00:15Z",
     "ranks": {
@@ -189,13 +189,7 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 517488407,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "hK | RanDoM"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 9031952,
@@ -206,13 +200,7 @@
       "cur_tg": 1967,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-10-24",
-      "live": {
-        "match": 517488407,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "FierroFlash"
-      }
+      "last_tg": "2026-10-24"
     },
     {
       "profile_id": 12723994,
@@ -309,15 +297,10 @@
       "clan": "hK",
       "cur_1v1": 2220,
       "max_1v1": 2233,
-      "cur_tg": 1915,
+      "cur_tg": 1899,
       "max_tg": 1983,
       "last_1v1": "2026-10-29",
-      "last_tg": "2026-10-29",
-      "live": {
-        "match": 517488407,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-30"
     },
     {
       "profile_id": 914665,
@@ -625,17 +608,12 @@
     {
       "profile_id": 3254820,
       "tag": "__Chino",
-      "cur_1v1": 1870,
+      "cur_1v1": 1890,
       "max_1v1": 2003,
       "cur_tg": 1366,
       "max_tg": 1417,
       "last_1v1": "2026-10-30",
-      "last_tg": "2026-10-30",
-      "live": {
-        "match": 517492288,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-30"
     }
   ],
   "show_top": 45,
