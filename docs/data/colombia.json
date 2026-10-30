@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-30T18:50:09Z",
+  "updated_at": "2026-10-30T19:05:09Z",
   "baseline": {
     "taken_at": "2026-10-30T14:00:15Z",
     "ranks": {
@@ -29,7 +29,7 @@
       "profile_id": 2654577,
       "tag": "Ozone",
       "clan": "Ux",
-      "cur_1v1": 2453,
+      "cur_1v1": 2468,
       "max_1v1": 2636,
       "cur_tg": 1781,
       "max_tg": 2001,
