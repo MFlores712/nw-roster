@@ -1,6 +1,6 @@
 # Linked accounts
 
-Generated 2026-10-29T14:00:15Z from aoe2companion's linked profiles (followed up to 4 links deep; each account belongs to the closest listed player).
+Generated 2026-10-30T14:00:15Z from aoe2companion's linked profiles (followed up to 4 links deep; each account belongs to the closest listed player).
 Used to show players LIVE when they play on any of their accounts. Ratings are RM 1v1.
 
 ## new Wave
@@ -27,8 +27,8 @@ Used to show players LIVE when they play on any of their accounts. Ratings are R
 | VENÓN Miauricio | xboxyyds8966 (—), [GDL] Chuchito (646), IranX (—), Mau AE1313 (—), DiscipuloDeSoldaditoDePlomo (1771), VENÓN / Mauricio (2456), Papa de Botzanga (—), Mauricioae13 (—), [GDL] Chuchito (—) |
 | VENÓN EnvyZ | S1mulated w (2213), KH / Murdock (2033) |
 | hK SoyLaHostia | Warlock_Ndk (1951) |
-| hK Keno_ | Ideas.Necias (2073), _Siesta (—), Stevenash_ (2429), hK / Siesta (2471), hK / RanDoM (2263) |
-| hK Imfury_ | _Imfury_ (2237), The_Fury (2380) |
+| hK Keno_ | Ideas.Necias (2073), _Siesta (—), Stevenash_ (2429), hK / Siesta (2471), hK / RanDoM (2285) |
+| hK Imfury_ | _Imfury_ (2237), The_Fury (2361) |
 | VENÓN MrOsoVC8 | Combi / Noob (1987), Discipulo de eL / Bicho (2134), FlagPlayer (705), Danyselacome (2140), FanDelPerrubis (1947), babababa (2056) |
 | VENÓN SiNisTeR | VENÓN / SiNisTeR (2409), SiNisTeR (2114), Taquería El Primo (2041), OrangeKato (—), DSLG / Acuna (1516, 2 links away), Pichulita Feli (—, 3 links away), DSLG / NotAcuna (1649, 3 links away), NotAcuna_ (1529, 3 links away) |
 | hK Puerco Black | THE_BLACK_PIG (—), PuercoBlackTG (—), BlukuUktan (—), blukuuktan (—), lechon_negro (—), BlackAbE (—), puerco_white (—), Rook4Ever (1968), mamadejuannn (1793), RandomPlayer (1639), SecretFace (2150), osirismichelle95 (2008) |
@@ -78,14 +78,14 @@ Used to show players LIVE when they play on any of their accounts. Ratings are R
 | Ux Ozone | Marcus Fenix (—), O3 (2123), DS_Negan (—) |
 | Manuel | — |
 | NuMa AngelR | monroyjohan29 (—), [NuMa] MancoFarfan (1340), Xever Clan de Hpts (1427), NuMa / AngelR2 (2368), NuMa / Empire (1705, 2 links away), VoyMeta (1580, 3 links away) |
-| VL Tou | Retember (1957), Seteada Remix (1503, 2 links away) |
-| JOLIAT | Alvaro_Uribest (1967), Man_at_Laptop (2049) |
+| VL Tou | Retember (1948), Seteada Remix (1503, 2 links away) |
+| JOLIAT | Alvaro_Uribest (1940), Man_at_Laptop (2049) |
 | NuMa OliverAtom | Voywall (1859) |
 | FMG KauTrEnS | DkT / HuecoYoruga (1710), KaUTreNS (1812) |
 | VLC DeaH | VLC / 3L0Ki (1795), RamZú (1704) |
 | VENÓN Nicky | [GDL] Capitan Nicky (1824) |
 | Matazombies | — |
-| VENÓN Kevin | Chupapimuñeño (1854), GDL Kevin (387, 2 links away) |
+| VENÓN Kevin | Chupapimuñeño (1885), GDL Kevin (387, 2 links away) |
 | NuMa Toth | NuMa / Toth (2001), SH / Toth (1801, 2 links away), Magio / Paradox (2037, 2 links away), CD JJ / Heda (1773, 2 links away) |
 | CLB PEGASO | Ares (1783) |
 | AiM Alexander the conqueror | alexnub (1405) |
