@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-30T06:05:08Z",
+  "updated_at": "2026-10-30T06:10:09Z",
   "baseline": {
     "taken_at": "2026-10-29T14:00:15Z",
     "ranks": {
@@ -192,22 +192,6 @@
       "last_tg": "2026-10-24"
     },
     {
-      "profile_id": 1485562,
-      "tag": "MrOsoVC8",
-      "clan": "VENÓN",
-      "cur_1v1": 2309,
-      "max_1v1": 2394,
-      "cur_tg": 1857,
-      "max_tg": 2099,
-      "last_1v1": "2026-10-30",
-      "last_tg": "2026-10-25",
-      "live": {
-        "match": 517353333,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 12723994,
       "tag": "PuNii",
       "clan": "VENÓN",
@@ -217,6 +201,17 @@
       "max_tg": 1922,
       "last_tg": "2026-10-26",
       "last_1v1": "2026-10-29"
+    },
+    {
+      "profile_id": 1485562,
+      "tag": "MrOsoVC8",
+      "clan": "VENÓN",
+      "cur_1v1": 2303,
+      "max_1v1": 2394,
+      "cur_tg": 1857,
+      "max_tg": 2099,
+      "last_1v1": "2026-10-30",
+      "last_tg": "2026-10-25"
     },
     {
       "profile_id": 9666666,
@@ -337,17 +332,12 @@
       "profile_id": 2850920,
       "tag": "Chimtzin",
       "clan": "Ux",
-      "cur_1v1": 2075,
+      "cur_1v1": 2055,
       "max_1v1": 2124,
       "cur_tg": 1633,
       "max_tg": 1820,
       "last_1v1": "2026-10-30",
-      "last_tg": "2026-10-21",
-      "live": {
-        "match": 517352792,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-21"
     },
     {
       "profile_id": 400111,
@@ -369,7 +359,12 @@
       "cur_tg": 1690,
       "max_tg": 1870,
       "last_1v1": "2026-10-21",
-      "last_tg": "2026-10-30"
+      "last_tg": "2026-10-30",
+      "live": {
+        "match": 517355867,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 1708286,
@@ -595,12 +590,7 @@
       "cur_tg": 1747,
       "max_tg": 1820,
       "last_tg": "2026-10-28",
-      "last_1v1": "2026-10-28",
-      "live": {
-        "match": 517351700,
-        "game": "Unranked",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-10-28"
     },
     {
       "profile_id": 324005,
