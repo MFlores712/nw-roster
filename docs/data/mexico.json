@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-30T23:09:50Z",
+  "updated_at": "2026-10-30T23:15:09Z",
   "baseline": {
     "taken_at": "2026-10-30T14:00:15Z",
     "ranks": {
@@ -150,17 +150,12 @@
       "profile_id": 2598146,
       "tag": "SiNisTeR",
       "clan": "VENÓN",
-      "cur_1v1": 2383,
-      "max_1v1": 2383,
+      "cur_1v1": 2388,
+      "max_1v1": 2388,
       "cur_tg": 2200,
       "max_tg": 2227,
       "last_tg": "2026-10-27",
-      "last_1v1": "2026-10-30",
-      "live": {
-        "match": 517527964,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-10-30"
     },
     {
       "profile_id": 310739,
@@ -218,10 +213,15 @@
       "clan": "VENÓN",
       "cur_1v1": 2315,
       "max_1v1": 2315,
-      "cur_tg": 1867,
+      "cur_tg": 1843,
       "max_tg": 1922,
       "last_tg": "2026-10-30",
-      "last_1v1": "2026-10-30"
+      "last_1v1": "2026-10-30",
+      "live": {
+        "match": 517533377,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 1485562,
