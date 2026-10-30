@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-30T04:55:09Z",
+  "updated_at": "2026-10-30T05:00:13Z",
   "baseline": {
     "taken_at": "2026-10-29T14:00:15Z",
     "ranks": {
@@ -365,7 +365,12 @@
       "cur_tg": 1706,
       "max_tg": 1870,
       "last_1v1": "2026-10-21",
-      "last_tg": "2026-10-30"
+      "last_tg": "2026-10-30",
+      "live": {
+        "match": 517348761,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 1708286,
@@ -499,7 +504,12 @@
       "cur_tg": 1687,
       "max_tg": 1888,
       "last_1v1": "2026-10-30",
-      "last_tg": "2026-10-30"
+      "last_tg": "2026-10-30",
+      "live": {
+        "match": 517348761,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 2986966,
@@ -539,22 +549,6 @@
       "last_tg": "2026-09-16"
     },
     {
-      "profile_id": 2876835,
-      "tag": "Abejorro",
-      "clan": "nW",
-      "cur_1v1": 1934,
-      "max_1v1": 2152,
-      "cur_tg": 1802,
-      "max_tg": 1802,
-      "last_1v1": "2026-10-30",
-      "last_tg": "2026-10-25",
-      "live": {
-        "match": 517345540,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 4764520,
       "tag": "BooMBastic_",
       "clan": "KH",
@@ -586,6 +580,17 @@
       "max_tg": 1865,
       "last_tg": "2026-10-30",
       "last_1v1": "2026-10-28"
+    },
+    {
+      "profile_id": 2876835,
+      "tag": "Abejorro",
+      "clan": "nW",
+      "cur_1v1": 1921,
+      "max_1v1": 2152,
+      "cur_tg": 1802,
+      "max_tg": 1802,
+      "last_1v1": "2026-10-30",
+      "last_tg": "2026-10-25"
     },
     {
       "profile_id": 358501,
