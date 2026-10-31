@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-31T05:50:09Z",
+  "updated_at": "2026-10-31T05:55:08Z",
   "baseline": {
     "taken_at": "2026-10-30T14:00:15Z",
     "ranks": {
@@ -409,7 +409,7 @@
       "tag": "MooN",
       "cur_1v1": 2002,
       "max_1v1": 2002,
-      "cur_tg": 1737,
+      "cur_tg": 1745,
       "max_tg": 1885,
       "last_1v1": "2026-08-15",
       "last_tg": "2026-10-31"
@@ -469,6 +469,22 @@
       "last_tg": "2026-10-30"
     },
     {
+      "profile_id": 2876835,
+      "tag": "Abejorro",
+      "clan": "nW",
+      "cur_1v1": 1963,
+      "max_1v1": 2152,
+      "cur_tg": 1829,
+      "max_tg": 1829,
+      "last_1v1": "2026-10-31",
+      "last_tg": "2026-10-30",
+      "live": {
+        "match": 517607079,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 235877,
       "tag": "AsMelodiant",
       "clan": "VENÓN",
@@ -500,22 +516,6 @@
       "max_tg": 1824,
       "last_tg": "2026-10-31",
       "last_1v1": "2026-10-13"
-    },
-    {
-      "profile_id": 2876835,
-      "tag": "Abejorro",
-      "clan": "nW",
-      "cur_1v1": 1945,
-      "max_1v1": 2152,
-      "cur_tg": 1829,
-      "max_tg": 1829,
-      "last_1v1": "2026-10-31",
-      "last_tg": "2026-10-30",
-      "live": {
-        "match": 517605900,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 467847,
