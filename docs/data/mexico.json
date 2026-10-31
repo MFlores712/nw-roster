@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-31T06:05:09Z",
+  "updated_at": "2026-10-31T06:20:10Z",
   "baseline": {
     "taken_at": "2026-10-30T14:00:15Z",
     "ranks": {
@@ -442,6 +442,17 @@
       "last_tg": "2026-10-26"
     },
     {
+      "profile_id": 2876835,
+      "tag": "Abejorro",
+      "clan": "nW",
+      "cur_1v1": 1981,
+      "max_1v1": 2152,
+      "cur_tg": 1829,
+      "max_tg": 1829,
+      "last_1v1": "2026-10-31",
+      "last_tg": "2026-10-30"
+    },
+    {
       "profile_id": 2291749,
       "tag": "Biner",
       "cur_1v1": 1980,
@@ -461,22 +472,6 @@
       "max_tg": 1688,
       "last_1v1": "2026-10-31",
       "last_tg": "2026-10-30"
-    },
-    {
-      "profile_id": 2876835,
-      "tag": "Abejorro",
-      "clan": "nW",
-      "cur_1v1": 1963,
-      "max_1v1": 2152,
-      "cur_tg": 1829,
-      "max_tg": 1829,
-      "last_1v1": "2026-10-31",
-      "last_tg": "2026-10-30",
-      "live": {
-        "match": 517607079,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 235877,
