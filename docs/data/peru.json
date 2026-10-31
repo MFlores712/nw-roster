@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-31T12:45:10Z",
+  "updated_at": "2026-10-31T13:00:14Z",
   "baseline": {
     "taken_at": "2026-10-30T14:00:15Z",
     "ranks": {
@@ -122,21 +122,6 @@
       "last_tg": "2026-10-25"
     },
     {
-      "profile_id": 13518993,
-      "tag": "Miguel T",
-      "cur_1v1": 2003,
-      "max_1v1": 2034,
-      "cur_tg": 1648,
-      "max_tg": 1703,
-      "last_1v1": "2026-10-31",
-      "last_tg": "2026-10-25",
-      "live": {
-        "match": 517662612,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 12167914,
       "tag": "lorecs",
       "clan": "CL",
@@ -146,6 +131,16 @@
       "max_tg": 1992,
       "last_1v1": "2026-10-31",
       "last_tg": "2026-10-31"
+    },
+    {
+      "profile_id": 13518993,
+      "tag": "Miguel T",
+      "cur_1v1": 1989,
+      "max_1v1": 2034,
+      "cur_tg": 1648,
+      "max_tg": 1703,
+      "last_1v1": "2026-10-31",
+      "last_tg": "2026-10-25"
     },
     {
       "profile_id": 2366434,
