@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-31T22:00:13Z",
+  "updated_at": "2026-10-31T22:05:09Z",
   "baseline": {
     "taken_at": "2026-10-31T14:00:13Z",
     "ranks": {
@@ -144,15 +144,10 @@
       "clan": "NuMa",
       "cur_1v1": 1896,
       "max_1v1": 1951,
-      "cur_tg": 1853,
+      "cur_tg": 1839,
       "max_tg": 1858,
       "last_tg": "2026-10-31",
-      "last_1v1": "2026-09-27",
-      "live": {
-        "match": 517793210,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_1v1": "2026-09-27"
     },
     {
       "profile_id": 12930522,
