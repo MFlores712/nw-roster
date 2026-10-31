@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-31T02:40:09Z",
+  "updated_at": "2026-10-31T02:50:09Z",
   "baseline": {
     "taken_at": "2026-10-30T14:00:15Z",
     "ranks": {
@@ -397,12 +397,7 @@
       "cur_tg": 1731,
       "max_tg": 1747,
       "last_1v1": "2026-10-29",
-      "last_tg": "2026-10-27",
-      "live": {
-        "match": 517572425,
-        "game": "Unranked",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-27"
     },
     {
       "profile_id": 9770338,
@@ -480,22 +475,6 @@
       "last_tg": "2026-10-20"
     },
     {
-      "profile_id": 13241217,
-      "tag": "BlueUltra",
-      "clan": "Ux",
-      "cur_1v1": 1962,
-      "max_1v1": 1997,
-      "cur_tg": 1594,
-      "max_tg": 1688,
-      "last_1v1": "2026-10-29",
-      "last_tg": "2026-10-30",
-      "live": {
-        "match": 517572192,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 13192381,
       "tag": "albafica",
       "clan": "VL",
@@ -509,6 +488,22 @@
         "match": 517573045,
         "game": "Team Random Map",
         "format": "4v4"
+      }
+    },
+    {
+      "profile_id": 13241217,
+      "tag": "BlueUltra",
+      "clan": "Ux",
+      "cur_1v1": 1954,
+      "max_1v1": 1997,
+      "cur_tg": 1594,
+      "max_tg": 1688,
+      "last_1v1": "2026-10-31",
+      "last_tg": "2026-10-30",
+      "live": {
+        "match": 517575600,
+        "game": "1v1 Random Map",
+        "format": "1v1"
       }
     },
     {
