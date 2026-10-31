@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-31T21:40:11Z",
+  "updated_at": "2026-10-31T21:45:10Z",
   "baseline": {
     "taken_at": "2026-10-31T14:00:13Z",
     "ranks": {
@@ -178,13 +178,7 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 517784438,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "hK | RanDoM"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 12723994,
@@ -192,15 +186,10 @@
       "clan": "VENÓN",
       "cur_1v1": 2337,
       "max_1v1": 2337,
-      "cur_tg": 1896,
+      "cur_tg": 1878,
       "max_tg": 1922,
       "last_tg": "2026-10-31",
-      "last_1v1": "2026-10-31",
-      "live": {
-        "match": 517792324,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_1v1": "2026-10-31"
     },
     {
       "profile_id": 1485562,
@@ -361,15 +350,10 @@
       "clan": "SotC",
       "cur_1v1": 2054,
       "max_1v1": 2098,
-      "cur_tg": 1677,
+      "cur_tg": 1681,
       "max_tg": 1870,
       "last_1v1": "2026-10-31",
-      "last_tg": "2026-10-31",
-      "live": {
-        "match": 517790587,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-31"
     },
     {
       "profile_id": 2850920,
@@ -419,9 +403,9 @@
       "last_1v1": "2026-10-29",
       "last_tg": "2026-10-30",
       "live": {
-        "match": 517792324,
+        "match": 517793210,
         "game": "Team Random Map",
-        "format": "4v4",
+        "format": "3v3",
         "account": "Stalingrado"
       }
     },
@@ -581,9 +565,9 @@
       "last_tg": "2026-10-16",
       "last_1v1": "2026-09-18",
       "live": {
-        "match": 517786183,
-        "game": "Quick Play 1v1 Random Map",
-        "format": "1v1",
+        "match": 517793173,
+        "game": "Quick Play Team Random Map",
+        "format": "4v4",
         "account": "James P. Solivan"
       }
     },
