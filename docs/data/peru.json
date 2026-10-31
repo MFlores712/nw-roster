@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-31T21:20:09Z",
+  "updated_at": "2026-10-31T21:40:11Z",
   "baseline": {
     "taken_at": "2026-10-31T14:00:13Z",
     "ranks": {
@@ -127,14 +127,14 @@
       "clan": "CL",
       "cur_1v1": 1998,
       "max_1v1": 2016,
-      "cur_tg": 1963,
+      "cur_tg": 1971,
       "max_tg": 1992,
       "last_1v1": "2026-10-31",
       "last_tg": "2026-10-31",
       "live": {
-        "match": 517787046,
+        "match": 517792324,
         "game": "Team Random Map",
-        "format": "2v2"
+        "format": "4v4"
       }
     },
     {
@@ -146,27 +146,6 @@
       "max_tg": 1703,
       "last_1v1": "2026-10-31",
       "last_tg": "2026-10-25"
-    },
-    {
-      "profile_id": 2366434,
-      "via": {
-        "id": 3265324,
-        "listed_last": "2026-07-01"
-      },
-      "tag": "Lelouch",
-      "clan": "CTM",
-      "cur_1v1": 1932,
-      "max_1v1": 2222,
-      "cur_tg": 1790,
-      "max_tg": 1790,
-      "last_tg": "2026-10-30",
-      "last_1v1": "2026-10-31",
-      "live": {
-        "match": 517785255,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "CTM | Lelouch ELO bajito"
-      }
     },
     {
       "profile_id": 4210400,
@@ -191,6 +170,27 @@
       "last_tg": "2026-10-30"
     },
     {
+      "profile_id": 2366434,
+      "via": {
+        "id": 3265324,
+        "listed_last": "2026-07-01"
+      },
+      "tag": "Lelouch",
+      "clan": "CTM",
+      "cur_1v1": 1920,
+      "max_1v1": 2222,
+      "cur_tg": 1790,
+      "max_tg": 1790,
+      "last_tg": "2026-10-30",
+      "last_1v1": "2026-10-31",
+      "live": {
+        "match": 517792375,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "CTM | Lelouch ELO bajito"
+      }
+    },
+    {
       "profile_id": 1865687,
       "tag": "Pentrus",
       "clan": "CTM",
@@ -205,14 +205,14 @@
       "profile_id": 3034651,
       "tag": "SANGRE AZUL",
       "clan": "MANCO II",
-      "cur_1v1": 1875,
+      "cur_1v1": 1890,
       "max_1v1": 2035,
       "cur_tg": 1526,
       "max_tg": 1657,
       "last_1v1": "2026-10-31",
       "last_tg": "2026-10-26",
       "live": {
-        "match": 517787635,
+        "match": 517792061,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
