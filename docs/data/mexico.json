@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-31T00:10:10Z",
+  "updated_at": "2026-10-31T00:20:10Z",
   "baseline": {
     "taken_at": "2026-10-30T14:00:15Z",
     "ranks": {
@@ -120,15 +120,10 @@
       "clan": "VENÓN",
       "cur_1v1": 2468,
       "max_1v1": 2512,
-      "cur_tg": 2085,
+      "cur_tg": 2095,
       "max_tg": 2190,
       "last_1v1": "2026-10-30",
-      "last_tg": "2026-10-28",
-      "live": {
-        "match": 517541495,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-31"
     },
     {
       "profile_id": 4221810,
@@ -136,15 +131,10 @@
       "clan": "hK",
       "cur_1v1": 2427,
       "max_1v1": 2433,
-      "cur_tg": 2062,
+      "cur_tg": 2041,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-30",
-      "live": {
-        "match": 517541495,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-31"
     },
     {
       "profile_id": 2598146,
@@ -205,7 +195,13 @@
       "cur_tg": 1967,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-10-24"
+      "last_tg": "2026-10-24",
+      "live": {
+        "match": 517545633,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "FierroFlash"
+      }
     },
     {
       "profile_id": 12723994,
@@ -213,15 +209,10 @@
       "clan": "VENÓN",
       "cur_1v1": 2315,
       "max_1v1": 2315,
-      "cur_tg": 1852,
+      "cur_tg": 1871,
       "max_tg": 1922,
-      "last_tg": "2026-10-30",
-      "last_1v1": "2026-10-30",
-      "live": {
-        "match": 517541495,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-31",
+      "last_1v1": "2026-10-30"
     },
     {
       "profile_id": 1485562,
@@ -268,15 +259,10 @@
       "clan": "hK",
       "cur_1v1": 2295,
       "max_1v1": 2317,
-      "cur_tg": 2062,
+      "cur_tg": 2041,
       "max_tg": 2083,
       "last_1v1": "2026-10-30",
-      "last_tg": "2026-10-30",
-      "live": {
-        "match": 517541495,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-31"
     },
     {
       "profile_id": 757886,
@@ -424,15 +410,10 @@
       "tag": "MooN",
       "cur_1v1": 2002,
       "max_1v1": 2002,
-      "cur_tg": 1743,
+      "cur_tg": 1735,
       "max_tg": 1885,
       "last_1v1": "2026-08-15",
-      "last_tg": "2026-10-30",
-      "live": {
-        "match": 517541495,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-31"
     },
     {
       "profile_id": 1249720,
@@ -551,7 +532,13 @@
       "cur_tg": 1774,
       "max_tg": 1813,
       "last_tg": "2026-10-30",
-      "last_1v1": "2026-10-19"
+      "last_1v1": "2026-10-19",
+      "live": {
+        "match": 517545633,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "hK | Charles Martel"
+      }
     },
     {
       "profile_id": 2969449,
