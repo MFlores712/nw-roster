@@ -1,6 +1,6 @@
 {
   "name": "new Wave",
-  "updated_at": "2026-10-31T03:40:11Z",
+  "updated_at": "2026-10-31T03:50:10Z",
   "baseline": {
     "taken_at": "2026-10-30T14:00:15Z",
     "ranks": {
@@ -69,7 +69,7 @@
       "profile_id": 1359694,
       "tag": "AtilA",
       "country": "Peru",
-      "cur_1v1": 2059,
+      "cur_1v1": 2044,
       "max_1v1": 2123,
       "cur_tg": 1637,
       "max_tg": 1670,
