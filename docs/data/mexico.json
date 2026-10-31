@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-31T16:50:10Z",
+  "updated_at": "2026-10-31T16:55:09Z",
   "baseline": {
     "taken_at": "2026-10-31T14:00:13Z",
     "ranks": {
@@ -118,17 +118,12 @@
       "profile_id": 401359,
       "tag": "EnvyZ",
       "clan": "VENÓN",
-      "cur_1v1": 2468,
+      "cur_1v1": 2482,
       "max_1v1": 2512,
       "cur_tg": 2110,
       "max_tg": 2190,
-      "last_1v1": "2026-10-30",
-      "last_tg": "2026-10-31",
-      "live": {
-        "match": 517716695,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-10-31",
+      "last_tg": "2026-10-31"
     },
     {
       "profile_id": 4221810,
@@ -305,7 +300,12 @@
       "cur_tg": 1863,
       "max_tg": 2024,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-10-28"
+      "last_tg": "2026-10-28",
+      "live": {
+        "match": 517721282,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 5803221,
@@ -552,7 +552,13 @@
       "cur_tg": 1820,
       "max_tg": 1821,
       "last_tg": "2026-10-16",
-      "last_1v1": "2026-09-18"
+      "last_1v1": "2026-09-18",
+      "live": {
+        "match": 517720984,
+        "game": "Quick Play 1v1 Random Map",
+        "format": "1v1",
+        "account": "James P. Solivan"
+      }
     },
     {
       "profile_id": 278380,
