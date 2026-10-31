@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-31T02:35:09Z",
+  "updated_at": "2026-10-31T02:40:09Z",
   "baseline": {
     "taken_at": "2026-10-30T14:00:15Z",
     "ranks": {
@@ -112,7 +112,13 @@
       "cur_tg": 2140,
       "max_tg": 2151,
       "last_1v1": "2026-10-29",
-      "last_tg": "2026-10-15"
+      "last_tg": "2026-10-15",
+      "live": {
+        "match": 517573477,
+        "game": "Team Random Map",
+        "format": "3v3",
+        "account": "VENÓN | Mauricio"
+      }
     },
     {
       "profile_id": 401359,
@@ -134,7 +140,12 @@
       "cur_tg": 2008,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-31"
+      "last_tg": "2026-10-31",
+      "live": {
+        "match": 517573477,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 2598146,
@@ -178,7 +189,13 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 517573477,
+        "game": "Team Random Map",
+        "format": "3v3",
+        "account": "hK | RanDoM"
+      }
     },
     {
       "profile_id": 1485562,
@@ -245,7 +262,12 @@
       "cur_tg": 2008,
       "max_tg": 2083,
       "last_1v1": "2026-10-30",
-      "last_tg": "2026-10-31"
+      "last_tg": "2026-10-31",
+      "live": {
+        "match": 517573477,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 757886,
@@ -482,7 +504,12 @@
       "cur_tg": 1770,
       "max_tg": 1824,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-10-31"
+      "last_tg": "2026-10-31",
+      "live": {
+        "match": 517573045,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 2986966,
@@ -493,7 +520,12 @@
       "cur_tg": 1679,
       "max_tg": 1824,
       "last_tg": "2026-10-31",
-      "last_1v1": "2026-10-13"
+      "last_1v1": "2026-10-13",
+      "live": {
+        "match": 517573045,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 467847,
