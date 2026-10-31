@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-31T20:50:10Z",
+  "updated_at": "2026-10-31T20:55:08Z",
   "baseline": {
     "taken_at": "2026-10-31T14:00:13Z",
     "ranks": {
@@ -181,22 +181,6 @@
       "last_1v1": "2026-10-24"
     },
     {
-      "profile_id": 1485562,
-      "tag": "MrOsoVC8",
-      "clan": "VENÓN",
-      "cur_1v1": 2341,
-      "max_1v1": 2394,
-      "cur_tg": 1857,
-      "max_tg": 2099,
-      "last_1v1": "2026-10-31",
-      "last_tg": "2026-10-25",
-      "live": {
-        "match": 517767642,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 12723994,
       "tag": "PuNii",
       "clan": "VENÓN",
@@ -206,6 +190,22 @@
       "max_tg": 1922,
       "last_tg": "2026-10-31",
       "last_1v1": "2026-10-31"
+    },
+    {
+      "profile_id": 1485562,
+      "tag": "MrOsoVC8",
+      "clan": "VENÓN",
+      "cur_1v1": 2323,
+      "max_1v1": 2394,
+      "cur_tg": 1857,
+      "max_tg": 2099,
+      "last_1v1": "2026-10-31",
+      "last_tg": "2026-10-25",
+      "live": {
+        "match": 517781415,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 9031952,
@@ -489,15 +489,10 @@
       "clan": "Ux",
       "cur_1v1": 1962,
       "max_1v1": 1997,
-      "cur_tg": 1622,
+      "cur_tg": 1633,
       "max_tg": 1688,
       "last_1v1": "2026-10-31",
-      "last_tg": "2026-10-31",
-      "live": {
-        "match": 517774987,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-10-31"
     },
     {
       "profile_id": 13192381,
