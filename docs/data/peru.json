@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-31T12:25:10Z",
+  "updated_at": "2026-10-31T12:35:09Z",
   "baseline": {
     "taken_at": "2026-10-30T14:00:15Z",
     "ranks": {
@@ -94,17 +94,12 @@
       "profile_id": 1359694,
       "tag": "AtilA",
       "clan": "nW",
-      "cur_1v1": 2044,
+      "cur_1v1": 2043,
       "max_1v1": 2123,
       "cur_tg": 1637,
       "max_tg": 1670,
       "last_tg": "2026-09-07",
-      "last_1v1": "2026-10-31",
-      "live": {
-        "match": 517658281,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-10-31"
     },
     {
       "profile_id": 6090060,
@@ -165,7 +160,13 @@
       "cur_tg": 1790,
       "max_tg": 1790,
       "last_tg": "2026-10-30",
-      "last_1v1": "2026-10-31"
+      "last_1v1": "2026-10-31",
+      "live": {
+        "match": 517661027,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "CTM | Lelouch ELO bajito"
+      }
     },
     {
       "profile_id": 4210400,
