@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-31T03:05:08Z",
+  "updated_at": "2026-10-31T03:10:09Z",
   "baseline": {
     "taken_at": "2026-10-30T14:00:15Z",
     "ranks": {
@@ -154,9 +154,9 @@
       "last_tg": "2026-09-28",
       "last_1v1": "2026-09-27",
       "live": {
-        "match": 517578688,
+        "match": 517579789,
         "game": "Team Random Map",
-        "format": "4v4",
+        "format": "2v2",
         "account": "NuMa | Toth"
       }
     },
