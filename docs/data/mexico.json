@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-31T09:20:13Z",
+  "updated_at": "2026-10-31T09:30:10Z",
   "baseline": {
     "taken_at": "2026-10-30T14:00:15Z",
     "ranks": {
@@ -285,7 +285,7 @@
       "profile_id": 3816609,
       "tag": "iamkaito",
       "clan": "nW",
-      "cur_1v1": 2209,
+      "cur_1v1": 2203,
       "max_1v1": 2304,
       "cur_tg": 1839,
       "max_tg": 1852,
@@ -598,13 +598,7 @@
       "cur_tg": 1793,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-10-22",
-      "live": {
-        "match": 517629939,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "ZUKO | Taj Exiliado Exile"
-      }
+      "last_tg": "2026-10-22"
     },
     {
       "profile_id": 12472496,
