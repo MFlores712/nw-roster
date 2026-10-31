@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-31T03:10:09Z",
+  "updated_at": "2026-10-31T03:15:09Z",
   "baseline": {
     "taken_at": "2026-10-30T14:00:15Z",
     "ranks": {
@@ -112,13 +112,7 @@
       "cur_tg": 2140,
       "max_tg": 2151,
       "last_1v1": "2026-10-29",
-      "last_tg": "2026-10-15",
-      "live": {
-        "match": 517573477,
-        "game": "Team Random Map",
-        "format": "3v3",
-        "account": "VENÓN | Mauricio"
-      }
+      "last_tg": "2026-10-15"
     },
     {
       "profile_id": 401359,
@@ -142,9 +136,9 @@
       "last_1v1": "2026-10-24",
       "last_tg": "2026-10-31",
       "live": {
-        "match": 517573477,
+        "match": 517580793,
         "game": "Team Random Map",
-        "format": "3v3"
+        "format": "4v4"
       }
     },
     {
@@ -191,9 +185,9 @@
       "last_tg": "2026-10-26",
       "last_1v1": "2026-10-24",
       "live": {
-        "match": 517573477,
+        "match": 517580793,
         "game": "Team Random Map",
-        "format": "3v3",
+        "format": "4v4",
         "account": "hK | RanDoM"
       }
     },
@@ -264,9 +258,9 @@
       "last_1v1": "2026-10-30",
       "last_tg": "2026-10-31",
       "live": {
-        "match": 517573477,
+        "match": 517580793,
         "game": "Team Random Map",
-        "format": "3v3"
+        "format": "4v4"
       }
     },
     {
@@ -308,15 +302,10 @@
       "clan": "hK",
       "cur_1v1": 2203,
       "max_1v1": 2233,
-      "cur_tg": 1886,
+      "cur_tg": 1892,
       "max_tg": 1983,
       "last_1v1": "2026-10-30",
-      "last_tg": "2026-10-31",
-      "live": {
-        "match": 517576804,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-31"
     },
     {
       "profile_id": 914665,
@@ -418,13 +407,7 @@
       "cur_tg": 1812,
       "max_tg": 1962,
       "last_1v1": "2026-10-29",
-      "last_tg": "2026-10-30",
-      "live": {
-        "match": 517576804,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "Stalingrado"
-      }
+      "last_tg": "2026-10-30"
     },
     {
       "profile_id": 233625,
@@ -499,7 +482,12 @@
       "cur_tg": 1754,
       "max_tg": 1824,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-10-31"
+      "last_tg": "2026-10-31",
+      "live": {
+        "match": 517580793,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 13241217,
