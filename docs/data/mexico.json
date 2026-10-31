@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-31T18:25:10Z",
+  "updated_at": "2026-10-31T18:30:11Z",
   "baseline": {
     "taken_at": "2026-10-31T14:00:13Z",
     "ranks": {
@@ -273,17 +273,12 @@
       "profile_id": 914665,
       "tag": "Caguamas",
       "clan": "nW",
-      "cur_1v1": 2211,
+      "cur_1v1": 2219,
       "max_1v1": 2241,
       "cur_tg": 1863,
       "max_tg": 2024,
       "last_1v1": "2026-10-31",
-      "last_tg": "2026-10-28",
-      "live": {
-        "match": 517738226,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-28"
     },
     {
       "profile_id": 3816609,
@@ -552,7 +547,13 @@
       "cur_tg": 1820,
       "max_tg": 1821,
       "last_tg": "2026-10-16",
-      "last_1v1": "2026-09-18"
+      "last_1v1": "2026-09-18",
+      "live": {
+        "match": 517743628,
+        "game": "Quick Play 1v1 Random Map",
+        "format": "1v1",
+        "account": "James P. Solivan"
+      }
     },
     {
       "profile_id": 278380,
@@ -612,14 +613,14 @@
     {
       "profile_id": 3254820,
       "tag": "__Chino",
-      "cur_1v1": 1834,
+      "cur_1v1": 1844,
       "max_1v1": 2003,
       "cur_tg": 1366,
       "max_tg": 1417,
       "last_1v1": "2026-10-31",
       "last_tg": "2026-10-30",
       "live": {
-        "match": 517736851,
+        "match": 517743887,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
