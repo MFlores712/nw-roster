@@ -1,6 +1,6 @@
 {
   "name": "new Wave",
-  "updated_at": "2026-10-31T21:40:11Z",
+  "updated_at": "2026-10-31T22:00:13Z",
   "baseline": {
     "taken_at": "2026-10-31T14:00:13Z",
     "ranks": {
@@ -22,15 +22,10 @@
       "country": "Colombia",
       "cur_1v1": 2459,
       "max_1v1": 2459,
-      "cur_tg": 1903,
+      "cur_tg": 1912,
       "max_tg": 1933,
       "last_1v1": "2026-10-31",
-      "last_tg": "2026-10-31",
-      "live": {
-        "match": 517791686,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-31"
     },
     {
       "profile_id": 914665,
@@ -38,15 +33,10 @@
       "country": "Mexico",
       "cur_1v1": 2219,
       "max_1v1": 2241,
-      "cur_tg": 1858,
+      "cur_tg": 1868,
       "max_tg": 2024,
       "last_1v1": "2026-10-31",
-      "last_tg": "2026-10-31",
-      "live": {
-        "match": 517791686,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-31"
     },
     {
       "profile_id": 3816609,
@@ -54,15 +44,10 @@
       "country": "Mexico",
       "cur_1v1": 2204,
       "max_1v1": 2304,
-      "cur_tg": 1824,
+      "cur_tg": 1836,
       "max_tg": 1852,
       "last_1v1": "2026-10-31",
-      "last_tg": "2026-10-31",
-      "live": {
-        "match": 517791686,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-31"
     },
     {
       "profile_id": 1947348,
@@ -114,15 +99,10 @@
       "country": "Mexico",
       "cur_1v1": 1981,
       "max_1v1": 2152,
-      "cur_tg": 1823,
+      "cur_tg": 1834,
       "max_tg": 1844,
       "last_1v1": "2026-10-31",
-      "last_tg": "2026-10-31",
-      "live": {
-        "match": 517791686,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-31"
     }
   ]
 }
