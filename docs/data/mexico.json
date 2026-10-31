@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-31T16:55:09Z",
+  "updated_at": "2026-10-31T17:05:08Z",
   "baseline": {
     "taken_at": "2026-10-31T14:00:13Z",
     "ranks": {
@@ -329,22 +329,6 @@
       "last_tg": "2026-10-21"
     },
     {
-      "profile_id": 1261126,
-      "tag": "Spirit",
-      "clan": "SotC",
-      "cur_1v1": 2058,
-      "max_1v1": 2098,
-      "cur_tg": 1695,
-      "max_tg": 1870,
-      "last_1v1": "2026-10-31",
-      "last_tg": "2026-10-30",
-      "live": {
-        "match": 517715956,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 400111,
       "tag": "Mibel",
       "clan": "VL",
@@ -380,6 +364,17 @@
         "game": "Unranked",
         "format": "2v2"
       }
+    },
+    {
+      "profile_id": 1261126,
+      "tag": "Spirit",
+      "clan": "SotC",
+      "cur_1v1": 2040,
+      "max_1v1": 2098,
+      "cur_tg": 1695,
+      "max_tg": 1870,
+      "last_1v1": "2026-10-31",
+      "last_tg": "2026-10-30"
     },
     {
       "profile_id": 2934597,
