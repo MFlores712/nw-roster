@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-31T20:40:10Z",
+  "updated_at": "2026-10-31T20:50:10Z",
   "baseline": {
     "taken_at": "2026-10-31T14:00:13Z",
     "ranks": {
@@ -379,12 +379,7 @@
       "cur_tg": 1499,
       "max_tg": 1818,
       "last_tg": "2026-10-10",
-      "last_1v1": "2026-03-21",
-      "live": {
-        "match": 517772774,
-        "game": "Unranked",
-        "format": "2v2"
-      }
+      "last_1v1": "2026-03-21"
     },
     {
       "profile_id": 2934597,
@@ -567,7 +562,13 @@
       "cur_tg": 1820,
       "max_tg": 1821,
       "last_tg": "2026-10-16",
-      "last_1v1": "2026-09-18"
+      "last_1v1": "2026-09-18",
+      "live": {
+        "match": 517779192,
+        "game": "Quick Play 1v1 Random Map",
+        "format": "1v1",
+        "account": "James P. Solivan"
+      }
     },
     {
       "profile_id": 278380,
