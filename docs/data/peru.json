@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-10-31T15:00:12Z",
+  "updated_at": "2026-10-31T15:10:10Z",
   "baseline": {
     "taken_at": "2026-10-31T14:00:13Z",
     "ranks": {
@@ -51,14 +51,14 @@
       "profile_id": 9558892,
       "tag": "WilliamS",
       "clan": "LE",
-      "cur_1v1": 2300,
+      "cur_1v1": 2307,
       "max_1v1": 2446,
       "cur_tg": 1715,
       "max_tg": 1846,
       "last_1v1": "2026-10-31",
       "last_tg": "2026-10-26",
       "live": {
-        "match": 517692730,
+        "match": 517695604,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
