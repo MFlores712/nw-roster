@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-31T04:40:09Z",
+  "updated_at": "2026-10-31T04:50:10Z",
   "baseline": {
     "taken_at": "2026-10-30T14:00:15Z",
     "ranks": {
@@ -286,12 +286,12 @@
       "clan": "hK",
       "cur_1v1": 2203,
       "max_1v1": 2233,
-      "cur_tg": 1904,
+      "cur_tg": 1913,
       "max_tg": 1983,
       "last_1v1": "2026-10-30",
       "last_tg": "2026-10-31",
       "live": {
-        "match": 517594152,
+        "match": 517597458,
         "game": "Team Random Map",
         "format": "3v3"
       }
@@ -398,7 +398,7 @@
       "last_1v1": "2026-10-29",
       "last_tg": "2026-10-30",
       "live": {
-        "match": 517594152,
+        "match": 517597458,
         "game": "Team Random Map",
         "format": "3v3",
         "account": "Stalingrado"
@@ -602,7 +602,13 @@
       "cur_tg": 1793,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-10-22"
+      "last_tg": "2026-10-22",
+      "live": {
+        "match": 517597504,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "ZUKO | Taj Exiliado Exile"
+      }
     },
     {
       "profile_id": 12472496,
