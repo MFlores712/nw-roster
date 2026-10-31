@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-10-31T22:15:19Z",
+  "updated_at": "2026-10-31T22:20:10Z",
   "baseline": {
     "taken_at": "2026-10-31T14:00:13Z",
     "ranks": {
@@ -73,7 +73,7 @@
       "profile_id": 1743420,
       "tag": "OliverAtom",
       "clan": "NuMa",
-      "cur_1v1": 2060,
+      "cur_1v1": 2080,
       "max_1v1": 2193,
       "cur_tg": 1616,
       "max_tg": 1772,
