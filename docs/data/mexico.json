@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-31T03:15:09Z",
+  "updated_at": "2026-10-31T03:20:10Z",
   "baseline": {
     "taken_at": "2026-10-30T14:00:15Z",
     "ranks": {
@@ -463,6 +463,17 @@
       "last_tg": "2026-10-28"
     },
     {
+      "profile_id": 13241217,
+      "tag": "BlueUltra",
+      "clan": "Ux",
+      "cur_1v1": 1967,
+      "max_1v1": 1997,
+      "cur_tg": 1594,
+      "max_tg": 1688,
+      "last_1v1": "2026-10-31",
+      "last_tg": "2026-10-30"
+    },
+    {
       "profile_id": 235877,
       "tag": "AsMelodiant",
       "clan": "VENÓN",
@@ -487,22 +498,6 @@
         "match": 517580793,
         "game": "Team Random Map",
         "format": "4v4"
-      }
-    },
-    {
-      "profile_id": 13241217,
-      "tag": "BlueUltra",
-      "clan": "Ux",
-      "cur_1v1": 1954,
-      "max_1v1": 1997,
-      "cur_tg": 1594,
-      "max_tg": 1688,
-      "last_1v1": "2026-10-31",
-      "last_tg": "2026-10-30",
-      "live": {
-        "match": 517575600,
-        "game": "1v1 Random Map",
-        "format": "1v1"
       }
     },
     {
