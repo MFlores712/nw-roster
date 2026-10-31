@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-31T18:20:09Z",
+  "updated_at": "2026-10-31T18:25:10Z",
   "baseline": {
     "taken_at": "2026-10-31T14:00:13Z",
     "ranks": {
@@ -181,6 +181,17 @@
       "last_1v1": "2026-10-24"
     },
     {
+      "profile_id": 1485562,
+      "tag": "MrOsoVC8",
+      "clan": "VENÓN",
+      "cur_1v1": 2341,
+      "max_1v1": 2394,
+      "cur_tg": 1857,
+      "max_tg": 2099,
+      "last_1v1": "2026-10-31",
+      "last_tg": "2026-10-25"
+    },
+    {
       "profile_id": 12723994,
       "tag": "PuNii",
       "clan": "VENÓN",
@@ -190,22 +201,6 @@
       "max_tg": 1922,
       "last_tg": "2026-10-31",
       "last_1v1": "2026-10-31"
-    },
-    {
-      "profile_id": 1485562,
-      "tag": "MrOsoVC8",
-      "clan": "VENÓN",
-      "cur_1v1": 2331,
-      "max_1v1": 2394,
-      "cur_tg": 1857,
-      "max_tg": 2099,
-      "last_1v1": "2026-10-31",
-      "last_tg": "2026-10-25",
-      "live": {
-        "match": 517733183,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 9031952,
@@ -498,7 +493,12 @@
       "cur_tg": 1594,
       "max_tg": 1688,
       "last_1v1": "2026-10-31",
-      "last_tg": "2026-10-30"
+      "last_tg": "2026-10-30",
+      "live": {
+        "match": 517741967,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2986966,
@@ -552,13 +552,7 @@
       "cur_tg": 1820,
       "max_tg": 1821,
       "last_tg": "2026-10-16",
-      "last_1v1": "2026-09-18",
-      "live": {
-        "match": 517737769,
-        "game": "Quick Play 1v1 Random Map",
-        "format": "1v1",
-        "account": "James P. Solivan"
-      }
+      "last_1v1": "2026-09-18"
     },
     {
       "profile_id": 278380,
