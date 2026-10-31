@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-10-31T19:30:10Z",
+  "updated_at": "2026-10-31T19:35:09Z",
   "baseline": {
     "taken_at": "2026-10-31T14:00:13Z",
     "ranks": {
@@ -180,7 +180,7 @@
       "last_tg": "2026-10-26",
       "last_1v1": "2026-10-24",
       "live": {
-        "match": 517751867,
+        "match": 517760394,
         "game": "1v1 Random Map",
         "format": "1v1",
         "account": "hK | RanDoM"
@@ -563,7 +563,13 @@
       "cur_tg": 1820,
       "max_tg": 1821,
       "last_tg": "2026-10-16",
-      "last_1v1": "2026-09-18"
+      "last_1v1": "2026-09-18",
+      "live": {
+        "match": 517759817,
+        "game": "Quick Play 1v1 Random Map",
+        "format": "1v1",
+        "account": "James P. Solivan"
+      }
     },
     {
       "profile_id": 278380,
