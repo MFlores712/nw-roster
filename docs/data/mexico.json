@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-01T23:05:09Z",
+  "updated_at": "2026-11-01T23:10:09Z",
   "baseline": {
     "taken_at": "2026-11-01T14:00:13Z",
     "ranks": {
@@ -76,8 +76,8 @@
       "clan": "Ux",
       "cur_1v1": 2650,
       "max_1v1": 2685,
-      "cur_tg": 2115,
-      "max_tg": 2115,
+      "cur_tg": 2117,
+      "max_tg": 2117,
       "last_1v1": "2026-10-29",
       "last_tg": "2026-11-01",
       "live": {
@@ -139,7 +139,12 @@
       "cur_tg": 2110,
       "max_tg": 2190,
       "last_1v1": "2026-11-01",
-      "last_tg": "2026-10-31"
+      "last_tg": "2026-10-31",
+      "live": {
+        "match": 518098740,
+        "game": "Team Random Map",
+        "format": "2v2"
+      }
     },
     {
       "profile_id": 2598146,
@@ -332,7 +337,13 @@
       "cur_tg": 1633,
       "max_tg": 1820,
       "last_1v1": "2026-11-01",
-      "last_tg": "2026-10-21"
+      "last_tg": "2026-10-21",
+      "live": {
+        "match": 518098904,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "Chimirindo"
+      }
     },
     {
       "profile_id": 1947348,
@@ -509,12 +520,7 @@
       "cur_tg": 1718,
       "max_tg": 1824,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-11-01",
-      "live": {
-        "match": 518094664,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-01"
     },
     {
       "profile_id": 2986966,
@@ -568,13 +574,7 @@
       "cur_tg": 1820,
       "max_tg": 1821,
       "last_tg": "2026-10-16",
-      "last_1v1": "2026-09-18",
-      "live": {
-        "match": 518092396,
-        "game": "Quick Play 1v1 Random Map",
-        "format": "1v1",
-        "account": "James P. Solivan"
-      }
+      "last_1v1": "2026-09-18"
     },
     {
       "profile_id": 278380,

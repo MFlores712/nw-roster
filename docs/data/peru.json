@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-01T23:00:14Z",
+  "updated_at": "2026-11-01T23:10:09Z",
   "baseline": {
     "taken_at": "2026-11-01T14:00:13Z",
     "ranks": {
@@ -111,12 +111,12 @@
       "tag": "noru",
       "cur_1v1": 2031,
       "max_1v1": 2031,
-      "cur_tg": 1701,
+      "cur_tg": 1720,
       "max_tg": 1840,
       "last_tg": "2026-11-01",
       "last_1v1": "2026-09-24",
       "live": {
-        "match": 518092766,
+        "match": 518099358,
         "game": "Team Random Map",
         "format": "4v4"
       }
@@ -165,13 +165,7 @@
       "cur_tg": 1830,
       "max_tg": 1830,
       "last_tg": "2026-11-01",
-      "last_1v1": "2026-11-01",
-      "live": {
-        "match": 518093473,
-        "game": "Quick Play Team Random Map",
-        "format": "2v2",
-        "account": "CTM | Lelouch Jogo Bonito"
-      }
+      "last_1v1": "2026-11-01"
     },
     {
       "profile_id": 4210400,
