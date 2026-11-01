@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-01T21:30:11Z",
+  "updated_at": "2026-11-01T21:35:08Z",
   "baseline": {
     "taken_at": "2026-11-01T14:00:13Z",
     "ranks": {
@@ -112,13 +112,7 @@
       "cur_tg": 2140,
       "max_tg": 2151,
       "last_1v1": "2026-10-29",
-      "last_tg": "2026-10-15",
-      "live": {
-        "match": 518060635,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "[GDL] Chuchito"
-      }
+      "last_tg": "2026-10-15"
     },
     {
       "profile_id": 401359,
@@ -129,7 +123,12 @@
       "cur_tg": 2110,
       "max_tg": 2190,
       "last_1v1": "2026-11-01",
-      "last_tg": "2026-10-31"
+      "last_tg": "2026-10-31",
+      "live": {
+        "match": 518077672,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 4221810,
@@ -137,15 +136,10 @@
       "clan": "hK",
       "cur_1v1": 2427,
       "max_1v1": 2433,
-      "cur_tg": 2045,
+      "cur_tg": 2049,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-11-01",
-      "live": {
-        "match": 518062556,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-01"
     },
     {
       "profile_id": 2598146,
@@ -245,7 +239,12 @@
       "cur_tg": 1837,
       "max_tg": 1974,
       "last_1v1": "2026-10-28",
-      "last_tg": "2026-11-01"
+      "last_tg": "2026-11-01",
+      "live": {
+        "match": 518076779,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 4412109,
@@ -253,15 +252,10 @@
       "clan": "hK",
       "cur_1v1": 2287,
       "max_1v1": 2317,
-      "cur_tg": 2044,
+      "cur_tg": 2048,
       "max_tg": 2083,
       "last_1v1": "2026-11-01",
-      "last_tg": "2026-11-01",
-      "live": {
-        "match": 518062556,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-01"
     },
     {
       "profile_id": 757886,
@@ -354,17 +348,12 @@
       "profile_id": 13215279,
       "tag": "GO1_mx",
       "clan": "MZTK",
-      "cur_1v1": 2064,
+      "cur_1v1": 2071,
       "max_1v1": 2093,
       "cur_tg": 1675,
       "max_tg": 1860,
       "last_1v1": "2026-11-01",
-      "last_tg": "2026-10-26",
-      "live": {
-        "match": 518068297,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-26"
     },
     {
       "profile_id": 400111,
@@ -418,7 +407,13 @@
       "cur_tg": 1812,
       "max_tg": 1962,
       "last_1v1": "2026-10-29",
-      "last_tg": "2026-10-30"
+      "last_tg": "2026-10-30",
+      "live": {
+        "match": 518077624,
+        "game": "Team Random Map",
+        "format": "2v2",
+        "account": "Zoschenko17"
+      }
     },
     {
       "profile_id": 2876835,
