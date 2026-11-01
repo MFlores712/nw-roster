@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-01T00:45:08Z",
+  "updated_at": "2026-11-01T00:50:11Z",
   "baseline": {
     "taken_at": "2026-10-31T14:00:13Z",
     "ranks": {
@@ -112,13 +112,7 @@
       "cur_tg": 2140,
       "max_tg": 2151,
       "last_1v1": "2026-10-29",
-      "last_tg": "2026-10-15",
-      "live": {
-        "match": 517827132,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "[GDL] Chuchito"
-      }
+      "last_tg": "2026-10-15"
     },
     {
       "profile_id": 401359,
@@ -151,7 +145,13 @@
       "cur_tg": 2200,
       "max_tg": 2227,
       "last_tg": "2026-10-27",
-      "last_1v1": "2026-10-31"
+      "last_1v1": "2026-10-31",
+      "live": {
+        "match": 517830987,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "VENÓN | SiNisTeR"
+      }
     },
     {
       "profile_id": 310739,
@@ -480,22 +480,6 @@
       "last_tg": "2026-10-20"
     },
     {
-      "profile_id": 13241217,
-      "tag": "BlueUltra",
-      "clan": "Ux",
-      "cur_1v1": 1962,
-      "max_1v1": 1997,
-      "cur_tg": 1633,
-      "max_tg": 1688,
-      "last_1v1": "2026-10-31",
-      "last_tg": "2026-10-31",
-      "live": {
-        "match": 517828297,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 13192381,
       "tag": "albafica",
       "clan": "VL",
@@ -516,6 +500,22 @@
       "max_tg": 1824,
       "last_tg": "2026-10-31",
       "last_1v1": "2026-10-13"
+    },
+    {
+      "profile_id": 13241217,
+      "tag": "BlueUltra",
+      "clan": "Ux",
+      "cur_1v1": 1944,
+      "max_1v1": 1997,
+      "cur_tg": 1633,
+      "max_tg": 1688,
+      "last_1v1": "2026-11-01",
+      "last_tg": "2026-10-31",
+      "live": {
+        "match": 517830944,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 467847,
