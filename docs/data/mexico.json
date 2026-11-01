@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-01T18:45:11Z",
+  "updated_at": "2026-11-01T18:50:09Z",
   "baseline": {
     "taken_at": "2026-11-01T14:00:13Z",
     "ranks": {
@@ -150,7 +150,13 @@
       "cur_tg": 2200,
       "max_tg": 2227,
       "last_tg": "2026-10-27",
-      "last_1v1": "2026-10-31"
+      "last_1v1": "2026-10-31",
+      "live": {
+        "match": 518032026,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "VENÓN | SiNisTeR"
+      }
     },
     {
       "profile_id": 310739,
@@ -433,7 +439,12 @@
       "cur_tg": 1851,
       "max_tg": 1997,
       "last_1v1": "2026-10-28",
-      "last_tg": "2026-10-28"
+      "last_tg": "2026-10-28",
+      "live": {
+        "match": 518032277,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 6501299,
@@ -622,14 +633,14 @@
     {
       "profile_id": 3254820,
       "tag": "__Chino",
-      "cur_1v1": 1882,
+      "cur_1v1": 1867,
       "max_1v1": 2003,
       "cur_tg": 1366,
       "max_tg": 1417,
       "last_1v1": "2026-11-01",
       "last_tg": "2026-10-30",
       "live": {
-        "match": 518025491,
+        "match": 518032548,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
