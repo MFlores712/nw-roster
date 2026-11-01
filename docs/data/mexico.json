@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-01T01:00:12Z",
+  "updated_at": "2026-11-01T01:05:10Z",
   "baseline": {
     "taken_at": "2026-10-31T14:00:13Z",
     "ranks": {
@@ -151,13 +151,7 @@
       "cur_tg": 2200,
       "max_tg": 2227,
       "last_tg": "2026-10-27",
-      "last_1v1": "2026-10-31",
-      "live": {
-        "match": 517830987,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "VENÓN | SiNisTeR"
-      }
+      "last_1v1": "2026-10-31"
     },
     {
       "profile_id": 310739,
@@ -379,6 +373,17 @@
       "last_1v1": "2026-03-21"
     },
     {
+      "profile_id": 2934597,
+      "tag": "Sgt.Pepper",
+      "clan": "nW",
+      "cur_1v1": 2026,
+      "max_1v1": 2210,
+      "cur_tg": 1731,
+      "max_tg": 1747,
+      "last_1v1": "2026-11-01",
+      "last_tg": "2026-10-27"
+    },
+    {
       "profile_id": 9770338,
       "tag": "SynfonY",
       "clan": "CL",
@@ -388,22 +393,6 @@
       "max_tg": 1962,
       "last_1v1": "2026-10-29",
       "last_tg": "2026-10-30"
-    },
-    {
-      "profile_id": 2934597,
-      "tag": "Sgt.Pepper",
-      "clan": "nW",
-      "cur_1v1": 2018,
-      "max_1v1": 2210,
-      "cur_tg": 1731,
-      "max_tg": 1747,
-      "last_1v1": "2026-11-01",
-      "last_tg": "2026-10-27",
-      "live": {
-        "match": 517833182,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 233625,
