@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-01T00:10:10Z",
+  "updated_at": "2026-11-01T00:15:10Z",
   "baseline": {
     "taken_at": "2026-10-31T14:00:13Z",
     "ranks": {
@@ -363,6 +363,22 @@
       "last_tg": "2026-10-21"
     },
     {
+      "profile_id": 2934597,
+      "tag": "Sgt.Pepper",
+      "clan": "nW",
+      "cur_1v1": 2044,
+      "max_1v1": 2210,
+      "cur_tg": 1731,
+      "max_tg": 1747,
+      "last_1v1": "2026-11-01",
+      "last_tg": "2026-10-27",
+      "live": {
+        "match": 517824969,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 1708286,
       "tag": "IamAlextremo",
       "cur_1v1": 2044,
@@ -375,22 +391,6 @@
         "match": 517823054,
         "game": "Unranked",
         "format": "2v2"
-      }
-    },
-    {
-      "profile_id": 2934597,
-      "tag": "Sgt.Pepper",
-      "clan": "nW",
-      "cur_1v1": 2032,
-      "max_1v1": 2210,
-      "cur_tg": 1731,
-      "max_tg": 1747,
-      "last_1v1": "2026-10-29",
-      "last_tg": "2026-10-27",
-      "live": {
-        "match": 517821061,
-        "game": "1v1 Random Map",
-        "format": "1v1"
       }
     },
     {
@@ -599,15 +599,10 @@
       "clan": "VN",
       "cur_1v1": 1909,
       "max_1v1": 1929,
-      "cur_tg": 1767,
+      "cur_tg": 1743,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-10-31",
-      "live": {
-        "match": 517819473,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-01"
     },
     {
       "profile_id": 12472496,
@@ -628,7 +623,12 @@
       "cur_tg": 1366,
       "max_tg": 1417,
       "last_1v1": "2026-11-01",
-      "last_tg": "2026-10-30"
+      "last_tg": "2026-10-30",
+      "live": {
+        "match": 517824786,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     }
   ],
   "show_top": 45,
