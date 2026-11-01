@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-01T01:30:13Z",
+  "updated_at": "2026-11-01T01:40:15Z",
   "baseline": {
     "taken_at": "2026-10-31T14:00:13Z",
     "ranks": {
@@ -29,14 +29,14 @@
       "profile_id": 2654577,
       "tag": "Ozone",
       "clan": "Ux",
-      "cur_1v1": 2470,
+      "cur_1v1": 2456,
       "max_1v1": 2636,
       "cur_tg": 1781,
       "max_tg": 2001,
-      "last_1v1": "2026-10-31",
+      "last_1v1": "2026-11-01",
       "last_tg": "2026-10-27",
       "live": {
-        "match": 517835058,
+        "match": 517840149,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -50,7 +50,12 @@
       "cur_tg": 1912,
       "max_tg": 1933,
       "last_1v1": "2026-11-01",
-      "last_tg": "2026-10-31"
+      "last_tg": "2026-10-31",
+      "live": {
+        "match": 517840149,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 6838238,
@@ -163,12 +168,7 @@
       "cur_tg": 1815,
       "max_tg": 1893,
       "last_tg": "2026-10-30",
-      "last_1v1": "2026-10-31",
-      "live": {
-        "match": 517837428,
-        "game": "1v1 Empire Wars",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-10-31"
     },
     {
       "profile_id": 1542191,
