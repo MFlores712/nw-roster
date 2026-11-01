@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-01T23:30:10Z",
+  "updated_at": "2026-11-01T23:35:09Z",
   "baseline": {
     "taken_at": "2026-11-01T14:00:13Z",
     "ranks": {
@@ -342,7 +342,13 @@
       "cur_tg": 1633,
       "max_tg": 1820,
       "last_1v1": "2026-11-01",
-      "last_tg": "2026-10-21"
+      "last_tg": "2026-10-21",
+      "live": {
+        "match": 518104329,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "Chimirindo"
+      }
     },
     {
       "profile_id": 1947348,
@@ -361,15 +367,10 @@
       "clan": "MZTK",
       "cur_1v1": 2079,
       "max_1v1": 2093,
-      "cur_tg": 1676,
+      "cur_tg": 1693,
       "max_tg": 1860,
       "last_1v1": "2026-11-01",
-      "last_tg": "2026-11-01",
-      "live": {
-        "match": 518096265,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-01"
     },
     {
       "profile_id": 400111,
@@ -495,6 +496,17 @@
       "last_tg": "2026-10-20"
     },
     {
+      "profile_id": 13241217,
+      "tag": "BlueUltra",
+      "clan": "Ux",
+      "cur_1v1": 1961,
+      "max_1v1": 1997,
+      "cur_tg": 1633,
+      "max_tg": 1688,
+      "last_1v1": "2026-11-01",
+      "last_tg": "2026-10-31"
+    },
+    {
       "profile_id": 13192381,
       "tag": "albafica",
       "clan": "VL",
@@ -515,22 +527,6 @@
       "max_tg": 1824,
       "last_tg": "2026-11-01",
       "last_1v1": "2026-10-13"
-    },
-    {
-      "profile_id": 13241217,
-      "tag": "BlueUltra",
-      "clan": "Ux",
-      "cur_1v1": 1950,
-      "max_1v1": 1997,
-      "cur_tg": 1633,
-      "max_tg": 1688,
-      "last_1v1": "2026-11-01",
-      "last_tg": "2026-10-31",
-      "live": {
-        "match": 518102077,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 467847,
@@ -573,13 +569,7 @@
       "cur_tg": 1820,
       "max_tg": 1821,
       "last_tg": "2026-10-16",
-      "last_1v1": "2026-09-18",
-      "live": {
-        "match": 518099698,
-        "game": "Quick Play 1v1 Random Map",
-        "format": "1v1",
-        "account": "James P. Solivan"
-      }
+      "last_1v1": "2026-09-18"
     },
     {
       "profile_id": 278380,
