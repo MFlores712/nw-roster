@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-01T17:00:14Z",
+  "updated_at": "2026-11-01T17:20:11Z",
   "baseline": {
     "taken_at": "2026-11-01T14:00:13Z",
     "ranks": {
@@ -95,7 +95,7 @@
       "tag": "noru",
       "cur_1v1": 2031,
       "max_1v1": 2031,
-      "cur_tg": 1622,
+      "cur_tg": 1638,
       "max_tg": 1840,
       "last_tg": "2026-11-01",
       "last_1v1": "2026-09-24",
@@ -199,22 +199,17 @@
       "profile_id": 3034651,
       "tag": "SANGRE AZUL",
       "clan": "MANCO II",
-      "cur_1v1": 1882,
+      "cur_1v1": 1899,
       "max_1v1": 2035,
       "cur_tg": 1526,
       "max_tg": 1657,
       "last_1v1": "2026-11-01",
-      "last_tg": "2026-10-26",
-      "live": {
-        "match": 518002174,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-26"
     },
     {
       "profile_id": 4234652,
       "tag": "_The_Oldergold",
-      "cur_1v1": 1868,
+      "cur_1v1": 1880,
       "max_1v1": 1940,
       "cur_tg": 1550,
       "max_tg": 1719,
