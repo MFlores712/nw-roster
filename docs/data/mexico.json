@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-01T23:20:11Z",
+  "updated_at": "2026-11-01T23:25:08Z",
   "baseline": {
     "taken_at": "2026-11-01T14:00:13Z",
     "ranks": {
@@ -79,7 +79,12 @@
       "cur_tg": 2117,
       "max_tg": 2117,
       "last_1v1": "2026-10-29",
-      "last_tg": "2026-11-01"
+      "last_tg": "2026-11-01",
+      "live": {
+        "match": 518101705,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 2776293,
@@ -131,15 +136,10 @@
       "clan": "VENÓN",
       "cur_1v1": 2416,
       "max_1v1": 2512,
-      "cur_tg": 2110,
+      "cur_tg": 2113,
       "max_tg": 2190,
       "last_1v1": "2026-11-01",
-      "last_tg": "2026-10-31",
-      "live": {
-        "match": 518098740,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-01"
     },
     {
       "profile_id": 2598146,
@@ -183,7 +183,13 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 518101735,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "hK | RanDoM"
+      }
     },
     {
       "profile_id": 12723994,
@@ -239,7 +245,12 @@
       "cur_tg": 1814,
       "max_tg": 1974,
       "last_1v1": "2026-10-28",
-      "last_tg": "2026-11-01"
+      "last_tg": "2026-11-01",
+      "live": {
+        "match": 518101735,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 4412109,
@@ -517,7 +528,7 @@
       "last_1v1": "2026-11-01",
       "last_tg": "2026-10-31",
       "live": {
-        "match": 518096920,
+        "match": 518102077,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -591,7 +602,12 @@
       "cur_tg": 1722,
       "max_tg": 1858,
       "last_1v1": "2026-10-30",
-      "last_tg": "2026-10-29"
+      "last_tg": "2026-10-29",
+      "live": {
+        "match": 518102544,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 358501,
