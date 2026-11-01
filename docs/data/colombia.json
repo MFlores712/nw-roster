@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-01T02:15:09Z",
+  "updated_at": "2026-11-01T02:25:09Z",
   "baseline": {
     "taken_at": "2026-10-31T14:00:13Z",
     "ranks": {
@@ -131,17 +131,12 @@
       "profile_id": 6431793,
       "tag": "Toth",
       "clan": "NuMa",
-      "cur_1v1": 1912,
+      "cur_1v1": 1931,
       "max_1v1": 1951,
       "cur_tg": 1853,
       "max_tg": 1858,
       "last_tg": "2026-10-31",
-      "last_1v1": "2026-11-01",
-      "live": {
-        "match": 517843771,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-01"
     },
     {
       "profile_id": 2479622,
