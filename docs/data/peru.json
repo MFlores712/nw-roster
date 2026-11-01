@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-01T22:50:09Z",
+  "updated_at": "2026-11-01T22:55:08Z",
   "baseline": {
     "taken_at": "2026-11-01T14:00:13Z",
     "ranks": {
@@ -40,17 +40,12 @@
     {
       "profile_id": 3216208,
       "tag": "Dimo",
-      "cur_1v1": 2558,
-      "max_1v1": 2558,
+      "cur_1v1": 2562,
+      "max_1v1": 2562,
       "cur_tg": 1879,
       "max_tg": 1935,
       "last_1v1": "2026-11-01",
-      "last_tg": "2026-10-22",
-      "live": {
-        "match": 518091144,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-22"
     },
     {
       "profile_id": 9558892,
@@ -193,7 +188,12 @@
       "cur_tg": 1556,
       "max_tg": 1719,
       "last_1v1": "2026-11-01",
-      "last_tg": "2026-10-30"
+      "last_tg": "2026-10-30",
+      "live": {
+        "match": 518096384,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 1865687,
@@ -236,7 +236,12 @@
       "cur_tg": 1558,
       "max_tg": 1719,
       "last_1v1": "2026-11-01",
-      "last_tg": "2026-11-01"
+      "last_tg": "2026-11-01",
+      "live": {
+        "match": 518095529,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     }
   ],
   "show_top": 15
