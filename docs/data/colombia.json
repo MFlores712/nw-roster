@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-01T01:15:10Z",
+  "updated_at": "2026-11-01T01:24:56Z",
   "baseline": {
     "taken_at": "2026-10-31T14:00:13Z",
     "ranks": {
@@ -168,7 +168,12 @@
       "cur_tg": 1815,
       "max_tg": 1893,
       "last_tg": "2026-10-30",
-      "last_1v1": "2026-10-31"
+      "last_1v1": "2026-10-31",
+      "live": {
+        "match": 517837428,
+        "game": "1v1 Empire Wars",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 1542191,
