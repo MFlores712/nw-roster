@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-01T20:50:09Z",
+  "updated_at": "2026-11-01T20:55:09Z",
   "baseline": {
     "taken_at": "2026-11-01T14:00:13Z",
     "ranks": {
@@ -361,6 +361,22 @@
       "last_tg": "2026-10-21"
     },
     {
+      "profile_id": 13215279,
+      "tag": "GO1_mx",
+      "clan": "MZTK",
+      "cur_1v1": 2064,
+      "max_1v1": 2093,
+      "cur_tg": 1675,
+      "max_tg": 1860,
+      "last_1v1": "2026-11-01",
+      "last_tg": "2026-10-26",
+      "live": {
+        "match": 518063783,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 400111,
       "tag": "Mibel",
       "clan": "VL",
@@ -381,22 +397,6 @@
       "max_tg": 1870,
       "last_1v1": "2026-10-31",
       "last_tg": "2026-10-31"
-    },
-    {
-      "profile_id": 13215279,
-      "tag": "GO1_mx",
-      "clan": "MZTK",
-      "cur_1v1": 2050,
-      "max_1v1": 2093,
-      "cur_tg": 1675,
-      "max_tg": 1860,
-      "last_1v1": "2026-11-01",
-      "last_tg": "2026-10-26",
-      "live": {
-        "match": 518063783,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 1708286,
@@ -431,22 +431,6 @@
       "last_tg": "2026-10-30"
     },
     {
-      "profile_id": 2934597,
-      "tag": "Sgt.Pepper",
-      "clan": "nW",
-      "cur_1v1": 2012,
-      "max_1v1": 2210,
-      "cur_tg": 1731,
-      "max_tg": 1747,
-      "last_1v1": "2026-11-01",
-      "last_tg": "2026-10-27",
-      "live": {
-        "match": 518055360,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 2876835,
       "tag": "Abejorro",
       "clan": "nW",
@@ -466,6 +450,17 @@
       "max_tg": 1885,
       "last_1v1": "2026-08-15",
       "last_tg": "2026-10-31"
+    },
+    {
+      "profile_id": 2934597,
+      "tag": "Sgt.Pepper",
+      "clan": "nW",
+      "cur_1v1": 1994,
+      "max_1v1": 2210,
+      "cur_tg": 1731,
+      "max_tg": 1747,
+      "last_1v1": "2026-11-01",
+      "last_tg": "2026-10-27"
     },
     {
       "profile_id": 6501299,
@@ -562,7 +557,13 @@
       "cur_tg": 1820,
       "max_tg": 1821,
       "last_tg": "2026-10-16",
-      "last_1v1": "2026-09-18"
+      "last_1v1": "2026-09-18",
+      "live": {
+        "match": 518066647,
+        "game": "Quick Play 1v1 Random Map",
+        "format": "1v1",
+        "account": "James P. Solivan"
+      }
     },
     {
       "profile_id": 278380,
