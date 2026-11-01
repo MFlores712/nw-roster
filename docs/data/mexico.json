@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-01T23:45:09Z",
+  "updated_at": "2026-11-01T23:50:09Z",
   "baseline": {
     "taken_at": "2026-11-01T14:00:13Z",
     "ranks": {
@@ -76,15 +76,10 @@
       "clan": "Ux",
       "cur_1v1": 2650,
       "max_1v1": 2685,
-      "cur_tg": 2117,
-      "max_tg": 2117,
+      "cur_tg": 2128,
+      "max_tg": 2128,
       "last_1v1": "2026-10-29",
-      "last_tg": "2026-11-01",
-      "live": {
-        "match": 518101705,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-01"
     },
     {
       "profile_id": 2776293,
@@ -188,13 +183,7 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 518101735,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "hK | RanDoM"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 12723994,
@@ -250,12 +239,7 @@
       "cur_tg": 1827,
       "max_tg": 1974,
       "last_1v1": "2026-10-28",
-      "last_tg": "2026-11-01",
-      "live": {
-        "match": 518101735,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-01"
     },
     {
       "profile_id": 4412109,
@@ -583,22 +567,6 @@
       "last_1v1": "2026-10-28"
     },
     {
-      "profile_id": 3285258,
-      "tag": "Kiss",
-      "clan": "MZTK",
-      "cur_1v1": 1918,
-      "max_1v1": 1993,
-      "cur_tg": 1722,
-      "max_tg": 1858,
-      "last_1v1": "2026-10-30",
-      "last_tg": "2026-10-29",
-      "live": {
-        "match": 518102544,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 358501,
       "tag": "El Claut_One",
       "clan": "VENÓN",
@@ -608,6 +576,17 @@
       "max_tg": 1820,
       "last_tg": "2026-10-30",
       "last_1v1": "2026-10-28"
+    },
+    {
+      "profile_id": 3285258,
+      "tag": "Kiss",
+      "clan": "MZTK",
+      "cur_1v1": 1917,
+      "max_1v1": 1993,
+      "cur_tg": 1722,
+      "max_tg": 1858,
+      "last_1v1": "2026-11-01",
+      "last_tg": "2026-10-29"
     },
     {
       "profile_id": 324005,
