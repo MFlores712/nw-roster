@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-01T03:40:09Z",
+  "updated_at": "2026-11-01T03:50:20Z",
   "baseline": {
     "taken_at": "2026-10-31T14:00:13Z",
     "ranks": {
@@ -275,6 +275,17 @@
       "last_tg": "2026-10-25"
     },
     {
+      "profile_id": 3816609,
+      "tag": "iamkaito",
+      "clan": "nW",
+      "cur_1v1": 2221,
+      "max_1v1": 2304,
+      "cur_tg": 1836,
+      "max_tg": 1852,
+      "last_1v1": "2026-11-01",
+      "last_tg": "2026-10-31"
+    },
+    {
       "profile_id": 914665,
       "tag": "Caguamas",
       "clan": "nW",
@@ -284,22 +295,6 @@
       "max_tg": 2024,
       "last_1v1": "2026-10-31",
       "last_tg": "2026-10-31"
-    },
-    {
-      "profile_id": 3816609,
-      "tag": "iamkaito",
-      "clan": "nW",
-      "cur_1v1": 2204,
-      "max_1v1": 2304,
-      "cur_tg": 1836,
-      "max_tg": 1852,
-      "last_1v1": "2026-10-31",
-      "last_tg": "2026-10-31",
-      "live": {
-        "match": 517858879,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 13138746,
