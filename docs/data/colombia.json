@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-01T01:24:56Z",
+  "updated_at": "2026-11-01T01:30:13Z",
   "baseline": {
     "taken_at": "2026-10-31T14:00:13Z",
     "ranks": {
@@ -45,17 +45,12 @@
       "profile_id": 13267917,
       "tag": "Manuel",
       "clan": "nW",
-      "cur_1v1": 2446,
+      "cur_1v1": 2439,
       "max_1v1": 2459,
       "cur_tg": 1912,
       "max_tg": 1933,
       "last_1v1": "2026-11-01",
-      "last_tg": "2026-10-31",
-      "live": {
-        "match": 517834080,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-31"
     },
     {
       "profile_id": 6838238,
@@ -133,22 +128,6 @@
       "last_1v1": "2026-10-28"
     },
     {
-      "profile_id": 6431793,
-      "tag": "Toth",
-      "clan": "NuMa",
-      "cur_1v1": 1915,
-      "max_1v1": 1951,
-      "cur_tg": 1853,
-      "max_tg": 1858,
-      "last_tg": "2026-10-31",
-      "last_1v1": "2026-10-31",
-      "live": {
-        "match": 517835391,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 2479622,
       "tag": "Nicky",
       "clan": "VENÓN",
@@ -158,6 +137,22 @@
       "max_tg": 1905,
       "last_1v1": "2026-09-21",
       "last_tg": "2026-10-02"
+    },
+    {
+      "profile_id": 6431793,
+      "tag": "Toth",
+      "clan": "NuMa",
+      "cur_1v1": 1899,
+      "max_1v1": 1951,
+      "cur_tg": 1853,
+      "max_tg": 1858,
+      "last_tg": "2026-10-31",
+      "last_1v1": "2026-11-01",
+      "live": {
+        "match": 517838103,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 12930522,
