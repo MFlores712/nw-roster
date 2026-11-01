@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-01T21:35:08Z",
+  "updated_at": "2026-11-01T21:50:09Z",
   "baseline": {
     "taken_at": "2026-11-01T14:00:13Z",
     "ranks": {
@@ -215,7 +215,12 @@
       "cur_tg": 1452,
       "max_tg": 1581,
       "last_1v1": "2026-10-30",
-      "last_tg": "2026-09-13"
+      "last_tg": "2026-09-13",
+      "live": {
+        "match": 518080490,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 4234652,
@@ -227,9 +232,9 @@
       "last_1v1": "2026-11-01",
       "last_tg": "2026-11-01",
       "live": {
-        "match": 518077370,
+        "match": 518080605,
         "game": "Team Empire Wars",
-        "format": "3v3"
+        "format": "2v2"
       }
     }
   ],
