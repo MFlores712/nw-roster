@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-01T23:15:10Z",
+  "updated_at": "2026-11-01T23:20:11Z",
   "baseline": {
     "taken_at": "2026-11-01T14:00:13Z",
     "ranks": {
@@ -328,7 +328,7 @@
       "last_1v1": "2026-11-01",
       "last_tg": "2026-10-21",
       "live": {
-        "match": 518098904,
+        "match": 518101153,
         "game": "1v1 Random Map",
         "format": "1v1",
         "account": "Chimirindo"
@@ -394,22 +394,6 @@
       "last_1v1": "2026-03-21"
     },
     {
-      "profile_id": 1249720,
-      "tag": "Lice_Slide",
-      "clan": "VN",
-      "cur_1v1": 2029,
-      "max_1v1": 2102,
-      "cur_tg": 1851,
-      "max_tg": 1997,
-      "last_1v1": "2026-11-01",
-      "last_tg": "2026-10-28",
-      "live": {
-        "match": 518094896,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 9770338,
       "tag": "SynfonY",
       "clan": "CL",
@@ -419,6 +403,22 @@
       "max_tg": 1962,
       "last_1v1": "2026-10-29",
       "last_tg": "2026-10-30"
+    },
+    {
+      "profile_id": 1249720,
+      "tag": "Lice_Slide",
+      "clan": "VN",
+      "cur_1v1": 2011,
+      "max_1v1": 2102,
+      "cur_tg": 1851,
+      "max_tg": 1997,
+      "last_1v1": "2026-11-01",
+      "last_tg": "2026-10-28",
+      "live": {
+        "match": 518101385,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2876835,
@@ -474,22 +474,6 @@
       "last_tg": "2026-10-28"
     },
     {
-      "profile_id": 13241217,
-      "tag": "BlueUltra",
-      "clan": "Ux",
-      "cur_1v1": 1968,
-      "max_1v1": 1997,
-      "cur_tg": 1633,
-      "max_tg": 1688,
-      "last_1v1": "2026-11-01",
-      "last_tg": "2026-10-31",
-      "live": {
-        "match": 518096920,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 235877,
       "tag": "AsMelodiant",
       "clan": "VENÓN",
@@ -521,6 +505,22 @@
       "max_tg": 1824,
       "last_tg": "2026-11-01",
       "last_1v1": "2026-10-13"
+    },
+    {
+      "profile_id": 13241217,
+      "tag": "BlueUltra",
+      "clan": "Ux",
+      "cur_1v1": 1950,
+      "max_1v1": 1997,
+      "cur_tg": 1633,
+      "max_tg": 1688,
+      "last_1v1": "2026-11-01",
+      "last_tg": "2026-10-31",
+      "live": {
+        "match": 518096920,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 467847,
