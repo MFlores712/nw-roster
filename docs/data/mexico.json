@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-01T20:40:09Z",
+  "updated_at": "2026-11-01T20:45:09Z",
   "baseline": {
     "taken_at": "2026-11-01T14:00:13Z",
     "ranks": {
@@ -245,7 +245,12 @@
       "cur_tg": 1823,
       "max_tg": 1974,
       "last_1v1": "2026-10-28",
-      "last_tg": "2026-10-28"
+      "last_tg": "2026-10-28",
+      "live": {
+        "match": 518063687,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 4412109,
@@ -286,22 +291,6 @@
       "last_tg": "2026-11-01"
     },
     {
-      "profile_id": 3816609,
-      "tag": "iamkaito",
-      "clan": "nW",
-      "cur_1v1": 2225,
-      "max_1v1": 2304,
-      "cur_tg": 1813,
-      "max_tg": 1852,
-      "last_1v1": "2026-11-01",
-      "last_tg": "2026-11-01",
-      "live": {
-        "match": 518060388,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 917863,
       "tag": "Romell13",
       "clan": "hK",
@@ -311,6 +300,22 @@
       "max_tg": 1838,
       "last_1v1": "2026-10-29",
       "last_tg": "2026-10-25"
+    },
+    {
+      "profile_id": 3816609,
+      "tag": "iamkaito",
+      "clan": "nW",
+      "cur_1v1": 2209,
+      "max_1v1": 2304,
+      "cur_tg": 1813,
+      "max_tg": 1852,
+      "last_1v1": "2026-11-01",
+      "last_tg": "2026-11-01",
+      "live": {
+        "match": 518064357,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 13138746,
@@ -386,7 +391,12 @@
       "cur_tg": 1675,
       "max_tg": 1860,
       "last_1v1": "2026-11-01",
-      "last_tg": "2026-10-26"
+      "last_tg": "2026-10-26",
+      "live": {
+        "match": 518063783,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 1708286,
@@ -418,13 +428,7 @@
       "cur_tg": 1812,
       "max_tg": 1962,
       "last_1v1": "2026-10-29",
-      "last_tg": "2026-10-30",
-      "live": {
-        "match": 518059594,
-        "game": "Team Random Map",
-        "format": "2v2",
-        "account": "Zoschenko17"
-      }
+      "last_tg": "2026-10-30"
     },
     {
       "profile_id": 2934597,
