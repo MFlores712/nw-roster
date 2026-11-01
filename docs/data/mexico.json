@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-01T21:55:09Z",
+  "updated_at": "2026-11-01T22:05:09Z",
   "baseline": {
     "taken_at": "2026-11-01T14:00:13Z",
     "ranks": {
@@ -124,14 +124,14 @@
       "profile_id": 401359,
       "tag": "EnvyZ",
       "clan": "VENÓN",
-      "cur_1v1": 2498,
+      "cur_1v1": 2480,
       "max_1v1": 2512,
       "cur_tg": 2110,
       "max_tg": 2190,
       "last_1v1": "2026-11-01",
       "last_tg": "2026-10-31",
       "live": {
-        "match": 518077672,
+        "match": 518084825,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -418,13 +418,7 @@
       "cur_tg": 1812,
       "max_tg": 1962,
       "last_1v1": "2026-10-29",
-      "last_tg": "2026-10-30",
-      "live": {
-        "match": 518077624,
-        "game": "Team Random Map",
-        "format": "2v2",
-        "account": "Zoschenko17"
-      }
+      "last_tg": "2026-10-30"
     },
     {
       "profile_id": 2876835,
@@ -550,6 +544,22 @@
       "last_1v1": "2026-10-19"
     },
     {
+      "profile_id": 13241217,
+      "tag": "BlueUltra",
+      "clan": "Ux",
+      "cur_1v1": 1931,
+      "max_1v1": 1997,
+      "cur_tg": 1633,
+      "max_tg": 1688,
+      "last_1v1": "2026-11-01",
+      "last_tg": "2026-10-31",
+      "live": {
+        "match": 518084608,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 2969449,
       "tag": "BetoxAOE",
       "clan": "VENÓN",
@@ -592,22 +602,6 @@
       "max_tg": 1820,
       "last_tg": "2026-10-30",
       "last_1v1": "2026-10-28"
-    },
-    {
-      "profile_id": 13241217,
-      "tag": "BlueUltra",
-      "clan": "Ux",
-      "cur_1v1": 1915,
-      "max_1v1": 1997,
-      "cur_tg": 1633,
-      "max_tg": 1688,
-      "last_1v1": "2026-11-01",
-      "last_tg": "2026-10-31",
-      "live": {
-        "match": 518080888,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 324005,
