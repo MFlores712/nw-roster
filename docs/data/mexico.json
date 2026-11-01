@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-01T20:15:09Z",
+  "updated_at": "2026-11-01T20:20:09Z",
   "baseline": {
     "taken_at": "2026-11-01T14:00:13Z",
     "ranks": {
@@ -112,13 +112,7 @@
       "cur_tg": 2140,
       "max_tg": 2151,
       "last_1v1": "2026-10-29",
-      "last_tg": "2026-10-15",
-      "live": {
-        "match": 518055545,
-        "game": "Team Random Map",
-        "format": "3v3",
-        "account": "VENÓN | Mauricio"
-      }
+      "last_tg": "2026-10-15"
     },
     {
       "profile_id": 401359,
@@ -200,13 +194,7 @@
       "cur_tg": 1878,
       "max_tg": 1922,
       "last_tg": "2026-10-31",
-      "last_1v1": "2026-10-31",
-      "live": {
-        "match": 518055545,
-        "game": "Team Random Map",
-        "format": "3v3",
-        "account": "VENÓN | 1111111111111111111111"
-      }
+      "last_1v1": "2026-10-31"
     },
     {
       "profile_id": 1485562,
@@ -392,7 +380,7 @@
       "profile_id": 13215279,
       "tag": "GO1_mx",
       "clan": "MZTK",
-      "cur_1v1": 2038,
+      "cur_1v1": 2037,
       "max_1v1": 2093,
       "cur_tg": 1675,
       "max_tg": 1860,
