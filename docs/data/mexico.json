@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-01T19:10:09Z",
+  "updated_at": "2026-11-01T19:15:09Z",
   "baseline": {
     "taken_at": "2026-11-01T14:00:13Z",
     "ranks": {
@@ -131,15 +131,10 @@
       "clan": "hK",
       "cur_1v1": 2427,
       "max_1v1": 2433,
-      "cur_tg": 2010,
+      "cur_tg": 2022,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-11-01",
-      "live": {
-        "match": 518029155,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-01"
     },
     {
       "profile_id": 2598146,
@@ -253,15 +248,10 @@
       "clan": "hK",
       "cur_1v1": 2287,
       "max_1v1": 2317,
-      "cur_tg": 2009,
+      "cur_tg": 2021,
       "max_tg": 2083,
       "last_1v1": "2026-11-01",
-      "last_tg": "2026-11-01",
-      "live": {
-        "match": 518029155,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-01"
     },
     {
       "profile_id": 757886,
@@ -273,6 +263,17 @@
       "max_tg": 2050,
       "last_1v1": "2026-10-29",
       "last_tg": "2026-10-28"
+    },
+    {
+      "profile_id": 914665,
+      "tag": "Caguamas",
+      "clan": "nW",
+      "cur_1v1": 2232,
+      "max_1v1": 2241,
+      "cur_tg": 1797,
+      "max_tg": 2024,
+      "last_1v1": "2026-11-01",
+      "last_tg": "2026-11-01"
     },
     {
       "profile_id": 3816609,
@@ -295,22 +296,6 @@
       "max_tg": 1838,
       "last_1v1": "2026-10-29",
       "last_tg": "2026-10-25"
-    },
-    {
-      "profile_id": 914665,
-      "tag": "Caguamas",
-      "clan": "nW",
-      "cur_1v1": 2219,
-      "max_1v1": 2241,
-      "cur_tg": 1797,
-      "max_tg": 2024,
-      "last_1v1": "2026-10-31",
-      "last_tg": "2026-11-01",
-      "live": {
-        "match": 518034277,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 13138746,
@@ -388,6 +373,22 @@
       "last_1v1": "2026-03-21"
     },
     {
+      "profile_id": 13215279,
+      "tag": "GO1_mx",
+      "clan": "MZTK",
+      "cur_1v1": 2033,
+      "max_1v1": 2093,
+      "cur_tg": 1675,
+      "max_tg": 1860,
+      "last_1v1": "2026-11-01",
+      "last_tg": "2026-10-26",
+      "live": {
+        "match": 518039702,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 9770338,
       "tag": "SynfonY",
       "clan": "CL",
@@ -399,20 +400,15 @@
       "last_tg": "2026-10-30"
     },
     {
-      "profile_id": 13215279,
-      "tag": "GO1_mx",
-      "clan": "MZTK",
-      "cur_1v1": 2017,
-      "max_1v1": 2093,
-      "cur_tg": 1675,
-      "max_tg": 1860,
+      "profile_id": 1249720,
+      "tag": "Lice_Slide",
+      "clan": "VN",
+      "cur_1v1": 2013,
+      "max_1v1": 2102,
+      "cur_tg": 1851,
+      "max_tg": 1997,
       "last_1v1": "2026-11-01",
-      "last_tg": "2026-10-26",
-      "live": {
-        "match": 518035970,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-28"
     },
     {
       "profile_id": 2934597,
@@ -434,22 +430,6 @@
       "max_tg": 1885,
       "last_1v1": "2026-08-15",
       "last_tg": "2026-10-31"
-    },
-    {
-      "profile_id": 1249720,
-      "tag": "Lice_Slide",
-      "clan": "VN",
-      "cur_1v1": 1994,
-      "max_1v1": 2102,
-      "cur_tg": 1851,
-      "max_tg": 1997,
-      "last_1v1": "2026-10-28",
-      "last_tg": "2026-10-28",
-      "live": {
-        "match": 518032277,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 6501299,
@@ -503,7 +483,12 @@
       "cur_tg": 1733,
       "max_tg": 1824,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-11-01"
+      "last_tg": "2026-11-01",
+      "live": {
+        "match": 518039520,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 2986966,
