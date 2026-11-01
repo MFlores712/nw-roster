@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-01T19:40:10Z",
+  "updated_at": "2026-11-01T19:45:09Z",
   "baseline": {
     "taken_at": "2026-11-01T14:00:13Z",
     "ranks": {
@@ -288,12 +288,7 @@
       "cur_tg": 1813,
       "max_tg": 1852,
       "last_1v1": "2026-11-01",
-      "last_tg": "2026-11-01",
-      "live": {
-        "match": 518036719,
-        "game": "Unranked",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-01"
     },
     {
       "profile_id": 917863,
@@ -382,6 +377,17 @@
       "last_1v1": "2026-03-21"
     },
     {
+      "profile_id": 1249720,
+      "tag": "Lice_Slide",
+      "clan": "VN",
+      "cur_1v1": 2029,
+      "max_1v1": 2102,
+      "cur_tg": 1851,
+      "max_tg": 1997,
+      "last_1v1": "2026-11-01",
+      "last_tg": "2026-10-28"
+    },
+    {
       "profile_id": 13215279,
       "tag": "GO1_mx",
       "clan": "MZTK",
@@ -415,22 +421,6 @@
       }
     },
     {
-      "profile_id": 1249720,
-      "tag": "Lice_Slide",
-      "clan": "VN",
-      "cur_1v1": 2013,
-      "max_1v1": 2102,
-      "cur_tg": 1851,
-      "max_tg": 1997,
-      "last_1v1": "2026-11-01",
-      "last_tg": "2026-10-28",
-      "live": {
-        "match": 518040883,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 2934597,
       "tag": "Sgt.Pepper",
       "clan": "nW",
@@ -460,12 +450,7 @@
       "cur_tg": 1731,
       "max_tg": 1745,
       "last_tg": "2026-10-09",
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 518036719,
-        "game": "Unranked",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 2291749,
