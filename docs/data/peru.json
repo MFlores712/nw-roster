@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-01T18:55:09Z",
+  "updated_at": "2026-11-01T19:00:14Z",
   "baseline": {
     "taken_at": "2026-11-01T14:00:13Z",
     "ranks": {
@@ -225,12 +225,7 @@
       "cur_tg": 1550,
       "max_tg": 1719,
       "last_1v1": "2026-11-01",
-      "last_tg": "2026-11-01",
-      "live": {
-        "match": 518030288,
-        "game": "Team Empire Wars",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-01"
     }
   ],
   "show_top": 15
