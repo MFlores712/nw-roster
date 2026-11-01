@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-01T16:30:12Z",
+  "updated_at": "2026-11-01T16:35:08Z",
   "baseline": {
     "taken_at": "2026-11-01T14:00:13Z",
     "ranks": {
@@ -109,17 +109,12 @@
       "profile_id": 1359694,
       "tag": "AtilA",
       "clan": "nW",
-      "cur_1v1": 2016,
+      "cur_1v1": 2027,
       "max_1v1": 2123,
       "cur_tg": 1622,
       "max_tg": 1670,
       "last_tg": "2026-11-01",
-      "last_1v1": "2026-11-01",
-      "live": {
-        "match": 517990123,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-01"
     },
     {
       "profile_id": 633255,
@@ -179,22 +174,6 @@
       "last_1v1": "2026-11-01"
     },
     {
-      "profile_id": 3034651,
-      "tag": "SANGRE AZUL",
-      "clan": "MANCO II",
-      "cur_1v1": 1908,
-      "max_1v1": 2035,
-      "cur_tg": 1526,
-      "max_tg": 1657,
-      "last_1v1": "2026-11-01",
-      "last_tg": "2026-10-26",
-      "live": {
-        "match": 517990123,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 1865687,
       "tag": "Pentrus",
       "clan": "CTM",
@@ -204,6 +183,17 @@
       "max_tg": 1608,
       "last_1v1": "2026-09-19",
       "last_tg": "2026-11-01"
+    },
+    {
+      "profile_id": 3034651,
+      "tag": "SANGRE AZUL",
+      "clan": "MANCO II",
+      "cur_1v1": 1897,
+      "max_1v1": 2035,
+      "cur_tg": 1526,
+      "max_tg": 1657,
+      "last_1v1": "2026-11-01",
+      "last_tg": "2026-10-26"
     },
     {
       "profile_id": 4229962,
