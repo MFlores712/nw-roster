@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-02T02:20:09Z",
+  "updated_at": "2026-11-02T02:30:12Z",
   "baseline": {
     "taken_at": "2026-11-01T14:00:13Z",
     "ranks": {
@@ -40,17 +40,12 @@
     {
       "profile_id": 3216208,
       "tag": "Dimo",
-      "cur_1v1": 2583,
+      "cur_1v1": 2578,
       "max_1v1": 2583,
       "cur_tg": 1892,
       "max_tg": 1935,
       "last_1v1": "2026-11-02",
-      "last_tg": "2026-11-02",
-      "live": {
-        "match": 518134375,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-02"
     },
     {
       "profile_id": 9558892,
@@ -83,12 +78,7 @@
       "cur_tg": 1850,
       "max_tg": 1932,
       "last_tg": "2026-10-30",
-      "last_1v1": "2026-10-27",
-      "live": {
-        "match": 518131080,
-        "game": "Unranked",
-        "format": "4v4"
-      }
+      "last_1v1": "2026-10-27"
     },
     {
       "profile_id": 1359694,
@@ -227,10 +217,10 @@
       "tag": "_The_Oldergold",
       "cur_1v1": 1828,
       "max_1v1": 1940,
-      "cur_tg": 1566,
+      "cur_tg": 1581,
       "max_tg": 1719,
       "last_1v1": "2026-11-01",
-      "last_tg": "2026-11-01",
+      "last_tg": "2026-11-02",
       "live": {
         "match": 518129855,
         "game": "Team Random Map",
