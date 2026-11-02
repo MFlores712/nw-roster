@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-02T04:40:10Z",
+  "updated_at": "2026-11-02T04:45:09Z",
   "baseline": {
     "taken_at": "2026-11-01T14:00:13Z",
     "ranks": {
@@ -178,13 +178,7 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 518157119,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "hK | RanDoM"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 12723994,
@@ -237,15 +231,10 @@
       "clan": "hK",
       "cur_1v1": 2298,
       "max_1v1": 2350,
-      "cur_tg": 1819,
+      "cur_tg": 1832,
       "max_tg": 1974,
       "last_1v1": "2026-10-28",
-      "last_tg": "2026-11-02",
-      "live": {
-        "match": 518155447,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-02"
     },
     {
       "profile_id": 4412109,
@@ -332,7 +321,13 @@
       "cur_tg": 1633,
       "max_tg": 1820,
       "last_1v1": "2026-11-01",
-      "last_tg": "2026-10-21"
+      "last_tg": "2026-10-21",
+      "live": {
+        "match": 518159996,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "Chimirindo"
+      }
     },
     {
       "profile_id": 1947348,
@@ -354,7 +349,12 @@
       "cur_tg": 1693,
       "max_tg": 1860,
       "last_1v1": "2026-11-01",
-      "last_tg": "2026-11-01"
+      "last_tg": "2026-11-01",
+      "live": {
+        "match": 518159295,
+        "game": "Unranked",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 400111,
@@ -376,7 +376,12 @@
       "cur_tg": 1634,
       "max_tg": 1870,
       "last_1v1": "2026-10-31",
-      "last_tg": "2026-10-31"
+      "last_tg": "2026-10-31",
+      "live": {
+        "match": 518159295,
+        "game": "Unranked",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 1708286,
