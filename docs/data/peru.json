@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-02T06:00:13Z",
+  "updated_at": "2026-11-02T06:05:09Z",
   "baseline": {
     "taken_at": "2026-11-01T14:00:13Z",
     "ranks": {
@@ -174,6 +174,22 @@
       "last_1v1": "2026-10-01"
     },
     {
+      "profile_id": 3034651,
+      "tag": "SANGRE AZUL",
+      "clan": "MANCO II",
+      "cur_1v1": 1928,
+      "max_1v1": 2035,
+      "cur_tg": 1526,
+      "max_tg": 1657,
+      "last_1v1": "2026-11-02",
+      "last_tg": "2026-10-26",
+      "live": {
+        "match": 518169069,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 4229962,
       "tag": "Réyiman",
       "clan": "LvSP",
@@ -183,22 +199,6 @@
       "max_tg": 1719,
       "last_1v1": "2026-11-01",
       "last_tg": "2026-10-30"
-    },
-    {
-      "profile_id": 3034651,
-      "tag": "SANGRE AZUL",
-      "clan": "MANCO II",
-      "cur_1v1": 1909,
-      "max_1v1": 2035,
-      "cur_tg": 1526,
-      "max_tg": 1657,
-      "last_1v1": "2026-11-02",
-      "last_tg": "2026-10-26",
-      "live": {
-        "match": 518167540,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 1865687,
