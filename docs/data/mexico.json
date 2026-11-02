@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-02T05:25:08Z",
+  "updated_at": "2026-11-02T05:36:48Z",
   "baseline": {
     "taken_at": "2026-11-01T14:00:13Z",
     "ranks": {
@@ -114,7 +114,7 @@
       "last_1v1": "2026-10-29",
       "last_tg": "2026-10-15",
       "live": {
-        "match": 518162642,
+        "match": 518165848,
         "game": "Team Random Map",
         "format": "4v4",
         "account": "[GDL] Chuchito"
@@ -203,7 +203,7 @@
       "last_tg": "2026-10-31",
       "last_1v1": "2026-10-31",
       "live": {
-        "match": 518162642,
+        "match": 518165848,
         "game": "Team Random Map",
         "format": "4v4",
         "account": "ReformedGGWP"
@@ -249,7 +249,7 @@
       "clan": "hK",
       "cur_1v1": 2298,
       "max_1v1": 2350,
-      "cur_tg": 1838,
+      "cur_tg": 1817,
       "max_tg": 1974,
       "last_1v1": "2026-10-28",
       "last_tg": "2026-11-02",
@@ -381,12 +381,7 @@
       "cur_tg": 1693,
       "max_tg": 1860,
       "last_1v1": "2026-11-01",
-      "last_tg": "2026-11-01",
-      "live": {
-        "match": 518159295,
-        "game": "Unranked",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-01"
     },
     {
       "profile_id": 400111,
@@ -408,12 +403,7 @@
       "cur_tg": 1634,
       "max_tg": 1870,
       "last_1v1": "2026-10-31",
-      "last_tg": "2026-10-31",
-      "live": {
-        "match": 518159295,
-        "game": "Unranked",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-31"
     },
     {
       "profile_id": 1708286,
@@ -610,7 +600,7 @@
       "clan": "MZTK",
       "cur_1v1": 1925,
       "max_1v1": 1993,
-      "cur_tg": 1710,
+      "cur_tg": 1701,
       "max_tg": 1858,
       "last_1v1": "2026-11-02",
       "last_tg": "2026-11-02",
