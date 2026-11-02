@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-02T22:50:17Z",
+  "updated_at": "2026-11-02T22:55:09Z",
   "baseline": {
     "taken_at": "2026-11-02T14:00:16Z",
     "ranks": {
@@ -200,12 +200,7 @@
       "cur_tg": 1698,
       "max_tg": 1839,
       "last_tg": "2026-10-25",
-      "last_1v1": "2026-10-09",
-      "live": {
-        "match": 518327419,
-        "game": "Unranked",
-        "format": "4v4"
-      }
+      "last_1v1": "2026-10-09"
     },
     {
       "profile_id": 5981761,
@@ -221,14 +216,14 @@
     {
       "profile_id": 2134856,
       "tag": "Jacko",
-      "cur_1v1": 1756,
+      "cur_1v1": 1741,
       "max_1v1": 1867,
       "cur_tg": 1119,
       "max_tg": 1119,
       "last_1v1": "2026-11-02",
       "last_tg": "2025-03-14",
       "live": {
-        "match": 518332788,
+        "match": 518337352,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
