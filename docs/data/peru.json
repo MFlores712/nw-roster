@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-02T01:15:09Z",
+  "updated_at": "2026-11-02T01:20:09Z",
   "baseline": {
     "taken_at": "2026-11-01T14:00:13Z",
     "ranks": {
@@ -42,15 +42,10 @@
       "tag": "Dimo",
       "cur_1v1": 2568,
       "max_1v1": 2568,
-      "cur_tg": 1888,
+      "cur_tg": 1892,
       "max_tg": 1935,
       "last_1v1": "2026-11-01",
-      "last_tg": "2026-11-02",
-      "live": {
-        "match": 518118813,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-11-02"
     },
     {
       "profile_id": 9558892,
@@ -122,6 +117,17 @@
       "last_1v1": "2026-09-24"
     },
     {
+      "profile_id": 12167914,
+      "tag": "lorecs",
+      "clan": "CL",
+      "cur_1v1": 2021,
+      "max_1v1": 2021,
+      "cur_tg": 1959,
+      "max_tg": 1992,
+      "last_1v1": "2026-11-02",
+      "last_tg": "2026-10-31"
+    },
+    {
       "profile_id": 633255,
       "tag": "Tempo",
       "cur_1v1": 2004,
@@ -129,22 +135,11 @@
       "cur_tg": 1679,
       "max_tg": 1843,
       "last_1v1": "2026-10-30",
-      "last_tg": "2026-10-25"
-    },
-    {
-      "profile_id": 12167914,
-      "tag": "lorecs",
-      "clan": "CL",
-      "cur_1v1": 1998,
-      "max_1v1": 2016,
-      "cur_tg": 1959,
-      "max_tg": 1992,
-      "last_1v1": "2026-10-31",
-      "last_tg": "2026-10-31",
+      "last_tg": "2026-10-25",
       "live": {
-        "match": 518119732,
-        "game": "1v1 Random Map",
-        "format": "1v1"
+        "match": 518124198,
+        "game": "Team Death Match",
+        "format": "4v4"
       }
     },
     {
