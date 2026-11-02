@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-02T03:55:08Z",
+  "updated_at": "2026-11-02T04:00:13Z",
   "baseline": {
     "taken_at": "2026-11-01T14:00:13Z",
     "ranks": {
@@ -134,7 +134,12 @@
       "cur_tg": 2084,
       "max_tg": 2190,
       "last_1v1": "2026-11-01",
-      "last_tg": "2026-11-02"
+      "last_tg": "2026-11-02",
+      "live": {
+        "match": 518153383,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 2598146,
@@ -322,17 +327,12 @@
     {
       "profile_id": 5803221,
       "tag": "Mahmoud Ahmadinejad",
-      "cur_1v1": 2137,
+      "cur_1v1": 2145,
       "max_1v1": 2181,
       "cur_tg": 1646,
       "max_tg": 1652,
       "last_tg": "2026-10-29",
-      "last_1v1": "2026-11-02",
-      "live": {
-        "match": 518150529,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-02"
     },
     {
       "profile_id": 2850920,
@@ -343,13 +343,7 @@
       "cur_tg": 1633,
       "max_tg": 1820,
       "last_1v1": "2026-11-01",
-      "last_tg": "2026-10-21",
-      "live": {
-        "match": 518149551,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "Chimirindo"
-      }
+      "last_tg": "2026-10-21"
     },
     {
       "profile_id": 1947348,
@@ -459,22 +453,6 @@
       "last_tg": "2026-10-27"
     },
     {
-      "profile_id": 2876835,
-      "tag": "Abejorro",
-      "clan": "nW",
-      "cur_1v1": 1994,
-      "max_1v1": 2152,
-      "cur_tg": 1834,
-      "max_tg": 1844,
-      "last_1v1": "2026-11-02",
-      "last_tg": "2026-10-31",
-      "live": {
-        "match": 518149551,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 6501299,
       "tag": "ShutAzarquay",
       "clan": "nW",
@@ -484,6 +462,22 @@
       "max_tg": 1745,
       "last_tg": "2026-10-09",
       "last_1v1": "2026-10-24"
+    },
+    {
+      "profile_id": 2876835,
+      "tag": "Abejorro",
+      "clan": "nW",
+      "cur_1v1": 1981,
+      "max_1v1": 2152,
+      "cur_tg": 1834,
+      "max_tg": 1844,
+      "last_1v1": "2026-11-02",
+      "last_tg": "2026-10-31",
+      "live": {
+        "match": 518153475,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2291749,
