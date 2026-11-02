@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-02T04:50:11Z",
+  "updated_at": "2026-11-02T04:55:08Z",
   "baseline": {
     "taken_at": "2026-11-01T14:00:13Z",
     "ranks": {
@@ -226,6 +226,22 @@
       "last_seen": "2025-06-11"
     },
     {
+      "profile_id": 4412109,
+      "tag": "HGB",
+      "clan": "hK",
+      "cur_1v1": 2299,
+      "max_1v1": 2317,
+      "cur_tg": 2048,
+      "max_tg": 2083,
+      "last_1v1": "2026-11-02",
+      "last_tg": "2026-11-01",
+      "live": {
+        "match": 518161378,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 580573,
       "tag": "Puerco Black",
       "clan": "hK",
@@ -240,17 +256,6 @@
         "game": "Team Random Map",
         "format": "4v4"
       }
-    },
-    {
-      "profile_id": 4412109,
-      "tag": "HGB",
-      "clan": "hK",
-      "cur_1v1": 2287,
-      "max_1v1": 2317,
-      "cur_tg": 2048,
-      "max_tg": 2083,
-      "last_1v1": "2026-11-01",
-      "last_tg": "2026-11-01"
     },
     {
       "profile_id": 757886,
@@ -513,22 +518,6 @@
       "last_1v1": "2026-10-13"
     },
     {
-      "profile_id": 2876835,
-      "tag": "Abejorro",
-      "clan": "nW",
-      "cur_1v1": 1948,
-      "max_1v1": 2152,
-      "cur_tg": 1834,
-      "max_tg": 1844,
-      "last_1v1": "2026-11-02",
-      "last_tg": "2026-10-31",
-      "live": {
-        "match": 518158771,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 467847,
       "tag": "DoN.Vergas",
       "cur_1v1": 1940,
@@ -572,6 +561,22 @@
       "last_1v1": "2026-09-18"
     },
     {
+      "profile_id": 2876835,
+      "tag": "Abejorro",
+      "clan": "nW",
+      "cur_1v1": 1929,
+      "max_1v1": 2152,
+      "cur_tg": 1834,
+      "max_tg": 1844,
+      "last_1v1": "2026-11-02",
+      "last_tg": "2026-10-31",
+      "live": {
+        "match": 518161313,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 3285258,
       "tag": "Kiss",
       "clan": "MZTK",
@@ -605,6 +610,16 @@
       "last_1v1": "2026-10-28"
     },
     {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1910,
+      "max_1v1": 2003,
+      "cur_tg": 1366,
+      "max_tg": 1417,
+      "last_1v1": "2026-11-02",
+      "last_tg": "2026-10-30"
+    },
+    {
       "profile_id": 324005,
       "tag": "Narizberto",
       "clan": "VN",
@@ -625,21 +640,6 @@
       "max_tg": 1805,
       "last_tg": "2026-11-01",
       "last_1v1": "2026-10-16"
-    },
-    {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1891,
-      "max_1v1": 2003,
-      "cur_tg": 1366,
-      "max_tg": 1417,
-      "last_1v1": "2026-11-01",
-      "last_tg": "2026-10-30",
-      "live": {
-        "match": 518158771,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     }
   ],
   "show_top": 45,
