@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-02T06:45:10Z",
+  "updated_at": "2026-11-02T06:50:10Z",
   "baseline": {
     "taken_at": "2026-11-01T14:00:13Z",
     "ranks": {
@@ -319,7 +319,7 @@
       "last_1v1": "2026-11-02",
       "last_tg": "2026-11-01",
       "live": {
-        "match": 518167668,
+        "match": 518173013,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -589,22 +589,6 @@
       "last_1v1": "2026-09-18"
     },
     {
-      "profile_id": 2876835,
-      "tag": "Abejorro",
-      "clan": "nW",
-      "cur_1v1": 1927,
-      "max_1v1": 2152,
-      "cur_tg": 1834,
-      "max_tg": 1844,
-      "last_1v1": "2026-11-02",
-      "last_tg": "2026-10-31",
-      "live": {
-        "match": 518172197,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 3254820,
       "tag": "__Chino",
       "cur_1v1": 1927,
@@ -640,6 +624,17 @@
       "max_tg": 1820,
       "last_tg": "2026-10-30",
       "last_1v1": "2026-10-28"
+    },
+    {
+      "profile_id": 2876835,
+      "tag": "Abejorro",
+      "clan": "nW",
+      "cur_1v1": 1913,
+      "max_1v1": 2152,
+      "cur_tg": 1834,
+      "max_tg": 1844,
+      "last_1v1": "2026-11-02",
+      "last_tg": "2026-10-31"
     },
     {
       "profile_id": 324005,
