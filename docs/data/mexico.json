@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-02T00:30:14Z",
+  "updated_at": "2026-11-02T00:35:09Z",
   "baseline": {
     "taken_at": "2026-11-01T14:00:13Z",
     "ranks": {
@@ -272,7 +272,12 @@
       "cur_tg": 1797,
       "max_tg": 2024,
       "last_1v1": "2026-11-01",
-      "last_tg": "2026-11-01"
+      "last_tg": "2026-11-01",
+      "live": {
+        "match": 518113650,
+        "game": "Unranked",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 917863,
@@ -294,7 +299,12 @@
       "cur_tg": 1813,
       "max_tg": 1852,
       "last_1v1": "2026-11-01",
-      "last_tg": "2026-11-01"
+      "last_tg": "2026-11-01",
+      "live": {
+        "match": 518113650,
+        "game": "Unranked",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 13138746,
@@ -343,7 +353,12 @@
       "cur_tg": 1752,
       "max_tg": 2034,
       "last_1v1": "2026-07-08",
-      "last_tg": "2026-10-21"
+      "last_tg": "2026-10-21",
+      "live": {
+        "match": 518113650,
+        "game": "Unranked",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 13215279,
@@ -551,6 +566,22 @@
       "last_1v1": "2026-09-18"
     },
     {
+      "profile_id": 3285258,
+      "tag": "Kiss",
+      "clan": "MZTK",
+      "cur_1v1": 1928,
+      "max_1v1": 1993,
+      "cur_tg": 1722,
+      "max_tg": 1858,
+      "last_1v1": "2026-11-02",
+      "last_tg": "2026-10-29",
+      "live": {
+        "match": 518113572,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 278380,
       "tag": "Lemoine",
       "clan": "VL",
@@ -571,22 +602,6 @@
       "max_tg": 1820,
       "last_tg": "2026-10-30",
       "last_1v1": "2026-10-28"
-    },
-    {
-      "profile_id": 3285258,
-      "tag": "Kiss",
-      "clan": "MZTK",
-      "cur_1v1": 1917,
-      "max_1v1": 1993,
-      "cur_tg": 1722,
-      "max_tg": 1858,
-      "last_1v1": "2026-11-01",
-      "last_tg": "2026-10-29",
-      "live": {
-        "match": 518113572,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 324005,
