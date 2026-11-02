@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T14:00:13Z",
+ "updated_at": "2026-11-02T14:00:16Z",
  "players": {
   "22889810": {
    "name": "Manuel",
@@ -452,8 +452,8 @@
      "id": 23101014,
      "hops": 1,
      "name": "hK | RanDoM",
-     "rating": 2290,
-     "last": "2026-11-01"
+     "rating": 2242,
+     "last": "2026-11-02"
     }
    ]
   },
@@ -471,7 +471,7 @@
      "id": 8448734,
      "hops": 1,
      "name": "The_Fury",
-     "rating": 2316,
+     "rating": 2289,
      "last": "2026-11-01"
     }
    ]
@@ -530,7 +530,7 @@
      "id": 2888687,
      "hops": 1,
      "name": "VENÓN | SiNisTeR",
-     "rating": 2398,
+     "rating": 2362,
      "last": "2026-11-01"
     },
     {
@@ -789,8 +789,8 @@
      "id": 5601064,
      "hops": 1,
      "name": "Chimirindo",
-     "rating": 2072,
-     "last": "2026-10-15"
+     "rating": 2092,
+     "last": "2026-11-02"
     }
    ]
   },
@@ -850,6 +850,13 @@
      "name": "[GDL]CemenTox",
      "rating": 1844,
      "last": "2026-09-11"
+    },
+    {
+     "id": 26314641,
+     "hops": 1,
+     "name": "[GDL]FRIDA",
+     "rating": null,
+     "last": null
     }
    ]
   },
@@ -1071,9 +1078,9 @@
     {
      "id": 20930753,
      "hops": 2,
-     "name": "VENÓN | 1111111111111111111111",
-     "rating": 2029,
-     "last": "2026-10-24"
+     "name": "VENÓN | FRIDOTA",
+     "rating": 2041,
+     "last": "2026-11-01"
     },
     {
      "id": 21097279,
@@ -1085,7 +1092,7 @@
     {
      "id": 21433190,
      "hops": 2,
-     "name": "ReformedGGWP",
+     "name": "OS+ | Mauricioae13",
      "rating": 2026,
      "last": "2026-10-27"
     }
@@ -1388,8 +1395,8 @@
      "id": 2524306,
      "hops": 1,
      "name": "Retember",
-     "rating": 1948,
-     "last": "2026-10-30"
+     "rating": 1957,
+     "last": "2026-11-02"
     },
     {
      "id": 11796319,
@@ -1407,8 +1414,8 @@
      "id": 5407486,
      "hops": 1,
      "name": "Alvaro_Uribest",
-     "rating": 1940,
-     "last": "2026-10-29"
+     "rating": 1910,
+     "last": "2026-11-01"
     },
     {
      "id": 6410880,
@@ -1645,8 +1652,8 @@
      "id": 3265324,
      "hops": 1,
      "name": "CTM | Lelouch ELO bajito",
-     "rating": 1918,
-     "last": "2026-11-01"
+     "rating": 1924,
+     "last": "2026-11-02"
     },
     {
      "id": 6387067,
@@ -1766,7 +1773,7 @@
     {
      "id": 24363928,
      "hops": 1,
-     "name": "CuyLover",
+     "name": "Dratz",
      "rating": 1494,
      "last": "2026-09-07"
     }
