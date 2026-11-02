@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-02T17:55:10Z",
+  "updated_at": "2026-11-02T18:10:10Z",
   "baseline": {
     "taken_at": "2026-11-02T14:00:16Z",
     "ranks": {
@@ -120,14 +120,14 @@
       "profile_id": 12167914,
       "tag": "lorecs",
       "clan": "CL",
-      "cur_1v1": 2017,
+      "cur_1v1": 2010,
       "max_1v1": 2031,
       "cur_tg": 1896,
       "max_tg": 1992,
       "last_1v1": "2026-11-02",
       "last_tg": "2026-11-02",
       "live": {
-        "match": 518267517,
+        "match": 518271018,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -215,7 +215,7 @@
       "profile_id": 4167535,
       "tag": "Dia franptom",
       "clan": "LE",
-      "cur_1v1": 1861,
+      "cur_1v1": 1874,
       "max_1v1": 1995,
       "cur_tg": 1452,
       "max_tg": 1581,
