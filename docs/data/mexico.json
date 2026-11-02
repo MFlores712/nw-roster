@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-02T07:55:08Z",
+  "updated_at": "2026-11-02T08:20:10Z",
   "baseline": {
     "taken_at": "2026-11-01T14:00:13Z",
     "ranks": {
@@ -270,6 +270,17 @@
       "last_tg": "2026-11-01"
     },
     {
+      "profile_id": 3816609,
+      "tag": "iamkaito",
+      "clan": "nW",
+      "cur_1v1": 2224,
+      "max_1v1": 2304,
+      "cur_tg": 1813,
+      "max_tg": 1852,
+      "last_1v1": "2026-11-02",
+      "last_tg": "2026-11-01"
+    },
+    {
       "profile_id": 917863,
       "tag": "Romell13",
       "clan": "hK",
@@ -281,36 +292,15 @@
       "last_tg": "2026-11-02"
     },
     {
-      "profile_id": 3816609,
-      "tag": "iamkaito",
-      "clan": "nW",
-      "cur_1v1": 2209,
-      "max_1v1": 2304,
-      "cur_tg": 1813,
-      "max_tg": 1852,
-      "last_1v1": "2026-11-02",
-      "last_tg": "2026-11-01",
-      "live": {
-        "match": 518178992,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 13138746,
       "tag": "FraKTal",
       "clan": "hK",
       "cur_1v1": 2179,
       "max_1v1": 2233,
-      "cur_tg": 1956,
+      "cur_tg": 1932,
       "max_tg": 1983,
       "last_1v1": "2026-11-01",
-      "last_tg": "2026-11-02",
-      "live": {
-        "match": 518177936,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-02"
     },
     {
       "profile_id": 5803221,
@@ -407,13 +397,7 @@
       "cur_tg": 1812,
       "max_tg": 1962,
       "last_1v1": "2026-10-29",
-      "last_tg": "2026-10-30",
-      "live": {
-        "match": 518177936,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "Stalingrado"
-      }
+      "last_tg": "2026-10-30"
     },
     {
       "profile_id": 233625,
