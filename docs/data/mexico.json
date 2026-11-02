@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-02T16:55:10Z",
+  "updated_at": "2026-11-02T17:00:14Z",
   "baseline": {
     "taken_at": "2026-11-02T14:00:16Z",
     "ranks": {
@@ -90,7 +90,12 @@
       "cur_tg": 2152,
       "max_tg": 2169,
       "last_tg": "2026-10-08",
-      "last_1v1": "2026-11-02"
+      "last_1v1": "2026-11-02",
+      "live": {
+        "match": 518255691,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 13099159,
@@ -373,15 +378,10 @@
       "clan": "SotC",
       "cur_1v1": 2054,
       "max_1v1": 2098,
-      "cur_tg": 1634,
+      "cur_tg": 1647,
       "max_tg": 1870,
       "last_1v1": "2026-10-31",
-      "last_tg": "2026-10-31",
-      "live": {
-        "match": 518251118,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-02"
     },
     {
       "profile_id": 1708286,
