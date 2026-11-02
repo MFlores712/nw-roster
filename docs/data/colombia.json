@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-02T06:00:13Z",
+  "updated_at": "2026-11-02T06:10:10Z",
   "baseline": {
     "taken_at": "2026-11-01T14:00:13Z",
     "ranks": {
@@ -210,7 +210,7 @@
     {
       "profile_id": 2134856,
       "tag": "Jacko",
-      "cur_1v1": 1741,
+      "cur_1v1": 1756,
       "max_1v1": 1867,
       "cur_tg": 1119,
       "max_tg": 1119,
