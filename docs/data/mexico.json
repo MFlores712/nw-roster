@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-02T16:15:12Z",
+  "updated_at": "2026-11-02T16:20:12Z",
   "baseline": {
     "taken_at": "2026-11-02T14:00:16Z",
     "ranks": {
@@ -85,7 +85,7 @@
       "profile_id": 2776293,
       "tag": "Kingstone",
       "clan": "Oni",
-      "cur_1v1": 2614,
+      "cur_1v1": 2633,
       "max_1v1": 2867,
       "cur_tg": 2152,
       "max_tg": 2169,
