@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-02T05:15:12Z",
+  "updated_at": "2026-11-02T05:30:12Z",
   "baseline": {
     "taken_at": "2026-11-01T14:00:13Z",
     "ranks": {
@@ -155,7 +155,7 @@
       "clan": "VENÓN",
       "cur_1v1": 1906,
       "max_1v1": 1906,
-      "cur_tg": 1788,
+      "cur_tg": 1807,
       "max_tg": 1893,
       "last_tg": "2026-11-02",
       "last_1v1": "2026-11-02",
