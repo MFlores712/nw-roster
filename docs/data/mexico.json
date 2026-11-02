@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-02T05:20:08Z",
+  "updated_at": "2026-11-02T05:25:08Z",
   "baseline": {
     "taken_at": "2026-11-01T14:00:13Z",
     "ranks": {
@@ -184,7 +184,13 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 518164568,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "hK | RanDoM"
+      }
     },
     {
       "profile_id": 12723994,
@@ -238,22 +244,6 @@
       "last_seen": "2025-06-11"
     },
     {
-      "profile_id": 4412109,
-      "tag": "HGB",
-      "clan": "hK",
-      "cur_1v1": 2299,
-      "max_1v1": 2317,
-      "cur_tg": 2048,
-      "max_tg": 2083,
-      "last_1v1": "2026-11-02",
-      "last_tg": "2026-11-01",
-      "live": {
-        "match": 518161378,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 580573,
       "tag": "Puerco Black",
       "clan": "hK",
@@ -267,6 +257,22 @@
         "match": 518163789,
         "game": "Team Random Map",
         "format": "4v4"
+      }
+    },
+    {
+      "profile_id": 4412109,
+      "tag": "HGB",
+      "clan": "hK",
+      "cur_1v1": 2278,
+      "max_1v1": 2317,
+      "cur_tg": 2048,
+      "max_tg": 2083,
+      "last_1v1": "2026-11-02",
+      "last_tg": "2026-11-01",
+      "live": {
+        "match": 518161378,
+        "game": "1v1 Random Map",
+        "format": "1v1"
       }
     },
     {
@@ -300,7 +306,12 @@
       "cur_tg": 1823,
       "max_tg": 1838,
       "last_1v1": "2026-10-29",
-      "last_tg": "2026-10-25"
+      "last_tg": "2026-10-25",
+      "live": {
+        "match": 518164568,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 3816609,
@@ -322,7 +333,12 @@
       "cur_tg": 1959,
       "max_tg": 1983,
       "last_1v1": "2026-11-01",
-      "last_tg": "2026-11-02"
+      "last_tg": "2026-11-02",
+      "live": {
+        "match": 518164568,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 5803221,
@@ -524,6 +540,22 @@
       "last_1v1": "2026-10-13"
     },
     {
+      "profile_id": 2876835,
+      "tag": "Abejorro",
+      "clan": "nW",
+      "cur_1v1": 1951,
+      "max_1v1": 2152,
+      "cur_tg": 1834,
+      "max_tg": 1844,
+      "last_1v1": "2026-11-02",
+      "last_tg": "2026-10-31",
+      "live": {
+        "match": 518164727,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 467847,
       "tag": "DoN.Vergas",
       "cur_1v1": 1940,
@@ -553,7 +585,13 @@
       "cur_tg": 1774,
       "max_tg": 1813,
       "last_tg": "2026-10-30",
-      "last_1v1": "2026-10-19"
+      "last_1v1": "2026-10-19",
+      "live": {
+        "match": 518164568,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "hK | Charles Martel"
+      }
     },
     {
       "profile_id": 2969449,
@@ -565,22 +603,6 @@
       "max_tg": 1821,
       "last_tg": "2026-10-16",
       "last_1v1": "2026-09-18"
-    },
-    {
-      "profile_id": 2876835,
-      "tag": "Abejorro",
-      "clan": "nW",
-      "cur_1v1": 1929,
-      "max_1v1": 2152,
-      "cur_tg": 1834,
-      "max_tg": 1844,
-      "last_1v1": "2026-11-02",
-      "last_tg": "2026-10-31",
-      "live": {
-        "match": 518161313,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 3285258,
