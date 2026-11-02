@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-02T02:15:10Z",
+  "updated_at": "2026-11-02T02:20:09Z",
   "baseline": {
     "taken_at": "2026-11-01T14:00:13Z",
     "ranks": {
@@ -134,7 +134,12 @@
       "cur_tg": 2067,
       "max_tg": 2190,
       "last_1v1": "2026-11-01",
-      "last_tg": "2026-11-02"
+      "last_tg": "2026-11-02",
+      "live": {
+        "match": 518135872,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 2598146,
@@ -145,7 +150,13 @@
       "cur_tg": 2200,
       "max_tg": 2227,
       "last_tg": "2026-10-27",
-      "last_1v1": "2026-10-31"
+      "last_1v1": "2026-10-31",
+      "live": {
+        "match": 518135395,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "VENÓN | SiNisTeR"
+      }
     },
     {
       "profile_id": 310739,
@@ -200,7 +211,12 @@
       "cur_tg": 1857,
       "max_tg": 2099,
       "last_1v1": "2026-10-31",
-      "last_tg": "2026-10-25"
+      "last_tg": "2026-10-25",
+      "live": {
+        "match": 518135395,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 9031952,
@@ -413,7 +429,12 @@
       "cur_tg": 1851,
       "max_tg": 1997,
       "last_1v1": "2026-11-02",
-      "last_tg": "2026-10-28"
+      "last_tg": "2026-10-28",
+      "live": {
+        "match": 518135996,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2876835,
@@ -569,7 +590,12 @@
       "cur_tg": 1702,
       "max_tg": 1858,
       "last_1v1": "2026-11-02",
-      "last_tg": "2026-11-02"
+      "last_tg": "2026-11-02",
+      "live": {
+        "match": 518136072,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 278380,
