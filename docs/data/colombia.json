@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-02T02:30:12Z",
+  "updated_at": "2026-11-02T02:45:08Z",
   "baseline": {
     "taken_at": "2026-11-01T14:00:13Z",
     "ranks": {
@@ -34,7 +34,12 @@
       "cur_tg": 1887,
       "max_tg": 1933,
       "last_1v1": "2026-11-01",
-      "last_tg": "2026-11-01"
+      "last_tg": "2026-11-01",
+      "live": {
+        "match": 518140137,
+        "game": "Unranked",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 2654577,
@@ -67,7 +72,12 @@
       "cur_tg": 1857,
       "max_tg": 1947,
       "last_1v1": "2026-10-28",
-      "last_tg": "2026-10-30"
+      "last_tg": "2026-10-30",
+      "live": {
+        "match": 518140137,
+        "game": "Unranked",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 1743420,
@@ -198,21 +208,6 @@
       "last_1v1": "2026-10-09"
     },
     {
-      "profile_id": 2134856,
-      "tag": "Jacko",
-      "cur_1v1": 1801,
-      "max_1v1": 1867,
-      "cur_tg": 1119,
-      "max_tg": 1119,
-      "last_1v1": "2026-10-31",
-      "last_tg": "2025-03-14",
-      "live": {
-        "match": 518132208,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 5981761,
       "tag": "Alexander the conqueror",
       "clan": "AiM",
@@ -222,6 +217,21 @@
       "max_tg": 1630,
       "last_1v1": "2026-10-31",
       "last_tg": "2026-10-31"
+    },
+    {
+      "profile_id": 2134856,
+      "tag": "Jacko",
+      "cur_1v1": 1782,
+      "max_1v1": 1867,
+      "cur_tg": 1119,
+      "max_tg": 1119,
+      "last_1v1": "2026-11-02",
+      "last_tg": "2025-03-14",
+      "live": {
+        "match": 518140858,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     }
   ],
   "show_top": 15
