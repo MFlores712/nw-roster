@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-02T04:00:13Z",
+  "updated_at": "2026-11-02T04:05:08Z",
   "baseline": {
     "taken_at": "2026-11-01T14:00:13Z",
     "ranks": {
@@ -67,13 +67,7 @@
       "cur_tg": 1857,
       "max_tg": 1947,
       "last_1v1": "2026-10-28",
-      "last_tg": "2026-10-30",
-      "live": {
-        "match": 518150996,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "Retember"
-      }
+      "last_tg": "2026-10-30"
     },
     {
       "profile_id": 1743420,
@@ -95,7 +89,12 @@
       "cur_tg": 1738,
       "max_tg": 1764,
       "last_1v1": "2026-10-23",
-      "last_tg": "2026-11-02"
+      "last_tg": "2026-11-02",
+      "live": {
+        "match": 518154270,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 2955183,
@@ -164,13 +163,7 @@
       "cur_tg": 1815,
       "max_tg": 1893,
       "last_tg": "2026-10-30",
-      "last_1v1": "2026-11-02",
-      "live": {
-        "match": 518148830,
-        "game": "Unranked",
-        "format": "4v4",
-        "account": "GDL Kevin"
-      }
+      "last_1v1": "2026-11-02"
     },
     {
       "profile_id": 1542191,
@@ -217,17 +210,12 @@
     {
       "profile_id": 2134856,
       "tag": "Jacko",
-      "cur_1v1": 1781,
+      "cur_1v1": 1772,
       "max_1v1": 1867,
       "cur_tg": 1119,
       "max_tg": 1119,
       "last_1v1": "2026-11-02",
-      "last_tg": "2025-03-14",
-      "live": {
-        "match": 518150996,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2025-03-14"
     }
   ],
   "show_top": 15
