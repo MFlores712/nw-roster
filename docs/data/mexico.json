@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-02T22:35:08Z",
+  "updated_at": "2026-11-02T22:40:10Z",
   "baseline": {
     "taken_at": "2026-11-02T14:00:16Z",
     "ranks": {
@@ -186,6 +186,22 @@
       "last_tg": "2026-10-14"
     },
     {
+      "profile_id": 12723994,
+      "tag": "PuNii",
+      "clan": "VENÓN",
+      "cur_1v1": 2345,
+      "max_1v1": 2345,
+      "cur_tg": 1878,
+      "max_tg": 1922,
+      "last_tg": "2026-10-31",
+      "last_1v1": "2026-11-02",
+      "live": {
+        "match": 518334318,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 312774,
       "tag": "Keno_",
       "clan": "hK",
@@ -195,22 +211,6 @@
       "max_tg": 2072,
       "last_tg": "2026-10-26",
       "last_1v1": "2026-10-24"
-    },
-    {
-      "profile_id": 12723994,
-      "tag": "PuNii",
-      "clan": "VENÓN",
-      "cur_1v1": 2337,
-      "max_1v1": 2337,
-      "cur_tg": 1878,
-      "max_tg": 1922,
-      "last_tg": "2026-10-31",
-      "last_1v1": "2026-10-31",
-      "live": {
-        "match": 518326031,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 9031952,
