@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-02T03:30:12Z",
+  "updated_at": "2026-11-02T03:35:09Z",
   "baseline": {
     "taken_at": "2026-11-01T14:00:13Z",
     "ranks": {
@@ -348,7 +348,13 @@
       "cur_tg": 1633,
       "max_tg": 1820,
       "last_1v1": "2026-11-01",
-      "last_tg": "2026-10-21"
+      "last_tg": "2026-10-21",
+      "live": {
+        "match": 518149551,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "Chimirindo"
+      }
     },
     {
       "profile_id": 1947348,
@@ -427,22 +433,6 @@
       "last_tg": "2026-10-30"
     },
     {
-      "profile_id": 2876835,
-      "tag": "Abejorro",
-      "clan": "nW",
-      "cur_1v1": 2005,
-      "max_1v1": 2152,
-      "cur_tg": 1834,
-      "max_tg": 1844,
-      "last_1v1": "2026-11-01",
-      "last_tg": "2026-10-31",
-      "live": {
-        "match": 518147309,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 233625,
       "tag": "MooN",
       "cur_1v1": 2002,
@@ -462,6 +452,22 @@
       "max_tg": 1747,
       "last_1v1": "2026-11-01",
       "last_tg": "2026-10-27"
+    },
+    {
+      "profile_id": 2876835,
+      "tag": "Abejorro",
+      "clan": "nW",
+      "cur_1v1": 1994,
+      "max_1v1": 2152,
+      "cur_tg": 1834,
+      "max_tg": 1844,
+      "last_1v1": "2026-11-02",
+      "last_tg": "2026-10-31",
+      "live": {
+        "match": 518149551,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 6501299,
