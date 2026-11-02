@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-02T22:45:10Z",
+  "updated_at": "2026-11-02T22:50:17Z",
   "baseline": {
     "taken_at": "2026-11-02T14:00:16Z",
     "ranks": {
@@ -90,7 +90,12 @@
       "cur_tg": 2145,
       "max_tg": 2145,
       "last_1v1": "2026-10-29",
-      "last_tg": "2026-11-02"
+      "last_tg": "2026-11-02",
+      "live": {
+        "match": 518336012,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 13099159,
@@ -219,6 +224,17 @@
       "last_tg": "2026-10-24"
     },
     {
+      "profile_id": 580573,
+      "tag": "Puerco Black",
+      "clan": "hK",
+      "cur_1v1": 2320,
+      "max_1v1": 2350,
+      "cur_tg": 1817,
+      "max_tg": 1974,
+      "last_1v1": "2026-11-02",
+      "last_tg": "2026-11-02"
+    },
+    {
       "profile_id": 9666666,
       "tag": "Guki",
       "cur_1v1": 2302,
@@ -229,22 +245,6 @@
       "last_tg": "2025-06-11",
       "inactive": true,
       "last_seen": "2025-06-11"
-    },
-    {
-      "profile_id": 580573,
-      "tag": "Puerco Black",
-      "clan": "hK",
-      "cur_1v1": 2298,
-      "max_1v1": 2350,
-      "cur_tg": 1817,
-      "max_tg": 1974,
-      "last_1v1": "2026-10-28",
-      "last_tg": "2026-11-02",
-      "live": {
-        "match": 518330416,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 4412109,
