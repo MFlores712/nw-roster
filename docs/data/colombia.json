@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-03T05:55:08Z",
+  "updated_at": "2026-11-03T06:10:09Z",
   "baseline": {
     "taken_at": "2026-11-02T14:00:16Z",
     "ranks": {
@@ -160,9 +160,9 @@
       "tag": "obi11",
       "cur_1v1": 1870,
       "max_1v1": 1870,
-      "cur_tg": 1831,
+      "cur_tg": 1837,
       "max_tg": 1858,
-      "last_tg": "2026-11-01",
+      "last_tg": "2026-11-03",
       "last_1v1": "2026-10-27",
       "live": {
         "match": 518406350,
