@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-03T02:55:20Z",
+  "updated_at": "2026-11-03T03:00:24Z",
   "baseline": {
     "taken_at": "2026-11-02T14:00:16Z",
     "ranks": {
@@ -262,17 +262,12 @@
       "profile_id": 914665,
       "tag": "Caguamas",
       "clan": "nW",
-      "cur_1v1": 2242,
-      "max_1v1": 2243,
+      "cur_1v1": 2253,
+      "max_1v1": 2253,
       "cur_tg": 1810,
       "max_tg": 2024,
-      "last_1v1": "2026-11-02",
-      "last_tg": "2026-11-02",
-      "live": {
-        "match": 518377594,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-03",
+      "last_tg": "2026-11-02"
     },
     {
       "profile_id": 917863,
@@ -462,6 +457,21 @@
       "last_tg": "2026-10-28"
     },
     {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1971,
+      "max_1v1": 2003,
+      "cur_tg": 1366,
+      "max_tg": 1417,
+      "last_1v1": "2026-11-03",
+      "last_tg": "2026-10-30",
+      "live": {
+        "match": 518383058,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 235877,
       "tag": "AsMelodiant",
       "clan": "VENÓN",
@@ -504,21 +514,6 @@
       "max_tg": 1824,
       "last_1v1": "2026-10-25",
       "last_tg": "2026-11-01"
-    },
-    {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1956,
-      "max_1v1": 2003,
-      "cur_tg": 1366,
-      "max_tg": 1417,
-      "last_1v1": "2026-11-03",
-      "last_tg": "2026-10-30",
-      "live": {
-        "match": 518377728,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 2986966,
