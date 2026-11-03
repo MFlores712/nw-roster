@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-03T02:10:10Z",
+  "updated_at": "2026-11-03T02:15:11Z",
   "baseline": {
     "taken_at": "2026-11-02T14:00:16Z",
     "ranks": {
@@ -418,7 +418,12 @@
       "cur_tg": 1731,
       "max_tg": 1747,
       "last_1v1": "2026-11-01",
-      "last_tg": "2026-10-27"
+      "last_tg": "2026-10-27",
+      "live": {
+        "match": 518374648,
+        "game": "Unranked",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 6501299,
@@ -469,14 +474,14 @@
       "clan": "MZTK",
       "cur_1v1": 1961,
       "max_1v1": 1993,
-      "cur_tg": 1662,
+      "cur_tg": 1648,
       "max_tg": 1858,
       "last_1v1": "2026-11-02",
       "last_tg": "2026-11-03",
       "live": {
-        "match": 518371108,
+        "match": 518374719,
         "game": "Team Random Map",
-        "format": "3v3"
+        "format": "4v4"
       }
     },
     {
@@ -512,15 +517,10 @@
       "clan": "VL",
       "cur_1v1": 1952,
       "max_1v1": 1972,
-      "cur_tg": 1684,
+      "cur_tg": 1670,
       "max_tg": 1824,
       "last_tg": "2026-11-03",
-      "last_1v1": "2026-10-13",
-      "live": {
-        "match": 518369219,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_1v1": "2026-10-13"
     },
     {
       "profile_id": 467847,
@@ -585,7 +585,12 @@
       "cur_tg": 1722,
       "max_tg": 1865,
       "last_tg": "2026-10-30",
-      "last_1v1": "2026-10-28"
+      "last_1v1": "2026-10-28",
+      "live": {
+        "match": 518374529,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 358501,
