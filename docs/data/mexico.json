@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-03T21:00:15Z",
+  "updated_at": "2026-11-03T21:05:11Z",
   "baseline": {
     "taken_at": "2026-11-03T14:00:16Z",
     "ranks": {
@@ -197,6 +197,17 @@
       "last_1v1": "2026-10-24"
     },
     {
+      "profile_id": 310739,
+      "tag": "SoyLaHostia",
+      "clan": "hK",
+      "cur_1v1": 2336,
+      "max_1v1": 2484,
+      "cur_tg": 1864,
+      "max_tg": 1959,
+      "last_1v1": "2026-11-03",
+      "last_tg": "2026-10-29"
+    },
+    {
       "profile_id": 580573,
       "tag": "Puerco Black",
       "clan": "hK",
@@ -217,22 +228,6 @@
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
       "last_tg": "2026-10-24"
-    },
-    {
-      "profile_id": 310739,
-      "tag": "SoyLaHostia",
-      "clan": "hK",
-      "cur_1v1": 2312,
-      "max_1v1": 2484,
-      "cur_tg": 1864,
-      "max_tg": 1959,
-      "last_1v1": "2026-11-03",
-      "last_tg": "2026-10-29",
-      "live": {
-        "match": 518539412,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 4412109,
@@ -593,22 +588,6 @@
       "last_1v1": "2026-09-18"
     },
     {
-      "profile_id": 358501,
-      "tag": "El Claut_One",
-      "clan": "VENÓN",
-      "cur_1v1": 1917,
-      "max_1v1": 2115,
-      "cur_tg": 1692,
-      "max_tg": 1820,
-      "last_tg": "2026-10-30",
-      "last_1v1": "2026-10-28",
-      "live": {
-        "match": 518538446,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 324005,
       "tag": "Narizberto",
       "clan": "VN",
@@ -629,6 +608,22 @@
       "max_tg": 1805,
       "last_tg": "2026-11-01",
       "last_1v1": "2026-10-16"
+    },
+    {
+      "profile_id": 358501,
+      "tag": "El Claut_One",
+      "clan": "VENÓN",
+      "cur_1v1": 1902,
+      "max_1v1": 2115,
+      "cur_tg": 1692,
+      "max_tg": 1820,
+      "last_tg": "2026-10-30",
+      "last_1v1": "2026-11-03",
+      "live": {
+        "match": 518544479,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     }
   ],
   "show_top": 45,
