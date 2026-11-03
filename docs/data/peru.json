@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-03T05:00:14Z",
+  "updated_at": "2026-11-03T05:05:09Z",
   "baseline": {
     "taken_at": "2026-11-02T14:00:16Z",
     "ranks": {
@@ -217,10 +217,10 @@
       "tag": "_The_Oldergold",
       "cur_1v1": 1828,
       "max_1v1": 1940,
-      "cur_tg": 1582,
+      "cur_tg": 1568,
       "max_tg": 1719,
       "last_1v1": "2026-11-01",
-      "last_tg": "2026-11-02"
+      "last_tg": "2026-11-03"
     }
   ],
   "show_top": 15
