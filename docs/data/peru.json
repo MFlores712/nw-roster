@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-03T12:25:11Z",
+  "updated_at": "2026-11-03T12:35:09Z",
   "baseline": {
     "taken_at": "2026-11-02T14:00:16Z",
     "ranks": {
@@ -152,12 +152,12 @@
       "clan": "CTM",
       "cur_1v1": 1961,
       "max_1v1": 2222,
-      "cur_tg": 1801,
+      "cur_tg": 1815,
       "max_tg": 1843,
       "last_tg": "2026-11-03",
       "last_1v1": "2026-11-03",
       "live": {
-        "match": 518444708,
+        "match": 518445632,
         "game": "Team Random Map",
         "format": "4v4",
         "account": "CTM | Lelouch ELO bajito"
