@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-03T03:30:14Z",
+  "updated_at": "2026-11-03T03:35:09Z",
   "baseline": {
     "taken_at": "2026-11-02T14:00:16Z",
     "ranks": {
@@ -313,17 +313,6 @@
       "last_1v1": "2026-11-02"
     },
     {
-      "profile_id": 2850920,
-      "tag": "Chimtzin",
-      "clan": "Ux",
-      "cur_1v1": 2098,
-      "max_1v1": 2124,
-      "cur_tg": 1633,
-      "max_tg": 1820,
-      "last_1v1": "2026-11-03",
-      "last_tg": "2026-10-21"
-    },
-    {
       "profile_id": 1947348,
       "tag": "themariach1",
       "clan": "nW",
@@ -344,6 +333,17 @@
       "max_tg": 1860,
       "last_1v1": "2026-11-01",
       "last_tg": "2026-11-01"
+    },
+    {
+      "profile_id": 2850920,
+      "tag": "Chimtzin",
+      "clan": "Ux",
+      "cur_1v1": 2077,
+      "max_1v1": 2124,
+      "cur_tg": 1633,
+      "max_tg": 1820,
+      "last_1v1": "2026-11-03",
+      "last_tg": "2026-10-21"
     },
     {
       "profile_id": 400111,
