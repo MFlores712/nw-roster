@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-03T23:40:09Z",
+  "updated_at": "2026-11-03T23:50:10Z",
   "baseline": {
     "taken_at": "2026-11-03T14:00:16Z",
     "ranks": {
@@ -63,17 +63,12 @@
       "profile_id": 5984120,
       "tag": "Combito",
       "clan": "Ux",
-      "cur_1v1": 2790,
+      "cur_1v1": 2765,
       "max_1v1": 2790,
       "cur_tg": 1774,
       "max_tg": 1885,
       "last_1v1": "2026-11-03",
-      "last_tg": "2026-10-26",
-      "live": {
-        "match": 518572116,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-26"
     },
     {
       "profile_id": 2776293,
@@ -117,13 +112,7 @@
       "cur_tg": 2140,
       "max_tg": 2151,
       "last_1v1": "2026-10-29",
-      "last_tg": "2026-10-15",
-      "live": {
-        "match": 518571546,
-        "game": "Team Random Map",
-        "format": "2v2",
-        "account": "[GDL] Chuchito"
-      }
+      "last_tg": "2026-10-15"
     },
     {
       "profile_id": 4221810,
@@ -357,6 +346,17 @@
       "last_tg": "2026-10-21"
     },
     {
+      "profile_id": 1249720,
+      "tag": "Lice_Slide",
+      "clan": "VN",
+      "cur_1v1": 2079,
+      "max_1v1": 2102,
+      "cur_tg": 1818,
+      "max_tg": 1997,
+      "last_1v1": "2026-11-03",
+      "last_tg": "2026-11-03"
+    },
+    {
       "profile_id": 13215279,
       "tag": "GO1_mx",
       "clan": "MZTK",
@@ -377,22 +377,6 @@
       "max_tg": 1820,
       "last_1v1": "2026-11-03",
       "last_tg": "2026-10-21"
-    },
-    {
-      "profile_id": 1249720,
-      "tag": "Lice_Slide",
-      "clan": "VN",
-      "cur_1v1": 2063,
-      "max_1v1": 2102,
-      "cur_tg": 1818,
-      "max_tg": 1997,
-      "last_1v1": "2026-11-03",
-      "last_tg": "2026-11-03",
-      "live": {
-        "match": 518569031,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 400111,
