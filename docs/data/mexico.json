@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-03T03:40:10Z",
+  "updated_at": "2026-11-03T03:45:09Z",
   "baseline": {
     "taken_at": "2026-11-02T14:00:16Z",
     "ranks": {
@@ -123,12 +123,7 @@
       "cur_tg": 2020,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-11-03",
-      "live": {
-        "match": 518387949,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-03"
     },
     {
       "profile_id": 401359,
@@ -183,13 +178,7 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 518388341,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "hK | RanDoM"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 9031952,
@@ -256,12 +245,7 @@
       "cur_tg": 2019,
       "max_tg": 2083,
       "last_1v1": "2026-11-02",
-      "last_tg": "2026-11-03",
-      "live": {
-        "match": 518387949,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-03"
     },
     {
       "profile_id": 757886,
@@ -280,15 +264,10 @@
       "clan": "nW",
       "cur_1v1": 2253,
       "max_1v1": 2253,
-      "cur_tg": 1810,
+      "cur_tg": 1820,
       "max_tg": 2024,
       "last_1v1": "2026-11-03",
-      "last_tg": "2026-11-02",
-      "live": {
-        "match": 518385601,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-03"
     },
     {
       "profile_id": 917863,
@@ -364,12 +343,7 @@
       "cur_tg": 1633,
       "max_tg": 1820,
       "last_1v1": "2026-11-03",
-      "last_tg": "2026-10-21",
-      "live": {
-        "match": 518388794,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-21"
     },
     {
       "profile_id": 400111,
@@ -388,15 +362,10 @@
       "clan": "SotC",
       "cur_1v1": 2054,
       "max_1v1": 2098,
-      "cur_tg": 1685,
+      "cur_tg": 1672,
       "max_tg": 1870,
       "last_1v1": "2026-10-31",
-      "last_tg": "2026-11-03",
-      "live": {
-        "match": 518385601,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-03"
     },
     {
       "profile_id": 1249720,
@@ -438,12 +407,7 @@
       "cur_tg": 1727,
       "max_tg": 1885,
       "last_1v1": "2026-08-15",
-      "last_tg": "2026-10-31",
-      "live": {
-        "match": 518387949,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-31"
     },
     {
       "profile_id": 2934597,
@@ -468,6 +432,16 @@
       "last_1v1": "2026-10-24"
     },
     {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1984,
+      "max_1v1": 2003,
+      "cur_tg": 1366,
+      "max_tg": 1417,
+      "last_1v1": "2026-11-03",
+      "last_tg": "2026-10-30"
+    },
+    {
       "profile_id": 2291749,
       "tag": "Biner",
       "cur_1v1": 1980,
@@ -476,21 +450,6 @@
       "max_tg": 1688,
       "last_1v1": "2026-10-28",
       "last_tg": "2026-10-28"
-    },
-    {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1971,
-      "max_1v1": 2003,
-      "cur_tg": 1366,
-      "max_tg": 1417,
-      "last_1v1": "2026-11-03",
-      "last_tg": "2026-10-30",
-      "live": {
-        "match": 518383058,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 235877,
@@ -563,15 +522,10 @@
       "clan": "SotC",
       "cur_1v1": 1937,
       "max_1v1": 2039,
-      "cur_tg": 1720,
+      "cur_tg": 1707,
       "max_tg": 1888,
       "last_1v1": "2026-10-30",
-      "last_tg": "2026-11-02",
-      "live": {
-        "match": 518385601,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-03"
     },
     {
       "profile_id": 278380,
@@ -593,12 +547,7 @@
       "cur_tg": 1834,
       "max_tg": 1844,
       "last_1v1": "2026-11-02",
-      "last_tg": "2026-10-31",
-      "live": {
-        "match": 518387330,
-        "game": "Unranked",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-31"
     },
     {
       "profile_id": 4764520,
