@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-03T23:35:09Z",
+  "updated_at": "2026-11-03T23:40:09Z",
   "baseline": {
     "taken_at": "2026-11-03T14:00:16Z",
     "ranks": {
@@ -134,7 +134,12 @@
       "cur_tg": 1997,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-11-03"
+      "last_tg": "2026-11-03",
+      "live": {
+        "match": 518574809,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 401359,
@@ -200,7 +205,13 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 518574809,
+        "game": "Team Random Map",
+        "format": "3v3",
+        "account": "hK | RanDoM"
+      }
     },
     {
       "profile_id": 310739,
@@ -233,7 +244,13 @@
       "cur_tg": 1967,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-10-24"
+      "last_tg": "2026-10-24",
+      "live": {
+        "match": 518574392,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "FierroFlash"
+      }
     },
     {
       "profile_id": 4412109,
@@ -244,7 +261,12 @@
       "cur_tg": 1996,
       "max_tg": 2083,
       "last_1v1": "2026-11-03",
-      "last_tg": "2026-11-03"
+      "last_tg": "2026-11-03",
+      "live": {
+        "match": 518574809,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 9666666,
@@ -292,22 +314,6 @@
       "last_tg": "2026-11-01"
     },
     {
-      "profile_id": 917863,
-      "tag": "Romell13",
-      "clan": "hK",
-      "cur_1v1": 2183,
-      "max_1v1": 2233,
-      "cur_tg": 1830,
-      "max_tg": 1838,
-      "last_1v1": "2026-11-03",
-      "last_tg": "2026-11-02",
-      "live": {
-        "match": 518570654,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 13138746,
       "tag": "FraKTal",
       "clan": "hK",
@@ -315,6 +321,17 @@
       "max_1v1": 2233,
       "cur_tg": 1907,
       "max_tg": 1983,
+      "last_1v1": "2026-11-03",
+      "last_tg": "2026-11-02"
+    },
+    {
+      "profile_id": 917863,
+      "tag": "Romell13",
+      "clan": "hK",
+      "cur_1v1": 2172,
+      "max_1v1": 2233,
+      "cur_tg": 1830,
+      "max_tg": 1838,
       "last_1v1": "2026-11-03",
       "last_tg": "2026-11-02"
     },
