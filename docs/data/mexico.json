@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-03T21:15:17Z",
+  "updated_at": "2026-11-03T21:20:19Z",
   "baseline": {
     "taken_at": "2026-11-03T14:00:16Z",
     "ranks": {
@@ -63,14 +63,14 @@
       "profile_id": 5984120,
       "tag": "Combito",
       "clan": "Ux",
-      "cur_1v1": 2769,
+      "cur_1v1": 2776,
       "max_1v1": 2790,
       "cur_tg": 1774,
       "max_tg": 1885,
       "last_1v1": "2026-11-03",
       "last_tg": "2026-10-26",
       "live": {
-        "match": 518541724,
+        "match": 518548005,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -315,17 +315,12 @@
       "profile_id": 917863,
       "tag": "Romell13",
       "clan": "hK",
-      "cur_1v1": 2177,
+      "cur_1v1": 2161,
       "max_1v1": 2233,
       "cur_tg": 1830,
       "max_tg": 1838,
       "last_1v1": "2026-11-03",
-      "last_tg": "2026-11-02",
-      "live": {
-        "match": 518541847,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-02"
     },
     {
       "profile_id": 5803221,
@@ -422,13 +417,7 @@
       "cur_tg": 1812,
       "max_tg": 1962,
       "last_1v1": "2026-11-03",
-      "last_tg": "2026-10-30",
-      "live": {
-        "match": 518542279,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "Zoschenko17"
-      }
+      "last_tg": "2026-10-30"
     },
     {
       "profile_id": 233625,
