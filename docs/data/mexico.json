@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-03T22:25:10Z",
+  "updated_at": "2026-11-03T22:30:13Z",
   "baseline": {
     "taken_at": "2026-11-03T14:00:16Z",
     "ranks": {
@@ -90,7 +90,12 @@
       "cur_tg": 2173,
       "max_tg": 2173,
       "last_1v1": "2026-10-29",
-      "last_tg": "2026-11-03"
+      "last_tg": "2026-11-03",
+      "live": {
+        "match": 518561463,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 13099159,
@@ -101,7 +106,12 @@
       "cur_tg": 1941,
       "max_tg": 1999,
       "last_1v1": "2026-10-31",
-      "last_tg": "2026-11-03"
+      "last_tg": "2026-11-03",
+      "live": {
+        "match": 518561463,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 9449579,
@@ -200,7 +210,12 @@
       "cur_tg": 1849,
       "max_tg": 1974,
       "last_1v1": "2026-11-03",
-      "last_tg": "2026-11-03"
+      "last_tg": "2026-11-03",
+      "live": {
+        "match": 518561006,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 9031952,
@@ -211,7 +226,13 @@
       "cur_tg": 1967,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-10-24"
+      "last_tg": "2026-10-24",
+      "live": {
+        "match": 518561006,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "FierroFlash"
+      }
     },
     {
       "profile_id": 12723994,
