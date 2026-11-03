@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-03T00:05:19Z",
+  "updated_at": "2026-11-03T00:10:21Z",
   "baseline": {
     "taken_at": "2026-11-02T14:00:16Z",
     "ranks": {
@@ -87,15 +87,10 @@
       "clan": "Ux",
       "cur_1v1": 2650,
       "max_1v1": 2685,
-      "cur_tg": 2155,
-      "max_tg": 2155,
+      "cur_tg": 2159,
+      "max_tg": 2159,
       "last_1v1": "2026-10-29",
-      "last_tg": "2026-11-02",
-      "live": {
-        "match": 518346071,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-03"
     },
     {
       "profile_id": 13099159,
@@ -103,15 +98,10 @@
       "clan": "Ux",
       "cur_1v1": 2613,
       "max_1v1": 2629,
-      "cur_tg": 1906,
+      "cur_tg": 1917,
       "max_tg": 1999,
       "last_1v1": "2026-10-31",
-      "last_tg": "2026-10-28",
-      "live": {
-        "match": 518346071,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-03"
     },
     {
       "profile_id": 9449579,
@@ -204,7 +194,13 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 518350559,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "hK | RanDoM"
+      }
     },
     {
       "profile_id": 9031952,
@@ -237,7 +233,12 @@
       "cur_tg": 1817,
       "max_tg": 1974,
       "last_1v1": "2026-11-02",
-      "last_tg": "2026-11-02"
+      "last_tg": "2026-11-02",
+      "live": {
+        "match": 518350559,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 9666666,
@@ -514,7 +515,12 @@
       "cur_tg": 1662,
       "max_tg": 1824,
       "last_tg": "2026-11-01",
-      "last_1v1": "2026-10-13"
+      "last_1v1": "2026-10-13",
+      "live": {
+        "match": 518350994,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 467847,
