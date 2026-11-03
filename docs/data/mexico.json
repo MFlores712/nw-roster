@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-03T01:25:09Z",
+  "updated_at": "2026-11-03T01:30:12Z",
   "baseline": {
     "taken_at": "2026-11-02T14:00:16Z",
     "ranks": {
@@ -452,21 +452,6 @@
       "last_tg": "2026-10-28"
     },
     {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1970,
-      "max_1v1": 2003,
-      "cur_tg": 1366,
-      "max_tg": 1417,
-      "last_1v1": "2026-11-03",
-      "last_tg": "2026-10-30",
-      "live": {
-        "match": 518363375,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 235877,
       "tag": "AsMelodiant",
       "clan": "VENÓN",
@@ -520,6 +505,16 @@
         "format": "1v1",
         "account": "Niino"
       }
+    },
+    {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1956,
+      "max_1v1": 2003,
+      "cur_tg": 1366,
+      "max_tg": 1417,
+      "last_1v1": "2026-11-03",
+      "last_tg": "2026-10-30"
     },
     {
       "profile_id": 2986966,
