@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-03T17:40:13Z",
+  "updated_at": "2026-11-03T17:50:14Z",
   "baseline": {
     "taken_at": "2026-11-03T14:00:16Z",
     "ranks": {
@@ -295,17 +295,12 @@
       "profile_id": 13138746,
       "tag": "FraKTal",
       "clan": "hK",
-      "cur_1v1": 2179,
+      "cur_1v1": 2190,
       "max_1v1": 2233,
       "cur_tg": 1907,
       "max_tg": 1983,
-      "last_1v1": "2026-11-01",
-      "last_tg": "2026-11-02",
-      "live": {
-        "match": 518499793,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-03",
+      "last_tg": "2026-11-02"
     },
     {
       "profile_id": 5803221,
@@ -351,6 +346,17 @@
       "last_tg": "2026-10-21"
     },
     {
+      "profile_id": 1249720,
+      "tag": "Lice_Slide",
+      "clan": "VN",
+      "cur_1v1": 2063,
+      "max_1v1": 2102,
+      "cur_tg": 1851,
+      "max_tg": 1997,
+      "last_1v1": "2026-11-03",
+      "last_tg": "2026-10-28"
+    },
+    {
       "profile_id": 400111,
       "tag": "Mibel",
       "clan": "VL",
@@ -371,22 +377,6 @@
       "max_tg": 1870,
       "last_1v1": "2026-10-31",
       "last_tg": "2026-11-03"
-    },
-    {
-      "profile_id": 1249720,
-      "tag": "Lice_Slide",
-      "clan": "VN",
-      "cur_1v1": 2050,
-      "max_1v1": 2102,
-      "cur_tg": 1851,
-      "max_tg": 1997,
-      "last_1v1": "2026-11-03",
-      "last_tg": "2026-10-28",
-      "live": {
-        "match": 518496436,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 1708286,
@@ -514,13 +504,7 @@
       "cur_tg": 1683,
       "max_tg": 1824,
       "last_tg": "2026-11-03",
-      "last_1v1": "2026-10-13",
-      "live": {
-        "match": 518497577,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "eFotboll"
-      }
+      "last_1v1": "2026-10-13"
     },
     {
       "profile_id": 2876835,
