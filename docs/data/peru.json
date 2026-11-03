@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-03T16:10:13Z",
+  "updated_at": "2026-11-03T16:20:12Z",
   "baseline": {
     "taken_at": "2026-11-03T14:00:16Z",
     "ranks": {
@@ -56,17 +56,12 @@
       "profile_id": 9558892,
       "tag": "WilliamS",
       "clan": "LE",
-      "cur_1v1": 2371,
+      "cur_1v1": 2361,
       "max_1v1": 2446,
       "cur_tg": 1715,
       "max_tg": 1846,
       "last_1v1": "2026-11-03",
-      "last_tg": "2026-10-26",
-      "live": {
-        "match": 518479867,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-26"
     },
     {
       "profile_id": 4706179,
@@ -108,7 +103,12 @@
       "cur_tg": 1794,
       "max_tg": 1840,
       "last_tg": "2026-11-03",
-      "last_1v1": "2026-09-24"
+      "last_1v1": "2026-09-24",
+      "live": {
+        "match": 518484640,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 1359694,
@@ -198,7 +198,13 @@
       "cur_tg": 1452,
       "max_tg": 1581,
       "last_1v1": "2026-11-03",
-      "last_tg": "2026-09-13"
+      "last_tg": "2026-09-13",
+      "live": {
+        "match": 518484811,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "LE | Emaxcito2"
+      }
     },
     {
       "profile_id": 1865687,
