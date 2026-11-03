@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-03T18:25:27Z",
+  "updated_at": "2026-11-03T18:30:28Z",
   "baseline": {
     "taken_at": "2026-11-03T14:00:16Z",
     "ranks": {
@@ -181,7 +181,7 @@
       "profile_id": 12722189,
       "tag": "PEGASO",
       "clan": "CLB",
-      "cur_1v1": 1831,
+      "cur_1v1": 1844,
       "max_1v1": 1889,
       "cur_tg": 1741,
       "max_tg": 1855,
