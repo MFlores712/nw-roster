@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-03T23:20:13Z",
+  "updated_at": "2026-11-03T23:25:09Z",
   "baseline": {
     "taken_at": "2026-11-03T14:00:16Z",
     "ranks": {
@@ -63,14 +63,14 @@
       "profile_id": 5984120,
       "tag": "Combito",
       "clan": "Ux",
-      "cur_1v1": 2783,
+      "cur_1v1": 2790,
       "max_1v1": 2790,
       "cur_tg": 1774,
       "max_tg": 1885,
       "last_1v1": "2026-11-03",
       "last_tg": "2026-10-26",
       "live": {
-        "match": 518567923,
+        "match": 518572116,
         "game": "1v1 Random Map",
         "format": "1v1"
       }

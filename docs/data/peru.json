@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-03T23:10:09Z",
+  "updated_at": "2026-11-03T23:25:09Z",
   "baseline": {
     "taken_at": "2026-11-03T14:00:16Z",
     "ranks": {
@@ -40,17 +40,12 @@
     {
       "profile_id": 3216208,
       "tag": "Dimo",
-      "cur_1v1": 2476,
+      "cur_1v1": 2465,
       "max_1v1": 2583,
       "cur_tg": 1892,
       "max_tg": 1935,
       "last_1v1": "2026-11-03",
-      "last_tg": "2026-11-02",
-      "live": {
-        "match": 518568719,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-02"
     },
     {
       "profile_id": 9558892,
@@ -99,17 +94,12 @@
       "profile_id": 1359694,
       "tag": "AtilA",
       "clan": "nW",
-      "cur_1v1": 2048,
+      "cur_1v1": 2040,
       "max_1v1": 2123,
       "cur_tg": 1622,
       "max_tg": 1670,
       "last_tg": "2026-11-01",
-      "last_1v1": "2026-11-03",
-      "live": {
-        "match": 518566993,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-03"
     },
     {
       "profile_id": 6090060,
@@ -195,15 +185,10 @@
       "clan": "LvSP",
       "cur_1v1": 1910,
       "max_1v1": 2139,
-      "cur_tg": 1567,
+      "cur_tg": 1578,
       "max_tg": 1719,
       "last_1v1": "2026-11-03",
-      "last_tg": "2026-11-03",
-      "live": {
-        "match": 518566385,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-03"
     },
     {
       "profile_id": 4167535,
