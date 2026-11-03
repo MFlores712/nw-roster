@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-03T21:40:21Z",
+  "updated_at": "2026-11-03T21:45:18Z",
   "baseline": {
     "taken_at": "2026-11-03T14:00:16Z",
     "ranks": {
@@ -418,7 +418,13 @@
       "cur_tg": 1812,
       "max_tg": 1962,
       "last_1v1": "2026-11-03",
-      "last_tg": "2026-10-30"
+      "last_tg": "2026-10-30",
+      "live": {
+        "match": 518552339,
+        "game": "Team Random Map",
+        "format": "2v2",
+        "account": "Zoschenko17"
+      }
     },
     {
       "profile_id": 233625,
@@ -522,15 +528,10 @@
       "clan": "VL",
       "cur_1v1": 1952,
       "max_1v1": 1972,
-      "cur_tg": 1665,
+      "cur_tg": 1642,
       "max_tg": 1824,
       "last_tg": "2026-11-03",
-      "last_1v1": "2026-10-13",
-      "live": {
-        "match": 518547914,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_1v1": "2026-10-13"
     },
     {
       "profile_id": 2876835,
