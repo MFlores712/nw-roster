@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-03T23:05:09Z",
+  "updated_at": "2026-11-03T23:10:09Z",
   "baseline": {
     "taken_at": "2026-11-03T14:00:16Z",
     "ranks": {
@@ -95,7 +95,12 @@
       "cur_tg": 2146,
       "max_tg": 2173,
       "last_1v1": "2026-10-29",
-      "last_tg": "2026-11-03"
+      "last_tg": "2026-11-03",
+      "live": {
+        "match": 518569472,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 13099159,
@@ -106,7 +111,12 @@
       "cur_tg": 1921,
       "max_tg": 1999,
       "last_1v1": "2026-10-31",
-      "last_tg": "2026-11-03"
+      "last_tg": "2026-11-03",
+      "live": {
+        "match": 518569472,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 9449579,
@@ -232,7 +242,13 @@
       "cur_tg": 1967,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-10-24"
+      "last_tg": "2026-10-24",
+      "live": {
+        "match": 518568796,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "FierroFlash"
+      }
     },
     {
       "profile_id": 4412109,
@@ -291,21 +307,10 @@
       "last_tg": "2026-11-01"
     },
     {
-      "profile_id": 13138746,
-      "tag": "FraKTal",
-      "clan": "hK",
-      "cur_1v1": 2182,
-      "max_1v1": 2233,
-      "cur_tg": 1907,
-      "max_tg": 1983,
-      "last_1v1": "2026-11-03",
-      "last_tg": "2026-11-02"
-    },
-    {
       "profile_id": 917863,
       "tag": "Romell13",
       "clan": "hK",
-      "cur_1v1": 2164,
+      "cur_1v1": 2183,
       "max_1v1": 2233,
       "cur_tg": 1830,
       "max_tg": 1838,
@@ -316,6 +321,17 @@
         "game": "1v1 Random Map",
         "format": "1v1"
       }
+    },
+    {
+      "profile_id": 13138746,
+      "tag": "FraKTal",
+      "clan": "hK",
+      "cur_1v1": 2182,
+      "max_1v1": 2233,
+      "cur_tg": 1907,
+      "max_tg": 1983,
+      "last_1v1": "2026-11-03",
+      "last_tg": "2026-11-02"
     },
     {
       "profile_id": 5803221,
@@ -369,7 +385,12 @@
       "cur_tg": 1818,
       "max_tg": 1997,
       "last_1v1": "2026-11-03",
-      "last_tg": "2026-11-03"
+      "last_tg": "2026-11-03",
+      "live": {
+        "match": 518569031,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 400111,
