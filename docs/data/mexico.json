@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-03T00:20:11Z",
+  "updated_at": "2026-11-03T00:25:10Z",
   "baseline": {
     "taken_at": "2026-11-02T14:00:16Z",
     "ranks": {
@@ -151,17 +151,12 @@
       "profile_id": 310739,
       "tag": "SoyLaHostia",
       "clan": "hK",
-      "cur_1v1": 2364,
+      "cur_1v1": 2383,
       "max_1v1": 2484,
       "cur_tg": 1864,
       "max_tg": 1959,
-      "last_1v1": "2026-10-29",
-      "last_tg": "2026-10-29",
-      "live": {
-        "match": 518349853,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-03",
+      "last_tg": "2026-10-29"
     },
     {
       "profile_id": 1485562,
@@ -482,7 +477,12 @@
       "cur_tg": 1633,
       "max_tg": 1688,
       "last_1v1": "2026-11-01",
-      "last_tg": "2026-10-31"
+      "last_tg": "2026-10-31",
+      "live": {
+        "match": 518353752,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 3285258,
@@ -530,7 +530,12 @@
       "cur_tg": 1366,
       "max_tg": 1417,
       "last_1v1": "2026-11-03",
-      "last_tg": "2026-10-30"
+      "last_tg": "2026-10-30",
+      "live": {
+        "match": 518353752,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 467847,
