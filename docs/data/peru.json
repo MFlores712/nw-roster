@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-03T23:50:10Z",
+  "updated_at": "2026-11-03T23:55:09Z",
   "baseline": {
     "taken_at": "2026-11-03T14:00:16Z",
     "ranks": {
@@ -40,7 +40,7 @@
     {
       "profile_id": 3216208,
       "tag": "Dimo",
-      "cur_1v1": 2465,
+      "cur_1v1": 2481,
       "max_1v1": 2583,
       "cur_tg": 1892,
       "max_tg": 1935,
@@ -170,7 +170,13 @@
       "cur_tg": 1792,
       "max_tg": 1843,
       "last_tg": "2026-11-03",
-      "last_1v1": "2026-11-03"
+      "last_1v1": "2026-11-03",
+      "live": {
+        "match": 518577427,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "CTM | Lelouch Jogo Bonito"
+      }
     },
     {
       "profile_id": 4210400,
