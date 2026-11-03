@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-03T22:25:10Z",
+  "updated_at": "2026-11-03T22:34:38Z",
   "baseline": {
     "taken_at": "2026-11-03T14:00:16Z",
     "ranks": {
@@ -117,7 +117,7 @@
       "tag": "Matazombies",
       "cur_1v1": 1936,
       "max_1v1": 1974,
-      "cur_tg": 1730,
+      "cur_tg": 1742,
       "max_tg": 1975,
       "last_tg": "2026-11-03",
       "last_1v1": "2026-10-28",
