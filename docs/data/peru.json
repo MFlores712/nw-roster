@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-03T04:25:09Z",
+  "updated_at": "2026-11-03T04:35:09Z",
   "baseline": {
     "taken_at": "2026-11-02T14:00:16Z",
     "ranks": {
@@ -98,7 +98,23 @@
       "cur_tg": 1797,
       "max_tg": 1840,
       "last_tg": "2026-11-03",
-      "last_1v1": "2026-09-24"
+      "last_1v1": "2026-09-24",
+      "live": {
+        "match": 518396208,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
+    },
+    {
+      "profile_id": 1359694,
+      "tag": "AtilA",
+      "clan": "nW",
+      "cur_1v1": 2029,
+      "max_1v1": 2123,
+      "cur_tg": 1622,
+      "max_tg": 1670,
+      "last_tg": "2026-11-01",
+      "last_1v1": "2026-11-03"
     },
     {
       "profile_id": 12167914,
@@ -110,17 +126,6 @@
       "max_tg": 1992,
       "last_1v1": "2026-11-02",
       "last_tg": "2026-11-02"
-    },
-    {
-      "profile_id": 1359694,
-      "tag": "AtilA",
-      "clan": "nW",
-      "cur_1v1": 2009,
-      "max_1v1": 2123,
-      "cur_tg": 1622,
-      "max_tg": 1670,
-      "last_tg": "2026-11-01",
-      "last_1v1": "2026-11-03"
     },
     {
       "profile_id": 633255,
@@ -166,7 +171,13 @@
       "cur_tg": 1843,
       "max_tg": 1843,
       "last_tg": "2026-11-02",
-      "last_1v1": "2026-11-02"
+      "last_1v1": "2026-11-02",
+      "live": {
+        "match": 518396458,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "CTM | Lelouch Jogo Bonito"
+      }
     },
     {
       "profile_id": 4229962,
@@ -188,7 +199,12 @@
       "cur_tg": 1423,
       "max_tg": 1608,
       "last_1v1": "2026-09-19",
-      "last_tg": "2026-11-01"
+      "last_tg": "2026-11-01",
+      "live": {
+        "match": 518393871,
+        "game": "Unranked",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 3034651,
