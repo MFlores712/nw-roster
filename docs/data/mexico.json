@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-03T17:25:10Z",
+  "updated_at": "2026-11-03T17:30:18Z",
   "baseline": {
     "taken_at": "2026-11-03T14:00:16Z",
     "ranks": {
@@ -289,17 +289,12 @@
       "profile_id": 917863,
       "tag": "Romell13",
       "clan": "hK",
-      "cur_1v1": 2210,
+      "cur_1v1": 2195,
       "max_1v1": 2233,
       "cur_tg": 1830,
       "max_tg": 1838,
       "last_1v1": "2026-11-03",
-      "last_tg": "2026-11-02",
-      "live": {
-        "match": 518493018,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-02"
     },
     {
       "profile_id": 13138746,
@@ -519,7 +514,13 @@
       "cur_tg": 1683,
       "max_tg": 1824,
       "last_tg": "2026-11-03",
-      "last_1v1": "2026-10-13"
+      "last_1v1": "2026-10-13",
+      "live": {
+        "match": 518497577,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "eFotboll"
+      }
     },
     {
       "profile_id": 2876835,
