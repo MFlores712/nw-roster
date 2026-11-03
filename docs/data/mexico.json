@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-03T04:35:09Z",
+  "updated_at": "2026-11-03T04:40:09Z",
   "baseline": {
     "taken_at": "2026-11-02T14:00:16Z",
     "ranks": {
@@ -120,15 +120,10 @@
       "clan": "hK",
       "cur_1v1": 2427,
       "max_1v1": 2433,
-      "cur_tg": 2005,
+      "cur_tg": 1981,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-11-03",
-      "live": {
-        "match": 518393974,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-03"
     },
     {
       "profile_id": 401359,
@@ -183,13 +178,7 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 518393974,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "hK | RanDoM"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 9031952,
@@ -253,15 +242,10 @@
       "clan": "hK",
       "cur_1v1": 2278,
       "max_1v1": 2317,
-      "cur_tg": 2004,
+      "cur_tg": 1980,
       "max_tg": 2083,
       "last_1v1": "2026-11-02",
-      "last_tg": "2026-11-03",
-      "live": {
-        "match": 518393974,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-03"
     },
     {
       "profile_id": 757886,
@@ -412,7 +396,12 @@
       "cur_tg": 1482,
       "max_tg": 1818,
       "last_tg": "2026-11-03",
-      "last_1v1": "2026-03-21"
+      "last_1v1": "2026-03-21",
+      "live": {
+        "match": 518398169,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 9770338,
@@ -430,15 +419,10 @@
       "tag": "MooN",
       "cur_1v1": 2002,
       "max_1v1": 2002,
-      "cur_tg": 1734,
+      "cur_tg": 1721,
       "max_tg": 1885,
       "last_1v1": "2026-08-15",
-      "last_tg": "2026-11-03",
-      "live": {
-        "match": 518393974,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-03"
     },
     {
       "profile_id": 2934597,
