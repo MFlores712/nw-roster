@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-03T00:35:08Z",
+  "updated_at": "2026-11-03T00:40:20Z",
   "baseline": {
     "taken_at": "2026-11-02T14:00:16Z",
     "ranks": {
@@ -384,6 +384,17 @@
       "last_tg": "2026-11-02"
     },
     {
+      "profile_id": 1249720,
+      "tag": "Lice_Slide",
+      "clan": "VN",
+      "cur_1v1": 2050,
+      "max_1v1": 2102,
+      "cur_tg": 1851,
+      "max_tg": 1997,
+      "last_1v1": "2026-11-03",
+      "last_tg": "2026-10-28"
+    },
+    {
       "profile_id": 1708286,
       "tag": "IamAlextremo",
       "cur_1v1": 2044,
@@ -392,22 +403,6 @@
       "max_tg": 1818,
       "last_tg": "2026-10-10",
       "last_1v1": "2026-03-21"
-    },
-    {
-      "profile_id": 1249720,
-      "tag": "Lice_Slide",
-      "clan": "VN",
-      "cur_1v1": 2038,
-      "max_1v1": 2102,
-      "cur_tg": 1851,
-      "max_tg": 1997,
-      "last_1v1": "2026-11-02",
-      "last_tg": "2026-10-28",
-      "live": {
-        "match": 518349970,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 9770338,
@@ -487,7 +482,12 @@
       "cur_tg": 1701,
       "max_tg": 1858,
       "last_1v1": "2026-11-02",
-      "last_tg": "2026-11-02"
+      "last_tg": "2026-11-02",
+      "live": {
+        "match": 518356129,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 13192381,
@@ -535,7 +535,12 @@
       "cur_tg": 1633,
       "max_tg": 1688,
       "last_1v1": "2026-11-03",
-      "last_tg": "2026-10-31"
+      "last_tg": "2026-10-31",
+      "live": {
+        "match": 518356593,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 467847,
