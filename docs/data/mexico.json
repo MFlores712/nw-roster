@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-03T02:35:09Z",
+  "updated_at": "2026-11-03T02:40:08Z",
   "baseline": {
     "taken_at": "2026-11-02T14:00:16Z",
     "ranks": {
@@ -375,7 +375,12 @@
       "cur_tg": 1668,
       "max_tg": 1870,
       "last_1v1": "2026-10-31",
-      "last_tg": "2026-11-02"
+      "last_tg": "2026-11-02",
+      "live": {
+        "match": 518379321,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 1249720,
@@ -484,15 +489,10 @@
       "clan": "MZTK",
       "cur_1v1": 1961,
       "max_1v1": 1993,
-      "cur_tg": 1648,
+      "cur_tg": 1635,
       "max_tg": 1858,
       "last_1v1": "2026-11-02",
-      "last_tg": "2026-11-03",
-      "live": {
-        "match": 518374719,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-03"
     },
     {
       "profile_id": 13192381,
@@ -559,6 +559,17 @@
       "last_tg": "2026-11-02"
     },
     {
+      "profile_id": 278380,
+      "tag": "Lemoine",
+      "clan": "VL",
+      "cur_1v1": 1936,
+      "max_1v1": 1970,
+      "cur_tg": 1722,
+      "max_tg": 1865,
+      "last_tg": "2026-10-30",
+      "last_1v1": "2026-11-03"
+    },
+    {
       "profile_id": 2876835,
       "tag": "Abejorro",
       "clan": "nW",
@@ -590,22 +601,6 @@
       "max_tg": 1821,
       "last_tg": "2026-10-16",
       "last_1v1": "2026-09-18"
-    },
-    {
-      "profile_id": 278380,
-      "tag": "Lemoine",
-      "clan": "VL",
-      "cur_1v1": 1923,
-      "max_1v1": 1970,
-      "cur_tg": 1722,
-      "max_tg": 1865,
-      "last_tg": "2026-10-30",
-      "last_1v1": "2026-10-28",
-      "live": {
-        "match": 518374529,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 358501,
