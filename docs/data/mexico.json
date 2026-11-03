@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-03T21:35:24Z",
+  "updated_at": "2026-11-03T21:40:21Z",
   "baseline": {
     "taken_at": "2026-11-03T14:00:16Z",
     "ranks": {
@@ -92,15 +92,10 @@
       "clan": "Ux",
       "cur_1v1": 2650,
       "max_1v1": 2685,
-      "cur_tg": 2163,
-      "max_tg": 2163,
+      "cur_tg": 2169,
+      "max_tg": 2169,
       "last_1v1": "2026-10-29",
-      "last_tg": "2026-11-03",
-      "live": {
-        "match": 518546114,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-03"
     },
     {
       "profile_id": 13099159,
@@ -108,15 +103,10 @@
       "clan": "Ux",
       "cur_1v1": 2613,
       "max_1v1": 2629,
-      "cur_tg": 1917,
+      "cur_tg": 1931,
       "max_tg": 1999,
       "last_1v1": "2026-10-31",
-      "last_tg": "2026-11-03",
-      "live": {
-        "match": 518546114,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-03"
     },
     {
       "profile_id": 9449579,
@@ -274,22 +264,6 @@
       "last_seen": "2025-06-11"
     },
     {
-      "profile_id": 757886,
-      "tag": "DarK_KnighT_",
-      "clan": "VN",
-      "cur_1v1": 2273,
-      "max_1v1": 2288,
-      "cur_tg": 1878,
-      "max_tg": 2050,
-      "last_1v1": "2026-10-29",
-      "last_tg": "2026-11-03",
-      "live": {
-        "match": 518545315,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 914665,
       "tag": "Caguamas",
       "clan": "nW",
@@ -297,6 +271,17 @@
       "max_1v1": 2253,
       "cur_tg": 1820,
       "max_tg": 2024,
+      "last_1v1": "2026-11-03",
+      "last_tg": "2026-11-03"
+    },
+    {
+      "profile_id": 757886,
+      "tag": "DarK_KnighT_",
+      "clan": "VN",
+      "cur_1v1": 2243,
+      "max_1v1": 2288,
+      "cur_tg": 1878,
+      "max_tg": 2050,
       "last_1v1": "2026-11-03",
       "last_tg": "2026-11-03"
     },
@@ -433,13 +418,7 @@
       "cur_tg": 1812,
       "max_tg": 1962,
       "last_1v1": "2026-11-03",
-      "last_tg": "2026-10-30",
-      "live": {
-        "match": 518548516,
-        "game": "Team Random Map",
-        "format": "2v2",
-        "account": "Zoschenko17"
-      }
+      "last_tg": "2026-10-30"
     },
     {
       "profile_id": 233625,
@@ -616,13 +595,7 @@
       "cur_tg": 1820,
       "max_tg": 1821,
       "last_tg": "2026-10-16",
-      "last_1v1": "2026-09-18",
-      "live": {
-        "match": 518544678,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "James P. Solivan"
-      }
+      "last_1v1": "2026-09-18"
     },
     {
       "profile_id": 324005,
