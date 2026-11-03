@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-03T00:45:09Z",
+  "updated_at": "2026-11-03T00:50:10Z",
   "baseline": {
     "taken_at": "2026-11-02T14:00:16Z",
     "ranks": {
@@ -408,17 +408,12 @@
       "profile_id": 9770338,
       "tag": "SynfonY",
       "clan": "CL",
-      "cur_1v1": 2020,
-      "max_1v1": 2033,
+      "cur_1v1": 2040,
+      "max_1v1": 2040,
       "cur_tg": 1812,
       "max_tg": 1962,
-      "last_1v1": "2026-10-29",
-      "last_tg": "2026-10-30",
-      "live": {
-        "match": 518355684,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-03",
+      "last_tg": "2026-10-30"
     },
     {
       "profile_id": 233625,
@@ -451,6 +446,16 @@
       "max_tg": 1745,
       "last_tg": "2026-10-09",
       "last_1v1": "2026-10-24"
+    },
+    {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1981,
+      "max_1v1": 2003,
+      "cur_tg": 1366,
+      "max_tg": 1417,
+      "last_1v1": "2026-11-03",
+      "last_tg": "2026-10-30"
     },
     {
       "profile_id": 2291749,
@@ -501,21 +506,6 @@
       "last_tg": "2026-11-01"
     },
     {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1958,
-      "max_1v1": 2003,
-      "cur_tg": 1366,
-      "max_tg": 1417,
-      "last_1v1": "2026-11-03",
-      "last_tg": "2026-10-30",
-      "live": {
-        "match": 518357864,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 2986966,
       "tag": "JPGP",
       "clan": "VL",
@@ -524,12 +514,7 @@
       "cur_tg": 1671,
       "max_tg": 1824,
       "last_tg": "2026-11-03",
-      "last_1v1": "2026-10-13",
-      "live": {
-        "match": 518350994,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_1v1": "2026-10-13"
     },
     {
       "profile_id": 13241217,
