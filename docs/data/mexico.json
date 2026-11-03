@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-03T22:10:12Z",
+  "updated_at": "2026-11-03T22:15:11Z",
   "baseline": {
     "taken_at": "2026-11-03T14:00:16Z",
     "ranks": {
@@ -191,22 +191,6 @@
       "last_1v1": "2026-10-24"
     },
     {
-      "profile_id": 12723994,
-      "tag": "PuNii",
-      "clan": "VENÓN",
-      "cur_1v1": 2338,
-      "max_1v1": 2357,
-      "cur_tg": 1911,
-      "max_tg": 1922,
-      "last_tg": "2026-11-03",
-      "last_1v1": "2026-11-03",
-      "live": {
-        "match": 518557365,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 310739,
       "tag": "SoyLaHostia",
       "clan": "hK",
@@ -249,6 +233,17 @@
         "format": "4v4",
         "account": "FierroFlash"
       }
+    },
+    {
+      "profile_id": 12723994,
+      "tag": "PuNii",
+      "clan": "VENÓN",
+      "cur_1v1": 2321,
+      "max_1v1": 2357,
+      "cur_tg": 1911,
+      "max_tg": 1922,
+      "last_tg": "2026-11-03",
+      "last_1v1": "2026-11-03"
     },
     {
       "profile_id": 4412109,
@@ -606,13 +601,7 @@
       "cur_tg": 1820,
       "max_tg": 1821,
       "last_tg": "2026-10-16",
-      "last_1v1": "2026-09-18",
-      "live": {
-        "match": 518552897,
-        "game": "Unranked",
-        "format": "4v4",
-        "account": "James P. Solivan"
-      }
+      "last_1v1": "2026-09-18"
     },
     {
       "profile_id": 358501,
