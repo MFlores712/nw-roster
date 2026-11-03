@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-03T16:00:18Z",
+  "updated_at": "2026-11-03T16:15:10Z",
   "baseline": {
     "taken_at": "2026-11-03T14:00:16Z",
     "ranks": {
@@ -169,17 +169,12 @@
       "profile_id": 12722189,
       "tag": "PEGASO",
       "clan": "CLB",
-      "cur_1v1": 1844,
+      "cur_1v1": 1865,
       "max_1v1": 1889,
       "cur_tg": 1741,
       "max_tg": 1855,
       "last_1v1": "2026-11-03",
-      "last_tg": "2026-11-03",
-      "live": {
-        "match": 518477650,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-03"
     },
     {
       "profile_id": 10733016,
