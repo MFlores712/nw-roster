@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-03T23:40:09Z",
+  "updated_at": "2026-11-03T23:45:09Z",
   "baseline": {
     "taken_at": "2026-11-03T14:00:16Z",
     "ranks": {
@@ -56,7 +56,13 @@
       "cur_tg": 1788,
       "max_tg": 1828,
       "last_1v1": "2026-10-30",
-      "last_tg": "2026-09-05"
+      "last_tg": "2026-09-05",
+      "live": {
+        "match": 518575344,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "VoyMeta"
+      }
     },
     {
       "profile_id": 2825261,
