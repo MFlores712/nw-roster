@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-03T21:45:18Z",
+  "updated_at": "2026-11-03T21:50:13Z",
   "baseline": {
     "taken_at": "2026-11-03T14:00:16Z",
     "ranks": {
@@ -63,17 +63,12 @@
       "profile_id": 5984120,
       "tag": "Combito",
       "clan": "Ux",
-      "cur_1v1": 2776,
+      "cur_1v1": 2783,
       "max_1v1": 2790,
       "cur_tg": 1774,
       "max_tg": 1885,
       "last_1v1": "2026-11-03",
-      "last_tg": "2026-10-26",
-      "live": {
-        "match": 518548005,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-26"
     },
     {
       "profile_id": 2776293,
@@ -95,7 +90,12 @@
       "cur_tg": 2169,
       "max_tg": 2169,
       "last_1v1": "2026-10-29",
-      "last_tg": "2026-11-03"
+      "last_tg": "2026-11-03",
+      "live": {
+        "match": 518553341,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 13099159,
@@ -106,7 +106,12 @@
       "cur_tg": 1931,
       "max_tg": 1999,
       "last_1v1": "2026-10-31",
-      "last_tg": "2026-11-03"
+      "last_tg": "2026-11-03",
+      "live": {
+        "match": 518553341,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 9449579,
@@ -531,7 +536,12 @@
       "cur_tg": 1642,
       "max_tg": 1824,
       "last_tg": "2026-11-03",
-      "last_1v1": "2026-10-13"
+      "last_1v1": "2026-10-13",
+      "live": {
+        "match": 518553319,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 2876835,
@@ -596,7 +606,24 @@
       "cur_tg": 1820,
       "max_tg": 1821,
       "last_tg": "2026-10-16",
-      "last_1v1": "2026-09-18"
+      "last_1v1": "2026-09-18",
+      "live": {
+        "match": 518552897,
+        "game": "Unranked",
+        "format": "4v4",
+        "account": "James P. Solivan"
+      }
+    },
+    {
+      "profile_id": 358501,
+      "tag": "El Claut_One",
+      "clan": "VENÓN",
+      "cur_1v1": 1916,
+      "max_1v1": 2115,
+      "cur_tg": 1692,
+      "max_tg": 1820,
+      "last_tg": "2026-10-30",
+      "last_1v1": "2026-11-03"
     },
     {
       "profile_id": 324005,
@@ -619,22 +646,6 @@
       "max_tg": 1805,
       "last_tg": "2026-11-01",
       "last_1v1": "2026-10-16"
-    },
-    {
-      "profile_id": 358501,
-      "tag": "El Claut_One",
-      "clan": "VENÓN",
-      "cur_1v1": 1902,
-      "max_1v1": 2115,
-      "cur_tg": 1692,
-      "max_tg": 1820,
-      "last_tg": "2026-10-30",
-      "last_1v1": "2026-11-03",
-      "live": {
-        "match": 518544479,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     }
   ],
   "show_top": 45,
