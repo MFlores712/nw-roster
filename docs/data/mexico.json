@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-03T22:20:12Z",
+  "updated_at": "2026-11-03T22:25:10Z",
   "baseline": {
     "taken_at": "2026-11-03T14:00:16Z",
     "ranks": {
@@ -197,15 +197,10 @@
       "clan": "hK",
       "cur_1v1": 2330,
       "max_1v1": 2350,
-      "cur_tg": 1841,
+      "cur_tg": 1849,
       "max_tg": 1974,
       "last_1v1": "2026-11-03",
-      "last_tg": "2026-11-03",
-      "live": {
-        "match": 518555813,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-03"
     },
     {
       "profile_id": 9031952,
@@ -216,13 +211,7 @@
       "cur_tg": 1967,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-10-24",
-      "live": {
-        "match": 518555813,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "FierroFlash"
-      }
+      "last_tg": "2026-10-24"
     },
     {
       "profile_id": 12723994,
@@ -233,7 +222,12 @@
       "cur_tg": 1911,
       "max_tg": 1922,
       "last_tg": "2026-11-03",
-      "last_1v1": "2026-11-03"
+      "last_1v1": "2026-11-03",
+      "live": {
+        "match": 518560211,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 4412109,
@@ -408,13 +402,7 @@
       "cur_tg": 1812,
       "max_tg": 1962,
       "last_1v1": "2026-11-03",
-      "last_tg": "2026-10-30",
-      "live": {
-        "match": 518552339,
-        "game": "Team Random Map",
-        "format": "2v2",
-        "account": "Zoschenko17"
-      }
+      "last_tg": "2026-10-30"
     },
     {
       "profile_id": 233625,
@@ -521,7 +509,12 @@
       "cur_tg": 1620,
       "max_tg": 1824,
       "last_tg": "2026-11-03",
-      "last_1v1": "2026-10-13"
+      "last_1v1": "2026-10-13",
+      "live": {
+        "match": 518560808,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 2876835,
