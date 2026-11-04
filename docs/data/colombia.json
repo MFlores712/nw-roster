@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-04T01:35:08Z",
+  "updated_at": "2026-11-04T01:40:09Z",
   "baseline": {
     "taken_at": "2026-11-03T14:00:16Z",
     "ranks": {
@@ -29,17 +29,12 @@
       "profile_id": 13267917,
       "tag": "Manuel",
       "clan": "nW",
-      "cur_1v1": 2475,
-      "max_1v1": 2475,
+      "cur_1v1": 2495,
+      "max_1v1": 2495,
       "cur_tg": 1887,
       "max_tg": 1933,
       "last_1v1": "2026-11-04",
-      "last_tg": "2026-11-01",
-      "live": {
-        "match": 518592246,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-01"
     },
     {
       "profile_id": 2654577,
@@ -146,7 +141,12 @@
       "cur_tg": 1846,
       "max_tg": 1893,
       "last_tg": "2026-11-04",
-      "last_1v1": "2026-11-01"
+      "last_1v1": "2026-11-01",
+      "live": {
+        "match": 518595854,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 2479622,
@@ -168,7 +168,13 @@
       "cur_tg": 1813,
       "max_tg": 1893,
       "last_tg": "2026-11-02",
-      "last_1v1": "2026-11-02"
+      "last_1v1": "2026-11-02",
+      "live": {
+        "match": 518595043,
+        "game": "Unranked",
+        "format": "4v4",
+        "account": "Chupapimuñeño"
+      }
     },
     {
       "profile_id": 1542191,
