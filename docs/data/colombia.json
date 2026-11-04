@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-04T00:40:09Z",
+  "updated_at": "2026-11-04T00:50:11Z",
   "baseline": {
     "taken_at": "2026-11-03T14:00:16Z",
     "ranks": {
@@ -29,14 +29,14 @@
       "profile_id": 13267917,
       "tag": "Manuel",
       "clan": "nW",
-      "cur_1v1": 2464,
+      "cur_1v1": 2453,
       "max_1v1": 2474,
       "cur_tg": 1887,
       "max_tg": 1933,
       "last_1v1": "2026-11-04",
       "last_tg": "2026-11-01",
       "live": {
-        "match": 518582902,
+        "match": 518587013,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -193,21 +193,6 @@
       "last_tg": "2026-11-03"
     },
     {
-      "profile_id": 2134856,
-      "tag": "Jacko",
-      "cur_1v1": 1820,
-      "max_1v1": 1867,
-      "cur_tg": 1119,
-      "max_tg": 1119,
-      "last_1v1": "2026-11-04",
-      "last_tg": "2025-03-14",
-      "live": {
-        "match": 518584829,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 10733016,
       "tag": "The .Gocho",
       "cur_1v1": 1814,
@@ -216,6 +201,16 @@
       "max_tg": 1839,
       "last_tg": "2026-10-25",
       "last_1v1": "2026-10-09"
+    },
+    {
+      "profile_id": 2134856,
+      "tag": "Jacko",
+      "cur_1v1": 1803,
+      "max_1v1": 1867,
+      "cur_tg": 1119,
+      "max_tg": 1119,
+      "last_1v1": "2026-11-04",
+      "last_tg": "2025-03-14"
     },
     {
       "profile_id": 5981761,

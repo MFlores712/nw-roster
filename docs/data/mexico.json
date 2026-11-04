@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-04T00:45:17Z",
+  "updated_at": "2026-11-04T00:50:11Z",
   "baseline": {
     "taken_at": "2026-11-03T14:00:16Z",
     "ranks": {
@@ -611,7 +611,13 @@
       "cur_tg": 1733,
       "max_tg": 1865,
       "last_tg": "2026-11-03",
-      "last_1v1": "2026-11-04"
+      "last_1v1": "2026-11-04",
+      "live": {
+        "match": 518586906,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "VL Formolin"
+      }
     },
     {
       "profile_id": 358501,
