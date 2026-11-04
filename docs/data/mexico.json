@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-04T20:35:08Z",
+  "updated_at": "2026-11-04T20:40:10Z",
   "baseline": {
     "taken_at": "2026-11-04T14:00:16Z",
     "ranks": {
@@ -167,7 +167,12 @@
       "cur_tg": 1925,
       "max_tg": 1925,
       "last_tg": "2026-11-04",
-      "last_1v1": "2026-11-04"
+      "last_1v1": "2026-11-04",
+      "live": {
+        "match": 518762891,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 1485562,
@@ -203,6 +208,17 @@
       "last_1v1": "2026-10-24"
     },
     {
+      "profile_id": 4412109,
+      "tag": "HGB",
+      "clan": "hK",
+      "cur_1v1": 2337,
+      "max_1v1": 2337,
+      "cur_tg": 2064,
+      "max_tg": 2083,
+      "last_1v1": "2026-11-04",
+      "last_tg": "2026-11-04"
+    },
+    {
       "profile_id": 580573,
       "tag": "Puerco Black",
       "clan": "hK",
@@ -212,22 +228,6 @@
       "max_tg": 1974,
       "last_1v1": "2026-11-04",
       "last_tg": "2026-11-03"
-    },
-    {
-      "profile_id": 4412109,
-      "tag": "HGB",
-      "clan": "hK",
-      "cur_1v1": 2325,
-      "max_1v1": 2325,
-      "cur_tg": 2064,
-      "max_tg": 2083,
-      "last_1v1": "2026-11-04",
-      "last_tg": "2026-11-04",
-      "live": {
-        "match": 518756562,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 9031952,
@@ -315,7 +315,13 @@
       "cur_tg": 1646,
       "max_tg": 1652,
       "last_tg": "2026-10-29",
-      "last_1v1": "2026-11-02"
+      "last_1v1": "2026-11-02",
+      "live": {
+        "match": 518761951,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "emmanueldltq08"
+      }
     },
     {
       "profile_id": 1249720,
