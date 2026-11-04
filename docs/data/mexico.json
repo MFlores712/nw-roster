@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-04T10:50:16Z",
+  "updated_at": "2026-11-04T10:55:09Z",
   "baseline": {
     "taken_at": "2026-11-03T14:00:16Z",
     "ranks": {
@@ -151,17 +151,12 @@
       "profile_id": 12723994,
       "tag": "Xhing is Dragonstar",
       "clan": "VENÓN",
-      "cur_1v1": 2370,
-      "max_1v1": 2370,
+      "cur_1v1": 2377,
+      "max_1v1": 2377,
       "cur_tg": 1925,
       "max_tg": 1925,
       "last_tg": "2026-11-04",
-      "last_1v1": "2026-11-04",
-      "live": {
-        "match": 518659244,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-04"
     },
     {
       "profile_id": 310739,
