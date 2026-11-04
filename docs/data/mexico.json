@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-04T09:57:29Z",
+  "updated_at": "2026-11-04T10:20:11Z",
   "baseline": {
     "taken_at": "2026-11-03T14:00:16Z",
     "ranks": {
@@ -148,6 +148,17 @@
       "last_1v1": "2026-10-31"
     },
     {
+      "profile_id": 12723994,
+      "tag": "Xhing is Dragonstar",
+      "clan": "VENÓN",
+      "cur_1v1": 2370,
+      "max_1v1": 2370,
+      "cur_tg": 1925,
+      "max_tg": 1925,
+      "last_tg": "2026-11-04",
+      "last_1v1": "2026-11-04"
+    },
+    {
       "profile_id": 310739,
       "tag": "SoyLaHostia",
       "clan": "hK",
@@ -159,22 +170,6 @@
       "last_tg": "2026-10-29",
       "live": {
         "match": 518654817,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
-      "profile_id": 12723994,
-      "tag": "Xhing is Dragonstar",
-      "clan": "VENÓN",
-      "cur_1v1": 2354,
-      "max_1v1": 2357,
-      "cur_tg": 1925,
-      "max_tg": 1925,
-      "last_tg": "2026-11-04",
-      "last_1v1": "2026-11-03",
-      "live": {
-        "match": 518654983,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
