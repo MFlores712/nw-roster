@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-04T05:10:09Z",
+  "updated_at": "2026-11-04T05:15:12Z",
   "baseline": {
     "taken_at": "2026-11-03T14:00:16Z",
     "ranks": {
@@ -112,13 +112,7 @@
       "cur_tg": 2140,
       "max_tg": 2151,
       "last_1v1": "2026-10-29",
-      "last_tg": "2026-10-15",
-      "live": {
-        "match": 518627280,
-        "game": "Team Random Map",
-        "format": "3v3",
-        "account": "VENÓN | Mauricio"
-      }
+      "last_tg": "2026-10-15"
     },
     {
       "profile_id": 401359,
@@ -165,15 +159,10 @@
       "clan": "VENÓN",
       "cur_1v1": 2354,
       "max_1v1": 2357,
-      "cur_tg": 1911,
+      "cur_tg": 1913,
       "max_tg": 1922,
-      "last_tg": "2026-11-03",
-      "last_1v1": "2026-11-03",
-      "live": {
-        "match": 518627280,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-11-04",
+      "last_1v1": "2026-11-03"
     },
     {
       "profile_id": 1485562,
@@ -228,7 +217,13 @@
       "cur_tg": 1967,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-10-24"
+      "last_tg": "2026-10-24",
+      "live": {
+        "match": 518629515,
+        "game": "Unranked",
+        "format": "4v4",
+        "account": "FierroFlash"
+      }
     },
     {
       "profile_id": 580573,
@@ -306,7 +301,12 @@
       "cur_tg": 1986,
       "max_tg": 1986,
       "last_1v1": "2026-11-03",
-      "last_tg": "2026-11-04"
+      "last_tg": "2026-11-04",
+      "live": {
+        "match": 518629515,
+        "game": "Unranked",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 917863,
@@ -390,15 +390,10 @@
       "clan": "SotC",
       "cur_1v1": 2054,
       "max_1v1": 2098,
-      "cur_tg": 1662,
+      "cur_tg": 1649,
       "max_tg": 1870,
       "last_1v1": "2026-10-31",
-      "last_tg": "2026-11-04",
-      "live": {
-        "match": 518626257,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-04"
     },
     {
       "profile_id": 1708286,
@@ -537,7 +532,12 @@
       "cur_tg": 1774,
       "max_tg": 1813,
       "last_tg": "2026-10-30",
-      "last_1v1": "2026-11-04"
+      "last_1v1": "2026-11-04",
+      "live": {
+        "match": 518629515,
+        "game": "Unranked",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 2876835,
@@ -577,15 +577,10 @@
       "clan": "SotC",
       "cur_1v1": 1937,
       "max_1v1": 2039,
-      "cur_tg": 1687,
+      "cur_tg": 1673,
       "max_tg": 1888,
       "last_1v1": "2026-10-30",
-      "last_tg": "2026-11-04",
-      "live": {
-        "match": 518626257,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-04"
     },
     {
       "profile_id": 2969449,
