@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-04T07:15:09Z",
+  "updated_at": "2026-11-04T07:25:08Z",
   "baseline": {
     "taken_at": "2026-11-03T14:00:16Z",
     "ranks": {
@@ -65,15 +65,10 @@
       "clan": "Ux",
       "cur_1v1": 2720,
       "max_1v1": 2790,
-      "cur_tg": 1786,
+      "cur_tg": 1795,
       "max_tg": 1885,
       "last_1v1": "2026-11-04",
-      "last_tg": "2026-11-04",
-      "live": {
-        "match": 518639971,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-04"
     },
     {
       "profile_id": 2776293,
@@ -150,13 +145,7 @@
       "cur_tg": 2200,
       "max_tg": 2227,
       "last_tg": "2026-10-27",
-      "last_1v1": "2026-10-31",
-      "live": {
-        "match": 518640692,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "VENÓN | SiNisTeR"
-      }
+      "last_1v1": "2026-10-31"
     },
     {
       "profile_id": 12723994,
