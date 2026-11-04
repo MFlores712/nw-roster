@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-04T05:00:13Z",
+  "updated_at": "2026-11-04T05:10:09Z",
   "baseline": {
     "taken_at": "2026-11-03T14:00:16Z",
     "ranks": {
@@ -65,15 +65,10 @@
       "clan": "Ux",
       "cur_1v1": 2720,
       "max_1v1": 2790,
-      "cur_tg": 1755,
+      "cur_tg": 1765,
       "max_tg": 1885,
       "last_1v1": "2026-11-04",
-      "last_tg": "2026-11-04",
-      "live": {
-        "match": 518627552,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-04"
     },
     {
       "profile_id": 2776293,
@@ -233,13 +228,7 @@
       "cur_tg": 1967,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-10-24",
-      "live": {
-        "match": 518626263,
-        "game": "Unranked",
-        "format": "3v3",
-        "account": "FierroFlash"
-      }
+      "last_tg": "2026-10-24"
     },
     {
       "profile_id": 580573,
@@ -317,12 +306,7 @@
       "cur_tg": 1986,
       "max_tg": 1986,
       "last_1v1": "2026-11-03",
-      "last_tg": "2026-11-04",
-      "live": {
-        "match": 518626263,
-        "game": "Unranked",
-        "format": "3v3"
-      }
+      "last_tg": "2026-11-04"
     },
     {
       "profile_id": 917863,
