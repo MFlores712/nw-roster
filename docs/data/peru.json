@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-04T03:05:10Z",
+  "updated_at": "2026-11-04T03:15:10Z",
   "baseline": {
     "taken_at": "2026-11-03T14:00:16Z",
     "ranks": {
@@ -94,14 +94,14 @@
       "profile_id": 1359694,
       "tag": "AtilA",
       "clan": "nW",
-      "cur_1v1": 2047,
+      "cur_1v1": 2039,
       "max_1v1": 2123,
       "cur_tg": 1622,
       "max_tg": 1670,
       "last_tg": "2026-11-01",
-      "last_1v1": "2026-11-03",
+      "last_1v1": "2026-11-04",
       "live": {
-        "match": 518609188,
+        "match": 518613056,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -198,13 +198,7 @@
       "cur_tg": 1452,
       "max_tg": 1581,
       "last_1v1": "2026-11-03",
-      "last_tg": "2026-09-13",
-      "live": {
-        "match": 518609672,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "LE | Emaxcito2"
-      }
+      "last_tg": "2026-09-13"
     },
     {
       "profile_id": 1865687,
