@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-04T20:30:11Z",
+  "updated_at": "2026-11-04T20:35:08Z",
   "baseline": {
     "taken_at": "2026-11-04T14:00:16Z",
     "ranks": {
@@ -159,6 +159,17 @@
       "last_tg": "2026-10-29"
     },
     {
+      "profile_id": 12723994,
+      "tag": "Xhing is Dragonstar",
+      "clan": "VENÓN",
+      "cur_1v1": 2350,
+      "max_1v1": 2377,
+      "cur_tg": 1925,
+      "max_tg": 1925,
+      "last_tg": "2026-11-04",
+      "last_1v1": "2026-11-04"
+    },
+    {
       "profile_id": 1485562,
       "tag": "MrOsoVC8",
       "clan": "VENÓN",
@@ -190,22 +201,6 @@
       "max_tg": 2072,
       "last_tg": "2026-10-26",
       "last_1v1": "2026-10-24"
-    },
-    {
-      "profile_id": 12723994,
-      "tag": "Xhing is Dragonstar",
-      "clan": "VENÓN",
-      "cur_1v1": 2331,
-      "max_1v1": 2377,
-      "cur_tg": 1925,
-      "max_tg": 1925,
-      "last_tg": "2026-11-04",
-      "last_1v1": "2026-11-04",
-      "live": {
-        "match": 518756113,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 580573,
@@ -263,15 +258,10 @@
       "clan": "VN",
       "cur_1v1": 2260,
       "max_1v1": 2288,
-      "cur_tg": 1885,
+      "cur_tg": 1894,
       "max_tg": 2050,
       "last_1v1": "2026-11-04",
-      "last_tg": "2026-11-04",
-      "live": {
-        "match": 518754542,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-04"
     },
     {
       "profile_id": 914665,
@@ -333,15 +323,10 @@
       "clan": "VN",
       "cur_1v1": 2096,
       "max_1v1": 2102,
-      "cur_tg": 1822,
+      "cur_tg": 1833,
       "max_tg": 1997,
       "last_1v1": "2026-11-04",
-      "last_tg": "2026-11-04",
-      "live": {
-        "match": 518754542,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-04"
     },
     {
       "profile_id": 1947348,
@@ -478,15 +463,10 @@
       "clan": "VL",
       "cur_1v1": 1962,
       "max_1v1": 1970,
-      "cur_tg": 1715,
+      "cur_tg": 1701,
       "max_tg": 1865,
       "last_tg": "2026-11-04",
-      "last_1v1": "2026-11-04",
-      "live": {
-        "match": 518751930,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_1v1": "2026-11-04"
     },
     {
       "profile_id": 3285258,
@@ -516,15 +496,10 @@
       "clan": "VL",
       "cur_1v1": 1952,
       "max_1v1": 1972,
-      "cur_tg": 1628,
+      "cur_tg": 1616,
       "max_tg": 1824,
       "last_tg": "2026-11-04",
-      "last_1v1": "2026-10-13",
-      "live": {
-        "match": 518751930,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_1v1": "2026-10-13"
     },
     {
       "profile_id": 3254820,
@@ -615,7 +590,12 @@
       "cur_tg": 1719,
       "max_tg": 1820,
       "last_tg": "2026-11-04",
-      "last_1v1": "2026-11-04"
+      "last_1v1": "2026-11-04",
+      "live": {
+        "match": 518761127,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 324005,
