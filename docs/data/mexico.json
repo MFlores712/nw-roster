@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-04T22:10:09Z",
+  "updated_at": "2026-11-04T22:25:09Z",
   "baseline": {
     "taken_at": "2026-11-04T14:00:16Z",
     "ranks": {
@@ -219,10 +219,10 @@
       "clan": "hK",
       "cur_1v1": 2331,
       "max_1v1": 2350,
-      "cur_tg": 1829,
+      "cur_tg": 1841,
       "max_tg": 1974,
       "last_1v1": "2026-11-04",
-      "last_tg": "2026-11-03",
+      "last_tg": "2026-11-04",
       "live": {
         "match": 518778065,
         "game": "Team Random Map",
@@ -327,17 +327,12 @@
       "profile_id": 1249720,
       "tag": "Lice_Slide",
       "clan": "VN",
-      "cur_1v1": 2096,
-      "max_1v1": 2102,
+      "cur_1v1": 2112,
+      "max_1v1": 2112,
       "cur_tg": 1833,
       "max_tg": 1997,
       "last_1v1": "2026-11-04",
-      "last_tg": "2026-11-04",
-      "live": {
-        "match": 518782217,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-04"
     },
     {
       "profile_id": 1947348,
@@ -628,7 +623,12 @@
       "cur_tg": 1708,
       "max_tg": 1805,
       "last_tg": "2026-11-01",
-      "last_1v1": "2026-10-16"
+      "last_1v1": "2026-10-16",
+      "live": {
+        "match": 518784598,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     }
   ],
   "show_top": 45,
