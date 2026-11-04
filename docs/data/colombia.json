@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-04T17:30:14Z",
+  "updated_at": "2026-11-04T17:45:10Z",
   "baseline": {
     "taken_at": "2026-11-04T14:00:16Z",
     "ranks": {
@@ -58,7 +58,7 @@
       "last_1v1": "2026-11-04",
       "last_tg": "2026-09-05",
       "live": {
-        "match": 518721177,
+        "match": 518726858,
         "game": "1v1 Random Map",
         "format": "1v1",
         "account": "NuMa | AngelR2"
