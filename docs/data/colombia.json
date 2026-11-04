@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-04T03:55:08Z",
+  "updated_at": "2026-11-04T04:00:12Z",
   "baseline": {
     "taken_at": "2026-11-03T14:00:16Z",
     "ranks": {
@@ -128,10 +128,15 @@
       "clan": "NuMa",
       "cur_1v1": 1931,
       "max_1v1": 1951,
-      "cur_tg": 1846,
+      "cur_tg": 1824,
       "max_tg": 1893,
       "last_tg": "2026-11-04",
-      "last_1v1": "2026-11-01"
+      "last_1v1": "2026-11-01",
+      "live": {
+        "match": 518619820,
+        "game": "Team Random Map",
+        "format": "2v2"
+      }
     },
     {
       "profile_id": 2479622,
@@ -142,7 +147,13 @@
       "cur_tg": 1900,
       "max_tg": 1905,
       "last_1v1": "2026-09-21",
-      "last_tg": "2026-10-02"
+      "last_tg": "2026-10-02",
+      "live": {
+        "match": 518619820,
+        "game": "Team Random Map",
+        "format": "2v2",
+        "account": "[GDL] Capitan Nicky"
+      }
     },
     {
       "profile_id": 12930522,
@@ -153,7 +164,13 @@
       "cur_tg": 1813,
       "max_tg": 1893,
       "last_tg": "2026-11-02",
-      "last_1v1": "2026-11-02"
+      "last_1v1": "2026-11-02",
+      "live": {
+        "match": 518619820,
+        "game": "Team Random Map",
+        "format": "2v2",
+        "account": "Chupapimuñeño"
+      }
     },
     {
       "profile_id": 1542191,
