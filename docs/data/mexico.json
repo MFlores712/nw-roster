@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-04T19:45:10Z",
+  "updated_at": "2026-11-04T19:50:10Z",
   "baseline": {
     "taken_at": "2026-11-04T14:00:16Z",
     "ranks": {
@@ -211,12 +211,7 @@
       "cur_tg": 2064,
       "max_tg": 2083,
       "last_1v1": "2026-11-04",
-      "last_tg": "2026-11-04",
-      "live": {
-        "match": 518745836,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-04"
     },
     {
       "profile_id": 9031952,
@@ -479,6 +474,17 @@
       "last_tg": "2026-11-04"
     },
     {
+      "profile_id": 278380,
+      "tag": "Lemoine",
+      "clan": "VL",
+      "cur_1v1": 1962,
+      "max_1v1": 1970,
+      "cur_tg": 1715,
+      "max_tg": 1865,
+      "last_tg": "2026-11-04",
+      "last_1v1": "2026-11-04"
+    },
+    {
       "profile_id": 3285258,
       "tag": "Kiss",
       "clan": "MZTK",
@@ -552,22 +558,6 @@
       "max_tg": 1755,
       "last_1v1": "2026-09-16",
       "last_tg": "2026-09-16"
-    },
-    {
-      "profile_id": 278380,
-      "tag": "Lemoine",
-      "clan": "VL",
-      "cur_1v1": 1939,
-      "max_1v1": 1970,
-      "cur_tg": 1715,
-      "max_tg": 1865,
-      "last_tg": "2026-11-04",
-      "last_1v1": "2026-11-04",
-      "live": {
-        "match": 518748327,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 2926018,
