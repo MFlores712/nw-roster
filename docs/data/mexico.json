@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-04T21:40:09Z",
+  "updated_at": "2026-11-04T21:45:10Z",
   "baseline": {
     "taken_at": "2026-11-04T14:00:16Z",
     "ranks": {
@@ -239,13 +239,7 @@
       "cur_tg": 1967,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-10-24",
-      "live": {
-        "match": 518772895,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "FierroFlash"
-      }
+      "last_tg": "2026-10-24"
     },
     {
       "profile_id": 9666666,
@@ -285,17 +279,12 @@
       "profile_id": 3816609,
       "tag": "iamkaito",
       "clan": "nW",
-      "cur_1v1": 2208,
+      "cur_1v1": 2217,
       "max_1v1": 2304,
       "cur_tg": 1813,
       "max_tg": 1852,
       "last_1v1": "2026-11-04",
-      "last_tg": "2026-11-01",
-      "live": {
-        "match": 518772399,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-01"
     },
     {
       "profile_id": 13138746,
@@ -327,7 +316,13 @@
       "cur_tg": 1646,
       "max_tg": 1652,
       "last_tg": "2026-10-29",
-      "last_1v1": "2026-11-02"
+      "last_1v1": "2026-11-02",
+      "live": {
+        "match": 518776591,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "emmanueldltq08"
+      }
     },
     {
       "profile_id": 1249720,
@@ -602,7 +597,12 @@
       "cur_tg": 1686,
       "max_tg": 1888,
       "last_1v1": "2026-11-04",
-      "last_tg": "2026-11-04"
+      "last_tg": "2026-11-04",
+      "live": {
+        "match": 518776124,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 324005,
