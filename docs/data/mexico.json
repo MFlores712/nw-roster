@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-04T17:15:10Z",
+  "updated_at": "2026-11-04T17:20:13Z",
   "baseline": {
     "taken_at": "2026-11-04T14:00:16Z",
     "ranks": {
@@ -259,15 +259,10 @@
       "clan": "VN",
       "cur_1v1": 2260,
       "max_1v1": 2288,
-      "cur_tg": 1878,
+      "cur_tg": 1889,
       "max_tg": 2050,
       "last_1v1": "2026-11-04",
-      "last_tg": "2026-11-03",
-      "live": {
-        "match": 518715332,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-04"
     },
     {
       "profile_id": 914665,
@@ -574,13 +569,7 @@
       "cur_tg": 1820,
       "max_tg": 1821,
       "last_tg": "2026-10-16",
-      "last_1v1": "2026-09-18",
-      "live": {
-        "match": 518714251,
-        "game": "Unranked",
-        "format": "4v4",
-        "account": "James P. Solivan"
-      }
+      "last_1v1": "2026-09-18"
     },
     {
       "profile_id": 278380,
@@ -631,8 +620,8 @@
       "last_tg": "2026-11-01",
       "last_1v1": "2026-10-16",
       "live": {
-        "match": 518719059,
-        "game": "Quick Play 1v1 Random Map",
+        "match": 518722002,
+        "game": "Unranked",
         "format": "1v1"
       }
     }
