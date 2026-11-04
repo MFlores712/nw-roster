@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-04T14:00:16Z",
+  "updated_at": "2026-11-04T14:20:20Z",
   "baseline": {
     "taken_at": "2026-11-04T14:00:16Z",
     "ranks": {
@@ -142,16 +142,10 @@
       "clan": "CTM",
       "cur_1v1": 1993,
       "max_1v1": 2222,
-      "cur_tg": 1775,
+      "cur_tg": 1763,
       "max_tg": 1843,
       "last_tg": "2026-11-04",
-      "last_1v1": "2026-11-04",
-      "live": {
-        "match": 518681578,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "CTM | Lelouch ELO bajito"
-      }
+      "last_1v1": "2026-11-04"
     },
     {
       "profile_id": 13518993,
@@ -178,14 +172,14 @@
       "profile_id": 4229962,
       "tag": "Réyiman",
       "clan": "LvSP",
-      "cur_1v1": 1926,
+      "cur_1v1": 1909,
       "max_1v1": 2139,
       "cur_tg": 1578,
       "max_tg": 1719,
       "last_1v1": "2026-11-04",
       "last_tg": "2026-11-03",
       "live": {
-        "match": 518685772,
+        "match": 518689283,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
