@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-04T09:25:09Z",
+  "updated_at": "2026-11-04T09:57:29Z",
   "baseline": {
     "taken_at": "2026-11-03T14:00:16Z",
     "ranks": {
@@ -148,6 +148,22 @@
       "last_1v1": "2026-10-31"
     },
     {
+      "profile_id": 310739,
+      "tag": "SoyLaHostia",
+      "clan": "hK",
+      "cur_1v1": 2354,
+      "max_1v1": 2484,
+      "cur_tg": 1864,
+      "max_tg": 1959,
+      "last_1v1": "2026-11-04",
+      "last_tg": "2026-10-29",
+      "live": {
+        "match": 518654817,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 12723994,
       "tag": "Xhing is Dragonstar",
       "clan": "VENÓN",
@@ -156,7 +172,12 @@
       "cur_tg": 1925,
       "max_tg": 1925,
       "last_tg": "2026-11-04",
-      "last_1v1": "2026-11-03"
+      "last_1v1": "2026-11-03",
+      "live": {
+        "match": 518654983,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 1485562,
@@ -190,22 +211,6 @@
       "max_tg": 2072,
       "last_tg": "2026-10-26",
       "last_1v1": "2026-10-24"
-    },
-    {
-      "profile_id": 310739,
-      "tag": "SoyLaHostia",
-      "clan": "hK",
-      "cur_1v1": 2336,
-      "max_1v1": 2484,
-      "cur_tg": 1864,
-      "max_tg": 1959,
-      "last_1v1": "2026-11-03",
-      "last_tg": "2026-10-29",
-      "live": {
-        "match": 518651897,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 9031952,
