@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-04T02:40:13Z",
+  "updated_at": "2026-11-04T03:00:14Z",
   "baseline": {
     "taken_at": "2026-11-03T14:00:16Z",
     "ranks": {
@@ -63,7 +63,7 @@
       "profile_id": 5984120,
       "tag": "Combito",
       "clan": "Ux",
-      "cur_1v1": 2773,
+      "cur_1v1": 2752,
       "max_1v1": 2790,
       "cur_tg": 1774,
       "max_tg": 1885,
@@ -79,7 +79,7 @@
       "profile_id": 2776293,
       "tag": "Kingstone",
       "clan": "Oni",
-      "cur_1v1": 2654,
+      "cur_1v1": 2675,
       "max_1v1": 2867,
       "cur_tg": 2152,
       "max_tg": 2169,
@@ -130,15 +130,10 @@
       "clan": "hK",
       "cur_1v1": 2427,
       "max_1v1": 2433,
-      "cur_tg": 2051,
+      "cur_tg": 2057,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-11-04",
-      "live": {
-        "match": 518605823,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-04"
     },
     {
       "profile_id": 401359,
@@ -204,13 +199,7 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 518605823,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "hK | RanDoM"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 310739,
@@ -251,15 +240,10 @@
       "clan": "hK",
       "cur_1v1": 2303,
       "max_1v1": 2317,
-      "cur_tg": 2050,
+      "cur_tg": 2056,
       "max_tg": 2083,
       "last_1v1": "2026-11-03",
-      "last_tg": "2026-11-04",
-      "live": {
-        "match": 518605823,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-04"
     },
     {
       "profile_id": 9666666,
@@ -279,15 +263,10 @@
       "clan": "nW",
       "cur_1v1": 2253,
       "max_1v1": 2253,
-      "cur_tg": 1820,
+      "cur_tg": 1806,
       "max_tg": 2024,
       "last_1v1": "2026-11-03",
-      "last_tg": "2026-11-03",
-      "live": {
-        "match": 518606305,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-04"
     },
     {
       "profile_id": 757886,
@@ -317,15 +296,10 @@
       "clan": "hK",
       "cur_1v1": 2182,
       "max_1v1": 2233,
-      "cur_tg": 1969,
+      "cur_tg": 1976,
       "max_tg": 1983,
       "last_1v1": "2026-11-03",
-      "last_tg": "2026-11-04",
-      "live": {
-        "match": 518605823,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-04"
     },
     {
       "profile_id": 917863,
@@ -333,15 +307,10 @@
       "clan": "hK",
       "cur_1v1": 2165,
       "max_1v1": 2233,
-      "cur_tg": 1811,
+      "cur_tg": 1823,
       "max_tg": 1838,
       "last_1v1": "2026-11-04",
-      "last_tg": "2026-11-04",
-      "live": {
-        "match": 518604545,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-04"
     },
     {
       "profile_id": 5803221,
