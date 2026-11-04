@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-04T19:25:09Z",
+  "updated_at": "2026-11-04T19:30:13Z",
   "baseline": {
     "taken_at": "2026-11-04T14:00:16Z",
     "ranks": {
@@ -145,13 +145,7 @@
       "cur_tg": 2200,
       "max_tg": 2227,
       "last_tg": "2026-10-27",
-      "last_1v1": "2026-10-31",
-      "live": {
-        "match": 518740389,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "VENÓN | SiNisTeR"
-      }
+      "last_1v1": "2026-10-31"
     },
     {
       "profile_id": 310739,
@@ -549,6 +543,17 @@
       "last_tg": "2026-09-16"
     },
     {
+      "profile_id": 278380,
+      "tag": "Lemoine",
+      "clan": "VL",
+      "cur_1v1": 1939,
+      "max_1v1": 1970,
+      "cur_tg": 1715,
+      "max_tg": 1865,
+      "last_tg": "2026-11-04",
+      "last_1v1": "2026-11-04"
+    },
+    {
       "profile_id": 2926018,
       "tag": "PerezPodrido",
       "clan": "SotC",
@@ -580,22 +585,6 @@
       "max_tg": 1821,
       "last_tg": "2026-10-16",
       "last_1v1": "2026-09-18"
-    },
-    {
-      "profile_id": 278380,
-      "tag": "Lemoine",
-      "clan": "VL",
-      "cur_1v1": 1924,
-      "max_1v1": 1970,
-      "cur_tg": 1715,
-      "max_tg": 1865,
-      "last_tg": "2026-11-04",
-      "last_1v1": "2026-11-04",
-      "live": {
-        "match": 518745220,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 358501,
