@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-03T23:55:09Z",
+  "updated_at": "2026-11-04T00:00:14Z",
   "baseline": {
     "taken_at": "2026-11-03T14:00:16Z",
     "ranks": {
@@ -47,7 +47,7 @@
       "last_1v1": "2026-11-03",
       "last_tg": "2026-11-02",
       "live": {
-        "match": 518572954,
+        "match": 518578035,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -104,17 +104,12 @@
       "profile_id": 1359694,
       "tag": "AtilA",
       "clan": "nW",
-      "cur_1v1": 2040,
+      "cur_1v1": 2047,
       "max_1v1": 2123,
       "cur_tg": 1622,
       "max_tg": 1670,
       "last_tg": "2026-11-01",
-      "last_1v1": "2026-11-03",
-      "live": {
-        "match": 518572866,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-03"
     },
     {
       "profile_id": 6090060,
@@ -170,13 +165,7 @@
       "cur_tg": 1792,
       "max_tg": 1843,
       "last_tg": "2026-11-03",
-      "last_1v1": "2026-11-03",
-      "live": {
-        "match": 518577427,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "CTM | Lelouch Jogo Bonito"
-      }
+      "last_1v1": "2026-11-03"
     },
     {
       "profile_id": 4210400,
