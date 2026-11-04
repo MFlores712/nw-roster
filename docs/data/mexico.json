@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-04T01:00:14Z",
+  "updated_at": "2026-11-04T01:05:09Z",
   "baseline": {
     "taken_at": "2026-11-03T14:00:16Z",
     "ranks": {
@@ -339,6 +339,17 @@
       "last_1v1": "2026-11-02"
     },
     {
+      "profile_id": 1249720,
+      "tag": "Lice_Slide",
+      "clan": "VN",
+      "cur_1v1": 2096,
+      "max_1v1": 2102,
+      "cur_tg": 1818,
+      "max_tg": 1997,
+      "last_1v1": "2026-11-04",
+      "last_tg": "2026-11-03"
+    },
+    {
       "profile_id": 1947348,
       "tag": "themariach1",
       "clan": "nW",
@@ -348,22 +359,6 @@
       "max_tg": 2034,
       "last_1v1": "2026-07-08",
       "last_tg": "2026-10-21"
-    },
-    {
-      "profile_id": 1249720,
-      "tag": "Lice_Slide",
-      "clan": "VN",
-      "cur_1v1": 2079,
-      "max_1v1": 2102,
-      "cur_tg": 1818,
-      "max_tg": 1997,
-      "last_1v1": "2026-11-03",
-      "last_tg": "2026-11-03",
-      "live": {
-        "match": 518585569,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 13215279,
@@ -540,7 +535,12 @@
       "cur_tg": 1624,
       "max_tg": 1824,
       "last_tg": "2026-11-03",
-      "last_1v1": "2026-10-13"
+      "last_1v1": "2026-10-13",
+      "live": {
+        "match": 518589339,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 2876835,
@@ -622,7 +622,12 @@
       "cur_tg": 1692,
       "max_tg": 1820,
       "last_tg": "2026-10-30",
-      "last_1v1": "2026-11-04"
+      "last_1v1": "2026-11-04",
+      "live": {
+        "match": 518589720,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 324005,
