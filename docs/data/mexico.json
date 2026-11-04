@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-04T05:40:08Z",
+  "updated_at": "2026-11-04T05:45:09Z",
   "baseline": {
     "taken_at": "2026-11-03T14:00:16Z",
     "ranks": {
@@ -65,15 +65,10 @@
       "clan": "Ux",
       "cur_1v1": 2720,
       "max_1v1": 2790,
-      "cur_tg": 1765,
+      "cur_tg": 1774,
       "max_tg": 1885,
       "last_1v1": "2026-11-04",
-      "last_tg": "2026-11-04",
-      "live": {
-        "match": 518630362,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-04"
     },
     {
       "profile_id": 2776293,
@@ -389,15 +384,10 @@
       "clan": "SotC",
       "cur_1v1": 2054,
       "max_1v1": 2098,
-      "cur_tg": 1664,
+      "cur_tg": 1654,
       "max_tg": 1870,
       "last_1v1": "2026-10-31",
-      "last_tg": "2026-11-04",
-      "live": {
-        "match": 518631201,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-04"
     },
     {
       "profile_id": 1708286,
@@ -410,6 +400,17 @@
       "last_1v1": "2026-03-21"
     },
     {
+      "profile_id": 9770338,
+      "tag": "SynfonY",
+      "clan": "CL",
+      "cur_1v1": 2005,
+      "max_1v1": 2050,
+      "cur_tg": 1812,
+      "max_tg": 1962,
+      "last_1v1": "2026-11-04",
+      "last_tg": "2026-10-30"
+    },
+    {
       "profile_id": 233625,
       "tag": "MooN",
       "cur_1v1": 2002,
@@ -418,22 +419,6 @@
       "max_tg": 1885,
       "last_1v1": "2026-08-15",
       "last_tg": "2026-11-03"
-    },
-    {
-      "profile_id": 9770338,
-      "tag": "SynfonY",
-      "clan": "CL",
-      "cur_1v1": 1998,
-      "max_1v1": 2050,
-      "cur_tg": 1812,
-      "max_tg": 1962,
-      "last_1v1": "2026-11-04",
-      "last_tg": "2026-10-30",
-      "live": {
-        "match": 518631917,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 2934597,
@@ -586,15 +571,10 @@
       "clan": "SotC",
       "cur_1v1": 1937,
       "max_1v1": 2039,
-      "cur_tg": 1687,
+      "cur_tg": 1676,
       "max_tg": 1888,
       "last_1v1": "2026-10-30",
-      "last_tg": "2026-11-04",
-      "live": {
-        "match": 518631201,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-04"
     },
     {
       "profile_id": 2969449,
