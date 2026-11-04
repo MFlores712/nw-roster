@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-04T00:00:14Z",
+  "updated_at": "2026-11-04T00:05:08Z",
   "baseline": {
     "taken_at": "2026-11-03T14:00:16Z",
     "ranks": {
@@ -56,17 +56,12 @@
       "profile_id": 9558892,
       "tag": "WilliamS",
       "clan": "LE",
-      "cur_1v1": 2375,
+      "cur_1v1": 2391,
       "max_1v1": 2446,
       "cur_tg": 1715,
       "max_tg": 1846,
-      "last_1v1": "2026-11-03",
-      "last_tg": "2026-10-26",
-      "live": {
-        "match": 518575702,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-04",
+      "last_tg": "2026-10-26"
     },
     {
       "profile_id": 4706179,
@@ -165,7 +160,13 @@
       "cur_tg": 1792,
       "max_tg": 1843,
       "last_tg": "2026-11-03",
-      "last_1v1": "2026-11-03"
+      "last_1v1": "2026-11-03",
+      "live": {
+        "match": 518579321,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "CTM | Lelouch Jogo Bonito"
+      }
     },
     {
       "profile_id": 4210400,
