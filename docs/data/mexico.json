@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-04T04:50:10Z",
+  "updated_at": "2026-11-04T04:55:08Z",
   "baseline": {
     "taken_at": "2026-11-03T14:00:16Z",
     "ranks": {
@@ -65,12 +65,12 @@
       "clan": "Ux",
       "cur_1v1": 2720,
       "max_1v1": 2790,
-      "cur_tg": 1774,
+      "cur_tg": 1755,
       "max_tg": 1885,
       "last_1v1": "2026-11-04",
-      "last_tg": "2026-10-26",
+      "last_tg": "2026-11-04",
       "live": {
-        "match": 518624744,
+        "match": 518627552,
         "game": "Team Random Map",
         "format": "4v4"
       }
@@ -117,7 +117,13 @@
       "cur_tg": 2140,
       "max_tg": 2151,
       "last_1v1": "2026-10-29",
-      "last_tg": "2026-10-15"
+      "last_tg": "2026-10-15",
+      "live": {
+        "match": 518627280,
+        "game": "Team Random Map",
+        "format": "3v3",
+        "account": "VENÓN | Mauricio"
+      }
     },
     {
       "profile_id": 401359,
@@ -161,7 +167,12 @@
       "cur_tg": 1911,
       "max_tg": 1922,
       "last_tg": "2026-11-03",
-      "last_1v1": "2026-11-03"
+      "last_1v1": "2026-11-03",
+      "live": {
+        "match": 518627280,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 1485562,
@@ -468,15 +479,10 @@
       "clan": "VENÓN",
       "cur_1v1": 1963,
       "max_1v1": 2013,
-      "cur_tg": 1587,
+      "cur_tg": 1603,
       "max_tg": 1798,
       "last_1v1": "2026-09-29",
-      "last_tg": "2026-11-04",
-      "live": {
-        "match": 518624744,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-04"
     },
     {
       "profile_id": 13241217,
@@ -549,15 +555,10 @@
       "clan": "VENÓN",
       "cur_1v1": 1940,
       "max_1v1": 2115,
-      "cur_tg": 1706,
+      "cur_tg": 1719,
       "max_tg": 1820,
       "last_tg": "2026-11-04",
-      "last_1v1": "2026-11-04",
-      "live": {
-        "match": 518624744,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_1v1": "2026-11-04"
     },
     {
       "profile_id": 467847,
