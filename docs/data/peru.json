@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-04T18:20:10Z",
+  "updated_at": "2026-11-04T18:45:11Z",
   "baseline": {
     "taken_at": "2026-11-04T14:00:16Z",
     "ranks": {
@@ -105,12 +105,12 @@
       "tag": "noru",
       "cur_1v1": 2031,
       "max_1v1": 2031,
-      "cur_tg": 1718,
+      "cur_tg": 1724,
       "max_tg": 1840,
       "last_tg": "2026-11-04",
       "last_1v1": "2026-09-24",
       "live": {
-        "match": 518732871,
+        "match": 518738067,
         "game": "Team Random Map",
         "format": "4v4"
       }
