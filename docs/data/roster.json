@@ -1,6 +1,6 @@
 {
   "name": "new Wave",
-  "updated_at": "2026-11-05T00:20:22Z",
+  "updated_at": "2026-11-05T00:50:20Z",
   "baseline": {
     "taken_at": "2026-11-04T14:00:16Z",
     "ranks": {
@@ -22,15 +22,10 @@
       "country": "Colombia",
       "cur_1v1": 2479,
       "max_1v1": 2495,
-      "cur_tg": 1848,
+      "cur_tg": 1873,
       "max_tg": 1933,
       "last_1v1": "2026-11-04",
-      "last_tg": "2026-11-05",
-      "live": {
-        "match": 518803731,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-05"
     },
     {
       "profile_id": 914665,
@@ -49,15 +44,10 @@
       "country": "Mexico",
       "cur_1v1": 2217,
       "max_1v1": 2304,
-      "cur_tg": 1780,
+      "cur_tg": 1806,
       "max_tg": 1852,
       "last_1v1": "2026-11-04",
-      "last_tg": "2026-11-05",
-      "live": {
-        "match": 518803731,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-05"
     },
     {
       "profile_id": 1947348,
