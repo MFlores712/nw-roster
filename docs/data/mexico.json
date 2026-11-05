@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-05T02:50:09Z",
+  "updated_at": "2026-11-05T02:55:15Z",
   "baseline": {
     "taken_at": "2026-11-04T14:00:16Z",
     "ranks": {
@@ -150,13 +150,7 @@
       "cur_tg": 2200,
       "max_tg": 2227,
       "last_tg": "2026-10-27",
-      "last_1v1": "2026-10-31",
-      "live": {
-        "match": 518826072,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "VENÓN | SiNisTeR"
-      }
+      "last_1v1": "2026-10-31"
     },
     {
       "profile_id": 12723994,
@@ -313,7 +307,7 @@
       "last_1v1": "2026-11-03",
       "last_tg": "2026-11-04",
       "live": {
-        "match": 518825982,
+        "match": 518829933,
         "game": "Unranked",
         "format": "1v1"
       }
