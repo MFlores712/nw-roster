@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-05T01:30:11Z",
+  "updated_at": "2026-11-05T01:35:09Z",
   "baseline": {
     "taken_at": "2026-11-04T14:00:16Z",
     "ranks": {
@@ -267,17 +267,12 @@
       "profile_id": 914665,
       "tag": "Caguamas",
       "clan": "nW",
-      "cur_1v1": 2253,
-      "max_1v1": 2253,
+      "cur_1v1": 2268,
+      "max_1v1": 2268,
       "cur_tg": 1806,
       "max_tg": 2024,
-      "last_1v1": "2026-11-03",
-      "last_tg": "2026-11-04",
-      "live": {
-        "match": 518814328,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-05",
+      "last_tg": "2026-11-04"
     },
     {
       "profile_id": 3816609,
@@ -428,7 +423,12 @@
       "cur_tg": 1731,
       "max_tg": 1747,
       "last_1v1": "2026-11-01",
-      "last_tg": "2026-10-27"
+      "last_tg": "2026-10-27",
+      "live": {
+        "match": 518816294,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 6501299,
