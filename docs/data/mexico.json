@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-05T21:25:08Z",
+  "updated_at": "2026-11-05T21:30:12Z",
   "baseline": {
     "taken_at": "2026-11-05T14:00:15Z",
     "ranks": {
@@ -251,17 +251,12 @@
       "profile_id": 757886,
       "tag": "DarK_KnighT_",
       "clan": "VN",
-      "cur_1v1": 2272,
+      "cur_1v1": 2287,
       "max_1v1": 2288,
       "cur_tg": 1863,
       "max_tg": 2050,
-      "last_1v1": "2026-11-04",
-      "last_tg": "2026-11-05",
-      "live": {
-        "match": 518983433,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-05",
+      "last_tg": "2026-11-05"
     },
     {
       "profile_id": 914665,
