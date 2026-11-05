@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-05T19:30:12Z",
+  "updated_at": "2026-11-05T19:35:09Z",
   "baseline": {
     "taken_at": "2026-11-05T14:00:15Z",
     "ranks": {
@@ -151,22 +151,6 @@
       "last_tg": "2026-10-02"
     },
     {
-      "profile_id": 12930522,
-      "tag": "Kevin",
-      "clan": "VENÓN",
-      "cur_1v1": 1880,
-      "max_1v1": 1906,
-      "cur_tg": 1841,
-      "max_tg": 1893,
-      "last_tg": "2026-11-05",
-      "last_1v1": "2026-11-05",
-      "live": {
-        "match": 518958824,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 1542191,
       "tag": "obi11",
       "cur_1v1": 1870,
@@ -175,6 +159,17 @@
       "max_tg": 1858,
       "last_tg": "2026-11-03",
       "last_1v1": "2026-10-27"
+    },
+    {
+      "profile_id": 12930522,
+      "tag": "Kevin",
+      "clan": "VENÓN",
+      "cur_1v1": 1869,
+      "max_1v1": 1906,
+      "cur_tg": 1841,
+      "max_tg": 1893,
+      "last_tg": "2026-11-05",
+      "last_1v1": "2026-11-05"
     },
     {
       "profile_id": 12722189,
