@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-05T03:15:10Z",
+  "updated_at": "2026-11-05T03:25:08Z",
   "baseline": {
     "taken_at": "2026-11-04T14:00:16Z",
     "ranks": {
@@ -164,22 +164,6 @@
       }
     },
     {
-      "profile_id": 12723994,
-      "tag": "Xhing is Dragonstar",
-      "clan": "VENÓN",
-      "cur_1v1": 2374,
-      "max_1v1": 2377,
-      "cur_tg": 1925,
-      "max_tg": 1925,
-      "last_tg": "2026-11-04",
-      "last_1v1": "2026-11-04",
-      "live": {
-        "match": 518832780,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 310739,
       "tag": "SoyLaHostia",
       "clan": "hK",
@@ -205,6 +189,17 @@
         "game": "Team Random Map",
         "format": "4v4"
       }
+    },
+    {
+      "profile_id": 12723994,
+      "tag": "Xhing is Dragonstar",
+      "clan": "VENÓN",
+      "cur_1v1": 2349,
+      "max_1v1": 2377,
+      "cur_tg": 1925,
+      "max_tg": 1925,
+      "last_tg": "2026-11-04",
+      "last_1v1": "2026-11-05"
     },
     {
       "profile_id": 1485562,
@@ -313,6 +308,17 @@
       "last_tg": "2026-11-05"
     },
     {
+      "profile_id": 917863,
+      "tag": "Romell13",
+      "clan": "hK",
+      "cur_1v1": 2190,
+      "max_1v1": 2233,
+      "cur_tg": 1829,
+      "max_tg": 1838,
+      "last_1v1": "2026-11-05",
+      "last_tg": "2026-11-04"
+    },
+    {
       "profile_id": 13138746,
       "tag": "FraKTal",
       "clan": "hK",
@@ -322,22 +328,6 @@
       "max_tg": 1986,
       "last_1v1": "2026-11-03",
       "last_tg": "2026-11-04"
-    },
-    {
-      "profile_id": 917863,
-      "tag": "Romell13",
-      "clan": "hK",
-      "cur_1v1": 2165,
-      "max_1v1": 2233,
-      "cur_tg": 1829,
-      "max_tg": 1838,
-      "last_1v1": "2026-11-04",
-      "last_tg": "2026-11-04",
-      "live": {
-        "match": 518832780,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 5803221,
@@ -597,22 +587,6 @@
       "last_1v1": "2026-09-18"
     },
     {
-      "profile_id": 2876835,
-      "tag": "Abejorro",
-      "clan": "nW",
-      "cur_1v1": 1925,
-      "max_1v1": 2152,
-      "cur_tg": 1834,
-      "max_tg": 1844,
-      "last_1v1": "2026-11-05",
-      "last_tg": "2026-10-31",
-      "live": {
-        "match": 518831644,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 358501,
       "tag": "El Claut_One",
       "clan": "VENÓN",
@@ -655,6 +629,17 @@
       "max_tg": 1805,
       "last_tg": "2026-11-04",
       "last_1v1": "2026-10-16"
+    },
+    {
+      "profile_id": 2876835,
+      "tag": "Abejorro",
+      "clan": "nW",
+      "cur_1v1": 1901,
+      "max_1v1": 2152,
+      "cur_tg": 1834,
+      "max_tg": 1844,
+      "last_1v1": "2026-11-05",
+      "last_tg": "2026-10-31"
     }
   ],
   "show_top": 45,
