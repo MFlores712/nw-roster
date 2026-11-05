@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-05T00:15:09Z",
+  "updated_at": "2026-11-05T00:20:22Z",
   "baseline": {
     "taken_at": "2026-11-04T14:00:16Z",
     "ranks": {
@@ -139,7 +139,13 @@
       "cur_tg": 2065,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-11-04"
+      "last_tg": "2026-11-04",
+      "live": {
+        "match": 518803816,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "The_Fury"
+      }
     },
     {
       "profile_id": 2598146,
@@ -283,7 +289,12 @@
       "cur_tg": 1780,
       "max_tg": 1852,
       "last_1v1": "2026-11-04",
-      "last_tg": "2026-11-05"
+      "last_tg": "2026-11-05",
+      "live": {
+        "match": 518803731,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 13138746,
@@ -560,22 +571,6 @@
       "last_tg": "2026-10-31"
     },
     {
-      "profile_id": 358501,
-      "tag": "El Claut_One",
-      "clan": "VENÓN",
-      "cur_1v1": 1931,
-      "max_1v1": 2115,
-      "cur_tg": 1719,
-      "max_tg": 1820,
-      "last_tg": "2026-11-04",
-      "last_1v1": "2026-11-04",
-      "live": {
-        "match": 518799886,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 2969449,
       "tag": "BetoxAOE",
       "clan": "VENÓN",
@@ -585,6 +580,17 @@
       "max_tg": 1821,
       "last_tg": "2026-10-16",
       "last_1v1": "2026-09-18"
+    },
+    {
+      "profile_id": 358501,
+      "tag": "El Claut_One",
+      "clan": "VENÓN",
+      "cur_1v1": 1919,
+      "max_1v1": 2115,
+      "cur_tg": 1719,
+      "max_tg": 1820,
+      "last_tg": "2026-11-04",
+      "last_1v1": "2026-11-05"
     },
     {
       "profile_id": 324005,
