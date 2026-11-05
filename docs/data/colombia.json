@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-04T23:50:09Z",
+  "updated_at": "2026-11-05T00:00:14Z",
   "baseline": {
     "taken_at": "2026-11-04T14:00:16Z",
     "ranks": {
@@ -31,15 +31,10 @@
       "clan": "nW",
       "cur_1v1": 2479,
       "max_1v1": 2495,
-      "cur_tg": 1873,
+      "cur_tg": 1860,
       "max_tg": 1933,
       "last_1v1": "2026-11-04",
-      "last_tg": "2026-11-04",
-      "live": {
-        "match": 518798588,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-04"
     },
     {
       "profile_id": 2654577,
@@ -136,7 +131,12 @@
       "cur_tg": 1834,
       "max_tg": 1893,
       "last_tg": "2026-11-04",
-      "last_1v1": "2026-11-01"
+      "last_1v1": "2026-11-01",
+      "live": {
+        "match": 518800382,
+        "game": "Unranked",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2479622,
@@ -169,7 +169,12 @@
       "cur_tg": 1741,
       "max_tg": 1855,
       "last_1v1": "2026-11-04",
-      "last_tg": "2026-11-03"
+      "last_tg": "2026-11-03",
+      "live": {
+        "match": 518800382,
+        "game": "Unranked",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 1542191,

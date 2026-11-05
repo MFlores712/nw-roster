@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-04T23:55:10Z",
+  "updated_at": "2026-11-05T00:00:14Z",
   "baseline": {
     "taken_at": "2026-11-04T14:00:16Z",
     "ranks": {
@@ -141,7 +141,7 @@
       "last_1v1": "2026-10-24",
       "last_tg": "2026-11-04",
       "live": {
-        "match": 518796740,
+        "match": 518800952,
         "game": "1v1 Random Map",
         "format": "1v1",
         "account": "The_Fury"
@@ -262,17 +262,12 @@
       "profile_id": 757886,
       "tag": "DarK_KnighT_",
       "clan": "VN",
-      "cur_1v1": 2260,
+      "cur_1v1": 2272,
       "max_1v1": 2288,
       "cur_tg": 1894,
       "max_tg": 2050,
       "last_1v1": "2026-11-04",
-      "last_tg": "2026-11-04",
-      "live": {
-        "match": 518795147,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-04"
     },
     {
       "profile_id": 914665,
@@ -291,15 +286,10 @@
       "clan": "nW",
       "cur_1v1": 2217,
       "max_1v1": 2304,
-      "cur_tg": 1801,
+      "cur_tg": 1790,
       "max_tg": 1852,
       "last_1v1": "2026-11-04",
-      "last_tg": "2026-11-04",
-      "live": {
-        "match": 518798588,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-04"
     },
     {
       "profile_id": 13138746,
