@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-05T21:10:10Z",
+  "updated_at": "2026-11-05T21:15:12Z",
   "baseline": {
     "taken_at": "2026-11-05T14:00:15Z",
     "ranks": {
@@ -68,7 +68,12 @@
       "cur_tg": 1795,
       "max_tg": 1885,
       "last_1v1": "2026-11-05",
-      "last_tg": "2026-11-04"
+      "last_tg": "2026-11-04",
+      "live": {
+        "match": 518985357,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2776293,
@@ -431,22 +436,6 @@
       "last_1v1": "2026-10-24"
     },
     {
-      "profile_id": 278380,
-      "tag": "Lemoine",
-      "clan": "VL",
-      "cur_1v1": 1980,
-      "max_1v1": 1980,
-      "cur_tg": 1701,
-      "max_tg": 1865,
-      "last_tg": "2026-11-04",
-      "last_1v1": "2026-11-05",
-      "live": {
-        "match": 518980872,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 2934597,
       "tag": "Sgt.Pepper",
       "clan": "nW",
@@ -477,6 +466,22 @@
       "max_tg": 1798,
       "last_1v1": "2026-09-29",
       "last_tg": "2026-11-04"
+    },
+    {
+      "profile_id": 278380,
+      "tag": "Lemoine",
+      "clan": "VL",
+      "cur_1v1": 1962,
+      "max_1v1": 1980,
+      "cur_tg": 1701,
+      "max_tg": 1865,
+      "last_tg": "2026-11-04",
+      "last_1v1": "2026-11-05",
+      "live": {
+        "match": 518980872,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 3285258,
