@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-05T01:35:09Z",
+  "updated_at": "2026-11-05T01:40:10Z",
   "baseline": {
     "taken_at": "2026-11-04T14:00:16Z",
     "ranks": {
@@ -60,22 +60,6 @@
   },
   "players": [
     {
-      "profile_id": 2776293,
-      "tag": "Kingstone",
-      "clan": "Oni",
-      "cur_1v1": 2672,
-      "max_1v1": 2867,
-      "cur_tg": 2152,
-      "max_tg": 2169,
-      "last_tg": "2026-10-08",
-      "last_1v1": "2026-11-05",
-      "live": {
-        "match": 518812081,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 5984120,
       "tag": "Combito",
       "clan": "Ux",
@@ -85,6 +69,17 @@
       "max_tg": 1885,
       "last_1v1": "2026-11-04",
       "last_tg": "2026-11-04"
+    },
+    {
+      "profile_id": 2776293,
+      "tag": "Kingstone",
+      "clan": "Oni",
+      "cur_1v1": 2655,
+      "max_1v1": 2867,
+      "cur_tg": 2152,
+      "max_tg": 2169,
+      "last_tg": "2026-10-08",
+      "last_1v1": "2026-11-05"
     },
     {
       "profile_id": 2920057,
@@ -205,7 +200,13 @@
       "cur_tg": 1845,
       "max_tg": 1907,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-14"
+      "last_tg": "2026-10-14",
+      "live": {
+        "match": 518816570,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "Volg"
+      }
     },
     {
       "profile_id": 312774,
