@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-05T02:45:09Z",
+  "updated_at": "2026-11-05T02:50:09Z",
   "baseline": {
     "taken_at": "2026-11-04T14:00:16Z",
     "ranks": {
@@ -105,17 +105,12 @@
       "profile_id": 2955846,
       "tag": "KauTrEnS",
       "clan": "FMG",
-      "cur_1v1": 1967,
+      "cur_1v1": 1981,
       "max_1v1": 2054,
       "cur_tg": 1729,
       "max_tg": 1759,
-      "last_1v1": "2026-11-04",
-      "last_tg": "2026-11-05",
-      "live": {
-        "match": 518824137,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-05",
+      "last_tg": "2026-11-05"
     },
     {
       "profile_id": 5368998,
@@ -189,7 +184,13 @@
       "cur_tg": 1852,
       "max_tg": 1858,
       "last_tg": "2026-11-03",
-      "last_1v1": "2026-10-27"
+      "last_1v1": "2026-10-27",
+      "live": {
+        "match": 518829396,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "orquideas"
+      }
     },
     {
       "profile_id": 10733016,
@@ -220,12 +221,7 @@
       "cur_tg": 1410,
       "max_tg": 1630,
       "last_1v1": "2026-11-04",
-      "last_tg": "2026-11-05",
-      "live": {
-        "match": 518824481,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-11-05"
     }
   ],
   "show_top": 15
