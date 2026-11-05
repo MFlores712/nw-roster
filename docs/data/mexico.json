@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-05T00:40:10Z",
+  "updated_at": "2026-11-05T00:45:09Z",
   "baseline": {
     "taken_at": "2026-11-04T14:00:16Z",
     "ranks": {
@@ -79,7 +79,12 @@
       "cur_tg": 2152,
       "max_tg": 2169,
       "last_tg": "2026-10-08",
-      "last_1v1": "2026-11-05"
+      "last_1v1": "2026-11-05",
+      "live": {
+        "match": 518807718,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2920057,
@@ -593,6 +598,22 @@
       "last_1v1": "2026-11-05"
     },
     {
+      "profile_id": 2926018,
+      "tag": "PerezPodrido",
+      "clan": "SotC",
+      "cur_1v1": 1910,
+      "max_1v1": 2039,
+      "cur_tg": 1686,
+      "max_tg": 1888,
+      "last_1v1": "2026-11-05",
+      "last_tg": "2026-11-04",
+      "live": {
+        "match": 518800082,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 324005,
       "tag": "Narizberto",
       "clan": "VN",
@@ -613,22 +634,6 @@
       "max_tg": 1805,
       "last_tg": "2026-11-04",
       "last_1v1": "2026-10-16"
-    },
-    {
-      "profile_id": 2926018,
-      "tag": "PerezPodrido",
-      "clan": "SotC",
-      "cur_1v1": 1898,
-      "max_1v1": 2039,
-      "cur_tg": 1686,
-      "max_tg": 1888,
-      "last_1v1": "2026-11-04",
-      "last_tg": "2026-11-04",
-      "live": {
-        "match": 518800082,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     }
   ],
   "show_top": 45,
