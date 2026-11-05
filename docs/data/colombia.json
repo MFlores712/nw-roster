@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-05T04:30:12Z",
+  "updated_at": "2026-11-05T04:35:08Z",
   "baseline": {
     "taken_at": "2026-11-04T14:00:16Z",
     "ranks": {
@@ -45,7 +45,12 @@
       "cur_tg": 1865,
       "max_tg": 1933,
       "last_1v1": "2026-11-05",
-      "last_tg": "2026-11-05"
+      "last_tg": "2026-11-05",
+      "live": {
+        "match": 518844201,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 6838238,
@@ -161,22 +166,6 @@
       }
     },
     {
-      "profile_id": 12722189,
-      "tag": "PEGASO",
-      "clan": "CLB",
-      "cur_1v1": 1873,
-      "max_1v1": 1889,
-      "cur_tg": 1724,
-      "max_tg": 1855,
-      "last_1v1": "2026-11-04",
-      "last_tg": "2026-11-05",
-      "live": {
-        "match": 518841457,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 1542191,
       "tag": "obi11",
       "cur_1v1": 1870,
@@ -191,6 +180,17 @@
         "format": "4v4",
         "account": "orquideas"
       }
+    },
+    {
+      "profile_id": 12722189,
+      "tag": "PEGASO",
+      "clan": "CLB",
+      "cur_1v1": 1857,
+      "max_1v1": 1889,
+      "cur_tg": 1724,
+      "max_tg": 1855,
+      "last_1v1": "2026-11-05",
+      "last_tg": "2026-11-05"
     },
     {
       "profile_id": 10733016,
