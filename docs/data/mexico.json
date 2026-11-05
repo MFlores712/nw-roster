@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-05T21:30:12Z",
+  "updated_at": "2026-11-05T21:40:11Z",
   "baseline": {
     "taken_at": "2026-11-05T14:00:15Z",
     "ranks": {
@@ -90,7 +90,12 @@
       "cur_tg": 2151,
       "max_tg": 2173,
       "last_1v1": "2026-10-29",
-      "last_tg": "2026-11-03"
+      "last_tg": "2026-11-03",
+      "live": {
+        "match": 518991153,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 13099159,
@@ -101,7 +106,12 @@
       "cur_tg": 1893,
       "max_tg": 1999,
       "last_1v1": "2026-10-31",
-      "last_tg": "2026-11-05"
+      "last_tg": "2026-11-05",
+      "live": {
+        "match": 518991153,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 9449579,
@@ -222,7 +232,12 @@
       "cur_tg": 1878,
       "max_tg": 1974,
       "last_1v1": "2026-11-04",
-      "last_tg": "2026-11-05"
+      "last_tg": "2026-11-05",
+      "live": {
+        "match": 518990480,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 9031952,
@@ -550,22 +565,6 @@
       "last_1v1": "2026-09-18"
     },
     {
-      "profile_id": 358501,
-      "tag": "El Claut_One",
-      "clan": "VENÓN",
-      "cur_1v1": 1919,
-      "max_1v1": 2115,
-      "cur_tg": 1719,
-      "max_tg": 1820,
-      "last_tg": "2026-11-04",
-      "last_1v1": "2026-11-05",
-      "live": {
-        "match": 518978717,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 2926018,
       "tag": "PerezPodrido",
       "clan": "SotC",
@@ -608,6 +607,17 @@
       "max_tg": 1844,
       "last_1v1": "2026-11-05",
       "last_tg": "2026-10-31"
+    },
+    {
+      "profile_id": 358501,
+      "tag": "El Claut_One",
+      "clan": "VENÓN",
+      "cur_1v1": 1898,
+      "max_1v1": 2115,
+      "cur_tg": 1719,
+      "max_tg": 1820,
+      "last_tg": "2026-11-04",
+      "last_1v1": "2026-11-05"
     }
   ],
   "show_top": 45,
