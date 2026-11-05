@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-05T04:20:10Z",
+  "updated_at": "2026-11-05T04:30:12Z",
   "baseline": {
     "taken_at": "2026-11-04T14:00:16Z",
     "ranks": {
@@ -98,7 +98,7 @@
       "clan": "Ux",
       "cur_1v1": 2613,
       "max_1v1": 2629,
-      "cur_tg": 1906,
+      "cur_tg": 1910,
       "max_tg": 1999,
       "last_1v1": "2026-10-31",
       "last_tg": "2026-11-05",
@@ -129,17 +129,12 @@
       "profile_id": 401359,
       "tag": "EnvyZ",
       "clan": "VENÓN",
-      "cur_1v1": 2452,
+      "cur_1v1": 2467,
       "max_1v1": 2512,
       "cur_tg": 2059,
       "max_tg": 2190,
       "last_1v1": "2026-11-05",
-      "last_tg": "2026-11-02",
-      "live": {
-        "match": 518841645,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-02"
     },
     {
       "profile_id": 4221810,
@@ -150,7 +145,12 @@
       "cur_tg": 2053,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-11-05"
+      "last_tg": "2026-11-05",
+      "live": {
+        "match": 518843578,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 2598146,
@@ -183,7 +183,12 @@
       "cur_tg": 2052,
       "max_tg": 2083,
       "last_1v1": "2026-11-05",
-      "last_tg": "2026-11-05"
+      "last_tg": "2026-11-05",
+      "live": {
+        "match": 518843578,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 12723994,
@@ -254,7 +259,13 @@
       "cur_tg": 1967,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-10-24"
+      "last_tg": "2026-10-24",
+      "live": {
+        "match": 518843578,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "FierroFlash"
+      }
     },
     {
       "profile_id": 9666666,
@@ -310,7 +321,12 @@
       "cur_tg": 1829,
       "max_tg": 1838,
       "last_1v1": "2026-11-05",
-      "last_tg": "2026-11-04"
+      "last_tg": "2026-11-04",
+      "live": {
+        "match": 518843578,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 13138746,
@@ -383,15 +399,10 @@
       "clan": "VL",
       "cur_1v1": 2055,
       "max_1v1": 2089,
-      "cur_tg": 1777,
+      "cur_tg": 1789,
       "max_tg": 1867,
       "last_1v1": "2026-06-27",
-      "last_tg": "2026-11-05",
-      "live": {
-        "match": 518839599,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-05"
     },
     {
       "profile_id": 1261126,
