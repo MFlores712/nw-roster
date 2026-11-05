@@ -1,6 +1,6 @@
 # Linked accounts
 
-Generated 2026-11-04T14:00:16Z from aoe2companion's linked profiles (followed up to 4 links deep; each account belongs to the closest listed player).
+Generated 2026-11-05T14:00:15Z from aoe2companion's linked profiles (followed up to 4 links deep; each account belongs to the closest listed player).
 Used to show players LIVE when they play on any of their accounts. Ratings are RM 1v1.
 
 ## new Wave
@@ -27,14 +27,14 @@ Used to show players LIVE when they play on any of their accounts. Ratings are R
 | VENÓN Miauricio | xboxyyds8966 (—), [GDL] Chuchito (646), IranX (—), Mau AE1313 (—), DiscipuloDeSoldaditoDePlomo (1771), VENÓN / Mauricio (2456), Papa de Botzanga (—), Mauricioae13 (—), [GDL] Chuchito (—) |
 | VENÓN EnvyZ | S1mulated w (2213), KH / Murdock (2033) |
 | hK SoyLaHostia | Warlock_Ndk (1951) |
-| hK Keno_ | Ideas.Necias (2073), _Siesta (—), Stevenash_ (2429), hK / Siesta (2471), hK / RanDoM (2219) |
+| hK Keno_ | Ideas.Necias (2073), _Siesta (—), Stevenash_ (2429), hK / Siesta (2471), hK / RanDoM (2227) |
 | hK Imfury_ | _Imfury_ (2237), The_Fury (2269) |
 | VENÓN MrOsoVC8 | Combi / Noob (1987), Discipulo de eL / Bicho (2134), FlagPlayer (705), Danyselacome (2140), FanDelPerrubis (1947), babababa (2056) |
-| VENÓN SiNisTeR | VENÓN / SiNisTeR (2336), SiNisTeR (2114), Taquería El Primo (2041), OrangeKato (—), DSLG / Acuna (1516, 2 links away), Pichulita Feli (—, 3 links away), DSLG / NotAcuna (1649, 3 links away), NotAcuna_ (1529, 3 links away) |
+| VENÓN SiNisTeR | VENÓN / SiNisTeR (2351), SiNisTeR (2114), Taquería El Primo (2041), OrangeKato (—), DSLG / Acuna (1516, 2 links away), Pichulita Feli (—, 3 links away), DSLG / NotAcuna (1649, 3 links away), NotAcuna_ (1529, 3 links away) |
 | hK Puerco Black | THE_BLACK_PIG (—), PuercoBlackTG (—), BlukuUktan (—), blukuuktan (—), lechon_negro (—), BlackAbE (—), puerco_white (—), Rook4Ever (1968), mamadejuannn (1793), RandomPlayer (1639), SecretFace (2150), osirismichelle95 (2008) |
-| hK Eren | Volg (2290), Rhaegar (1879), hK / Andobienmachinsobrelaidea (1886), Mexican Pyscho (1777), twitch.tv/sunshine_aoe (1843), Tryw (—), LE / Dimoking (1661, 2 links away), larryRy cañonga! (—, 2 links away) |
+| hK Eren | Volg (2303), Rhaegar (1879), hK / Andobienmachinsobrelaidea (1886), Mexican Pyscho (1777), twitch.tv/sunshine_aoe (1843), Tryw (—), LE / Dimoking (1661, 2 links away), larryRy cañonga! (—, 2 links away) |
 | iamkaito | nW / iamkaito (2085) |
-| hK ChossMx | FierroFlash (2138) |
+| hK ChossMx | FierroFlash (2124) |
 | VN DarK_KnighT_ | 1106779817143 (1979) |
 | Caguamas | Fontana Bella (2076), Jose Ali (1660), nW / Cawi (2232) |
 | hK Romell13 | ang (1788) |
@@ -51,11 +51,11 @@ Used to show players LIVE when they play on any of their accounts. Ratings are R
 | VL Lemoine | VL Formolin (—) |
 | DoN.Vergas | bZ.Slayer (1855) |
 | MZTK GO1_mx | — |
-| VL JPGP | [Tkilla]Temujin (1325), Mazahua (1544), eFotboll (1808) |
+| VL JPGP | [Tkilla]Temujin (1325), Mazahua (1544), eFotboll (1817) |
 | KH BooMBastic_ | hK / Charles Martel (1528) |
 | SotC PerezPodrido | — |
 | __Chino | — |
-| CL SynfonY | SynfonY (—), The_Godfather (1648, 2 links away), Combi / Volker (1654, 2 links away), Stalingrado (2042, 2 links away), Zoschenko17 (—, 2 links away) |
+| CL SynfonY | SynfonY (—), The_Godfather (1648, 2 links away), Combi / Volker (1654, 2 links away), Stalingrado (2078, 2 links away), Zoschenko17 (—, 2 links away) |
 | hK HGB | HelloGoodBye_ (1983) |
 | VENÓN Xhing is Dragonstar | VENÓN / Aweonao Qliao (2009), ERICH VON MANSTEIN (1856, 2 links away), Parcero Erotico (2022, 2 links away), ReBeL_Roshi (—, 2 links away), [5oy] RockLee_ (—, 2 links away), GaiSensei (1341, 2 links away), PIKACHU95 (973, 2 links away), OmegaFC (1232, 2 links away), VENÓN / FRIDOTA (2041, 2 links away), VENÓN / seemylame (2031, 2 links away), OS+ / Mauricioae13 (2026, 2 links away) |
 | Mahmoud Ahmadinejad | emmanueldltq08 (1480) |
@@ -77,19 +77,19 @@ Used to show players LIVE when they play on any of their accounts. Ratings are R
 |---|---|
 | Ux Ozone | Marcus Fenix (—), O3 (2123), DS_Negan (—) |
 | Manuel | — |
-| NuMa AngelR | monroyjohan29 (—), [NuMa] MancoFarfan (1340), Xever Clan de Hpts (1427), NuMa / AngelR2 (2368), NuMa / Empire (1705, 2 links away), VoyMeta (1595, 3 links away) |
-| VL Tou | Retember (1951), Seteada Remix (1503, 2 links away) |
+| NuMa AngelR | monroyjohan29 (—), [NuMa] MancoFarfan (1340), Xever Clan de Hpts (1427), NuMa / AngelR2 (2376), NuMa / Empire (1705, 2 links away), VoyMeta (1595, 3 links away) |
+| VL Tou | Retember (1938), Seteada Remix (1503, 2 links away) |
 | JOLIAT | Alvaro_Uribest (1910), Man_at_Laptop (2049) |
 | NuMa OliverAtom | Voywall (1859) |
 | FMG KauTrEnS | DkT / HuecoYoruga (1710), KaUTreNS (1812) |
 | VLC DeaH | VLC / 3L0Ki (1795), RamZú (1704) |
 | VENÓN Nicky | [GDL] Capitan Nicky (1824) |
 | Matazombies | — |
-| VENÓN Kevin | Chupapimuñeño (1903), GDL Kevin (374, 2 links away) |
+| VENÓN Kevin | Chupapimuñeño (1916), GDL Kevin (374, 2 links away) |
 | NuMa Toth | NuMa / Toth (2001), SH / Toth (1801, 2 links away), Magio / Paradox (2037, 2 links away), CD JJ / Heda (1773, 2 links away) |
 | CLB PEGASO | Ares (1783) |
 | AiM Alexander the conqueror | alexnub (1405) |
-| obi11 | orquideas (1883), Tintin (1881) |
+| obi11 | orquideas (1909), Tintin (1881) |
 | Jacko | — |
 | The .Gocho | — |
 
@@ -100,7 +100,7 @@ Used to show players LIVE when they play on any of their accounts. Ratings are R
 | VIT Hearttt | X (—) |
 | Dimo | Dimo (2447), Anubis (2152), _DonCagón (2370) |
 | LE WilliamS | LE / WilliamS (2320) |
-| CTM Lelouch | CTM / Lelouch ELO bajito (1993), CTM / Lelouch Jogo Bonito (2235), DK_Chris Evans (1769), CTM / Ligth (2156), CTM / Lelouch jugando borracho (2222), Combi / Controla tus palabras (1740) |
+| CTM Lelouch | CTM / Lelouch ELO bajito (1989), CTM / Lelouch Jogo Bonito (2235), DK_Chris Evans (1769), CTM / Ligth (2156), CTM / Lelouch jugando borracho (2222), Combi / Controla tus palabras (1740) |
 | CL Rey Enigmaaa | [CL] The Fabulous Merasmus (1731), Lord Of War con Tuberculosis (—, 2 links away), [CL] Tatán (1471, 2 links away), CL / PainFelipeJupyCastigador (2011, 2 links away) |
 | VL Lil Franco | Ferxxo (1998) |
 | LvSP Réyiman | Akira Toreyama (—) |
@@ -110,7 +110,7 @@ Used to show players LIVE when they play on any of their accounts. Ratings are R
 | AtilA | AtilA (1831) |
 | Tempo | — |
 | _The_Oldergold | — |
-| LE Dia franptom | LE / Emaxcito2 (1979), LE/ valx1111 (—) |
+| LE Dia franptom | LE / Emaxcito2 (2009), LE/ valx1111 (—) |
 | MANCO II SANGRE AZUL | — |
 | CTM Pentrus | lopy32 (1143), CTM / VaccumDestroyer (1719), alexandra1845 (—), levatoan96 (—) |
 | Miguel T | HR PUGRRITO (2107), Mini pug (1572, 2 links away), Panini (—, 2 links away), BACHIRA (1505, 2 links away), PN / FULL DEFEND (1800, 2 links away), Andreu pero sin manos (1823, 2 links away), Susy Diaz (1601, 2 links away), Ceviche de elite (1838, 2 links away), Pugrrito (2008, 2 links away), HR SHOKO (2076, 2 links away) |
