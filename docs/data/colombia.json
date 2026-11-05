@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-05T19:55:09Z",
+  "updated_at": "2026-11-05T20:00:14Z",
   "baseline": {
     "taken_at": "2026-11-05T14:00:15Z",
     "ranks": {
@@ -164,7 +164,7 @@
       "profile_id": 12930522,
       "tag": "Kevin",
       "clan": "VENÓN",
-      "cur_1v1": 1869,
+      "cur_1v1": 1848,
       "max_1v1": 1906,
       "cur_tg": 1841,
       "max_tg": 1893,
