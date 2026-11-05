@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-05T02:35:08Z",
+  "updated_at": "2026-11-05T02:45:09Z",
   "baseline": {
     "taken_at": "2026-11-04T14:00:16Z",
     "ranks": {
@@ -115,22 +115,6 @@
       "last_tg": "2026-10-15"
     },
     {
-      "profile_id": 401359,
-      "tag": "EnvyZ",
-      "clan": "VENÓN",
-      "cur_1v1": 2429,
-      "max_1v1": 2512,
-      "cur_tg": 2059,
-      "max_tg": 2190,
-      "last_1v1": "2026-11-04",
-      "last_tg": "2026-11-02",
-      "live": {
-        "match": 518825290,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 4221810,
       "tag": "Imfury_",
       "clan": "hK",
@@ -140,6 +124,17 @@
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
       "last_tg": "2026-11-04"
+    },
+    {
+      "profile_id": 401359,
+      "tag": "EnvyZ",
+      "clan": "VENÓN",
+      "cur_1v1": 2417,
+      "max_1v1": 2512,
+      "cur_tg": 2059,
+      "max_tg": 2190,
+      "last_1v1": "2026-11-05",
+      "last_tg": "2026-11-02"
     },
     {
       "profile_id": 2598146,
@@ -542,7 +537,12 @@
       "cur_tg": 1834,
       "max_tg": 1844,
       "last_1v1": "2026-11-03",
-      "last_tg": "2026-10-31"
+      "last_tg": "2026-10-31",
+      "live": {
+        "match": 518828163,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 467847,
