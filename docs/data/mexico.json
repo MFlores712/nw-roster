@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-05T06:10:11Z",
+  "updated_at": "2026-11-05T06:15:09Z",
   "baseline": {
     "taken_at": "2026-11-04T14:00:16Z",
     "ranks": {
@@ -548,7 +548,12 @@
       "cur_tg": 1633,
       "max_tg": 1688,
       "last_1v1": "2026-11-04",
-      "last_tg": "2026-10-31"
+      "last_tg": "2026-10-31",
+      "live": {
+        "match": 518854645,
+        "game": "Unranked",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 3254820,
@@ -580,7 +585,12 @@
       "cur_tg": 1719,
       "max_tg": 1820,
       "last_tg": "2026-11-04",
-      "last_1v1": "2026-11-05"
+      "last_1v1": "2026-11-05",
+      "live": {
+        "match": 518854645,
+        "game": "Unranked",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2926018,
@@ -619,14 +629,14 @@
       "profile_id": 2876835,
       "tag": "Abejorro",
       "clan": "nW",
-      "cur_1v1": 1901,
+      "cur_1v1": 1891,
       "max_1v1": 2152,
       "cur_tg": 1834,
       "max_tg": 1844,
       "last_1v1": "2026-11-05",
       "last_tg": "2026-10-31",
       "live": {
-        "match": 518852625,
+        "match": 518854704,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
