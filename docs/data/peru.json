@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-05T03:05:19Z",
+  "updated_at": "2026-11-05T03:15:10Z",
   "baseline": {
     "taken_at": "2026-11-04T14:00:16Z",
     "ranks": {
@@ -105,15 +105,10 @@
       "tag": "noru",
       "cur_1v1": 2031,
       "max_1v1": 2031,
-      "cur_tg": 1681,
+      "cur_tg": 1689,
       "max_tg": 1840,
       "last_tg": "2026-11-05",
-      "last_1v1": "2026-09-24",
-      "live": {
-        "match": 518830543,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_1v1": "2026-09-24"
     },
     {
       "profile_id": 12167914,
@@ -207,15 +202,10 @@
       "clan": "CTM",
       "cur_1v1": 1902,
       "max_1v1": 1902,
-      "cur_tg": 1430,
+      "cur_tg": 1412,
       "max_tg": 1608,
       "last_1v1": "2026-09-19",
-      "last_tg": "2026-11-05",
-      "live": {
-        "match": 518824551,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-05"
     },
     {
       "profile_id": 3034651,
