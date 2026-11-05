@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-05T22:45:08Z",
+  "updated_at": "2026-11-05T22:50:10Z",
   "baseline": {
     "taken_at": "2026-11-05T14:00:15Z",
     "ranks": {
@@ -86,15 +86,10 @@
       "clan": "VLC",
       "cur_1v1": 2001,
       "max_1v1": 2001,
-      "cur_tg": 1729,
+      "cur_tg": 1744,
       "max_tg": 1764,
       "last_1v1": "2026-10-23",
-      "last_tg": "2026-11-02",
-      "live": {
-        "match": 519001322,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-05"
     },
     {
       "profile_id": 2955183,
@@ -160,10 +155,26 @@
       "last_1v1": "2026-10-27"
     },
     {
+      "profile_id": 12930522,
+      "tag": "Kevin",
+      "clan": "VENÓN",
+      "cur_1v1": 1835,
+      "max_1v1": 1906,
+      "cur_tg": 1841,
+      "max_tg": 1893,
+      "last_tg": "2026-11-05",
+      "last_1v1": "2026-11-05",
+      "live": {
+        "match": 519004574,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 12722189,
       "tag": "PEGASO",
       "clan": "CLB",
-      "cur_1v1": 1851,
+      "cur_1v1": 1832,
       "max_1v1": 1889,
       "cur_tg": 1724,
       "max_tg": 1855,
@@ -174,17 +185,6 @@
         "game": "1v1 Random Map",
         "format": "1v1"
       }
-    },
-    {
-      "profile_id": 12930522,
-      "tag": "Kevin",
-      "clan": "VENÓN",
-      "cur_1v1": 1835,
-      "max_1v1": 1906,
-      "cur_tg": 1841,
-      "max_tg": 1893,
-      "last_tg": "2026-11-05",
-      "last_1v1": "2026-11-05"
     },
     {
       "profile_id": 10733016,
