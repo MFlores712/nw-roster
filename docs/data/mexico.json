@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-05T01:45:10Z",
+  "updated_at": "2026-11-05T01:50:10Z",
   "baseline": {
     "taken_at": "2026-11-04T14:00:16Z",
     "ranks": {
@@ -200,13 +200,7 @@
       "cur_tg": 1845,
       "max_tg": 1907,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-14",
-      "live": {
-        "match": 518816570,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "Volg"
-      }
+      "last_tg": "2026-10-14"
     },
     {
       "profile_id": 312774,
@@ -406,6 +400,22 @@
       "last_1v1": "2026-03-21"
     },
     {
+      "profile_id": 2934597,
+      "tag": "Sgt.Pepper",
+      "clan": "nW",
+      "cur_1v1": 2005,
+      "max_1v1": 2210,
+      "cur_tg": 1731,
+      "max_tg": 1747,
+      "last_1v1": "2026-11-05",
+      "last_tg": "2026-10-27",
+      "live": {
+        "match": 518818952,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 233625,
       "tag": "MooN",
       "cur_1v1": 2002,
@@ -414,22 +424,6 @@
       "max_tg": 1885,
       "last_1v1": "2026-08-15",
       "last_tg": "2026-11-03"
-    },
-    {
-      "profile_id": 2934597,
-      "tag": "Sgt.Pepper",
-      "clan": "nW",
-      "cur_1v1": 1994,
-      "max_1v1": 2210,
-      "cur_tg": 1731,
-      "max_tg": 1747,
-      "last_1v1": "2026-11-01",
-      "last_tg": "2026-10-27",
-      "live": {
-        "match": 518816294,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 6501299,
