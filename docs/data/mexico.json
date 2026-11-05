@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-05T03:25:08Z",
+  "updated_at": "2026-11-05T03:30:10Z",
   "baseline": {
     "taken_at": "2026-11-04T14:00:16Z",
     "ranks": {
@@ -120,15 +120,10 @@
       "clan": "hK",
       "cur_1v1": 2427,
       "max_1v1": 2433,
-      "cur_tg": 2069,
+      "cur_tg": 2074,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-11-05",
-      "live": {
-        "match": 518831535,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-05"
     },
     {
       "profile_id": 401359,
@@ -155,13 +150,7 @@
       "cur_tg": 2200,
       "max_tg": 2227,
       "last_tg": "2026-10-27",
-      "last_1v1": "2026-10-31",
-      "live": {
-        "match": 518832132,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "VENÓN | SiNisTeR"
-      }
+      "last_1v1": "2026-10-31"
     },
     {
       "profile_id": 310739,
@@ -180,15 +169,10 @@
       "clan": "hK",
       "cur_1v1": 2352,
       "max_1v1": 2352,
-      "cur_tg": 2068,
+      "cur_tg": 2073,
       "max_tg": 2083,
       "last_1v1": "2026-11-05",
-      "last_tg": "2026-11-05",
-      "live": {
-        "match": 518831535,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-05"
     },
     {
       "profile_id": 12723994,
@@ -232,13 +216,7 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 518831535,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "hK | RanDoM"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 580573,
@@ -389,12 +367,12 @@
       "clan": "VL",
       "cur_1v1": 2055,
       "max_1v1": 2089,
-      "cur_tg": 1786,
+      "cur_tg": 1765,
       "max_tg": 1867,
       "last_1v1": "2026-06-27",
-      "last_tg": "2026-10-25",
+      "last_tg": "2026-11-05",
       "live": {
-        "match": 518832132,
+        "match": 518835073,
         "game": "Team Random Map",
         "format": "4v4"
       }
