@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-05T05:30:13Z",
+  "updated_at": "2026-11-05T05:35:09Z",
   "baseline": {
     "taken_at": "2026-11-04T14:00:16Z",
     "ranks": {
@@ -112,13 +112,7 @@
       "cur_tg": 2140,
       "max_tg": 2151,
       "last_1v1": "2026-10-29",
-      "last_tg": "2026-10-15",
-      "live": {
-        "match": 518847063,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "[GDL] Chuchito"
-      }
+      "last_tg": "2026-10-15"
     },
     {
       "profile_id": 401359,
@@ -126,15 +120,10 @@
       "clan": "VENÓN",
       "cur_1v1": 2467,
       "max_1v1": 2512,
-      "cur_tg": 2059,
+      "cur_tg": 2041,
       "max_tg": 2190,
       "last_1v1": "2026-11-05",
-      "last_tg": "2026-11-02",
-      "live": {
-        "match": 518847063,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-05"
     },
     {
       "profile_id": 4221810,
@@ -544,7 +533,7 @@
       "last_1v1": "2026-11-04",
       "last_tg": "2026-10-31",
       "live": {
-        "match": 518846479,
+        "match": 518851059,
         "game": "Unranked",
         "format": "1v1"
       }
@@ -587,7 +576,7 @@
       "last_tg": "2026-11-04",
       "last_1v1": "2026-11-05",
       "live": {
-        "match": 518846479,
+        "match": 518851059,
         "game": "Unranked",
         "format": "1v1"
       }
