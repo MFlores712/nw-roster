@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-05T04:55:09Z",
+  "updated_at": "2026-11-05T05:00:14Z",
   "baseline": {
     "taken_at": "2026-11-04T14:00:16Z",
     "ranks": {
@@ -98,15 +98,10 @@
       "clan": "Ux",
       "cur_1v1": 2613,
       "max_1v1": 2629,
-      "cur_tg": 1910,
+      "cur_tg": 1893,
       "max_tg": 1999,
       "last_1v1": "2026-10-31",
-      "last_tg": "2026-11-05",
-      "live": {
-        "match": 518844934,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-05"
     },
     {
       "profile_id": 9449579,
@@ -147,15 +142,10 @@
       "clan": "hK",
       "cur_1v1": 2427,
       "max_1v1": 2433,
-      "cur_tg": 2053,
+      "cur_tg": 2032,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-11-05",
-      "live": {
-        "match": 518843578,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-05"
     },
     {
       "profile_id": 2598146,
@@ -185,15 +175,10 @@
       "clan": "hK",
       "cur_1v1": 2352,
       "max_1v1": 2352,
-      "cur_tg": 2052,
+      "cur_tg": 2031,
       "max_tg": 2083,
       "last_1v1": "2026-11-05",
-      "last_tg": "2026-11-05",
-      "live": {
-        "match": 518843578,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-05"
     },
     {
       "profile_id": 12723994,
@@ -259,13 +244,7 @@
       "cur_tg": 1967,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-10-24",
-      "live": {
-        "match": 518843578,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "FierroFlash"
-      }
+      "last_tg": "2026-10-24"
     },
     {
       "profile_id": 9666666,
@@ -318,15 +297,10 @@
       "clan": "hK",
       "cur_1v1": 2204,
       "max_1v1": 2233,
-      "cur_tg": 1829,
+      "cur_tg": 1815,
       "max_tg": 1838,
       "last_1v1": "2026-11-05",
-      "last_tg": "2026-11-04",
-      "live": {
-        "match": 518843578,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-05"
     },
     {
       "profile_id": 13138746,
@@ -399,15 +373,10 @@
       "clan": "VL",
       "cur_1v1": 2055,
       "max_1v1": 2089,
-      "cur_tg": 1789,
+      "cur_tg": 1802,
       "max_tg": 1867,
       "last_1v1": "2026-06-27",
-      "last_tg": "2026-11-05",
-      "live": {
-        "match": 518844934,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-05"
     },
     {
       "profile_id": 1261126,
@@ -589,7 +558,13 @@
       "cur_tg": 1820,
       "max_tg": 1821,
       "last_tg": "2026-10-16",
-      "last_1v1": "2026-09-18"
+      "last_1v1": "2026-09-18",
+      "live": {
+        "match": 518846837,
+        "game": "Unranked",
+        "format": "4v4",
+        "account": "[GDL]BetoxAOE"
+      }
     },
     {
       "profile_id": 358501,
@@ -644,7 +619,12 @@
       "cur_tg": 1834,
       "max_tg": 1844,
       "last_1v1": "2026-11-05",
-      "last_tg": "2026-10-31"
+      "last_tg": "2026-10-31",
+      "live": {
+        "match": 518847046,
+        "game": "Unranked",
+        "format": "1v1"
+      }
     }
   ],
   "show_top": 45,
