@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-05T18:35:11Z",
+  "updated_at": "2026-11-05T19:10:10Z",
   "baseline": {
     "taken_at": "2026-11-05T14:00:15Z",
     "ranks": {
@@ -99,7 +99,13 @@
       "cur_tg": 1600,
       "max_tg": 1710,
       "last_1v1": "2026-10-18",
-      "last_tg": "2026-10-17"
+      "last_tg": "2026-10-17",
+      "live": {
+        "match": 518958300,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "Alvaro_Uribest"
+      }
     },
     {
       "profile_id": 2955846,
@@ -148,14 +154,14 @@
       "profile_id": 12930522,
       "tag": "Kevin",
       "clan": "VENÓN",
-      "cur_1v1": 1903,
+      "cur_1v1": 1880,
       "max_1v1": 1906,
       "cur_tg": 1841,
       "max_tg": 1893,
       "last_tg": "2026-11-05",
       "last_1v1": "2026-11-05",
       "live": {
-        "match": 518951737,
+        "match": 518958824,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
