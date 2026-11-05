@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-05T23:20:10Z",
+  "updated_at": "2026-11-05T23:30:11Z",
   "baseline": {
     "taken_at": "2026-11-05T14:00:15Z",
     "ranks": {
@@ -60,6 +60,22 @@
   },
   "players": [
     {
+      "profile_id": 5984120,
+      "tag": "Combito",
+      "clan": "Ux",
+      "cur_1v1": 2657,
+      "max_1v1": 2790,
+      "cur_tg": 1795,
+      "max_tg": 1885,
+      "last_1v1": "2026-11-05",
+      "last_tg": "2026-11-04",
+      "live": {
+        "match": 519010851,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 2776293,
       "tag": "Kingstone",
       "clan": "Oni",
@@ -69,22 +85,6 @@
       "max_tg": 2169,
       "last_tg": "2026-10-08",
       "last_1v1": "2026-11-05"
-    },
-    {
-      "profile_id": 5984120,
-      "tag": "Combito",
-      "clan": "Ux",
-      "cur_1v1": 2654,
-      "max_1v1": 2790,
-      "cur_tg": 1795,
-      "max_tg": 1885,
-      "last_1v1": "2026-11-05",
-      "last_tg": "2026-11-04",
-      "live": {
-        "match": 519008645,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 2920057,
@@ -198,7 +198,12 @@
       "cur_tg": 2017,
       "max_tg": 2083,
       "last_1v1": "2026-11-05",
-      "last_tg": "2026-11-05"
+      "last_tg": "2026-11-05",
+      "live": {
+        "match": 519010237,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 1485562,
