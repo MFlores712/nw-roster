@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-06T05:20:12Z",
+  "updated_at": "2026-11-06T05:25:09Z",
   "baseline": {
     "taken_at": "2026-11-05T14:00:15Z",
     "ranks": {
@@ -295,17 +295,12 @@
       "profile_id": 917863,
       "tag": "Romell13",
       "clan": "hK",
-      "cur_1v1": 2197,
+      "cur_1v1": 2195,
       "max_1v1": 2233,
       "cur_tg": 1815,
       "max_tg": 1838,
       "last_1v1": "2026-11-06",
-      "last_tg": "2026-11-05",
-      "live": {
-        "match": 519063074,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-05"
     },
     {
       "profile_id": 13138746,
@@ -488,7 +483,12 @@
       "cur_tg": 1701,
       "max_tg": 1865,
       "last_tg": "2026-11-04",
-      "last_1v1": "2026-11-05"
+      "last_1v1": "2026-11-05",
+      "live": {
+        "match": 519065146,
+        "game": "Unranked",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 3285258,
@@ -566,6 +566,17 @@
       "last_tg": "2026-10-31"
     },
     {
+      "profile_id": 2876835,
+      "tag": "Abejorro",
+      "clan": "nW",
+      "cur_1v1": 1932,
+      "max_1v1": 2152,
+      "cur_tg": 1834,
+      "max_tg": 1844,
+      "last_1v1": "2026-11-06",
+      "last_tg": "2026-10-31"
+    },
+    {
       "profile_id": 2969449,
       "tag": "BetoxAOE",
       "clan": "VENÓN",
@@ -574,22 +585,12 @@
       "cur_tg": 1820,
       "max_tg": 1821,
       "last_tg": "2026-10-16",
-      "last_1v1": "2026-09-18"
-    },
-    {
-      "profile_id": 2876835,
-      "tag": "Abejorro",
-      "clan": "nW",
-      "cur_1v1": 1918,
-      "max_1v1": 2152,
-      "cur_tg": 1834,
-      "max_tg": 1844,
-      "last_1v1": "2026-11-06",
-      "last_tg": "2026-10-31",
+      "last_1v1": "2026-09-18",
       "live": {
-        "match": 519063077,
-        "game": "1v1 Random Map",
-        "format": "1v1"
+        "match": 519064615,
+        "game": "Unranked",
+        "format": "4v4",
+        "account": "[GDL]BetoxAOE"
       }
     },
     {
@@ -601,7 +602,12 @@
       "cur_tg": 1719,
       "max_tg": 1820,
       "last_tg": "2026-11-04",
-      "last_1v1": "2026-11-05"
+      "last_1v1": "2026-11-05",
+      "live": {
+        "match": 519065146,
+        "game": "Unranked",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 2926018,
