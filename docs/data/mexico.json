@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-06T05:45:09Z",
+  "updated_at": "2026-11-06T05:50:11Z",
   "baseline": {
     "taken_at": "2026-11-05T14:00:15Z",
     "ranks": {
@@ -112,7 +112,13 @@
       "cur_tg": 2140,
       "max_tg": 2151,
       "last_1v1": "2026-11-05",
-      "last_tg": "2026-10-15"
+      "last_tg": "2026-10-15",
+      "live": {
+        "match": 519068166,
+        "game": "Team Random Map",
+        "format": "2v2",
+        "account": "[GDL] Chuchito"
+      }
     },
     {
       "profile_id": 401359,
@@ -402,13 +408,7 @@
       "cur_tg": 1812,
       "max_tg": 1962,
       "last_1v1": "2026-11-04",
-      "last_tg": "2026-10-30",
-      "live": {
-        "match": 519064014,
-        "game": "Unranked",
-        "format": "2v2",
-        "account": "SynfonY"
-      }
+      "last_tg": "2026-10-30"
     },
     {
       "profile_id": 1708286,
@@ -522,6 +522,17 @@
       "last_tg": "2026-11-06"
     },
     {
+      "profile_id": 2876835,
+      "tag": "Abejorro",
+      "clan": "nW",
+      "cur_1v1": 1954,
+      "max_1v1": 2152,
+      "cur_tg": 1834,
+      "max_tg": 1844,
+      "last_1v1": "2026-11-06",
+      "last_tg": "2026-10-31"
+    },
+    {
       "profile_id": 2986966,
       "tag": "JPGP",
       "clan": "VL",
@@ -563,22 +574,6 @@
       "max_tg": 1688,
       "last_1v1": "2026-11-04",
       "last_tg": "2026-10-31"
-    },
-    {
-      "profile_id": 2876835,
-      "tag": "Abejorro",
-      "clan": "nW",
-      "cur_1v1": 1932,
-      "max_1v1": 2152,
-      "cur_tg": 1834,
-      "max_tg": 1844,
-      "last_1v1": "2026-11-06",
-      "last_tg": "2026-10-31",
-      "live": {
-        "match": 519066402,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 2969449,
@@ -633,13 +628,7 @@
       "cur_tg": 1743,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-11-06",
-      "live": {
-        "match": 519068056,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "ZUKO | Taj Exiliado Exile"
-      }
+      "last_tg": "2026-11-06"
     },
     {
       "profile_id": 12472496,
