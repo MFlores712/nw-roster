@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-06T14:05:11Z",
+  "updated_at": "2026-11-06T14:11:11Z",
   "baseline": {
     "taken_at": "2026-11-06T14:00:17Z",
     "ranks": {
@@ -475,6 +475,17 @@
       "last_tg": "2026-11-03"
     },
     {
+      "profile_id": 2876835,
+      "tag": "Abejorro",
+      "clan": "nW",
+      "cur_1v1": 1960,
+      "max_1v1": 2152,
+      "cur_tg": 1834,
+      "max_tg": 1844,
+      "last_1v1": "2026-11-06",
+      "last_tg": "2026-10-31"
+    },
+    {
       "profile_id": 13192381,
       "tag": "albafica",
       "clan": "VL",
@@ -505,22 +516,6 @@
       "max_tg": 1824,
       "last_tg": "2026-11-06",
       "last_1v1": "2026-10-13"
-    },
-    {
-      "profile_id": 2876835,
-      "tag": "Abejorro",
-      "clan": "nW",
-      "cur_1v1": 1949,
-      "max_1v1": 2152,
-      "cur_tg": 1834,
-      "max_tg": 1844,
-      "last_1v1": "2026-11-06",
-      "last_tg": "2026-10-31",
-      "live": {
-        "match": 519119516,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 4764520,
