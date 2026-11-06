@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-06T03:55:08Z",
+  "updated_at": "2026-11-06T04:00:14Z",
   "baseline": {
     "taken_at": "2026-11-05T14:00:15Z",
     "ranks": {
@@ -156,17 +156,12 @@
       "profile_id": 4412109,
       "tag": "HGB",
       "clan": "hK",
-      "cur_1v1": 2353,
-      "max_1v1": 2353,
+      "cur_1v1": 2365,
+      "max_1v1": 2365,
       "cur_tg": 2017,
       "max_tg": 2083,
       "last_1v1": "2026-11-06",
-      "last_tg": "2026-11-05",
-      "live": {
-        "match": 519052912,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-05"
     },
     {
       "profile_id": 310739,
@@ -433,12 +428,7 @@
       "cur_tg": 1731,
       "max_tg": 1747,
       "last_1v1": "2026-11-06",
-      "last_tg": "2026-10-27",
-      "live": {
-        "match": 519050131,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-27"
     },
     {
       "profile_id": 233625,
@@ -574,6 +564,17 @@
       "last_tg": "2026-10-31"
     },
     {
+      "profile_id": 2876835,
+      "tag": "Abejorro",
+      "clan": "nW",
+      "cur_1v1": 1931,
+      "max_1v1": 2152,
+      "cur_tg": 1834,
+      "max_tg": 1844,
+      "last_1v1": "2026-11-06",
+      "last_tg": "2026-10-31"
+    },
+    {
       "profile_id": 2969449,
       "tag": "BetoxAOE",
       "clan": "VENÓN",
@@ -588,22 +589,6 @@
         "game": "Unranked",
         "format": "4v4",
         "account": "[GDL]BetoxAOE"
-      }
-    },
-    {
-      "profile_id": 2876835,
-      "tag": "Abejorro",
-      "clan": "nW",
-      "cur_1v1": 1912,
-      "max_1v1": 2152,
-      "cur_tg": 1834,
-      "max_tg": 1844,
-      "last_1v1": "2026-11-06",
-      "last_tg": "2026-10-31",
-      "live": {
-        "match": 519051428,
-        "game": "1v1 Random Map",
-        "format": "1v1"
       }
     },
     {
