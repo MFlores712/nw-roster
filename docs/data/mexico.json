@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-06T16:20:12Z",
+  "updated_at": "2026-11-06T16:25:10Z",
   "baseline": {
     "taken_at": "2026-11-06T14:00:17Z",
     "ranks": {
@@ -139,7 +139,13 @@
       "cur_tg": 2018,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-11-05"
+      "last_tg": "2026-11-05",
+      "live": {
+        "match": 519151486,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "The_Fury"
+      }
     },
     {
       "profile_id": 2598146,
