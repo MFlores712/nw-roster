@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-06T08:20:09Z",
+  "updated_at": "2026-11-06T08:25:08Z",
   "baseline": {
     "taken_at": "2026-11-05T14:00:15Z",
     "ranks": {
@@ -276,6 +276,22 @@
       "last_tg": "2026-11-04"
     },
     {
+      "profile_id": 3816609,
+      "tag": "iamkaito",
+      "clan": "nW",
+      "cur_1v1": 2195,
+      "max_1v1": 2304,
+      "cur_tg": 1831,
+      "max_tg": 1852,
+      "last_1v1": "2026-11-06",
+      "last_tg": "2026-11-06",
+      "live": {
+        "match": 519081946,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 917863,
       "tag": "Romell13",
       "clan": "hK",
@@ -287,38 +303,6 @@
       "last_tg": "2026-11-05"
     },
     {
-      "profile_id": 3816609,
-      "tag": "iamkaito",
-      "clan": "nW",
-      "cur_1v1": 2180,
-      "max_1v1": 2304,
-      "cur_tg": 1831,
-      "max_tg": 1852,
-      "last_1v1": "2026-11-06",
-      "last_tg": "2026-11-06",
-      "live": {
-        "match": 519080438,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
-      "profile_id": 13138746,
-      "tag": "FraKTal",
-      "clan": "hK",
-      "cur_1v1": 2163,
-      "max_1v1": 2233,
-      "cur_tg": 1986,
-      "max_tg": 1986,
-      "last_1v1": "2026-11-06",
-      "last_tg": "2026-11-04",
-      "live": {
-        "match": 519080438,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 5803221,
       "tag": "Mahmoud Ahmadinejad",
       "cur_1v1": 2153,
@@ -327,6 +311,22 @@
       "max_tg": 1652,
       "last_tg": "2026-10-29",
       "last_1v1": "2026-11-02"
+    },
+    {
+      "profile_id": 13138746,
+      "tag": "FraKTal",
+      "clan": "hK",
+      "cur_1v1": 2148,
+      "max_1v1": 2233,
+      "cur_tg": 1986,
+      "max_tg": 1986,
+      "last_1v1": "2026-11-06",
+      "last_tg": "2026-11-04",
+      "live": {
+        "match": 519081992,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 1947348,
