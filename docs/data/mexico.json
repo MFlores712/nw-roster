@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-06T01:10:09Z",
+  "updated_at": "2026-11-06T01:15:10Z",
   "baseline": {
     "taken_at": "2026-11-05T14:00:15Z",
     "ranks": {
@@ -230,6 +230,17 @@
       "last_tg": "2026-11-05"
     },
     {
+      "profile_id": 4412109,
+      "tag": "HGB",
+      "clan": "hK",
+      "cur_1v1": 2336,
+      "max_1v1": 2352,
+      "cur_tg": 2017,
+      "max_tg": 2083,
+      "last_1v1": "2026-11-06",
+      "last_tg": "2026-11-05"
+    },
+    {
       "profile_id": 9031952,
       "tag": "ChossMx",
       "clan": "hK",
@@ -239,22 +250,6 @@
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
       "last_tg": "2026-10-24"
-    },
-    {
-      "profile_id": 4412109,
-      "tag": "HGB",
-      "clan": "hK",
-      "cur_1v1": 2320,
-      "max_1v1": 2352,
-      "cur_tg": 2017,
-      "max_tg": 2083,
-      "last_1v1": "2026-11-06",
-      "last_tg": "2026-11-05",
-      "live": {
-        "match": 519023273,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 9666666,
