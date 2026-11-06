@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-06T20:05:09Z",
+  "updated_at": "2026-11-06T20:15:10Z",
   "baseline": {
     "taken_at": "2026-11-06T14:00:17Z",
     "ranks": {
@@ -98,7 +98,7 @@
       "clan": "Ux",
       "cur_1v1": 2613,
       "max_1v1": 2629,
-      "cur_tg": 1895,
+      "cur_tg": 1903,
       "max_tg": 1999,
       "last_1v1": "2026-10-31",
       "last_tg": "2026-11-06"
