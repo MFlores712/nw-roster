@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-06T08:35:09Z",
+  "updated_at": "2026-11-06T08:40:11Z",
   "baseline": {
     "taken_at": "2026-11-05T14:00:15Z",
     "ranks": {
@@ -112,7 +112,13 @@
       "cur_tg": 2140,
       "max_tg": 2151,
       "last_1v1": "2026-11-05",
-      "last_tg": "2026-10-15"
+      "last_tg": "2026-10-15",
+      "live": {
+        "match": 519082852,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "[GDL] Chuchito"
+      }
     },
     {
       "profile_id": 401359,
@@ -146,22 +152,6 @@
       "max_tg": 2227,
       "last_tg": "2026-10-27",
       "last_1v1": "2026-10-31"
-    },
-    {
-      "profile_id": 310739,
-      "tag": "SoyLaHostia",
-      "clan": "hK",
-      "cur_1v1": 2351,
-      "max_1v1": 2484,
-      "cur_tg": 1825,
-      "max_tg": 1959,
-      "last_1v1": "2026-11-05",
-      "last_tg": "2026-11-05",
-      "live": {
-        "match": 519082122,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 12723994,
@@ -217,6 +207,22 @@
       "max_tg": 1974,
       "last_1v1": "2026-11-05",
       "last_tg": "2026-11-05"
+    },
+    {
+      "profile_id": 310739,
+      "tag": "SoyLaHostia",
+      "clan": "hK",
+      "cur_1v1": 2339,
+      "max_1v1": 2484,
+      "cur_tg": 1825,
+      "max_tg": 1959,
+      "last_1v1": "2026-11-06",
+      "last_tg": "2026-11-05",
+      "live": {
+        "match": 519083082,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 9031952,
