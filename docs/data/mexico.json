@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-06T22:05:09Z",
+  "updated_at": "2026-11-06T22:20:10Z",
   "baseline": {
     "taken_at": "2026-11-06T14:00:17Z",
     "ranks": {
@@ -211,7 +211,13 @@
       "cur_tg": 1967,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-10-24"
+      "last_tg": "2026-10-24",
+      "live": {
+        "match": 519230379,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "FierroFlash"
+      }
     },
     {
       "profile_id": 4412109,
@@ -508,6 +514,16 @@
       "last_1v1": "2026-10-13"
     },
     {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1951,
+      "max_1v1": 2003,
+      "cur_tg": 1412,
+      "max_tg": 1417,
+      "last_1v1": "2026-11-06",
+      "last_tg": "2026-11-06"
+    },
+    {
       "profile_id": 4764520,
       "tag": "BooMBastic_",
       "clan": "KH",
@@ -517,21 +533,6 @@
       "max_tg": 1813,
       "last_tg": "2026-10-30",
       "last_1v1": "2026-11-04"
-    },
-    {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1942,
-      "max_1v1": 2003,
-      "cur_tg": 1412,
-      "max_tg": 1417,
-      "last_1v1": "2026-11-06",
-      "last_tg": "2026-11-06",
-      "live": {
-        "match": 519223033,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 467847,
