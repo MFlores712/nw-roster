@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-06T02:45:11Z",
+  "updated_at": "2026-11-06T02:50:09Z",
   "baseline": {
     "taken_at": "2026-11-05T14:00:15Z",
     "ranks": {
@@ -538,6 +538,16 @@
       "last_1v1": "2026-11-04"
     },
     {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1947,
+      "max_1v1": 2003,
+      "cur_tg": 1412,
+      "max_tg": 1417,
+      "last_1v1": "2026-11-06",
+      "last_tg": "2026-11-06"
+    },
+    {
       "profile_id": 467847,
       "tag": "DoN.Vergas",
       "cur_1v1": 1940,
@@ -557,16 +567,6 @@
       "max_tg": 1688,
       "last_1v1": "2026-11-04",
       "last_tg": "2026-10-31"
-    },
-    {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1934,
-      "max_1v1": 2003,
-      "cur_tg": 1412,
-      "max_tg": 1417,
-      "last_1v1": "2026-11-05",
-      "last_tg": "2026-11-06"
     },
     {
       "profile_id": 2969449,
