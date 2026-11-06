@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-06T03:20:09Z",
+  "updated_at": "2026-11-06T03:25:09Z",
   "baseline": {
     "taken_at": "2026-11-05T14:00:15Z",
     "ranks": {
@@ -115,17 +115,12 @@
       "profile_id": 2955846,
       "tag": "KauTrEnS",
       "clan": "FMG",
-      "cur_1v1": 1946,
+      "cur_1v1": 1971,
       "max_1v1": 2054,
       "cur_tg": 1759,
       "max_tg": 1759,
       "last_1v1": "2026-11-06",
-      "last_tg": "2026-11-05",
-      "live": {
-        "match": 519046209,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-05"
     },
     {
       "profile_id": 5368998,
@@ -167,7 +162,13 @@
       "cur_tg": 1852,
       "max_tg": 1858,
       "last_tg": "2026-11-03",
-      "last_1v1": "2026-10-27"
+      "last_1v1": "2026-10-27",
+      "live": {
+        "match": 519049997,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "orquideas"
+      }
     },
     {
       "profile_id": 12930522,
@@ -181,6 +182,17 @@
       "last_1v1": "2026-11-05"
     },
     {
+      "profile_id": 12722189,
+      "tag": "PEGASO",
+      "clan": "CLB",
+      "cur_1v1": 1817,
+      "max_1v1": 1889,
+      "cur_tg": 1724,
+      "max_tg": 1855,
+      "last_1v1": "2026-11-06",
+      "last_tg": "2026-11-05"
+    },
+    {
       "profile_id": 10733016,
       "tag": "The .Gocho",
       "cur_1v1": 1814,
@@ -189,22 +201,6 @@
       "max_tg": 1839,
       "last_tg": "2026-10-25",
       "last_1v1": "2026-10-09"
-    },
-    {
-      "profile_id": 12722189,
-      "tag": "PEGASO",
-      "clan": "CLB",
-      "cur_1v1": 1802,
-      "max_1v1": 1889,
-      "cur_tg": 1724,
-      "max_tg": 1855,
-      "last_1v1": "2026-11-05",
-      "last_tg": "2026-11-05",
-      "live": {
-        "match": 519045348,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 5981761,
