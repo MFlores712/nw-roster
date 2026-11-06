@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-06T03:00:14Z",
+  "updated_at": "2026-11-06T03:05:09Z",
   "baseline": {
     "taken_at": "2026-11-05T14:00:15Z",
     "ranks": {
@@ -87,15 +87,10 @@
       "clan": "Ux",
       "cur_1v1": 2613,
       "max_1v1": 2629,
-      "cur_tg": 1923,
+      "cur_tg": 1899,
       "max_tg": 1999,
       "last_1v1": "2026-10-31",
-      "last_tg": "2026-11-06",
-      "live": {
-        "match": 519041821,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-06"
     },
     {
       "profile_id": 5984120,
@@ -128,17 +123,12 @@
       "profile_id": 401359,
       "tag": "EnvyZ",
       "clan": "VENÓN",
-      "cur_1v1": 2467,
+      "cur_1v1": 2455,
       "max_1v1": 2512,
       "cur_tg": 2041,
       "max_tg": 2190,
-      "last_1v1": "2026-11-05",
-      "last_tg": "2026-11-05",
-      "live": {
-        "match": 519043842,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-06",
+      "last_tg": "2026-11-05"
     },
     {
       "profile_id": 4221810,
@@ -366,15 +356,10 @@
       "clan": "Ux",
       "cur_1v1": 2075,
       "max_1v1": 2124,
-      "cur_tg": 1654,
+      "cur_tg": 1639,
       "max_tg": 1820,
       "last_1v1": "2026-11-03",
-      "last_tg": "2026-11-06",
-      "live": {
-        "match": 519041821,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-06"
     },
     {
       "profile_id": 400111,
@@ -440,7 +425,7 @@
       "last_tg": "2026-10-09",
       "last_1v1": "2026-10-24",
       "live": {
-        "match": 519039911,
+        "match": 519046682,
         "game": "Unranked",
         "format": "1v1"
       }
@@ -449,14 +434,14 @@
       "profile_id": 2934597,
       "tag": "Sgt.Pepper",
       "clan": "nW",
-      "cur_1v1": 1978,
+      "cur_1v1": 1987,
       "max_1v1": 2210,
       "cur_tg": 1731,
       "max_tg": 1747,
-      "last_1v1": "2026-11-05",
+      "last_1v1": "2026-11-06",
       "last_tg": "2026-10-27",
       "live": {
-        "match": 519043780,
+        "match": 519046773,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -621,7 +606,13 @@
       "cur_tg": 1743,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-11-06"
+      "last_tg": "2026-11-06",
+      "live": {
+        "match": 519046810,
+        "game": "Team Random Map",
+        "format": "3v3",
+        "account": "ZUKO | Taj Exiliado Exile"
+      }
     },
     {
       "profile_id": 12472496,
