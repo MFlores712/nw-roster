@@ -1,6 +1,6 @@
 # Linked accounts
 
-Generated 2026-11-05T14:00:15Z from aoe2companion's linked profiles (followed up to 4 links deep; each account belongs to the closest listed player).
+Generated 2026-11-06T14:05:11Z from aoe2companion's linked profiles (followed up to 4 links deep; each account belongs to the closest listed player).
 Used to show players LIVE when they play on any of their accounts. Ratings are RM 1v1.
 
 ## new Wave
@@ -26,8 +26,8 @@ Used to show players LIVE when they play on any of their accounts. Ratings are R
 | Ux Uzzi | Uzzi (2438), Metapod (—), Combi / Maruri (2364), 7Swords (—), Floki (—), Combi / 7Swords (2285), _Iridium_ (—), Maruri (—), El_Chompiras (—), Incadescence (1854), Reptar (1686, 2 links away) |
 | VENÓN Miauricio | xboxyyds8966 (—), [GDL] Chuchito (646), IranX (—), Mau AE1313 (—), DiscipuloDeSoldaditoDePlomo (1771), VENÓN / Mauricio (2456), Papa de Botzanga (—), Mauricioae13 (—), [GDL] Chuchito (—) |
 | VENÓN EnvyZ | S1mulated w (2213), KH / Murdock (2033) |
-| hK SoyLaHostia | Warlock_Ndk (1951) |
-| hK Keno_ | Ideas.Necias (2073), _Siesta (—), Stevenash_ (2429), hK / Siesta (2471), hK / RanDoM (2227) |
+| hK SoyLaHostia | Warlock_Ndk (1905) |
+| hK Keno_ | Ideas.Necias (2073), _Siesta (—), Stevenash_ (2429), hK / Siesta (2471), hK / RanDoM (2263) |
 | hK Imfury_ | _Imfury_ (2237), The_Fury (2269) |
 | VENÓN MrOsoVC8 | Combi / Noob (1987), Discipulo de eL / Bicho (2134), FlagPlayer (705), Danyselacome (2140), FanDelPerrubis (1947), babababa (2056) |
 | VENÓN SiNisTeR | VENÓN / SiNisTeR (2351), SiNisTeR (2114), Taquería El Primo (2041), OrangeKato (—), DSLG / Acuna (1516, 2 links away), Pichulita Feli (—, 3 links away), DSLG / NotAcuna (1649, 3 links away), NotAcuna_ (1529, 3 links away) |
@@ -47,7 +47,7 @@ Used to show players LIVE when they play on any of their accounts. Ratings are R
 | themariach1 | SmartIgZ (2149), ZacK (1945), NobuNaga (1985), Hyohon (—) |
 | VENÓN BetoxAOE | [GDL]BetoxAOE (1938), El calienta Lomitos (1451), twitch.tv/BetoxAOE (1574), James P. Solivan (1334), xXx_69_xXx (1796), [GDL]CemenTox (1844), [GDL]FRIDA (—) |
 | VN Lice_Slide | — |
-| VN Narizberto | Chepe (—), [GDL] Zuko (—), ZUKO / Taj Exiliado Exile (1719) |
+| VN Narizberto | Chepe (—), [GDL] Zuko (—), EXILE / Onichan Nya (1738) |
 | VL Lemoine | VL Formolin (—) |
 | DoN.Vergas | bZ.Slayer (1855) |
 | MZTK GO1_mx | — |
@@ -77,8 +77,8 @@ Used to show players LIVE when they play on any of their accounts. Ratings are R
 |---|---|
 | Ux Ozone | Marcus Fenix (—), O3 (2123), DS_Negan (—) |
 | Manuel | — |
-| NuMa AngelR | monroyjohan29 (—), [NuMa] MancoFarfan (1340), Xever Clan de Hpts (1427), NuMa / AngelR2 (2376), NuMa / Empire (1705, 2 links away), VoyMeta (1595, 3 links away) |
-| VL Tou | Retember (1938), Seteada Remix (1503, 2 links away) |
+| NuMa AngelR | monroyjohan29 (—), [NuMa] MancoFarfan (1340), Xever Clan de Hpts (1427), NuMa / AngelR2 (2382), NuMa / Empire (1705, 2 links away), VoyMeta (1595, 3 links away) |
+| VL Tou | Retember (1931), Seteada Remix (1503, 2 links away) |
 | JOLIAT | Alvaro_Uribest (1910), Man_at_Laptop (2049) |
 | NuMa OliverAtom | Voywall (1859) |
 | FMG KauTrEnS | DkT / HuecoYoruga (1710), KaUTreNS (1812) |
@@ -89,7 +89,7 @@ Used to show players LIVE when they play on any of their accounts. Ratings are R
 | NuMa Toth | NuMa / Toth (2001), SH / Toth (1801, 2 links away), Magio / Paradox (2037, 2 links away), CD JJ / Heda (1773, 2 links away) |
 | CLB PEGASO | Ares (1783) |
 | AiM Alexander the conqueror | alexnub (1405) |
-| obi11 | orquideas (1909), Tintin (1881) |
+| obi11 | orquideas (1909), Tintin (1853) |
 | Jacko | — |
 | The .Gocho | — |
 
@@ -100,12 +100,12 @@ Used to show players LIVE when they play on any of their accounts. Ratings are R
 | VIT Hearttt | X (—) |
 | Dimo | Dimo (2447), Anubis (2152), _DonCagón (2370) |
 | LE WilliamS | LE / WilliamS (2320) |
-| CTM Lelouch | CTM / Lelouch ELO bajito (1989), CTM / Lelouch Jogo Bonito (2235), DK_Chris Evans (1769), CTM / Ligth (2156), CTM / Lelouch jugando borracho (2222), Combi / Controla tus palabras (1740) |
+| CTM Lelouch | CTM / Lelouch ELO bajito (2008), CTM / Lelouch Jogo Bonito (2235), DK_Chris Evans (1769), CTM / Ligth (2156), CTM / Lelouch jugando borracho (2222), Combi / Controla tus palabras (1740) |
 | CL Rey Enigmaaa | [CL] The Fabulous Merasmus (1731), Lord Of War con Tuberculosis (—, 2 links away), [CL] Tatán (1471, 2 links away), CL / PainFelipeJupyCastigador (2011, 2 links away) |
 | VL Lil Franco | Ferxxo (1998) |
 | LvSP Réyiman | Akira Toreyama (—) |
 | noru | — |
-| CL lorecs | SistemFix (1877), Raayz (1247), Dratz (1494) |
+| CL lorecs | SistemFix (1899), Raayz (1247), Dratz (1494) |
 | Legendario | LE / dabighead (2025), Take (1984), Denniz (1971), Igor (1957) |
 | AtilA | AtilA (1831) |
 | Tempo | — |
