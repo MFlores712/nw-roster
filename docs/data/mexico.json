@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-06T23:35:09Z",
+  "updated_at": "2026-11-06T23:40:08Z",
   "baseline": {
     "taken_at": "2026-11-06T14:00:17Z",
     "ranks": {
@@ -189,13 +189,7 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 519243531,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "hK | RanDoM"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 580573,
@@ -217,13 +211,7 @@
       "cur_tg": 1967,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-10-24",
-      "live": {
-        "match": 519243531,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "FierroFlash"
-      }
+      "last_tg": "2026-10-24"
     },
     {
       "profile_id": 4412109,
@@ -522,13 +510,7 @@
       "cur_tg": 1655,
       "max_tg": 1824,
       "last_tg": "2026-11-06",
-      "last_1v1": "2026-10-13",
-      "live": {
-        "match": 519242792,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "eFotboll"
-      }
+      "last_1v1": "2026-10-13"
     },
     {
       "profile_id": 3254820,
@@ -630,7 +612,12 @@
       "cur_tg": 1719,
       "max_tg": 1820,
       "last_tg": "2026-11-04",
-      "last_1v1": "2026-11-06"
+      "last_1v1": "2026-11-06",
+      "live": {
+        "match": 519246528,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     }
   ],
   "show_top": 45,
