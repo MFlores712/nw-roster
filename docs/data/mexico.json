@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-06T21:15:10Z",
+  "updated_at": "2026-11-06T21:20:11Z",
   "baseline": {
     "taken_at": "2026-11-06T14:00:17Z",
     "ranks": {
@@ -150,7 +150,13 @@
       "cur_tg": 2200,
       "max_tg": 2227,
       "last_tg": "2026-10-27",
-      "last_1v1": "2026-10-31"
+      "last_1v1": "2026-10-31",
+      "live": {
+        "match": 519215341,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "VENÓN | SiNisTeR"
+      }
     },
     {
       "profile_id": 12723994,
@@ -563,7 +569,13 @@
       "cur_tg": 1820,
       "max_tg": 1821,
       "last_tg": "2026-10-16",
-      "last_1v1": "2026-09-18"
+      "last_1v1": "2026-09-18",
+      "live": {
+        "match": 519215506,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "[GDL]BetoxAOE"
+      }
     },
     {
       "profile_id": 324005,
@@ -591,33 +603,23 @@
       "profile_id": 2926018,
       "tag": "PerezPodrido",
       "clan": "SotC",
-      "cur_1v1": 1905,
+      "cur_1v1": 1890,
       "max_1v1": 2039,
       "cur_tg": 1686,
       "max_tg": 1888,
       "last_1v1": "2026-11-06",
-      "last_tg": "2026-11-04",
-      "live": {
-        "match": 519210424,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-04"
     },
     {
       "profile_id": 358501,
       "tag": "El Claut_One",
       "clan": "VENÓN",
-      "cur_1v1": 1879,
+      "cur_1v1": 1860,
       "max_1v1": 2115,
       "cur_tg": 1719,
       "max_tg": 1820,
       "last_tg": "2026-11-04",
-      "last_1v1": "2026-11-06",
-      "live": {
-        "match": 519210001,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-06"
     }
   ],
   "show_top": 45,
