@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-06T09:45:11Z",
+  "updated_at": "2026-11-06T09:50:10Z",
   "baseline": {
     "taken_at": "2026-11-05T14:00:15Z",
     "ranks": {
@@ -315,13 +315,7 @@
       "cur_tg": 1986,
       "max_tg": 1986,
       "last_1v1": "2026-11-06",
-      "last_tg": "2026-11-04",
-      "live": {
-        "match": 519088053,
-        "game": "Team Random Map",
-        "format": "3v3",
-        "account": "Chapulin Colorado"
-      }
+      "last_tg": "2026-11-04"
     },
     {
       "profile_id": 1947348,
@@ -599,15 +593,10 @@
       "clan": "VN",
       "cur_1v1": 1909,
       "max_1v1": 1929,
-      "cur_tg": 1743,
+      "cur_tg": 1749,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-11-06",
-      "live": {
-        "match": 519088053,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-11-06"
     },
     {
       "profile_id": 12472496,
