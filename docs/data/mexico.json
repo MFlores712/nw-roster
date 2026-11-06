@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-06T02:55:08Z",
+  "updated_at": "2026-11-06T03:00:14Z",
   "baseline": {
     "taken_at": "2026-11-05T14:00:15Z",
     "ranks": {
@@ -582,7 +582,13 @@
       "cur_tg": 1820,
       "max_tg": 1821,
       "last_tg": "2026-10-16",
-      "last_1v1": "2026-09-18"
+      "last_1v1": "2026-09-18",
+      "live": {
+        "match": 519045299,
+        "game": "Unranked",
+        "format": "4v4",
+        "account": "[GDL]BetoxAOE"
+      }
     },
     {
       "profile_id": 358501,
@@ -615,13 +621,7 @@
       "cur_tg": 1743,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-11-06",
-      "live": {
-        "match": 519041555,
-        "game": "Team Random Map",
-        "format": "3v3",
-        "account": "ZUKO | Taj Exiliado Exile"
-      }
+      "last_tg": "2026-11-06"
     },
     {
       "profile_id": 12472496,
