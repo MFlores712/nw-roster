@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-06T01:20:10Z",
+  "updated_at": "2026-11-06T01:25:07Z",
   "baseline": {
     "taken_at": "2026-11-05T14:00:15Z",
     "ranks": {
@@ -42,15 +42,10 @@
       "clan": "nW",
       "cur_1v1": 2421,
       "max_1v1": 2495,
-      "cur_tg": 1872,
+      "cur_tg": 1880,
       "max_tg": 1933,
       "last_1v1": "2026-11-05",
-      "last_tg": "2026-11-06",
-      "live": {
-        "match": 519026367,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-06"
     },
     {
       "profile_id": 6838238,
@@ -69,15 +64,10 @@
       "clan": "VL",
       "cur_1v1": 2161,
       "max_1v1": 2190,
-      "cur_tg": 1884,
+      "cur_tg": 1892,
       "max_tg": 1947,
       "last_1v1": "2026-10-28",
-      "last_tg": "2026-11-06",
-      "live": {
-        "match": 519026367,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-06"
     },
     {
       "profile_id": 1743420,
@@ -96,15 +86,10 @@
       "clan": "VLC",
       "cur_1v1": 2001,
       "max_1v1": 2001,
-      "cur_tg": 1748,
+      "cur_tg": 1758,
       "max_tg": 1764,
       "last_1v1": "2026-10-23",
-      "last_tg": "2026-11-05",
-      "live": {
-        "match": 519026527,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-06"
     },
     {
       "profile_id": 2955183,
