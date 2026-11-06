@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-05T23:50:11Z",
+  "updated_at": "2026-11-06T00:00:16Z",
   "baseline": {
     "taken_at": "2026-11-05T14:00:15Z",
     "ranks": {
@@ -318,22 +318,6 @@
       "last_1v1": "2026-11-02"
     },
     {
-      "profile_id": 1249720,
-      "tag": "Lice_Slide",
-      "clan": "VN",
-      "cur_1v1": 2098,
-      "max_1v1": 2121,
-      "cur_tg": 1816,
-      "max_tg": 1997,
-      "last_1v1": "2026-11-05",
-      "last_tg": "2026-11-05",
-      "live": {
-        "match": 519014484,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 1947348,
       "tag": "themariach1",
       "clan": "nW",
@@ -343,6 +327,17 @@
       "max_tg": 2034,
       "last_1v1": "2026-07-08",
       "last_tg": "2026-10-21"
+    },
+    {
+      "profile_id": 1249720,
+      "tag": "Lice_Slide",
+      "clan": "VN",
+      "cur_1v1": 2080,
+      "max_1v1": 2121,
+      "cur_tg": 1816,
+      "max_tg": 1997,
+      "last_1v1": "2026-11-05",
+      "last_tg": "2026-11-05"
     },
     {
       "profile_id": 13215279,
