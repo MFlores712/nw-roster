@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-06T21:45:09Z",
+  "updated_at": "2026-11-06T21:50:10Z",
   "baseline": {
     "taken_at": "2026-11-06T14:00:17Z",
     "ranks": {
@@ -503,21 +503,6 @@
       "last_tg": "2026-11-01"
     },
     {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1958,
-      "max_1v1": 2003,
-      "cur_tg": 1412,
-      "max_tg": 1417,
-      "last_1v1": "2026-11-06",
-      "last_tg": "2026-11-06",
-      "live": {
-        "match": 519216854,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 2986966,
       "tag": "JPGP",
       "clan": "VL",
@@ -538,6 +523,21 @@
       "max_tg": 1813,
       "last_tg": "2026-10-30",
       "last_1v1": "2026-11-04"
+    },
+    {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1942,
+      "max_1v1": 2003,
+      "cur_tg": 1412,
+      "max_tg": 1417,
+      "last_1v1": "2026-11-06",
+      "last_tg": "2026-11-06",
+      "live": {
+        "match": 519223033,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 467847,
