@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-06T00:30:12Z",
+  "updated_at": "2026-11-06T00:35:08Z",
   "baseline": {
     "taken_at": "2026-11-05T14:00:15Z",
     "ranks": {
@@ -60,22 +60,6 @@
   },
   "players": [
     {
-      "profile_id": 5984120,
-      "tag": "Combito",
-      "clan": "Ux",
-      "cur_1v1": 2664,
-      "max_1v1": 2790,
-      "cur_tg": 1795,
-      "max_tg": 1885,
-      "last_1v1": "2026-11-05",
-      "last_tg": "2026-11-04",
-      "live": {
-        "match": 519021099,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 2776293,
       "tag": "Kingstone",
       "clan": "Oni",
@@ -85,6 +69,22 @@
       "max_tg": 2169,
       "last_tg": "2026-10-08",
       "last_1v1": "2026-11-05"
+    },
+    {
+      "profile_id": 5984120,
+      "tag": "Combito",
+      "clan": "Ux",
+      "cur_1v1": 2651,
+      "max_1v1": 2790,
+      "cur_tg": 1795,
+      "max_tg": 1885,
+      "last_1v1": "2026-11-06",
+      "last_tg": "2026-11-04",
+      "live": {
+        "match": 519021099,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2920057,
@@ -225,22 +225,6 @@
       "last_tg": "2026-11-05"
     },
     {
-      "profile_id": 4412109,
-      "tag": "HGB",
-      "clan": "hK",
-      "cur_1v1": 2337,
-      "max_1v1": 2352,
-      "cur_tg": 2017,
-      "max_tg": 2083,
-      "last_1v1": "2026-11-06",
-      "last_tg": "2026-11-05",
-      "live": {
-        "match": 519017349,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 9031952,
       "tag": "ChossMx",
       "clan": "hK",
@@ -250,6 +234,17 @@
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
       "last_tg": "2026-10-24"
+    },
+    {
+      "profile_id": 4412109,
+      "tag": "HGB",
+      "clan": "hK",
+      "cur_1v1": 2320,
+      "max_1v1": 2352,
+      "cur_tg": 2017,
+      "max_tg": 2083,
+      "last_1v1": "2026-11-06",
+      "last_tg": "2026-11-05"
     },
     {
       "profile_id": 9666666,
