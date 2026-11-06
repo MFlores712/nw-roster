@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-06T07:15:11Z",
+  "updated_at": "2026-11-06T07:20:11Z",
   "baseline": {
     "taken_at": "2026-11-05T14:00:15Z",
     "ranks": {
@@ -295,17 +295,12 @@
       "profile_id": 13138746,
       "tag": "FraKTal",
       "clan": "hK",
-      "cur_1v1": 2182,
+      "cur_1v1": 2163,
       "max_1v1": 2233,
       "cur_tg": 1986,
       "max_tg": 1986,
-      "last_1v1": "2026-11-03",
-      "last_tg": "2026-11-04",
-      "live": {
-        "match": 519075120,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-06",
+      "last_tg": "2026-11-04"
     },
     {
       "profile_id": 5803221,
@@ -596,7 +591,13 @@
       "cur_tg": 1743,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-11-06"
+      "last_tg": "2026-11-06",
+      "live": {
+        "match": 519076476,
+        "game": "Team Random Map",
+        "format": "3v3",
+        "account": "ZUKO | Taj Exiliado Exile"
+      }
     },
     {
       "profile_id": 12472496,
