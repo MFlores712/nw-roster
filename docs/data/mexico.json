@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-06T16:55:08Z",
+  "updated_at": "2026-11-06T17:00:14Z",
   "baseline": {
     "taken_at": "2026-11-06T14:00:17Z",
     "ranks": {
@@ -96,17 +96,12 @@
       "profile_id": 5984120,
       "tag": "Combito",
       "clan": "Ux",
-      "cur_1v1": 2593,
+      "cur_1v1": 2601,
       "max_1v1": 2790,
       "cur_tg": 1795,
       "max_tg": 1885,
       "last_1v1": "2026-11-06",
-      "last_tg": "2026-11-04",
-      "live": {
-        "match": 519155335,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-04"
     },
     {
       "profile_id": 9449579,
@@ -216,13 +211,7 @@
       "cur_tg": 1967,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-10-24",
-      "live": {
-        "match": 519156247,
-        "game": "Team Random Map",
-        "format": "3v3",
-        "account": "FierroFlash"
-      }
+      "last_tg": "2026-10-24"
     },
     {
       "profile_id": 310739,
@@ -569,13 +558,7 @@
       "cur_tg": 1820,
       "max_tg": 1821,
       "last_tg": "2026-10-16",
-      "last_1v1": "2026-09-18",
-      "live": {
-        "match": 519151963,
-        "game": "Quick Play 1v1 Random Map",
-        "format": "1v1",
-        "account": "James P. Solivan"
-      }
+      "last_1v1": "2026-09-18"
     },
     {
       "profile_id": 358501,
