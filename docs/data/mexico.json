@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-06T06:05:08Z",
+  "updated_at": "2026-11-06T06:10:09Z",
   "baseline": {
     "taken_at": "2026-11-05T14:00:15Z",
     "ranks": {
@@ -384,15 +384,10 @@
       "clan": "SotC",
       "cur_1v1": 2054,
       "max_1v1": 2098,
-      "cur_tg": 1633,
+      "cur_tg": 1612,
       "max_tg": 1870,
       "last_1v1": "2026-10-31",
-      "last_tg": "2026-11-06",
-      "live": {
-        "match": 519067728,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-06"
     },
     {
       "profile_id": 9770338,
@@ -618,7 +613,13 @@
       "cur_tg": 1743,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-11-06"
+      "last_tg": "2026-11-06",
+      "live": {
+        "match": 519070094,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "ZUKO | Taj Exiliado Exile"
+      }
     },
     {
       "profile_id": 12472496,
