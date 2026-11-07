@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-07T18:05:10Z",
+  "updated_at": "2026-11-07T18:10:09Z",
   "baseline": {
     "taken_at": "2026-11-07T14:00:13Z",
     "ranks": {
@@ -436,22 +436,6 @@
       "last_tg": "2026-11-07"
     },
     {
-      "profile_id": 1249720,
-      "tag": "Lice_Slide",
-      "clan": "VN",
-      "cur_1v1": 1993,
-      "max_1v1": 2121,
-      "cur_tg": 1819,
-      "max_tg": 1997,
-      "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-06",
-      "live": {
-        "match": 519435355,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 6501299,
       "tag": "ShutAzarquay",
       "clan": "nW",
@@ -472,6 +456,17 @@
       "max_tg": 1844,
       "last_1v1": "2026-11-07",
       "last_tg": "2026-10-31"
+    },
+    {
+      "profile_id": 1249720,
+      "tag": "Lice_Slide",
+      "clan": "VN",
+      "cur_1v1": 1983,
+      "max_1v1": 2121,
+      "cur_tg": 1819,
+      "max_tg": 1997,
+      "last_1v1": "2026-11-07",
+      "last_tg": "2026-11-06"
     },
     {
       "profile_id": 2291749,
@@ -535,7 +530,12 @@
       "cur_tg": 1428,
       "max_tg": 1444,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-07"
+      "last_tg": "2026-11-07",
+      "live": {
+        "match": 519443891,
+        "game": "Team Random Map",
+        "format": "2v2"
+      }
     },
     {
       "profile_id": 2986966,
