@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-07T18:10:09Z",
+  "updated_at": "2026-11-07T18:15:06Z",
   "baseline": {
     "taken_at": "2026-11-07T14:00:13Z",
     "ranks": {
@@ -289,14 +289,14 @@
       "profile_id": 3816609,
       "tag": "iamkaito",
       "clan": "nW",
-      "cur_1v1": 2221,
+      "cur_1v1": 2197,
       "max_1v1": 2304,
       "cur_tg": 1831,
       "max_tg": 1852,
       "last_1v1": "2026-11-07",
       "last_tg": "2026-11-06",
       "live": {
-        "match": 519436915,
+        "match": 519445473,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -383,15 +383,10 @@
       "clan": "SotC",
       "cur_1v1": 2054,
       "max_1v1": 2098,
-      "cur_tg": 1626,
+      "cur_tg": 1641,
       "max_tg": 1870,
       "last_1v1": "2026-10-31",
-      "last_tg": "2026-11-07",
-      "live": {
-        "match": 519439708,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-07"
     },
     {
       "profile_id": 1708286,
@@ -466,7 +461,12 @@
       "cur_tg": 1819,
       "max_tg": 1997,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-06"
+      "last_tg": "2026-11-06",
+      "live": {
+        "match": 519444741,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2291749,
