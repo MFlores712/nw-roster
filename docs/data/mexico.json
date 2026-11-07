@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-07T04:10:10Z",
+  "updated_at": "2026-11-07T04:15:10Z",
   "baseline": {
     "taken_at": "2026-11-06T14:00:17Z",
     "ranks": {
@@ -294,17 +294,12 @@
       "profile_id": 917863,
       "tag": "Romell13",
       "clan": "hK",
-      "cur_1v1": 2195,
+      "cur_1v1": 2186,
       "max_1v1": 2233,
       "cur_tg": 1815,
       "max_tg": 1838,
-      "last_1v1": "2026-11-06",
-      "last_tg": "2026-11-05",
-      "live": {
-        "match": 519295057,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-07",
+      "last_tg": "2026-11-05"
     },
     {
       "profile_id": 5803221,
