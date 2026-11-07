@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-07T05:05:08Z",
+  "updated_at": "2026-11-07T05:10:08Z",
   "baseline": {
     "taken_at": "2026-11-06T14:00:17Z",
     "ranks": {
@@ -118,7 +118,7 @@
       "profile_id": 401359,
       "tag": "EnvyZ",
       "clan": "VENÓN",
-      "cur_1v1": 2461,
+      "cur_1v1": 2470,
       "max_1v1": 2512,
       "cur_tg": 2043,
       "max_tg": 2190,
@@ -310,7 +310,13 @@
       "cur_tg": 1986,
       "max_tg": 1986,
       "last_1v1": "2026-11-06",
-      "last_tg": "2026-11-04"
+      "last_tg": "2026-11-04",
+      "live": {
+        "match": 519307548,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "Chapulin Colorado"
+      }
     },
     {
       "profile_id": 1947348,
@@ -467,7 +473,12 @@
       "cur_tg": 1701,
       "max_tg": 1865,
       "last_tg": "2026-11-04",
-      "last_1v1": "2026-11-05"
+      "last_1v1": "2026-11-05",
+      "live": {
+        "match": 519307032,
+        "game": "Unranked",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 3285258,
