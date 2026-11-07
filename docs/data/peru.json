@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-07T21:59:24Z",
+  "updated_at": "2026-11-07T22:05:08Z",
   "baseline": {
     "taken_at": "2026-11-07T14:00:13Z",
     "ranks": {
@@ -130,14 +130,14 @@
       "profile_id": 1359694,
       "tag": "AtilA",
       "clan": "nW",
-      "cur_1v1": 2028,
+      "cur_1v1": 2011,
       "max_1v1": 2123,
       "cur_tg": 1622,
       "max_tg": 1670,
       "last_tg": "2026-11-01",
       "last_1v1": "2026-11-07",
       "live": {
-        "match": 519494339,
+        "match": 519502446,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
