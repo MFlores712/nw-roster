@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-07T07:10:10Z",
+  "updated_at": "2026-11-07T07:15:10Z",
   "baseline": {
     "taken_at": "2026-11-06T14:00:17Z",
     "ranks": {
@@ -446,14 +446,14 @@
       "profile_id": 2876835,
       "tag": "Abejorro",
       "clan": "nW",
-      "cur_1v1": 1980,
+      "cur_1v1": 1968,
       "max_1v1": 2152,
       "cur_tg": 1834,
       "max_tg": 1844,
       "last_1v1": "2026-11-07",
       "last_tg": "2026-10-31",
       "live": {
-        "match": 519322718,
+        "match": 519325783,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
