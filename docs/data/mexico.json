@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-07T18:25:11Z",
+  "updated_at": "2026-11-07T18:30:14Z",
   "baseline": {
     "taken_at": "2026-11-07T14:00:13Z",
     "ranks": {
@@ -134,7 +134,12 @@
       "cur_tg": 2035,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-11-07"
+      "last_tg": "2026-11-07",
+      "live": {
+        "match": 519448735,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 2598146,
@@ -178,7 +183,13 @@
       "cur_tg": 1845,
       "max_tg": 1907,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-14"
+      "last_tg": "2026-10-14",
+      "live": {
+        "match": 519448255,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "Volg"
+      }
     },
     {
       "profile_id": 312774,
@@ -189,7 +200,13 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 519448735,
+        "game": "Team Random Map",
+        "format": "3v3",
+        "account": "hK | RanDoM"
+      }
     },
     {
       "profile_id": 580573,
@@ -222,7 +239,12 @@
       "cur_tg": 2035,
       "max_tg": 2083,
       "last_1v1": "2026-11-06",
-      "last_tg": "2026-11-07"
+      "last_tg": "2026-11-07",
+      "live": {
+        "match": 519448735,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 310739,
@@ -452,7 +474,7 @@
       "last_1v1": "2026-11-07",
       "last_tg": "2026-11-06",
       "live": {
-        "match": 519444741,
+        "match": 519448117,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -516,15 +538,10 @@
       "tag": "__Chino",
       "cur_1v1": 1956,
       "max_1v1": 2003,
-      "cur_tg": 1428,
+      "cur_tg": 1439,
       "max_tg": 1444,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-07",
-      "live": {
-        "match": 519443891,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-07"
     },
     {
       "profile_id": 2986966,
@@ -578,7 +595,13 @@
       "cur_tg": 1820,
       "max_tg": 1821,
       "last_tg": "2026-10-16",
-      "last_1v1": "2026-09-18"
+      "last_1v1": "2026-09-18",
+      "live": {
+        "match": 519448767,
+        "game": "Quick Play 1v1 Random Map",
+        "format": "1v1",
+        "account": "James P. Solivan"
+      }
     },
     {
       "profile_id": 324005,
