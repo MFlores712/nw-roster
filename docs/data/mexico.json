@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-07T02:20:09Z",
+  "updated_at": "2026-11-07T02:25:07Z",
   "baseline": {
     "taken_at": "2026-11-06T14:00:17Z",
     "ranks": {
@@ -90,7 +90,12 @@
       "cur_tg": 1777,
       "max_tg": 1885,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-07"
+      "last_tg": "2026-11-07",
+      "live": {
+        "match": 519277036,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 13099159,
@@ -101,7 +106,12 @@
       "cur_tg": 1891,
       "max_tg": 1999,
       "last_1v1": "2026-10-31",
-      "last_tg": "2026-11-07"
+      "last_tg": "2026-11-07",
+      "live": {
+        "match": 519277036,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 9449579,
@@ -310,13 +320,7 @@
       "cur_tg": 1986,
       "max_tg": 1986,
       "last_1v1": "2026-11-06",
-      "last_tg": "2026-11-04",
-      "live": {
-        "match": 519275867,
-        "game": "Team Random Map",
-        "format": "3v3",
-        "account": "Chapulin Colorado"
-      }
+      "last_tg": "2026-11-04"
     },
     {
       "profile_id": 1947348,
@@ -382,13 +386,7 @@
       "cur_tg": 1806,
       "max_tg": 1962,
       "last_1v1": "2026-11-04",
-      "last_tg": "2026-11-06",
-      "live": {
-        "match": 519275867,
-        "game": "Team Random Map",
-        "format": "3v3",
-        "account": "Stalingrado"
-      }
+      "last_tg": "2026-11-06"
     },
     {
       "profile_id": 1708286,
@@ -521,13 +519,7 @@
       "cur_tg": 1718,
       "max_tg": 1824,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-11-01",
-      "live": {
-        "match": 519271679,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "jax_teller"
-      }
+      "last_tg": "2026-11-01"
     },
     {
       "profile_id": 2986966,
@@ -631,17 +623,12 @@
       "profile_id": 358501,
       "tag": "El Claut_One",
       "clan": "VENÓN",
-      "cur_1v1": 1849,
+      "cur_1v1": 1861,
       "max_1v1": 2115,
       "cur_tg": 1719,
       "max_tg": 1820,
       "last_tg": "2026-11-04",
-      "last_1v1": "2026-11-07",
-      "live": {
-        "match": 519271591,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-07"
     }
   ],
   "show_top": 45,
