@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-07T21:35:09Z",
+  "updated_at": "2026-11-07T21:50:08Z",
   "baseline": {
     "taken_at": "2026-11-07T14:00:13Z",
     "ranks": {
@@ -80,12 +80,12 @@
       "clan": "VL",
       "cur_1v1": 2118,
       "max_1v1": 2242,
-      "cur_tg": 1872,
+      "cur_tg": 1837,
       "max_tg": 1932,
-      "last_tg": "2026-11-04",
+      "last_tg": "2026-11-07",
       "last_1v1": "2026-10-27",
       "live": {
-        "match": 519491625,
+        "match": 519498635,
         "game": "Team Random Map",
         "format": "2v2"
       }
@@ -196,8 +196,7 @@
     },
     {
       "profile_id": 3034651,
-      "tag": "SANGRE AZUL",
-      "clan": "MANCO II",
+      "tag": "KinG of QUILLA",
       "cur_1v1": 1924,
       "max_1v1": 2035,
       "cur_tg": 1526,
