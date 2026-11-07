@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-07T04:05:08Z",
+  "updated_at": "2026-11-07T04:10:10Z",
   "baseline": {
     "taken_at": "2026-11-06T14:00:17Z",
     "ranks": {
@@ -90,7 +90,12 @@
       "cur_tg": 1776,
       "max_tg": 1885,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-07"
+      "last_tg": "2026-11-07",
+      "live": {
+        "match": 519298272,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 13099159,
@@ -101,7 +106,12 @@
       "cur_tg": 1882,
       "max_tg": 1999,
       "last_1v1": "2026-10-31",
-      "last_tg": "2026-11-07"
+      "last_tg": "2026-11-07",
+      "live": {
+        "match": 519298272,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 9449579,
@@ -600,22 +610,6 @@
       "last_1v1": "2026-10-16"
     },
     {
-      "profile_id": 358501,
-      "tag": "El Claut_One",
-      "clan": "VENÓN",
-      "cur_1v1": 1875,
-      "max_1v1": 2115,
-      "cur_tg": 1719,
-      "max_tg": 1820,
-      "last_tg": "2026-11-04",
-      "last_1v1": "2026-11-07",
-      "live": {
-        "match": 519293186,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 2926018,
       "tag": "PerezPodrido",
       "clan": "SotC",
@@ -625,6 +619,17 @@
       "max_tg": 1888,
       "last_1v1": "2026-11-06",
       "last_tg": "2026-11-04"
+    },
+    {
+      "profile_id": 358501,
+      "tag": "El Claut_One",
+      "clan": "VENÓN",
+      "cur_1v1": 1867,
+      "max_1v1": 2115,
+      "cur_tg": 1719,
+      "max_tg": 1820,
+      "last_tg": "2026-11-04",
+      "last_1v1": "2026-11-07"
     }
   ],
   "show_top": 45,
