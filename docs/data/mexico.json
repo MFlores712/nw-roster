@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-07T21:50:08Z",
+  "updated_at": "2026-11-07T21:55:08Z",
   "baseline": {
     "taken_at": "2026-11-07T14:00:13Z",
     "ranks": {
@@ -536,7 +536,12 @@
       "cur_tg": 1439,
       "max_tg": 1444,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-07"
+      "last_tg": "2026-11-07",
+      "live": {
+        "match": 519499078,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 467847,
@@ -598,6 +603,17 @@
       "last_1v1": "2026-10-16"
     },
     {
+      "profile_id": 358501,
+      "tag": "El Claut_One",
+      "clan": "VENÓN",
+      "cur_1v1": 1872,
+      "max_1v1": 2115,
+      "cur_tg": 1719,
+      "max_tg": 1820,
+      "last_tg": "2026-11-04",
+      "last_1v1": "2026-11-07"
+    },
+    {
       "profile_id": 2926018,
       "tag": "PerezPodrido",
       "clan": "SotC",
@@ -607,22 +623,6 @@
       "max_tg": 1888,
       "last_1v1": "2026-11-06",
       "last_tg": "2026-11-04"
-    },
-    {
-      "profile_id": 358501,
-      "tag": "El Claut_One",
-      "clan": "VENÓN",
-      "cur_1v1": 1860,
-      "max_1v1": 2115,
-      "cur_tg": 1719,
-      "max_tg": 1820,
-      "last_tg": "2026-11-04",
-      "last_1v1": "2026-11-07",
-      "live": {
-        "match": 519491521,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     }
   ],
   "show_top": 45,
