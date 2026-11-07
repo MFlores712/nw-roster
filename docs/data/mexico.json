@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-07T17:25:09Z",
+  "updated_at": "2026-11-07T17:30:12Z",
   "baseline": {
     "taken_at": "2026-11-07T14:00:13Z",
     "ranks": {
@@ -386,7 +386,12 @@
       "cur_tg": 1609,
       "max_tg": 1870,
       "last_1v1": "2026-10-31",
-      "last_tg": "2026-11-07"
+      "last_tg": "2026-11-07",
+      "live": {
+        "match": 519434176,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 1708286,
@@ -421,17 +426,6 @@
       "last_tg": "2026-10-27"
     },
     {
-      "profile_id": 1249720,
-      "tag": "Lice_Slide",
-      "clan": "VN",
-      "cur_1v1": 2009,
-      "max_1v1": 2121,
-      "cur_tg": 1819,
-      "max_tg": 1997,
-      "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-06"
-    },
-    {
       "profile_id": 233625,
       "tag": "MooN",
       "cur_1v1": 2002,
@@ -440,6 +434,17 @@
       "max_tg": 1885,
       "last_1v1": "2026-08-15",
       "last_tg": "2026-11-07"
+    },
+    {
+      "profile_id": 1249720,
+      "tag": "Lice_Slide",
+      "clan": "VN",
+      "cur_1v1": 1993,
+      "max_1v1": 2121,
+      "cur_tg": 1819,
+      "max_tg": 1997,
+      "last_1v1": "2026-11-07",
+      "last_tg": "2026-11-06"
     },
     {
       "profile_id": 6501299,
