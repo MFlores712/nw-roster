@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-07T05:20:09Z",
+  "updated_at": "2026-11-07T05:25:08Z",
   "baseline": {
     "taken_at": "2026-11-06T14:00:17Z",
     "ranks": {
@@ -443,6 +443,17 @@
       "last_1v1": "2026-10-24"
     },
     {
+      "profile_id": 2876835,
+      "tag": "Abejorro",
+      "clan": "nW",
+      "cur_1v1": 1978,
+      "max_1v1": 2152,
+      "cur_tg": 1834,
+      "max_tg": 1844,
+      "last_1v1": "2026-11-07",
+      "last_tg": "2026-10-31"
+    },
+    {
       "profile_id": 2291749,
       "tag": "Biner",
       "cur_1v1": 1966,
@@ -489,17 +500,6 @@
       "max_tg": 1858,
       "last_1v1": "2026-11-02",
       "last_tg": "2026-11-03"
-    },
-    {
-      "profile_id": 2876835,
-      "tag": "Abejorro",
-      "clan": "nW",
-      "cur_1v1": 1960,
-      "max_1v1": 2152,
-      "cur_tg": 1834,
-      "max_tg": 1844,
-      "last_1v1": "2026-11-06",
-      "last_tg": "2026-10-31"
     },
     {
       "profile_id": 13192381,
