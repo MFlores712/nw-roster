@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-07T06:45:08Z",
+  "updated_at": "2026-11-07T06:50:09Z",
   "baseline": {
     "taken_at": "2026-11-06T14:00:17Z",
     "ranks": {
@@ -239,7 +239,13 @@
       "cur_tg": 1833,
       "max_tg": 1959,
       "last_1v1": "2026-11-06",
-      "last_tg": "2026-11-06"
+      "last_tg": "2026-11-06",
+      "live": {
+        "match": 519322623,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "Warlock_Ndk"
+      }
     },
     {
       "profile_id": 9666666,
@@ -443,15 +449,10 @@
       "tag": "MooN",
       "cur_1v1": 2002,
       "max_1v1": 2002,
-      "cur_tg": 1778,
+      "cur_tg": 1789,
       "max_tg": 1885,
       "last_1v1": "2026-08-15",
-      "last_tg": "2026-11-07",
-      "live": {
-        "match": 519319097,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-07"
     },
     {
       "profile_id": 6501299,
@@ -468,14 +469,14 @@
       "profile_id": 2876835,
       "tag": "Abejorro",
       "clan": "nW",
-      "cur_1v1": 1982,
+      "cur_1v1": 1980,
       "max_1v1": 2152,
       "cur_tg": 1834,
       "max_tg": 1844,
       "last_1v1": "2026-11-07",
       "last_tg": "2026-10-31",
       "live": {
-        "match": 519318669,
+        "match": 519322718,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
