@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-07T23:05:08Z",
+  "updated_at": "2026-11-07T23:15:09Z",
   "baseline": {
     "taken_at": "2026-11-07T14:00:13Z",
     "ranks": {
@@ -76,7 +76,7 @@
       "clan": "Ux",
       "cur_1v1": 2650,
       "max_1v1": 2685,
-      "cur_tg": 2151,
+      "cur_tg": 2133,
       "max_tg": 2173,
       "last_1v1": "2026-10-29",
       "last_tg": "2026-11-07",
@@ -122,7 +122,13 @@
       "cur_tg": 2140,
       "max_tg": 2151,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-10-15"
+      "last_tg": "2026-10-15",
+      "live": {
+        "match": 519518019,
+        "game": "Team Random Map",
+        "format": "2v2",
+        "account": "[GDL] Chuchito"
+      }
     },
     {
       "profile_id": 401359,
