@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-07T03:00:13Z",
+  "updated_at": "2026-11-07T03:10:09Z",
   "baseline": {
     "taken_at": "2026-11-06T14:00:17Z",
     "ranks": {
@@ -81,6 +81,17 @@
       "last_tg": "2026-11-07"
     },
     {
+      "profile_id": 2955846,
+      "tag": "KauTrEnS",
+      "clan": "FMG",
+      "cur_1v1": 2008,
+      "max_1v1": 2054,
+      "cur_tg": 1759,
+      "max_tg": 1759,
+      "last_1v1": "2026-11-07",
+      "last_tg": "2026-11-05"
+    },
+    {
       "profile_id": 1062980,
       "tag": "DeaH",
       "clan": "VLC",
@@ -100,22 +111,6 @@
       "max_tg": 1710,
       "last_1v1": "2026-10-18",
       "last_tg": "2026-10-17"
-    },
-    {
-      "profile_id": 2955846,
-      "tag": "KauTrEnS",
-      "clan": "FMG",
-      "cur_1v1": 1988,
-      "max_1v1": 2054,
-      "cur_tg": 1759,
-      "max_tg": 1759,
-      "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-05",
-      "live": {
-        "match": 519281191,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 5368998,
@@ -197,15 +192,10 @@
       "clan": "AiM",
       "cur_1v1": 1807,
       "max_1v1": 1903,
-      "cur_tg": 1412,
+      "cur_tg": 1423,
       "max_tg": 1630,
       "last_1v1": "2026-11-06",
-      "last_tg": "2026-11-07",
-      "live": {
-        "match": 519282510,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-07"
     },
     {
       "profile_id": 2134856,
