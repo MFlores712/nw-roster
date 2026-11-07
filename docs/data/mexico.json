@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-07T02:10:08Z",
+  "updated_at": "2026-11-07T02:20:09Z",
   "baseline": {
     "taken_at": "2026-11-06T14:00:17Z",
     "ranks": {
@@ -87,15 +87,10 @@
       "clan": "Ux",
       "cur_1v1": 2636,
       "max_1v1": 2790,
-      "cur_tg": 1765,
+      "cur_tg": 1777,
       "max_tg": 1885,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-07",
-      "live": {
-        "match": 519270942,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-07"
     },
     {
       "profile_id": 13099159,
@@ -103,15 +98,10 @@
       "clan": "Ux",
       "cur_1v1": 2613,
       "max_1v1": 2629,
-      "cur_tg": 1882,
+      "cur_tg": 1891,
       "max_tg": 1999,
       "last_1v1": "2026-10-31",
-      "last_tg": "2026-11-06",
-      "live": {
-        "match": 519270942,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-07"
     },
     {
       "profile_id": 9449579,
@@ -141,15 +131,10 @@
       "clan": "hK",
       "cur_1v1": 2427,
       "max_1v1": 2433,
-      "cur_tg": 1994,
+      "cur_tg": 2001,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-11-07",
-      "live": {
-        "match": 519271386,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-07"
     },
     {
       "profile_id": 2598146,
@@ -204,13 +189,7 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 519271386,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "hK | RanDoM"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 580573,
@@ -240,15 +219,10 @@
       "clan": "hK",
       "cur_1v1": 2314,
       "max_1v1": 2365,
-      "cur_tg": 1994,
+      "cur_tg": 2001,
       "max_tg": 2083,
       "last_1v1": "2026-11-06",
-      "last_tg": "2026-11-07",
-      "live": {
-        "match": 519271386,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-07"
     },
     {
       "profile_id": 310739,
@@ -336,7 +310,13 @@
       "cur_tg": 1986,
       "max_tg": 1986,
       "last_1v1": "2026-11-06",
-      "last_tg": "2026-11-04"
+      "last_tg": "2026-11-04",
+      "live": {
+        "match": 519275867,
+        "game": "Team Random Map",
+        "format": "3v3",
+        "account": "Chapulin Colorado"
+      }
     },
     {
       "profile_id": 1947348,
@@ -402,7 +382,13 @@
       "cur_tg": 1806,
       "max_tg": 1962,
       "last_1v1": "2026-11-04",
-      "last_tg": "2026-11-06"
+      "last_tg": "2026-11-06",
+      "live": {
+        "match": 519275867,
+        "game": "Team Random Map",
+        "format": "3v3",
+        "account": "Stalingrado"
+      }
     },
     {
       "profile_id": 1708286,
@@ -446,15 +432,10 @@
       "tag": "MooN",
       "cur_1v1": 2002,
       "max_1v1": 2002,
-      "cur_tg": 1730,
+      "cur_tg": 1744,
       "max_tg": 1885,
       "last_1v1": "2026-08-15",
-      "last_tg": "2026-11-07",
-      "live": {
-        "match": 519271386,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-07"
     },
     {
       "profile_id": 6501299,
@@ -557,7 +538,13 @@
       "cur_tg": 1655,
       "max_tg": 1824,
       "last_tg": "2026-11-06",
-      "last_1v1": "2026-10-13"
+      "last_1v1": "2026-10-13",
+      "live": {
+        "match": 519276557,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "eFotboll"
+      }
     },
     {
       "profile_id": 4764520,
@@ -633,7 +620,12 @@
       "cur_tg": 1686,
       "max_tg": 1888,
       "last_1v1": "2026-11-06",
-      "last_tg": "2026-11-04"
+      "last_tg": "2026-11-04",
+      "live": {
+        "match": 519275384,
+        "game": "Unranked",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 358501,
