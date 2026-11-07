@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-07T03:35:10Z",
+  "updated_at": "2026-11-07T03:45:09Z",
   "baseline": {
     "taken_at": "2026-11-06T14:00:17Z",
     "ranks": {
@@ -399,22 +399,6 @@
       "last_1v1": "2026-03-21"
     },
     {
-      "profile_id": 1249720,
-      "tag": "Lice_Slide",
-      "clan": "VN",
-      "cur_1v1": 2042,
-      "max_1v1": 2121,
-      "cur_tg": 1819,
-      "max_tg": 1997,
-      "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-06",
-      "live": {
-        "match": 519288488,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 2934597,
       "tag": "Sgt.Pepper",
       "clan": "nW",
@@ -424,6 +408,17 @@
       "max_tg": 1747,
       "last_1v1": "2026-11-07",
       "last_tg": "2026-10-27"
+    },
+    {
+      "profile_id": 1249720,
+      "tag": "Lice_Slide",
+      "clan": "VN",
+      "cur_1v1": 2023,
+      "max_1v1": 2121,
+      "cur_tg": 1819,
+      "max_tg": 1997,
+      "last_1v1": "2026-11-07",
+      "last_tg": "2026-11-06"
     },
     {
       "profile_id": 233625,
@@ -601,14 +596,14 @@
       "profile_id": 358501,
       "tag": "El Claut_One",
       "clan": "VENÓN",
-      "cur_1v1": 1878,
+      "cur_1v1": 1875,
       "max_1v1": 2115,
       "cur_tg": 1719,
       "max_tg": 1820,
       "last_tg": "2026-11-04",
       "last_1v1": "2026-11-07",
       "live": {
-        "match": 519290808,
+        "match": 519293186,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -622,12 +617,7 @@
       "cur_tg": 1686,
       "max_tg": 1888,
       "last_1v1": "2026-11-06",
-      "last_tg": "2026-11-04",
-      "live": {
-        "match": 519287700,
-        "game": "Unranked",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-04"
     }
   ],
   "show_top": 45,
