@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-07T21:10:09Z",
+  "updated_at": "2026-11-07T21:15:09Z",
   "baseline": {
     "taken_at": "2026-11-07T14:00:13Z",
     "ranks": {
@@ -380,7 +380,12 @@
       "cur_tg": 1658,
       "max_tg": 1870,
       "last_1v1": "2026-10-31",
-      "last_tg": "2026-11-07"
+      "last_tg": "2026-11-07",
+      "live": {
+        "match": 519486238,
+        "game": "Unranked",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 1708286,
@@ -559,15 +564,10 @@
       "clan": "Ux",
       "cur_1v1": 1937,
       "max_1v1": 1997,
-      "cur_tg": 1671,
+      "cur_tg": 1683,
       "max_tg": 1688,
       "last_1v1": "2026-11-04",
-      "last_tg": "2026-11-07",
-      "live": {
-        "match": 519482157,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-07"
     },
     {
       "profile_id": 2969449,
@@ -578,7 +578,13 @@
       "cur_tg": 1820,
       "max_tg": 1821,
       "last_tg": "2026-10-16",
-      "last_1v1": "2026-09-18"
+      "last_1v1": "2026-09-18",
+      "live": {
+        "match": 519488949,
+        "game": "Quick Play 1v1 Random Map",
+        "format": "1v1",
+        "account": "James P. Solivan"
+      }
     },
     {
       "profile_id": 324005,
