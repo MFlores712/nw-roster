@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-07T17:00:12Z",
+  "updated_at": "2026-11-07T17:15:08Z",
   "baseline": {
     "taken_at": "2026-11-07T14:00:13Z",
     "ranks": {
@@ -134,7 +134,12 @@
       "cur_tg": 2014,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-11-07"
+      "last_tg": "2026-11-07",
+      "live": {
+        "match": 519431113,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 2598146,
@@ -189,7 +194,13 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 519431113,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "hK | RanDoM"
+      }
     },
     {
       "profile_id": 580573,
@@ -222,7 +233,12 @@
       "cur_tg": 2014,
       "max_tg": 2083,
       "last_1v1": "2026-11-06",
-      "last_tg": "2026-11-07"
+      "last_tg": "2026-11-07",
+      "live": {
+        "match": 519431113,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 310739,
@@ -273,17 +289,12 @@
       "profile_id": 3816609,
       "tag": "iamkaito",
       "clan": "nW",
-      "cur_1v1": 2219,
+      "cur_1v1": 2227,
       "max_1v1": 2304,
       "cur_tg": 1831,
       "max_tg": 1852,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-06",
-      "live": {
-        "match": 519426690,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-06"
     },
     {
       "profile_id": 917863,
@@ -413,14 +424,14 @@
       "profile_id": 1249720,
       "tag": "Lice_Slide",
       "clan": "VN",
-      "cur_1v1": 2023,
+      "cur_1v1": 2015,
       "max_1v1": 2121,
       "cur_tg": 1819,
       "max_tg": 1997,
       "last_1v1": "2026-11-07",
       "last_tg": "2026-11-06",
       "live": {
-        "match": 519426690,
+        "match": 519431464,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
