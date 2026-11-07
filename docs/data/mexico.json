@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-07T22:50:09Z",
+  "updated_at": "2026-11-07T22:55:08Z",
   "baseline": {
     "taken_at": "2026-11-07T14:00:13Z",
     "ranks": {
@@ -512,21 +512,6 @@
       "last_tg": "2026-11-01"
     },
     {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1959,
-      "max_1v1": 2003,
-      "cur_tg": 1439,
-      "max_tg": 1444,
-      "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-07",
-      "live": {
-        "match": 519509982,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 2986966,
       "tag": "JPGP",
       "clan": "VL",
@@ -536,6 +521,16 @@
       "max_tg": 1824,
       "last_tg": "2026-11-06",
       "last_1v1": "2026-10-13"
+    },
+    {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1950,
+      "max_1v1": 2003,
+      "cur_tg": 1439,
+      "max_tg": 1444,
+      "last_1v1": "2026-11-07",
+      "last_tg": "2026-11-07"
     },
     {
       "profile_id": 4764520,
@@ -578,7 +573,13 @@
       "cur_tg": 1820,
       "max_tg": 1821,
       "last_tg": "2026-10-16",
-      "last_1v1": "2026-09-18"
+      "last_1v1": "2026-09-18",
+      "live": {
+        "match": 519511373,
+        "game": "Unranked",
+        "format": "4v4",
+        "account": "James P. Solivan"
+      }
     },
     {
       "profile_id": 324005,
@@ -606,17 +607,12 @@
       "profile_id": 358501,
       "tag": "El Claut_One",
       "clan": "VENÓN",
-      "cur_1v1": 1872,
+      "cur_1v1": 1887,
       "max_1v1": 2115,
       "cur_tg": 1719,
       "max_tg": 1820,
       "last_tg": "2026-11-04",
-      "last_1v1": "2026-11-07",
-      "live": {
-        "match": 519511973,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-07"
     },
     {
       "profile_id": 2926018,
