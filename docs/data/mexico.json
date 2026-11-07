@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-07T01:30:12Z",
+  "updated_at": "2026-11-07T01:35:07Z",
   "baseline": {
     "taken_at": "2026-11-06T14:00:17Z",
     "ranks": {
@@ -367,22 +367,6 @@
       "last_tg": "2026-11-06"
     },
     {
-      "profile_id": 1249720,
-      "tag": "Lice_Slide",
-      "clan": "VN",
-      "cur_1v1": 2061,
-      "max_1v1": 2121,
-      "cur_tg": 1819,
-      "max_tg": 1997,
-      "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-06",
-      "live": {
-        "match": 519262071,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 400111,
       "tag": "Mibel",
       "clan": "VL",
@@ -431,6 +415,17 @@
       "last_1v1": "2026-03-21"
     },
     {
+      "profile_id": 1249720,
+      "tag": "Lice_Slide",
+      "clan": "VN",
+      "cur_1v1": 2042,
+      "max_1v1": 2121,
+      "cur_tg": 1819,
+      "max_tg": 1997,
+      "last_1v1": "2026-11-07",
+      "last_tg": "2026-11-06"
+    },
+    {
       "profile_id": 2934597,
       "tag": "Sgt.Pepper",
       "clan": "nW",
@@ -439,7 +434,12 @@
       "cur_tg": 1731,
       "max_tg": 1747,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-10-27"
+      "last_tg": "2026-10-27",
+      "live": {
+        "match": 519267760,
+        "game": "Unranked",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 233625,
@@ -537,15 +537,10 @@
       "tag": "__Chino",
       "cur_1v1": 1953,
       "max_1v1": 2003,
-      "cur_tg": 1444,
+      "cur_tg": 1428,
       "max_tg": 1444,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-07",
-      "live": {
-        "match": 519260258,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-07"
     },
     {
       "profile_id": 2986966,
