@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-07T18:20:09Z",
+  "updated_at": "2026-11-07T18:25:11Z",
   "baseline": {
     "taken_at": "2026-11-07T14:00:13Z",
     "ranks": {
@@ -445,7 +445,7 @@
       "profile_id": 1249720,
       "tag": "Lice_Slide",
       "clan": "VN",
-      "cur_1v1": 1983,
+      "cur_1v1": 1978,
       "max_1v1": 2121,
       "cur_tg": 1819,
       "max_tg": 1997,
@@ -578,13 +578,7 @@
       "cur_tg": 1820,
       "max_tg": 1821,
       "last_tg": "2026-10-16",
-      "last_1v1": "2026-09-18",
-      "live": {
-        "match": 519441620,
-        "game": "Quick Play 1v1 Random Map",
-        "format": "1v1",
-        "account": "James P. Solivan"
-      }
+      "last_1v1": "2026-09-18"
     },
     {
       "profile_id": 324005,
@@ -595,7 +589,12 @@
       "cur_tg": 1769,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-11-06"
+      "last_tg": "2026-11-06",
+      "live": {
+        "match": 519447520,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 12472496,
