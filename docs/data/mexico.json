@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-07T22:15:09Z",
+  "updated_at": "2026-11-07T22:20:10Z",
   "baseline": {
     "taken_at": "2026-11-07T14:00:13Z",
     "ranks": {
@@ -95,7 +95,12 @@
       "cur_tg": 1685,
       "max_tg": 1885,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-07"
+      "last_tg": "2026-11-07",
+      "live": {
+        "match": 519505052,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 13099159,
@@ -502,6 +507,16 @@
       "last_tg": "2026-11-01"
     },
     {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1959,
+      "max_1v1": 2003,
+      "cur_tg": 1439,
+      "max_tg": 1444,
+      "last_1v1": "2026-11-07",
+      "last_tg": "2026-11-07"
+    },
+    {
       "profile_id": 2986966,
       "tag": "JPGP",
       "clan": "VL",
@@ -522,21 +537,6 @@
       "max_tg": 1813,
       "last_tg": "2026-10-30",
       "last_1v1": "2026-11-04"
-    },
-    {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1943,
-      "max_1v1": 2003,
-      "cur_tg": 1439,
-      "max_tg": 1444,
-      "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-07",
-      "live": {
-        "match": 519499078,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 467847,

@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-07T22:15:09Z",
+  "updated_at": "2026-11-07T22:20:10Z",
   "baseline": {
     "taken_at": "2026-11-07T14:00:13Z",
     "ranks": {
@@ -51,7 +51,7 @@
       "profile_id": 9558892,
       "tag": "WilliamS",
       "clan": "LE",
-      "cur_1v1": 2353,
+      "cur_1v1": 2333,
       "max_1v1": 2446,
       "cur_tg": 1715,
       "max_tg": 1846,
@@ -239,12 +239,7 @@
       "cur_tg": 1551,
       "max_tg": 1719,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-03",
-      "live": {
-        "match": 519492190,
-        "game": "1v1 Empire Wars",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-03"
     }
   ],
   "show_top": 15
