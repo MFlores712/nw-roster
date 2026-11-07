@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-07T19:15:11Z",
+  "updated_at": "2026-11-07T19:20:09Z",
   "baseline": {
     "taken_at": "2026-11-07T14:00:13Z",
     "ranks": {
@@ -393,7 +393,7 @@
       "clan": "SotC",
       "cur_1v1": 2054,
       "max_1v1": 2098,
-      "cur_tg": 1602,
+      "cur_tg": 1614,
       "max_tg": 1870,
       "last_1v1": "2026-10-31",
       "last_tg": "2026-11-07",
@@ -599,13 +599,7 @@
       "cur_tg": 1820,
       "max_tg": 1821,
       "last_tg": "2026-10-16",
-      "last_1v1": "2026-09-18",
-      "live": {
-        "match": 519451031,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "[GDL]BetoxAOE"
-      }
+      "last_1v1": "2026-09-18"
     },
     {
       "profile_id": 324005,
