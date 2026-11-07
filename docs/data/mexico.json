@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-07T05:25:08Z",
+  "updated_at": "2026-11-07T05:30:10Z",
   "baseline": {
     "taken_at": "2026-11-06T14:00:17Z",
     "ranks": {
@@ -90,7 +90,12 @@
       "cur_tg": 1743,
       "max_tg": 1885,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-07"
+      "last_tg": "2026-11-07",
+      "live": {
+        "match": 519310814,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 13099159,
@@ -101,7 +106,12 @@
       "cur_tg": 1843,
       "max_tg": 1999,
       "last_1v1": "2026-10-31",
-      "last_tg": "2026-11-07"
+      "last_tg": "2026-11-07",
+      "live": {
+        "match": 519310814,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 9449579,
@@ -316,7 +326,12 @@
       "cur_tg": 1986,
       "max_tg": 1986,
       "last_1v1": "2026-11-06",
-      "last_tg": "2026-11-04"
+      "last_tg": "2026-11-04",
+      "live": {
+        "match": 519311253,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 1947348,
@@ -387,7 +402,13 @@
       "cur_tg": 1806,
       "max_tg": 1962,
       "last_1v1": "2026-11-04",
-      "last_tg": "2026-11-06"
+      "last_tg": "2026-11-06",
+      "live": {
+        "match": 519311253,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "Stalingrado"
+      }
     },
     {
       "profile_id": 1708286,
@@ -451,7 +472,12 @@
       "cur_tg": 1834,
       "max_tg": 1844,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-10-31"
+      "last_tg": "2026-10-31",
+      "live": {
+        "match": 519311141,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2291749,
