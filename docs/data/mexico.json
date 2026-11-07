@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-07T02:50:10Z",
+  "updated_at": "2026-11-07T02:55:09Z",
   "baseline": {
     "taken_at": "2026-11-06T14:00:17Z",
     "ranks": {
@@ -90,7 +90,12 @@
       "cur_tg": 1759,
       "max_tg": 1885,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-07"
+      "last_tg": "2026-11-07",
+      "live": {
+        "match": 519282968,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 13099159,
@@ -101,7 +106,12 @@
       "cur_tg": 1870,
       "max_tg": 1999,
       "last_1v1": "2026-10-31",
-      "last_tg": "2026-11-07"
+      "last_tg": "2026-11-07",
+      "live": {
+        "match": 519282968,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 9449579,
@@ -331,13 +341,7 @@
       "cur_tg": 1986,
       "max_tg": 1986,
       "last_1v1": "2026-11-06",
-      "last_tg": "2026-11-04",
-      "live": {
-        "match": 519279771,
-        "game": "Team Random Map",
-        "format": "3v3",
-        "account": "Chapulin Colorado"
-      }
+      "last_tg": "2026-11-04"
     },
     {
       "profile_id": 1947348,
@@ -408,13 +412,7 @@
       "cur_tg": 1806,
       "max_tg": 1962,
       "last_1v1": "2026-11-04",
-      "last_tg": "2026-11-06",
-      "live": {
-        "match": 519279771,
-        "game": "Team Random Map",
-        "format": "3v3",
-        "account": "Stalingrado"
-      }
+      "last_tg": "2026-11-06"
     },
     {
       "profile_id": 1708286,
