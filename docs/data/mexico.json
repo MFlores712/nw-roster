@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-07T01:50:09Z",
+  "updated_at": "2026-11-07T01:55:08Z",
   "baseline": {
     "taken_at": "2026-11-06T14:00:17Z",
     "ranks": {
@@ -90,7 +90,12 @@
       "cur_tg": 1765,
       "max_tg": 1885,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-07"
+      "last_tg": "2026-11-07",
+      "live": {
+        "match": 519270942,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 13099159,
@@ -101,7 +106,12 @@
       "cur_tg": 1882,
       "max_tg": 1999,
       "last_1v1": "2026-10-31",
-      "last_tg": "2026-11-06"
+      "last_tg": "2026-11-06",
+      "live": {
+        "match": 519270942,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 9449579,
@@ -131,12 +141,12 @@
       "clan": "hK",
       "cur_1v1": 2427,
       "max_1v1": 2433,
-      "cur_tg": 2006,
+      "cur_tg": 1994,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
       "last_tg": "2026-11-07",
       "live": {
-        "match": 519265036,
+        "match": 519271386,
         "game": "Team Random Map",
         "format": "4v4"
       }
@@ -196,7 +206,7 @@
       "last_tg": "2026-10-26",
       "last_1v1": "2026-10-24",
       "live": {
-        "match": 519265036,
+        "match": 519271386,
         "game": "Team Random Map",
         "format": "4v4",
         "account": "hK | RanDoM"
@@ -230,12 +240,12 @@
       "clan": "hK",
       "cur_1v1": 2314,
       "max_1v1": 2365,
-      "cur_tg": 2005,
+      "cur_tg": 1994,
       "max_tg": 2083,
       "last_1v1": "2026-11-06",
       "last_tg": "2026-11-07",
       "live": {
-        "match": 519265036,
+        "match": 519271386,
         "game": "Team Random Map",
         "format": "4v4"
       }
@@ -442,12 +452,12 @@
       "tag": "MooN",
       "cur_1v1": 2002,
       "max_1v1": 2002,
-      "cur_tg": 1736,
+      "cur_tg": 1730,
       "max_tg": 1885,
       "last_1v1": "2026-08-15",
-      "last_tg": "2026-11-05",
+      "last_tg": "2026-11-07",
       "live": {
-        "match": 519265036,
+        "match": 519271386,
         "game": "Team Random Map",
         "format": "4v4"
       }
@@ -462,6 +472,16 @@
       "max_tg": 1745,
       "last_tg": "2026-10-09",
       "last_1v1": "2026-10-24"
+    },
+    {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1971,
+      "max_1v1": 2003,
+      "cur_tg": 1428,
+      "max_tg": 1444,
+      "last_1v1": "2026-11-07",
+      "last_tg": "2026-11-07"
     },
     {
       "profile_id": 2291749,
@@ -526,21 +546,12 @@
       "cur_tg": 1718,
       "max_tg": 1824,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-11-01"
-    },
-    {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1953,
-      "max_1v1": 2003,
-      "cur_tg": 1428,
-      "max_tg": 1444,
-      "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-07",
+      "last_tg": "2026-11-01",
       "live": {
-        "match": 519268084,
+        "match": 519271679,
         "game": "1v1 Random Map",
-        "format": "1v1"
+        "format": "1v1",
+        "account": "jax_teller"
       }
     },
     {
@@ -634,14 +645,14 @@
       "profile_id": 358501,
       "tag": "El Claut_One",
       "clan": "VENÓN",
-      "cur_1v1": 1861,
+      "cur_1v1": 1849,
       "max_1v1": 2115,
       "cur_tg": 1719,
       "max_tg": 1820,
       "last_tg": "2026-11-04",
       "last_1v1": "2026-11-07",
       "live": {
-        "match": 519266115,
+        "match": 519271591,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
