@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-07T05:00:13Z",
+  "updated_at": "2026-11-07T05:05:08Z",
   "baseline": {
     "taken_at": "2026-11-06T14:00:17Z",
     "ranks": {
@@ -90,12 +90,7 @@
       "cur_tg": 1757,
       "max_tg": 1885,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-07",
-      "live": {
-        "match": 519302781,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-07"
     },
     {
       "profile_id": 13099159,
@@ -106,12 +101,7 @@
       "cur_tg": 1860,
       "max_tg": 1999,
       "last_1v1": "2026-10-31",
-      "last_tg": "2026-11-07",
-      "live": {
-        "match": 519302781,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-07"
     },
     {
       "profile_id": 9449579,
@@ -375,12 +365,7 @@
       "cur_tg": 1586,
       "max_tg": 1870,
       "last_1v1": "2026-10-31",
-      "last_tg": "2026-11-07",
-      "live": {
-        "match": 519304676,
-        "game": "Unranked",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-07"
     },
     {
       "profile_id": 9770338,
@@ -391,7 +376,13 @@
       "cur_tg": 1806,
       "max_tg": 1962,
       "last_1v1": "2026-11-04",
-      "last_tg": "2026-11-06"
+      "last_tg": "2026-11-06",
+      "live": {
+        "match": 519307548,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "Stalingrado"
+      }
     },
     {
       "profile_id": 1708286,
@@ -433,12 +424,7 @@
       "cur_tg": 1770,
       "max_tg": 1885,
       "last_1v1": "2026-08-15",
-      "last_tg": "2026-11-07",
-      "live": {
-        "match": 519305320,
-        "game": "Unranked",
-        "format": "FFA"
-      }
+      "last_tg": "2026-11-07"
     },
     {
       "profile_id": 6501299,
@@ -503,12 +489,7 @@
       "cur_tg": 1834,
       "max_tg": 1844,
       "last_1v1": "2026-11-06",
-      "last_tg": "2026-10-31",
-      "live": {
-        "match": 519305841,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-31"
     },
     {
       "profile_id": 13192381,
