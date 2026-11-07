@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-07T22:10:08Z",
+  "updated_at": "2026-11-07T22:30:11Z",
   "baseline": {
     "taken_at": "2026-11-07T14:00:13Z",
     "ranks": {
@@ -64,7 +64,7 @@
       "clan": "VL",
       "cur_1v1": 2161,
       "max_1v1": 2190,
-      "cur_tg": 1857,
+      "cur_tg": 1869,
       "max_tg": 1947,
       "last_1v1": "2026-10-28",
       "last_tg": "2026-11-07",
