@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-08T23:45:09Z",
+  "updated_at": "2026-11-08T23:50:09Z",
   "baseline": {
     "taken_at": "2026-11-08T14:00:14Z",
     "ranks": {
@@ -338,12 +338,7 @@
       "cur_tg": 1752,
       "max_tg": 2034,
       "last_1v1": "2026-07-08",
-      "last_tg": "2026-10-21",
-      "live": {
-        "match": 519804012,
-        "game": "Unranked",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-21"
     },
     {
       "profile_id": 13215279,
@@ -376,22 +371,6 @@
         "game": "1v1 Random Map",
         "format": "1v1",
         "account": "Chimirindo"
-      }
-    },
-    {
-      "profile_id": 1249720,
-      "tag": "Lice_Slide",
-      "clan": "VN",
-      "cur_1v1": 2056,
-      "max_1v1": 2121,
-      "cur_tg": 1819,
-      "max_tg": 1997,
-      "last_1v1": "2026-11-08",
-      "last_tg": "2026-11-06",
-      "live": {
-        "match": 519800964,
-        "game": "1v1 Random Map",
-        "format": "1v1"
       }
     },
     {
@@ -441,6 +420,17 @@
         "game": "1v1 Random Map",
         "format": "1v1"
       }
+    },
+    {
+      "profile_id": 1249720,
+      "tag": "Lice_Slide",
+      "clan": "VN",
+      "cur_1v1": 2040,
+      "max_1v1": 2121,
+      "cur_tg": 1819,
+      "max_tg": 1997,
+      "last_1v1": "2026-11-08",
+      "last_tg": "2026-11-06"
     },
     {
       "profile_id": 9770338,
