@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-08T04:20:09Z",
+  "updated_at": "2026-11-08T04:25:08Z",
   "baseline": {
     "taken_at": "2026-11-07T14:00:13Z",
     "ranks": {
@@ -195,7 +195,13 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 519578137,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "hK | RanDoM"
+      }
     },
     {
       "profile_id": 580573,
@@ -359,13 +365,7 @@
       "cur_tg": 1659,
       "max_tg": 1820,
       "last_1v1": "2026-11-03",
-      "last_tg": "2026-11-06",
-      "live": {
-        "match": 519573659,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "Chimirindo"
-      }
+      "last_tg": "2026-11-06"
     },
     {
       "profile_id": 400111,
@@ -431,10 +431,10 @@
       "tag": "MooN",
       "cur_1v1": 2002,
       "max_1v1": 2002,
-      "cur_tg": 1789,
+      "cur_tg": 1784,
       "max_tg": 1885,
       "last_1v1": "2026-08-15",
-      "last_tg": "2026-11-07",
+      "last_tg": "2026-11-08",
       "live": {
         "match": 519574152,
         "game": "Team Random Map",
