@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-08T06:35:08Z",
+  "updated_at": "2026-11-08T06:45:08Z",
   "baseline": {
     "taken_at": "2026-11-07T14:00:13Z",
     "ranks": {
@@ -112,13 +112,7 @@
       "cur_tg": 2140,
       "max_tg": 2151,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-10-15",
-      "live": {
-        "match": 519596160,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "[GDL] Chuchito"
-      }
+      "last_tg": "2026-10-15"
     },
     {
       "profile_id": 401359,
@@ -231,22 +225,6 @@
       "last_tg": "2026-11-07"
     },
     {
-      "profile_id": 310739,
-      "tag": "SoyLaHostia",
-      "clan": "hK",
-      "cur_1v1": 2311,
-      "max_1v1": 2484,
-      "cur_tg": 1833,
-      "max_tg": 1959,
-      "last_1v1": "2026-11-06",
-      "last_tg": "2026-11-06",
-      "live": {
-        "match": 519594632,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 9666666,
       "tag": "Guki",
       "cur_1v1": 2302,
@@ -270,6 +248,17 @@
       "last_tg": "2026-11-05"
     },
     {
+      "profile_id": 310739,
+      "tag": "SoyLaHostia",
+      "clan": "hK",
+      "cur_1v1": 2289,
+      "max_1v1": 2484,
+      "cur_tg": 1833,
+      "max_tg": 1959,
+      "last_1v1": "2026-11-08",
+      "last_tg": "2026-11-06"
+    },
+    {
       "profile_id": 914665,
       "tag": "Caguamas",
       "clan": "nW",
@@ -278,7 +267,12 @@
       "cur_tg": 1814,
       "max_tg": 2024,
       "last_1v1": "2026-11-05",
-      "last_tg": "2026-11-08"
+      "last_tg": "2026-11-08",
+      "live": {
+        "match": 519598862,
+        "game": "Unranked",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 3816609,
@@ -289,7 +283,12 @@
       "cur_tg": 1850,
       "max_tg": 1855,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-08"
+      "last_tg": "2026-11-08",
+      "live": {
+        "match": 519598862,
+        "game": "Unranked",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 917863,
@@ -321,7 +320,12 @@
       "cur_tg": 1978,
       "max_tg": 1993,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-07"
+      "last_tg": "2026-11-07",
+      "live": {
+        "match": 519598862,
+        "game": "Unranked",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 1947348,
@@ -397,7 +401,13 @@
       "cur_tg": 1838,
       "max_tg": 1962,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-07"
+      "last_tg": "2026-11-07",
+      "live": {
+        "match": 519598862,
+        "game": "Unranked",
+        "format": "4v4",
+        "account": "Stalingrado"
+      }
     },
     {
       "profile_id": 2934597,
@@ -451,7 +461,12 @@
       "cur_tg": 1834,
       "max_tg": 1844,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-10-31"
+      "last_tg": "2026-10-31",
+      "live": {
+        "match": 519598862,
+        "game": "Unranked",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 2291749,
