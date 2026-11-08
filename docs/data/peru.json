@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-08T12:10:08Z",
+  "updated_at": "2026-11-08T12:15:10Z",
   "baseline": {
     "taken_at": "2026-11-07T14:00:13Z",
     "ranks": {
@@ -122,22 +122,6 @@
       "last_1v1": "2026-09-24"
     },
     {
-      "profile_id": 1359694,
-      "tag": "AtilA",
-      "clan": "nW",
-      "cur_1v1": 2020,
-      "max_1v1": 2123,
-      "cur_tg": 1622,
-      "max_tg": 1670,
-      "last_tg": "2026-11-01",
-      "last_1v1": "2026-11-07",
-      "live": {
-        "match": 519644401,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 4229962,
       "tag": "Réyiman",
       "clan": "LvSP",
@@ -161,13 +145,18 @@
       "cur_tg": 1746,
       "max_tg": 1843,
       "last_tg": "2026-11-08",
-      "last_1v1": "2026-11-08",
-      "live": {
-        "match": 519642360,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "CTM | Lelouch Jogo Bonito"
-      }
+      "last_1v1": "2026-11-08"
+    },
+    {
+      "profile_id": 1359694,
+      "tag": "AtilA",
+      "clan": "nW",
+      "cur_1v1": 2003,
+      "max_1v1": 2123,
+      "cur_tg": 1622,
+      "max_tg": 1670,
+      "last_tg": "2026-11-01",
+      "last_1v1": "2026-11-08"
     },
     {
       "profile_id": 13518993,
