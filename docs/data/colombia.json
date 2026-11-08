@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-08T00:05:09Z",
+  "updated_at": "2026-11-08T00:25:09Z",
   "baseline": {
     "taken_at": "2026-11-07T14:00:13Z",
     "ranks": {
@@ -70,22 +70,6 @@
       "last_tg": "2026-11-07"
     },
     {
-      "profile_id": 1743420,
-      "tag": "OliverAtom",
-      "clan": "NuMa",
-      "cur_1v1": 2036,
-      "max_1v1": 2193,
-      "cur_tg": 1575,
-      "max_tg": 1772,
-      "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-08",
-      "live": {
-        "match": 519528383,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 2955183,
       "tag": "JOLIAT",
       "cur_1v1": 2033,
@@ -94,6 +78,17 @@
       "max_tg": 1710,
       "last_1v1": "2026-11-07",
       "last_tg": "2026-10-17"
+    },
+    {
+      "profile_id": 1743420,
+      "tag": "OliverAtom",
+      "clan": "NuMa",
+      "cur_1v1": 2025,
+      "max_1v1": 2193,
+      "cur_tg": 1575,
+      "max_tg": 1772,
+      "last_1v1": "2026-11-08",
+      "last_tg": "2026-11-08"
     },
     {
       "profile_id": 2955846,
