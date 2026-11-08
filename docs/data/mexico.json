@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-08T21:25:10Z",
+  "updated_at": "2026-11-08T21:30:11Z",
   "baseline": {
     "taken_at": "2026-11-08T14:00:14Z",
     "ranks": {
@@ -136,15 +136,10 @@
       "clan": "hK",
       "cur_1v1": 2427,
       "max_1v1": 2433,
-      "cur_tg": 2020,
+      "cur_tg": 2032,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-11-08",
-      "live": {
-        "match": 519769173,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-08"
     },
     {
       "profile_id": 2598146,
@@ -163,15 +158,10 @@
       "clan": "VENÓN",
       "cur_1v1": 2349,
       "max_1v1": 2377,
-      "cur_tg": 1959,
+      "cur_tg": 1947,
       "max_tg": 1959,
-      "last_tg": "2026-11-07",
-      "last_1v1": "2026-11-05",
-      "live": {
-        "match": 519769173,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-08",
+      "last_1v1": "2026-11-05"
     },
     {
       "profile_id": 1485562,
@@ -234,15 +224,10 @@
       "clan": "hK",
       "cur_1v1": 2314,
       "max_1v1": 2365,
-      "cur_tg": 2020,
+      "cur_tg": 2032,
       "max_tg": 2083,
       "last_1v1": "2026-11-06",
-      "last_tg": "2026-11-08",
-      "live": {
-        "match": 519769173,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-08"
     },
     {
       "profile_id": 9666666,
@@ -349,12 +334,12 @@
       "clan": "MZTK",
       "cur_1v1": 2079,
       "max_1v1": 2093,
-      "cur_tg": 1695,
+      "cur_tg": 1713,
       "max_tg": 1860,
       "last_1v1": "2026-11-01",
       "last_tg": "2026-11-08",
       "live": {
-        "match": 519769138,
+        "match": 519756847,
         "game": "Team Random Map",
         "format": "4v4"
       }
