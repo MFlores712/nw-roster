@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-08T17:45:10Z",
+  "updated_at": "2026-11-08T17:50:10Z",
   "baseline": {
     "taken_at": "2026-11-08T14:00:14Z",
     "ranks": {
@@ -211,7 +211,13 @@
       "cur_tg": 1938,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-11-07"
+      "last_tg": "2026-11-07",
+      "live": {
+        "match": 519719954,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "FierroFlash"
+      }
     },
     {
       "profile_id": 4412109,
