@@ -1,6 +1,6 @@
 {
   "name": "new Wave",
-  "updated_at": "2026-11-08T21:05:09Z",
+  "updated_at": "2026-11-08T21:10:10Z",
   "baseline": {
     "taken_at": "2026-11-08T14:00:14Z",
     "ranks": {
@@ -49,7 +49,7 @@
       "last_1v1": "2026-11-08",
       "last_tg": "2026-11-08",
       "live": {
-        "match": 519763253,
+        "match": 519770273,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
