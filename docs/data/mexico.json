@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-08T03:10:08Z",
+  "updated_at": "2026-11-08T03:15:09Z",
   "baseline": {
     "taken_at": "2026-11-07T14:00:13Z",
     "ranks": {
@@ -60,6 +60,22 @@
   },
   "players": [
     {
+      "profile_id": 5984120,
+      "tag": "Combito",
+      "clan": "Ux",
+      "cur_1v1": 2669,
+      "max_1v1": 2790,
+      "cur_tg": 1658,
+      "max_tg": 1885,
+      "last_1v1": "2026-11-08",
+      "last_tg": "2026-11-08",
+      "live": {
+        "match": 519564710,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 2776293,
       "tag": "Kingstone",
       "clan": "Oni",
@@ -69,22 +85,6 @@
       "max_tg": 2169,
       "last_tg": "2026-10-08",
       "last_1v1": "2026-11-06"
-    },
-    {
-      "profile_id": 5984120,
-      "tag": "Combito",
-      "clan": "Ux",
-      "cur_1v1": 2665,
-      "max_1v1": 2790,
-      "cur_tg": 1658,
-      "max_tg": 1885,
-      "last_1v1": "2026-11-08",
-      "last_tg": "2026-11-08",
-      "live": {
-        "match": 519560546,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 2920057,
@@ -119,9 +119,9 @@
       "last_1v1": "2026-11-07",
       "last_tg": "2026-10-15",
       "live": {
-        "match": 519556695,
+        "match": 519564764,
         "game": "Team Random Map",
-        "format": "3v3",
+        "format": "4v4",
         "account": "[GDL] Chuchito"
       }
     },
@@ -278,7 +278,12 @@
       "cur_tg": 1806,
       "max_tg": 2024,
       "last_1v1": "2026-11-05",
-      "last_tg": "2026-11-04"
+      "last_tg": "2026-11-04",
+      "live": {
+        "match": 519564257,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 3816609,
@@ -368,15 +373,10 @@
       "clan": "VL",
       "cur_1v1": 2055,
       "max_1v1": 2089,
-      "cur_tg": 1847,
+      "cur_tg": 1858,
       "max_tg": 1867,
       "last_1v1": "2026-06-27",
-      "last_tg": "2026-11-07",
-      "live": {
-        "match": 519561503,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-08"
     },
     {
       "profile_id": 1261126,
@@ -568,22 +568,6 @@
       "last_1v1": "2026-09-18"
     },
     {
-      "profile_id": 13241217,
-      "tag": "BlueUltra",
-      "clan": "Ux",
-      "cur_1v1": 1928,
-      "max_1v1": 1997,
-      "cur_tg": 1660,
-      "max_tg": 1688,
-      "last_1v1": "2026-11-08",
-      "last_tg": "2026-11-07",
-      "live": {
-        "match": 519558577,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 3254820,
       "tag": "__Chino",
       "cur_1v1": 1917,
@@ -591,6 +575,17 @@
       "cur_tg": 1439,
       "max_tg": 1444,
       "last_1v1": "2026-11-07",
+      "last_tg": "2026-11-07"
+    },
+    {
+      "profile_id": 13241217,
+      "tag": "BlueUltra",
+      "clan": "Ux",
+      "cur_1v1": 1913,
+      "max_1v1": 1997,
+      "cur_tg": 1660,
+      "max_tg": 1688,
+      "last_1v1": "2026-11-08",
       "last_tg": "2026-11-07"
     },
     {
