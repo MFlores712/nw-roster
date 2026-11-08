@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-08T08:15:10Z",
+  "updated_at": "2026-11-08T08:20:08Z",
   "baseline": {
     "taken_at": "2026-11-07T14:00:13Z",
     "ranks": {
@@ -307,15 +307,10 @@
       "clan": "hK",
       "cur_1v1": 2119,
       "max_1v1": 2233,
-      "cur_tg": 1978,
+      "cur_tg": 1961,
       "max_tg": 1993,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-07",
-      "live": {
-        "match": 519609066,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-08"
     },
     {
       "profile_id": 1947348,
@@ -391,13 +386,7 @@
       "cur_tg": 1838,
       "max_tg": 1962,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-07",
-      "live": {
-        "match": 519609066,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "Stalingrado"
-      }
+      "last_tg": "2026-11-07"
     },
     {
       "profile_id": 2934597,
@@ -548,7 +537,13 @@
       "cur_tg": 1820,
       "max_tg": 1821,
       "last_tg": "2026-10-16",
-      "last_1v1": "2026-09-18"
+      "last_1v1": "2026-09-18",
+      "live": {
+        "match": 519612070,
+        "game": "Unranked",
+        "format": "4v4",
+        "account": "[GDL]CemenTox"
+      }
     },
     {
       "profile_id": 3254820,
