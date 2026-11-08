@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-08T12:35:08Z",
+  "updated_at": "2026-11-08T12:40:08Z",
   "baseline": {
     "taken_at": "2026-11-07T14:00:13Z",
     "ranks": {
@@ -145,7 +145,13 @@
       "cur_tg": 1746,
       "max_tg": 1843,
       "last_tg": "2026-11-08",
-      "last_1v1": "2026-11-08"
+      "last_1v1": "2026-11-08",
+      "live": {
+        "match": 519650263,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "CTM | Lelouch Jogo Bonito"
+      }
     },
     {
       "profile_id": 1359694,
