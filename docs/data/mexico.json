@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-08T03:00:14Z",
+  "updated_at": "2026-11-08T03:05:07Z",
   "baseline": {
     "taken_at": "2026-11-07T14:00:13Z",
     "ranks": {
@@ -354,13 +354,7 @@
       "cur_tg": 1659,
       "max_tg": 1820,
       "last_1v1": "2026-11-03",
-      "last_tg": "2026-11-06",
-      "live": {
-        "match": 519554679,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "Chimirindo"
-      }
+      "last_tg": "2026-11-06"
     },
     {
       "profile_id": 400111,
