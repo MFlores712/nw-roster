@@ -1,6 +1,6 @@
 {
   "name": "new Wave",
-  "updated_at": "2026-11-08T06:45:08Z",
+  "updated_at": "2026-11-08T07:10:09Z",
   "baseline": {
     "taken_at": "2026-11-07T14:00:13Z",
     "ranks": {
@@ -25,12 +25,7 @@
       "cur_tg": 1894,
       "max_tg": 1933,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-08",
-      "live": {
-        "match": 519598862,
-        "game": "Unranked",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-08"
     },
     {
       "profile_id": 914665,
@@ -41,12 +36,7 @@
       "cur_tg": 1814,
       "max_tg": 2024,
       "last_1v1": "2026-11-05",
-      "last_tg": "2026-11-08",
-      "live": {
-        "match": 519598862,
-        "game": "Unranked",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-08"
     },
     {
       "profile_id": 3816609,
@@ -57,12 +47,7 @@
       "cur_tg": 1850,
       "max_tg": 1855,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-08",
-      "live": {
-        "match": 519598862,
-        "game": "Unranked",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-08"
     },
     {
       "profile_id": 1947348,
@@ -117,12 +102,7 @@
       "cur_tg": 1834,
       "max_tg": 1844,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-10-31",
-      "live": {
-        "match": 519598862,
-        "game": "Unranked",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-31"
     }
   ]
 }
