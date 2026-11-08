@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-08T02:30:11Z",
+  "updated_at": "2026-11-08T02:35:08Z",
   "baseline": {
     "taken_at": "2026-11-07T14:00:13Z",
     "ranks": {
@@ -122,7 +122,13 @@
       "cur_tg": 2140,
       "max_tg": 2151,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-10-15"
+      "last_tg": "2026-10-15",
+      "live": {
+        "match": 519556695,
+        "game": "Team Random Map",
+        "format": "3v3",
+        "account": "[GDL] Chuchito"
+      }
     },
     {
       "profile_id": 401359,
