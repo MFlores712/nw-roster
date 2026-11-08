@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-08T05:25:08Z",
+  "updated_at": "2026-11-08T05:35:09Z",
   "baseline": {
     "taken_at": "2026-11-07T14:00:13Z",
     "ranks": {
@@ -284,12 +284,7 @@
       "cur_tg": 1814,
       "max_tg": 2024,
       "last_1v1": "2026-11-05",
-      "last_tg": "2026-11-08",
-      "live": {
-        "match": 519585615,
-        "game": "Unranked",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-08"
     },
     {
       "profile_id": 3816609,
@@ -300,12 +295,7 @@
       "cur_tg": 1850,
       "max_tg": 1855,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-08",
-      "live": {
-        "match": 519585615,
-        "game": "Unranked",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-08"
     },
     {
       "profile_id": 917863,
@@ -337,12 +327,7 @@
       "cur_tg": 1978,
       "max_tg": 1993,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-07",
-      "live": {
-        "match": 519585615,
-        "game": "Unranked",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-07"
     },
     {
       "profile_id": 1947348,
@@ -424,13 +409,7 @@
       "cur_tg": 1838,
       "max_tg": 1962,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-07",
-      "live": {
-        "match": 519585615,
-        "game": "Unranked",
-        "format": "4v4",
-        "account": "Stalingrado"
-      }
+      "last_tg": "2026-11-07"
     },
     {
       "profile_id": 2934597,
@@ -489,12 +468,7 @@
       "cur_tg": 1834,
       "max_tg": 1844,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-10-31",
-      "live": {
-        "match": 519585615,
-        "game": "Unranked",
-        "format": "4v4"
-      }
+      "last_tg": "2026-10-31"
     },
     {
       "profile_id": 2291749,
