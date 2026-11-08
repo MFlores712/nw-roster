@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-08T01:45:09Z",
+  "updated_at": "2026-11-08T01:50:09Z",
   "baseline": {
     "taken_at": "2026-11-07T14:00:13Z",
     "ranks": {
@@ -71,6 +71,17 @@
       "last_1v1": "2026-11-06"
     },
     {
+      "profile_id": 5984120,
+      "tag": "Combito",
+      "clan": "Ux",
+      "cur_1v1": 2657,
+      "max_1v1": 2790,
+      "cur_tg": 1658,
+      "max_tg": 1885,
+      "last_1v1": "2026-11-08",
+      "last_tg": "2026-11-08"
+    },
+    {
       "profile_id": 2920057,
       "tag": "Lobo",
       "clan": "Ux",
@@ -84,22 +95,6 @@
         "match": 519545686,
         "game": "Team Random Map",
         "format": "4v4"
-      }
-    },
-    {
-      "profile_id": 5984120,
-      "tag": "Combito",
-      "clan": "Ux",
-      "cur_1v1": 2641,
-      "max_1v1": 2790,
-      "cur_tg": 1658,
-      "max_tg": 1885,
-      "last_1v1": "2026-11-08",
-      "last_tg": "2026-11-08",
-      "live": {
-        "match": 519542986,
-        "game": "1v1 Random Map",
-        "format": "1v1"
       }
     },
     {
@@ -558,7 +553,13 @@
       "cur_tg": 1820,
       "max_tg": 1821,
       "last_tg": "2026-10-16",
-      "last_1v1": "2026-09-18"
+      "last_1v1": "2026-09-18",
+      "live": {
+        "match": 519545823,
+        "game": "Unranked",
+        "format": "4v4",
+        "account": "[GDL]CemenTox"
+      }
     },
     {
       "profile_id": 3254820,
