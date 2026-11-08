@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-08T23:15:09Z",
+  "updated_at": "2026-11-08T23:25:07Z",
   "baseline": {
     "taken_at": "2026-11-08T14:00:14Z",
     "ranks": {
@@ -90,7 +90,12 @@
       "cur_tg": 2111,
       "max_tg": 2173,
       "last_1v1": "2026-10-29",
-      "last_tg": "2026-11-08"
+      "last_tg": "2026-11-08",
+      "live": {
+        "match": 519800217,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 13099159,
@@ -194,7 +199,13 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 519801063,
+        "game": "Team Random Map",
+        "format": "2v2",
+        "account": "hK | RanDoM"
+      }
     },
     {
       "profile_id": 580573,
@@ -218,9 +229,9 @@
       "last_1v1": "2026-10-17",
       "last_tg": "2026-11-08",
       "live": {
-        "match": 519794807,
-        "game": "1v1 Random Map",
-        "format": "1v1",
+        "match": 519801063,
+        "game": "Team Random Map",
+        "format": "2v2",
         "account": "FierroFlash"
       }
     },
@@ -372,6 +383,22 @@
       "last_tg": "2026-11-06"
     },
     {
+      "profile_id": 1249720,
+      "tag": "Lice_Slide",
+      "clan": "VN",
+      "cur_1v1": 2056,
+      "max_1v1": 2121,
+      "cur_tg": 1819,
+      "max_tg": 1997,
+      "last_1v1": "2026-11-08",
+      "last_tg": "2026-11-06",
+      "live": {
+        "match": 519800964,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 400111,
       "tag": "Mibel",
       "clan": "VL",
@@ -392,22 +419,6 @@
       "max_tg": 1870,
       "last_1v1": "2026-10-31",
       "last_tg": "2026-11-08"
-    },
-    {
-      "profile_id": 1249720,
-      "tag": "Lice_Slide",
-      "clan": "VN",
-      "cur_1v1": 2045,
-      "max_1v1": 2121,
-      "cur_tg": 1819,
-      "max_tg": 1997,
-      "last_1v1": "2026-11-08",
-      "last_tg": "2026-11-06",
-      "live": {
-        "match": 519797729,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 1708286,
