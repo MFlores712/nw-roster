@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-08T23:00:14Z",
+  "updated_at": "2026-11-08T23:05:09Z",
   "baseline": {
     "taken_at": "2026-11-08T14:00:14Z",
     "ranks": {
@@ -45,23 +45,23 @@
       "cur_tg": 1892,
       "max_tg": 1935,
       "last_1v1": "2026-11-08",
-      "last_tg": "2026-11-02"
+      "last_tg": "2026-11-02",
+      "live": {
+        "match": 519796904,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 9558892,
       "tag": "WilliamS",
       "clan": "LE",
-      "cur_1v1": 2319,
+      "cur_1v1": 2297,
       "max_1v1": 2446,
       "cur_tg": 1707,
       "max_tg": 1846,
       "last_1v1": "2026-11-08",
-      "last_tg": "2026-11-08",
-      "live": {
-        "match": 519792347,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-08"
     },
     {
       "profile_id": 4706179,
@@ -93,7 +93,12 @@
       "cur_tg": 1555,
       "max_tg": 1834,
       "last_1v1": "2026-10-31",
-      "last_tg": "2026-11-08"
+      "last_tg": "2026-11-08",
+      "live": {
+        "match": 519793964,
+        "game": "Unranked",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 633255,
@@ -146,7 +151,12 @@
       "cur_tg": 1622,
       "max_tg": 1670,
       "last_tg": "2026-11-01",
-      "last_1v1": "2026-11-08"
+      "last_1v1": "2026-11-08",
+      "live": {
+        "match": 519793964,
+        "game": "Unranked",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2366434,
