@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-08T18:45:10Z",
+  "updated_at": "2026-11-08T18:50:09Z",
   "baseline": {
     "taken_at": "2026-11-08T14:00:14Z",
     "ranks": {
@@ -131,15 +131,10 @@
       "clan": "hK",
       "cur_1v1": 2427,
       "max_1v1": 2433,
-      "cur_tg": 2010,
+      "cur_tg": 2017,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-11-07",
-      "live": {
-        "match": 519726728,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-11-08"
     },
     {
       "profile_id": 2598146,
@@ -194,13 +189,7 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 519726728,
-        "game": "Team Random Map",
-        "format": "3v3",
-        "account": "hK | RanDoM"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 580573,
@@ -230,15 +219,10 @@
       "clan": "hK",
       "cur_1v1": 2314,
       "max_1v1": 2365,
-      "cur_tg": 2010,
+      "cur_tg": 2017,
       "max_tg": 2083,
       "last_1v1": "2026-11-06",
-      "last_tg": "2026-11-07",
-      "live": {
-        "match": 519726728,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-11-08"
     },
     {
       "profile_id": 9666666,
@@ -345,14 +329,14 @@
       "clan": "MZTK",
       "cur_1v1": 2079,
       "max_1v1": 2093,
-      "cur_tg": 1717,
+      "cur_tg": 1711,
       "max_tg": 1860,
       "last_1v1": "2026-11-01",
       "last_tg": "2026-11-08",
       "live": {
-        "match": 519726728,
+        "match": 519734411,
         "game": "Team Random Map",
-        "format": "3v3"
+        "format": "4v4"
       }
     },
     {
@@ -372,12 +356,12 @@
       "clan": "VL",
       "cur_1v1": 2055,
       "max_1v1": 2089,
-      "cur_tg": 1843,
+      "cur_tg": 1853,
       "max_tg": 1867,
       "last_1v1": "2026-06-27",
       "last_tg": "2026-11-08",
       "live": {
-        "match": 519728965,
+        "match": 519734704,
         "game": "Team Random Map",
         "format": "4v4"
       }
@@ -423,7 +407,12 @@
       "cur_tg": 1731,
       "max_tg": 1747,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-10-27"
+      "last_tg": "2026-10-27",
+      "live": {
+        "match": 519733674,
+        "game": "Unranked",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 1249720,
@@ -434,7 +423,12 @@
       "cur_tg": 1819,
       "max_tg": 1997,
       "last_1v1": "2026-11-08",
-      "last_tg": "2026-11-06"
+      "last_tg": "2026-11-06",
+      "live": {
+        "match": 519733956,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 233625,
@@ -520,13 +514,7 @@
       "cur_tg": 1718,
       "max_tg": 1824,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-11-01",
-      "live": {
-        "match": 519729927,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "jax_teller"
-      }
+      "last_tg": "2026-11-01"
     },
     {
       "profile_id": 2986966,
