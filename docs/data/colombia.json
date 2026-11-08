@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-08T21:15:08Z",
+  "updated_at": "2026-11-08T21:25:10Z",
   "baseline": {
     "taken_at": "2026-11-08T14:00:14Z",
     "ranks": {
@@ -172,22 +172,6 @@
       "last_tg": "2026-11-05"
     },
     {
-      "profile_id": 12930522,
-      "tag": "Kevin",
-      "clan": "VENÓN",
-      "cur_1v1": 1826,
-      "max_1v1": 1908,
-      "cur_tg": 1802,
-      "max_tg": 1893,
-      "last_tg": "2026-11-07",
-      "last_1v1": "2026-11-08",
-      "live": {
-        "match": 519764789,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 10733016,
       "tag": "The .Gocho",
       "cur_1v1": 1814,
@@ -196,6 +180,17 @@
       "max_tg": 1839,
       "last_tg": "2026-10-25",
       "last_1v1": "2026-10-09"
+    },
+    {
+      "profile_id": 12930522,
+      "tag": "Kevin",
+      "clan": "VENÓN",
+      "cur_1v1": 1808,
+      "max_1v1": 1908,
+      "cur_tg": 1802,
+      "max_tg": 1893,
+      "last_tg": "2026-11-07",
+      "last_1v1": "2026-11-08"
     },
     {
       "profile_id": 5981761,
