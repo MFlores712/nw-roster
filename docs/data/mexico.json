@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-08T10:40:09Z",
+  "updated_at": "2026-11-08T11:15:09Z",
   "baseline": {
     "taken_at": "2026-11-07T14:00:13Z",
     "ranks": {
@@ -273,17 +273,12 @@
       "profile_id": 3816609,
       "tag": "iamkaito",
       "clan": "nW",
-      "cur_1v1": 2199,
+      "cur_1v1": 2211,
       "max_1v1": 2304,
       "cur_tg": 1850,
       "max_tg": 1855,
       "last_1v1": "2026-11-08",
-      "last_tg": "2026-11-08",
-      "live": {
-        "match": 519629814,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-08"
     },
     {
       "profile_id": 917863,
@@ -312,15 +307,10 @@
       "clan": "hK",
       "cur_1v1": 2119,
       "max_1v1": 2233,
-      "cur_tg": 1994,
+      "cur_tg": 1971,
       "max_tg": 1994,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-08",
-      "live": {
-        "match": 519630700,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-08"
     },
     {
       "profile_id": 1947348,
@@ -396,13 +386,7 @@
       "cur_tg": 1838,
       "max_tg": 1962,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-07",
-      "live": {
-        "match": 519630700,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "Stalingrado"
-      }
+      "last_tg": "2026-11-07"
     },
     {
       "profile_id": 2934597,
