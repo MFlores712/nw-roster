@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-08T03:40:08Z",
+  "updated_at": "2026-11-08T03:45:10Z",
   "baseline": {
     "taken_at": "2026-11-07T14:00:13Z",
     "ranks": {
@@ -63,17 +63,12 @@
       "profile_id": 5984120,
       "tag": "Combito",
       "clan": "Ux",
-      "cur_1v1": 2669,
+      "cur_1v1": 2675,
       "max_1v1": 2790,
       "cur_tg": 1658,
       "max_tg": 1885,
       "last_1v1": "2026-11-08",
-      "last_tg": "2026-11-08",
-      "live": {
-        "match": 519564710,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-08"
     },
     {
       "profile_id": 2776293,
@@ -289,7 +284,12 @@
       "cur_tg": 1791,
       "max_tg": 2024,
       "last_1v1": "2026-11-05",
-      "last_tg": "2026-11-08"
+      "last_tg": "2026-11-08",
+      "live": {
+        "match": 519570066,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 3816609,
@@ -300,7 +300,12 @@
       "cur_tg": 1831,
       "max_tg": 1852,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-06"
+      "last_tg": "2026-11-06",
+      "live": {
+        "match": 519570066,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 917863,
@@ -365,7 +370,13 @@
       "cur_tg": 1659,
       "max_tg": 1820,
       "last_1v1": "2026-11-03",
-      "last_tg": "2026-11-06"
+      "last_tg": "2026-11-06",
+      "live": {
+        "match": 519570592,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "Chimirindo"
+      }
     },
     {
       "profile_id": 400111,
@@ -376,7 +387,12 @@
       "cur_tg": 1858,
       "max_tg": 1867,
       "last_1v1": "2026-06-27",
-      "last_tg": "2026-11-08"
+      "last_tg": "2026-11-08",
+      "live": {
+        "match": 519570113,
+        "game": "Unranked",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 1261126,
@@ -462,7 +478,12 @@
       "cur_tg": 1834,
       "max_tg": 1844,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-10-31"
+      "last_tg": "2026-10-31",
+      "live": {
+        "match": 519570113,
+        "game": "Unranked",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2291749,
@@ -572,7 +593,7 @@
       "last_1v1": "2026-11-08",
       "last_tg": "2026-11-07",
       "live": {
-        "match": 519565046,
+        "match": 519570874,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
