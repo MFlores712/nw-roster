@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-08T23:40:10Z",
+  "updated_at": "2026-11-08T23:45:09Z",
   "baseline": {
     "taken_at": "2026-11-08T14:00:14Z",
     "ranks": {
@@ -231,13 +231,13 @@
       "tag": "_The_Oldergold",
       "cur_1v1": 1777,
       "max_1v1": 1940,
-      "cur_tg": 1570,
+      "cur_tg": 1579,
       "max_tg": 1719,
       "last_1v1": "2026-11-08",
       "last_tg": "2026-11-08",
       "live": {
-        "match": 519801723,
-        "game": "Team Random Map",
+        "match": 519804733,
+        "game": "Team Empire Wars",
         "format": "4v4"
       }
     }
