@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-08T17:20:09Z",
+  "updated_at": "2026-11-08T17:25:09Z",
   "baseline": {
     "taken_at": "2026-11-08T14:00:14Z",
     "ranks": {
@@ -174,20 +174,9 @@
       "last_tg": "2026-10-25"
     },
     {
-      "profile_id": 4210400,
-      "tag": "Darwiz1233",
-      "clan": "LE",
-      "cur_1v1": 1931,
-      "max_1v1": 2130,
-      "cur_tg": 1621,
-      "max_tg": 2009,
-      "last_tg": "2026-10-12",
-      "last_1v1": "2026-10-01"
-    },
-    {
       "profile_id": 3034651,
       "tag": "KinG of QUILLA",
-      "cur_1v1": 1921,
+      "cur_1v1": 1939,
       "max_1v1": 2035,
       "cur_tg": 1526,
       "max_tg": 1657,
@@ -198,6 +187,17 @@
         "game": "1v1 Random Map",
         "format": "1v1"
       }
+    },
+    {
+      "profile_id": 4210400,
+      "tag": "Darwiz1233",
+      "clan": "LE",
+      "cur_1v1": 1931,
+      "max_1v1": 2130,
+      "cur_tg": 1621,
+      "max_tg": 2009,
+      "last_tg": "2026-10-12",
+      "last_1v1": "2026-10-01"
     },
     {
       "profile_id": 1865687,
@@ -229,7 +229,12 @@
       "cur_tg": 1570,
       "max_tg": 1719,
       "last_1v1": "2026-11-08",
-      "last_tg": "2026-11-08"
+      "last_tg": "2026-11-08",
+      "live": {
+        "match": 519714790,
+        "game": "Team Empire Wars",
+        "format": "3v3"
+      }
     }
   ],
   "show_top": 15
