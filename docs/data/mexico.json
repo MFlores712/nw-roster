@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-08T05:15:08Z",
+  "updated_at": "2026-11-08T05:20:10Z",
   "baseline": {
     "taken_at": "2026-11-07T14:00:13Z",
     "ranks": {
@@ -200,7 +200,13 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 519587203,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "hK | RanDoM"
+      }
     },
     {
       "profile_id": 580573,
@@ -369,7 +375,13 @@
       "cur_tg": 1659,
       "max_tg": 1820,
       "last_1v1": "2026-11-03",
-      "last_tg": "2026-11-06"
+      "last_tg": "2026-11-06",
+      "live": {
+        "match": 519586864,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "Chimirindo"
+      }
     },
     {
       "profile_id": 400111,
@@ -625,10 +637,21 @@
       "last_1v1": "2026-11-07"
     },
     {
+      "profile_id": 2926018,
+      "tag": "PerezPodrido",
+      "clan": "SotC",
+      "cur_1v1": 1870,
+      "max_1v1": 2039,
+      "cur_tg": 1686,
+      "max_tg": 1888,
+      "last_1v1": "2026-11-06",
+      "last_tg": "2026-11-04"
+    },
+    {
       "profile_id": 13241217,
       "tag": "BlueUltra",
       "clan": "Ux",
-      "cur_1v1": 1885,
+      "cur_1v1": 1864,
       "max_1v1": 1997,
       "cur_tg": 1660,
       "max_tg": 1688,
@@ -639,17 +662,6 @@
         "game": "1v1 Random Map",
         "format": "1v1"
       }
-    },
-    {
-      "profile_id": 2926018,
-      "tag": "PerezPodrido",
-      "clan": "SotC",
-      "cur_1v1": 1870,
-      "max_1v1": 2039,
-      "cur_tg": 1686,
-      "max_tg": 1888,
-      "last_1v1": "2026-11-06",
-      "last_tg": "2026-11-04"
     }
   ],
   "show_top": 45,

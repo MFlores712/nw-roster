@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-08T05:15:08Z",
+  "updated_at": "2026-11-08T05:20:10Z",
   "baseline": {
     "taken_at": "2026-11-07T14:00:13Z",
     "ranks": {
@@ -211,10 +211,10 @@
       "clan": "CTM",
       "cur_1v1": 1902,
       "max_1v1": 1902,
-      "cur_tg": 1472,
+      "cur_tg": 1448,
       "max_tg": 1608,
       "last_1v1": "2026-09-19",
-      "last_tg": "2026-11-07"
+      "last_tg": "2026-11-08"
     },
     {
       "profile_id": 4234652,
