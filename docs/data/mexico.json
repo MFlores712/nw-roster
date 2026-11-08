@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-08T03:15:09Z",
+  "updated_at": "2026-11-08T03:20:10Z",
   "baseline": {
     "taken_at": "2026-11-07T14:00:13Z",
     "ranks": {
@@ -117,13 +117,7 @@
       "cur_tg": 2140,
       "max_tg": 2151,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-10-15",
-      "live": {
-        "match": 519564764,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "[GDL] Chuchito"
-      }
+      "last_tg": "2026-10-15"
     },
     {
       "profile_id": 401359,
@@ -529,7 +523,7 @@
       "last_tg": "2026-11-06",
       "last_1v1": "2026-10-13",
       "live": {
-        "match": 519559199,
+        "match": 519565487,
         "game": "1v1 Random Map",
         "format": "1v1",
         "account": "eFotboll"
@@ -586,7 +580,12 @@
       "cur_tg": 1660,
       "max_tg": 1688,
       "last_1v1": "2026-11-08",
-      "last_tg": "2026-11-07"
+      "last_tg": "2026-11-07",
+      "live": {
+        "match": 519565046,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 324005,
