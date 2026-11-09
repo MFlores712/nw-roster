@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-09T03:25:10Z",
+  "updated_at": "2026-11-09T03:30:13Z",
   "baseline": {
     "taken_at": "2026-11-08T14:00:14Z",
     "ranks": {
@@ -211,7 +211,13 @@
       "cur_tg": 1953,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-11-08"
+      "last_tg": "2026-11-08",
+      "live": {
+        "match": 519845570,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "FierroFlash"
+      }
     },
     {
       "profile_id": 4412109,
@@ -359,12 +365,7 @@
       "cur_tg": 1897,
       "max_tg": 1906,
       "last_1v1": "2026-06-27",
-      "last_tg": "2026-11-08",
-      "live": {
-        "match": 519841428,
-        "game": "Unranked",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-08"
     },
     {
       "profile_id": 1261126,
@@ -445,17 +446,12 @@
       "profile_id": 2876835,
       "tag": "Abejorro",
       "clan": "nW",
-      "cur_1v1": 1966,
+      "cur_1v1": 1980,
       "max_1v1": 2152,
       "cur_tg": 1834,
       "max_tg": 1844,
-      "last_1v1": "2026-11-08",
-      "last_tg": "2026-10-31",
-      "live": {
-        "match": 519843212,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-09",
+      "last_tg": "2026-10-31"
     },
     {
       "profile_id": 2291749,
