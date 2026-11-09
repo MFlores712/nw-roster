@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-09T02:15:10Z",
+  "updated_at": "2026-11-09T02:20:09Z",
   "baseline": {
     "taken_at": "2026-11-08T14:00:14Z",
     "ranks": {
@@ -40,33 +40,23 @@
     {
       "profile_id": 3216208,
       "tag": "Dimo",
-      "cur_1v1": 2478,
+      "cur_1v1": 2493,
       "max_1v1": 2583,
       "cur_tg": 1892,
       "max_tg": 1935,
       "last_1v1": "2026-11-09",
-      "last_tg": "2026-11-02",
-      "live": {
-        "match": 519829848,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-02"
     },
     {
       "profile_id": 9558892,
       "tag": "WilliamS",
       "clan": "LE",
-      "cur_1v1": 2317,
+      "cur_1v1": 2338,
       "max_1v1": 2446,
       "cur_tg": 1707,
       "max_tg": 1846,
       "last_1v1": "2026-11-09",
-      "last_tg": "2026-11-08",
-      "live": {
-        "match": 519829649,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-08"
     },
     {
       "profile_id": 4706179,
@@ -129,7 +119,12 @@
       "cur_tg": 1687,
       "max_tg": 1840,
       "last_tg": "2026-11-09",
-      "last_1v1": "2026-09-24"
+      "last_1v1": "2026-09-24",
+      "live": {
+        "match": 519832886,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 4229962,
