@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-09T06:15:11Z",
+  "updated_at": "2026-11-09T06:20:11Z",
   "baseline": {
     "taken_at": "2026-11-08T14:00:14Z",
     "ranks": {
@@ -174,10 +174,9 @@
       "last_tg": "2026-11-08",
       "last_1v1": "2026-11-09",
       "live": {
-        "match": 519861404,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "Parcero Erotico"
+        "match": 519867104,
+        "game": "1v1 Random Map",
+        "format": "1v1"
       }
     },
     {
@@ -323,12 +322,7 @@
       "cur_tg": 1850,
       "max_tg": 1855,
       "last_1v1": "2026-11-09",
-      "last_tg": "2026-11-08",
-      "live": {
-        "match": 519863115,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-08"
     },
     {
       "profile_id": 917863,
@@ -487,6 +481,22 @@
       "last_1v1": "2026-10-24"
     },
     {
+      "profile_id": 2876835,
+      "tag": "Abejorro",
+      "clan": "nW",
+      "cur_1v1": 1984,
+      "max_1v1": 2152,
+      "cur_tg": 1834,
+      "max_tg": 1844,
+      "last_1v1": "2026-11-09",
+      "last_tg": "2026-10-31",
+      "live": {
+        "match": 519863935,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 2291749,
       "tag": "Biner",
       "cur_1v1": 1966,
@@ -517,22 +527,6 @@
       "max_tg": 1865,
       "last_tg": "2026-11-04",
       "last_1v1": "2026-11-05"
-    },
-    {
-      "profile_id": 2876835,
-      "tag": "Abejorro",
-      "clan": "nW",
-      "cur_1v1": 1961,
-      "max_1v1": 2152,
-      "cur_tg": 1834,
-      "max_tg": 1844,
-      "last_1v1": "2026-11-09",
-      "last_tg": "2026-10-31",
-      "live": {
-        "match": 519863935,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 3285258,
