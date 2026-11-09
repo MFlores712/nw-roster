@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-09T07:25:08Z",
+  "updated_at": "2026-11-09T07:35:08Z",
   "baseline": {
     "taken_at": "2026-11-08T14:00:14Z",
     "ranks": {
@@ -200,13 +200,7 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 519862824,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "hK | RanDoM"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 580573,
@@ -281,7 +275,7 @@
       "last_1v1": "2026-11-08",
       "last_tg": "2026-11-06",
       "live": {
-        "match": 519872050,
+        "match": 519867890,
         "game": "1v1 Random Map",
         "format": "1v1",
         "account": "Warlock_Ndk"
@@ -339,12 +333,7 @@
       "cur_tg": 1948,
       "max_tg": 1994,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-09",
-      "live": {
-        "match": 519869221,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-09"
     },
     {
       "profile_id": 1947348,
@@ -452,12 +441,7 @@
       "cur_tg": 1694,
       "max_tg": 1885,
       "last_1v1": "2026-08-15",
-      "last_tg": "2026-11-09",
-      "live": {
-        "match": 519869327,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-09"
     },
     {
       "profile_id": 6501299,
