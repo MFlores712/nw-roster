@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-09T21:55:10Z",
+  "updated_at": "2026-11-09T22:00:14Z",
   "baseline": {
     "taken_at": "2026-11-09T14:00:15Z",
     "ranks": {
@@ -56,7 +56,13 @@
       "cur_tg": 1788,
       "max_tg": 1828,
       "last_1v1": "2026-11-09",
-      "last_tg": "2026-09-05"
+      "last_tg": "2026-09-05",
+      "live": {
+        "match": 520012689,
+        "game": "Team Random Map",
+        "format": "3v3",
+        "account": "NuMa | AngelR2"
+      }
     },
     {
       "profile_id": 2825261,
@@ -166,22 +172,6 @@
       "last_tg": "2026-11-05"
     },
     {
-      "profile_id": 12930522,
-      "tag": "Kevin",
-      "clan": "VENÓN",
-      "cur_1v1": 1824,
-      "max_1v1": 1908,
-      "cur_tg": 1802,
-      "max_tg": 1893,
-      "last_tg": "2026-11-07",
-      "last_1v1": "2026-11-09",
-      "live": {
-        "match": 520005255,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 10733016,
       "tag": "The .Gocho",
       "cur_1v1": 1814,
@@ -190,6 +180,22 @@
       "max_tg": 1839,
       "last_tg": "2026-10-25",
       "last_1v1": "2026-10-09"
+    },
+    {
+      "profile_id": 12930522,
+      "tag": "Kevin",
+      "clan": "VENÓN",
+      "cur_1v1": 1811,
+      "max_1v1": 1908,
+      "cur_tg": 1802,
+      "max_tg": 1893,
+      "last_tg": "2026-11-07",
+      "last_1v1": "2026-11-09",
+      "live": {
+        "match": 520012460,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2134856,
