@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-09T00:55:08Z",
+  "updated_at": "2026-11-09T01:10:09Z",
   "baseline": {
     "taken_at": "2026-11-08T14:00:14Z",
     "ranks": {
@@ -113,7 +113,12 @@
       "cur_tg": 1679,
       "max_tg": 1843,
       "last_1v1": "2026-11-04",
-      "last_tg": "2026-10-25"
+      "last_tg": "2026-10-25",
+      "live": {
+        "match": 519819183,
+        "game": "Team Death Match",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 12167914,
