@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-09T00:00:14Z",
+  "updated_at": "2026-11-09T00:10:10Z",
   "baseline": {
     "taken_at": "2026-11-08T14:00:14Z",
     "ranks": {
@@ -189,13 +189,7 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 519801063,
-        "game": "Team Random Map",
-        "format": "2v2",
-        "account": "hK | RanDoM"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 580573,
@@ -217,13 +211,7 @@
       "cur_tg": 1953,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-11-08",
-      "live": {
-        "match": 519801063,
-        "game": "Team Random Map",
-        "format": "2v2",
-        "account": "FierroFlash"
-      }
+      "last_tg": "2026-11-08"
     },
     {
       "profile_id": 4412109,
@@ -363,6 +351,17 @@
       "last_tg": "2026-11-06"
     },
     {
+      "profile_id": 2934597,
+      "tag": "Sgt.Pepper",
+      "clan": "nW",
+      "cur_1v1": 2063,
+      "max_1v1": 2210,
+      "cur_tg": 1731,
+      "max_tg": 1747,
+      "last_1v1": "2026-11-09",
+      "last_tg": "2026-10-27"
+    },
+    {
       "profile_id": 400111,
       "tag": "Mibel",
       "clan": "VL",
@@ -393,22 +392,6 @@
       "max_tg": 1818,
       "last_tg": "2026-11-03",
       "last_1v1": "2026-03-21"
-    },
-    {
-      "profile_id": 2934597,
-      "tag": "Sgt.Pepper",
-      "clan": "nW",
-      "cur_1v1": 2043,
-      "max_1v1": 2210,
-      "cur_tg": 1731,
-      "max_tg": 1747,
-      "last_1v1": "2026-11-08",
-      "last_tg": "2026-10-27",
-      "live": {
-        "match": 519803531,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 1249720,
