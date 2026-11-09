@@ -1,6 +1,6 @@
 {
   "name": "new Wave",
-  "updated_at": "2026-11-09T08:30:12Z",
+  "updated_at": "2026-11-09T08:35:08Z",
   "baseline": {
     "taken_at": "2026-11-08T14:00:14Z",
     "ranks": {
@@ -47,7 +47,12 @@
       "cur_tg": 1850,
       "max_tg": 1855,
       "last_1v1": "2026-11-09",
-      "last_tg": "2026-11-08"
+      "last_tg": "2026-11-08",
+      "live": {
+        "match": 519878096,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 1947348,
@@ -97,7 +102,7 @@
       "profile_id": 2876835,
       "tag": "Abejorro",
       "country": "Mexico",
-      "cur_1v1": 1950,
+      "cur_1v1": 1965,
       "max_1v1": 2152,
       "cur_tg": 1834,
       "max_tg": 1844,
