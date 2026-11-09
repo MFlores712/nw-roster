@@ -1,6 +1,6 @@
 {
   "name": "new Wave",
-  "updated_at": "2026-11-09T05:25:08Z",
+  "updated_at": "2026-11-09T05:30:11Z",
   "baseline": {
     "taken_at": "2026-11-08T14:00:14Z",
     "ranks": {
@@ -75,12 +75,17 @@
       "profile_id": 1359694,
       "tag": "AtilA",
       "country": "Peru",
-      "cur_1v1": 2009,
+      "cur_1v1": 2002,
       "max_1v1": 2123,
       "cur_tg": 1622,
       "max_tg": 1670,
       "last_tg": "2026-11-01",
-      "last_1v1": "2026-11-08"
+      "last_1v1": "2026-11-09",
+      "live": {
+        "match": 519861900,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 6501299,
