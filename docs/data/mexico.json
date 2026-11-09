@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-09T03:15:09Z",
+  "updated_at": "2026-11-09T03:20:10Z",
   "baseline": {
     "taken_at": "2026-11-08T14:00:14Z",
     "ranks": {
@@ -408,17 +408,12 @@
       "profile_id": 13215279,
       "tag": "GO1_mx",
       "clan": "MZTK",
-      "cur_1v1": 2022,
+      "cur_1v1": 2035,
       "max_1v1": 2093,
       "cur_tg": 1713,
       "max_tg": 1860,
       "last_1v1": "2026-11-09",
-      "last_tg": "2026-11-08",
-      "live": {
-        "match": 519838893,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-08"
     },
     {
       "profile_id": 1249720,
