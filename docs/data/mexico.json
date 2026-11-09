@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-09T07:00:14Z",
+  "updated_at": "2026-11-09T07:15:09Z",
   "baseline": {
     "taken_at": "2026-11-08T14:00:14Z",
     "ranks": {
@@ -336,7 +336,7 @@
       "clan": "hK",
       "cur_1v1": 2119,
       "max_1v1": 2233,
-      "cur_tg": 1969,
+      "cur_tg": 1948,
       "max_tg": 1994,
       "last_1v1": "2026-11-07",
       "last_tg": "2026-11-09",
@@ -449,10 +449,10 @@
       "tag": "MooN",
       "cur_1v1": 2002,
       "max_1v1": 2002,
-      "cur_tg": 1714,
+      "cur_tg": 1694,
       "max_tg": 1885,
       "last_1v1": "2026-08-15",
-      "last_tg": "2026-11-08",
+      "last_tg": "2026-11-09",
       "live": {
         "match": 519869327,
         "game": "Team Random Map",
