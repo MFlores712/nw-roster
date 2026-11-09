@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-09T06:00:13Z",
+  "updated_at": "2026-11-09T06:15:11Z",
   "baseline": {
     "taken_at": "2026-11-08T14:00:14Z",
     "ranks": {
@@ -318,7 +318,7 @@
       "profile_id": 3816609,
       "tag": "iamkaito",
       "clan": "nW",
-      "cur_1v1": 2205,
+      "cur_1v1": 2217,
       "max_1v1": 2304,
       "cur_tg": 1850,
       "max_tg": 1855,
@@ -449,10 +449,10 @@
       "clan": "MZTK",
       "cur_1v1": 2035,
       "max_1v1": 2093,
-      "cur_tg": 1713,
+      "cur_tg": 1700,
       "max_tg": 1860,
       "last_1v1": "2026-11-09",
-      "last_tg": "2026-11-08"
+      "last_tg": "2026-11-09"
     },
     {
       "profile_id": 1249720,
