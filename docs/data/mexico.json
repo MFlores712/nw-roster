@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-09T23:20:10Z",
+  "updated_at": "2026-11-09T23:25:09Z",
   "baseline": {
     "taken_at": "2026-11-09T14:00:15Z",
     "ranks": {
@@ -450,22 +450,6 @@
       "last_1v1": "2026-10-24"
     },
     {
-      "profile_id": 2876835,
-      "tag": "Abejorro",
-      "clan": "nW",
-      "cur_1v1": 1978,
-      "max_1v1": 2152,
-      "cur_tg": 1834,
-      "max_tg": 1844,
-      "last_1v1": "2026-11-09",
-      "last_tg": "2026-10-31",
-      "live": {
-        "match": 520023955,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 2291749,
       "tag": "Biner",
       "cur_1v1": 1966,
@@ -518,6 +502,17 @@
       "max_tg": 1824,
       "last_1v1": "2026-10-25",
       "last_tg": "2026-11-01"
+    },
+    {
+      "profile_id": 2876835,
+      "tag": "Abejorro",
+      "clan": "nW",
+      "cur_1v1": 1959,
+      "max_1v1": 2152,
+      "cur_tg": 1834,
+      "max_tg": 1844,
+      "last_1v1": "2026-11-09",
+      "last_tg": "2026-10-31"
     },
     {
       "profile_id": 2986966,
@@ -619,14 +614,14 @@
       "profile_id": 13241217,
       "tag": "BlueUltra",
       "clan": "Ux",
-      "cur_1v1": 1856,
+      "cur_1v1": 1865,
       "max_1v1": 1997,
       "cur_tg": 1660,
       "max_tg": 1688,
       "last_1v1": "2026-11-09",
       "last_tg": "2026-11-07",
       "live": {
-        "match": 520026078,
+        "match": 520028892,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
