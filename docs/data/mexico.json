@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-09T00:40:09Z",
+  "updated_at": "2026-11-09T00:45:11Z",
   "baseline": {
     "taken_at": "2026-11-08T14:00:14Z",
     "ranks": {
@@ -332,22 +332,12 @@
       "cur_tg": 1659,
       "max_tg": 1820,
       "last_1v1": "2026-11-03",
-      "last_tg": "2026-11-06"
-    },
-    {
-      "profile_id": 13215279,
-      "tag": "GO1_mx",
-      "clan": "MZTK",
-      "cur_1v1": 2063,
-      "max_1v1": 2093,
-      "cur_tg": 1713,
-      "max_tg": 1860,
-      "last_1v1": "2026-11-09",
-      "last_tg": "2026-11-08",
+      "last_tg": "2026-11-06",
       "live": {
-        "match": 519811075,
+        "match": 519815575,
         "game": "1v1 Random Map",
-        "format": "1v1"
+        "format": "1v1",
+        "account": "Chimirindo"
       }
     },
     {
@@ -359,7 +349,12 @@
       "cur_tg": 1731,
       "max_tg": 1747,
       "last_1v1": "2026-11-09",
-      "last_tg": "2026-10-27"
+      "last_tg": "2026-10-27",
+      "live": {
+        "match": 519815575,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 400111,
@@ -382,6 +377,22 @@
       "max_tg": 1870,
       "last_1v1": "2026-10-31",
       "last_tg": "2026-11-08"
+    },
+    {
+      "profile_id": 13215279,
+      "tag": "GO1_mx",
+      "clan": "MZTK",
+      "cur_1v1": 2045,
+      "max_1v1": 2093,
+      "cur_tg": 1713,
+      "max_tg": 1860,
+      "last_1v1": "2026-11-09",
+      "last_tg": "2026-11-08",
+      "live": {
+        "match": 519816036,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 1708286,
