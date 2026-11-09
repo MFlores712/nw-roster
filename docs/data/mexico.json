@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-09T23:45:11Z",
+  "updated_at": "2026-11-09T23:50:10Z",
   "baseline": {
     "taken_at": "2026-11-09T14:00:15Z",
     "ranks": {
@@ -117,7 +117,13 @@
       "cur_tg": 2140,
       "max_tg": 2151,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-10-15"
+      "last_tg": "2026-10-15",
+      "live": {
+        "match": 520033238,
+        "game": "Team Random Map",
+        "format": "2v2",
+        "account": "VENÓN | Mauricio"
+      }
     },
     {
       "profile_id": 401359,
@@ -139,7 +145,12 @@
       "cur_tg": 2013,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-11-09"
+      "last_tg": "2026-11-09",
+      "live": {
+        "match": 520033238,
+        "game": "Team Random Map",
+        "format": "2v2"
+      }
     },
     {
       "profile_id": 2598146,
@@ -233,7 +244,12 @@
       "cur_tg": 2012,
       "max_tg": 2083,
       "last_1v1": "2026-11-06",
-      "last_tg": "2026-11-09"
+      "last_tg": "2026-11-09",
+      "live": {
+        "match": 520033238,
+        "game": "Team Random Map",
+        "format": "2v2"
+      }
     },
     {
       "profile_id": 9666666,
@@ -597,14 +613,14 @@
       "profile_id": 13241217,
       "tag": "BlueUltra",
       "clan": "Ux",
-      "cur_1v1": 1865,
+      "cur_1v1": 1878,
       "max_1v1": 1997,
       "cur_tg": 1660,
       "max_tg": 1688,
       "last_1v1": "2026-11-09",
       "last_tg": "2026-11-07",
       "live": {
-        "match": 520028892,
+        "match": 520033454,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
