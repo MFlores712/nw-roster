@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-09T06:25:09Z",
+  "updated_at": "2026-11-09T06:30:12Z",
   "baseline": {
     "taken_at": "2026-11-08T14:00:14Z",
     "ranks": {
@@ -79,12 +79,7 @@
       "cur_tg": 2120,
       "max_tg": 2173,
       "last_1v1": "2026-11-09",
-      "last_tg": "2026-11-09",
-      "live": {
-        "match": 519863826,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-09"
     },
     {
       "profile_id": 5984120,
@@ -145,12 +140,7 @@
       "cur_tg": 2013,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-11-09",
-      "live": {
-        "match": 519863826,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-09"
     },
     {
       "profile_id": 2598146,
@@ -167,7 +157,7 @@
       "profile_id": 12723994,
       "tag": "Xhing is Dragonstar",
       "clan": "VENÓN",
-      "cur_1v1": 2350,
+      "cur_1v1": 2351,
       "max_1v1": 2377,
       "cur_tg": 1915,
       "max_tg": 1959,
@@ -240,7 +230,7 @@
       "last_1v1": "2026-10-17",
       "last_tg": "2026-11-08",
       "live": {
-        "match": 519864742,
+        "match": 519867728,
         "game": "Team Random Map",
         "format": "4v4",
         "account": "FierroFlash"
@@ -255,12 +245,7 @@
       "cur_tg": 2012,
       "max_tg": 2083,
       "last_1v1": "2026-11-06",
-      "last_tg": "2026-11-09",
-      "live": {
-        "match": 519863826,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-09"
     },
     {
       "profile_id": 9666666,
@@ -296,7 +281,7 @@
       "last_1v1": "2026-11-08",
       "last_tg": "2026-11-06",
       "live": {
-        "match": 519865161,
+        "match": 519867890,
         "game": "1v1 Random Map",
         "format": "1v1",
         "account": "Warlock_Ndk"
@@ -356,7 +341,7 @@
       "last_1v1": "2026-11-07",
       "last_tg": "2026-11-09",
       "live": {
-        "match": 519864742,
+        "match": 519867728,
         "game": "Team Random Map",
         "format": "4v4"
       }
