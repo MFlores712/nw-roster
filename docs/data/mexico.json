@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-09T23:10:10Z",
+  "updated_at": "2026-11-09T23:15:10Z",
   "baseline": {
     "taken_at": "2026-11-09T14:00:15Z",
     "ranks": {
@@ -150,7 +150,13 @@
       "cur_tg": 2200,
       "max_tg": 2227,
       "last_tg": "2026-10-27",
-      "last_1v1": "2026-10-31"
+      "last_1v1": "2026-10-31",
+      "live": {
+        "match": 520027235,
+        "game": "Team Random Map",
+        "format": "2v2",
+        "account": "NotAcuna_"
+      }
     },
     {
       "profile_id": 1485562,
@@ -641,7 +647,7 @@
       "last_1v1": "2026-11-09",
       "last_tg": "2026-11-04",
       "live": {
-        "match": 520021757,
+        "match": 520026790,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
