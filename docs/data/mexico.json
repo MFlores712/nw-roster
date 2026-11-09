@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-09T09:15:10Z",
+  "updated_at": "2026-11-09T09:20:11Z",
   "baseline": {
     "taken_at": "2026-11-08T14:00:14Z",
     "ranks": {
@@ -256,13 +256,7 @@
       "cur_tg": 1833,
       "max_tg": 1959,
       "last_1v1": "2026-11-08",
-      "last_tg": "2026-11-06",
-      "live": {
-        "match": 519880419,
-        "game": "Team Random Map",
-        "format": "2v2",
-        "account": "Warlock_Ndk"
-      }
+      "last_tg": "2026-11-06"
     },
     {
       "profile_id": 914665,
@@ -437,15 +431,10 @@
       "tag": "MooN",
       "cur_1v1": 2002,
       "max_1v1": 2002,
-      "cur_tg": 1722,
+      "cur_tg": 1733,
       "max_tg": 1885,
       "last_1v1": "2026-08-15",
-      "last_tg": "2026-11-09",
-      "live": {
-        "match": 519880419,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-09"
     },
     {
       "profile_id": 6501299,
