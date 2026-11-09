@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-09T19:55:11Z",
+  "updated_at": "2026-11-09T20:00:17Z",
   "baseline": {
     "taken_at": "2026-11-09T14:00:15Z",
     "ranks": {
@@ -154,22 +154,6 @@
       "last_1v1": "2026-10-31"
     },
     {
-      "profile_id": 12723994,
-      "tag": "Xhing is Dragonstar",
-      "clan": "VENÓN",
-      "cur_1v1": 2357,
-      "max_1v1": 2377,
-      "cur_tg": 1915,
-      "max_tg": 1959,
-      "last_tg": "2026-11-08",
-      "last_1v1": "2026-11-09",
-      "live": {
-        "match": 519982849,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 1485562,
       "tag": "MrOsoVC8",
       "clan": "VENÓN",
@@ -217,6 +201,17 @@
         "game": "Team Random Map",
         "format": "4v4"
       }
+    },
+    {
+      "profile_id": 12723994,
+      "tag": "Xhing is Dragonstar",
+      "clan": "VENÓN",
+      "cur_1v1": 2338,
+      "max_1v1": 2377,
+      "cur_tg": 1915,
+      "max_tg": 1959,
+      "last_tg": "2026-11-08",
+      "last_1v1": "2026-11-09"
     },
     {
       "profile_id": 9031952,
