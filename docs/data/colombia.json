@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-09T21:50:10Z",
+  "updated_at": "2026-11-09T21:55:10Z",
   "baseline": {
     "taken_at": "2026-11-09T14:00:15Z",
     "ranks": {
@@ -56,13 +56,7 @@
       "cur_tg": 1788,
       "max_tg": 1828,
       "last_1v1": "2026-11-09",
-      "last_tg": "2026-09-05",
-      "live": {
-        "match": 520007192,
-        "game": "Team Random Map",
-        "format": "3v3",
-        "account": "NuMa | AngelR2"
-      }
+      "last_tg": "2026-09-05"
     },
     {
       "profile_id": 2825261,
@@ -86,22 +80,6 @@
       "last_tg": "2026-10-17"
     },
     {
-      "profile_id": 1743420,
-      "tag": "OliverAtom",
-      "clan": "NuMa",
-      "cur_1v1": 2012,
-      "max_1v1": 2193,
-      "cur_tg": 1601,
-      "max_tg": 1772,
-      "last_1v1": "2026-11-09",
-      "last_tg": "2026-11-09",
-      "live": {
-        "match": 520005453,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 2955846,
       "tag": "KauTrEnS",
       "clan": "FMG",
@@ -122,6 +100,17 @@
       "max_tg": 1764,
       "last_1v1": "2026-10-23",
       "last_tg": "2026-11-06"
+    },
+    {
+      "profile_id": 1743420,
+      "tag": "OliverAtom",
+      "clan": "NuMa",
+      "cur_1v1": 1993,
+      "max_1v1": 2193,
+      "cur_tg": 1601,
+      "max_tg": 1772,
+      "last_1v1": "2026-11-09",
+      "last_tg": "2026-11-09"
     },
     {
       "profile_id": 5368998,
