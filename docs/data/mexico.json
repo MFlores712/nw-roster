@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-09T09:30:11Z",
+  "updated_at": "2026-11-09T09:35:08Z",
   "baseline": {
     "taken_at": "2026-11-08T14:00:14Z",
     "ranks": {
@@ -276,22 +276,6 @@
       "last_tg": "2026-11-08"
     },
     {
-      "profile_id": 3816609,
-      "tag": "iamkaito",
-      "clan": "nW",
-      "cur_1v1": 2205,
-      "max_1v1": 2304,
-      "cur_tg": 1850,
-      "max_tg": 1855,
-      "last_1v1": "2026-11-09",
-      "last_tg": "2026-11-08",
-      "live": {
-        "match": 519880085,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 917863,
       "tag": "Romell13",
       "clan": "hK",
@@ -301,6 +285,22 @@
       "max_tg": 1838,
       "last_1v1": "2026-11-09",
       "last_tg": "2026-11-05"
+    },
+    {
+      "profile_id": 3816609,
+      "tag": "iamkaito",
+      "clan": "nW",
+      "cur_1v1": 2171,
+      "max_1v1": 2304,
+      "cur_tg": 1850,
+      "max_tg": 1855,
+      "last_1v1": "2026-11-09",
+      "last_tg": "2026-11-08",
+      "live": {
+        "match": 519883198,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 5803221,
@@ -318,15 +318,10 @@
       "clan": "hK",
       "cur_1v1": 2119,
       "max_1v1": 2233,
-      "cur_tg": 1971,
+      "cur_tg": 1979,
       "max_tg": 1994,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-09",
-      "live": {
-        "match": 519881299,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-09"
     },
     {
       "profile_id": 1947348,
@@ -402,13 +397,7 @@
       "cur_tg": 1838,
       "max_tg": 1962,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-07",
-      "live": {
-        "match": 519881299,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "Stalingrado"
-      }
+      "last_tg": "2026-11-07"
     },
     {
       "profile_id": 13215279,
