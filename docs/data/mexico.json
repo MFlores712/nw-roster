@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-09T20:11:41Z",
+  "updated_at": "2026-11-09T20:15:11Z",
   "baseline": {
     "taken_at": "2026-11-09T14:00:15Z",
     "ranks": {
@@ -134,13 +134,7 @@
       "cur_tg": 2013,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-11-09",
-      "live": {
-        "match": 519988320,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "The_Fury"
-      }
+      "last_tg": "2026-11-09"
     },
     {
       "profile_id": 2598146,
@@ -201,17 +195,12 @@
       "profile_id": 12723994,
       "tag": "Xhing is Dragonstar",
       "clan": "VENÓN",
-      "cur_1v1": 2338,
+      "cur_1v1": 2337,
       "max_1v1": 2377,
       "cur_tg": 1915,
       "max_tg": 1959,
       "last_tg": "2026-11-08",
-      "last_1v1": "2026-11-09",
-      "live": {
-        "match": 519985869,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-09"
     },
     {
       "profile_id": 9031952,
@@ -483,7 +472,13 @@
       "cur_tg": 1701,
       "max_tg": 1865,
       "last_tg": "2026-11-04",
-      "last_1v1": "2026-11-05"
+      "last_1v1": "2026-11-05",
+      "live": {
+        "match": 519988442,
+        "game": "Team Random Map",
+        "format": "2v2",
+        "account": "VL Formolin"
+      }
     },
     {
       "profile_id": 3285258,
