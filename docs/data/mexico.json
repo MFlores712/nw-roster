@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-09T04:50:09Z",
+  "updated_at": "2026-11-09T04:55:08Z",
   "baseline": {
     "taken_at": "2026-11-08T14:00:14Z",
     "ranks": {
@@ -71,6 +71,17 @@
       "last_1v1": "2026-11-06"
     },
     {
+      "profile_id": 2920057,
+      "tag": "Lobo",
+      "clan": "Ux",
+      "cur_1v1": 2656,
+      "max_1v1": 2685,
+      "cur_tg": 2101,
+      "max_tg": 2173,
+      "last_1v1": "2026-11-09",
+      "last_tg": "2026-11-09"
+    },
+    {
       "profile_id": 5984120,
       "tag": "Combito",
       "clan": "Ux",
@@ -80,22 +91,6 @@
       "max_tg": 1885,
       "last_1v1": "2026-11-08",
       "last_tg": "2026-11-08"
-    },
-    {
-      "profile_id": 2920057,
-      "tag": "Lobo",
-      "clan": "Ux",
-      "cur_1v1": 2650,
-      "max_1v1": 2685,
-      "cur_tg": 2101,
-      "max_tg": 2173,
-      "last_1v1": "2026-10-29",
-      "last_tg": "2026-11-09",
-      "live": {
-        "match": 519854354,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 13099159,
@@ -453,22 +448,6 @@
       "last_tg": "2026-11-08"
     },
     {
-      "profile_id": 2876835,
-      "tag": "Abejorro",
-      "clan": "nW",
-      "cur_1v1": 1991,
-      "max_1v1": 2152,
-      "cur_tg": 1834,
-      "max_tg": 1844,
-      "last_1v1": "2026-11-09",
-      "last_tg": "2026-10-31",
-      "live": {
-        "match": 519853157,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 6501299,
       "tag": "ShutAzarquay",
       "clan": "nW",
@@ -478,6 +457,22 @@
       "max_tg": 1745,
       "last_tg": "2026-10-09",
       "last_1v1": "2026-10-24"
+    },
+    {
+      "profile_id": 2876835,
+      "tag": "Abejorro",
+      "clan": "nW",
+      "cur_1v1": 1966,
+      "max_1v1": 2152,
+      "cur_tg": 1834,
+      "max_tg": 1844,
+      "last_1v1": "2026-11-09",
+      "last_tg": "2026-10-31",
+      "live": {
+        "match": 519857857,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2291749,
