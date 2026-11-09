@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-09T00:25:07Z",
+  "updated_at": "2026-11-09T00:30:11Z",
   "baseline": {
     "taken_at": "2026-11-08T14:00:14Z",
     "ranks": {
@@ -411,17 +411,6 @@
       "last_1v1": "2026-03-21"
     },
     {
-      "profile_id": 1249720,
-      "tag": "Lice_Slide",
-      "clan": "VN",
-      "cur_1v1": 2040,
-      "max_1v1": 2121,
-      "cur_tg": 1819,
-      "max_tg": 1997,
-      "last_1v1": "2026-11-08",
-      "last_tg": "2026-11-06"
-    },
-    {
       "profile_id": 9770338,
       "tag": "SynfonY",
       "clan": "CL",
@@ -431,6 +420,17 @@
       "max_tg": 1962,
       "last_1v1": "2026-11-07",
       "last_tg": "2026-11-07"
+    },
+    {
+      "profile_id": 1249720,
+      "tag": "Lice_Slide",
+      "clan": "VN",
+      "cur_1v1": 2021,
+      "max_1v1": 2121,
+      "cur_tg": 1819,
+      "max_tg": 1997,
+      "last_1v1": "2026-11-09",
+      "last_tg": "2026-11-06"
     },
     {
       "profile_id": 233625,
