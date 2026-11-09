@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-09T06:40:10Z",
+  "updated_at": "2026-11-09T06:45:10Z",
   "baseline": {
     "taken_at": "2026-11-08T14:00:14Z",
     "ranks": {
@@ -230,7 +230,7 @@
       "last_1v1": "2026-10-17",
       "last_tg": "2026-11-08",
       "live": {
-        "match": 519867728,
+        "match": 519869221,
         "game": "Team Random Map",
         "format": "4v4",
         "account": "FierroFlash"
@@ -341,7 +341,7 @@
       "last_1v1": "2026-11-07",
       "last_tg": "2026-11-09",
       "live": {
-        "match": 519867728,
+        "match": 519869221,
         "game": "Team Random Map",
         "format": "4v4"
       }
@@ -455,21 +455,10 @@
       "last_tg": "2026-11-08"
     },
     {
-      "profile_id": 6501299,
-      "tag": "ShutAzarquay",
-      "clan": "nW",
-      "cur_1v1": 1990,
-      "max_1v1": 2011,
-      "cur_tg": 1731,
-      "max_tg": 1745,
-      "last_tg": "2026-10-09",
-      "last_1v1": "2026-10-24"
-    },
-    {
       "profile_id": 2876835,
       "tag": "Abejorro",
       "clan": "nW",
-      "cur_1v1": 1984,
+      "cur_1v1": 1998,
       "max_1v1": 2152,
       "cur_tg": 1834,
       "max_tg": 1844,
@@ -480,6 +469,17 @@
         "game": "1v1 Random Map",
         "format": "1v1"
       }
+    },
+    {
+      "profile_id": 6501299,
+      "tag": "ShutAzarquay",
+      "clan": "nW",
+      "cur_1v1": 1990,
+      "max_1v1": 2011,
+      "cur_tg": 1731,
+      "max_tg": 1745,
+      "last_tg": "2026-10-09",
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 2291749,
