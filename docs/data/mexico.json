@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-09T17:05:10Z",
+  "updated_at": "2026-11-09T17:10:15Z",
   "baseline": {
     "taken_at": "2026-11-09T14:00:15Z",
     "ranks": {
@@ -60,6 +60,17 @@
   },
   "players": [
     {
+      "profile_id": 2776293,
+      "tag": "Kingstone",
+      "clan": "Oni",
+      "cur_1v1": 2664,
+      "max_1v1": 2867,
+      "cur_tg": 2152,
+      "max_tg": 2169,
+      "last_tg": "2026-10-08",
+      "last_1v1": "2026-11-09"
+    },
+    {
       "profile_id": 2920057,
       "tag": "Lobo",
       "clan": "Ux",
@@ -80,22 +91,6 @@
       "max_tg": 1885,
       "last_1v1": "2026-11-08",
       "last_tg": "2026-11-08"
-    },
-    {
-      "profile_id": 2776293,
-      "tag": "Kingstone",
-      "clan": "Oni",
-      "cur_1v1": 2651,
-      "max_1v1": 2867,
-      "cur_tg": 2152,
-      "max_tg": 2169,
-      "last_tg": "2026-10-08",
-      "last_1v1": "2026-11-09",
-      "live": {
-        "match": 519947327,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 13099159,
@@ -139,7 +134,13 @@
       "cur_tg": 2013,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-11-09"
+      "last_tg": "2026-11-09",
+      "live": {
+        "match": 519948780,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "The_Fury"
+      }
     },
     {
       "profile_id": 2598146,
@@ -418,17 +419,12 @@
       "profile_id": 1249720,
       "tag": "Lice_Slide",
       "clan": "VN",
-      "cur_1v1": 1996,
+      "cur_1v1": 1990,
       "max_1v1": 2121,
       "cur_tg": 1819,
       "max_tg": 1997,
       "last_1v1": "2026-11-09",
-      "last_tg": "2026-11-06",
-      "live": {
-        "match": 519948309,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-06"
     },
     {
       "profile_id": 6501299,
