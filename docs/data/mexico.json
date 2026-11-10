@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-09T23:50:10Z",
+  "updated_at": "2026-11-10T00:05:10Z",
   "baseline": {
     "taken_at": "2026-11-09T14:00:15Z",
     "ranks": {
@@ -76,15 +76,10 @@
       "clan": "Ux",
       "cur_1v1": 2656,
       "max_1v1": 2685,
-      "cur_tg": 2122,
+      "cur_tg": 2126,
       "max_tg": 2173,
       "last_1v1": "2026-11-09",
-      "last_tg": "2026-11-09",
-      "live": {
-        "match": 520031462,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-10"
     },
     {
       "profile_id": 5984120,
@@ -117,13 +112,7 @@
       "cur_tg": 2140,
       "max_tg": 2151,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-10-15",
-      "live": {
-        "match": 520033238,
-        "game": "Team Random Map",
-        "format": "2v2",
-        "account": "VENÓN | Mauricio"
-      }
+      "last_tg": "2026-10-15"
     },
     {
       "profile_id": 401359,
@@ -142,15 +131,10 @@
       "clan": "hK",
       "cur_1v1": 2427,
       "max_1v1": 2433,
-      "cur_tg": 2013,
+      "cur_tg": 1999,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-11-09",
-      "live": {
-        "match": 520033238,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-10"
     },
     {
       "profile_id": 2598146,
@@ -227,13 +211,7 @@
       "cur_tg": 1953,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-11-08",
-      "live": {
-        "match": 520031462,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "FierroFlash"
-      }
+      "last_tg": "2026-11-08"
     },
     {
       "profile_id": 4412109,
@@ -241,15 +219,10 @@
       "clan": "hK",
       "cur_1v1": 2314,
       "max_1v1": 2365,
-      "cur_tg": 2012,
+      "cur_tg": 1998,
       "max_tg": 2083,
       "last_1v1": "2026-11-06",
-      "last_tg": "2026-11-09",
-      "live": {
-        "match": 520033238,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-10"
     },
     {
       "profile_id": 9666666,
@@ -574,7 +547,12 @@
       "cur_tg": 1439,
       "max_tg": 1444,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-07"
+      "last_tg": "2026-11-07",
+      "live": {
+        "match": 520035696,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 358501,
@@ -613,11 +591,11 @@
       "profile_id": 13241217,
       "tag": "BlueUltra",
       "clan": "Ux",
-      "cur_1v1": 1878,
+      "cur_1v1": 1889,
       "max_1v1": 1997,
       "cur_tg": 1660,
       "max_tg": 1688,
-      "last_1v1": "2026-11-09",
+      "last_1v1": "2026-11-10",
       "last_tg": "2026-11-07",
       "live": {
         "match": 520033454,
