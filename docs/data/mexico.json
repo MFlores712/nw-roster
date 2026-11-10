@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-10T05:25:08Z",
+  "updated_at": "2026-11-10T05:30:11Z",
   "baseline": {
     "taken_at": "2026-11-09T14:00:15Z",
     "ranks": {
@@ -126,15 +126,10 @@
       "clan": "VENÓN",
       "cur_1v1": 2497,
       "max_1v1": 2512,
-      "cur_tg": 2050,
+      "cur_tg": 2034,
       "max_tg": 2190,
       "last_1v1": "2026-11-08",
-      "last_tg": "2026-11-10",
-      "live": {
-        "match": 520080160,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-10"
     },
     {
       "profile_id": 4221810,
@@ -142,15 +137,10 @@
       "clan": "hK",
       "cur_1v1": 2427,
       "max_1v1": 2433,
-      "cur_tg": 2003,
+      "cur_tg": 2011,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-11-10",
-      "live": {
-        "match": 520085376,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-10"
     },
     {
       "profile_id": 2598146,
@@ -186,22 +176,6 @@
       "last_1v1": "2026-10-24"
     },
     {
-      "profile_id": 580573,
-      "tag": "Puerco Black",
-      "clan": "hK",
-      "cur_1v1": 2341,
-      "max_1v1": 2350,
-      "cur_tg": 1949,
-      "max_tg": 1974,
-      "last_1v1": "2026-11-05",
-      "last_tg": "2026-11-09",
-      "live": {
-        "match": 520085196,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 12723994,
       "tag": "Xhing is Dragonstar",
       "clan": "VENÓN",
@@ -211,6 +185,17 @@
       "max_tg": 1959,
       "last_tg": "2026-11-08",
       "last_1v1": "2026-11-09"
+    },
+    {
+      "profile_id": 580573,
+      "tag": "Puerco Black",
+      "clan": "hK",
+      "cur_1v1": 2330,
+      "max_1v1": 2350,
+      "cur_tg": 1949,
+      "max_tg": 1974,
+      "last_1v1": "2026-11-10",
+      "last_tg": "2026-11-09"
     },
     {
       "profile_id": 9031952,
@@ -240,15 +225,10 @@
       "clan": "hK",
       "cur_1v1": 2314,
       "max_1v1": 2365,
-      "cur_tg": 2002,
+      "cur_tg": 2010,
       "max_tg": 2083,
       "last_1v1": "2026-11-06",
-      "last_tg": "2026-11-10",
-      "live": {
-        "match": 520085376,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-10"
     },
     {
       "profile_id": 9666666,
@@ -457,15 +437,10 @@
       "tag": "MooN",
       "cur_1v1": 2002,
       "max_1v1": 2002,
-      "cur_tg": 1785,
+      "cur_tg": 1763,
       "max_tg": 1885,
       "last_1v1": "2026-08-15",
-      "last_tg": "2026-11-10",
-      "live": {
-        "match": 520084191,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-10"
     },
     {
       "profile_id": 6501299,
@@ -513,7 +488,12 @@
       "cur_tg": 1617,
       "max_tg": 1798,
       "last_1v1": "2026-09-29",
-      "last_tg": "2026-11-10"
+      "last_tg": "2026-11-10",
+      "live": {
+        "match": 520087249,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 278380,
