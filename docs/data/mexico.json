@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-10T16:05:09Z",
+  "updated_at": "2026-11-10T16:20:09Z",
   "baseline": {
     "taken_at": "2026-11-10T14:00:17Z",
     "ranks": {
@@ -238,7 +238,13 @@
       "cur_tg": 1996,
       "max_tg": 2083,
       "last_1v1": "2026-11-06",
-      "last_tg": "2026-11-10"
+      "last_tg": "2026-11-10",
+      "live": {
+        "match": 520165334,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "HelloGoodBye_"
+      }
     },
     {
       "profile_id": 9666666,
