@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-10T00:50:09Z",
+  "updated_at": "2026-11-10T00:55:10Z",
   "baseline": {
     "taken_at": "2026-11-09T14:00:15Z",
     "ranks": {
@@ -112,13 +112,7 @@
       "cur_tg": 2140,
       "max_tg": 2151,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-10-15",
-      "live": {
-        "match": 520036193,
-        "game": "Team Random Map",
-        "format": "2v2",
-        "account": "VENÓN | Mauricio"
-      }
+      "last_tg": "2026-10-15"
     },
     {
       "profile_id": 401359,
@@ -137,12 +131,12 @@
       "clan": "hK",
       "cur_1v1": 2427,
       "max_1v1": 2433,
-      "cur_tg": 1999,
+      "cur_tg": 1987,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
       "last_tg": "2026-11-10",
       "live": {
-        "match": 520036193,
+        "match": 520044607,
         "game": "Team Random Map",
         "format": "2v2"
       }
@@ -230,12 +224,12 @@
       "clan": "hK",
       "cur_1v1": 2314,
       "max_1v1": 2365,
-      "cur_tg": 1998,
+      "cur_tg": 1985,
       "max_tg": 2083,
       "last_1v1": "2026-11-06",
       "last_tg": "2026-11-10",
       "live": {
-        "match": 520036193,
+        "match": 520044607,
         "game": "Team Random Map",
         "format": "2v2"
       }
@@ -516,7 +510,12 @@
       "cur_tg": 1834,
       "max_tg": 1844,
       "last_1v1": "2026-11-09",
-      "last_tg": "2026-10-31"
+      "last_tg": "2026-10-31",
+      "live": {
+        "match": 520044618,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2986966,
@@ -527,7 +526,12 @@
       "cur_tg": 1612,
       "max_tg": 1824,
       "last_tg": "2026-11-10",
-      "last_1v1": "2026-10-13"
+      "last_1v1": "2026-10-13",
+      "live": {
+        "match": 520043749,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 4764520,
