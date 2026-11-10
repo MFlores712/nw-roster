@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-10T01:45:10Z",
+  "updated_at": "2026-11-10T01:55:08Z",
   "baseline": {
     "taken_at": "2026-11-09T14:00:15Z",
     "ranks": {
@@ -353,13 +353,7 @@
       "cur_tg": 1659,
       "max_tg": 1820,
       "last_1v1": "2026-11-03",
-      "last_tg": "2026-11-06",
-      "live": {
-        "match": 520050848,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "Chimirindo"
-      }
+      "last_tg": "2026-11-06"
     },
     {
       "profile_id": 400111,
@@ -518,22 +512,6 @@
       "last_1v1": "2026-10-13"
     },
     {
-      "profile_id": 2876835,
-      "tag": "Abejorro",
-      "clan": "nW",
-      "cur_1v1": 1950,
-      "max_1v1": 2152,
-      "cur_tg": 1834,
-      "max_tg": 1844,
-      "last_1v1": "2026-11-10",
-      "last_tg": "2026-10-31",
-      "live": {
-        "match": 520052615,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 4764520,
       "tag": "BooMBastic_",
       "clan": "KH",
@@ -553,6 +531,22 @@
       "max_tg": 1755,
       "last_1v1": "2026-09-16",
       "last_tg": "2026-09-16"
+    },
+    {
+      "profile_id": 2876835,
+      "tag": "Abejorro",
+      "clan": "nW",
+      "cur_1v1": 1939,
+      "max_1v1": 2152,
+      "cur_tg": 1834,
+      "max_tg": 1844,
+      "last_1v1": "2026-11-10",
+      "last_tg": "2026-10-31",
+      "live": {
+        "match": 520052615,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2969449,
