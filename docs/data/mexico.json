@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-10T23:31:33Z",
+  "updated_at": "2026-11-10T23:35:09Z",
   "baseline": {
     "taken_at": "2026-11-10T14:00:17Z",
     "ranks": {
@@ -323,21 +323,10 @@
       "last_1v1": "2026-11-10"
     },
     {
-      "profile_id": 1947348,
-      "tag": "themariach1",
-      "clan": "nW",
-      "cur_1v1": 2094,
-      "max_1v1": 2211,
-      "cur_tg": 1752,
-      "max_tg": 2034,
-      "last_1v1": "2026-07-08",
-      "last_tg": "2026-10-21"
-    },
-    {
       "profile_id": 3816609,
       "tag": "iamkaito",
       "clan": "nW",
-      "cur_1v1": 2086,
+      "cur_1v1": 2096,
       "max_1v1": 2304,
       "cur_tg": 1879,
       "max_tg": 1907,
@@ -348,6 +337,17 @@
         "game": "1v1 Random Map",
         "format": "1v1"
       }
+    },
+    {
+      "profile_id": 1947348,
+      "tag": "themariach1",
+      "clan": "nW",
+      "cur_1v1": 2094,
+      "max_1v1": 2211,
+      "cur_tg": 1752,
+      "max_tg": 2034,
+      "last_1v1": "2026-07-08",
+      "last_tg": "2026-10-21"
     },
     {
       "profile_id": 2934597,
