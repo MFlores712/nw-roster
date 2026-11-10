@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-10T23:45:10Z",
+  "updated_at": "2026-11-10T23:50:09Z",
   "baseline": {
     "taken_at": "2026-11-10T14:00:17Z",
     "ranks": {
@@ -85,7 +85,7 @@
       "profile_id": 2920057,
       "tag": "Lobo",
       "clan": "Ux",
-      "cur_1v1": 2637,
+      "cur_1v1": 2647,
       "max_1v1": 2685,
       "cur_tg": 2118,
       "max_tg": 2173,
