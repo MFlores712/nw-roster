@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-10T03:55:10Z",
+  "updated_at": "2026-11-10T04:00:19Z",
   "baseline": {
     "taken_at": "2026-11-09T14:00:15Z",
     "ranks": {
@@ -348,13 +348,7 @@
       "cur_tg": 1659,
       "max_tg": 1820,
       "last_1v1": "2026-11-03",
-      "last_tg": "2026-11-06",
-      "live": {
-        "match": 520071846,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "Chimirindo"
-      }
+      "last_tg": "2026-11-06"
     },
     {
       "profile_id": 400111,
@@ -399,7 +393,7 @@
       "last_1v1": "2026-11-07",
       "last_tg": "2026-11-07",
       "live": {
-        "match": 520073277,
+        "match": 520075687,
         "game": "Unranked",
         "format": "2v2",
         "account": "SynfonY"
@@ -599,12 +593,12 @@
       "clan": "Ux",
       "cur_1v1": 1909,
       "max_1v1": 1909,
-      "cur_tg": 1683,
+      "cur_tg": 1669,
       "max_tg": 1805,
       "last_tg": "2026-11-10",
       "last_1v1": "2026-10-16",
       "live": {
-        "match": 520072852,
+        "match": 520076008,
         "game": "Team Random Map",
         "format": "2v2"
       }
