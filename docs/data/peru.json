@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-10T22:50:08Z",
+  "updated_at": "2026-11-10T23:00:14Z",
   "baseline": {
     "taken_at": "2026-11-10T14:00:17Z",
     "ranks": {
@@ -56,7 +56,12 @@
       "cur_tg": 1706,
       "max_tg": 1846,
       "last_1v1": "2026-11-10",
-      "last_tg": "2026-11-10"
+      "last_tg": "2026-11-10",
+      "live": {
+        "match": 520248595,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 4706179,
@@ -132,22 +137,6 @@
       "last_tg": "2026-10-25"
     },
     {
-      "profile_id": 4229962,
-      "tag": "Réyiman",
-      "clan": "LvSP",
-      "cur_1v1": 1997,
-      "max_1v1": 2139,
-      "cur_tg": 1601,
-      "max_tg": 1719,
-      "last_1v1": "2026-11-10",
-      "last_tg": "2026-11-08",
-      "live": {
-        "match": 520245748,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 2366434,
       "via": {
         "id": 3265324,
@@ -160,7 +149,29 @@
       "cur_tg": 1825,
       "max_tg": 1843,
       "last_tg": "2026-11-10",
-      "last_1v1": "2026-11-10"
+      "last_1v1": "2026-11-10",
+      "live": {
+        "match": 520248562,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "CTM | Lelouch Jogo Bonito"
+      }
+    },
+    {
+      "profile_id": 4229962,
+      "tag": "Réyiman",
+      "clan": "LvSP",
+      "cur_1v1": 1986,
+      "max_1v1": 2139,
+      "cur_tg": 1601,
+      "max_tg": 1719,
+      "last_1v1": "2026-11-10",
+      "last_tg": "2026-11-08",
+      "live": {
+        "match": 520249120,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 1359694,
