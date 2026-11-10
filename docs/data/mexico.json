@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-10T01:30:12Z",
+  "updated_at": "2026-11-10T01:35:10Z",
   "baseline": {
     "taken_at": "2026-11-09T14:00:15Z",
     "ranks": {
@@ -134,7 +134,12 @@
       "cur_tg": 1996,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-11-10"
+      "last_tg": "2026-11-10",
+      "live": {
+        "match": 520051389,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 2598146,
@@ -227,7 +232,12 @@
       "cur_tg": 1994,
       "max_tg": 2083,
       "last_1v1": "2026-11-06",
-      "last_tg": "2026-11-10"
+      "last_tg": "2026-11-10",
+      "live": {
+        "match": 520051389,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 9666666,
@@ -348,7 +358,13 @@
       "cur_tg": 1659,
       "max_tg": 1820,
       "last_1v1": "2026-11-03",
-      "last_tg": "2026-11-06"
+      "last_tg": "2026-11-06",
+      "live": {
+        "match": 520050848,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "Chimirindo"
+      }
     },
     {
       "profile_id": 400111,
@@ -442,22 +458,6 @@
       "last_1v1": "2026-10-24"
     },
     {
-      "profile_id": 2876835,
-      "tag": "Abejorro",
-      "clan": "nW",
-      "cur_1v1": 1967,
-      "max_1v1": 2152,
-      "cur_tg": 1834,
-      "max_tg": 1844,
-      "last_1v1": "2026-11-10",
-      "last_tg": "2026-10-31",
-      "live": {
-        "match": 520048649,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 2291749,
       "tag": "Biner",
       "cur_1v1": 1966,
@@ -523,6 +523,17 @@
       "last_1v1": "2026-10-13"
     },
     {
+      "profile_id": 2876835,
+      "tag": "Abejorro",
+      "clan": "nW",
+      "cur_1v1": 1950,
+      "max_1v1": 2152,
+      "cur_tg": 1834,
+      "max_tg": 1844,
+      "last_1v1": "2026-11-10",
+      "last_tg": "2026-10-31"
+    },
+    {
       "profile_id": 4764520,
       "tag": "BooMBastic_",
       "clan": "KH",
@@ -564,9 +575,9 @@
       "last_1v1": "2026-11-10",
       "last_tg": "2026-11-07",
       "live": {
-        "match": 520047653,
-        "game": "1v1 Random Map",
-        "format": "1v1"
+        "match": 520051484,
+        "game": "Team Random Map",
+        "format": "2v2"
       }
     },
     {
