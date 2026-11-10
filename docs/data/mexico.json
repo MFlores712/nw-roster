@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-10T20:55:10Z",
+  "updated_at": "2026-11-10T21:05:08Z",
   "baseline": {
     "taken_at": "2026-11-10T14:00:17Z",
     "ranks": {
@@ -261,7 +261,12 @@
       "cur_tg": 1851,
       "max_tg": 2050,
       "last_1v1": "2026-11-10",
-      "last_tg": "2026-11-10"
+      "last_tg": "2026-11-10",
+      "live": {
+        "match": 520224523,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 914665,
@@ -445,7 +450,12 @@
       "cur_tg": 1840,
       "max_tg": 1997,
       "last_1v1": "2026-11-10",
-      "last_tg": "2026-11-09"
+      "last_tg": "2026-11-09",
+      "live": {
+        "match": 520224523,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 2291749,
@@ -524,22 +534,6 @@
       "last_1v1": "2026-11-04"
     },
     {
-      "profile_id": 278380,
-      "tag": "Lemoine",
-      "clan": "VL",
-      "cur_1v1": 1947,
-      "max_1v1": 1980,
-      "cur_tg": 1701,
-      "max_tg": 1865,
-      "last_tg": "2026-11-04",
-      "last_1v1": "2026-11-10",
-      "live": {
-        "match": 520216117,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 467847,
       "tag": "DoN.Vergas",
       "cur_1v1": 1940,
@@ -548,6 +542,17 @@
       "max_tg": 1755,
       "last_1v1": "2026-09-16",
       "last_tg": "2026-09-16"
+    },
+    {
+      "profile_id": 278380,
+      "tag": "Lemoine",
+      "clan": "VL",
+      "cur_1v1": 1933,
+      "max_1v1": 1980,
+      "cur_tg": 1701,
+      "max_tg": 1865,
+      "last_tg": "2026-11-04",
+      "last_1v1": "2026-11-10"
     },
     {
       "profile_id": 2969449,
