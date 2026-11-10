@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-10T05:50:08Z",
+  "updated_at": "2026-11-10T05:55:08Z",
   "baseline": {
     "taken_at": "2026-11-09T14:00:15Z",
     "ranks": {
@@ -309,19 +309,24 @@
       "cur_tg": 1890,
       "max_tg": 1907,
       "last_1v1": "2026-11-09",
-      "last_tg": "2026-11-10"
+      "last_tg": "2026-11-10",
+      "live": {
+        "match": 520089881,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 5803221,
       "tag": "Mahmoud Ahmadinejad",
-      "cur_1v1": 2123,
+      "cur_1v1": 2137,
       "max_1v1": 2181,
       "cur_tg": 1646,
       "max_tg": 1652,
       "last_tg": "2026-10-29",
       "last_1v1": "2026-11-10",
       "live": {
-        "match": 520086682,
+        "match": 520090262,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -411,7 +416,13 @@
       "cur_tg": 1838,
       "max_tg": 1962,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-07"
+      "last_tg": "2026-11-07",
+      "live": {
+        "match": 520089881,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "Stalingrado"
+      }
     },
     {
       "profile_id": 13215279,
