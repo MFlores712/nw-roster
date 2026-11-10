@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-10T22:35:09Z",
+  "updated_at": "2026-11-10T22:40:09Z",
   "baseline": {
     "taken_at": "2026-11-10T14:00:17Z",
     "ranks": {
@@ -166,22 +166,6 @@
       "last_1v1": "2026-10-27"
     },
     {
-      "profile_id": 12722189,
-      "tag": "PEGASO",
-      "clan": "CLB",
-      "cur_1v1": 1827,
-      "max_1v1": 1889,
-      "cur_tg": 1724,
-      "max_tg": 1855,
-      "last_1v1": "2026-11-10",
-      "last_tg": "2026-11-05",
-      "live": {
-        "match": 520238575,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 10733016,
       "tag": "The .Gocho",
       "cur_1v1": 1814,
@@ -201,6 +185,17 @@
       "max_tg": 1893,
       "last_tg": "2026-11-07",
       "last_1v1": "2026-11-10"
+    },
+    {
+      "profile_id": 12722189,
+      "tag": "PEGASO",
+      "clan": "CLB",
+      "cur_1v1": 1804,
+      "max_1v1": 1889,
+      "cur_tg": 1724,
+      "max_tg": 1855,
+      "last_1v1": "2026-11-10",
+      "last_tg": "2026-11-05"
     },
     {
       "profile_id": 2134856,
