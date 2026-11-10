@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-10T00:25:09Z",
+  "updated_at": "2026-11-10T00:30:12Z",
   "baseline": {
     "taken_at": "2026-11-09T14:00:15Z",
     "ranks": {
@@ -232,13 +232,7 @@
       "cur_tg": 1953,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-11-08",
-      "live": {
-        "match": 520036718,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "FierroFlash"
-      }
+      "last_tg": "2026-11-08"
     },
     {
       "profile_id": 4412109,
@@ -375,7 +369,13 @@
       "cur_tg": 1659,
       "max_tg": 1820,
       "last_1v1": "2026-11-03",
-      "last_tg": "2026-11-06"
+      "last_tg": "2026-11-06",
+      "live": {
+        "match": 520040360,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "Chimirindo"
+      }
     },
     {
       "profile_id": 400111,
@@ -447,15 +447,10 @@
       "tag": "MooN",
       "cur_1v1": 2002,
       "max_1v1": 2002,
-      "cur_tg": 1748,
+      "cur_tg": 1734,
       "max_tg": 1885,
       "last_1v1": "2026-08-15",
-      "last_tg": "2026-11-09",
-      "live": {
-        "match": 520036718,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-10"
     },
     {
       "profile_id": 6501299,
@@ -584,14 +579,14 @@
     {
       "profile_id": 3254820,
       "tag": "__Chino",
-      "cur_1v1": 1917,
+      "cur_1v1": 1925,
       "max_1v1": 2003,
       "cur_tg": 1439,
       "max_tg": 1444,
-      "last_1v1": "2026-11-07",
+      "last_1v1": "2026-11-10",
       "last_tg": "2026-11-07",
       "live": {
-        "match": 520035696,
+        "match": 520040296,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
