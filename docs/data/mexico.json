@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-10T02:40:10Z",
+  "updated_at": "2026-11-10T02:45:10Z",
   "baseline": {
     "taken_at": "2026-11-09T14:00:15Z",
     "ranks": {
@@ -317,15 +317,10 @@
       "clan": "nW",
       "cur_1v1": 2142,
       "max_1v1": 2304,
-      "cur_tg": 1850,
-      "max_tg": 1855,
+      "cur_tg": 1864,
+      "max_tg": 1864,
       "last_1v1": "2026-11-09",
-      "last_tg": "2026-11-08",
-      "live": {
-        "match": 520060646,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-10"
     },
     {
       "profile_id": 13138746,
@@ -371,7 +366,7 @@
       "last_1v1": "2026-11-03",
       "last_tg": "2026-11-06",
       "live": {
-        "match": 520062563,
+        "match": 520063938,
         "game": "1v1 Random Map",
         "format": "1v1",
         "account": "Chimirindo"
