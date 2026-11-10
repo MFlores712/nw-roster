@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-10T19:40:10Z",
+  "updated_at": "2026-11-10T19:45:11Z",
   "baseline": {
     "taken_at": "2026-11-10T14:00:17Z",
     "ranks": {
@@ -316,14 +316,14 @@
     {
       "profile_id": 5803221,
       "tag": "Mahmoud Ahmadinejad",
-      "cur_1v1": 2114,
+      "cur_1v1": 2105,
       "max_1v1": 2181,
       "cur_tg": 1646,
       "max_tg": 1652,
       "last_tg": "2026-10-29",
       "last_1v1": "2026-11-10",
       "live": {
-        "match": 520203205,
+        "match": 520206744,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
