@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-11T20:15:09Z",
+  "updated_at": "2026-11-11T20:57:31Z",
   "baseline": {
     "taken_at": "2026-11-11T14:00:16Z",
     "ranks": {
@@ -70,7 +70,7 @@
       "last_tg": "2026-10-08",
       "last_1v1": "2026-11-10",
       "live": {
-        "match": 520446407,
+        "match": 520457050,
         "game": "Unranked",
         "format": "1v1"
       }
@@ -172,13 +172,7 @@
       "cur_tg": 1845,
       "max_tg": 1907,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-14",
-      "live": {
-        "match": 520445666,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "Volg"
-      }
+      "last_tg": "2026-10-14"
     },
     {
       "profile_id": 312774,
@@ -211,7 +205,12 @@
       "cur_tg": 1963,
       "max_tg": 1974,
       "last_1v1": "2026-11-11",
-      "last_tg": "2026-11-11"
+      "last_tg": "2026-11-11",
+      "live": {
+        "match": 520454788,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 9031952,
@@ -224,7 +223,7 @@
       "last_1v1": "2026-10-17",
       "last_tg": "2026-11-08",
       "live": {
-        "match": 520446045,
+        "match": 520455420,
         "game": "1v1 Random Map",
         "format": "1v1",
         "account": "FierroFlash"
@@ -259,28 +258,23 @@
       "clan": "VN",
       "cur_1v1": 2300,
       "max_1v1": 2300,
-      "cur_tg": 1901,
+      "cur_tg": 1880,
       "max_tg": 2050,
       "last_1v1": "2026-11-10",
-      "last_tg": "2026-11-11",
-      "live": {
-        "match": 520446283,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-11-11"
     },
     {
       "profile_id": 4412109,
       "tag": "HGB",
       "clan": "hK",
-      "cur_1v1": 2273,
+      "cur_1v1": 2261,
       "max_1v1": 2365,
       "cur_tg": 2004,
       "max_tg": 2083,
       "last_1v1": "2026-11-11",
       "last_tg": "2026-11-11",
       "live": {
-        "match": 520447357,
+        "match": 520453435,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -475,15 +469,10 @@
       "clan": "VN",
       "cur_1v1": 1983,
       "max_1v1": 2121,
-      "cur_tg": 1892,
+      "cur_tg": 1872,
       "max_tg": 1997,
       "last_1v1": "2026-11-10",
-      "last_tg": "2026-11-11",
-      "live": {
-        "match": 520446283,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-11-11"
     },
     {
       "profile_id": 2291749,
