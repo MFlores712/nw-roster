@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-11T19:05:11Z",
+  "updated_at": "2026-11-11T19:15:12Z",
   "baseline": {
     "taken_at": "2026-11-11T14:00:16Z",
     "ranks": {
@@ -56,13 +56,7 @@
       "cur_tg": 1788,
       "max_tg": 1828,
       "last_1v1": "2026-11-11",
-      "last_tg": "2026-09-05",
-      "live": {
-        "match": 520426825,
-        "game": "Team Random Map",
-        "format": "3v3",
-        "account": "NuMa | Empire"
-      }
+      "last_tg": "2026-09-05"
     },
     {
       "profile_id": 2825261,
@@ -190,17 +184,12 @@
       "profile_id": 12930522,
       "tag": "Kevin",
       "clan": "VENÓN",
-      "cur_1v1": 1798,
+      "cur_1v1": 1791,
       "max_1v1": 1908,
       "cur_tg": 1780,
       "max_tg": 1893,
       "last_tg": "2026-11-11",
-      "last_1v1": "2026-11-11",
-      "live": {
-        "match": 520429667,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-11"
     },
     {
       "profile_id": 2134856,
