@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-11T18:08:25Z",
+  "updated_at": "2026-11-11T18:15:10Z",
   "baseline": {
     "taken_at": "2026-11-11T14:00:16Z",
     "ranks": {
@@ -56,7 +56,13 @@
       "cur_tg": 1788,
       "max_tg": 1828,
       "last_1v1": "2026-11-11",
-      "last_tg": "2026-09-05"
+      "last_tg": "2026-09-05",
+      "live": {
+        "match": 520418554,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "NuMa | AngelR2"
+      }
     },
     {
       "profile_id": 2825261,
@@ -155,27 +161,17 @@
       "last_1v1": "2026-10-27"
     },
     {
-      "profile_id": 10733016,
-      "tag": "The .Gocho",
-      "cur_1v1": 1814,
-      "max_1v1": 1814,
-      "cur_tg": 1698,
-      "max_tg": 1839,
-      "last_tg": "2026-10-25",
-      "last_1v1": "2026-10-09"
-    },
-    {
       "profile_id": 12930522,
       "tag": "Kevin",
       "clan": "VENÓN",
-      "cur_1v1": 1809,
+      "cur_1v1": 1817,
       "max_1v1": 1908,
       "cur_tg": 1802,
       "max_tg": 1893,
       "last_tg": "2026-11-07",
-      "last_1v1": "2026-11-10",
+      "last_1v1": "2026-11-11",
       "live": {
-        "match": 520416977,
+        "match": 520419241,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -184,17 +180,22 @@
       "profile_id": 12722189,
       "tag": "PEGASO",
       "clan": "CLB",
-      "cur_1v1": 1795,
+      "cur_1v1": 1814,
       "max_1v1": 1889,
       "cur_tg": 1705,
       "max_tg": 1855,
       "last_1v1": "2026-11-11",
-      "last_tg": "2026-11-11",
-      "live": {
-        "match": 520413311,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-11"
+    },
+    {
+      "profile_id": 10733016,
+      "tag": "The .Gocho",
+      "cur_1v1": 1814,
+      "max_1v1": 1814,
+      "cur_tg": 1698,
+      "max_tg": 1839,
+      "last_tg": "2026-10-25",
+      "last_1v1": "2026-10-09"
     },
     {
       "profile_id": 2134856,
