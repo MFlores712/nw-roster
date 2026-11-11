@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-11T06:15:09Z",
+  "updated_at": "2026-11-11T06:20:11Z",
   "baseline": {
     "taken_at": "2026-11-10T14:00:17Z",
     "ranks": {
@@ -269,17 +269,12 @@
       "profile_id": 4412109,
       "tag": "HGB",
       "clan": "hK",
-      "cur_1v1": 2240,
+      "cur_1v1": 2252,
       "max_1v1": 2365,
       "cur_tg": 2004,
       "max_tg": 2083,
       "last_1v1": "2026-11-11",
-      "last_tg": "2026-11-11",
-      "live": {
-        "match": 520316334,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-11"
     },
     {
       "profile_id": 914665,
@@ -427,15 +422,10 @@
       "tag": "MooN",
       "cur_1v1": 2002,
       "max_1v1": 2002,
-      "cur_tg": 1723,
+      "cur_tg": 1698,
       "max_tg": 1885,
       "last_1v1": "2026-08-15",
-      "last_tg": "2026-11-11",
-      "live": {
-        "match": 520314426,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-11"
     },
     {
       "profile_id": 2876835,
