@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-11T15:30:12Z",
+  "updated_at": "2026-11-11T15:35:10Z",
   "baseline": {
     "taken_at": "2026-11-11T14:00:16Z",
     "ranks": {
@@ -51,17 +51,12 @@
       "profile_id": 9558892,
       "tag": "WilliamS",
       "clan": "LE",
-      "cur_1v1": 2423,
+      "cur_1v1": 2416,
       "max_1v1": 2446,
       "cur_tg": 1706,
       "max_tg": 1846,
       "last_1v1": "2026-11-11",
-      "last_tg": "2026-11-10",
-      "live": {
-        "match": 520381814,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-10"
     },
     {
       "profile_id": 4706179,
@@ -124,7 +119,12 @@
       "cur_tg": 1670,
       "max_tg": 1840,
       "last_tg": "2026-11-11",
-      "last_1v1": "2026-09-24"
+      "last_1v1": "2026-09-24",
+      "live": {
+        "match": 520386364,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 2366434,
@@ -142,22 +142,6 @@
       "last_1v1": "2026-11-11"
     },
     {
-      "profile_id": 4229962,
-      "tag": "Réyiman",
-      "clan": "LvSP",
-      "cur_1v1": 2007,
-      "max_1v1": 2139,
-      "cur_tg": 1601,
-      "max_tg": 1719,
-      "last_1v1": "2026-11-11",
-      "last_tg": "2026-11-08",
-      "live": {
-        "match": 520382567,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 13518993,
       "tag": "Miguel T",
       "cur_1v1": 1998,
@@ -166,6 +150,22 @@
       "max_tg": 1703,
       "last_1v1": "2026-11-07",
       "last_tg": "2026-10-25"
+    },
+    {
+      "profile_id": 4229962,
+      "tag": "Réyiman",
+      "clan": "LvSP",
+      "cur_1v1": 1990,
+      "max_1v1": 2139,
+      "cur_tg": 1601,
+      "max_tg": 1719,
+      "last_1v1": "2026-11-11",
+      "last_tg": "2026-11-08",
+      "live": {
+        "match": 520386671,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 1359694,
