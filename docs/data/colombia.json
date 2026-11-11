@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-11T18:40:10Z",
+  "updated_at": "2026-11-11T18:45:09Z",
   "baseline": {
     "taken_at": "2026-11-11T14:00:16Z",
     "ranks": {
@@ -147,7 +147,13 @@
       "cur_tg": 1900,
       "max_tg": 1905,
       "last_1v1": "2026-09-21",
-      "last_tg": "2026-10-02"
+      "last_tg": "2026-10-02",
+      "live": {
+        "match": 520425174,
+        "game": "Team Random Map",
+        "format": "3v3",
+        "account": "[GDL] Capitan Nicky"
+      }
     },
     {
       "profile_id": 1542191,
@@ -163,17 +169,12 @@
       "profile_id": 12722189,
       "tag": "PEGASO",
       "clan": "CLB",
-      "cur_1v1": 1814,
+      "cur_1v1": 1828,
       "max_1v1": 1889,
       "cur_tg": 1705,
       "max_tg": 1855,
       "last_1v1": "2026-11-11",
-      "last_tg": "2026-11-11",
-      "live": {
-        "match": 520421134,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-11"
     },
     {
       "profile_id": 10733016,
@@ -194,7 +195,12 @@
       "cur_tg": 1802,
       "max_tg": 1893,
       "last_tg": "2026-11-07",
-      "last_1v1": "2026-11-11"
+      "last_1v1": "2026-11-11",
+      "live": {
+        "match": 520425174,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 2134856,
