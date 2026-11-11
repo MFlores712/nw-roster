@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-11T00:20:09Z",
+  "updated_at": "2026-11-11T00:25:09Z",
   "baseline": {
     "taken_at": "2026-11-10T14:00:17Z",
     "ranks": {
@@ -124,7 +124,7 @@
       "last_1v1": "2026-11-07",
       "last_tg": "2026-10-15",
       "live": {
-        "match": 520260296,
+        "match": 520264326,
         "game": "Team Random Map",
         "format": "2v2",
         "account": "VENÓN | Mauricio"
@@ -339,12 +339,12 @@
       "clan": "nW",
       "cur_1v1": 2096,
       "max_1v1": 2304,
-      "cur_tg": 1879,
+      "cur_tg": 1857,
       "max_tg": 1907,
       "last_1v1": "2026-11-10",
-      "last_tg": "2026-11-10",
+      "last_tg": "2026-11-11",
       "live": {
-        "match": 520257355,
+        "match": 520264326,
         "game": "Team Random Map",
         "format": "2v2"
       }

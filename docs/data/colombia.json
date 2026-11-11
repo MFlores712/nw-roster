@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-11T00:10:09Z",
+  "updated_at": "2026-11-11T00:25:09Z",
   "baseline": {
     "taken_at": "2026-11-10T14:00:17Z",
     "ranks": {
@@ -42,12 +42,12 @@
       "clan": "nW",
       "cur_1v1": 2331,
       "max_1v1": 2495,
-      "cur_tg": 1915,
+      "cur_tg": 1893,
       "max_tg": 1945,
       "last_1v1": "2026-11-10",
-      "last_tg": "2026-11-10",
+      "last_tg": "2026-11-11",
       "live": {
-        "match": 520257355,
+        "match": 520264326,
         "game": "Team Random Map",
         "format": "2v2"
       }
@@ -127,15 +127,10 @@
       "tag": "Matazombies",
       "cur_1v1": 1937,
       "max_1v1": 1974,
-      "cur_tg": 1779,
+      "cur_tg": 1770,
       "max_tg": 1975,
-      "last_tg": "2026-11-10",
-      "last_1v1": "2026-11-10",
-      "live": {
-        "match": 520260296,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-11",
+      "last_1v1": "2026-11-10"
     },
     {
       "profile_id": 6431793,
