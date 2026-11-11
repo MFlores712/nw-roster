@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-11T07:05:08Z",
+  "updated_at": "2026-11-11T07:10:10Z",
   "baseline": {
     "taken_at": "2026-11-10T14:00:17Z",
     "ranks": {
@@ -427,15 +427,10 @@
       "tag": "MooN",
       "cur_1v1": 2002,
       "max_1v1": 2002,
-      "cur_tg": 1710,
+      "cur_tg": 1718,
       "max_tg": 1885,
       "last_1v1": "2026-08-15",
-      "last_tg": "2026-11-11",
-      "live": {
-        "match": 520321541,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-11"
     },
     {
       "profile_id": 2876835,
