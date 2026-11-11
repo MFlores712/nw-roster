@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-11T22:50:10Z",
+  "updated_at": "2026-11-11T22:55:34Z",
   "baseline": {
     "taken_at": "2026-11-11T14:00:16Z",
     "ranks": {
@@ -68,12 +68,7 @@
       "cur_tg": 2152,
       "max_tg": 2169,
       "last_tg": "2026-10-08",
-      "last_1v1": "2026-11-10",
-      "live": {
-        "match": 520477208,
-        "game": "Unranked",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-10"
     },
     {
       "profile_id": 2920057,
@@ -106,17 +101,12 @@
       "profile_id": 5984120,
       "tag": "Combito",
       "clan": "Ux",
-      "cur_1v1": 2621,
+      "cur_1v1": 2622,
       "max_1v1": 2790,
       "cur_tg": 1658,
       "max_tg": 1885,
       "last_1v1": "2026-11-11",
-      "last_tg": "2026-11-08",
-      "live": {
-        "match": 520479638,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-08"
     },
     {
       "profile_id": 9449579,
@@ -237,13 +227,7 @@
       "cur_tg": 1953,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-11-08",
-      "live": {
-        "match": 520479079,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "FierroFlash"
-      }
+      "last_tg": "2026-11-08"
     },
     {
       "profile_id": 1485562,
