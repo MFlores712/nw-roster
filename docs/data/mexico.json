@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-11T06:20:11Z",
+  "updated_at": "2026-11-11T06:25:08Z",
   "baseline": {
     "taken_at": "2026-11-10T14:00:17Z",
     "ranks": {
@@ -140,13 +140,7 @@
       "cur_tg": 2005,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-11-11",
-      "live": {
-        "match": 520316465,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "The_Fury"
-      }
+      "last_tg": "2026-11-11"
     },
     {
       "profile_id": 2598146,
@@ -307,7 +301,12 @@
       "cur_tg": 1980,
       "max_tg": 2003,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-11"
+      "last_tg": "2026-11-11",
+      "live": {
+        "match": 520318489,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 5803221,
@@ -372,7 +371,12 @@
       "cur_tg": 1901,
       "max_tg": 1906,
       "last_1v1": "2026-06-27",
-      "last_tg": "2026-11-11"
+      "last_tg": "2026-11-11",
+      "live": {
+        "match": 520318271,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 1261126,
@@ -404,7 +408,13 @@
       "cur_tg": 1838,
       "max_tg": 1962,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-07"
+      "last_tg": "2026-11-07",
+      "live": {
+        "match": 520318489,
+        "game": "Team Random Map",
+        "format": "3v3",
+        "account": "Stalingrado"
+      }
     },
     {
       "profile_id": 13215279,
@@ -425,7 +435,12 @@
       "cur_tg": 1698,
       "max_tg": 1885,
       "last_1v1": "2026-08-15",
-      "last_tg": "2026-11-11"
+      "last_tg": "2026-11-11",
+      "live": {
+        "match": 520318361,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 2876835,
