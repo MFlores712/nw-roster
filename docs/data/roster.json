@@ -1,6 +1,6 @@
 {
   "name": "new Wave",
-  "updated_at": "2026-11-11T02:15:08Z",
+  "updated_at": "2026-11-11T02:25:10Z",
   "baseline": {
     "taken_at": "2026-11-10T14:00:17Z",
     "ranks": {
@@ -22,15 +22,10 @@
       "country": "Colombia",
       "cur_1v1": 2331,
       "max_1v1": 2495,
-      "cur_tg": 1891,
+      "cur_tg": 1897,
       "max_tg": 1945,
       "last_1v1": "2026-11-10",
-      "last_tg": "2026-11-11",
-      "live": {
-        "match": 520283204,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-11-11"
     },
     {
       "profile_id": 914665,
@@ -38,15 +33,10 @@
       "country": "Mexico",
       "cur_1v1": 2223,
       "max_1v1": 2268,
-      "cur_tg": 1816,
+      "cur_tg": 1823,
       "max_tg": 2024,
       "last_1v1": "2026-11-08",
-      "last_tg": "2026-11-11",
-      "live": {
-        "match": 520283204,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-11-11"
     },
     {
       "profile_id": 3816609,
@@ -54,15 +44,10 @@
       "country": "Mexico",
       "cur_1v1": 2096,
       "max_1v1": 2304,
-      "cur_tg": 1857,
+      "cur_tg": 1863,
       "max_tg": 1907,
       "last_1v1": "2026-11-10",
-      "last_tg": "2026-11-11",
-      "live": {
-        "match": 520283204,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-11-11"
     },
     {
       "profile_id": 1947348,
@@ -112,14 +97,14 @@
       "profile_id": 1359694,
       "tag": "AtilA",
       "country": "Peru",
-      "cur_1v1": 1956,
+      "cur_1v1": 1970,
       "max_1v1": 2123,
       "cur_tg": 1622,
       "max_tg": 1670,
       "last_tg": "2026-11-01",
       "last_1v1": "2026-11-11",
       "live": {
-        "match": 520282428,
+        "match": 520285673,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
