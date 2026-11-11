@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-11T23:20:10Z",
+  "updated_at": "2026-11-11T23:27:54Z",
   "baseline": {
     "taken_at": "2026-11-11T14:00:16Z",
     "ranks": {
@@ -164,6 +164,17 @@
       "last_1v1": "2026-10-31"
     },
     {
+      "profile_id": 2295504,
+      "tag": "Eren",
+      "clan": "hK",
+      "cur_1v1": 2370,
+      "max_1v1": 2370,
+      "cur_tg": 1845,
+      "max_tg": 1907,
+      "last_1v1": "2026-11-11",
+      "last_tg": "2026-10-14"
+    },
+    {
       "profile_id": 310739,
       "tag": "SoyLaHostia",
       "clan": "hK",
@@ -173,22 +184,6 @@
       "max_tg": 1959,
       "last_1v1": "2026-11-10",
       "last_tg": "2026-11-10"
-    },
-    {
-      "profile_id": 2295504,
-      "tag": "Eren",
-      "clan": "hK",
-      "cur_1v1": 2345,
-      "max_1v1": 2345,
-      "cur_tg": 1845,
-      "max_tg": 1907,
-      "last_1v1": "2026-10-24",
-      "last_tg": "2026-10-14",
-      "live": {
-        "match": 520480659,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 312774,
@@ -331,7 +326,12 @@
       "cur_tg": 1653,
       "max_tg": 1654,
       "last_tg": "2026-11-11",
-      "last_1v1": "2026-11-11"
+      "last_1v1": "2026-11-11",
+      "live": {
+        "match": 520487184,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 1947348,
@@ -472,7 +472,12 @@
       "cur_tg": 1872,
       "max_tg": 1997,
       "last_1v1": "2026-11-11",
-      "last_tg": "2026-11-11"
+      "last_tg": "2026-11-11",
+      "live": {
+        "match": 520486372,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2291749,
