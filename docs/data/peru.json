@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-11T03:10:10Z",
+  "updated_at": "2026-11-11T03:20:10Z",
   "baseline": {
     "taken_at": "2026-11-10T14:00:17Z",
     "ranks": {
@@ -121,12 +121,12 @@
       "tag": "noru",
       "cur_1v1": 2031,
       "max_1v1": 2031,
-      "cur_tg": 1613,
+      "cur_tg": 1636,
       "max_tg": 1840,
       "last_tg": "2026-11-11",
       "last_1v1": "2026-09-24",
       "live": {
-        "match": 520291556,
+        "match": 520295794,
         "game": "Team Random Map",
         "format": "4v4"
       }
@@ -176,7 +176,12 @@
       "cur_tg": 1622,
       "max_tg": 1670,
       "last_tg": "2026-11-01",
-      "last_1v1": "2026-11-11"
+      "last_1v1": "2026-11-11",
+      "live": {
+        "match": 520295612,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 3034651,
@@ -219,13 +224,7 @@
       "cur_tg": 1388,
       "max_tg": 1608,
       "last_1v1": "2026-09-19",
-      "last_tg": "2026-11-09",
-      "live": {
-        "match": 520294042,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "CTM | VaccumDestroyer"
-      }
+      "last_tg": "2026-11-09"
     },
     {
       "profile_id": 4234652,
