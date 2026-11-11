@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-11T04:00:12Z",
+  "updated_at": "2026-11-11T04:10:09Z",
   "baseline": {
     "taken_at": "2026-11-10T14:00:17Z",
     "ranks": {
@@ -173,7 +173,13 @@
       "cur_tg": 1802,
       "max_tg": 1893,
       "last_tg": "2026-11-07",
-      "last_1v1": "2026-11-10"
+      "last_1v1": "2026-11-10",
+      "live": {
+        "match": 520302723,
+        "game": "Unranked",
+        "format": "4v4",
+        "account": "GDL Kevin"
+      }
     },
     {
       "profile_id": 12722189,
