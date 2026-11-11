@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-11T05:40:10Z",
+  "updated_at": "2026-11-11T05:45:09Z",
   "baseline": {
     "taken_at": "2026-11-10T14:00:17Z",
     "ranks": {
@@ -300,22 +300,22 @@
       "cur_tg": 2003,
       "max_tg": 2003,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-11"
+      "last_tg": "2026-11-11",
+      "live": {
+        "match": 520314729,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 5803221,
       "tag": "Mahmoud Ahmadinejad",
       "cur_1v1": 2102,
       "max_1v1": 2181,
-      "cur_tg": 1634,
+      "cur_tg": 1646,
       "max_tg": 1654,
       "last_tg": "2026-11-11",
-      "last_1v1": "2026-11-10",
-      "live": {
-        "match": 520314595,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_1v1": "2026-11-10"
     },
     {
       "profile_id": 3816609,
@@ -359,13 +359,7 @@
       "cur_tg": 1659,
       "max_tg": 1820,
       "last_1v1": "2026-11-03",
-      "last_tg": "2026-11-06",
-      "live": {
-        "match": 520312953,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "Chimirindo"
-      }
+      "last_tg": "2026-11-06"
     },
     {
       "profile_id": 400111,
@@ -408,7 +402,13 @@
       "cur_tg": 1838,
       "max_tg": 1962,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-07"
+      "last_tg": "2026-11-07",
+      "live": {
+        "match": 520314729,
+        "game": "Team Random Map",
+        "format": "3v3",
+        "account": "Stalingrado"
+      }
     },
     {
       "profile_id": 13215279,
@@ -478,7 +478,12 @@
       "cur_tg": 1719,
       "max_tg": 1820,
       "last_tg": "2026-11-04",
-      "last_1v1": "2026-11-11"
+      "last_1v1": "2026-11-11",
+      "live": {
+        "match": 520314948,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2291749,
