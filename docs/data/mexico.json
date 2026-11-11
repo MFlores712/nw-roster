@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-11T02:57:37Z",
+  "updated_at": "2026-11-11T03:00:14Z",
   "baseline": {
     "taken_at": "2026-11-10T14:00:17Z",
     "ranks": {
@@ -139,12 +139,7 @@
       "cur_tg": 2005,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-11-11",
-      "live": {
-        "match": 520287189,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-11-11"
     },
     {
       "profile_id": 2598146,
@@ -188,17 +183,11 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 520287189,
-        "game": "Team Random Map",
-        "format": "3v3",
-        "account": "hK | RanDoM"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 12723994,
-      "tag": "Xhing is Dragonstar",
+      "tag": "PuNii",
       "clan": "VENÓN",
       "cur_1v1": 2337,
       "max_1v1": 2377,
@@ -249,12 +238,7 @@
       "cur_tg": 2004,
       "max_tg": 2083,
       "last_1v1": "2026-11-06",
-      "last_tg": "2026-11-11",
-      "live": {
-        "match": 520287189,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-11-11"
     },
     {
       "profile_id": 9666666,
@@ -288,12 +272,7 @@
       "cur_tg": 1814,
       "max_tg": 2024,
       "last_1v1": "2026-11-08",
-      "last_tg": "2026-11-11",
-      "live": {
-        "match": 520287189,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-11-11"
     },
     {
       "profile_id": 917863,
@@ -336,12 +315,7 @@
       "cur_tg": 1853,
       "max_tg": 1907,
       "last_1v1": "2026-11-10",
-      "last_tg": "2026-11-11",
-      "live": {
-        "match": 520287189,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-11-11"
     },
     {
       "profile_id": 1947348,
