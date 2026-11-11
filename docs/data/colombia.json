@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-11T17:20:09Z",
+  "updated_at": "2026-11-11T17:45:10Z",
   "baseline": {
     "taken_at": "2026-11-11T14:00:16Z",
     "ranks": {
@@ -113,21 +113,6 @@
       "last_tg": "2026-11-06"
     },
     {
-      "profile_id": 5368998,
-      "tag": "Matazombies",
-      "cur_1v1": 1937,
-      "max_1v1": 1974,
-      "cur_tg": 1799,
-      "max_tg": 1975,
-      "last_tg": "2026-11-11",
-      "last_1v1": "2026-11-10",
-      "live": {
-        "match": 520406912,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 6431793,
       "tag": "Toth",
       "clan": "NuMa",
@@ -137,6 +122,16 @@
       "max_tg": 1893,
       "last_tg": "2026-11-05",
       "last_1v1": "2026-11-01"
+    },
+    {
+      "profile_id": 5368998,
+      "tag": "Matazombies",
+      "cur_1v1": 1924,
+      "max_1v1": 1974,
+      "cur_tg": 1799,
+      "max_tg": 1975,
+      "last_tg": "2026-11-11",
+      "last_1v1": "2026-11-11"
     },
     {
       "profile_id": 2479622,
@@ -160,22 +155,6 @@
       "last_1v1": "2026-10-27"
     },
     {
-      "profile_id": 12722189,
-      "tag": "PEGASO",
-      "clan": "CLB",
-      "cur_1v1": 1814,
-      "max_1v1": 1889,
-      "cur_tg": 1705,
-      "max_tg": 1855,
-      "last_1v1": "2026-11-11",
-      "last_tg": "2026-11-11",
-      "live": {
-        "match": 520406189,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 10733016,
       "tag": "The .Gocho",
       "cur_1v1": 1814,
@@ -195,6 +174,17 @@
       "max_tg": 1893,
       "last_tg": "2026-11-07",
       "last_1v1": "2026-11-10"
+    },
+    {
+      "profile_id": 12722189,
+      "tag": "PEGASO",
+      "clan": "CLB",
+      "cur_1v1": 1795,
+      "max_1v1": 1889,
+      "cur_tg": 1705,
+      "max_tg": 1855,
+      "last_1v1": "2026-11-11",
+      "last_tg": "2026-11-11"
     },
     {
       "profile_id": 2134856,
