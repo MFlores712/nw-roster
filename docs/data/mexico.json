@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-11T05:25:09Z",
+  "updated_at": "2026-11-11T05:30:10Z",
   "baseline": {
     "taken_at": "2026-11-10T14:00:17Z",
     "ranks": {
@@ -76,15 +76,10 @@
       "clan": "Ux",
       "cur_1v1": 2669,
       "max_1v1": 2685,
-      "cur_tg": 2132,
+      "cur_tg": 2134,
       "max_tg": 2173,
       "last_1v1": "2026-11-11",
-      "last_tg": "2026-11-11",
-      "live": {
-        "match": 520311854,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-11"
     },
     {
       "profile_id": 5984120,
@@ -256,7 +251,7 @@
       "profile_id": 4412109,
       "tag": "HGB",
       "clan": "hK",
-      "cur_1v1": 2288,
+      "cur_1v1": 2263,
       "max_1v1": 2365,
       "cur_tg": 2004,
       "max_tg": 2083,
@@ -299,7 +294,12 @@
       "cur_tg": 1994,
       "max_tg": 1994,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-09"
+      "last_tg": "2026-11-09",
+      "live": {
+        "match": 520313180,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 5803221,
@@ -407,7 +407,13 @@
       "cur_tg": 1838,
       "max_tg": 1962,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-07"
+      "last_tg": "2026-11-07",
+      "live": {
+        "match": 520313180,
+        "game": "Team Random Map",
+        "format": "3v3",
+        "account": "Stalingrado"
+      }
     },
     {
       "profile_id": 13215279,
