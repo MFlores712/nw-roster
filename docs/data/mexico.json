@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-11T01:25:09Z",
+  "updated_at": "2026-11-11T01:30:13Z",
   "baseline": {
     "taken_at": "2026-11-10T14:00:17Z",
     "ranks": {
@@ -323,7 +323,7 @@
       "clan": "nW",
       "cur_1v1": 2096,
       "max_1v1": 2304,
-      "cur_tg": 1849,
+      "cur_tg": 1855,
       "max_tg": 1907,
       "last_1v1": "2026-11-10",
       "last_tg": "2026-11-11"
@@ -464,6 +464,17 @@
       "last_tg": "2026-11-10"
     },
     {
+      "profile_id": 358501,
+      "tag": "El Claut_One",
+      "clan": "VENÓN",
+      "cur_1v1": 1966,
+      "max_1v1": 2115,
+      "cur_tg": 1719,
+      "max_tg": 1820,
+      "last_tg": "2026-11-04",
+      "last_1v1": "2026-11-11"
+    },
+    {
       "profile_id": 2291749,
       "tag": "Biner",
       "cur_1v1": 1966,
@@ -505,22 +516,6 @@
       "max_tg": 1824,
       "last_1v1": "2026-10-25",
       "last_tg": "2026-11-01"
-    },
-    {
-      "profile_id": 358501,
-      "tag": "El Claut_One",
-      "clan": "VENÓN",
-      "cur_1v1": 1952,
-      "max_1v1": 2115,
-      "cur_tg": 1719,
-      "max_tg": 1820,
-      "last_tg": "2026-11-04",
-      "last_1v1": "2026-11-10",
-      "live": {
-        "match": 520271214,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 2986966,
