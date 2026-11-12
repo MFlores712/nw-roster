@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-12T06:40:09Z",
+  "updated_at": "2026-11-12T06:45:10Z",
   "baseline": {
     "taken_at": "2026-11-11T14:00:16Z",
     "ranks": {
@@ -101,7 +101,12 @@
       "cur_tg": 1658,
       "max_tg": 1885,
       "last_1v1": "2026-11-12",
-      "last_tg": "2026-11-08"
+      "last_tg": "2026-11-08",
+      "live": {
+        "match": 520550647,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 9449579,
@@ -112,13 +117,7 @@
       "cur_tg": 2140,
       "max_tg": 2151,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-10-15",
-      "live": {
-        "match": 520546643,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "[GDL] Chuchito"
-      }
+      "last_tg": "2026-10-15"
     },
     {
       "profile_id": 401359,
@@ -559,13 +558,7 @@
       "cur_tg": 1820,
       "max_tg": 1821,
       "last_tg": "2026-10-16",
-      "last_1v1": "2026-09-18",
-      "live": {
-        "match": 520547675,
-        "game": "Unranked",
-        "format": "4v4",
-        "account": "[GDL]CemenTox"
-      }
+      "last_1v1": "2026-09-18"
     },
     {
       "profile_id": 324005,
@@ -619,7 +612,12 @@
       "cur_tg": 1720,
       "max_tg": 1888,
       "last_1v1": "2026-11-10",
-      "last_tg": "2026-11-12"
+      "last_tg": "2026-11-12",
+      "live": {
+        "match": 520550653,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     }
   ],
   "show_top": 45,
