@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-12T04:30:11Z",
+  "updated_at": "2026-11-12T04:35:10Z",
   "baseline": {
     "taken_at": "2026-11-11T14:00:16Z",
     "ranks": {
@@ -101,7 +101,13 @@
       "cur_tg": 2140,
       "max_tg": 2151,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-10-15"
+      "last_tg": "2026-10-15",
+      "live": {
+        "match": 520537579,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "[GDL] Chuchito"
+      }
     },
     {
       "profile_id": 5984120,
@@ -427,7 +433,12 @@
       "cur_tg": 1829,
       "max_tg": 1962,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-12"
+      "last_tg": "2026-11-12",
+      "live": {
+        "match": 520537592,
+        "game": "Team Random Map",
+        "format": "2v2"
+      }
     },
     {
       "profile_id": 233625,
@@ -456,6 +467,17 @@
       "last_tg": "2026-10-31"
     },
     {
+      "profile_id": 13215279,
+      "tag": "GO1_mx",
+      "clan": "MZTK",
+      "cur_1v1": 1993,
+      "max_1v1": 2093,
+      "cur_tg": 1700,
+      "max_tg": 1860,
+      "last_1v1": "2026-11-12",
+      "last_tg": "2026-11-09"
+    },
+    {
       "profile_id": 6501299,
       "tag": "ShutAzarquay",
       "clan": "nW",
@@ -476,22 +498,6 @@
       "max_tg": 1820,
       "last_tg": "2026-11-12",
       "last_1v1": "2026-11-11"
-    },
-    {
-      "profile_id": 13215279,
-      "tag": "GO1_mx",
-      "clan": "MZTK",
-      "cur_1v1": 1977,
-      "max_1v1": 2093,
-      "cur_tg": 1700,
-      "max_tg": 1860,
-      "last_1v1": "2026-11-12",
-      "last_tg": "2026-11-09",
-      "live": {
-        "match": 520534921,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 2291749,

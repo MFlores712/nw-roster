@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-12T04:30:11Z",
+  "updated_at": "2026-11-12T04:35:10Z",
   "baseline": {
     "taken_at": "2026-11-11T14:00:16Z",
     "ranks": {
@@ -100,7 +100,13 @@
       "cur_tg": 2000,
       "max_tg": 2000,
       "last_1v1": "2026-11-09",
-      "last_tg": "2026-11-09"
+      "last_tg": "2026-11-09",
+      "live": {
+        "match": 520537592,
+        "game": "Team Random Map",
+        "format": "2v2",
+        "account": "CL_lorecs"
+      }
     },
     {
       "profile_id": 633255,
@@ -123,21 +129,6 @@
       "last_1v1": "2026-09-24"
     },
     {
-      "profile_id": 13518993,
-      "tag": "Miguel T",
-      "cur_1v1": 2014,
-      "max_1v1": 2034,
-      "cur_tg": 1648,
-      "max_tg": 1703,
-      "last_1v1": "2026-11-12",
-      "last_tg": "2026-10-25",
-      "live": {
-        "match": 520535289,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 2366434,
       "via": {
         "id": 3265324,
@@ -150,13 +141,7 @@
       "cur_tg": 1825,
       "max_tg": 1843,
       "last_tg": "2026-11-10",
-      "last_1v1": "2026-11-11",
-      "live": {
-        "match": 520533814,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "CTM | Lelouch Jogo Bonito"
-      }
+      "last_1v1": "2026-11-11"
     },
     {
       "profile_id": 4229962,
@@ -168,6 +153,21 @@
       "max_tg": 1719,
       "last_1v1": "2026-11-11",
       "last_tg": "2026-11-08"
+    },
+    {
+      "profile_id": 13518993,
+      "tag": "Miguel T",
+      "cur_1v1": 2004,
+      "max_1v1": 2034,
+      "cur_tg": 1648,
+      "max_tg": 1703,
+      "last_1v1": "2026-11-12",
+      "last_tg": "2026-10-25",
+      "live": {
+        "match": 520535289,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 1359694,
@@ -218,15 +218,10 @@
       "clan": "CTM",
       "cur_1v1": 1902,
       "max_1v1": 1902,
-      "cur_tg": 1444,
+      "cur_tg": 1432,
       "max_tg": 1608,
       "last_1v1": "2026-09-19",
-      "last_tg": "2026-11-12",
-      "live": {
-        "match": 520533814,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-12"
     },
     {
       "profile_id": 4234652,
