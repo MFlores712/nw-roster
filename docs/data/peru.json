@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-12T22:10:12Z",
+  "updated_at": "2026-11-12T22:15:16Z",
   "baseline": {
     "taken_at": "2026-11-12T14:00:15Z",
     "ranks": {
@@ -35,16 +35,10 @@
       "max_1v1": 2978,
       "cur_tg": 1782,
       "max_tg": 1782,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ],
       "last_1v1": "2026-08-09",
       "last_tg": "2026-07-16",
       "inactive": true,
-      "last_seen": "2026-08-09"
+      "last_seen": "2026-09-12"
     },
     {
       "profile_id": 3216208,
@@ -53,12 +47,6 @@
       "max_1v1": 2583,
       "cur_tg": 1892,
       "max_tg": 1935,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ],
       "last_1v1": "2026-11-10",
       "last_tg": "2026-11-02"
     },
@@ -70,41 +58,12 @@
       "max_1v1": 2503,
       "cur_tg": 1693,
       "max_tg": 1846,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ],
       "last_1v1": "2026-11-11",
       "last_tg": "2026-11-12",
       "live": {
         "match": 520688573,
         "game": "Unranked",
         "format": "3v3"
-      }
-    },
-    {
-      "profile_id": 2366434,
-      "tag": "Lelouch",
-      "clan": "CTM",
-      "cur_1v1": 2202,
-      "max_1v1": 2202,
-      "cur_tg": 1720,
-      "max_tg": 1827,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ],
-      "last_1v1": "2026-07-01",
-      "last_tg": "2026-11-01",
-      "live": {
-        "match": 520689791,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "CTM | Lelouch Jogo Bonito"
       }
     },
     {
@@ -115,12 +74,6 @@
       "max_1v1": 2223,
       "cur_tg": 1969,
       "max_tg": 1971,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ],
       "last_1v1": "2026-10-07",
       "last_tg": "2026-09-28"
     },
@@ -132,14 +85,8 @@
       "max_1v1": 2242,
       "cur_tg": 1850,
       "max_tg": 1932,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ],
-      "last_1v1": "2026-10-27",
-      "last_tg": "2026-11-07"
+      "last_tg": "2026-11-07",
+      "last_1v1": "2026-10-27"
     },
     {
       "profile_id": 3244108,
@@ -148,12 +95,6 @@
       "max_1v1": 2174,
       "cur_tg": 1552,
       "max_tg": 1834,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ],
       "last_1v1": "2026-11-12",
       "last_tg": "2026-11-12"
     },
@@ -165,12 +106,6 @@
       "max_1v1": 2044,
       "cur_tg": 2011,
       "max_tg": 2011,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ],
       "last_1v1": "2026-11-09",
       "last_tg": "2026-11-12"
     },
@@ -181,12 +116,6 @@
       "max_1v1": 2177,
       "cur_tg": 1679,
       "max_tg": 1843,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ],
       "last_1v1": "2026-11-04",
       "last_tg": "2026-10-25"
     },
@@ -197,14 +126,8 @@
       "max_1v1": 2031,
       "cur_tg": 1745,
       "max_tg": 1840,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ],
-      "last_1v1": "2026-09-24",
-      "last_tg": "2026-11-12"
+      "last_tg": "2026-11-12",
+      "last_1v1": "2026-09-24"
     },
     {
       "profile_id": 4229962,
@@ -214,12 +137,6 @@
       "max_1v1": 2139,
       "cur_tg": 1601,
       "max_tg": 1719,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ],
       "last_1v1": "2026-11-12",
       "last_tg": "2026-11-08",
       "live": {
@@ -229,18 +146,33 @@
       }
     },
     {
+      "profile_id": 2366434,
+      "via": {
+        "id": 3265324,
+        "listed_last": "2026-07-01"
+      },
+      "tag": "Lelouch",
+      "clan": "CTM",
+      "cur_1v1": 2012,
+      "max_1v1": 2222,
+      "cur_tg": 1825,
+      "max_tg": 1843,
+      "last_tg": "2026-11-10",
+      "last_1v1": "2026-11-11",
+      "live": {
+        "match": 520689791,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "CTM | Lelouch Jogo Bonito"
+      }
+    },
+    {
       "profile_id": 13518993,
       "tag": "Miguel T",
       "cur_1v1": 2004,
       "max_1v1": 2034,
       "cur_tg": 1648,
       "max_tg": 1703,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ],
       "last_1v1": "2026-11-12",
       "last_tg": "2026-10-25"
     },
@@ -252,12 +184,6 @@
       "max_1v1": 1995,
       "cur_tg": 1453,
       "max_tg": 1581,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ],
       "last_1v1": "2026-11-12",
       "last_tg": "2026-11-07"
     },
@@ -269,14 +195,8 @@
       "max_1v1": 2123,
       "cur_tg": 1622,
       "max_tg": 1670,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ],
-      "last_1v1": "2026-11-11",
-      "last_tg": "2026-11-01"
+      "last_tg": "2026-11-01",
+      "last_1v1": "2026-11-11"
     },
     {
       "profile_id": 4210400,
@@ -286,14 +206,8 @@
       "max_1v1": 2130,
       "cur_tg": 1621,
       "max_tg": 2009,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ],
-      "last_1v1": "2026-10-01",
-      "last_tg": "2026-10-12"
+      "last_tg": "2026-10-12",
+      "last_1v1": "2026-10-01"
     },
     {
       "profile_id": 3034651,
@@ -302,19 +216,8 @@
       "max_1v1": 2035,
       "cur_tg": 1526,
       "max_tg": 1657,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ],
       "last_1v1": "2026-11-12",
-      "last_tg": "2026-10-26",
-      "live": {
-        "match": 520686813,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-26"
     },
     {
       "profile_id": 1865687,
@@ -324,12 +227,6 @@
       "max_1v1": 1902,
       "cur_tg": 1479,
       "max_tg": 1608,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ],
       "last_1v1": "2026-09-19",
       "last_tg": "2026-11-12"
     },
@@ -340,12 +237,6 @@
       "max_1v1": 1940,
       "cur_tg": 1547,
       "max_tg": 1719,
-      "stale": [
-        "cur_1v1",
-        "max_1v1",
-        "cur_tg",
-        "max_tg"
-      ],
       "last_1v1": "2026-11-12",
       "last_tg": "2026-11-11"
     }
