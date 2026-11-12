@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-12T19:50:10Z",
+  "updated_at": "2026-11-12T19:55:09Z",
   "baseline": {
     "taken_at": "2026-11-12T14:00:15Z",
     "ranks": {
@@ -68,7 +68,12 @@
       "cur_tg": 2152,
       "max_tg": 2169,
       "last_tg": "2026-10-08",
-      "last_1v1": "2026-11-10"
+      "last_1v1": "2026-11-10",
+      "live": {
+        "match": 520661045,
+        "game": "Unranked",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2920057,
@@ -231,15 +236,10 @@
       "clan": "VN",
       "cur_1v1": 2300,
       "max_1v1": 2300,
-      "cur_tg": 1858,
+      "cur_tg": 1861,
       "max_tg": 2050,
       "last_1v1": "2026-11-10",
-      "last_tg": "2026-11-12",
-      "live": {
-        "match": 520659345,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-11-12"
     },
     {
       "profile_id": 310739,
@@ -452,7 +452,7 @@
       "last_tg": "2026-11-12",
       "last_1v1": "2026-11-11",
       "live": {
-        "match": 520653274,
+        "match": 520662059,
         "game": "Team Random Map",
         "format": "4v4"
       }
@@ -520,7 +520,12 @@
       "cur_tg": 1624,
       "max_tg": 1824,
       "last_tg": "2026-11-12",
-      "last_1v1": "2026-10-13"
+      "last_1v1": "2026-10-13",
+      "live": {
+        "match": 520662059,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 4764520,
@@ -554,7 +559,7 @@
       "last_tg": "2026-11-12",
       "last_1v1": "2026-11-10",
       "live": {
-        "match": 520653274,
+        "match": 520662059,
         "game": "Team Random Map",
         "format": "4v4",
         "account": "VL Formolin"
@@ -577,15 +582,10 @@
       "clan": "VN",
       "cur_1v1": 1909,
       "max_1v1": 1929,
-      "cur_tg": 1775,
+      "cur_tg": 1778,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-11-12",
-      "live": {
-        "match": 520659345,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-11-12"
     },
     {
       "profile_id": 12472496,
