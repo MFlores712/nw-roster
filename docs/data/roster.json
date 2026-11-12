@@ -1,6 +1,6 @@
 {
   "name": "new Wave",
-  "updated_at": "2026-11-12T18:10:11Z",
+  "updated_at": "2026-11-12T22:05:09Z",
   "baseline": {
     "taken_at": "2026-11-12T14:00:15Z",
     "ranks": {
@@ -24,6 +24,12 @@
       "max_1v1": 2495,
       "cur_tg": 1885,
       "max_tg": 1945,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ],
       "last_1v1": "2026-11-12",
       "last_tg": "2026-11-11"
     },
@@ -90,8 +96,14 @@
       "max_1v1": 2011,
       "cur_tg": 1731,
       "max_tg": 1745,
-      "last_tg": "2026-10-09",
-      "last_1v1": "2026-10-24"
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ],
+      "last_1v1": "2026-10-24",
+      "last_tg": "2026-10-09"
     },
     {
       "profile_id": 1359694,

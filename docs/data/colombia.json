@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-12T22:00:13Z",
+  "updated_at": "2026-11-12T22:05:09Z",
   "baseline": {
     "taken_at": "2026-11-12T14:00:15Z",
     "ranks": {
@@ -44,6 +44,12 @@
       "max_1v1": 2495,
       "cur_tg": 1885,
       "max_tg": 1945,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ],
       "last_1v1": "2026-11-12",
       "last_tg": "2026-11-11"
     },
@@ -55,6 +61,12 @@
       "max_1v1": 2380,
       "cur_tg": 1788,
       "max_tg": 1828,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ],
       "last_1v1": "2026-11-12",
       "last_tg": "2026-09-05",
       "live": {
@@ -125,8 +137,14 @@
       "max_1v1": 1974,
       "cur_tg": 1795,
       "max_tg": 1975,
-      "last_tg": "2026-11-12",
-      "last_1v1": "2026-11-12"
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ],
+      "last_1v1": "2026-11-12",
+      "last_tg": "2026-11-12"
     },
     {
       "profile_id": 6431793,
@@ -136,8 +154,14 @@
       "max_1v1": 1951,
       "cur_tg": 1834,
       "max_tg": 1893,
-      "last_tg": "2026-11-12",
-      "last_1v1": "2026-11-01"
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ],
+      "last_1v1": "2026-11-01",
+      "last_tg": "2026-11-12"
     },
     {
       "profile_id": 2479622,
@@ -168,8 +192,14 @@
       "max_1v1": 1908,
       "cur_tg": 1780,
       "max_tg": 1893,
-      "last_tg": "2026-11-11",
-      "last_1v1": "2026-11-12"
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ],
+      "last_1v1": "2026-11-12",
+      "last_tg": "2026-11-11"
     },
     {
       "profile_id": 10733016,
@@ -178,8 +208,14 @@
       "max_1v1": 1814,
       "cur_tg": 1698,
       "max_tg": 1839,
-      "last_tg": "2026-10-25",
-      "last_1v1": "2026-10-09"
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ],
+      "last_1v1": "2026-10-09",
+      "last_tg": "2026-10-25"
     },
     {
       "profile_id": 12722189,
@@ -189,6 +225,12 @@
       "max_1v1": 1889,
       "cur_tg": 1709,
       "max_tg": 1855,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ],
       "last_1v1": "2026-11-12",
       "last_tg": "2026-11-12"
     },
@@ -200,8 +242,19 @@
       "max_1v1": 1903,
       "cur_tg": 1444,
       "max_tg": 1630,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ],
       "last_1v1": "2026-11-12",
-      "last_tg": "2026-11-11"
+      "last_tg": "2026-11-11",
+      "live": {
+        "match": 520689744,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2134856,
