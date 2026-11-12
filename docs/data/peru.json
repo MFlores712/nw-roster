@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-12T04:00:14Z",
+  "updated_at": "2026-11-12T04:05:08Z",
   "baseline": {
     "taken_at": "2026-11-11T14:00:16Z",
     "ranks": {
@@ -100,7 +100,13 @@
       "cur_tg": 2000,
       "max_tg": 2000,
       "last_1v1": "2026-11-09",
-      "last_tg": "2026-11-09"
+      "last_tg": "2026-11-09",
+      "live": {
+        "match": 520533690,
+        "game": "Team Random Map",
+        "format": "2v2",
+        "account": "CL_lorecs"
+      }
     },
     {
       "profile_id": 633255,
@@ -212,7 +218,7 @@
       "clan": "CTM",
       "cur_1v1": 1902,
       "max_1v1": 1902,
-      "cur_tg": 1432,
+      "cur_tg": 1444,
       "max_tg": 1608,
       "last_1v1": "2026-09-19",
       "last_tg": "2026-11-12"
@@ -220,17 +226,12 @@
     {
       "profile_id": 4234652,
       "tag": "_The_Oldergold",
-      "cur_1v1": 1741,
+      "cur_1v1": 1721,
       "max_1v1": 1940,
       "cur_tg": 1547,
       "max_tg": 1719,
-      "last_1v1": "2026-11-11",
-      "last_tg": "2026-11-11",
-      "live": {
-        "match": 520528254,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-12",
+      "last_tg": "2026-11-11"
     }
   ],
   "show_top": 15
