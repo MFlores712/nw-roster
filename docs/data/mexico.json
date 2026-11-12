@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-12T02:40:10Z",
+  "updated_at": "2026-11-12T02:45:08Z",
   "baseline": {
     "taken_at": "2026-11-11T14:00:16Z",
     "ranks": {
@@ -93,22 +93,6 @@
       "last_tg": "2026-11-12"
     },
     {
-      "profile_id": 5984120,
-      "tag": "Combito",
-      "clan": "Ux",
-      "cur_1v1": 2608,
-      "max_1v1": 2790,
-      "cur_tg": 1658,
-      "max_tg": 1885,
-      "last_1v1": "2026-11-12",
-      "last_tg": "2026-11-08",
-      "live": {
-        "match": 520518710,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 9449579,
       "tag": "Miauricio",
       "clan": "VENÓN",
@@ -118,6 +102,22 @@
       "max_tg": 2151,
       "last_1v1": "2026-11-07",
       "last_tg": "2026-10-15"
+    },
+    {
+      "profile_id": 5984120,
+      "tag": "Combito",
+      "clan": "Ux",
+      "cur_1v1": 2587,
+      "max_1v1": 2790,
+      "cur_tg": 1658,
+      "max_tg": 1885,
+      "last_1v1": "2026-11-12",
+      "last_tg": "2026-11-08",
+      "live": {
+        "match": 520521068,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 401359,
@@ -417,7 +417,13 @@
       "cur_tg": 1838,
       "max_tg": 1962,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-07"
+      "last_tg": "2026-11-07",
+      "live": {
+        "match": 520519928,
+        "game": "Unranked",
+        "format": "2v2",
+        "account": "SynfonY"
+      }
     },
     {
       "profile_id": 13215279,
@@ -538,15 +544,10 @@
       "clan": "VL",
       "cur_1v1": 1952,
       "max_1v1": 1972,
-      "cur_tg": 1634,
+      "cur_tg": 1641,
       "max_tg": 1824,
-      "last_tg": "2026-11-11",
-      "last_1v1": "2026-10-13",
-      "live": {
-        "match": 520515718,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-12",
+      "last_1v1": "2026-10-13"
     },
     {
       "profile_id": 4764520,
