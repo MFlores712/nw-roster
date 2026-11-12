@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-12T10:55:09Z",
+  "updated_at": "2026-11-12T11:15:11Z",
   "baseline": {
     "taken_at": "2026-11-11T14:00:16Z",
     "ranks": {
@@ -170,22 +170,6 @@
       "last_tg": "2026-11-12"
     },
     {
-      "profile_id": 310739,
-      "tag": "SoyLaHostia",
-      "clan": "hK",
-      "cur_1v1": 2347,
-      "max_1v1": 2484,
-      "cur_tg": 1849,
-      "max_tg": 1959,
-      "last_1v1": "2026-11-12",
-      "last_tg": "2026-11-12",
-      "live": {
-        "match": 520570759,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 312774,
       "tag": "Keno_",
       "clan": "hK",
@@ -217,6 +201,22 @@
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
       "last_tg": "2026-11-08"
+    },
+    {
+      "profile_id": 310739,
+      "tag": "SoyLaHostia",
+      "clan": "hK",
+      "cur_1v1": 2320,
+      "max_1v1": 2484,
+      "cur_tg": 1849,
+      "max_tg": 1959,
+      "last_1v1": "2026-11-12",
+      "last_tg": "2026-11-12",
+      "live": {
+        "match": 520570759,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 1485562,
@@ -307,22 +307,6 @@
       "last_tg": "2026-11-11"
     },
     {
-      "profile_id": 3816609,
-      "tag": "iamkaito",
-      "clan": "nW",
-      "cur_1v1": 2104,
-      "max_1v1": 2304,
-      "cur_tg": 1853,
-      "max_tg": 1907,
-      "last_1v1": "2026-11-12",
-      "last_tg": "2026-11-11",
-      "live": {
-        "match": 520571393,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 1947348,
       "tag": "themariach1",
       "clan": "nW",
@@ -332,6 +316,17 @@
       "max_tg": 2034,
       "last_1v1": "2026-07-08",
       "last_tg": "2026-10-21"
+    },
+    {
+      "profile_id": 3816609,
+      "tag": "iamkaito",
+      "clan": "nW",
+      "cur_1v1": 2093,
+      "max_1v1": 2304,
+      "cur_tg": 1853,
+      "max_tg": 1907,
+      "last_1v1": "2026-11-12",
+      "last_tg": "2026-11-11"
     },
     {
       "profile_id": 2850920,
