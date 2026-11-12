@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-12T07:15:09Z",
+  "updated_at": "2026-11-12T07:20:11Z",
   "baseline": {
     "taken_at": "2026-11-11T14:00:16Z",
     "ranks": {
@@ -310,7 +310,12 @@
       "cur_tg": 1853,
       "max_tg": 1907,
       "last_1v1": "2026-11-12",
-      "last_tg": "2026-11-11"
+      "last_tg": "2026-11-11",
+      "live": {
+        "match": 520553530,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 13138746,
@@ -614,11 +619,11 @@
       "profile_id": 2926018,
       "tag": "PerezPodrido",
       "clan": "SotC",
-      "cur_1v1": 1841,
+      "cur_1v1": 1818,
       "max_1v1": 2039,
       "cur_tg": 1720,
       "max_tg": 1888,
-      "last_1v1": "2026-11-10",
+      "last_1v1": "2026-11-12",
       "last_tg": "2026-11-12",
       "live": {
         "match": 520550653,
