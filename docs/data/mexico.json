@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-12T20:35:20Z",
+  "updated_at": "2026-11-12T20:40:11Z",
   "baseline": {
     "taken_at": "2026-11-12T14:00:15Z",
     "ranks": {
@@ -122,7 +122,12 @@
       "cur_tg": 1658,
       "max_tg": 1885,
       "last_1v1": "2026-11-12",
-      "last_tg": "2026-11-08"
+      "last_tg": "2026-11-08",
+      "live": {
+        "match": 520672074,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 401359,
@@ -249,7 +254,12 @@
       "cur_tg": 1876,
       "max_tg": 2050,
       "last_1v1": "2026-11-10",
-      "last_tg": "2026-11-12"
+      "last_tg": "2026-11-12",
+      "live": {
+        "match": 520671689,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 310739,
@@ -369,7 +379,12 @@
       "cur_tg": 1891,
       "max_tg": 1919,
       "last_1v1": "2026-06-27",
-      "last_tg": "2026-11-12"
+      "last_tg": "2026-11-12",
+      "live": {
+        "match": 520672435,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 1261126,
@@ -455,7 +470,12 @@
       "cur_tg": 1711,
       "max_tg": 1820,
       "last_tg": "2026-11-12",
-      "last_1v1": "2026-11-11"
+      "last_1v1": "2026-11-11",
+      "live": {
+        "match": 520672090,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 2291749,
@@ -509,7 +529,12 @@
       "cur_tg": 1879,
       "max_tg": 1997,
       "last_1v1": "2026-11-12",
-      "last_tg": "2026-11-12"
+      "last_tg": "2026-11-12",
+      "live": {
+        "match": 520671689,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 2986966,
@@ -520,7 +545,12 @@
       "cur_tg": 1606,
       "max_tg": 1824,
       "last_tg": "2026-11-12",
-      "last_1v1": "2026-10-13"
+      "last_1v1": "2026-10-13",
+      "live": {
+        "match": 520672090,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 4764520,
@@ -552,7 +582,13 @@
       "cur_tg": 1725,
       "max_tg": 1865,
       "last_tg": "2026-11-12",
-      "last_1v1": "2026-11-10"
+      "last_1v1": "2026-11-10",
+      "live": {
+        "match": 520672090,
+        "game": "Team Random Map",
+        "format": "3v3",
+        "account": "VL Formolin"
+      }
     },
     {
       "profile_id": 2969449,
