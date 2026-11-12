@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-12T18:50:11Z",
+  "updated_at": "2026-11-12T19:00:15Z",
   "baseline": {
     "taken_at": "2026-11-12T14:00:15Z",
     "ranks": {
@@ -113,21 +113,6 @@
       "last_tg": "2026-11-06"
     },
     {
-      "profile_id": 5368998,
-      "tag": "Matazombies",
-      "cur_1v1": 1937,
-      "max_1v1": 1974,
-      "cur_tg": 1774,
-      "max_tg": 1975,
-      "last_tg": "2026-11-12",
-      "last_1v1": "2026-11-12",
-      "live": {
-        "match": 520647782,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 6431793,
       "tag": "Toth",
       "clan": "NuMa",
@@ -137,6 +122,16 @@
       "max_tg": 1893,
       "last_tg": "2026-11-12",
       "last_1v1": "2026-11-01"
+    },
+    {
+      "profile_id": 5368998,
+      "tag": "Matazombies",
+      "cur_1v1": 1919,
+      "max_1v1": 1974,
+      "cur_tg": 1774,
+      "max_tg": 1975,
+      "last_tg": "2026-11-12",
+      "last_1v1": "2026-11-12"
     },
     {
       "profile_id": 2479622,
