@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-12T03:10:10Z",
+  "updated_at": "2026-11-12T03:15:09Z",
   "baseline": {
     "taken_at": "2026-11-11T14:00:16Z",
     "ranks": {
@@ -86,15 +86,10 @@
       "tag": "Legendario",
       "cur_1v1": 2086,
       "max_1v1": 2174,
-      "cur_tg": 1532,
+      "cur_tg": 1543,
       "max_tg": 1834,
       "last_1v1": "2026-11-12",
-      "last_tg": "2026-11-12",
-      "live": {
-        "match": 520522424,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-11-12"
     },
     {
       "profile_id": 12167914,
@@ -145,13 +140,7 @@
       "cur_tg": 1825,
       "max_tg": 1843,
       "last_tg": "2026-11-10",
-      "last_1v1": "2026-11-11",
-      "live": {
-        "match": 520523052,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "CTM | Lelouch Jogo Bonito"
-      }
+      "last_1v1": "2026-11-11"
     },
     {
       "profile_id": 4229962,
@@ -223,15 +212,10 @@
       "clan": "CTM",
       "cur_1v1": 1902,
       "max_1v1": 1902,
-      "cur_tg": 1376,
+      "cur_tg": 1392,
       "max_tg": 1608,
       "last_1v1": "2026-09-19",
-      "last_tg": "2026-11-11",
-      "live": {
-        "match": 520523052,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-12"
     },
     {
       "profile_id": 4234652,
