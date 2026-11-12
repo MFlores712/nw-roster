@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-11T23:55:09Z",
+  "updated_at": "2026-11-12T00:00:14Z",
   "baseline": {
     "taken_at": "2026-11-11T14:00:16Z",
     "ranks": {
@@ -106,12 +106,7 @@
       "cur_tg": 1658,
       "max_tg": 1885,
       "last_1v1": "2026-11-11",
-      "last_tg": "2026-11-08",
-      "live": {
-        "match": 520482847,
-        "game": "Unranked",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-08"
     },
     {
       "profile_id": 9449579,
@@ -194,13 +189,7 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 520488960,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "hK | RanDoM"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 580573,
@@ -314,6 +303,16 @@
       "last_tg": "2026-11-11"
     },
     {
+      "profile_id": 5803221,
+      "tag": "Mahmoud Ahmadinejad",
+      "cur_1v1": 2124,
+      "max_1v1": 2181,
+      "cur_tg": 1653,
+      "max_tg": 1654,
+      "last_tg": "2026-11-11",
+      "last_1v1": "2026-11-11"
+    },
+    {
       "profile_id": 13138746,
       "tag": "FraKTal",
       "clan": "hK",
@@ -323,21 +322,6 @@
       "max_tg": 2010,
       "last_1v1": "2026-11-07",
       "last_tg": "2026-11-11"
-    },
-    {
-      "profile_id": 5803221,
-      "tag": "Mahmoud Ahmadinejad",
-      "cur_1v1": 2112,
-      "max_1v1": 2181,
-      "cur_tg": 1653,
-      "max_tg": 1654,
-      "last_tg": "2026-11-11",
-      "last_1v1": "2026-11-11",
-      "live": {
-        "match": 520487184,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 1947348,
@@ -580,7 +564,13 @@
       "cur_tg": 1820,
       "max_tg": 1821,
       "last_tg": "2026-10-16",
-      "last_1v1": "2026-09-18"
+      "last_1v1": "2026-09-18",
+      "live": {
+        "match": 520490769,
+        "game": "Unranked",
+        "format": "4v4",
+        "account": "[GDL]CemenTox"
+      }
     },
     {
       "profile_id": 324005,
