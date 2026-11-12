@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-12T05:00:15Z",
+  "updated_at": "2026-11-12T05:10:12Z",
   "baseline": {
     "taken_at": "2026-11-11T14:00:16Z",
     "ranks": {
@@ -101,7 +101,13 @@
       "cur_tg": 2140,
       "max_tg": 2151,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-10-15"
+      "last_tg": "2026-10-15",
+      "live": {
+        "match": 520541416,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "[GDL] Chuchito"
+      }
     },
     {
       "profile_id": 5984120,
@@ -270,10 +276,21 @@
       "last_tg": "2026-11-12"
     },
     {
+      "profile_id": 914665,
+      "tag": "Caguamas",
+      "clan": "nW",
+      "cur_1v1": 2223,
+      "max_1v1": 2268,
+      "cur_tg": 1814,
+      "max_tg": 2024,
+      "last_1v1": "2026-11-08",
+      "last_tg": "2026-11-11"
+    },
+    {
       "profile_id": 917863,
       "tag": "Romell13",
       "clan": "hK",
-      "cur_1v1": 2231,
+      "cur_1v1": 2218,
       "max_1v1": 2233,
       "cur_tg": 1815,
       "max_tg": 1838,
@@ -286,15 +303,14 @@
       }
     },
     {
-      "profile_id": 914665,
-      "tag": "Caguamas",
-      "clan": "nW",
-      "cur_1v1": 2223,
-      "max_1v1": 2268,
-      "cur_tg": 1814,
-      "max_tg": 2024,
-      "last_1v1": "2026-11-08",
-      "last_tg": "2026-11-11"
+      "profile_id": 5803221,
+      "tag": "Mahmoud Ahmadinejad",
+      "cur_1v1": 2149,
+      "max_1v1": 2181,
+      "cur_tg": 1653,
+      "max_tg": 1654,
+      "last_tg": "2026-11-11",
+      "last_1v1": "2026-11-12"
     },
     {
       "profile_id": 3816609,
@@ -306,21 +322,6 @@
       "max_tg": 1907,
       "last_1v1": "2026-11-11",
       "last_tg": "2026-11-11"
-    },
-    {
-      "profile_id": 5803221,
-      "tag": "Mahmoud Ahmadinejad",
-      "cur_1v1": 2136,
-      "max_1v1": 2181,
-      "cur_tg": 1653,
-      "max_tg": 1654,
-      "last_tg": "2026-11-11",
-      "last_1v1": "2026-11-12",
-      "live": {
-        "match": 520538855,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 13138746,
