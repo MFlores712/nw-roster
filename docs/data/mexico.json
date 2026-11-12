@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-12T00:40:09Z",
+  "updated_at": "2026-11-12T00:50:10Z",
   "baseline": {
     "taken_at": "2026-11-11T14:00:16Z",
     "ranks": {
@@ -156,12 +156,7 @@
       "cur_tg": 1845,
       "max_tg": 1907,
       "last_1v1": "2026-11-11",
-      "last_tg": "2026-10-14",
-      "live": {
-        "match": 520495976,
-        "game": "Unranked",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-14"
     },
     {
       "profile_id": 310739,
@@ -445,12 +440,7 @@
       "cur_tg": 1719,
       "max_tg": 1820,
       "last_tg": "2026-11-04",
-      "last_1v1": "2026-11-11",
-      "live": {
-        "match": 520495976,
-        "game": "Unranked",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-11"
     },
     {
       "profile_id": 2291749,
@@ -515,13 +505,7 @@
       "cur_tg": 1634,
       "max_tg": 1824,
       "last_tg": "2026-11-11",
-      "last_1v1": "2026-10-13",
-      "live": {
-        "match": 520498139,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "eFotboll"
-      }
+      "last_1v1": "2026-10-13"
     },
     {
       "profile_id": 4764520,
@@ -529,15 +513,10 @@
       "clan": "KH",
       "cur_1v1": 1948,
       "max_1v1": 2060,
-      "cur_tg": 1788,
+      "cur_tg": 1772,
       "max_tg": 1813,
       "last_tg": "2026-11-12",
-      "last_1v1": "2026-11-04",
-      "live": {
-        "match": 520499295,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_1v1": "2026-11-04"
     },
     {
       "profile_id": 467847,
