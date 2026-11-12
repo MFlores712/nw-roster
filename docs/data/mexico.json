@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-12T14:30:15Z",
+  "updated_at": "2026-11-12T14:35:09Z",
   "baseline": {
     "taken_at": "2026-11-12T14:00:15Z",
     "ranks": {
@@ -232,21 +232,10 @@
       "last_seen": "2025-06-11"
     },
     {
-      "profile_id": 757886,
-      "tag": "DarK_KnighT_",
-      "clan": "VN",
-      "cur_1v1": 2300,
-      "max_1v1": 2300,
-      "cur_tg": 1880,
-      "max_tg": 2050,
-      "last_1v1": "2026-11-10",
-      "last_tg": "2026-11-11"
-    },
-    {
       "profile_id": 310739,
       "tag": "SoyLaHostia",
       "clan": "hK",
-      "cur_1v1": 2293,
+      "cur_1v1": 2300,
       "max_1v1": 2484,
       "cur_tg": 1849,
       "max_tg": 1959,
@@ -257,6 +246,17 @@
         "game": "1v1 Random Map",
         "format": "1v1"
       }
+    },
+    {
+      "profile_id": 757886,
+      "tag": "DarK_KnighT_",
+      "clan": "VN",
+      "cur_1v1": 2300,
+      "max_1v1": 2300,
+      "cur_tg": 1880,
+      "max_tg": 2050,
+      "last_1v1": "2026-11-10",
+      "last_tg": "2026-11-11"
     },
     {
       "profile_id": 4412109,
