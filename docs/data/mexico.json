@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-12T15:30:12Z",
+  "updated_at": "2026-11-12T15:40:13Z",
   "baseline": {
     "taken_at": "2026-11-12T14:00:15Z",
     "ranks": {
@@ -159,22 +159,6 @@
       "last_tg": "2026-10-14"
     },
     {
-      "profile_id": 580573,
-      "tag": "Puerco Black",
-      "clan": "hK",
-      "cur_1v1": 2354,
-      "max_1v1": 2354,
-      "cur_tg": 1910,
-      "max_tg": 1974,
-      "last_1v1": "2026-11-12",
-      "last_tg": "2026-11-12",
-      "live": {
-        "match": 520608127,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 312774,
       "tag": "Keno_",
       "clan": "hK",
@@ -197,6 +181,17 @@
       "last_1v1": "2026-11-09"
     },
     {
+      "profile_id": 580573,
+      "tag": "Puerco Black",
+      "clan": "hK",
+      "cur_1v1": 2329,
+      "max_1v1": 2354,
+      "cur_tg": 1910,
+      "max_tg": 1974,
+      "last_1v1": "2026-11-12",
+      "last_tg": "2026-11-12"
+    },
+    {
       "profile_id": 9031952,
       "tag": "ChossMx",
       "clan": "hK",
@@ -205,13 +200,7 @@
       "cur_tg": 1953,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-11-08",
-      "live": {
-        "match": 520608127,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "FierroFlash"
-      }
+      "last_tg": "2026-11-08"
     },
     {
       "profile_id": 1485562,
