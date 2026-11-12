@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-12T15:05:11Z",
+  "updated_at": "2026-11-12T15:10:10Z",
   "baseline": {
     "taken_at": "2026-11-12T14:00:15Z",
     "ranks": {
@@ -167,7 +167,12 @@
       "cur_tg": 1910,
       "max_tg": 1974,
       "last_1v1": "2026-11-12",
-      "last_tg": "2026-11-12"
+      "last_tg": "2026-11-12",
+      "live": {
+        "match": 520608127,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 312774,
@@ -200,7 +205,13 @@
       "cur_tg": 1953,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-11-08"
+      "last_tg": "2026-11-08",
+      "live": {
+        "match": 520608127,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "FierroFlash"
+      }
     },
     {
       "profile_id": 1485562,
@@ -256,17 +267,12 @@
       "profile_id": 4412109,
       "tag": "HGB",
       "clan": "hK",
-      "cur_1v1": 2262,
+      "cur_1v1": 2270,
       "max_1v1": 2365,
       "cur_tg": 1987,
       "max_tg": 2083,
       "last_1v1": "2026-11-12",
-      "last_tg": "2026-11-12",
-      "live": {
-        "match": 520603435,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-12"
     },
     {
       "profile_id": 914665,
