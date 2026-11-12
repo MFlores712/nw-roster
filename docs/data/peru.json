@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-12T05:45:09Z",
+  "updated_at": "2026-11-12T05:50:09Z",
   "baseline": {
     "taken_at": "2026-11-11T14:00:16Z",
     "ranks": {
@@ -97,15 +97,10 @@
       "clan": "CL",
       "cur_1v1": 2044,
       "max_1v1": 2044,
-      "cur_tg": 2000,
-      "max_tg": 2000,
+      "cur_tg": 2011,
+      "max_tg": 2011,
       "last_1v1": "2026-11-09",
-      "last_tg": "2026-11-09",
-      "live": {
-        "match": 520542384,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-12"
     },
     {
       "profile_id": 633255,
