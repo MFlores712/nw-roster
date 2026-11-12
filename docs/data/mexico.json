@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-12T02:50:10Z",
+  "updated_at": "2026-11-12T02:55:08Z",
   "baseline": {
     "taken_at": "2026-11-11T14:00:16Z",
     "ranks": {
@@ -136,15 +136,10 @@
       "clan": "hK",
       "cur_1v1": 2427,
       "max_1v1": 2433,
-      "cur_tg": 2005,
+      "cur_tg": 2008,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-11-11",
-      "live": {
-        "match": 520518611,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-11-12"
     },
     {
       "profile_id": 2598146,
@@ -188,13 +183,7 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 520518611,
-        "game": "Team Random Map",
-        "format": "3v3",
-        "account": "hK | RanDoM"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 580573,
@@ -269,15 +258,10 @@
       "clan": "hK",
       "cur_1v1": 2271,
       "max_1v1": 2365,
-      "cur_tg": 2004,
+      "cur_tg": 2007,
       "max_tg": 2083,
       "last_1v1": "2026-11-11",
-      "last_tg": "2026-11-11",
-      "live": {
-        "match": 520518611,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-11-12"
     },
     {
       "profile_id": 914665,
@@ -412,7 +396,13 @@
       "cur_tg": 1838,
       "max_tg": 1962,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-07"
+      "last_tg": "2026-11-07",
+      "live": {
+        "match": 520522330,
+        "game": "Unranked",
+        "format": "2v2",
+        "account": "SynfonY"
+      }
     },
     {
       "profile_id": 13215279,
@@ -466,7 +456,12 @@
       "cur_tg": 1728,
       "max_tg": 1820,
       "last_tg": "2026-11-12",
-      "last_1v1": "2026-11-11"
+      "last_1v1": "2026-11-11",
+      "live": {
+        "match": 520522568,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 2291749,
@@ -603,15 +598,10 @@
       "clan": "Ux",
       "cur_1v1": 1909,
       "max_1v1": 1909,
-      "cur_tg": 1646,
+      "cur_tg": 1655,
       "max_tg": 1805,
       "last_tg": "2026-11-12",
-      "last_1v1": "2026-10-16",
-      "live": {
-        "match": 520519624,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_1v1": "2026-10-16"
     },
     {
       "profile_id": 3254820,
