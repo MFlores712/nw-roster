@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-12T04:25:08Z",
+  "updated_at": "2026-11-12T04:30:11Z",
   "baseline": {
     "taken_at": "2026-11-11T14:00:16Z",
     "ranks": {
@@ -100,13 +100,7 @@
       "cur_tg": 2000,
       "max_tg": 2000,
       "last_1v1": "2026-11-09",
-      "last_tg": "2026-11-09",
-      "live": {
-        "match": 520533690,
-        "game": "Team Random Map",
-        "format": "2v2",
-        "account": "CL_lorecs"
-      }
+      "last_tg": "2026-11-09"
     },
     {
       "profile_id": 633255,
@@ -242,12 +236,7 @@
       "cur_tg": 1547,
       "max_tg": 1719,
       "last_1v1": "2026-11-12",
-      "last_tg": "2026-11-11",
-      "live": {
-        "match": 520533926,
-        "game": "1v1 Empire Wars",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-11"
     }
   ],
   "show_top": 15
