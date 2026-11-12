@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-12T21:25:10Z",
+  "updated_at": "2026-11-12T21:35:09Z",
   "baseline": {
     "taken_at": "2026-11-12T14:00:15Z",
     "ranks": {
@@ -143,7 +143,13 @@
       "cur_tg": 1825,
       "max_tg": 1843,
       "last_tg": "2026-11-10",
-      "last_1v1": "2026-11-11"
+      "last_1v1": "2026-11-11",
+      "live": {
+        "match": 520683734,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "CTM | Lelouch Jogo Bonito"
+      }
     },
     {
       "profile_id": 4229962,
@@ -205,20 +211,9 @@
       "last_1v1": "2026-10-01"
     },
     {
-      "profile_id": 1865687,
-      "tag": "Pentrus",
-      "clan": "CTM",
-      "cur_1v1": 1902,
-      "max_1v1": 1902,
-      "cur_tg": 1479,
-      "max_tg": 1608,
-      "last_1v1": "2026-09-19",
-      "last_tg": "2026-11-12"
-    },
-    {
       "profile_id": 3034651,
       "tag": "KinG of QUILLA",
-      "cur_1v1": 1889,
+      "cur_1v1": 1907,
       "max_1v1": 2035,
       "cur_tg": 1526,
       "max_tg": 1657,
@@ -229,6 +224,17 @@
         "game": "1v1 Random Map",
         "format": "1v1"
       }
+    },
+    {
+      "profile_id": 1865687,
+      "tag": "Pentrus",
+      "clan": "CTM",
+      "cur_1v1": 1902,
+      "max_1v1": 1902,
+      "cur_tg": 1479,
+      "max_tg": 1608,
+      "last_1v1": "2026-09-19",
+      "last_tg": "2026-11-12"
     },
     {
       "profile_id": 4234652,
