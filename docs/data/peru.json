@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-12T22:05:09Z",
+  "updated_at": "2026-11-12T22:10:12Z",
   "baseline": {
     "taken_at": "2026-11-12T14:00:15Z",
     "ranks": {
@@ -35,6 +35,12 @@
       "max_1v1": 2978,
       "cur_tg": 1782,
       "max_tg": 1782,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ],
       "last_1v1": "2026-08-09",
       "last_tg": "2026-07-16",
       "inactive": true,
@@ -47,6 +53,12 @@
       "max_1v1": 2583,
       "cur_tg": 1892,
       "max_tg": 1935,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ],
       "last_1v1": "2026-11-10",
       "last_tg": "2026-11-02"
     },
@@ -80,6 +92,12 @@
       "max_1v1": 2202,
       "cur_tg": 1720,
       "max_tg": 1827,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ],
       "last_1v1": "2026-07-01",
       "last_tg": "2026-11-01",
       "live": {
@@ -130,6 +148,12 @@
       "max_1v1": 2174,
       "cur_tg": 1552,
       "max_tg": 1834,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ],
       "last_1v1": "2026-11-12",
       "last_tg": "2026-11-12"
     },
@@ -157,6 +181,12 @@
       "max_1v1": 2177,
       "cur_tg": 1679,
       "max_tg": 1843,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ],
       "last_1v1": "2026-11-04",
       "last_tg": "2026-10-25"
     },
@@ -239,8 +269,14 @@
       "max_1v1": 2123,
       "cur_tg": 1622,
       "max_tg": 1670,
-      "last_tg": "2026-11-01",
-      "last_1v1": "2026-11-11"
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ],
+      "last_1v1": "2026-11-11",
+      "last_tg": "2026-11-01"
     },
     {
       "profile_id": 4210400,
@@ -266,6 +302,12 @@
       "max_1v1": 2035,
       "cur_tg": 1526,
       "max_tg": 1657,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ],
       "last_1v1": "2026-11-12",
       "last_tg": "2026-10-26",
       "live": {
@@ -282,6 +324,12 @@
       "max_1v1": 1902,
       "cur_tg": 1479,
       "max_tg": 1608,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ],
       "last_1v1": "2026-09-19",
       "last_tg": "2026-11-12"
     },

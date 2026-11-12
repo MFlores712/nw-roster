@@ -1,6 +1,6 @@
 {
   "name": "new Wave",
-  "updated_at": "2026-11-12T22:05:09Z",
+  "updated_at": "2026-11-12T22:10:12Z",
   "baseline": {
     "taken_at": "2026-11-12T14:00:15Z",
     "ranks": {
@@ -41,6 +41,12 @@
       "max_1v1": 2268,
       "cur_tg": 1814,
       "max_tg": 2024,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ],
       "last_1v1": "2026-11-08",
       "last_tg": "2026-11-11"
     },
@@ -52,6 +58,12 @@
       "max_1v1": 2304,
       "cur_tg": 1853,
       "max_tg": 1907,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ],
       "last_1v1": "2026-11-12",
       "last_tg": "2026-11-11"
     },
@@ -63,6 +75,12 @@
       "max_1v1": 2211,
       "cur_tg": 1752,
       "max_tg": 2034,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ],
       "last_1v1": "2026-07-08",
       "last_tg": "2026-10-21"
     },
@@ -74,6 +92,12 @@
       "max_1v1": 2210,
       "cur_tg": 1731,
       "max_tg": 1747,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ],
       "last_1v1": "2026-11-12",
       "last_tg": "2026-10-27"
     },
@@ -85,6 +109,12 @@
       "max_1v1": 2152,
       "cur_tg": 1834,
       "max_tg": 1844,
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ],
       "last_1v1": "2026-11-10",
       "last_tg": "2026-10-31"
     },
@@ -113,8 +143,14 @@
       "max_1v1": 2123,
       "cur_tg": 1622,
       "max_tg": 1670,
-      "last_tg": "2026-11-01",
-      "last_1v1": "2026-11-11"
+      "stale": [
+        "cur_1v1",
+        "max_1v1",
+        "cur_tg",
+        "max_tg"
+      ],
+      "last_1v1": "2026-11-11",
+      "last_tg": "2026-11-01"
     }
   ]
 }
