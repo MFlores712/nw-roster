@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-12T04:10:09Z",
+  "updated_at": "2026-11-12T04:15:09Z",
   "baseline": {
     "taken_at": "2026-11-11T14:00:16Z",
     "ranks": {
@@ -216,12 +216,7 @@
       "cur_tg": 1953,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-11-08",
-      "live": {
-        "match": 520533675,
-        "game": "Unranked",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-08"
     },
     {
       "profile_id": 1485562,
@@ -445,22 +440,6 @@
       "last_tg": "2026-10-31"
     },
     {
-      "profile_id": 13215279,
-      "tag": "GO1_mx",
-      "clan": "MZTK",
-      "cur_1v1": 1993,
-      "max_1v1": 2093,
-      "cur_tg": 1700,
-      "max_tg": 1860,
-      "last_1v1": "2026-11-12",
-      "last_tg": "2026-11-09",
-      "live": {
-        "match": 520531530,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 6501299,
       "tag": "ShutAzarquay",
       "clan": "nW",
@@ -481,6 +460,22 @@
       "max_tg": 1820,
       "last_tg": "2026-11-12",
       "last_1v1": "2026-11-11"
+    },
+    {
+      "profile_id": 13215279,
+      "tag": "GO1_mx",
+      "clan": "MZTK",
+      "cur_1v1": 1977,
+      "max_1v1": 2093,
+      "cur_tg": 1700,
+      "max_tg": 1860,
+      "last_1v1": "2026-11-12",
+      "last_tg": "2026-11-09",
+      "live": {
+        "match": 520534921,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2291749,
