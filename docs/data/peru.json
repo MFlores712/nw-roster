@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-12T03:50:09Z",
+  "updated_at": "2026-11-12T03:55:09Z",
   "baseline": {
     "taken_at": "2026-11-11T14:00:16Z",
     "ranks": {
@@ -100,13 +100,7 @@
       "cur_tg": 2000,
       "max_tg": 2000,
       "last_1v1": "2026-11-09",
-      "last_tg": "2026-11-09",
-      "live": {
-        "match": 520528802,
-        "game": "Team Random Map",
-        "format": "2v2",
-        "account": "CL_lorecs"
-      }
+      "last_tg": "2026-11-09"
     },
     {
       "profile_id": 633255,
@@ -146,13 +140,7 @@
       "cur_tg": 1825,
       "max_tg": 1843,
       "last_tg": "2026-11-10",
-      "last_1v1": "2026-11-11",
-      "live": {
-        "match": 520529448,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "CTM | Lelouch Jogo Bonito"
-      }
+      "last_1v1": "2026-11-11"
     },
     {
       "profile_id": 4229962,
@@ -229,15 +217,10 @@
       "clan": "CTM",
       "cur_1v1": 1902,
       "max_1v1": 1902,
-      "cur_tg": 1415,
+      "cur_tg": 1432,
       "max_tg": 1608,
       "last_1v1": "2026-09-19",
-      "last_tg": "2026-11-12",
-      "live": {
-        "match": 520529448,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-12"
     },
     {
       "profile_id": 4234652,
