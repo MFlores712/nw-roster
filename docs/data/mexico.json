@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-12T14:45:10Z",
+  "updated_at": "2026-11-12T15:05:11Z",
   "baseline": {
     "taken_at": "2026-11-12T14:00:15Z",
     "ranks": {
@@ -200,13 +200,7 @@
       "cur_tg": 1953,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-11-08",
-      "live": {
-        "match": 520603567,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "FierroFlash"
-      }
+      "last_tg": "2026-11-08"
     },
     {
       "profile_id": 1485562,
@@ -232,22 +226,6 @@
       "last_seen": "2025-06-11"
     },
     {
-      "profile_id": 310739,
-      "tag": "SoyLaHostia",
-      "clan": "hK",
-      "cur_1v1": 2300,
-      "max_1v1": 2484,
-      "cur_tg": 1849,
-      "max_tg": 1959,
-      "last_1v1": "2026-11-12",
-      "last_tg": "2026-11-12",
-      "live": {
-        "match": 520603567,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 757886,
       "tag": "DarK_KnighT_",
       "clan": "VN",
@@ -257,6 +235,22 @@
       "max_tg": 2050,
       "last_1v1": "2026-11-10",
       "last_tg": "2026-11-11"
+    },
+    {
+      "profile_id": 310739,
+      "tag": "SoyLaHostia",
+      "clan": "hK",
+      "cur_1v1": 2276,
+      "max_1v1": 2484,
+      "cur_tg": 1849,
+      "max_tg": 1959,
+      "last_1v1": "2026-11-12",
+      "last_tg": "2026-11-12",
+      "live": {
+        "match": 520606867,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 4412109,
