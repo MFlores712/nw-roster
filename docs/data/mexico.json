@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-12T07:00:13Z",
+  "updated_at": "2026-11-12T07:05:09Z",
   "baseline": {
     "taken_at": "2026-11-11T14:00:16Z",
     "ranks": {
@@ -93,22 +93,6 @@
       "last_tg": "2026-11-12"
     },
     {
-      "profile_id": 5984120,
-      "tag": "Combito",
-      "clan": "Ux",
-      "cur_1v1": 2613,
-      "max_1v1": 2790,
-      "cur_tg": 1658,
-      "max_tg": 1885,
-      "last_1v1": "2026-11-12",
-      "last_tg": "2026-11-08",
-      "live": {
-        "match": 520550647,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 9449579,
       "tag": "Miauricio",
       "clan": "VENÓN",
@@ -117,7 +101,24 @@
       "cur_tg": 2140,
       "max_tg": 2151,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-10-15"
+      "last_tg": "2026-10-15",
+      "live": {
+        "match": 520552591,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "[GDL] Chuchito"
+      }
+    },
+    {
+      "profile_id": 5984120,
+      "tag": "Combito",
+      "clan": "Ux",
+      "cur_1v1": 2593,
+      "max_1v1": 2790,
+      "cur_tg": 1658,
+      "max_tg": 1885,
+      "last_1v1": "2026-11-12",
+      "last_tg": "2026-11-08"
     },
     {
       "profile_id": 401359,
@@ -309,7 +310,12 @@
       "cur_tg": 1653,
       "max_tg": 1654,
       "last_tg": "2026-11-11",
-      "last_1v1": "2026-11-12"
+      "last_1v1": "2026-11-12",
+      "live": {
+        "match": 520552516,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 13138746,
@@ -558,7 +564,13 @@
       "cur_tg": 1820,
       "max_tg": 1821,
       "last_tg": "2026-10-16",
-      "last_1v1": "2026-09-18"
+      "last_1v1": "2026-09-18",
+      "live": {
+        "match": 520552591,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "[GDL]CemenTox"
+      }
     },
     {
       "profile_id": 324005,
