@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-12T01:30:12Z",
+  "updated_at": "2026-11-12T01:35:08Z",
   "baseline": {
     "taken_at": "2026-11-11T14:00:16Z",
     "ranks": {
@@ -188,7 +188,13 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 520508258,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "hK | RanDoM"
+      }
     },
     {
       "profile_id": 580573,
@@ -199,7 +205,12 @@
       "cur_tg": 1940,
       "max_tg": 1974,
       "last_1v1": "2026-11-11",
-      "last_tg": "2026-11-12"
+      "last_tg": "2026-11-12",
+      "live": {
+        "match": 520508258,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 12723994,
@@ -221,7 +232,13 @@
       "cur_tg": 1953,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-11-08"
+      "last_tg": "2026-11-08",
+      "live": {
+        "match": 520508258,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "FierroFlash"
+      }
     },
     {
       "profile_id": 1485562,
@@ -570,7 +587,7 @@
       "last_tg": "2026-10-16",
       "last_1v1": "2026-09-18",
       "live": {
-        "match": 520506500,
+        "match": 520508468,
         "game": "Unranked",
         "format": "4v4",
         "account": "[GDL]CemenTox"
@@ -596,7 +613,12 @@
       "cur_tg": 1650,
       "max_tg": 1805,
       "last_tg": "2026-11-12",
-      "last_1v1": "2026-10-16"
+      "last_1v1": "2026-10-16",
+      "live": {
+        "match": 520508845,
+        "game": "Team Random Map",
+        "format": "2v2"
+      }
     },
     {
       "profile_id": 3254820,
