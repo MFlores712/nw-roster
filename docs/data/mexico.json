@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-12T02:45:08Z",
+  "updated_at": "2026-11-12T02:50:10Z",
   "baseline": {
     "taken_at": "2026-11-11T14:00:16Z",
     "ranks": {
@@ -114,7 +114,7 @@
       "last_1v1": "2026-11-12",
       "last_tg": "2026-11-08",
       "live": {
-        "match": 520521068,
+        "match": 520521846,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -294,17 +294,12 @@
       "profile_id": 917863,
       "tag": "Romell13",
       "clan": "hK",
-      "cur_1v1": 2207,
+      "cur_1v1": 2218,
       "max_1v1": 2233,
       "cur_tg": 1815,
       "max_tg": 1838,
-      "last_1v1": "2026-11-10",
-      "last_tg": "2026-11-05",
-      "live": {
-        "match": 520518957,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-12",
+      "last_tg": "2026-11-05"
     },
     {
       "profile_id": 5803221,
@@ -417,13 +412,7 @@
       "cur_tg": 1838,
       "max_tg": 1962,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-07",
-      "live": {
-        "match": 520519928,
-        "game": "Unranked",
-        "format": "2v2",
-        "account": "SynfonY"
-      }
+      "last_tg": "2026-11-07"
     },
     {
       "profile_id": 13215279,
@@ -474,15 +463,10 @@
       "clan": "VENÓN",
       "cur_1v1": 1989,
       "max_1v1": 2115,
-      "cur_tg": 1719,
+      "cur_tg": 1728,
       "max_tg": 1820,
-      "last_tg": "2026-11-04",
-      "last_1v1": "2026-11-11",
-      "live": {
-        "match": 520516350,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-11-12",
+      "last_1v1": "2026-11-11"
     },
     {
       "profile_id": 2291749,
@@ -547,7 +531,12 @@
       "cur_tg": 1641,
       "max_tg": 1824,
       "last_tg": "2026-11-12",
-      "last_1v1": "2026-10-13"
+      "last_1v1": "2026-10-13",
+      "live": {
+        "match": 520521776,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 4764520,
