@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-12T20:05:08Z",
+  "updated_at": "2026-11-12T20:10:10Z",
   "baseline": {
     "taken_at": "2026-11-12T14:00:15Z",
     "ranks": {
@@ -59,13 +59,7 @@
       "cur_tg": 1693,
       "max_tg": 1846,
       "last_1v1": "2026-11-11",
-      "last_tg": "2026-11-12",
-      "live": {
-        "match": 520659561,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "LE | WilliamS"
-      }
+      "last_tg": "2026-11-12"
     },
     {
       "profile_id": 4706179,
@@ -170,17 +164,12 @@
       "profile_id": 4167535,
       "tag": "Dia franptom",
       "clan": "LE",
-      "cur_1v1": 1962,
+      "cur_1v1": 1952,
       "max_1v1": 1995,
       "cur_tg": 1453,
       "max_tg": 1581,
       "last_1v1": "2026-11-12",
-      "last_tg": "2026-11-07",
-      "live": {
-        "match": 520660361,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-07"
     },
     {
       "profile_id": 1359694,
