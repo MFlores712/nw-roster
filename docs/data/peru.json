@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-12T20:15:10Z",
+  "updated_at": "2026-11-12T20:25:14Z",
   "baseline": {
     "taken_at": "2026-11-12T14:00:15Z",
     "ranks": {
@@ -59,13 +59,7 @@
       "cur_tg": 1693,
       "max_tg": 1846,
       "last_1v1": "2026-11-11",
-      "last_tg": "2026-11-12",
-      "live": {
-        "match": 520665895,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "LE | WilliamS"
-      }
+      "last_tg": "2026-11-12"
     },
     {
       "profile_id": 4706179,
@@ -202,17 +196,12 @@
     {
       "profile_id": 3034651,
       "tag": "KinG of QUILLA",
-      "cur_1v1": 1908,
+      "cur_1v1": 1927,
       "max_1v1": 2035,
       "cur_tg": 1526,
       "max_tg": 1657,
       "last_1v1": "2026-11-12",
-      "last_tg": "2026-10-26",
-      "live": {
-        "match": 520663519,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-26"
     },
     {
       "profile_id": 1865687,
