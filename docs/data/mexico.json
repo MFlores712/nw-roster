@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-12T17:40:10Z",
+  "updated_at": "2026-11-12T17:45:12Z",
   "baseline": {
     "taken_at": "2026-11-12T14:00:15Z",
     "ranks": {
@@ -139,13 +139,7 @@
       "cur_tg": 1985,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-11-12",
-      "live": {
-        "match": 520634296,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "The_Fury"
-      }
+      "last_tg": "2026-11-12"
     },
     {
       "profile_id": 2598146,
@@ -267,7 +261,12 @@
       "cur_tg": 1987,
       "max_tg": 2083,
       "last_1v1": "2026-11-12",
-      "last_tg": "2026-11-12"
+      "last_tg": "2026-11-12",
+      "live": {
+        "match": 520635024,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 914665,
@@ -292,21 +291,6 @@
       "last_tg": "2026-11-05"
     },
     {
-      "profile_id": 5803221,
-      "tag": "Mahmoud Ahmadinejad",
-      "cur_1v1": 2123,
-      "max_1v1": 2181,
-      "cur_tg": 1653,
-      "max_tg": 1654,
-      "last_tg": "2026-11-11",
-      "last_1v1": "2026-11-12",
-      "live": {
-        "match": 520627398,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 13138746,
       "tag": "FraKTal",
       "clan": "hK",
@@ -327,6 +311,16 @@
       "max_tg": 1907,
       "last_1v1": "2026-11-12",
       "last_tg": "2026-11-11"
+    },
+    {
+      "profile_id": 5803221,
+      "tag": "Mahmoud Ahmadinejad",
+      "cur_1v1": 2103,
+      "max_1v1": 2181,
+      "cur_tg": 1653,
+      "max_tg": 1654,
+      "last_tg": "2026-11-11",
+      "last_1v1": "2026-11-12"
     },
     {
       "profile_id": 1947348,
@@ -381,7 +375,12 @@
       "cur_tg": 1674,
       "max_tg": 1870,
       "last_1v1": "2026-10-31",
-      "last_tg": "2026-11-12"
+      "last_tg": "2026-11-12",
+      "live": {
+        "match": 520634481,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 1708286,
