@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-13T04:10:09Z",
+  "updated_at": "2026-11-13T04:15:10Z",
   "baseline": {
     "taken_at": "2026-11-12T14:00:15Z",
     "ranks": {
@@ -179,7 +179,12 @@
       "cur_tg": 1453,
       "max_tg": 1581,
       "last_1v1": "2026-11-13",
-      "last_tg": "2026-11-07"
+      "last_tg": "2026-11-07",
+      "live": {
+        "match": 520754105,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 4210400,
@@ -227,7 +232,7 @@
         "match": 520750972,
         "game": "Team Random Map",
         "format": "2v2",
-        "account": "CTM | VaccumDestroyer"
+        "account": "lopy32"
       }
     },
     {
