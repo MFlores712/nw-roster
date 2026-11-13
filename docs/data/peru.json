@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-13T03:55:09Z",
+  "updated_at": "2026-11-13T04:00:12Z",
   "baseline": {
     "taken_at": "2026-11-12T14:00:15Z",
     "ranks": {
@@ -88,12 +88,12 @@
       "tag": "Legendario",
       "cur_1v1": 2110,
       "max_1v1": 2174,
-      "cur_tg": 1558,
+      "cur_tg": 1543,
       "max_tg": 1834,
       "last_1v1": "2026-11-13",
       "last_tg": "2026-11-13",
       "live": {
-        "match": 520747438,
+        "match": 520752091,
         "game": "Team Random Map",
         "format": "4v4"
       }
@@ -114,12 +114,12 @@
       "tag": "Tempo",
       "cur_1v1": 2038,
       "max_1v1": 2177,
-      "cur_tg": 1679,
+      "cur_tg": 1660,
       "max_tg": 1843,
       "last_1v1": "2026-11-04",
-      "last_tg": "2026-10-25",
+      "last_tg": "2026-11-13",
       "live": {
-        "match": 520747438,
+        "match": 520752091,
         "game": "Team Random Map",
         "format": "4v4"
       }
@@ -143,7 +143,12 @@
       "cur_tg": 1776,
       "max_tg": 1840,
       "last_tg": "2026-11-13",
-      "last_1v1": "2026-09-24"
+      "last_1v1": "2026-09-24",
+      "live": {
+        "match": 520752179,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 2366434,
@@ -232,7 +237,7 @@
         "match": 520750972,
         "game": "Team Random Map",
         "format": "2v2",
-        "account": "CTM | VaccumDestroyer"
+        "account": "lopy32"
       }
     },
     {
