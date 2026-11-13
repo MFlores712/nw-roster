@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-13T14:00:16Z",
+  "updated_at": "2026-11-13T14:07:50Z",
   "baseline": {
     "taken_at": "2026-11-13T14:00:16Z",
     "ranks": {
@@ -200,11 +200,11 @@
     {
       "profile_id": 2134856,
       "tag": "Jacko",
-      "cur_1v1": 1747,
+      "cur_1v1": 1727,
       "max_1v1": 1867,
       "cur_tg": 1119,
       "max_tg": 1119,
-      "last_1v1": "2026-11-12",
+      "last_1v1": "2026-11-13",
       "last_tg": "2025-03-14",
       "live": {
         "match": 520820212,
