@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-13T00:40:11Z",
+  "updated_at": "2026-11-13T00:45:09Z",
   "baseline": {
     "taken_at": "2026-11-12T14:00:15Z",
     "ranks": {
@@ -134,13 +134,7 @@
       "cur_tg": 1985,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-11-12",
-      "live": {
-        "match": 520716486,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "The_Fury"
-      }
+      "last_tg": "2026-11-12"
     },
     {
       "profile_id": 2598146,
@@ -173,13 +167,7 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 520716908,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "hK | RanDoM"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 580573,
@@ -249,6 +237,17 @@
       "last_tg": "2026-11-12"
     },
     {
+      "profile_id": 4412109,
+      "tag": "HGB",
+      "clan": "hK",
+      "cur_1v1": 2289,
+      "max_1v1": 2365,
+      "cur_tg": 1987,
+      "max_tg": 2083,
+      "last_1v1": "2026-11-13",
+      "last_tg": "2026-11-12"
+    },
+    {
       "profile_id": 310739,
       "tag": "SoyLaHostia",
       "clan": "hK",
@@ -258,22 +257,6 @@
       "max_tg": 1959,
       "last_1v1": "2026-11-12",
       "last_tg": "2026-11-12"
-    },
-    {
-      "profile_id": 4412109,
-      "tag": "HGB",
-      "clan": "hK",
-      "cur_1v1": 2279,
-      "max_1v1": 2365,
-      "cur_tg": 1987,
-      "max_tg": 2083,
-      "last_1v1": "2026-11-13",
-      "last_tg": "2026-11-12",
-      "live": {
-        "match": 520714813,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 914665,
@@ -573,15 +556,10 @@
       "clan": "VN",
       "cur_1v1": 1909,
       "max_1v1": 1929,
-      "cur_tg": 1835,
+      "cur_tg": 1811,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-11-13",
-      "live": {
-        "match": 520715636,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-13"
     },
     {
       "profile_id": 12472496,
