@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-13T20:50:09Z",
+  "updated_at": "2026-11-13T20:55:09Z",
   "baseline": {
     "taken_at": "2026-11-13T14:00:16Z",
     "ranks": {
@@ -85,14 +85,14 @@
       "profile_id": 2920057,
       "tag": "Lobo",
       "clan": "Ux",
-      "cur_1v1": 2644,
+      "cur_1v1": 2620,
       "max_1v1": 2685,
       "cur_tg": 2168,
       "max_tg": 2173,
       "last_1v1": "2026-11-13",
       "last_tg": "2026-11-12",
       "live": {
-        "match": 520902611,
+        "match": 520906652,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -372,7 +372,7 @@
       "clan": "VL",
       "cur_1v1": 2055,
       "max_1v1": 2089,
-      "cur_tg": 1882,
+      "cur_tg": 1887,
       "max_tg": 1919,
       "last_1v1": "2026-06-27",
       "last_tg": "2026-11-13",
