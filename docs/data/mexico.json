@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-13T04:50:16Z",
+  "updated_at": "2026-11-13T05:00:12Z",
   "baseline": {
     "taken_at": "2026-11-12T14:00:15Z",
     "ranks": {
@@ -131,15 +131,10 @@
       "clan": "hK",
       "cur_1v1": 2427,
       "max_1v1": 2433,
-      "cur_tg": 1977,
+      "cur_tg": 1999,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-11-13",
-      "live": {
-        "match": 520755265,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-13"
     },
     {
       "profile_id": 2598146,
@@ -247,15 +242,10 @@
       "clan": "hK",
       "cur_1v1": 2265,
       "max_1v1": 2365,
-      "cur_tg": 1979,
+      "cur_tg": 2001,
       "max_tg": 2083,
       "last_1v1": "2026-11-13",
-      "last_tg": "2026-11-13",
-      "live": {
-        "match": 520755265,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-13"
     },
     {
       "profile_id": 757886,
@@ -401,7 +391,13 @@
       "cur_tg": 1833,
       "max_tg": 1962,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-12"
+      "last_tg": "2026-11-12",
+      "live": {
+        "match": 520759600,
+        "game": "Unranked",
+        "format": "2v2",
+        "account": "SynfonY"
+      }
     },
     {
       "profile_id": 233625,
