@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-13T02:50:09Z",
+  "updated_at": "2026-11-13T02:55:09Z",
   "baseline": {
     "taken_at": "2026-11-12T14:00:15Z",
     "ranks": {
@@ -201,7 +201,7 @@
       "last_1v1": "2026-11-12",
       "last_tg": "2026-11-12",
       "live": {
-        "match": 520734776,
+        "match": 520741670,
         "game": "Unranked",
         "format": "1v1"
       }
@@ -255,17 +255,12 @@
       "profile_id": 757886,
       "tag": "DarK_KnighT_",
       "clan": "VN",
-      "cur_1v1": 2300,
+      "cur_1v1": 2296,
       "max_1v1": 2300,
       "cur_tg": 1884,
       "max_tg": 2050,
-      "last_1v1": "2026-11-10",
-      "last_tg": "2026-11-12",
-      "live": {
-        "match": 520733209,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-13",
+      "last_tg": "2026-11-12"
     },
     {
       "profile_id": 310739,
@@ -334,21 +329,6 @@
       "last_tg": "2026-11-11"
     },
     {
-      "profile_id": 5803221,
-      "tag": "Mahmoud Ahmadinejad",
-      "cur_1v1": 2105,
-      "max_1v1": 2181,
-      "cur_tg": 1653,
-      "max_tg": 1654,
-      "last_tg": "2026-11-11",
-      "last_1v1": "2026-11-13",
-      "live": {
-        "match": 520737831,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 1947348,
       "tag": "themariach1",
       "clan": "nW",
@@ -358,6 +338,16 @@
       "max_tg": 2034,
       "last_1v1": "2026-07-08",
       "last_tg": "2026-10-21"
+    },
+    {
+      "profile_id": 5803221,
+      "tag": "Mahmoud Ahmadinejad",
+      "cur_1v1": 2079,
+      "max_1v1": 2181,
+      "cur_tg": 1653,
+      "max_tg": 1654,
+      "last_tg": "2026-11-11",
+      "last_1v1": "2026-11-13"
     },
     {
       "profile_id": 2850920,
@@ -397,7 +387,7 @@
       "last_1v1": "2026-06-27",
       "last_tg": "2026-11-12",
       "live": {
-        "match": 520734776,
+        "match": 520741670,
         "game": "Unranked",
         "format": "1v1"
       }
@@ -443,7 +433,12 @@
       "cur_tg": 1700,
       "max_tg": 1860,
       "last_1v1": "2026-11-13",
-      "last_tg": "2026-11-09"
+      "last_tg": "2026-11-09",
+      "live": {
+        "match": 520741547,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 233625,
@@ -610,7 +605,13 @@
       "cur_tg": 1793,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-11-13"
+      "last_tg": "2026-11-13",
+      "live": {
+        "match": 520741432,
+        "game": "Team Random Map",
+        "format": "3v3",
+        "account": "EXILE | Onichan Nya"
+      }
     },
     {
       "profile_id": 12472496,
