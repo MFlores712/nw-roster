@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-13T06:30:11Z",
+  "updated_at": "2026-11-13T06:35:11Z",
   "baseline": {
     "taken_at": "2026-11-12T14:00:15Z",
     "ranks": {
@@ -192,6 +192,17 @@
       "last_1v1": "2026-11-09"
     },
     {
+      "profile_id": 310739,
+      "tag": "SoyLaHostia",
+      "clan": "hK",
+      "cur_1v1": 2332,
+      "max_1v1": 2484,
+      "cur_tg": 1849,
+      "max_tg": 1959,
+      "last_1v1": "2026-11-13",
+      "last_tg": "2026-11-12"
+    },
+    {
       "profile_id": 9031952,
       "tag": "ChossMx",
       "clan": "hK",
@@ -201,22 +212,6 @@
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
       "last_tg": "2026-11-08"
-    },
-    {
-      "profile_id": 310739,
-      "tag": "SoyLaHostia",
-      "clan": "hK",
-      "cur_1v1": 2318,
-      "max_1v1": 2484,
-      "cur_tg": 1849,
-      "max_tg": 1959,
-      "last_1v1": "2026-11-13",
-      "last_tg": "2026-11-12",
-      "live": {
-        "match": 520769064,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 1485562,
@@ -289,17 +284,12 @@
       "profile_id": 3816609,
       "tag": "iamkaito",
       "clan": "nW",
-      "cur_1v1": 2129,
+      "cur_1v1": 2132,
       "max_1v1": 2304,
       "cur_tg": 1853,
       "max_tg": 1907,
       "last_1v1": "2026-11-13",
-      "last_tg": "2026-11-11",
-      "live": {
-        "match": 520768992,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-11"
     },
     {
       "profile_id": 13138746,
@@ -401,13 +391,7 @@
       "cur_tg": 1833,
       "max_tg": 1962,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-12",
-      "live": {
-        "match": 520768070,
-        "game": "Unranked",
-        "format": "2v2",
-        "account": "SynfonY"
-      }
+      "last_tg": "2026-11-12"
     },
     {
       "profile_id": 233625,
