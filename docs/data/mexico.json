@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-13T02:41:59Z",
+  "updated_at": "2026-11-13T02:45:10Z",
   "baseline": {
     "taken_at": "2026-11-12T14:00:15Z",
     "ranks": {
@@ -101,17 +101,12 @@
       "profile_id": 5984120,
       "tag": "C",
       "clan": "Ux",
-      "cur_1v1": 2613,
+      "cur_1v1": 2609,
       "max_1v1": 2790,
       "cur_tg": 1658,
       "max_tg": 1885,
-      "last_1v1": "2026-11-12",
-      "last_tg": "2026-11-08",
-      "live": {
-        "match": 520737396,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-13",
+      "last_tg": "2026-11-08"
     },
     {
       "profile_id": 9449579,
@@ -435,6 +430,22 @@
       "last_tg": "2026-11-12"
     },
     {
+      "profile_id": 13215279,
+      "tag": "GO1_mx",
+      "clan": "MZTK",
+      "cur_1v1": 2007,
+      "max_1v1": 2093,
+      "cur_tg": 1700,
+      "max_tg": 1860,
+      "last_1v1": "2026-11-13",
+      "last_tg": "2026-11-09",
+      "live": {
+        "match": 520734368,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 233625,
       "tag": "MooN",
       "cur_1v1": 2002,
@@ -465,22 +476,6 @@
       "max_tg": 1844,
       "last_1v1": "2026-11-10",
       "last_tg": "2026-10-31"
-    },
-    {
-      "profile_id": 13215279,
-      "tag": "GO1_mx",
-      "clan": "MZTK",
-      "cur_1v1": 1991,
-      "max_1v1": 2093,
-      "cur_tg": 1700,
-      "max_tg": 1860,
-      "last_1v1": "2026-11-13",
-      "last_tg": "2026-11-09",
-      "live": {
-        "match": 520734368,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 6501299,
