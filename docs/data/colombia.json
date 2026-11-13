@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-13T16:45:11Z",
+  "updated_at": "2026-11-13T16:50:19Z",
   "baseline": {
     "taken_at": "2026-11-13T14:00:16Z",
     "ranks": {
@@ -61,7 +61,13 @@
       "cur_tg": 1788,
       "max_tg": 1828,
       "last_1v1": "2026-11-12",
-      "last_tg": "2026-09-05"
+      "last_tg": "2026-09-05",
+      "live": {
+        "match": 520851539,
+        "game": "Team Random Map",
+        "format": "3v3",
+        "account": "NuMa | Empire"
+      }
     },
     {
       "profile_id": 2825261,
