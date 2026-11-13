@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-13T03:30:11Z",
+  "updated_at": "2026-11-13T03:35:08Z",
   "baseline": {
     "taken_at": "2026-11-12T14:00:15Z",
     "ranks": {
@@ -90,7 +90,12 @@
       "cur_tg": 1879,
       "max_tg": 1999,
       "last_1v1": "2026-11-11",
-      "last_tg": "2026-11-12"
+      "last_tg": "2026-11-12",
+      "live": {
+        "match": 520747460,
+        "game": "Unranked",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 5984120,
@@ -101,7 +106,12 @@
       "cur_tg": 1658,
       "max_tg": 1885,
       "last_1v1": "2026-11-13",
-      "last_tg": "2026-11-08"
+      "last_tg": "2026-11-08",
+      "live": {
+        "match": 520747958,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 9449579,
@@ -137,14 +147,14 @@
       "clan": "hK",
       "cur_1v1": 2427,
       "max_1v1": 2433,
-      "cur_tg": 1985,
+      "cur_tg": 1963,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-11-12",
+      "last_tg": "2026-11-13",
       "live": {
-        "match": 520744703,
+        "match": 520748134,
         "game": "Team Random Map",
-        "format": "2v2"
+        "format": "4v4"
       }
     },
     {
@@ -274,14 +284,14 @@
       "clan": "hK",
       "cur_1v1": 2265,
       "max_1v1": 2365,
-      "cur_tg": 1987,
+      "cur_tg": 1965,
       "max_tg": 2083,
       "last_1v1": "2026-11-13",
-      "last_tg": "2026-11-12",
+      "last_tg": "2026-11-13",
       "live": {
-        "match": 520744703,
+        "match": 520748134,
         "game": "Team Random Map",
-        "format": "2v2"
+        "format": "4v4"
       }
     },
     {
@@ -613,15 +623,10 @@
       "clan": "Ux",
       "cur_1v1": 1909,
       "max_1v1": 1909,
-      "cur_tg": 1662,
+      "cur_tg": 1642,
       "max_tg": 1805,
-      "last_tg": "2026-11-12",
-      "last_1v1": "2026-10-16",
-      "live": {
-        "match": 520743219,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-13",
+      "last_1v1": "2026-10-16"
     },
     {
       "profile_id": 13241217,
