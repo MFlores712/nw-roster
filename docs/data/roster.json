@@ -1,6 +1,6 @@
 {
   "name": "new Wave",
-  "updated_at": "2026-11-13T16:10:11Z",
+  "updated_at": "2026-11-13T16:35:09Z",
   "baseline": {
     "taken_at": "2026-11-13T14:00:16Z",
     "ranks": {
@@ -22,15 +22,10 @@
       "country": "Colombia",
       "cur_1v1": 2401,
       "max_1v1": 2495,
-      "cur_tg": 1885,
+      "cur_tg": 1901,
       "max_tg": 1945,
       "last_1v1": "2026-11-12",
-      "last_tg": "2026-11-11",
-      "live": {
-        "match": 520843965,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-13"
     },
     {
       "profile_id": 914665,
