@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-13T17:40:18Z",
+  "updated_at": "2026-11-13T17:45:10Z",
   "baseline": {
     "taken_at": "2026-11-13T14:00:16Z",
     "ranks": {
@@ -278,12 +278,7 @@
       "cur_tg": 1888,
       "max_tg": 2050,
       "last_1v1": "2026-11-13",
-      "last_tg": "2026-11-13",
-      "live": {
-        "match": 520859148,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-13"
     },
     {
       "profile_id": 5803221,
@@ -462,12 +457,7 @@
       "cur_tg": 1891,
       "max_tg": 1997,
       "last_1v1": "2026-11-13",
-      "last_tg": "2026-11-13",
-      "live": {
-        "match": 520859148,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-13"
     },
     {
       "profile_id": 235877,
