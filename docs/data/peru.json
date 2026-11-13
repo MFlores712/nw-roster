@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-13T06:30:11Z",
+  "updated_at": "2026-11-13T06:40:10Z",
   "baseline": {
     "taken_at": "2026-11-12T14:00:15Z",
     "ranks": {
@@ -196,17 +196,12 @@
     {
       "profile_id": 3034651,
       "tag": "KinG of QUILLA",
-      "cur_1v1": 1913,
+      "cur_1v1": 1927,
       "max_1v1": 2035,
       "cur_tg": 1526,
       "max_tg": 1657,
-      "last_1v1": "2026-11-12",
-      "last_tg": "2026-10-26",
-      "live": {
-        "match": 520769226,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-13",
+      "last_tg": "2026-10-26"
     },
     {
       "profile_id": 1865687,
@@ -217,7 +212,13 @@
       "cur_tg": 1479,
       "max_tg": 1608,
       "last_1v1": "2026-09-19",
-      "last_tg": "2026-11-12"
+      "last_tg": "2026-11-12",
+      "live": {
+        "match": 520770377,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "CTM | VaccumDestroyer"
+      }
     },
     {
       "profile_id": 4234652,
