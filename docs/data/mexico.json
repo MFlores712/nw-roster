@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-13T23:15:16Z",
+  "updated_at": "2026-11-13T23:25:09Z",
   "baseline": {
     "taken_at": "2026-11-13T14:00:16Z",
     "ranks": {
@@ -93,6 +93,17 @@
       "last_tg": "2026-11-12"
     },
     {
+      "profile_id": 5984120,
+      "tag": "C",
+      "clan": "Ux",
+      "cur_1v1": 2610,
+      "max_1v1": 2790,
+      "cur_tg": 1658,
+      "max_tg": 1885,
+      "last_1v1": "2026-11-13",
+      "last_tg": "2026-11-08"
+    },
+    {
       "profile_id": 9449579,
       "tag": "Miauricio",
       "clan": "VENÓN",
@@ -102,22 +113,6 @@
       "max_tg": 2151,
       "last_1v1": "2026-11-07",
       "last_tg": "2026-11-13"
-    },
-    {
-      "profile_id": 5984120,
-      "tag": "C",
-      "clan": "Ux",
-      "cur_1v1": 2592,
-      "max_1v1": 2790,
-      "cur_tg": 1658,
-      "max_tg": 1885,
-      "last_1v1": "2026-11-13",
-      "last_tg": "2026-11-08",
-      "live": {
-        "match": 520935630,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 401359,
