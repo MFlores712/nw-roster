@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-13T22:10:10Z",
+  "updated_at": "2026-11-13T22:15:09Z",
   "baseline": {
     "taken_at": "2026-11-13T14:00:16Z",
     "ranks": {
@@ -96,7 +96,7 @@
       "profile_id": 2920057,
       "tag": "Lobo",
       "clan": "Ux",
-      "cur_1v1": 2618,
+      "cur_1v1": 2602,
       "max_1v1": 2685,
       "cur_tg": 2168,
       "max_tg": 2173,
@@ -162,14 +162,14 @@
       "profile_id": 310739,
       "tag": "SoyLaHostia",
       "clan": "hK",
-      "cur_1v1": 2374,
+      "cur_1v1": 2371,
       "max_1v1": 2484,
       "cur_tg": 1828,
       "max_tg": 1959,
       "last_1v1": "2026-11-13",
       "last_tg": "2026-11-13",
       "live": {
-        "match": 520924621,
+        "match": 520925906,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -372,15 +372,10 @@
       "clan": "SotC",
       "cur_1v1": 2054,
       "max_1v1": 2098,
-      "cur_tg": 1758,
+      "cur_tg": 1732,
       "max_tg": 1870,
       "last_1v1": "2026-10-31",
-      "last_tg": "2026-11-13",
-      "live": {
-        "match": 520918034,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-13"
     },
     {
       "profile_id": 9770338,
