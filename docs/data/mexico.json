@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-13T22:30:11Z",
+  "updated_at": "2026-11-13T22:35:08Z",
   "baseline": {
     "taken_at": "2026-11-13T14:00:16Z",
     "ranks": {
@@ -144,13 +144,7 @@
       "cur_tg": 2000,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-11-13",
-      "live": {
-        "match": 520923305,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "The_Fury"
-      }
+      "last_tg": "2026-11-13"
     },
     {
       "profile_id": 2598146,
@@ -164,22 +158,6 @@
       "last_1v1": "2026-10-31"
     },
     {
-      "profile_id": 310739,
-      "tag": "SoyLaHostia",
-      "clan": "hK",
-      "cur_1v1": 2371,
-      "max_1v1": 2484,
-      "cur_tg": 1828,
-      "max_tg": 1959,
-      "last_1v1": "2026-11-13",
-      "last_tg": "2026-11-13",
-      "live": {
-        "match": 520925906,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 2295504,
       "tag": "Eren",
       "clan": "hK",
@@ -189,6 +167,17 @@
       "max_tg": 1907,
       "last_1v1": "2026-11-11",
       "last_tg": "2026-10-14"
+    },
+    {
+      "profile_id": 310739,
+      "tag": "SoyLaHostia",
+      "clan": "hK",
+      "cur_1v1": 2359,
+      "max_1v1": 2484,
+      "cur_tg": 1828,
+      "max_tg": 1959,
+      "last_1v1": "2026-11-13",
+      "last_tg": "2026-11-13"
     },
     {
       "profile_id": 312774,
