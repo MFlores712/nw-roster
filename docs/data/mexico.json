@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-13T16:35:09Z",
+  "updated_at": "2026-11-13T16:40:10Z",
   "baseline": {
     "taken_at": "2026-11-13T14:00:16Z",
     "ranks": {
@@ -240,17 +240,12 @@
       "profile_id": 4412109,
       "tag": "HGB",
       "clan": "hK",
-      "cur_1v1": 2273,
+      "cur_1v1": 2255,
       "max_1v1": 2365,
       "cur_tg": 2002,
       "max_tg": 2083,
       "last_1v1": "2026-11-13",
-      "last_tg": "2026-11-13",
-      "live": {
-        "match": 520842473,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-13"
     },
     {
       "profile_id": 914665,
@@ -359,7 +354,12 @@
       "cur_tg": 1703,
       "max_tg": 1870,
       "last_1v1": "2026-10-31",
-      "last_tg": "2026-11-13"
+      "last_tg": "2026-11-13",
+      "live": {
+        "match": 520849739,
+        "game": "Team Empire Wars",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 9770338,
