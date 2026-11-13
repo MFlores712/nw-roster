@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-13T04:15:10Z",
+  "updated_at": "2026-11-13T04:20:09Z",
   "baseline": {
     "taken_at": "2026-11-12T14:00:15Z",
     "ranks": {
@@ -96,7 +96,7 @@
       "profile_id": 5984120,
       "tag": "C",
       "clan": "Ux",
-      "cur_1v1": 2629,
+      "cur_1v1": 2614,
       "max_1v1": 2790,
       "cur_tg": 1658,
       "max_tg": 1885,
@@ -236,22 +236,6 @@
       "last_seen": "2025-06-11"
     },
     {
-      "profile_id": 757886,
-      "tag": "DarK_KnighT_",
-      "clan": "VN",
-      "cur_1v1": 2301,
-      "max_1v1": 2301,
-      "cur_tg": 1884,
-      "max_tg": 2050,
-      "last_1v1": "2026-11-13",
-      "last_tg": "2026-11-12",
-      "live": {
-        "match": 520751046,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 310739,
       "tag": "SoyLaHostia",
       "clan": "hK",
@@ -261,6 +245,22 @@
       "max_tg": 1959,
       "last_1v1": "2026-11-12",
       "last_tg": "2026-11-12"
+    },
+    {
+      "profile_id": 757886,
+      "tag": "DarK_KnighT_",
+      "clan": "VN",
+      "cur_1v1": 2285,
+      "max_1v1": 2301,
+      "cur_tg": 1884,
+      "max_tg": 2050,
+      "last_1v1": "2026-11-13",
+      "last_tg": "2026-11-12",
+      "live": {
+        "match": 520754700,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 4412109,
@@ -385,7 +385,7 @@
       "profile_id": 2934597,
       "tag": "Sgt.Pepper",
       "clan": "nW",
-      "cur_1v1": 2043,
+      "cur_1v1": 2040,
       "max_1v1": 2210,
       "cur_tg": 1731,
       "max_tg": 1747,
