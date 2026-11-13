@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-13T02:25:09Z",
+  "updated_at": "2026-11-13T02:30:11Z",
   "baseline": {
     "taken_at": "2026-11-12T14:00:15Z",
     "ranks": {
@@ -101,7 +101,12 @@
       "cur_tg": 1658,
       "max_tg": 1885,
       "last_1v1": "2026-11-12",
-      "last_tg": "2026-11-08"
+      "last_tg": "2026-11-08",
+      "live": {
+        "match": 520737396,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 9449579,
@@ -326,17 +331,12 @@
     {
       "profile_id": 5803221,
       "tag": "Mahmoud Ahmadinejad",
-      "cur_1v1": 2098,
+      "cur_1v1": 2105,
       "max_1v1": 2181,
       "cur_tg": 1653,
       "max_tg": 1654,
       "last_tg": "2026-11-11",
-      "last_1v1": "2026-11-13",
-      "live": {
-        "match": 520736250,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-13"
     },
     {
       "profile_id": 1947348,
@@ -600,13 +600,7 @@
       "cur_tg": 1793,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-11-13",
-      "live": {
-        "match": 520730527,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "EXILE | Onichan Nya"
-      }
+      "last_tg": "2026-11-13"
     },
     {
       "profile_id": 12472496,
