@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-13T03:00:12Z",
+  "updated_at": "2026-11-13T03:05:09Z",
   "baseline": {
     "taken_at": "2026-11-12T14:00:15Z",
     "ranks": {
@@ -90,12 +90,7 @@
       "cur_tg": 1879,
       "max_tg": 1999,
       "last_1v1": "2026-11-11",
-      "last_tg": "2026-11-12",
-      "live": {
-        "match": 520737435,
-        "game": "Unranked",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-12"
     },
     {
       "profile_id": 5984120,
@@ -122,13 +117,7 @@
       "cur_tg": 2128,
       "max_tg": 2151,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-13",
-      "live": {
-        "match": 520739363,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "[GDL] Chuchito"
-      }
+      "last_tg": "2026-11-13"
     },
     {
       "profile_id": 401359,
@@ -136,15 +125,10 @@
       "clan": "VENÓN",
       "cur_1v1": 2507,
       "max_1v1": 2512,
-      "cur_tg": 2083,
+      "cur_tg": 2101,
       "max_tg": 2190,
       "last_1v1": "2026-11-12",
-      "last_tg": "2026-11-13",
-      "live": {
-        "match": 520736430,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-11-13"
     },
     {
       "profile_id": 4221810,
@@ -538,6 +522,17 @@
       "last_tg": "2026-11-12"
     },
     {
+      "profile_id": 4764520,
+      "tag": "BooMBastic_",
+      "clan": "KH",
+      "cur_1v1": 1953,
+      "max_1v1": 2060,
+      "cur_tg": 1739,
+      "max_tg": 1813,
+      "last_tg": "2026-11-12",
+      "last_1v1": "2026-11-13"
+    },
+    {
       "profile_id": 2986966,
       "tag": "JPGP",
       "clan": "VL",
@@ -557,22 +552,6 @@
       "max_tg": 1755,
       "last_1v1": "2026-09-16",
       "last_tg": "2026-09-16"
-    },
-    {
-      "profile_id": 4764520,
-      "tag": "BooMBastic_",
-      "clan": "KH",
-      "cur_1v1": 1934,
-      "max_1v1": 2060,
-      "cur_tg": 1739,
-      "max_tg": 1813,
-      "last_tg": "2026-11-12",
-      "last_1v1": "2026-11-13",
-      "live": {
-        "match": 520736331,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 278380,
@@ -622,7 +601,12 @@
       "cur_tg": 1662,
       "max_tg": 1805,
       "last_tg": "2026-11-12",
-      "last_1v1": "2026-10-16"
+      "last_1v1": "2026-10-16",
+      "live": {
+        "match": 520743219,
+        "game": "Team Random Map",
+        "format": "2v2"
+      }
     },
     {
       "profile_id": 13241217,
