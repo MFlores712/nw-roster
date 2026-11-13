@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-13T01:10:10Z",
+  "updated_at": "2026-11-13T01:15:08Z",
   "baseline": {
     "taken_at": "2026-11-12T14:00:15Z",
     "ranks": {
@@ -59,12 +59,7 @@
       "cur_tg": 1677,
       "max_tg": 1846,
       "last_1v1": "2026-11-11",
-      "last_tg": "2026-11-12",
-      "live": {
-        "match": 520720215,
-        "game": "Unranked",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-12"
     },
     {
       "profile_id": 4706179,
@@ -96,7 +91,12 @@
       "cur_tg": 1552,
       "max_tg": 1834,
       "last_1v1": "2026-11-13",
-      "last_tg": "2026-11-12"
+      "last_tg": "2026-11-12",
+      "live": {
+        "match": 520723650,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 12167914,
@@ -177,22 +177,6 @@
       "last_tg": "2026-11-07"
     },
     {
-      "profile_id": 1359694,
-      "tag": "AtilA",
-      "clan": "nW",
-      "cur_1v1": 1948,
-      "max_1v1": 2123,
-      "cur_tg": 1622,
-      "max_tg": 1670,
-      "last_tg": "2026-11-01",
-      "last_1v1": "2026-11-13",
-      "live": {
-        "match": 520714007,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 4210400,
       "tag": "Darwiz1233",
       "clan": "LE",
@@ -202,6 +186,17 @@
       "max_tg": 2009,
       "last_tg": "2026-10-12",
       "last_1v1": "2026-10-01"
+    },
+    {
+      "profile_id": 1359694,
+      "tag": "AtilA",
+      "clan": "nW",
+      "cur_1v1": 1931,
+      "max_1v1": 2123,
+      "cur_tg": 1622,
+      "max_tg": 1670,
+      "last_tg": "2026-11-01",
+      "last_1v1": "2026-11-13"
     },
     {
       "profile_id": 3034651,
