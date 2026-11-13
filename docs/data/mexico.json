@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-13T21:50:09Z",
+  "updated_at": "2026-11-13T22:00:14Z",
   "baseline": {
     "taken_at": "2026-11-13T14:00:16Z",
     "ranks": {
@@ -85,7 +85,7 @@
       "profile_id": 5984120,
       "tag": "C",
       "clan": "Ux",
-      "cur_1v1": 2623,
+      "cur_1v1": 2640,
       "max_1v1": 2790,
       "cur_tg": 1658,
       "max_tg": 1885,
@@ -144,13 +144,7 @@
       "cur_tg": 2000,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-11-13",
-      "live": {
-        "match": 520917277,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "The_Fury"
-      }
+      "last_tg": "2026-11-13"
     },
     {
       "profile_id": 2598146,
@@ -585,13 +579,7 @@
       "cur_tg": 1807,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-11-13",
-      "live": {
-        "match": 520917785,
-        "game": "Team Random Map",
-        "format": "3v3",
-        "account": "EXILE | Onichan Nya"
-      }
+      "last_tg": "2026-11-13"
     },
     {
       "profile_id": 12472496,
