@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-13T22:55:09Z",
+  "updated_at": "2026-11-13T23:00:15Z",
   "baseline": {
     "taken_at": "2026-11-13T14:00:16Z",
     "ranks": {
@@ -117,7 +117,12 @@
       "cur_tg": 1658,
       "max_tg": 1885,
       "last_1v1": "2026-11-13",
-      "last_tg": "2026-11-08"
+      "last_tg": "2026-11-08",
+      "live": {
+        "match": 520935630,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 401359,
@@ -211,13 +216,7 @@
       "cur_tg": 1953,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-11-08",
-      "live": {
-        "match": 520930761,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "FierroFlash"
-      }
+      "last_tg": "2026-11-08"
     },
     {
       "profile_id": 580573,
@@ -322,14 +321,14 @@
     {
       "profile_id": 5803221,
       "tag": "Mahmoud Ahmadinejad",
-      "cur_1v1": 2105,
+      "cur_1v1": 2108,
       "max_1v1": 2181,
       "cur_tg": 1653,
       "max_tg": 1654,
       "last_tg": "2026-11-11",
       "last_1v1": "2026-11-13",
       "live": {
-        "match": 520931929,
+        "match": 520936217,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
