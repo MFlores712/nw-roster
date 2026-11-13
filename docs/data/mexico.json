@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-13T02:20:16Z",
+  "updated_at": "2026-11-13T02:25:09Z",
   "baseline": {
     "taken_at": "2026-11-12T14:00:15Z",
     "ranks": {
@@ -129,7 +129,12 @@
       "cur_tg": 2083,
       "max_tg": 2190,
       "last_1v1": "2026-11-12",
-      "last_tg": "2026-11-13"
+      "last_tg": "2026-11-13",
+      "live": {
+        "match": 520736430,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 4221810,
@@ -326,7 +331,12 @@
       "cur_tg": 1653,
       "max_tg": 1654,
       "last_tg": "2026-11-11",
-      "last_1v1": "2026-11-13"
+      "last_1v1": "2026-11-13",
+      "live": {
+        "match": 520736250,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 1947348,
@@ -534,22 +544,6 @@
       "last_1v1": "2026-10-13"
     },
     {
-      "profile_id": 4764520,
-      "tag": "BooMBastic_",
-      "clan": "KH",
-      "cur_1v1": 1948,
-      "max_1v1": 2060,
-      "cur_tg": 1739,
-      "max_tg": 1813,
-      "last_tg": "2026-11-12",
-      "last_1v1": "2026-11-04",
-      "live": {
-        "match": 520734075,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 467847,
       "tag": "DoN.Vergas",
       "cur_1v1": 1940,
@@ -558,6 +552,22 @@
       "max_tg": 1755,
       "last_1v1": "2026-09-16",
       "last_tg": "2026-09-16"
+    },
+    {
+      "profile_id": 4764520,
+      "tag": "BooMBastic_",
+      "clan": "KH",
+      "cur_1v1": 1934,
+      "max_1v1": 2060,
+      "cur_tg": 1739,
+      "max_tg": 1813,
+      "last_tg": "2026-11-12",
+      "last_1v1": "2026-11-13",
+      "live": {
+        "match": 520736331,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 278380,
