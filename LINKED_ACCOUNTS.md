@@ -1,6 +1,6 @@
 # Linked accounts
 
-Generated 2026-11-12T14:00:15Z from aoe2companion's linked profiles (followed up to 4 links deep; each account belongs to the closest listed player).
+Generated 2026-11-13T14:00:16Z from aoe2companion's linked profiles (followed up to 4 links deep; each account belongs to the closest listed player).
 Used to show players LIVE when they play on any of their accounts. Ratings are RM 1v1.
 
 ## new Wave
@@ -21,20 +21,20 @@ Used to show players LIVE when they play on any of their accounts. Ratings are R
 | Player | Linked accounts |
 |---|---|
 | Oni Kingstone | KingstoNe (—), Combi / KingstoNe (—), Kingstone (2225), Combi / TG Plasher (—) |
-| Ux Combito | Skirmisher Timing (2483), C, (2417, 2 links away), White Knight (2416, 2 links away) |
+| Ux C | Skirmisher Timing (2483), C, (2417, 2 links away), White Knight (2416, 2 links away) |
 | Ux Lobo | Ux'LobodeLaNieve (2599), BlackSlayer (1974), Combi / JyuVioleGrace (—), Ux'Auu (—), BlackSlayer (1461) |
 | Ux Uzzi | Uzzi (2438), Metapod (—), Combi / Maruri (2364), 7Swords (—), Floki (—), Combi / 7Swords (2285), _Iridium_ (—), Maruri (—), El_Chompiras (—), Incadescence (1854), Reptar (1686, 2 links away) |
 | VENÓN Miauricio | xboxyyds8966 (—), [GDL] Chuchito (646), IranX (—), Mau AE1313 (—), DiscipuloDeSoldaditoDePlomo (1771), VENÓN / Mauricio (2456), Papa de Botzanga (—), Mauricioae13 (—), [GDL] Chuchito (—) |
 | VENÓN EnvyZ | S1mulated w (2213), KH / Murdock (2033) |
 | hK SoyLaHostia | Warlock_Ndk (2026) |
-| hK Keno_ | Ideas.Necias (2073), _Siesta (—), Stevenash_ (2429), hK / Siesta (2471), hK / RanDoM (2299) |
-| hK Imfury_ | _Imfury_ (2237), The_Fury (2302) |
+| hK Keno_ | Ideas.Necias (2073), _Siesta (—), Stevenash_ (2429), hK / Siesta (2471), hK / RanDoM (2268) |
+| hK Imfury_ | _Imfury_ (2237), The_Fury (2373) |
 | VENÓN MrOsoVC8 | Combi / Noob (1987), Discipulo de eL / Bicho (2134), FlagPlayer (705), Danyselacome (2140), FanDelPerrubis (1947), babababa (2056) |
 | VENÓN SiNisTeR | VENÓN / SiNisTeR (2327), SiNisTeR (2114), Taquería El Primo (2041), OrangeKato (—), DSLG / Acuna (1516, 2 links away), Pichulita Feli (—, 3 links away), DSLG / NotAcuna (1649, 3 links away), NotAcuna_ (1529, 3 links away) |
 | hK Puerco Black | THE_BLACK_PIG (—), PuercoBlackTG (—), BlukuUktan (—), blukuuktan (—), lechon_negro (—), BlackAbE (—), puerco_white (—), Rook4Ever (1968), mamadejuannn (1793), RandomPlayer (1639), SecretFace (2150), osirismichelle95 (2008) |
 | hK Eren | Volg (2291), Rhaegar (1879), hK / Andobienmachinsobrelaidea (1886), Mexican Pyscho (1777), twitch.tv/sunshine_aoe (1843), Tryw (—), LE / Dimoking (1661, 2 links away), larryRy cañonga! (—, 2 links away) |
 | iamkaito | nW / iamkaito (2085) |
-| hK ChossMx | FierroFlash (2114) |
+| hK ChossMx | FierroFlash (2146) |
 | VN DarK_KnighT_ | 1106779817143 (1979) |
 | Caguamas | Fontana Bella (2076), Jose Ali (1660), nW / Cawi (2232) |
 | hK Romell13 | ang (1788) |
@@ -47,7 +47,7 @@ Used to show players LIVE when they play on any of their accounts. Ratings are R
 | themariach1 | SmartIgZ (2149), ZacK (1945), NobuNaga (1985), Hyohon (—) |
 | VENÓN BetoxAOE | [GDL]BetoxAOE (1938), El calienta Lomitos (1451), twitch.tv/BetoxAOE (1574), James P. Solivan (1334), xXx_69_xXx (1796), [GDL]CemenTox (1844), [GDL]FRIDA (—) |
 | VN Lice_Slide | — |
-| VN Narizberto | Chepe (—), [GDL] Zuko (—), EXILE / Onichan Nya (1738) |
+| VN Dry | Chepe (—), [GDL] Zuko (—), EXILE / Onichan Nya (1738) |
 | VL Lemoine | VL Formolin (—) |
 | DoN.Vergas | bZ.Slayer (1855) |
 | MZTK GO1_mx | — |
@@ -89,7 +89,7 @@ Used to show players LIVE when they play on any of their accounts. Ratings are R
 | NuMa Toth | NuMa / Toth (2001), SH / Toth (1801, 2 links away), Magio / Paradox (2037, 2 links away), CD JJ / Heda (1773, 2 links away) |
 | CLB PEGASO | Ares (1783) |
 | AiM Alexander the conqueror | alexnub (1405) |
-| obi11 | orquideas (1909), Tintin (1834) |
+| obi11 | orquideas (1909), Tintin (1846) |
 | Jacko | — |
 | The .Gocho | — |
 
@@ -99,8 +99,8 @@ Used to show players LIVE when they play on any of their accounts. Ratings are R
 |---|---|
 | VIT Hearttt | X (—) |
 | Dimo | Dimo (2447), Anubis (2152), _DonCagón (2370) |
-| LE WilliamS | LE / WilliamS (2339) |
-| CTM Lelouch | CTM / Lelouch ELO bajito (2012), CTM / Lelouch Jogo Bonito (2235), DK_Chris Evans (1769), CTM / Ligth (2156), CTM / Lelouch jugando borracho (2222), Combi / Controla tus palabras (1740) |
+| LE WilliamS | LE / WilliamS (2366) |
+| CTM Lelouch | CTM / Lelouch ELO bajito (2001), CTM / Lelouch Jogo Bonito (2235), DK_Chris Evans (1769), CTM / Ligth (2156), CTM / Lelouch jugando borracho (2222), Combi / Controla tus palabras (1740) |
 | CL Rey Enigmaaa | [CL] The Fabulous Merasmus (1731), Lord Of War con Tuberculosis (—, 2 links away), [CL] Tatán (1471, 2 links away), CL / PainFelipeJupyCastigador (2011, 2 links away) |
 | VL Lil Franco | Ferxxo (1998) |
 | LvSP Réyiman | Akira Toreyama (—) |
