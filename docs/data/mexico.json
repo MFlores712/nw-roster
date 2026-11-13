@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-13T06:00:13Z",
+  "updated_at": "2026-11-13T06:05:11Z",
   "baseline": {
     "taken_at": "2026-11-12T14:00:15Z",
     "ranks": {
@@ -222,7 +222,12 @@
       "cur_tg": 1849,
       "max_tg": 1959,
       "last_1v1": "2026-11-13",
-      "last_tg": "2026-11-12"
+      "last_tg": "2026-11-12",
+      "live": {
+        "match": 520766329,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 9666666,
@@ -248,22 +253,6 @@
       "last_tg": "2026-11-13"
     },
     {
-      "profile_id": 757886,
-      "tag": "DarK_KnighT_",
-      "clan": "VN",
-      "cur_1v1": 2231,
-      "max_1v1": 2301,
-      "cur_tg": 1884,
-      "max_tg": 2050,
-      "last_1v1": "2026-11-13",
-      "last_tg": "2026-11-12",
-      "live": {
-        "match": 520762415,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 914665,
       "tag": "Caguamas",
       "clan": "nW",
@@ -284,6 +273,28 @@
       "max_tg": 1838,
       "last_1v1": "2026-11-12",
       "last_tg": "2026-11-05"
+    },
+    {
+      "profile_id": 757886,
+      "tag": "DarK_KnighT_",
+      "clan": "VN",
+      "cur_1v1": 2212,
+      "max_1v1": 2301,
+      "cur_tg": 1884,
+      "max_tg": 2050,
+      "last_1v1": "2026-11-13",
+      "last_tg": "2026-11-12"
+    },
+    {
+      "profile_id": 3816609,
+      "tag": "iamkaito",
+      "clan": "nW",
+      "cur_1v1": 2123,
+      "max_1v1": 2304,
+      "cur_tg": 1853,
+      "max_tg": 1907,
+      "last_1v1": "2026-11-13",
+      "last_tg": "2026-11-11"
     },
     {
       "profile_id": 13138746,
@@ -307,22 +318,6 @@
       "last_1v1": "2026-11-13",
       "live": {
         "match": 520765345,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
-      "profile_id": 3816609,
-      "tag": "iamkaito",
-      "clan": "nW",
-      "cur_1v1": 2111,
-      "max_1v1": 2304,
-      "cur_tg": 1853,
-      "max_tg": 1907,
-      "last_1v1": "2026-11-12",
-      "last_tg": "2026-11-11",
-      "live": {
-        "match": 520764912,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -410,22 +405,6 @@
       }
     },
     {
-      "profile_id": 358501,
-      "tag": "El Claut_One",
-      "clan": "VENÓN",
-      "cur_1v1": 2013,
-      "max_1v1": 2115,
-      "cur_tg": 1732,
-      "max_tg": 1820,
-      "last_tg": "2026-11-13",
-      "last_1v1": "2026-11-13",
-      "live": {
-        "match": 520764912,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 233625,
       "tag": "MooN",
       "cur_1v1": 2002,
@@ -434,6 +413,17 @@
       "max_tg": 1885,
       "last_1v1": "2026-08-15",
       "last_tg": "2026-11-12"
+    },
+    {
+      "profile_id": 358501,
+      "tag": "El Claut_One",
+      "clan": "VENÓN",
+      "cur_1v1": 2001,
+      "max_1v1": 2115,
+      "cur_tg": 1732,
+      "max_tg": 1820,
+      "last_tg": "2026-11-13",
+      "last_1v1": "2026-11-13"
     },
     {
       "profile_id": 2876835,
