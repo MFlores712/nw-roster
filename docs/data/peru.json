@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-14T15:40:09Z",
+  "updated_at": "2026-11-14T15:45:14Z",
   "baseline": {
     "taken_at": "2026-11-14T14:00:13Z",
     "ranks": {
@@ -137,7 +137,13 @@
       "cur_tg": 1823,
       "max_tg": 1843,
       "last_tg": "2026-11-13",
-      "last_1v1": "2026-11-13"
+      "last_1v1": "2026-11-13",
+      "live": {
+        "match": 521101402,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "CTM | Lelouch Jogo Bonito"
+      }
     },
     {
       "profile_id": 13518993,
@@ -158,7 +164,12 @@
       "cur_tg": 1562,
       "max_tg": 1719,
       "last_1v1": "2026-11-13",
-      "last_tg": "2026-11-13"
+      "last_tg": "2026-11-13",
+      "live": {
+        "match": 521102599,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 1359694,
@@ -202,7 +213,12 @@
       "cur_tg": 1479,
       "max_tg": 1608,
       "last_1v1": "2026-09-19",
-      "last_tg": "2026-11-12"
+      "last_tg": "2026-11-12",
+      "live": {
+        "match": 521101402,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 3034651,
@@ -222,7 +238,12 @@
       "cur_tg": 1528,
       "max_tg": 1719,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-14"
+      "last_tg": "2026-11-14",
+      "live": {
+        "match": 521102513,
+        "game": "Team Empire Wars",
+        "format": "2v2"
+      }
     }
   ],
   "show_top": 15
