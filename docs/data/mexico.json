@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-14T20:50:09Z",
+  "updated_at": "2026-11-14T20:55:12Z",
   "baseline": {
     "taken_at": "2026-11-14T14:00:13Z",
     "ranks": {
@@ -139,7 +139,12 @@
       "cur_tg": 2006,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-11-14"
+      "last_tg": "2026-11-14",
+      "live": {
+        "match": 521179960,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 2598146,
@@ -231,6 +236,17 @@
       "last_seen": "2025-06-11"
     },
     {
+      "profile_id": 1485562,
+      "tag": "MrOsoVC8",
+      "clan": "VENÓN",
+      "cur_1v1": 2276,
+      "max_1v1": 2394,
+      "cur_tg": 1817,
+      "max_tg": 2099,
+      "last_1v1": "2026-11-14",
+      "last_tg": "2026-11-02"
+    },
+    {
       "profile_id": 4412109,
       "tag": "HGB",
       "clan": "hK",
@@ -239,22 +255,11 @@
       "cur_tg": 2007,
       "max_tg": 2083,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-14"
-    },
-    {
-      "profile_id": 1485562,
-      "tag": "MrOsoVC8",
-      "clan": "VENÓN",
-      "cur_1v1": 2260,
-      "max_1v1": 2394,
-      "cur_tg": 1817,
-      "max_tg": 2099,
-      "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-02",
+      "last_tg": "2026-11-14",
       "live": {
-        "match": 521171046,
-        "game": "1v1 Random Map",
-        "format": "1v1"
+        "match": 521179960,
+        "game": "Team Random Map",
+        "format": "4v4"
       }
     },
     {
@@ -290,23 +295,23 @@
       "last_1v1": "2026-11-14",
       "last_tg": "2026-11-14",
       "live": {
-        "match": 521170787,
-        "game": "Team Random Map",
-        "format": "3v3"
+        "match": 521180469,
+        "game": "1v1 Random Map",
+        "format": "1v1"
       }
     },
     {
       "profile_id": 13138746,
       "tag": "FraKTal",
       "clan": "hK",
-      "cur_1v1": 2118,
+      "cur_1v1": 2130,
       "max_1v1": 2233,
       "cur_tg": 1949,
       "max_tg": 2010,
       "last_1v1": "2026-11-14",
       "last_tg": "2026-11-14",
       "live": {
-        "match": 521178159,
+        "match": 521180469,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -574,12 +579,7 @@
       "cur_tg": 1839,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-11-14",
-      "live": {
-        "match": 521170787,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-11-14"
     },
     {
       "profile_id": 12472496,
