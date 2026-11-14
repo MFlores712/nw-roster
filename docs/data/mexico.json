@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-14T20:10:08Z",
+  "updated_at": "2026-11-14T20:15:09Z",
   "baseline": {
     "taken_at": "2026-11-14T14:00:13Z",
     "ranks": {
@@ -139,12 +139,7 @@
       "cur_tg": 2033,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-11-14",
-      "live": {
-        "match": 521162309,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-11-14"
     },
     {
       "profile_id": 2598146,
@@ -244,28 +239,18 @@
       "cur_tg": 2034,
       "max_tg": 2083,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-14",
-      "live": {
-        "match": 521162309,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-11-14"
     },
     {
       "profile_id": 1485562,
       "tag": "MrOsoVC8",
       "clan": "VENÓN",
-      "cur_1v1": 2254,
+      "cur_1v1": 2260,
       "max_1v1": 2394,
       "cur_tg": 1817,
       "max_tg": 2099,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-02",
-      "live": {
-        "match": 521164536,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-02"
     },
     {
       "profile_id": 914665,
@@ -295,12 +280,12 @@
       "clan": "VN",
       "cur_1v1": 2175,
       "max_1v1": 2301,
-      "cur_tg": 1948,
+      "cur_tg": 1961,
       "max_tg": 2050,
       "last_1v1": "2026-11-14",
       "last_tg": "2026-11-14",
       "live": {
-        "match": 521166455,
+        "match": 521170787,
         "game": "Team Random Map",
         "format": "3v3"
       }
@@ -309,17 +294,12 @@
       "profile_id": 13138746,
       "tag": "FraKTal",
       "clan": "hK",
-      "cur_1v1": 2129,
+      "cur_1v1": 2118,
       "max_1v1": 2233,
       "cur_tg": 1949,
       "max_tg": 2010,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-14",
-      "live": {
-        "match": 521166637,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-14"
     },
     {
       "profile_id": 917863,
@@ -576,12 +556,12 @@
       "clan": "VN",
       "cur_1v1": 1909,
       "max_1v1": 1929,
-      "cur_tg": 1805,
+      "cur_tg": 1823,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
       "last_tg": "2026-11-14",
       "live": {
-        "match": 521166455,
+        "match": 521170787,
         "game": "Team Random Map",
         "format": "3v3"
       }
