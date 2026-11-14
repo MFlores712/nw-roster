@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-14T04:20:10Z",
+  "updated_at": "2026-11-14T04:25:16Z",
   "baseline": {
     "taken_at": "2026-11-13T14:00:16Z",
     "ranks": {
@@ -71,6 +71,17 @@
       "last_1v1": "2026-11-13"
     },
     {
+      "profile_id": 2920057,
+      "tag": "Lobo",
+      "clan": "Ux",
+      "cur_1v1": 2648,
+      "max_1v1": 2685,
+      "cur_tg": 2168,
+      "max_tg": 2173,
+      "last_1v1": "2026-11-14",
+      "last_tg": "2026-11-12"
+    },
+    {
       "profile_id": 13099159,
       "tag": "Uzzi",
       "clan": "Ux",
@@ -80,22 +91,6 @@
       "max_tg": 1999,
       "last_1v1": "2026-11-11",
       "last_tg": "2026-11-12"
-    },
-    {
-      "profile_id": 2920057,
-      "tag": "Lobo",
-      "clan": "Ux",
-      "cur_1v1": 2647,
-      "max_1v1": 2685,
-      "cur_tg": 2168,
-      "max_tg": 2173,
-      "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-12",
-      "live": {
-        "match": 520992133,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 5984120,
@@ -144,13 +139,7 @@
       "cur_tg": 2000,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-11-13",
-      "live": {
-        "match": 520993434,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "The_Fury"
-      }
+      "last_tg": "2026-11-13"
     },
     {
       "profile_id": 2598146,
@@ -299,7 +288,12 @@
       "cur_tg": 1853,
       "max_tg": 1907,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-11"
+      "last_tg": "2026-11-11",
+      "live": {
+        "match": 520996237,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 13138746,
@@ -350,15 +344,10 @@
       "clan": "Ux",
       "cur_1v1": 2075,
       "max_1v1": 2124,
-      "cur_tg": 1659,
+      "cur_tg": 1670,
       "max_tg": 1820,
       "last_1v1": "2026-11-03",
-      "last_tg": "2026-11-06",
-      "live": {
-        "match": 520992848,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-14"
     },
     {
       "profile_id": 400111,
@@ -366,15 +355,10 @@
       "clan": "VL",
       "cur_1v1": 2055,
       "max_1v1": 2089,
-      "cur_tg": 1893,
+      "cur_tg": 1898,
       "max_tg": 1919,
       "last_1v1": "2026-06-27",
-      "last_tg": "2026-11-14",
-      "live": {
-        "match": 520994376,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-14"
     },
     {
       "profile_id": 1261126,
@@ -418,17 +402,12 @@
       "profile_id": 2934597,
       "tag": "Sgt.Pepper",
       "clan": "nW",
-      "cur_1v1": 2034,
+      "cur_1v1": 2033,
       "max_1v1": 2210,
       "cur_tg": 1731,
       "max_tg": 1747,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-10-27",
-      "live": {
-        "match": 520992133,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-27"
     },
     {
       "profile_id": 358501,
@@ -616,15 +595,10 @@
       "clan": "Ux",
       "cur_1v1": 1838,
       "max_1v1": 1997,
-      "cur_tg": 1718,
-      "max_tg": 1718,
+      "cur_tg": 1730,
+      "max_tg": 1730,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-14",
-      "live": {
-        "match": 520992603,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-11-14"
     },
     {
       "profile_id": 233625,
