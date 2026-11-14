@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-14T19:10:18Z",
+  "updated_at": "2026-11-14T19:15:10Z",
   "baseline": {
     "taken_at": "2026-11-14T14:00:13Z",
     "ranks": {
@@ -117,12 +117,7 @@
       "cur_tg": 1680,
       "max_tg": 1843,
       "last_1v1": "2026-11-04",
-      "last_tg": "2026-11-13",
-      "live": {
-        "match": 521151227,
-        "game": "Team Death Match",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-13"
     },
     {
       "profile_id": 6090060,
@@ -139,15 +134,10 @@
       "tag": "Miguel T",
       "cur_1v1": 2022,
       "max_1v1": 2034,
-      "cur_tg": 1648,
+      "cur_tg": 1666,
       "max_tg": 1703,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-10-25",
-      "live": {
-        "match": 521149515,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-14"
     },
     {
       "profile_id": 2366434,
