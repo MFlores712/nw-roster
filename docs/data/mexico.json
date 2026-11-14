@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-14T01:10:10Z",
+  "updated_at": "2026-11-14T01:15:16Z",
   "baseline": {
     "taken_at": "2026-11-13T14:00:16Z",
     "ranks": {
@@ -172,7 +172,12 @@
       "cur_tg": 1828,
       "max_tg": 1959,
       "last_1v1": "2026-11-13",
-      "last_tg": "2026-11-13"
+      "last_tg": "2026-11-13",
+      "live": {
+        "match": 520959754,
+        "game": "Unranked",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 312774,
@@ -278,17 +283,12 @@
       "profile_id": 917863,
       "tag": "Romell13",
       "clan": "hK",
-      "cur_1v1": 2178,
+      "cur_1v1": 2160,
       "max_1v1": 2233,
       "cur_tg": 1815,
       "max_tg": 1838,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-05",
-      "live": {
-        "match": 520954919,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-05"
     },
     {
       "profile_id": 3816609,
@@ -575,7 +575,12 @@
       "cur_tg": 1631,
       "max_tg": 1805,
       "last_tg": "2026-11-13",
-      "last_1v1": "2026-10-16"
+      "last_1v1": "2026-10-16",
+      "live": {
+        "match": 520959754,
+        "game": "Unranked",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 13241217,
@@ -586,19 +591,24 @@
       "cur_tg": 1685,
       "max_tg": 1688,
       "last_1v1": "2026-11-10",
-      "last_tg": "2026-11-10"
+      "last_tg": "2026-11-10",
+      "live": {
+        "match": 520959985,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 3254820,
       "tag": "__Chino",
-      "cur_1v1": 1848,
+      "cur_1v1": 1832,
       "max_1v1": 2003,
       "cur_tg": 1475,
       "max_tg": 1475,
       "last_1v1": "2026-11-14",
       "last_tg": "2026-11-11",
       "live": {
-        "match": 520956431,
+        "match": 520960337,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
