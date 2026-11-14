@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-14T23:25:09Z",
+  "updated_at": "2026-11-14T23:35:15Z",
   "baseline": {
     "taken_at": "2026-11-14T14:00:13Z",
     "ranks": {
@@ -112,13 +112,7 @@
       "cur_tg": 2128,
       "max_tg": 2151,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-13",
-      "live": {
-        "match": 521213054,
-        "game": "Team Random Map",
-        "format": "3v3",
-        "account": "VENÓN | Mauricio"
-      }
+      "last_tg": "2026-11-13"
     },
     {
       "profile_id": 401359,
@@ -506,13 +500,7 @@
       "cur_tg": 1711,
       "max_tg": 1824,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-11-14",
-      "live": {
-        "match": 521214627,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "jax_teller"
-      }
+      "last_tg": "2026-11-14"
     },
     {
       "profile_id": 2291749,
@@ -636,12 +624,12 @@
       "tag": "__Chino",
       "cur_1v1": 1788,
       "max_1v1": 2003,
-      "cur_tg": 1490,
+      "cur_tg": 1475,
       "max_tg": 1490,
       "last_1v1": "2026-11-14",
       "last_tg": "2026-11-14",
       "live": {
-        "match": 521211019,
+        "match": 521216536,
         "game": "Team Random Map",
         "format": "2v2"
       }
