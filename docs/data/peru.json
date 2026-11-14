@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-14T00:40:10Z",
+  "updated_at": "2026-11-14T00:45:18Z",
   "baseline": {
     "taken_at": "2026-11-13T14:00:16Z",
     "ranks": {
@@ -112,12 +112,7 @@
       "cur_tg": 1680,
       "max_tg": 1843,
       "last_1v1": "2026-11-04",
-      "last_tg": "2026-11-13",
-      "live": {
-        "match": 520953048,
-        "game": "Team Death Match",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-13"
     },
     {
       "profile_id": 6090060,
@@ -191,14 +186,14 @@
       "profile_id": 1359694,
       "tag": "AtilA",
       "clan": "nW",
-      "cur_1v1": 1931,
+      "cur_1v1": 1927,
       "max_1v1": 2123,
       "cur_tg": 1622,
       "max_tg": 1670,
       "last_tg": "2026-11-01",
-      "last_1v1": "2026-11-13",
+      "last_1v1": "2026-11-14",
       "live": {
-        "match": 520952468,
+        "match": 520955275,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -217,17 +212,12 @@
     {
       "profile_id": 3034651,
       "tag": "KinG of QUILLA",
-      "cur_1v1": 1882,
+      "cur_1v1": 1863,
       "max_1v1": 2035,
       "cur_tg": 1526,
       "max_tg": 1657,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-10-26",
-      "live": {
-        "match": 520950173,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-26"
     },
     {
       "profile_id": 4234652,
