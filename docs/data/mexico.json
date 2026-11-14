@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-14T19:35:09Z",
+  "updated_at": "2026-11-14T19:40:09Z",
   "baseline": {
     "taken_at": "2026-11-14T14:00:13Z",
     "ranks": {
@@ -296,22 +296,6 @@
       }
     },
     {
-      "profile_id": 13138746,
-      "tag": "FraKTal",
-      "clan": "hK",
-      "cur_1v1": 2122,
-      "max_1v1": 2233,
-      "cur_tg": 1949,
-      "max_tg": 2010,
-      "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-14",
-      "live": {
-        "match": 521159615,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 917863,
       "tag": "Romell13",
       "clan": "hK",
@@ -321,6 +305,17 @@
       "max_tg": 1838,
       "last_1v1": "2026-11-14",
       "last_tg": "2026-11-05"
+    },
+    {
+      "profile_id": 13138746,
+      "tag": "FraKTal",
+      "clan": "hK",
+      "cur_1v1": 2105,
+      "max_1v1": 2233,
+      "cur_tg": 1949,
+      "max_tg": 2010,
+      "last_1v1": "2026-11-14",
+      "last_tg": "2026-11-14"
     },
     {
       "profile_id": 1947348,
