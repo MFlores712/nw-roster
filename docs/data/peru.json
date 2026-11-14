@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-14T18:35:08Z",
+  "updated_at": "2026-11-14T18:40:08Z",
   "baseline": {
     "taken_at": "2026-11-14T14:00:13Z",
     "ranks": {
@@ -78,7 +78,7 @@
       "clan": "VL",
       "cur_1v1": 2118,
       "max_1v1": 2242,
-      "cur_tg": 1851,
+      "cur_tg": 1842,
       "max_tg": 1932,
       "last_tg": "2026-11-14",
       "last_1v1": "2026-10-27"
@@ -114,7 +114,7 @@
       "last_1v1": "2026-11-04",
       "last_tg": "2026-11-13",
       "live": {
-        "match": 521139940,
+        "match": 521146291,
         "game": "Team Death Match",
         "format": "4v4"
       }
