@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-14T04:25:16Z",
+  "updated_at": "2026-11-14T04:30:12Z",
   "baseline": {
     "taken_at": "2026-11-13T14:00:16Z",
     "ranks": {
@@ -90,23 +90,23 @@
       "cur_tg": 1879,
       "max_tg": 1999,
       "last_1v1": "2026-11-11",
-      "last_tg": "2026-11-12"
+      "last_tg": "2026-11-12",
+      "live": {
+        "match": 520997476,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 5984120,
       "tag": "C",
       "clan": "Ux",
-      "cur_1v1": 2610,
+      "cur_1v1": 2620,
       "max_1v1": 2790,
       "cur_tg": 1658,
       "max_tg": 1885,
-      "last_1v1": "2026-11-13",
-      "last_tg": "2026-11-08",
-      "live": {
-        "match": 520995281,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-14",
+      "last_tg": "2026-11-08"
     },
     {
       "profile_id": 9449579,
@@ -139,7 +139,13 @@
       "cur_tg": 2000,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-11-13"
+      "last_tg": "2026-11-13",
+      "live": {
+        "match": 520997849,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "The_Fury"
+      }
     },
     {
       "profile_id": 2598146,
@@ -183,7 +189,13 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 520997074,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "hK | RanDoM"
+      }
     },
     {
       "profile_id": 12723994,
@@ -216,7 +228,12 @@
       "cur_tg": 1893,
       "max_tg": 1974,
       "last_1v1": "2026-11-13",
-      "last_tg": "2026-11-14"
+      "last_tg": "2026-11-14",
+      "live": {
+        "match": 520997074,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 9666666,
@@ -347,7 +364,12 @@
       "cur_tg": 1670,
       "max_tg": 1820,
       "last_1v1": "2026-11-03",
-      "last_tg": "2026-11-14"
+      "last_tg": "2026-11-14",
+      "live": {
+        "match": 520997476,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 400111,
@@ -358,7 +380,12 @@
       "cur_tg": 1898,
       "max_tg": 1919,
       "last_1v1": "2026-06-27",
-      "last_tg": "2026-11-14"
+      "last_tg": "2026-11-14",
+      "live": {
+        "match": 520997687,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 1261126,
@@ -380,13 +407,7 @@
       "cur_tg": 1833,
       "max_tg": 1962,
       "last_1v1": "2026-11-13",
-      "last_tg": "2026-11-12",
-      "live": {
-        "match": 520990749,
-        "game": "Team Random Map",
-        "format": "2v2",
-        "account": "Zoschenko17"
-      }
+      "last_tg": "2026-11-12"
     },
     {
       "profile_id": 1708286,
@@ -462,7 +483,12 @@
       "cur_tg": 1774,
       "max_tg": 1813,
       "last_tg": "2026-11-14",
-      "last_1v1": "2026-11-14"
+      "last_1v1": "2026-11-14",
+      "live": {
+        "match": 520997074,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 1249720,
