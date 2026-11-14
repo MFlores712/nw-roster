@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-14T18:25:10Z",
+  "updated_at": "2026-11-14T18:35:08Z",
   "baseline": {
     "taken_at": "2026-11-14T14:00:13Z",
     "ranks": {
@@ -78,15 +78,10 @@
       "clan": "VL",
       "cur_1v1": 2118,
       "max_1v1": 2242,
-      "cur_tg": 1850,
+      "cur_tg": 1851,
       "max_tg": 1932,
-      "last_tg": "2026-11-07",
-      "last_1v1": "2026-10-27",
-      "live": {
-        "match": 521140068,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-14",
+      "last_1v1": "2026-10-27"
     },
     {
       "profile_id": 3244108,
@@ -135,6 +130,16 @@
       "last_1v1": "2026-09-24"
     },
     {
+      "profile_id": 13518993,
+      "tag": "Miguel T",
+      "cur_1v1": 2022,
+      "max_1v1": 2034,
+      "cur_tg": 1648,
+      "max_tg": 1703,
+      "last_1v1": "2026-11-14",
+      "last_tg": "2026-10-25"
+    },
+    {
       "profile_id": 2366434,
       "via": {
         "id": 3265324,
@@ -153,21 +158,6 @@
         "game": "1v1 Random Map",
         "format": "1v1",
         "account": "CTM | Lelouch ELO bajito"
-      }
-    },
-    {
-      "profile_id": 13518993,
-      "tag": "Miguel T",
-      "cur_1v1": 2004,
-      "max_1v1": 2034,
-      "cur_tg": 1648,
-      "max_tg": 1703,
-      "last_1v1": "2026-11-12",
-      "last_tg": "2026-10-25",
-      "live": {
-        "match": 521140380,
-        "game": "1v1 Random Map",
-        "format": "1v1"
       }
     },
     {
