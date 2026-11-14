@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-14T03:20:09Z",
+  "updated_at": "2026-11-14T03:25:08Z",
   "baseline": {
     "taken_at": "2026-11-13T14:00:16Z",
     "ranks": {
@@ -85,17 +85,12 @@
       "profile_id": 2920057,
       "tag": "Lobo",
       "clan": "Ux",
-      "cur_1v1": 2642,
+      "cur_1v1": 2643,
       "max_1v1": 2685,
       "cur_tg": 2168,
       "max_tg": 2173,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-12",
-      "live": {
-        "match": 520978739,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-12"
     },
     {
       "profile_id": 5984120,
@@ -390,7 +385,13 @@
       "cur_tg": 1833,
       "max_tg": 1962,
       "last_1v1": "2026-11-13",
-      "last_tg": "2026-11-12"
+      "last_tg": "2026-11-12",
+      "live": {
+        "match": 520985115,
+        "game": "Team Random Map",
+        "format": "2v2",
+        "account": "Zoschenko17"
+      }
     },
     {
       "profile_id": 1708286,
@@ -449,7 +450,12 @@
       "cur_tg": 1700,
       "max_tg": 1860,
       "last_1v1": "2026-11-13",
-      "last_tg": "2026-11-09"
+      "last_tg": "2026-11-09",
+      "live": {
+        "match": 520985474,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 6501299,
@@ -603,15 +609,10 @@
       "clan": "Ux",
       "cur_1v1": 1838,
       "max_1v1": 1997,
-      "cur_tg": 1697,
-      "max_tg": 1697,
+      "cur_tg": 1712,
+      "max_tg": 1712,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-14",
-      "live": {
-        "match": 520983442,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-11-14"
     },
     {
       "profile_id": 233625,
