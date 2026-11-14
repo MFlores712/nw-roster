@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-14T02:25:10Z",
+  "updated_at": "2026-11-14T02:30:13Z",
   "baseline": {
     "taken_at": "2026-11-13T14:00:16Z",
     "ranks": {
@@ -85,17 +85,12 @@
       "profile_id": 2920057,
       "tag": "Lobo",
       "clan": "Ux",
-      "cur_1v1": 2645,
+      "cur_1v1": 2646,
       "max_1v1": 2685,
       "cur_tg": 2168,
       "max_tg": 2173,
-      "last_1v1": "2026-11-13",
-      "last_tg": "2026-11-12",
-      "live": {
-        "match": 520970623,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-14",
+      "last_tg": "2026-11-12"
     },
     {
       "profile_id": 5984120,
@@ -128,7 +123,12 @@
       "cur_tg": 2113,
       "max_tg": 2190,
       "last_1v1": "2026-11-12",
-      "last_tg": "2026-11-14"
+      "last_tg": "2026-11-14",
+      "live": {
+        "match": 520974213,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 4221810,
@@ -297,22 +297,6 @@
       "last_tg": "2026-11-11"
     },
     {
-      "profile_id": 13138746,
-      "tag": "FraKTal",
-      "clan": "hK",
-      "cur_1v1": 2119,
-      "max_1v1": 2233,
-      "cur_tg": 2010,
-      "max_tg": 2010,
-      "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-11",
-      "live": {
-        "match": 520966444,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 5803221,
       "tag": "Mahmoud Ahmadinejad",
       "cur_1v1": 2108,
@@ -321,6 +305,22 @@
       "max_tg": 1654,
       "last_tg": "2026-11-11",
       "last_1v1": "2026-11-13"
+    },
+    {
+      "profile_id": 13138746,
+      "tag": "FraKTal",
+      "clan": "hK",
+      "cur_1v1": 2099,
+      "max_1v1": 2233,
+      "cur_tg": 2010,
+      "max_tg": 2010,
+      "last_1v1": "2026-11-14",
+      "last_tg": "2026-11-11",
+      "live": {
+        "match": 520966444,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 1947348,
@@ -443,22 +443,6 @@
       "last_1v1": "2026-10-24"
     },
     {
-      "profile_id": 278380,
-      "tag": "Lemoine",
-      "clan": "VL",
-      "cur_1v1": 1973,
-      "max_1v1": 1980,
-      "cur_tg": 1725,
-      "max_tg": 1865,
-      "last_tg": "2026-11-12",
-      "last_1v1": "2026-11-14",
-      "live": {
-        "match": 520970245,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 1249720,
       "tag": "Lice_Slide",
       "clan": "VN",
@@ -516,6 +500,17 @@
       "max_tg": 1688,
       "last_1v1": "2026-11-13",
       "last_tg": "2026-10-28"
+    },
+    {
+      "profile_id": 278380,
+      "tag": "Lemoine",
+      "clan": "VL",
+      "cur_1v1": 1956,
+      "max_1v1": 1980,
+      "cur_tg": 1725,
+      "max_tg": 1865,
+      "last_tg": "2026-11-12",
+      "last_1v1": "2026-11-14"
     },
     {
       "profile_id": 4764520,
@@ -599,15 +594,10 @@
       "clan": "Ux",
       "cur_1v1": 1838,
       "max_1v1": 1997,
-      "cur_tg": 1695,
+      "cur_tg": 1678,
       "max_tg": 1695,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-14",
-      "live": {
-        "match": 520969562,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-14"
     },
     {
       "profile_id": 233625,
