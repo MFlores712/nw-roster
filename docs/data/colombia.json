@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-14T18:55:09Z",
+  "updated_at": "2026-11-14T19:25:14Z",
   "baseline": {
     "taken_at": "2026-11-14T14:00:13Z",
     "ranks": {
@@ -42,14 +42,14 @@
       "clan": "nW",
       "cur_1v1": 2411,
       "max_1v1": 2495,
-      "cur_tg": 1869,
+      "cur_tg": 1860,
       "max_tg": 1945,
       "last_1v1": "2026-11-13",
-      "last_tg": "2026-11-13",
+      "last_tg": "2026-11-14",
       "live": {
-        "match": 521150216,
+        "match": 521157798,
         "game": "Team Random Map",
-        "format": "4v4"
+        "format": "3v3"
       }
     },
     {
@@ -69,14 +69,14 @@
       "clan": "VL",
       "cur_1v1": 2161,
       "max_1v1": 2190,
-      "cur_tg": 1859,
+      "cur_tg": 1851,
       "max_tg": 1947,
       "last_1v1": "2026-10-28",
       "last_tg": "2026-11-14",
       "live": {
-        "match": 521150216,
+        "match": 521157798,
         "game": "Team Random Map",
-        "format": "4v4"
+        "format": "3v3"
       }
     },
     {
@@ -200,17 +200,12 @@
       "profile_id": 5981761,
       "tag": "Alexander the conqueror",
       "clan": "AiM",
-      "cur_1v1": 1727,
+      "cur_1v1": 1718,
       "max_1v1": 1903,
       "cur_tg": 1387,
       "max_tg": 1630,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-14",
-      "live": {
-        "match": 521146149,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-14"
     },
     {
       "profile_id": 2134856,

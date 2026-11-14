@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-14T19:20:16Z",
+  "updated_at": "2026-11-14T19:25:14Z",
   "baseline": {
     "taken_at": "2026-11-14T14:00:13Z",
     "ranks": {
@@ -177,13 +177,7 @@
       "cur_tg": 1828,
       "max_tg": 1959,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-13",
-      "live": {
-        "match": 521153899,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "Warlock_Ndk"
-      }
+      "last_tg": "2026-11-13"
     },
     {
       "profile_id": 312774,
@@ -304,23 +298,23 @@
       "cur_tg": 1969,
       "max_tg": 2050,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-14"
+      "last_tg": "2026-11-14",
+      "live": {
+        "match": 521157798,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 13138746,
       "tag": "FraKTal",
       "clan": "hK",
-      "cur_1v1": 2130,
+      "cur_1v1": 2122,
       "max_1v1": 2233,
       "cur_tg": 1949,
       "max_tg": 2010,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-14",
-      "live": {
-        "match": 521151019,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-14"
     },
     {
       "profile_id": 917863,
@@ -580,7 +574,12 @@
       "cur_tg": 1821,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-11-14"
+      "last_tg": "2026-11-14",
+      "live": {
+        "match": 521157798,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 12472496,
