@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-14T04:55:08Z",
+  "updated_at": "2026-11-14T05:00:13Z",
   "baseline": {
     "taken_at": "2026-11-13T14:00:16Z",
     "ranks": {
@@ -189,7 +189,13 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 521001997,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "hK | RanDoM"
+      }
     },
     {
       "profile_id": 12723994,
@@ -222,7 +228,12 @@
       "cur_tg": 1900,
       "max_tg": 1974,
       "last_1v1": "2026-11-13",
-      "last_tg": "2026-11-14"
+      "last_tg": "2026-11-14",
+      "live": {
+        "match": 521001997,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 9666666,
@@ -256,7 +267,12 @@
       "cur_tg": 2002,
       "max_tg": 2083,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-13"
+      "last_tg": "2026-11-13",
+      "live": {
+        "match": 521002333,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 914665,
@@ -284,17 +300,12 @@
       "profile_id": 3816609,
       "tag": "iamkaito",
       "clan": "nW",
-      "cur_1v1": 2127,
+      "cur_1v1": 2136,
       "max_1v1": 2304,
       "cur_tg": 1853,
       "max_tg": 1907,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-11",
-      "live": {
-        "match": 521000931,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-11"
     },
     {
       "profile_id": 13138746,
@@ -462,7 +473,12 @@
       "cur_tg": 1784,
       "max_tg": 1813,
       "last_tg": "2026-11-14",
-      "last_1v1": "2026-11-14"
+      "last_1v1": "2026-11-14",
+      "live": {
+        "match": 521001997,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 1249720,
@@ -559,7 +575,13 @@
       "cur_tg": 1820,
       "max_tg": 1821,
       "last_tg": "2026-10-16",
-      "last_1v1": "2026-09-18"
+      "last_1v1": "2026-09-18",
+      "live": {
+        "match": 520999492,
+        "game": "Unranked",
+        "format": "4v4",
+        "account": "[GDL]CemenTox"
+      }
     },
     {
       "profile_id": 324005,
@@ -589,15 +611,10 @@
       "clan": "Ux",
       "cur_1v1": 1838,
       "max_1v1": 1997,
-      "cur_tg": 1730,
-      "max_tg": 1730,
+      "cur_tg": 1737,
+      "max_tg": 1737,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-14",
-      "live": {
-        "match": 520997951,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-14"
     },
     {
       "profile_id": 233625,
