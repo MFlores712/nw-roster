@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-14T03:55:09Z",
+  "updated_at": "2026-11-14T04:00:14Z",
   "baseline": {
     "taken_at": "2026-11-13T14:00:16Z",
     "ranks": {
@@ -90,7 +90,12 @@
       "cur_tg": 2168,
       "max_tg": 2173,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-12"
+      "last_tg": "2026-11-12",
+      "live": {
+        "match": 520992133,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 5984120,
@@ -408,14 +413,14 @@
       "profile_id": 2934597,
       "tag": "Sgt.Pepper",
       "clan": "nW",
-      "cur_1v1": 2022,
+      "cur_1v1": 2034,
       "max_1v1": 2210,
       "cur_tg": 1731,
       "max_tg": 1747,
       "last_1v1": "2026-11-14",
       "last_tg": "2026-10-27",
       "live": {
-        "match": 520988910,
+        "match": 520992133,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -443,22 +448,6 @@
       "last_tg": "2026-10-31"
     },
     {
-      "profile_id": 13215279,
-      "tag": "GO1_mx",
-      "clan": "MZTK",
-      "cur_1v1": 1993,
-      "max_1v1": 2093,
-      "cur_tg": 1700,
-      "max_tg": 1860,
-      "last_1v1": "2026-11-13",
-      "last_tg": "2026-11-09",
-      "live": {
-        "match": 520985474,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 6501299,
       "tag": "ShutAzarquay",
       "clan": "nW",
@@ -468,6 +457,22 @@
       "max_tg": 1745,
       "last_tg": "2026-10-09",
       "last_1v1": "2026-10-24"
+    },
+    {
+      "profile_id": 13215279,
+      "tag": "GO1_mx",
+      "clan": "MZTK",
+      "cur_1v1": 1979,
+      "max_1v1": 2093,
+      "cur_tg": 1700,
+      "max_tg": 1860,
+      "last_1v1": "2026-11-14",
+      "last_tg": "2026-11-09",
+      "live": {
+        "match": 520985474,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 4764520,
@@ -585,7 +590,13 @@
       "cur_tg": 1820,
       "max_tg": 1821,
       "last_tg": "2026-10-16",
-      "last_1v1": "2026-09-18"
+      "last_1v1": "2026-09-18",
+      "live": {
+        "match": 520991455,
+        "game": "Unranked",
+        "format": "4v4",
+        "account": "[GDL]CemenTox"
+      }
     },
     {
       "profile_id": 324005,
