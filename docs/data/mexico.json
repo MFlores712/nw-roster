@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-14T19:05:09Z",
+  "updated_at": "2026-11-14T19:10:18Z",
   "baseline": {
     "taken_at": "2026-11-14T14:00:13Z",
     "ranks": {
@@ -172,7 +172,13 @@
       "cur_tg": 1828,
       "max_tg": 1959,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-13"
+      "last_tg": "2026-11-13",
+      "live": {
+        "match": 521153899,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "Warlock_Ndk"
+      }
     },
     {
       "profile_id": 312774,
@@ -231,6 +237,22 @@
       "last_seen": "2025-06-11"
     },
     {
+      "profile_id": 1485562,
+      "tag": "MrOsoVC8",
+      "clan": "VENÓN",
+      "cur_1v1": 2276,
+      "max_1v1": 2394,
+      "cur_tg": 1817,
+      "max_tg": 2099,
+      "last_1v1": "2026-11-14",
+      "last_tg": "2026-11-02",
+      "live": {
+        "match": 521149609,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 4412109,
       "tag": "HGB",
       "clan": "hK",
@@ -244,22 +266,6 @@
         "match": 521147494,
         "game": "Team Random Map",
         "format": "4v4"
-      }
-    },
-    {
-      "profile_id": 1485562,
-      "tag": "MrOsoVC8",
-      "clan": "VENÓN",
-      "cur_1v1": 2261,
-      "max_1v1": 2394,
-      "cur_tg": 1817,
-      "max_tg": 2099,
-      "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-02",
-      "live": {
-        "match": 521149609,
-        "game": "1v1 Random Map",
-        "format": "1v1"
       }
     },
     {
@@ -293,7 +299,12 @@
       "cur_tg": 1959,
       "max_tg": 2050,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-13"
+      "last_tg": "2026-11-13",
+      "live": {
+        "match": 521153706,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 13138746,
@@ -569,7 +580,12 @@
       "cur_tg": 1807,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-11-13"
+      "last_tg": "2026-11-13",
+      "live": {
+        "match": 521153706,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 12472496,

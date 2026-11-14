@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-14T19:00:11Z",
+  "updated_at": "2026-11-14T19:10:18Z",
   "baseline": {
     "taken_at": "2026-11-14T14:00:13Z",
     "ranks": {
@@ -157,18 +157,12 @@
       },
       "tag": "Lelouch",
       "clan": "CTM",
-      "cur_1v1": 1999,
+      "cur_1v1": 2009,
       "max_1v1": 2222,
       "cur_tg": 1823,
       "max_tg": 1843,
       "last_tg": "2026-11-13",
-      "last_1v1": "2026-11-14",
-      "live": {
-        "match": 521147980,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "CTM | Lelouch ELO bajito"
-      }
+      "last_1v1": "2026-11-14"
     },
     {
       "profile_id": 4229962,
@@ -233,14 +227,14 @@
     {
       "profile_id": 3034651,
       "tag": "KinG of QUILLA",
-      "cur_1v1": 1873,
+      "cur_1v1": 1863,
       "max_1v1": 2035,
       "cur_tg": 1526,
       "max_tg": 1657,
       "last_1v1": "2026-11-14",
       "last_tg": "2026-10-26",
       "live": {
-        "match": 521147980,
+        "match": 521154623,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
