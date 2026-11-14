@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-14T02:15:10Z",
+  "updated_at": "2026-11-14T02:20:09Z",
   "baseline": {
     "taken_at": "2026-11-13T14:00:16Z",
     "ranks": {
@@ -125,15 +125,10 @@
       "clan": "VENÓN",
       "cur_1v1": 2507,
       "max_1v1": 2512,
-      "cur_tg": 2108,
+      "cur_tg": 2113,
       "max_tg": 2190,
       "last_1v1": "2026-11-12",
-      "last_tg": "2026-11-14",
-      "live": {
-        "match": 520967945,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-14"
     },
     {
       "profile_id": 4221810,
@@ -558,7 +553,13 @@
       "cur_tg": 1820,
       "max_tg": 1821,
       "last_tg": "2026-10-16",
-      "last_1v1": "2026-09-18"
+      "last_1v1": "2026-09-18",
+      "live": {
+        "match": 520970525,
+        "game": "Unranked",
+        "format": "4v4",
+        "account": "[GDL]CemenTox"
+      }
     },
     {
       "profile_id": 324005,
