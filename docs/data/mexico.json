@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-14T18:25:10Z",
+  "updated_at": "2026-11-14T18:30:19Z",
   "baseline": {
     "taken_at": "2026-11-14T14:00:13Z",
     "ranks": {
@@ -131,15 +131,10 @@
       "clan": "hK",
       "cur_1v1": 2427,
       "max_1v1": 2433,
-      "cur_tg": 1984,
+      "cur_tg": 2005,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-11-14",
-      "live": {
-        "match": 521136575,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-14"
     },
     {
       "profile_id": 2598146,
@@ -218,7 +213,7 @@
       "last_1v1": "2026-10-17",
       "last_tg": "2026-11-08",
       "live": {
-        "match": 521137654,
+        "match": 521144606,
         "game": "1v1 Random Map",
         "format": "1v1",
         "account": "FierroFlash"
@@ -237,31 +232,31 @@
       "last_seen": "2025-06-11"
     },
     {
+      "profile_id": 1485562,
+      "tag": "MrOsoVC8",
+      "clan": "VENÓN",
+      "cur_1v1": 2276,
+      "max_1v1": 2394,
+      "cur_tg": 1817,
+      "max_tg": 2099,
+      "last_1v1": "2026-11-14",
+      "last_tg": "2026-11-02",
+      "live": {
+        "match": 521144519,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 4412109,
       "tag": "HGB",
       "clan": "hK",
       "cur_1v1": 2273,
       "max_1v1": 2365,
-      "cur_tg": 1986,
+      "cur_tg": 2006,
       "max_tg": 2083,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-14",
-      "live": {
-        "match": 521136575,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
-    },
-    {
-      "profile_id": 1485562,
-      "tag": "MrOsoVC8",
-      "clan": "VENÓN",
-      "cur_1v1": 2272,
-      "max_1v1": 2394,
-      "cur_tg": 1817,
-      "max_tg": 2099,
-      "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-02"
+      "last_tg": "2026-11-14"
     },
     {
       "profile_id": 914665,
@@ -609,21 +604,6 @@
       "last_1v1": "2026-10-12"
     },
     {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1822,
-      "max_1v1": 2003,
-      "cur_tg": 1475,
-      "max_tg": 1475,
-      "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-11",
-      "live": {
-        "match": 521135956,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 2926018,
       "tag": "PerezPodrido",
       "clan": "SotC",
@@ -633,6 +613,21 @@
       "max_tg": 1888,
       "last_1v1": "2026-11-12",
       "last_tg": "2026-11-13"
+    },
+    {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1801,
+      "max_1v1": 2003,
+      "cur_tg": 1475,
+      "max_tg": 1475,
+      "last_1v1": "2026-11-14",
+      "last_tg": "2026-11-11",
+      "live": {
+        "match": 521144611,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     }
   ],
   "show_top": 45,
