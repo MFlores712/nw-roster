@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-14T19:35:09Z",
+  "updated_at": "2026-11-14T19:45:09Z",
   "baseline": {
     "taken_at": "2026-11-14T14:00:13Z",
     "ranks": {
@@ -78,15 +78,10 @@
       "clan": "VL",
       "cur_1v1": 2118,
       "max_1v1": 2242,
-      "cur_tg": 1834,
+      "cur_tg": 1854,
       "max_tg": 1932,
       "last_tg": "2026-11-14",
-      "last_1v1": "2026-10-27",
-      "live": {
-        "match": 521157798,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_1v1": "2026-10-27"
     },
     {
       "profile_id": 3244108,
@@ -134,15 +129,10 @@
       "tag": "Miguel T",
       "cur_1v1": 2022,
       "max_1v1": 2034,
-      "cur_tg": 1666,
+      "cur_tg": 1683,
       "max_tg": 1703,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-14",
-      "live": {
-        "match": 521156623,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-14"
     },
     {
       "profile_id": 2366434,

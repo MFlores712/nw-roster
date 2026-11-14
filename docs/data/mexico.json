@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-14T19:40:09Z",
+  "updated_at": "2026-11-14T19:45:09Z",
   "baseline": {
     "taken_at": "2026-11-14T14:00:13Z",
     "ranks": {
@@ -96,17 +96,12 @@
       "profile_id": 5984120,
       "tag": "C",
       "clan": "Ux",
-      "cur_1v1": 2627,
+      "cur_1v1": 2643,
       "max_1v1": 2790,
       "cur_tg": 1658,
       "max_tg": 1885,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-08",
-      "live": {
-        "match": 521156594,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-08"
     },
     {
       "profile_id": 9449579,
@@ -139,7 +134,12 @@
       "cur_tg": 2028,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-11-14"
+      "last_tg": "2026-11-14",
+      "live": {
+        "match": 521162309,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 2598146,
@@ -172,7 +172,13 @@
       "cur_tg": 1828,
       "max_tg": 1959,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-13"
+      "last_tg": "2026-11-13",
+      "live": {
+        "match": 521162960,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "Warlock_Ndk"
+      }
     },
     {
       "profile_id": 312774,
@@ -231,22 +237,6 @@
       "last_seen": "2025-06-11"
     },
     {
-      "profile_id": 1485562,
-      "tag": "MrOsoVC8",
-      "clan": "VENÓN",
-      "cur_1v1": 2276,
-      "max_1v1": 2394,
-      "cur_tg": 1817,
-      "max_tg": 2099,
-      "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-02",
-      "live": {
-        "match": 521155931,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 4412109,
       "tag": "HGB",
       "clan": "hK",
@@ -255,7 +245,23 @@
       "cur_tg": 2029,
       "max_tg": 2083,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-14"
+      "last_tg": "2026-11-14",
+      "live": {
+        "match": 521162309,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
+    },
+    {
+      "profile_id": 1485562,
+      "tag": "MrOsoVC8",
+      "clan": "VENÓN",
+      "cur_1v1": 2254,
+      "max_1v1": 2394,
+      "cur_tg": 1817,
+      "max_tg": 2099,
+      "last_1v1": "2026-11-14",
+      "last_tg": "2026-11-02"
     },
     {
       "profile_id": 914665,
@@ -285,15 +291,10 @@
       "clan": "VN",
       "cur_1v1": 2175,
       "max_1v1": 2301,
-      "cur_tg": 1969,
+      "cur_tg": 1948,
       "max_tg": 2050,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-14",
-      "live": {
-        "match": 521157798,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-11-14"
     },
     {
       "profile_id": 917863,
@@ -315,7 +316,12 @@
       "cur_tg": 1949,
       "max_tg": 2010,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-14"
+      "last_tg": "2026-11-14",
+      "live": {
+        "match": 521163059,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 1947348,
@@ -561,15 +567,10 @@
       "clan": "VN",
       "cur_1v1": 1909,
       "max_1v1": 1929,
-      "cur_tg": 1821,
+      "cur_tg": 1805,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-11-14",
-      "live": {
-        "match": 521157798,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-11-14"
     },
     {
       "profile_id": 12472496,
