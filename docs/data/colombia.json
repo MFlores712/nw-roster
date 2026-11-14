@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-14T10:30:11Z",
+  "updated_at": "2026-11-14T10:45:14Z",
   "baseline": {
     "taken_at": "2026-11-13T14:00:16Z",
     "ranks": {
@@ -74,15 +74,10 @@
       "tag": "JOLIAT",
       "cur_1v1": 2054,
       "max_1v1": 2095,
-      "cur_tg": 1600,
+      "cur_tg": 1612,
       "max_tg": 1710,
       "last_1v1": "2026-11-08",
-      "last_tg": "2026-10-17",
-      "live": {
-        "match": 521045812,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-14"
     },
     {
       "profile_id": 1743420,
