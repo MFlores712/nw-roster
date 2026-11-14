@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-14T01:35:08Z",
+  "updated_at": "2026-11-14T01:40:10Z",
   "baseline": {
     "taken_at": "2026-11-13T14:00:16Z",
     "ranks": {
@@ -183,7 +183,13 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 520964630,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "hK | RanDoM"
+      }
     },
     {
       "profile_id": 12723994,
@@ -284,17 +290,12 @@
       "profile_id": 917863,
       "tag": "Romell13",
       "clan": "hK",
-      "cur_1v1": 2160,
+      "cur_1v1": 2150,
       "max_1v1": 2233,
       "cur_tg": 1815,
       "max_tg": 1838,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-05",
-      "live": {
-        "match": 520962022,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-05"
     },
     {
       "profile_id": 3816609,
@@ -589,35 +590,25 @@
       "last_1v1": "2026-10-16"
     },
     {
-      "profile_id": 13241217,
-      "tag": "BlueUltra",
-      "clan": "Ux",
-      "cur_1v1": 1859,
-      "max_1v1": 1997,
-      "cur_tg": 1685,
-      "max_tg": 1688,
-      "last_1v1": "2026-11-10",
-      "last_tg": "2026-11-10",
-      "live": {
-        "match": 520959985,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 3254820,
       "tag": "__Chino",
-      "cur_1v1": 1832,
+      "cur_1v1": 1850,
       "max_1v1": 2003,
       "cur_tg": 1475,
       "max_tg": 1475,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-11",
-      "live": {
-        "match": 520960337,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-11"
+    },
+    {
+      "profile_id": 13241217,
+      "tag": "BlueUltra",
+      "clan": "Ux",
+      "cur_1v1": 1838,
+      "max_1v1": 1997,
+      "cur_tg": 1685,
+      "max_tg": 1688,
+      "last_1v1": "2026-11-14",
+      "last_tg": "2026-11-10"
     },
     {
       "profile_id": 233625,
