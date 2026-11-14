@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-14T02:00:13Z",
+  "updated_at": "2026-11-14T02:05:09Z",
   "baseline": {
     "taken_at": "2026-11-13T14:00:16Z",
     "ranks": {
@@ -183,13 +183,7 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 520964630,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "hK | RanDoM"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 12723994,
@@ -211,13 +205,7 @@
       "cur_tg": 1953,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-11-08",
-      "live": {
-        "match": 520965956,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "FierroFlash"
-      }
+      "last_tg": "2026-11-08"
     },
     {
       "profile_id": 580573,
@@ -455,6 +443,17 @@
       "last_1v1": "2026-10-24"
     },
     {
+      "profile_id": 278380,
+      "tag": "Lemoine",
+      "clan": "VL",
+      "cur_1v1": 1973,
+      "max_1v1": 1980,
+      "cur_tg": 1725,
+      "max_tg": 1865,
+      "last_tg": "2026-11-12",
+      "last_1v1": "2026-11-14"
+    },
+    {
       "profile_id": 1249720,
       "tag": "Lice_Slide",
       "clan": "VN",
@@ -537,22 +536,6 @@
       "last_1v1": "2026-10-13"
     },
     {
-      "profile_id": 278380,
-      "tag": "Lemoine",
-      "clan": "VL",
-      "cur_1v1": 1949,
-      "max_1v1": 1980,
-      "cur_tg": 1725,
-      "max_tg": 1865,
-      "last_tg": "2026-11-12",
-      "last_1v1": "2026-11-14",
-      "live": {
-        "match": 520968713,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 467847,
       "tag": "DoN.Vergas",
       "cur_1v1": 1940,
@@ -616,12 +599,12 @@
       "clan": "Ux",
       "cur_1v1": 1838,
       "max_1v1": 1997,
-      "cur_tg": 1685,
-      "max_tg": 1688,
+      "cur_tg": 1695,
+      "max_tg": 1695,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-10",
+      "last_tg": "2026-11-14",
       "live": {
-        "match": 520966725,
+        "match": 520969562,
         "game": "Team Random Map",
         "format": "2v2"
       }
