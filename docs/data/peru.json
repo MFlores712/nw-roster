@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-14T13:40:15Z",
+  "updated_at": "2026-11-14T13:45:14Z",
   "baseline": {
     "taken_at": "2026-11-13T14:00:16Z",
     "ranks": {
@@ -137,7 +137,13 @@
       "cur_tg": 1823,
       "max_tg": 1843,
       "last_tg": "2026-11-13",
-      "last_1v1": "2026-11-13"
+      "last_1v1": "2026-11-13",
+      "live": {
+        "match": 521078465,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "CTM | Lelouch Jogo Bonito"
+      }
     },
     {
       "profile_id": 13518993,
@@ -217,14 +223,14 @@
     {
       "profile_id": 4234652,
       "tag": "_The_Oldergold",
-      "cur_1v1": 1715,
+      "cur_1v1": 1728,
       "max_1v1": 1940,
       "cur_tg": 1528,
       "max_tg": 1719,
       "last_1v1": "2026-11-14",
       "last_tg": "2026-11-14",
       "live": {
-        "match": 521071965,
+        "match": 521078314,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
