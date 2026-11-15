@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-15T17:40:10Z",
+  "updated_at": "2026-11-15T17:45:09Z",
   "baseline": {
     "taken_at": "2026-11-15T14:00:14Z",
     "ranks": {
@@ -134,13 +134,7 @@
       "cur_tg": 2010,
       "max_tg": 2104,
       "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-14",
-      "live": {
-        "match": 521400627,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "The_Fury"
-      }
+      "last_tg": "2026-11-14"
     },
     {
       "profile_id": 2598146,
@@ -276,15 +270,10 @@
       "clan": "nW",
       "cur_1v1": 2223,
       "max_1v1": 2268,
-      "cur_tg": 1811,
+      "cur_tg": 1824,
       "max_tg": 2024,
       "last_1v1": "2026-11-08",
-      "last_tg": "2026-11-15",
-      "live": {
-        "match": 521404325,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-15"
     },
     {
       "profile_id": 757886,
@@ -382,13 +371,7 @@
       "cur_tg": 1794,
       "max_tg": 1962,
       "last_1v1": "2026-11-13",
-      "last_tg": "2026-11-14",
-      "live": {
-        "match": 521403943,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "Zoschenko17"
-      }
+      "last_tg": "2026-11-14"
     },
     {
       "profile_id": 1708286,
@@ -594,7 +577,12 @@
       "cur_tg": 1723,
       "max_tg": 1737,
       "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-14"
+      "last_tg": "2026-11-14",
+      "live": {
+        "match": 521409433,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 3254820,
