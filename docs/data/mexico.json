@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-15T02:35:08Z",
+  "updated_at": "2026-11-15T02:40:15Z",
   "baseline": {
     "taken_at": "2026-11-14T14:00:13Z",
     "ranks": {
@@ -128,7 +128,12 @@
       "cur_tg": 2111,
       "max_tg": 2190,
       "last_1v1": "2026-11-12",
-      "last_tg": "2026-11-15"
+      "last_tg": "2026-11-15",
+      "live": {
+        "match": 521250027,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 4221810,
@@ -258,15 +263,10 @@
       "clan": "nW",
       "cur_1v1": 2223,
       "max_1v1": 2268,
-      "cur_tg": 1829,
+      "cur_tg": 1811,
       "max_tg": 2024,
       "last_1v1": "2026-11-08",
-      "last_tg": "2026-11-15",
-      "live": {
-        "match": 521244150,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-15"
     },
     {
       "profile_id": 3816609,
@@ -274,15 +274,10 @@
       "clan": "nW",
       "cur_1v1": 2200,
       "max_1v1": 2304,
-      "cur_tg": 1873,
+      "cur_tg": 1854,
       "max_tg": 1907,
       "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-15",
-      "live": {
-        "match": 521244150,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-15"
     },
     {
       "profile_id": 757886,
@@ -436,15 +431,10 @@
       "clan": "nW",
       "cur_1v1": 1990,
       "max_1v1": 2011,
-      "cur_tg": 1750,
+      "cur_tg": 1735,
       "max_tg": 1750,
       "last_tg": "2026-11-15",
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 521244150,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 13215279,
@@ -531,7 +521,12 @@
       "cur_tg": 1643,
       "max_tg": 1824,
       "last_tg": "2026-11-15",
-      "last_1v1": "2026-10-13"
+      "last_1v1": "2026-10-13",
+      "live": {
+        "match": 521249808,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 278380,
@@ -582,7 +577,7 @@
       "last_1v1": "2026-09-24",
       "last_tg": "2026-11-14",
       "live": {
-        "match": 521244814,
+        "match": 521249718,
         "game": "Team Random Map",
         "format": "4v4",
         "account": "EXILE | Onichan Nya"
@@ -603,7 +598,7 @@
       "profile_id": 13241217,
       "tag": "BlueUltra",
       "clan": "Ux",
-      "cur_1v1": 1849,
+      "cur_1v1": 1863,
       "max_1v1": 1997,
       "cur_tg": 1723,
       "max_tg": 1737,
