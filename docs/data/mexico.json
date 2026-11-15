@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-15T21:45:10Z",
+  "updated_at": "2026-11-15T21:50:08Z",
   "baseline": {
     "taken_at": "2026-11-15T14:00:14Z",
     "ranks": {
@@ -70,7 +70,7 @@
       "last_1v1": "2026-11-15",
       "last_tg": "2026-11-08",
       "live": {
-        "match": 521456628,
+        "match": 521473376,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -95,12 +95,7 @@
       "cur_tg": 2188,
       "max_tg": 2188,
       "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-15",
-      "live": {
-        "match": 521467000,
-        "game": "Unranked",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-15"
     },
     {
       "profile_id": 13099159,
@@ -177,13 +172,7 @@
       "cur_tg": 1828,
       "max_tg": 1959,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-13",
-      "live": {
-        "match": 521467418,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "Warlock_Ndk"
-      }
+      "last_tg": "2026-11-13"
     },
     {
       "profile_id": 312774,
@@ -391,7 +380,13 @@
       "cur_tg": 1806,
       "max_tg": 1962,
       "last_1v1": "2026-11-13",
-      "last_tg": "2026-11-15"
+      "last_tg": "2026-11-15",
+      "live": {
+        "match": 521472233,
+        "game": "Unranked",
+        "format": "2v2",
+        "account": "SynfonY"
+      }
     },
     {
       "profile_id": 1708286,
@@ -412,12 +407,7 @@
       "cur_tg": 1731,
       "max_tg": 1747,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-10-27",
-      "live": {
-        "match": 521467000,
-        "game": "Unranked",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-27"
     },
     {
       "profile_id": 358501,
@@ -462,22 +452,6 @@
       "max_tg": 1997,
       "last_1v1": "2026-11-13",
       "last_tg": "2026-11-13"
-    },
-    {
-      "profile_id": 13215279,
-      "tag": "GO1_mx",
-      "clan": "MZTK",
-      "cur_1v1": 1965,
-      "max_1v1": 2093,
-      "cur_tg": 1700,
-      "max_tg": 1860,
-      "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-09",
-      "live": {
-        "match": 521466090,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 235877,
@@ -543,6 +517,22 @@
       "max_tg": 1824,
       "last_tg": "2026-11-15",
       "last_1v1": "2026-10-13"
+    },
+    {
+      "profile_id": 13215279,
+      "tag": "GO1_mx",
+      "clan": "MZTK",
+      "cur_1v1": 1944,
+      "max_1v1": 2093,
+      "cur_tg": 1700,
+      "max_tg": 1860,
+      "last_1v1": "2026-11-15",
+      "last_tg": "2026-11-09",
+      "live": {
+        "match": 521473632,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 278380,
