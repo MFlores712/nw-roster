@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-15T19:05:09Z",
+  "updated_at": "2026-11-15T19:10:07Z",
   "baseline": {
     "taken_at": "2026-11-15T14:00:14Z",
     "ranks": {
@@ -150,7 +150,12 @@
       "cur_tg": 2200,
       "max_tg": 2227,
       "last_tg": "2026-10-27",
-      "last_1v1": "2026-10-31"
+      "last_1v1": "2026-10-31",
+      "live": {
+        "match": 521430731,
+        "game": "Unranked",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2295504,
@@ -174,7 +179,7 @@
       "last_1v1": "2026-11-14",
       "last_tg": "2026-11-13",
       "live": {
-        "match": 521425553,
+        "match": 521432007,
         "game": "1v1 Random Map",
         "format": "1v1",
         "account": "Warlock_Ndk"
@@ -278,7 +283,12 @@
       "cur_tg": 1824,
       "max_tg": 2024,
       "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-15"
+      "last_tg": "2026-11-15",
+      "live": {
+        "match": 521431282,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 757886,
@@ -446,7 +456,12 @@
       "cur_tg": 1700,
       "max_tg": 1860,
       "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-09"
+      "last_tg": "2026-11-09",
+      "live": {
+        "match": 521430731,
+        "game": "Unranked",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 1249720,
