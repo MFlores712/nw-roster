@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-15T01:50:09Z",
+  "updated_at": "2026-11-15T01:55:08Z",
   "baseline": {
     "taken_at": "2026-11-14T14:00:13Z",
     "ranks": {
@@ -90,7 +90,12 @@
       "cur_tg": 2172,
       "max_tg": 2173,
       "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-15"
+      "last_tg": "2026-11-15",
+      "live": {
+        "match": 521241339,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 13099159,
@@ -453,22 +458,6 @@
       "last_tg": "2026-11-09"
     },
     {
-      "profile_id": 4764520,
-      "tag": "BooMBastic_",
-      "clan": "KH",
-      "cur_1v1": 1971,
-      "max_1v1": 2060,
-      "cur_tg": 1767,
-      "max_tg": 1813,
-      "last_tg": "2026-11-14",
-      "last_1v1": "2026-11-14",
-      "live": {
-        "match": 521238911,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 1249720,
       "tag": "Lice_Slide",
       "clan": "VN",
@@ -489,6 +478,17 @@
       "max_tg": 1798,
       "last_1v1": "2026-09-29",
       "last_tg": "2026-11-10"
+    },
+    {
+      "profile_id": 4764520,
+      "tag": "BooMBastic_",
+      "clan": "KH",
+      "cur_1v1": 1961,
+      "max_1v1": 2060,
+      "cur_tg": 1767,
+      "max_tg": 1813,
+      "last_tg": "2026-11-14",
+      "last_1v1": "2026-11-15"
     },
     {
       "profile_id": 3285258,
@@ -568,7 +568,13 @@
       "cur_tg": 1820,
       "max_tg": 1821,
       "last_tg": "2026-10-16",
-      "last_1v1": "2026-09-18"
+      "last_1v1": "2026-09-18",
+      "live": {
+        "match": 521240762,
+        "game": "Unranked",
+        "format": "4v4",
+        "account": "[GDL]CemenTox"
+      }
     },
     {
       "profile_id": 324005,
