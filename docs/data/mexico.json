@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-15T22:05:09Z",
+  "updated_at": "2026-11-15T22:10:09Z",
   "baseline": {
     "taken_at": "2026-11-15T14:00:14Z",
     "ranks": {
@@ -70,9 +70,9 @@
       "last_1v1": "2026-11-15",
       "last_tg": "2026-11-08",
       "live": {
-        "match": 521456628,
-        "game": "1v1 Random Map",
-        "format": "1v1"
+        "match": 521477149,
+        "game": "Team Random Map",
+        "format": "3v3"
       }
     },
     {
@@ -141,15 +141,10 @@
       "clan": "hK",
       "cur_1v1": 2439,
       "max_1v1": 2439,
-      "cur_tg": 1993,
+      "cur_tg": 2020,
       "max_tg": 2104,
       "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-15",
-      "live": {
-        "match": 521474736,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-15"
     },
     {
       "profile_id": 2598146,
@@ -182,7 +177,13 @@
       "cur_tg": 1828,
       "max_tg": 1959,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-13"
+      "last_tg": "2026-11-13",
+      "live": {
+        "match": 521477654,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "Warlock_Ndk"
+      }
     },
     {
       "profile_id": 312774,
@@ -257,15 +258,10 @@
       "clan": "hK",
       "cur_1v1": 2255,
       "max_1v1": 2365,
-      "cur_tg": 1993,
+      "cur_tg": 2020,
       "max_tg": 2083,
       "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-15",
-      "live": {
-        "match": 521474736,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-15"
     },
     {
       "profile_id": 3816609,
@@ -314,7 +310,7 @@
       "profile_id": 13138746,
       "tag": "FraKTal",
       "clan": "hK",
-      "cur_1v1": 2167,
+      "cur_1v1": 2158,
       "max_1v1": 2233,
       "cur_tg": 1949,
       "max_tg": 2010,
@@ -601,13 +597,7 @@
       "cur_tg": 1839,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-11-14",
-      "live": {
-        "match": 521469400,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "EXILE | Onichan Nya"
-      }
+      "last_tg": "2026-11-14"
     },
     {
       "profile_id": 12472496,
