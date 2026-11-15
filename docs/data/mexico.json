@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-15T21:00:14Z",
+  "updated_at": "2026-11-15T21:05:10Z",
   "baseline": {
     "taken_at": "2026-11-15T14:00:14Z",
     "ranks": {
@@ -81,7 +81,7 @@
       "last_1v1": "2026-11-15",
       "last_tg": "2026-11-08",
       "live": {
-        "match": 521456628,
+        "match": 521461770,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -239,17 +239,12 @@
       "profile_id": 1485562,
       "tag": "MrOsoVC8",
       "clan": "VENÓN",
-      "cur_1v1": 2269,
+      "cur_1v1": 2280,
       "max_1v1": 2394,
       "cur_tg": 1817,
       "max_tg": 2099,
       "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-02",
-      "live": {
-        "match": 521455208,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-02"
     },
     {
       "profile_id": 4412109,
@@ -501,7 +496,7 @@
       "last_1v1": "2026-10-25",
       "last_tg": "2026-11-14",
       "live": {
-        "match": 521455937,
+        "match": 521462470,
         "game": "1v1 Random Map",
         "format": "1v1",
         "account": "jax_teller"
@@ -596,13 +591,7 @@
       "cur_tg": 1839,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-11-14",
-      "live": {
-        "match": 521461228,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "EXILE | Onichan Nya"
-      }
+      "last_tg": "2026-11-14"
     },
     {
       "profile_id": 12472496,
