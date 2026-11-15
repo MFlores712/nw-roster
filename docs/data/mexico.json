@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-15T00:25:09Z",
+  "updated_at": "2026-11-15T00:30:12Z",
   "baseline": {
     "taken_at": "2026-11-14T14:00:13Z",
     "ranks": {
@@ -246,7 +246,7 @@
       "profile_id": 4412109,
       "tag": "HGB",
       "clan": "hK",
-      "cur_1v1": 2240,
+      "cur_1v1": 2230,
       "max_1v1": 2365,
       "cur_tg": 2011,
       "max_tg": 2083,
