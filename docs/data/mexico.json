@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-15T21:20:18Z",
+  "updated_at": "2026-11-15T21:25:08Z",
   "baseline": {
     "taken_at": "2026-11-15T14:00:14Z",
     "ranks": {
@@ -60,21 +60,10 @@
   },
   "players": [
     {
-      "profile_id": 2776293,
-      "tag": "Kingstone",
-      "clan": "Oni",
-      "cur_1v1": 2656,
-      "max_1v1": 2867,
-      "cur_tg": 2152,
-      "max_tg": 2169,
-      "last_tg": "2026-10-08",
-      "last_1v1": "2026-11-13"
-    },
-    {
       "profile_id": 5984120,
       "tag": "C",
       "clan": "Ux",
-      "cur_1v1": 2653,
+      "cur_1v1": 2663,
       "max_1v1": 2790,
       "cur_tg": 1658,
       "max_tg": 1885,
@@ -87,6 +76,17 @@
       }
     },
     {
+      "profile_id": 2776293,
+      "tag": "Kingstone",
+      "clan": "Oni",
+      "cur_1v1": 2656,
+      "max_1v1": 2867,
+      "cur_tg": 2152,
+      "max_tg": 2169,
+      "last_tg": "2026-10-08",
+      "last_1v1": "2026-11-13"
+    },
+    {
       "profile_id": 2920057,
       "tag": "Lobo",
       "clan": "Ux",
@@ -95,7 +95,12 @@
       "cur_tg": 2188,
       "max_tg": 2188,
       "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-15"
+      "last_tg": "2026-11-15",
+      "live": {
+        "match": 521467000,
+        "game": "Unranked",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 13099159,
@@ -177,7 +182,13 @@
       "cur_tg": 1828,
       "max_tg": 1959,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-13"
+      "last_tg": "2026-11-13",
+      "live": {
+        "match": 521467418,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "Warlock_Ndk"
+      }
     },
     {
       "profile_id": 312774,
@@ -358,7 +369,12 @@
       "cur_tg": 1906,
       "max_tg": 1919,
       "last_1v1": "2026-06-27",
-      "last_tg": "2026-11-15"
+      "last_tg": "2026-11-15",
+      "live": {
+        "match": 521467225,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 1261126,
@@ -401,7 +417,12 @@
       "cur_tg": 1731,
       "max_tg": 1747,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-10-27"
+      "last_tg": "2026-10-27",
+      "live": {
+        "match": 521467000,
+        "game": "Unranked",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 358501,
@@ -505,13 +526,7 @@
       "cur_tg": 1711,
       "max_tg": 1824,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-11-14",
-      "live": {
-        "match": 521462470,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "jax_teller"
-      }
+      "last_tg": "2026-11-14"
     },
     {
       "profile_id": 2291749,
