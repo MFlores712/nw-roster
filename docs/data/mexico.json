@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-15T22:00:12Z",
+  "updated_at": "2026-11-15T22:05:09Z",
   "baseline": {
     "taken_at": "2026-11-15T14:00:14Z",
     "ranks": {
@@ -95,7 +95,12 @@
       "cur_tg": 2188,
       "max_tg": 2188,
       "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-15"
+      "last_tg": "2026-11-15",
+      "live": {
+        "match": 521476166,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 13099159,
@@ -529,22 +534,6 @@
       "last_1v1": "2026-10-13"
     },
     {
-      "profile_id": 13215279,
-      "tag": "GO1_mx",
-      "clan": "MZTK",
-      "cur_1v1": 1944,
-      "max_1v1": 2093,
-      "cur_tg": 1700,
-      "max_tg": 1860,
-      "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-09",
-      "live": {
-        "match": 521473632,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 278380,
       "tag": "Lemoine",
       "clan": "VL",
@@ -575,6 +564,22 @@
       "max_tg": 1821,
       "last_tg": "2026-10-16",
       "last_1v1": "2026-09-18"
+    },
+    {
+      "profile_id": 13215279,
+      "tag": "GO1_mx",
+      "clan": "MZTK",
+      "cur_1v1": 1924,
+      "max_1v1": 2093,
+      "cur_tg": 1700,
+      "max_tg": 1860,
+      "last_1v1": "2026-11-15",
+      "last_tg": "2026-11-09",
+      "live": {
+        "match": 521476775,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 13241217,
