@@ -1,6 +1,6 @@
 {
   "name": "new Wave",
-  "updated_at": "2026-11-15T01:20:09Z",
+  "updated_at": "2026-11-15T01:40:15Z",
   "baseline": {
     "taken_at": "2026-11-14T14:00:13Z",
     "ranks": {
@@ -72,22 +72,6 @@
       "last_tg": "2026-10-27"
     },
     {
-      "profile_id": 1359694,
-      "tag": "AtilA",
-      "country": "Peru",
-      "cur_1v1": 2015,
-      "max_1v1": 2123,
-      "cur_tg": 1622,
-      "max_tg": 1670,
-      "last_tg": "2026-11-01",
-      "last_1v1": "2026-11-14",
-      "live": {
-        "match": 521234412,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 2876835,
       "tag": "Abejorro",
       "country": "Mexico",
@@ -99,6 +83,17 @@
       "last_tg": "2026-10-31"
     },
     {
+      "profile_id": 1359694,
+      "tag": "AtilA",
+      "country": "Peru",
+      "cur_1v1": 1995,
+      "max_1v1": 2123,
+      "cur_tg": 1622,
+      "max_tg": 1670,
+      "last_tg": "2026-11-01",
+      "last_1v1": "2026-11-15"
+    },
+    {
       "profile_id": 6501299,
       "tag": "ShutAzarquay",
       "country": "Mexico",
@@ -107,12 +102,7 @@
       "cur_tg": 1731,
       "max_tg": 1745,
       "last_tg": "2026-10-09",
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 521233542,
-        "game": "Unranked",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-10-24"
     }
   ]
 }
