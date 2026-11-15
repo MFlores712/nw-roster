@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-15T18:45:10Z",
+  "updated_at": "2026-11-15T18:50:09Z",
   "baseline": {
     "taken_at": "2026-11-15T14:00:14Z",
     "ranks": {
@@ -101,7 +101,12 @@
       "cur_tg": 1658,
       "max_tg": 1885,
       "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-08"
+      "last_tg": "2026-11-08",
+      "live": {
+        "match": 521426798,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 9449579,
@@ -273,14 +278,14 @@
       "profile_id": 914665,
       "tag": "Caguamas",
       "clan": "nW",
-      "cur_1v1": 2223,
+      "cur_1v1": 2230,
       "max_1v1": 2268,
       "cur_tg": 1824,
       "max_tg": 2024,
-      "last_1v1": "2026-11-08",
+      "last_1v1": "2026-11-15",
       "last_tg": "2026-11-15",
       "live": {
-        "match": 521422309,
+        "match": 521426572,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -315,7 +320,12 @@
       "cur_tg": 1638,
       "max_tg": 1654,
       "last_tg": "2026-11-14",
-      "last_1v1": "2026-11-15"
+      "last_1v1": "2026-11-15",
+      "live": {
+        "match": 521426236,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 917863,
@@ -501,7 +511,13 @@
       "cur_tg": 1711,
       "max_tg": 1824,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-11-14"
+      "last_tg": "2026-11-14",
+      "live": {
+        "match": 521426236,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "jax_teller"
+      }
     },
     {
       "profile_id": 2291749,
