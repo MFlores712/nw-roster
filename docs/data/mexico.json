@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-15T22:45:09Z",
+  "updated_at": "2026-11-15T22:50:09Z",
   "baseline": {
     "taken_at": "2026-11-15T14:00:14Z",
     "ranks": {
@@ -381,13 +381,7 @@
       "cur_tg": 1806,
       "max_tg": 1962,
       "last_1v1": "2026-11-13",
-      "last_tg": "2026-11-15",
-      "live": {
-        "match": 521478910,
-        "game": "Unranked",
-        "format": "2v2",
-        "account": "SynfonY"
-      }
+      "last_tg": "2026-11-15"
     },
     {
       "profile_id": 1708286,
@@ -562,7 +556,7 @@
       "last_1v1": "2026-11-15",
       "last_tg": "2026-11-09",
       "live": {
-        "match": 521478876,
+        "match": 521485942,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -587,13 +581,7 @@
       "cur_tg": 1839,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-11-14",
-      "live": {
-        "match": 521479754,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "EXILE | Onichan Nya"
-      }
+      "last_tg": "2026-11-14"
     },
     {
       "profile_id": 12472496,
