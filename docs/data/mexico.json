@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-15T02:05:12Z",
+  "updated_at": "2026-11-15T02:10:11Z",
   "baseline": {
     "taken_at": "2026-11-14T14:00:13Z",
     "ranks": {
@@ -266,7 +266,12 @@
       "cur_tg": 1829,
       "max_tg": 2024,
       "last_1v1": "2026-11-08",
-      "last_tg": "2026-11-15"
+      "last_tg": "2026-11-15",
+      "live": {
+        "match": 521244150,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 3816609,
@@ -277,7 +282,12 @@
       "cur_tg": 1873,
       "max_tg": 1907,
       "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-15"
+      "last_tg": "2026-11-15",
+      "live": {
+        "match": 521244150,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 757886,
@@ -434,7 +444,12 @@
       "cur_tg": 1750,
       "max_tg": 1750,
       "last_tg": "2026-11-15",
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 521244150,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 13215279,
@@ -575,13 +590,7 @@
       "cur_tg": 1839,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-11-14",
-      "live": {
-        "match": 521239641,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "EXILE | Onichan Nya"
-      }
+      "last_tg": "2026-11-14"
     },
     {
       "profile_id": 12472496,
