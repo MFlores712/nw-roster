@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-15T03:35:09Z",
+  "updated_at": "2026-11-15T03:40:17Z",
   "baseline": {
     "taken_at": "2026-11-14T14:00:13Z",
     "ranks": {
@@ -120,15 +120,10 @@
       "clan": "VENÓN",
       "cur_1v1": 2507,
       "max_1v1": 2512,
-      "cur_tg": 2115,
+      "cur_tg": 2118,
       "max_tg": 2190,
       "last_1v1": "2026-11-12",
-      "last_tg": "2026-11-15",
-      "live": {
-        "match": 521257867,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-15"
     },
     {
       "profile_id": 4221810,
@@ -576,17 +571,12 @@
       "profile_id": 13241217,
       "tag": "BlueUltra",
       "clan": "Ux",
-      "cur_1v1": 1886,
+      "cur_1v1": 1894,
       "max_1v1": 1997,
       "cur_tg": 1723,
       "max_tg": 1737,
       "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-14",
-      "live": {
-        "match": 521256724,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-14"
     },
     {
       "profile_id": 233625,
@@ -603,6 +593,21 @@
       "last_1v1": "2026-10-12"
     },
     {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1828,
+      "max_1v1": 2003,
+      "cur_tg": 1459,
+      "max_tg": 1490,
+      "last_1v1": "2026-11-15",
+      "last_tg": "2026-11-15",
+      "live": {
+        "match": 521261094,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 2926018,
       "tag": "PerezPodrido",
       "clan": "SotC",
@@ -612,21 +617,6 @@
       "max_tg": 1888,
       "last_1v1": "2026-11-12",
       "last_tg": "2026-11-13"
-    },
-    {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1812,
-      "max_1v1": 2003,
-      "cur_tg": 1459,
-      "max_tg": 1490,
-      "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-15",
-      "live": {
-        "match": 521255438,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     }
   ],
   "show_top": 45,
