@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-15T04:40:09Z",
+  "updated_at": "2026-11-15T04:45:09Z",
   "baseline": {
     "taken_at": "2026-11-14T14:00:13Z",
     "ranks": {
@@ -122,7 +122,12 @@
       "cur_tg": 1680,
       "max_tg": 1843,
       "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-13"
+      "last_tg": "2026-11-13",
+      "live": {
+        "match": 521271951,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 13518993,
