@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-15T07:25:08Z",
+  "updated_at": "2026-11-15T07:30:13Z",
   "baseline": {
     "taken_at": "2026-11-14T14:00:13Z",
     "ranks": {
@@ -103,7 +103,7 @@
       "last_1v1": "2026-11-15",
       "last_tg": "2026-11-08",
       "live": {
-        "match": 521292839,
+        "match": 521295509,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -117,7 +117,13 @@
       "cur_tg": 2128,
       "max_tg": 2151,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-13"
+      "last_tg": "2026-11-13",
+      "live": {
+        "match": 521294808,
+        "game": "Unranked",
+        "format": "4v4",
+        "account": "[GDL] Chuchito"
+      }
     },
     {
       "profile_id": 401359,
@@ -503,6 +509,17 @@
       "last_1v1": "2026-10-13"
     },
     {
+      "profile_id": 13215279,
+      "tag": "GO1_mx",
+      "clan": "MZTK",
+      "cur_1v1": 1946,
+      "max_1v1": 2093,
+      "cur_tg": 1700,
+      "max_tg": 1860,
+      "last_1v1": "2026-11-15",
+      "last_tg": "2026-11-09"
+    },
+    {
       "profile_id": 278380,
       "tag": "Lemoine",
       "clan": "VL",
@@ -532,22 +549,12 @@
       "cur_tg": 1820,
       "max_tg": 1821,
       "last_tg": "2026-10-16",
-      "last_1v1": "2026-09-18"
-    },
-    {
-      "profile_id": 13215279,
-      "tag": "GO1_mx",
-      "clan": "MZTK",
-      "cur_1v1": 1930,
-      "max_1v1": 2093,
-      "cur_tg": 1700,
-      "max_tg": 1860,
-      "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-09",
+      "last_1v1": "2026-09-18",
       "live": {
-        "match": 521291028,
-        "game": "1v1 Random Map",
-        "format": "1v1"
+        "match": 521294808,
+        "game": "Unranked",
+        "format": "4v4",
+        "account": "[GDL]BetoxAOE"
       }
     },
     {
