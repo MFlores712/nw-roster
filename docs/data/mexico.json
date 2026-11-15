@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-15T07:10:10Z",
+  "updated_at": "2026-11-15T07:25:08Z",
   "baseline": {
     "taken_at": "2026-11-14T14:00:13Z",
     "ranks": {
@@ -96,7 +96,7 @@
       "profile_id": 5984120,
       "tag": "C",
       "clan": "Ux",
-      "cur_1v1": 2626,
+      "cur_1v1": 2617,
       "max_1v1": 2790,
       "cur_tg": 1658,
       "max_tg": 1885,
@@ -532,13 +532,7 @@
       "cur_tg": 1820,
       "max_tg": 1821,
       "last_tg": "2026-10-16",
-      "last_1v1": "2026-09-18",
-      "live": {
-        "match": 521291725,
-        "game": "Unranked",
-        "format": "4v4",
-        "account": "[GDL]BetoxAOE"
-      }
+      "last_1v1": "2026-09-18"
     },
     {
       "profile_id": 13215279,
