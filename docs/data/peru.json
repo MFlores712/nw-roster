@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-15T20:50:09Z",
+  "updated_at": "2026-11-15T20:55:17Z",
   "baseline": {
     "taken_at": "2026-11-15T14:00:14Z",
     "ranks": {
@@ -107,13 +107,7 @@
       "cur_tg": 2011,
       "max_tg": 2011,
       "last_1v1": "2026-11-09",
-      "last_tg": "2026-11-12",
-      "live": {
-        "match": 521453248,
-        "game": "Team Random Map",
-        "format": "2v2",
-        "account": "CL_lorecs"
-      }
+      "last_tg": "2026-11-12"
     },
     {
       "profile_id": 633255,
@@ -151,12 +145,12 @@
       "clan": "LvSP",
       "cur_1v1": 2015,
       "max_1v1": 2139,
-      "cur_tg": 1548,
+      "cur_tg": 1531,
       "max_tg": 1719,
       "last_1v1": "2026-11-15",
       "last_tg": "2026-11-15",
       "live": {
-        "match": 521453166,
+        "match": 521460447,
         "game": "Team Random Map",
         "format": "4v4"
       }
