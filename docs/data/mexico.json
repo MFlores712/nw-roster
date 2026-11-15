@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-15T04:10:08Z",
+  "updated_at": "2026-11-15T04:15:17Z",
   "baseline": {
     "taken_at": "2026-11-14T14:00:13Z",
     "ranks": {
@@ -299,7 +299,12 @@
       "cur_tg": 1638,
       "max_tg": 1654,
       "last_tg": "2026-11-14",
-      "last_1v1": "2026-11-15"
+      "last_1v1": "2026-11-15",
+      "live": {
+        "match": 521267203,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 917863,
@@ -503,7 +508,7 @@
       "clan": "VL",
       "cur_1v1": 1952,
       "max_1v1": 1972,
-      "cur_tg": 1689,
+      "cur_tg": 1677,
       "max_tg": 1824,
       "last_tg": "2026-11-15",
       "last_1v1": "2026-10-13",
@@ -579,6 +584,16 @@
       "last_tg": "2026-11-14"
     },
     {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1846,
+      "max_1v1": 2003,
+      "cur_tg": 1459,
+      "max_tg": 1490,
+      "last_1v1": "2026-11-15",
+      "last_tg": "2026-11-15"
+    },
+    {
       "profile_id": 233625,
       "via": {
         "id": 21631461,
@@ -591,21 +606,6 @@
       "max_tg": 1871,
       "last_tg": "2026-09-28",
       "last_1v1": "2026-10-12"
-    },
-    {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1828,
-      "max_1v1": 2003,
-      "cur_tg": 1459,
-      "max_tg": 1490,
-      "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-15",
-      "live": {
-        "match": 521261094,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 2926018,
