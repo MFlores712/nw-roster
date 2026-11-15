@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-15T07:45:08Z",
+  "updated_at": "2026-11-15T08:05:09Z",
   "baseline": {
     "taken_at": "2026-11-14T14:00:13Z",
     "ranks": {
@@ -135,6 +135,21 @@
       "last_tg": "2026-11-14"
     },
     {
+      "profile_id": 2366434,
+      "via": {
+        "id": 3265324,
+        "listed_last": "2026-07-01"
+      },
+      "tag": "Lelouch",
+      "clan": "CTM",
+      "cur_1v1": 2001,
+      "max_1v1": 2222,
+      "cur_tg": 1823,
+      "max_tg": 1843,
+      "last_tg": "2026-11-13",
+      "last_1v1": "2026-11-15"
+    },
+    {
       "profile_id": 4229962,
       "tag": "Réyiman",
       "clan": "LvSP",
@@ -155,27 +170,6 @@
       "max_tg": 1670,
       "last_tg": "2026-11-01",
       "last_1v1": "2026-11-15"
-    },
-    {
-      "profile_id": 2366434,
-      "via": {
-        "id": 3265324,
-        "listed_last": "2026-07-01"
-      },
-      "tag": "Lelouch",
-      "clan": "CTM",
-      "cur_1v1": 1985,
-      "max_1v1": 2222,
-      "cur_tg": 1823,
-      "max_tg": 1843,
-      "last_tg": "2026-11-13",
-      "last_1v1": "2026-11-15",
-      "live": {
-        "match": 521297370,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "CTM | Lelouch ELO bajito"
-      }
     },
     {
       "profile_id": 4167535,
