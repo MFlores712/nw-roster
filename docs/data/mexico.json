@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-15T05:45:09Z",
+  "updated_at": "2026-11-15T05:50:17Z",
   "baseline": {
     "taken_at": "2026-11-14T14:00:13Z",
     "ranks": {
@@ -493,6 +493,17 @@
       "last_tg": "2026-11-14"
     },
     {
+      "profile_id": 13215279,
+      "tag": "GO1_mx",
+      "clan": "MZTK",
+      "cur_1v1": 1958,
+      "max_1v1": 2093,
+      "cur_tg": 1700,
+      "max_tg": 1860,
+      "last_1v1": "2026-11-15",
+      "last_tg": "2026-11-09"
+    },
+    {
       "profile_id": 2291749,
       "tag": "Biner",
       "cur_1v1": 1957,
@@ -512,22 +523,6 @@
       "max_tg": 1824,
       "last_tg": "2026-11-15",
       "last_1v1": "2026-10-13"
-    },
-    {
-      "profile_id": 13215279,
-      "tag": "GO1_mx",
-      "clan": "MZTK",
-      "cur_1v1": 1950,
-      "max_1v1": 2093,
-      "cur_tg": 1700,
-      "max_tg": 1860,
-      "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-09",
-      "live": {
-        "match": 521278836,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 278380,
