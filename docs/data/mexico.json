@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-15T23:05:11Z",
+  "updated_at": "2026-11-15T23:10:09Z",
   "baseline": {
     "taken_at": "2026-11-15T14:00:14Z",
     "ranks": {
@@ -95,12 +95,7 @@
       "cur_tg": 2198,
       "max_tg": 2198,
       "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-15",
-      "live": {
-        "match": 521483778,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-15"
     },
     {
       "profile_id": 13099159,
@@ -315,7 +310,12 @@
       "cur_tg": 1949,
       "max_tg": 2010,
       "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-14"
+      "last_tg": "2026-11-14",
+      "live": {
+        "match": 521490598,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 917863,
@@ -551,22 +551,6 @@
       "last_1v1": "2026-09-18"
     },
     {
-      "profile_id": 13215279,
-      "tag": "GO1_mx",
-      "clan": "MZTK",
-      "cur_1v1": 1920,
-      "max_1v1": 2093,
-      "cur_tg": 1700,
-      "max_tg": 1860,
-      "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-09",
-      "live": {
-        "match": 521485942,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 13241217,
       "tag": "BlueUltra",
       "clan": "Ux",
@@ -598,6 +582,17 @@
       "max_tg": 1805,
       "last_tg": "2026-11-13",
       "last_1v1": "2026-10-16"
+    },
+    {
+      "profile_id": 13215279,
+      "tag": "GO1_mx",
+      "clan": "MZTK",
+      "cur_1v1": 1908,
+      "max_1v1": 2093,
+      "cur_tg": 1700,
+      "max_tg": 1860,
+      "last_1v1": "2026-11-15",
+      "last_tg": "2026-11-09"
     },
     {
       "profile_id": 3254820,
