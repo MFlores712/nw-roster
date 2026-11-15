@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-15T19:15:09Z",
+  "updated_at": "2026-11-15T19:20:10Z",
   "baseline": {
     "taken_at": "2026-11-15T14:00:14Z",
     "ranks": {
@@ -96,17 +96,12 @@
       "profile_id": 5984120,
       "tag": "C",
       "clan": "Ux",
-      "cur_1v1": 2612,
+      "cur_1v1": 2617,
       "max_1v1": 2790,
       "cur_tg": 1658,
       "max_tg": 1885,
       "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-08",
-      "live": {
-        "match": 521429830,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-08"
     },
     {
       "profile_id": 9449579,
@@ -511,7 +506,13 @@
       "cur_tg": 1711,
       "max_tg": 1824,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-11-14"
+      "last_tg": "2026-11-14",
+      "live": {
+        "match": 521434340,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "jax_teller"
+      }
     },
     {
       "profile_id": 2291749,
@@ -567,22 +568,6 @@
       "last_1v1": "2026-09-18"
     },
     {
-      "profile_id": 13241217,
-      "tag": "BlueUltra",
-      "clan": "Ux",
-      "cur_1v1": 1923,
-      "max_1v1": 1997,
-      "cur_tg": 1723,
-      "max_tg": 1737,
-      "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-14",
-      "live": {
-        "match": 521427247,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 324005,
       "tag": "Dry",
       "clan": "VN",
@@ -603,6 +588,22 @@
       "max_tg": 1805,
       "last_tg": "2026-11-13",
       "last_1v1": "2026-10-16"
+    },
+    {
+      "profile_id": 13241217,
+      "tag": "BlueUltra",
+      "clan": "Ux",
+      "cur_1v1": 1908,
+      "max_1v1": 1997,
+      "cur_tg": 1723,
+      "max_tg": 1737,
+      "last_1v1": "2026-11-15",
+      "last_tg": "2026-11-14",
+      "live": {
+        "match": 521434077,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 3254820,
