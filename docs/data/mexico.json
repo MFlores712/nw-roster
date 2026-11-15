@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-15T00:30:12Z",
+  "updated_at": "2026-11-15T00:35:16Z",
   "baseline": {
     "taken_at": "2026-11-14T14:00:13Z",
     "ranks": {
@@ -251,12 +251,7 @@
       "cur_tg": 2011,
       "max_tg": 2083,
       "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-14",
-      "live": {
-        "match": 521221474,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-14"
     },
     {
       "profile_id": 914665,
@@ -273,7 +268,7 @@
       "profile_id": 3816609,
       "tag": "iamkaito",
       "clan": "nW",
-      "cur_1v1": 2209,
+      "cur_1v1": 2200,
       "max_1v1": 2304,
       "cur_tg": 1853,
       "max_tg": 1907,
@@ -315,7 +310,12 @@
       "cur_tg": 1638,
       "max_tg": 1654,
       "last_tg": "2026-11-14",
-      "last_1v1": "2026-11-14"
+      "last_1v1": "2026-11-14",
+      "live": {
+        "match": 521226848,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 917863,
