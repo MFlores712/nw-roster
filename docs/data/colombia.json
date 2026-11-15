@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-15T22:25:15Z",
+  "updated_at": "2026-11-15T22:30:11Z",
   "baseline": {
     "taken_at": "2026-11-15T14:00:14Z",
     "ranks": {
@@ -45,7 +45,12 @@
       "cur_tg": 1874,
       "max_tg": 1945,
       "last_1v1": "2026-11-13",
-      "last_tg": "2026-11-15"
+      "last_tg": "2026-11-15",
+      "live": {
+        "match": 521481915,
+        "game": "Team Random Map",
+        "format": "2v2"
+      }
     },
     {
       "profile_id": 6838238,
@@ -67,7 +72,12 @@
       "cur_tg": 1817,
       "max_tg": 1947,
       "last_1v1": "2026-10-28",
-      "last_tg": "2026-11-15"
+      "last_tg": "2026-11-15",
+      "live": {
+        "match": 521481915,
+        "game": "Team Random Map",
+        "format": "2v2"
+      }
     },
     {
       "profile_id": 2955183,
@@ -80,22 +90,6 @@
       "last_tg": "2026-11-15"
     },
     {
-      "profile_id": 1743420,
-      "tag": "OliverAtom",
-      "clan": "NuMa",
-      "cur_1v1": 2014,
-      "max_1v1": 2193,
-      "cur_tg": 1621,
-      "max_tg": 1772,
-      "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-15",
-      "live": {
-        "match": 521481134,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 2955846,
       "tag": "KauTrEnS",
       "clan": "FMG",
@@ -105,6 +99,17 @@
       "max_tg": 1771,
       "last_1v1": "2026-11-07",
       "last_tg": "2026-11-07"
+    },
+    {
+      "profile_id": 1743420,
+      "tag": "OliverAtom",
+      "clan": "NuMa",
+      "cur_1v1": 2004,
+      "max_1v1": 2193,
+      "cur_tg": 1621,
+      "max_tg": 1772,
+      "last_1v1": "2026-11-15",
+      "last_tg": "2026-11-15"
     },
     {
       "profile_id": 1062980,
