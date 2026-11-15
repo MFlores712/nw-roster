@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-15T18:40:10Z",
+  "updated_at": "2026-11-15T18:45:10Z",
   "baseline": {
     "taken_at": "2026-11-15T14:00:14Z",
     "ranks": {
@@ -169,7 +169,7 @@
       "last_1v1": "2026-11-14",
       "last_tg": "2026-11-13",
       "live": {
-        "match": 521419464,
+        "match": 521425553,
         "game": "1v1 Random Map",
         "format": "1v1",
         "account": "Warlock_Ndk"
@@ -501,13 +501,7 @@
       "cur_tg": 1711,
       "max_tg": 1824,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-11-14",
-      "live": {
-        "match": 521415865,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "jax_teller"
-      }
+      "last_tg": "2026-11-14"
     },
     {
       "profile_id": 2291749,
@@ -563,6 +557,17 @@
       "last_1v1": "2026-09-18"
     },
     {
+      "profile_id": 13241217,
+      "tag": "BlueUltra",
+      "clan": "Ux",
+      "cur_1v1": 1923,
+      "max_1v1": 1997,
+      "cur_tg": 1723,
+      "max_tg": 1737,
+      "last_1v1": "2026-11-15",
+      "last_tg": "2026-11-14"
+    },
+    {
       "profile_id": 324005,
       "tag": "Dry",
       "clan": "VN",
@@ -583,22 +588,6 @@
       "max_tg": 1805,
       "last_tg": "2026-11-13",
       "last_1v1": "2026-10-16"
-    },
-    {
-      "profile_id": 13241217,
-      "tag": "BlueUltra",
-      "clan": "Ux",
-      "cur_1v1": 1908,
-      "max_1v1": 1997,
-      "cur_tg": 1723,
-      "max_tg": 1737,
-      "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-14",
-      "live": {
-        "match": 521415865,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 3254820,
