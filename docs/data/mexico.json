@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-15T00:58:21Z",
+  "updated_at": "2026-11-15T01:05:09Z",
   "baseline": {
     "taken_at": "2026-11-14T14:00:13Z",
     "ranks": {
@@ -90,7 +90,12 @@
       "cur_tg": 2168,
       "max_tg": 2173,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-12"
+      "last_tg": "2026-11-12",
+      "live": {
+        "match": 521231975,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 13099159,
@@ -134,13 +139,7 @@
       "cur_tg": 2010,
       "max_tg": 2104,
       "last_1v1": "2026-10-24",
-      "last_tg": "2026-11-14",
-      "live": {
-        "match": 521227818,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "The_Fury"
-      }
+      "last_tg": "2026-11-14"
     },
     {
       "profile_id": 2598146,
@@ -310,7 +309,12 @@
       "cur_tg": 1638,
       "max_tg": 1654,
       "last_tg": "2026-11-14",
-      "last_1v1": "2026-11-15"
+      "last_1v1": "2026-11-15",
+      "live": {
+        "match": 521231959,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 917863,
@@ -634,17 +638,12 @@
     {
       "profile_id": 3254820,
       "tag": "__Chino",
-      "cur_1v1": 1792,
+      "cur_1v1": 1807,
       "max_1v1": 2003,
       "cur_tg": 1459,
       "max_tg": 1490,
       "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-15",
-      "live": {
-        "match": 521231485,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-15"
     }
   ],
   "show_top": 45,
