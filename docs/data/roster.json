@@ -1,6 +1,6 @@
 {
   "name": "new Wave",
-  "updated_at": "2026-11-15T18:50:09Z",
+  "updated_at": "2026-11-15T18:55:08Z",
   "baseline": {
     "taken_at": "2026-11-15T14:00:14Z",
     "ranks": {
@@ -42,7 +42,7 @@
       "profile_id": 914665,
       "tag": "Caguamas",
       "country": "Mexico",
-      "cur_1v1": 2230,
+      "cur_1v1": 2224,
       "max_1v1": 2268,
       "cur_tg": 1824,
       "max_tg": 2024,
