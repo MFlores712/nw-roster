@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-15T02:10:11Z",
+  "updated_at": "2026-11-15T02:15:10Z",
   "baseline": {
     "taken_at": "2026-11-14T14:00:13Z",
     "ranks": {
@@ -304,17 +304,12 @@
       "profile_id": 13138746,
       "tag": "FraKTal",
       "clan": "hK",
-      "cur_1v1": 2152,
+      "cur_1v1": 2167,
       "max_1v1": 2233,
       "cur_tg": 1949,
       "max_tg": 2010,
-      "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-14",
-      "live": {
-        "match": 521242349,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-15",
+      "last_tg": "2026-11-14"
     },
     {
       "profile_id": 5803221,
@@ -590,7 +585,13 @@
       "cur_tg": 1839,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-11-14"
+      "last_tg": "2026-11-14",
+      "live": {
+        "match": 521244814,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "EXILE | Onichan Nya"
+      }
     },
     {
       "profile_id": 12472496,
