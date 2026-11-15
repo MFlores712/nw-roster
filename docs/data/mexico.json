@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-15T19:30:12Z",
+  "updated_at": "2026-11-15T19:35:08Z",
   "baseline": {
     "taken_at": "2026-11-15T14:00:14Z",
     "ranks": {
@@ -157,7 +157,7 @@
       "last_tg": "2026-10-27",
       "last_1v1": "2026-10-31",
       "live": {
-        "match": 521430731,
+        "match": 521438970,
         "game": "Unranked",
         "format": "1v1"
       }
@@ -288,17 +288,12 @@
       "profile_id": 914665,
       "tag": "Caguamas",
       "clan": "nW",
-      "cur_1v1": 2224,
+      "cur_1v1": 2233,
       "max_1v1": 2268,
       "cur_tg": 1824,
       "max_tg": 2024,
       "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-15",
-      "live": {
-        "match": 521431282,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-15"
     },
     {
       "profile_id": 757886,
@@ -468,7 +463,7 @@
       "last_1v1": "2026-11-15",
       "last_tg": "2026-11-09",
       "live": {
-        "match": 521430731,
+        "match": 521438970,
         "game": "Unranked",
         "format": "1v1"
       }
@@ -588,6 +583,17 @@
       "last_1v1": "2026-09-18"
     },
     {
+      "profile_id": 13241217,
+      "tag": "BlueUltra",
+      "clan": "Ux",
+      "cur_1v1": 1918,
+      "max_1v1": 1997,
+      "cur_tg": 1723,
+      "max_tg": 1737,
+      "last_1v1": "2026-11-15",
+      "last_tg": "2026-11-14"
+    },
+    {
       "profile_id": 324005,
       "tag": "Dry",
       "clan": "VN",
@@ -608,22 +614,6 @@
       "max_tg": 1805,
       "last_tg": "2026-11-13",
       "last_1v1": "2026-10-16"
-    },
-    {
-      "profile_id": 13241217,
-      "tag": "BlueUltra",
-      "clan": "Ux",
-      "cur_1v1": 1908,
-      "max_1v1": 1997,
-      "cur_tg": 1723,
-      "max_tg": 1737,
-      "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-14",
-      "live": {
-        "match": 521434077,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 3254820,
