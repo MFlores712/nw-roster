@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-16T17:45:23Z",
+  "updated_at": "2026-11-16T17:50:11Z",
   "baseline": {
     "taken_at": "2026-11-16T14:00:16Z",
     "ranks": {
@@ -290,15 +290,10 @@
       "clan": "VN",
       "cur_1v1": 2189,
       "max_1v1": 2301,
-      "cur_tg": 1973,
+      "cur_tg": 1977,
       "max_tg": 2050,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-14",
-      "live": {
-        "match": 521640350,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-16"
     },
     {
       "profile_id": 13138746,
@@ -377,15 +372,10 @@
       "clan": "SotC",
       "cur_1v1": 2054,
       "max_1v1": 2098,
-      "cur_tg": 1695,
+      "cur_tg": 1671,
       "max_tg": 1870,
       "last_1v1": "2026-10-31",
-      "last_tg": "2026-11-14",
-      "live": {
-        "match": 521637567,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-16"
     },
     {
       "profile_id": 2934597,
@@ -623,15 +613,10 @@
       "clan": "SotC",
       "cur_1v1": 1818,
       "max_1v1": 2039,
-      "cur_tg": 1739,
+      "cur_tg": 1714,
       "max_tg": 1888,
       "last_1v1": "2026-11-12",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 521637567,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-16"
     }
   ],
   "show_top": 45,
