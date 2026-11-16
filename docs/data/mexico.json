@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-16T17:30:14Z",
+  "updated_at": "2026-11-16T17:40:11Z",
   "baseline": {
     "taken_at": "2026-11-16T14:00:16Z",
     "ranks": {
@@ -79,7 +79,12 @@
       "cur_tg": 2152,
       "max_tg": 2169,
       "last_tg": "2026-10-08",
-      "last_1v1": "2026-11-16"
+      "last_1v1": "2026-11-16",
+      "live": {
+        "match": 521639876,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2920057,
@@ -259,6 +264,16 @@
       "last_tg": "2026-11-15"
     },
     {
+      "profile_id": 5803221,
+      "tag": "Mahmoud Ahmadinejad",
+      "cur_1v1": 2237,
+      "max_1v1": 2237,
+      "cur_tg": 1638,
+      "max_tg": 1654,
+      "last_tg": "2026-11-14",
+      "last_1v1": "2026-11-16"
+    },
+    {
       "profile_id": 914665,
       "tag": "Caguamas",
       "clan": "nW",
@@ -270,21 +285,6 @@
       "last_tg": "2026-11-15"
     },
     {
-      "profile_id": 5803221,
-      "tag": "Mahmoud Ahmadinejad",
-      "cur_1v1": 2222,
-      "max_1v1": 2222,
-      "cur_tg": 1638,
-      "max_tg": 1654,
-      "last_tg": "2026-11-14",
-      "last_1v1": "2026-11-16",
-      "live": {
-        "match": 521636663,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 757886,
       "tag": "DarK_KnighT_",
       "clan": "VN",
@@ -293,7 +293,12 @@
       "cur_tg": 1973,
       "max_tg": 2050,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-14"
+      "last_tg": "2026-11-14",
+      "live": {
+        "match": 521640350,
+        "game": "Team Random Map",
+        "format": "2v2"
+      }
     },
     {
       "profile_id": 13138746,
@@ -489,13 +494,7 @@
       "cur_tg": 1713,
       "max_tg": 1824,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 521635956,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "jax_teller"
-      }
+      "last_tg": "2026-11-16"
     },
     {
       "profile_id": 2291749,
