@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-16T13:15:10Z",
+  "updated_at": "2026-11-16T13:30:12Z",
   "baseline": {
     "taken_at": "2026-11-15T14:00:14Z",
     "ranks": {
@@ -335,6 +335,17 @@
       "last_tg": "2026-11-16"
     },
     {
+      "profile_id": 9770338,
+      "tag": "SynfonY",
+      "clan": "CL",
+      "cur_1v1": 2065,
+      "max_1v1": 2065,
+      "cur_tg": 1823,
+      "max_tg": 1962,
+      "last_1v1": "2026-11-16",
+      "last_tg": "2026-11-16"
+    },
+    {
       "profile_id": 400111,
       "tag": "Mibel",
       "clan": "VL",
@@ -355,22 +366,6 @@
       "max_tg": 1870,
       "last_1v1": "2026-10-31",
       "last_tg": "2026-11-14"
-    },
-    {
-      "profile_id": 9770338,
-      "tag": "SynfonY",
-      "clan": "CL",
-      "cur_1v1": 2046,
-      "max_1v1": 2054,
-      "cur_tg": 1823,
-      "max_tg": 1962,
-      "last_1v1": "2026-11-13",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 521595807,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 2934597,
