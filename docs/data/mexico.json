@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-16T19:10:10Z",
+  "updated_at": "2026-11-16T19:15:09Z",
   "baseline": {
     "taken_at": "2026-11-16T14:00:16Z",
     "ranks": {
@@ -114,7 +114,7 @@
       "last_1v1": "2026-11-16",
       "last_tg": "2026-11-13",
       "live": {
-        "match": 521653705,
+        "match": 521659776,
         "game": "Unranked",
         "format": "1v1"
       }
@@ -284,7 +284,7 @@
       "last_1v1": "2026-11-15",
       "last_tg": "2026-11-15",
       "live": {
-        "match": 521653705,
+        "match": 521659776,
         "game": "Unranked",
         "format": "1v1"
       }
@@ -382,15 +382,10 @@
       "clan": "SotC",
       "cur_1v1": 2054,
       "max_1v1": 2098,
-      "cur_tg": 1672,
+      "cur_tg": 1685,
       "max_tg": 1870,
       "last_1v1": "2026-10-31",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 521654035,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-16"
     },
     {
       "profile_id": 2934597,
@@ -513,21 +508,6 @@
       "last_1v1": "2026-10-13"
     },
     {
-      "profile_id": 2291749,
-      "tag": "Biner",
-      "cur_1v1": 1950,
-      "max_1v1": 2016,
-      "cur_tg": 1659,
-      "max_tg": 1688,
-      "last_1v1": "2026-11-16",
-      "last_tg": "2026-10-28",
-      "live": {
-        "match": 521656339,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 278380,
       "tag": "Lemoine",
       "clan": "VL",
@@ -549,6 +529,21 @@
       "last_tg": "2026-09-16"
     },
     {
+      "profile_id": 2291749,
+      "tag": "Biner",
+      "cur_1v1": 1931,
+      "max_1v1": 2016,
+      "cur_tg": 1659,
+      "max_tg": 1688,
+      "last_1v1": "2026-11-16",
+      "last_tg": "2026-10-28",
+      "live": {
+        "match": 521659778,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 2969449,
       "tag": "BetoxAOE",
       "clan": "VENÓN",
@@ -558,6 +553,22 @@
       "max_tg": 1821,
       "last_tg": "2026-10-16",
       "last_1v1": "2026-09-18"
+    },
+    {
+      "profile_id": 13215279,
+      "tag": "GO1_mx",
+      "clan": "MZTK",
+      "cur_1v1": 1911,
+      "max_1v1": 2093,
+      "cur_tg": 1700,
+      "max_tg": 1860,
+      "last_1v1": "2026-11-16",
+      "last_tg": "2026-11-09",
+      "live": {
+        "match": 521659581,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 13241217,
@@ -591,22 +602,6 @@
       "max_tg": 1805,
       "last_tg": "2026-11-13",
       "last_1v1": "2026-10-16"
-    },
-    {
-      "profile_id": 13215279,
-      "tag": "GO1_mx",
-      "clan": "MZTK",
-      "cur_1v1": 1896,
-      "max_1v1": 2093,
-      "cur_tg": 1700,
-      "max_tg": 1860,
-      "last_1v1": "2026-11-16",
-      "last_tg": "2026-11-09",
-      "live": {
-        "match": 521656327,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 3254820,
@@ -643,15 +638,10 @@
       "clan": "SotC",
       "cur_1v1": 1818,
       "max_1v1": 2039,
-      "cur_tg": 1712,
+      "cur_tg": 1724,
       "max_tg": 1888,
       "last_1v1": "2026-11-12",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 521654035,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-16"
     }
   ],
   "show_top": 45,
