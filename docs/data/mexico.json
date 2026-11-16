@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-16T23:10:11Z",
+  "updated_at": "2026-11-16T23:15:08Z",
   "baseline": {
     "taken_at": "2026-11-16T14:00:16Z",
     "ranks": {
@@ -226,22 +226,6 @@
       "last_seen": "2025-06-11"
     },
     {
-      "profile_id": 1485562,
-      "tag": "MrOsoVC8",
-      "clan": "VENÓN",
-      "cur_1v1": 2283,
-      "max_1v1": 2394,
-      "cur_tg": 1817,
-      "max_tg": 2099,
-      "last_1v1": "2026-11-16",
-      "last_tg": "2026-11-02",
-      "live": {
-        "match": 521707762,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 4412109,
       "tag": "HGB",
       "clan": "hK",
@@ -253,6 +237,17 @@
       "last_tg": "2026-11-16"
     },
     {
+      "profile_id": 1485562,
+      "tag": "MrOsoVC8",
+      "clan": "VENÓN",
+      "cur_1v1": 2261,
+      "max_1v1": 2394,
+      "cur_tg": 1817,
+      "max_tg": 2099,
+      "last_1v1": "2026-11-16",
+      "last_tg": "2026-11-02"
+    },
+    {
       "profile_id": 3816609,
       "tag": "iamkaito",
       "clan": "nW",
@@ -261,7 +256,12 @@
       "cur_tg": 1854,
       "max_tg": 1907,
       "last_1v1": "2026-11-16",
-      "last_tg": "2026-11-15"
+      "last_tg": "2026-11-15",
+      "live": {
+        "match": 521709843,
+        "game": "Unranked",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 914665,
@@ -607,17 +607,12 @@
     {
       "profile_id": 3254820,
       "tag": "__Chino",
-      "cur_1v1": 1865,
+      "cur_1v1": 1878,
       "max_1v1": 2003,
       "cur_tg": 1513,
       "max_tg": 1513,
       "last_1v1": "2026-11-16",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 521709138,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-16"
     },
     {
       "profile_id": 233625,
