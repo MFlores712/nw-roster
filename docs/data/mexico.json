@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-16T12:35:09Z",
+  "updated_at": "2026-11-16T12:55:09Z",
   "baseline": {
     "taken_at": "2026-11-15T14:00:14Z",
     "ranks": {
@@ -74,17 +74,12 @@
       "profile_id": 2776293,
       "tag": "Kingstone",
       "clan": "Oni",
-      "cur_1v1": 2656,
+      "cur_1v1": 2673,
       "max_1v1": 2867,
       "cur_tg": 2152,
       "max_tg": 2169,
       "last_tg": "2026-10-08",
-      "last_1v1": "2026-11-13",
-      "live": {
-        "match": 521590123,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-16"
     },
     {
       "profile_id": 2920057,
