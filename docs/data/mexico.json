@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-16T21:40:09Z",
+  "updated_at": "2026-11-16T21:45:10Z",
   "baseline": {
     "taken_at": "2026-11-16T14:00:16Z",
     "ranks": {
@@ -231,22 +231,6 @@
       "last_seen": "2025-06-11"
     },
     {
-      "profile_id": 1485562,
-      "tag": "MrOsoVC8",
-      "clan": "VENÓN",
-      "cur_1v1": 2280,
-      "max_1v1": 2394,
-      "cur_tg": 1817,
-      "max_tg": 2099,
-      "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-02",
-      "live": {
-        "match": 521690394,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 4412109,
       "tag": "HGB",
       "clan": "hK",
@@ -256,6 +240,22 @@
       "max_tg": 2083,
       "last_1v1": "2026-11-16",
       "last_tg": "2026-11-16"
+    },
+    {
+      "profile_id": 1485562,
+      "tag": "MrOsoVC8",
+      "clan": "VENÓN",
+      "cur_1v1": 2255,
+      "max_1v1": 2394,
+      "cur_tg": 1817,
+      "max_tg": 2099,
+      "last_1v1": "2026-11-16",
+      "last_tg": "2026-11-02",
+      "live": {
+        "match": 521693397,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 3816609,
@@ -359,17 +359,12 @@
       "profile_id": 2934597,
       "tag": "Sgt.Pepper",
       "clan": "nW",
-      "cur_1v1": 2056,
+      "cur_1v1": 2068,
       "max_1v1": 2210,
       "cur_tg": 1731,
       "max_tg": 1747,
       "last_1v1": "2026-11-16",
-      "last_tg": "2026-10-27",
-      "live": {
-        "match": 521685858,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-27"
     },
     {
       "profile_id": 400111,
@@ -451,7 +446,7 @@
       "last_1v1": "2026-11-16",
       "last_tg": "2026-10-28",
       "live": {
-        "match": 521687705,
+        "match": 521692904,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -636,12 +631,7 @@
       "cur_tg": 1725,
       "max_tg": 1888,
       "last_1v1": "2026-11-16",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 521687705,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-16"
     }
   ],
   "show_top": 45,
