@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-16T01:45:09Z",
+  "updated_at": "2026-11-16T01:50:09Z",
   "baseline": {
     "taken_at": "2026-11-15T14:00:14Z",
     "ranks": {
@@ -178,7 +178,13 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 521519279,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "hK | RanDoM"
+      }
     },
     {
       "profile_id": 12723994,
@@ -200,12 +206,7 @@
       "cur_tg": 1880,
       "max_tg": 1974,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-14",
-      "live": {
-        "match": 521512501,
-        "game": "Unranked",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-14"
     },
     {
       "profile_id": 9031952,
@@ -505,7 +506,12 @@
       "cur_tg": 1660,
       "max_tg": 1824,
       "last_tg": "2026-11-16",
-      "last_1v1": "2026-10-13"
+      "last_1v1": "2026-10-13",
+      "live": {
+        "match": 521519067,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 278380,
@@ -590,21 +596,6 @@
       "last_tg": "2026-11-09"
     },
     {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1831,
-      "max_1v1": 2003,
-      "cur_tg": 1499,
-      "max_tg": 1499,
-      "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 521515209,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 233625,
       "via": {
         "id": 21631461,
@@ -617,6 +608,16 @@
       "max_tg": 1871,
       "last_tg": "2026-09-28",
       "last_1v1": "2026-10-12"
+    },
+    {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1823,
+      "max_1v1": 2003,
+      "cur_tg": 1499,
+      "max_tg": 1499,
+      "last_1v1": "2026-11-16",
+      "last_tg": "2026-11-16"
     },
     {
       "profile_id": 2926018,
