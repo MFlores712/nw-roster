@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-16T07:45:11Z",
+  "updated_at": "2026-11-16T07:55:10Z",
   "baseline": {
     "taken_at": "2026-11-15T14:00:14Z",
     "ranks": {
@@ -285,6 +285,17 @@
       "last_1v1": "2026-11-16"
     },
     {
+      "profile_id": 13138746,
+      "tag": "FraKTal",
+      "clan": "hK",
+      "cur_1v1": 2191,
+      "max_1v1": 2233,
+      "cur_tg": 1949,
+      "max_tg": 2010,
+      "last_1v1": "2026-11-16",
+      "last_tg": "2026-11-14"
+    },
+    {
       "profile_id": 757886,
       "tag": "DarK_KnighT_",
       "clan": "VN",
@@ -294,22 +305,6 @@
       "max_tg": 2050,
       "last_1v1": "2026-11-14",
       "last_tg": "2026-11-14"
-    },
-    {
-      "profile_id": 13138746,
-      "tag": "FraKTal",
-      "clan": "hK",
-      "cur_1v1": 2167,
-      "max_1v1": 2233,
-      "cur_tg": 1949,
-      "max_tg": 2010,
-      "last_1v1": "2026-11-16",
-      "last_tg": "2026-11-14",
-      "live": {
-        "match": 521562953,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 917863,
