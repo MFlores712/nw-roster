@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-16T02:05:15Z",
+  "updated_at": "2026-11-16T02:30:14Z",
   "baseline": {
     "taken_at": "2026-11-15T14:00:14Z",
     "ranks": {
@@ -173,7 +173,13 @@
       "cur_tg": 1800,
       "max_tg": 1893,
       "last_tg": "2026-11-12",
-      "last_1v1": "2026-11-13"
+      "last_1v1": "2026-11-13",
+      "live": {
+        "match": 521525750,
+        "game": "Unranked",
+        "format": "4v4",
+        "account": "GDL Kevin"
+      }
     },
     {
       "profile_id": 12722189,
@@ -192,7 +198,7 @@
       "clan": "AiM",
       "cur_1v1": 1716,
       "max_1v1": 1903,
-      "cur_tg": 1409,
+      "cur_tg": 1391,
       "max_tg": 1630,
       "last_1v1": "2026-11-15",
       "last_tg": "2026-11-16",
