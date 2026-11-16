@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-16T23:35:09Z",
+  "updated_at": "2026-11-16T23:40:09Z",
   "baseline": {
     "taken_at": "2026-11-16T14:00:16Z",
     "ranks": {
@@ -87,15 +87,10 @@
       "clan": "Ux",
       "cur_1v1": 2667,
       "max_1v1": 2685,
-      "cur_tg": 2203,
+      "cur_tg": 2182,
       "max_tg": 2203,
       "last_1v1": "2026-11-16",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 521711841,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-11-16"
     },
     {
       "profile_id": 13099159,
@@ -114,15 +109,10 @@
       "clan": "VENÓN",
       "cur_1v1": 2603,
       "max_1v1": 2603,
-      "cur_tg": 2128,
+      "cur_tg": 2146,
       "max_tg": 2151,
       "last_1v1": "2026-11-16",
-      "last_tg": "2026-11-13",
-      "live": {
-        "match": 521711841,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-11-16"
     },
     {
       "profile_id": 401359,
@@ -152,15 +142,10 @@
       "clan": "VENÓN",
       "cur_1v1": 2409,
       "max_1v1": 2409,
-      "cur_tg": 2200,
+      "cur_tg": 2215,
       "max_tg": 2227,
-      "last_tg": "2026-10-27",
-      "last_1v1": "2026-10-31",
-      "live": {
-        "match": 521711841,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-11-16",
+      "last_1v1": "2026-10-31"
     },
     {
       "profile_id": 2295504,
@@ -257,15 +242,10 @@
       "clan": "VENÓN",
       "cur_1v1": 2261,
       "max_1v1": 2394,
-      "cur_tg": 1817,
+      "cur_tg": 1844,
       "max_tg": 2099,
       "last_1v1": "2026-11-16",
-      "last_tg": "2026-11-02",
-      "live": {
-        "match": 521711841,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-11-16"
     },
     {
       "profile_id": 3816609,
@@ -276,12 +256,7 @@
       "cur_tg": 1854,
       "max_tg": 1907,
       "last_1v1": "2026-11-16",
-      "last_tg": "2026-11-15",
-      "live": {
-        "match": 521709843,
-        "game": "Unranked",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-15"
     },
     {
       "profile_id": 914665,
