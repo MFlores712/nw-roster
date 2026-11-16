@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-16T03:55:09Z",
+  "updated_at": "2026-11-16T04:00:13Z",
   "baseline": {
     "taken_at": "2026-11-15T14:00:14Z",
     "ranks": {
@@ -287,7 +287,12 @@
       "cur_tg": 1638,
       "max_tg": 1654,
       "last_tg": "2026-11-14",
-      "last_1v1": "2026-11-16"
+      "last_1v1": "2026-11-16",
+      "live": {
+        "match": 521540252,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 757886,
@@ -311,7 +316,7 @@
       "last_1v1": "2026-11-16",
       "last_tg": "2026-11-14",
       "live": {
-        "match": 521540018,
+        "match": 521540509,
         "game": "Unranked",
         "format": "1v1"
       }
@@ -349,15 +354,10 @@
       "clan": "Ux",
       "cur_1v1": 2075,
       "max_1v1": 2124,
-      "cur_tg": 1639,
+      "cur_tg": 1622,
       "max_tg": 1820,
       "last_1v1": "2026-11-03",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 521537417,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-16"
     },
     {
       "profile_id": 400111,
@@ -463,15 +463,10 @@
       "clan": "VENÓN",
       "cur_1v1": 1963,
       "max_1v1": 2013,
-      "cur_tg": 1611,
+      "cur_tg": 1630,
       "max_tg": 1798,
       "last_1v1": "2026-09-29",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 521537417,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-16"
     },
     {
       "profile_id": 4764520,
