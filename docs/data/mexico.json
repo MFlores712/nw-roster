@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-16T20:40:07Z",
+  "updated_at": "2026-11-16T20:55:09Z",
   "baseline": {
     "taken_at": "2026-11-16T14:00:16Z",
     "ranks": {
@@ -492,6 +492,16 @@
       "last_tg": "2026-11-16"
     },
     {
+      "profile_id": 2291749,
+      "tag": "Biner",
+      "cur_1v1": 1955,
+      "max_1v1": 2016,
+      "cur_tg": 1659,
+      "max_tg": 1688,
+      "last_1v1": "2026-11-16",
+      "last_tg": "2026-10-28"
+    },
+    {
       "profile_id": 2986966,
       "tag": "JPGP",
       "clan": "VL",
@@ -522,21 +532,6 @@
       "max_tg": 1755,
       "last_1v1": "2026-09-16",
       "last_tg": "2026-09-16"
-    },
-    {
-      "profile_id": 2291749,
-      "tag": "Biner",
-      "cur_1v1": 1940,
-      "max_1v1": 2016,
-      "cur_tg": 1659,
-      "max_tg": 1688,
-      "last_1v1": "2026-11-16",
-      "last_tg": "2026-10-28",
-      "live": {
-        "match": 521676800,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 2969449,
