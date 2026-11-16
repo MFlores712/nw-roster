@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-16T00:40:10Z",
+  "updated_at": "2026-11-16T00:55:09Z",
   "baseline": {
     "taken_at": "2026-11-15T14:00:14Z",
     "ranks": {
@@ -65,15 +65,10 @@
       "clan": "Ux",
       "cur_1v1": 2663,
       "max_1v1": 2790,
-      "cur_tg": 1685,
+      "cur_tg": 1669,
       "max_tg": 1885,
       "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 521501680,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-16"
     },
     {
       "profile_id": 2776293,
@@ -305,17 +300,12 @@
       "profile_id": 13138746,
       "tag": "FraKTal",
       "clan": "hK",
-      "cur_1v1": 2150,
+      "cur_1v1": 2157,
       "max_1v1": 2233,
       "cur_tg": 1949,
       "max_tg": 2010,
       "last_1v1": "2026-11-16",
-      "last_tg": "2026-11-14",
-      "live": {
-        "match": 521507168,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-14"
     },
     {
       "profile_id": 917863,
@@ -376,14 +366,14 @@
       "profile_id": 2934597,
       "tag": "Sgt.Pepper",
       "clan": "nW",
-      "cur_1v1": 2050,
+      "cur_1v1": 2046,
       "max_1v1": 2210,
       "cur_tg": 1731,
       "max_tg": 1747,
       "last_1v1": "2026-11-16",
       "last_tg": "2026-10-27",
       "live": {
-        "match": 521503190,
+        "match": 521510058,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -535,7 +525,7 @@
       "last_tg": "2026-11-12",
       "last_1v1": "2026-11-14",
       "live": {
-        "match": 521503978,
+        "match": 521509748,
         "game": "Team Random Map",
         "format": "4v4",
         "account": "VL Formolin"
@@ -611,10 +601,10 @@
       "tag": "__Chino",
       "cur_1v1": 1831,
       "max_1v1": 2003,
-      "cur_tg": 1459,
+      "cur_tg": 1471,
       "max_tg": 1490,
       "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-15",
+      "last_tg": "2026-11-16",
       "live": {
         "match": 521505609,
         "game": "Team Random Map",
