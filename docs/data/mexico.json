@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-16T19:50:09Z",
+  "updated_at": "2026-11-16T19:55:20Z",
   "baseline": {
     "taken_at": "2026-11-16T14:00:16Z",
     "ranks": {
@@ -170,6 +170,22 @@
       "last_tg": "2026-11-13"
     },
     {
+      "profile_id": 580573,
+      "tag": "Puerco Black",
+      "clan": "hK",
+      "cur_1v1": 2353,
+      "max_1v1": 2354,
+      "cur_tg": 1880,
+      "max_tg": 1974,
+      "last_1v1": "2026-11-16",
+      "last_tg": "2026-11-14",
+      "live": {
+        "match": 521667452,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 312774,
       "tag": "Keno_",
       "clan": "hK",
@@ -190,22 +206,6 @@
       "max_tg": 1959,
       "last_tg": "2026-11-08",
       "last_1v1": "2026-11-09"
-    },
-    {
-      "profile_id": 580573,
-      "tag": "Puerco Black",
-      "clan": "hK",
-      "cur_1v1": 2331,
-      "max_1v1": 2354,
-      "cur_tg": 1880,
-      "max_tg": 1974,
-      "last_1v1": "2026-11-16",
-      "last_tg": "2026-11-14",
-      "live": {
-        "match": 521667452,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 9031952,
@@ -290,7 +290,7 @@
       "clan": "VN",
       "cur_1v1": 2189,
       "max_1v1": 2301,
-      "cur_tg": 1960,
+      "cur_tg": 1939,
       "max_tg": 2050,
       "last_1v1": "2026-11-14",
       "last_tg": "2026-11-16"
@@ -361,9 +361,9 @@
       "last_1v1": "2026-06-27",
       "last_tg": "2026-11-16",
       "live": {
-        "match": 521664292,
+        "match": 521668045,
         "game": "Team Random Map",
-        "format": "4v4"
+        "format": "3v3"
       }
     },
     {
@@ -581,17 +581,12 @@
       "profile_id": 13215279,
       "tag": "GO1_mx",
       "clan": "MZTK",
-      "cur_1v1": 1893,
+      "cur_1v1": 1905,
       "max_1v1": 2093,
       "cur_tg": 1700,
       "max_tg": 1860,
       "last_1v1": "2026-11-16",
-      "last_tg": "2026-11-09",
-      "live": {
-        "match": 521665212,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-09"
     },
     {
       "profile_id": 3254820,
