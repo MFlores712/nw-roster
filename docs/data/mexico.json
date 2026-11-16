@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-16T17:50:11Z",
+  "updated_at": "2026-11-16T18:00:15Z",
   "baseline": {
     "taken_at": "2026-11-16T14:00:16Z",
     "ranks": {
@@ -74,7 +74,7 @@
       "profile_id": 2776293,
       "tag": "Kingstone",
       "clan": "Oni",
-      "cur_1v1": 2672,
+      "cur_1v1": 2668,
       "max_1v1": 2867,
       "cur_tg": 2152,
       "max_tg": 2169,
@@ -293,7 +293,12 @@
       "cur_tg": 1977,
       "max_tg": 2050,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-16"
+      "last_tg": "2026-11-16",
+      "live": {
+        "match": 521644195,
+        "game": "Team Random Map",
+        "format": "2v2"
+      }
     },
     {
       "profile_id": 13138746,
@@ -375,7 +380,12 @@
       "cur_tg": 1671,
       "max_tg": 1870,
       "last_1v1": "2026-10-31",
-      "last_tg": "2026-11-16"
+      "last_tg": "2026-11-16",
+      "live": {
+        "match": 521644031,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 2934597,
@@ -616,7 +626,12 @@
       "cur_tg": 1714,
       "max_tg": 1888,
       "last_1v1": "2026-11-12",
-      "last_tg": "2026-11-16"
+      "last_tg": "2026-11-16",
+      "live": {
+        "match": 521644031,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     }
   ],
   "show_top": 45,
