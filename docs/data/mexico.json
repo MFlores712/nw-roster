@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-16T06:55:10Z",
+  "updated_at": "2026-11-16T07:00:15Z",
   "baseline": {
     "taken_at": "2026-11-15T14:00:14Z",
     "ranks": {
@@ -90,13 +90,7 @@
       "cur_tg": 2200,
       "max_tg": 2200,
       "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-15",
-      "live": {
-        "match": 521549232,
-        "game": "Team Random Map",
-        "format": "2v2",
-        "account": "Ux'Auu"
-      }
+      "last_tg": "2026-11-15"
     },
     {
       "profile_id": 13099159,
@@ -109,7 +103,7 @@
       "last_1v1": "2026-11-11",
       "last_tg": "2026-11-16",
       "live": {
-        "match": 521557680,
+        "match": 521559724,
         "game": "Team Random Map",
         "format": "4v4"
       }
@@ -365,7 +359,7 @@
       "last_1v1": "2026-11-03",
       "last_tg": "2026-11-16",
       "live": {
-        "match": 521557680,
+        "match": 521559724,
         "game": "Team Random Map",
         "format": "4v4"
       }
@@ -531,12 +525,7 @@
       "cur_tg": 1645,
       "max_tg": 1824,
       "last_tg": "2026-11-16",
-      "last_1v1": "2026-10-13",
-      "live": {
-        "match": 521551369,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_1v1": "2026-10-13"
     },
     {
       "profile_id": 278380,
