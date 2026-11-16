@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-16T16:20:12Z",
+  "updated_at": "2026-11-16T16:25:08Z",
   "baseline": {
     "taken_at": "2026-11-16T14:00:16Z",
     "ranks": {
@@ -198,22 +198,6 @@
       "last_1v1": "2026-11-09"
     },
     {
-      "profile_id": 580573,
-      "tag": "Puerco Black",
-      "clan": "hK",
-      "cur_1v1": 2322,
-      "max_1v1": 2354,
-      "cur_tg": 1880,
-      "max_tg": 1974,
-      "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-14",
-      "live": {
-        "match": 521625510,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 9031952,
       "tag": "ChossMx",
       "clan": "hK",
@@ -223,6 +207,17 @@
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
       "last_tg": "2026-11-08"
+    },
+    {
+      "profile_id": 580573,
+      "tag": "Puerco Black",
+      "clan": "hK",
+      "cur_1v1": 2310,
+      "max_1v1": 2354,
+      "cur_tg": 1880,
+      "max_tg": 1974,
+      "last_1v1": "2026-11-16",
+      "last_tg": "2026-11-14"
     },
     {
       "profile_id": 9666666,
@@ -582,7 +577,12 @@
       "cur_tg": 1677,
       "max_tg": 1737,
       "last_1v1": "2026-11-16",
-      "last_tg": "2026-11-15"
+      "last_tg": "2026-11-15",
+      "live": {
+        "match": 521626869,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 13215279,
