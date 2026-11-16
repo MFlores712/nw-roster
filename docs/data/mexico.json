@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-16T06:15:08Z",
+  "updated_at": "2026-11-16T06:20:09Z",
   "baseline": {
     "taken_at": "2026-11-15T14:00:14Z",
     "ranks": {
@@ -350,7 +350,7 @@
       "clan": "Ux",
       "cur_1v1": 2075,
       "max_1v1": 2124,
-      "cur_tg": 1671,
+      "cur_tg": 1685,
       "max_tg": 1820,
       "last_1v1": "2026-11-03",
       "last_tg": "2026-11-16",
@@ -602,7 +602,7 @@
       "profile_id": 13215279,
       "tag": "GO1_mx",
       "clan": "MZTK",
-      "cur_1v1": 1896,
+      "cur_1v1": 1892,
       "max_1v1": 2093,
       "cur_tg": 1700,
       "max_tg": 1860,
