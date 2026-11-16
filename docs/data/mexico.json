@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-16T05:05:08Z",
+  "updated_at": "2026-11-16T05:10:10Z",
   "baseline": {
     "taken_at": "2026-11-15T14:00:14Z",
     "ranks": {
@@ -92,7 +92,7 @@
       "last_1v1": "2026-11-15",
       "last_tg": "2026-11-15",
       "live": {
-        "match": 521546010,
+        "match": 521549232,
         "game": "Team Random Map",
         "format": "2v2",
         "account": "Ux'Auu"
@@ -459,7 +459,7 @@
       "clan": "VENÓN",
       "cur_1v1": 1963,
       "max_1v1": 2013,
-      "cur_tg": 1640,
+      "cur_tg": 1631,
       "max_tg": 1798,
       "last_1v1": "2026-09-29",
       "last_tg": "2026-11-16",
