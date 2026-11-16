@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-16T22:20:10Z",
+  "updated_at": "2026-11-16T22:30:11Z",
   "baseline": {
     "taken_at": "2026-11-16T14:00:16Z",
     "ranks": {
@@ -239,7 +239,12 @@
       "cur_tg": 1817,
       "max_tg": 2099,
       "last_1v1": "2026-11-16",
-      "last_tg": "2026-11-02"
+      "last_tg": "2026-11-02",
+      "live": {
+        "match": 521702534,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 4412109,
@@ -489,14 +494,14 @@
     {
       "profile_id": 2291749,
       "tag": "Biner",
-      "cur_1v1": 1957,
+      "cur_1v1": 1956,
       "max_1v1": 2016,
       "cur_tg": 1659,
       "max_tg": 1688,
       "last_1v1": "2026-11-16",
       "last_tg": "2026-10-28",
       "live": {
-        "match": 521699629,
+        "match": 521702701,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -534,6 +539,17 @@
       "last_tg": "2026-09-16"
     },
     {
+      "profile_id": 13215279,
+      "tag": "GO1_mx",
+      "clan": "MZTK",
+      "cur_1v1": 1934,
+      "max_1v1": 2093,
+      "cur_tg": 1700,
+      "max_tg": 1860,
+      "last_1v1": "2026-11-16",
+      "last_tg": "2026-11-09"
+    },
+    {
       "profile_id": 2969449,
       "tag": "BetoxAOE",
       "clan": "VENÓN",
@@ -543,22 +559,6 @@
       "max_tg": 1821,
       "last_tg": "2026-10-16",
       "last_1v1": "2026-09-18"
-    },
-    {
-      "profile_id": 13215279,
-      "tag": "GO1_mx",
-      "clan": "MZTK",
-      "cur_1v1": 1920,
-      "max_1v1": 2093,
-      "cur_tg": 1700,
-      "max_tg": 1860,
-      "last_1v1": "2026-11-16",
-      "last_tg": "2026-11-09",
-      "live": {
-        "match": 521695095,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 13241217,
