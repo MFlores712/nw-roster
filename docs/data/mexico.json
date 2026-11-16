@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-16T16:30:11Z",
+  "updated_at": "2026-11-16T16:35:08Z",
   "baseline": {
     "taken_at": "2026-11-16T14:00:16Z",
     "ranks": {
@@ -304,7 +304,12 @@
       "cur_tg": 1949,
       "max_tg": 2010,
       "last_1v1": "2026-11-16",
-      "last_tg": "2026-11-14"
+      "last_tg": "2026-11-14",
+      "live": {
+        "match": 521628900,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 757886,
@@ -490,13 +495,7 @@
       "cur_tg": 1713,
       "max_tg": 1824,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 521625711,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "jax_teller"
-      }
+      "last_tg": "2026-11-16"
     },
     {
       "profile_id": 2291749,
