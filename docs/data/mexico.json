@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-16T21:45:10Z",
+  "updated_at": "2026-11-16T21:50:09Z",
   "baseline": {
     "taken_at": "2026-11-16T14:00:16Z",
     "ranks": {
@@ -68,7 +68,12 @@
       "cur_tg": 1654,
       "max_tg": 1885,
       "last_1v1": "2026-11-16",
-      "last_tg": "2026-11-16"
+      "last_tg": "2026-11-16",
+      "live": {
+        "match": 521694823,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2776293,
@@ -85,17 +90,12 @@
       "profile_id": 2920057,
       "tag": "Lobo",
       "clan": "Ux",
-      "cur_1v1": 2654,
+      "cur_1v1": 2663,
       "max_1v1": 2685,
       "cur_tg": 2200,
       "max_tg": 2200,
       "last_1v1": "2026-11-16",
-      "last_tg": "2026-11-15",
-      "live": {
-        "match": 521689717,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-15"
     },
     {
       "profile_id": 13099159,
@@ -372,7 +372,7 @@
       "clan": "VL",
       "cur_1v1": 2055,
       "max_1v1": 2089,
-      "cur_tg": 1798,
+      "cur_tg": 1818,
       "max_tg": 1919,
       "last_1v1": "2026-06-27",
       "last_tg": "2026-11-16",
@@ -439,14 +439,14 @@
     {
       "profile_id": 2291749,
       "tag": "Biner",
-      "cur_1v1": 1981,
+      "cur_1v1": 1970,
       "max_1v1": 2016,
       "cur_tg": 1659,
       "max_tg": 1688,
       "last_1v1": "2026-11-16",
       "last_tg": "2026-10-28",
       "live": {
-        "match": 521692904,
+        "match": 521694843,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
