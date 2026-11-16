@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-16T03:30:11Z",
+  "updated_at": "2026-11-16T03:35:08Z",
   "baseline": {
     "taken_at": "2026-11-15T14:00:14Z",
     "ranks": {
@@ -134,7 +134,12 @@
       "cur_tg": 2031,
       "max_tg": 2104,
       "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-16"
+      "last_tg": "2026-11-16",
+      "live": {
+        "match": 521536845,
+        "game": "Team Random Map",
+        "format": "2v2"
+      }
     },
     {
       "profile_id": 2598146,
@@ -245,7 +250,12 @@
       "cur_tg": 2031,
       "max_tg": 2083,
       "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-16"
+      "last_tg": "2026-11-16",
+      "live": {
+        "match": 521536845,
+        "game": "Team Random Map",
+        "format": "2v2"
+      }
     },
     {
       "profile_id": 3816609,
@@ -323,7 +333,7 @@
       "last_1v1": "2026-07-08",
       "last_tg": "2026-10-21",
       "live": {
-        "match": 521531800,
+        "match": 521536767,
         "game": "Unranked",
         "format": "1v1"
       }
@@ -334,15 +344,10 @@
       "clan": "Ux",
       "cur_1v1": 2075,
       "max_1v1": 2124,
-      "cur_tg": 1645,
+      "cur_tg": 1639,
       "max_tg": 1820,
       "last_1v1": "2026-11-03",
-      "last_tg": "2026-11-14",
-      "live": {
-        "match": 521531807,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-16"
     },
     {
       "profile_id": 400111,
@@ -350,7 +355,7 @@
       "clan": "VL",
       "cur_1v1": 2055,
       "max_1v1": 2089,
-      "cur_tg": 1863,
+      "cur_tg": 1867,
       "max_tg": 1919,
       "last_1v1": "2026-06-27",
       "last_tg": "2026-11-16",
@@ -453,15 +458,10 @@
       "clan": "VENÓN",
       "cur_1v1": 1963,
       "max_1v1": 2013,
-      "cur_tg": 1626,
+      "cur_tg": 1611,
       "max_tg": 1798,
       "last_1v1": "2026-09-29",
-      "last_tg": "2026-11-10",
-      "live": {
-        "match": 521534978,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-16"
     },
     {
       "profile_id": 4764520,
