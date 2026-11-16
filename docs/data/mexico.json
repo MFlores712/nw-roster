@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-16T19:45:11Z",
+  "updated_at": "2026-11-16T19:50:09Z",
   "baseline": {
     "taken_at": "2026-11-16T14:00:16Z",
     "ranks": {
@@ -200,7 +200,12 @@
       "cur_tg": 1880,
       "max_tg": 1974,
       "last_1v1": "2026-11-16",
-      "last_tg": "2026-11-14"
+      "last_tg": "2026-11-14",
+      "live": {
+        "match": 521667452,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 9031952,
@@ -288,12 +293,7 @@
       "cur_tg": 1960,
       "max_tg": 2050,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 521658293,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-16"
     },
     {
       "profile_id": 13138746,
@@ -356,7 +356,7 @@
       "clan": "VL",
       "cur_1v1": 2055,
       "max_1v1": 2089,
-      "cur_tg": 1843,
+      "cur_tg": 1849,
       "max_tg": 1919,
       "last_1v1": "2026-06-27",
       "last_tg": "2026-11-16",
@@ -372,15 +372,10 @@
       "clan": "SotC",
       "cur_1v1": 2054,
       "max_1v1": 2098,
-      "cur_tg": 1685,
+      "cur_tg": 1695,
       "max_tg": 1870,
       "last_1v1": "2026-10-31",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 521662229,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-16"
     },
     {
       "profile_id": 2934597,
@@ -444,7 +439,12 @@
       "cur_tg": 1659,
       "max_tg": 1688,
       "last_1v1": "2026-11-16",
-      "last_tg": "2026-10-28"
+      "last_tg": "2026-10-28",
+      "live": {
+        "match": 521667178,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 1249720,
@@ -601,12 +601,7 @@
       "cur_tg": 1499,
       "max_tg": 1499,
       "last_1v1": "2026-11-16",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 521663336,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-16"
     },
     {
       "profile_id": 233625,
@@ -628,15 +623,10 @@
       "clan": "SotC",
       "cur_1v1": 1818,
       "max_1v1": 2039,
-      "cur_tg": 1724,
+      "cur_tg": 1733,
       "max_tg": 1888,
       "last_1v1": "2026-11-12",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 521662229,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-16"
     }
   ],
   "show_top": 45,
