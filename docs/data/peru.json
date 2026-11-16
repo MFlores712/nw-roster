@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-16T16:50:09Z",
+  "updated_at": "2026-11-16T16:55:10Z",
   "baseline": {
     "taken_at": "2026-11-16T14:00:16Z",
     "ranks": {
@@ -127,7 +127,7 @@
     },
     {
       "profile_id": 6090060,
-      "tag": "Diaz",
+      "tag": "noru",
       "cur_1v1": 2031,
       "max_1v1": 2031,
       "cur_tg": 1820,
@@ -169,13 +169,7 @@
       "cur_tg": 1783,
       "max_tg": 1843,
       "last_tg": "2026-11-15",
-      "last_1v1": "2026-11-16",
-      "live": {
-        "match": 521631402,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "CTM | Lelouch ELO bajito"
-      }
+      "last_1v1": "2026-11-16"
     },
     {
       "profile_id": 4167535,
@@ -213,7 +207,7 @@
     {
       "profile_id": 3034651,
       "tag": "KinG of QUILLA",
-      "cur_1v1": 1879,
+      "cur_1v1": 1891,
       "max_1v1": 2035,
       "cur_tg": 1526,
       "max_tg": 1657,
