@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-16T17:40:11Z",
+  "updated_at": "2026-11-16T17:45:23Z",
   "baseline": {
     "taken_at": "2026-11-16T14:00:16Z",
     "ranks": {
@@ -306,12 +306,12 @@
       "clan": "hK",
       "cur_1v1": 2189,
       "max_1v1": 2233,
-      "cur_tg": 1956,
+      "cur_tg": 1932,
       "max_tg": 2010,
       "last_1v1": "2026-11-16",
       "last_tg": "2026-11-16",
       "live": {
-        "match": 521638309,
+        "match": 521641940,
         "game": "Team Random Map",
         "format": "4v4"
       }
