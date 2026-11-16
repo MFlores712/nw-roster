@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-16T07:10:14Z",
+  "updated_at": "2026-11-16T07:28:16Z",
   "baseline": {
     "taken_at": "2026-11-15T14:00:14Z",
     "ranks": {
@@ -98,31 +98,21 @@
       "clan": "Ux",
       "cur_1v1": 2648,
       "max_1v1": 2655,
-      "cur_tg": 1806,
+      "cur_tg": 1789,
       "max_tg": 1999,
       "last_1v1": "2026-11-11",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 521559724,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-16"
     },
     {
       "profile_id": 9449579,
       "tag": "Miauricio",
       "clan": "VENÓN",
-      "cur_1v1": 2602,
-      "max_1v1": 2602,
+      "cur_1v1": 2603,
+      "max_1v1": 2603,
       "cur_tg": 2128,
       "max_tg": 2151,
-      "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-13",
-      "live": {
-        "match": 521558843,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-16",
+      "last_tg": "2026-11-13"
     },
     {
       "profile_id": 401359,
@@ -309,14 +299,14 @@
       "profile_id": 13138746,
       "tag": "FraKTal",
       "clan": "hK",
-      "cur_1v1": 2141,
+      "cur_1v1": 2156,
       "max_1v1": 2233,
       "cur_tg": 1949,
       "max_tg": 2010,
       "last_1v1": "2026-11-16",
       "last_tg": "2026-11-14",
       "live": {
-        "match": 521560713,
+        "match": 521562063,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -349,15 +339,10 @@
       "clan": "Ux",
       "cur_1v1": 2075,
       "max_1v1": 2124,
-      "cur_tg": 1664,
+      "cur_tg": 1651,
       "max_tg": 1820,
       "last_1v1": "2026-11-03",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 521559724,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-16"
     },
     {
       "profile_id": 400111,
