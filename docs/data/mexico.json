@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-16T03:35:08Z",
+  "updated_at": "2026-11-16T03:45:15Z",
   "baseline": {
     "taken_at": "2026-11-15T14:00:14Z",
     "ranks": {
@@ -347,7 +347,12 @@
       "cur_tg": 1639,
       "max_tg": 1820,
       "last_1v1": "2026-11-03",
-      "last_tg": "2026-11-16"
+      "last_tg": "2026-11-16",
+      "live": {
+        "match": 521537417,
+        "game": "Team Random Map",
+        "format": "2v2"
+      }
     },
     {
       "profile_id": 400111,
@@ -358,12 +363,7 @@
       "cur_tg": 1867,
       "max_tg": 1919,
       "last_1v1": "2026-06-27",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 521534778,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-16"
     },
     {
       "profile_id": 1261126,
@@ -461,7 +461,12 @@
       "cur_tg": 1611,
       "max_tg": 1798,
       "last_1v1": "2026-09-29",
-      "last_tg": "2026-11-16"
+      "last_tg": "2026-11-16",
+      "live": {
+        "match": 521537417,
+        "game": "Team Random Map",
+        "format": "2v2"
+      }
     },
     {
       "profile_id": 4764520,
@@ -547,13 +552,7 @@
       "cur_tg": 1820,
       "max_tg": 1821,
       "last_tg": "2026-10-16",
-      "last_1v1": "2026-09-18",
-      "live": {
-        "match": 521533325,
-        "game": "Unranked",
-        "format": "4v4",
-        "account": "[GDL]BetoxAOE"
-      }
+      "last_1v1": "2026-09-18"
     },
     {
       "profile_id": 13241217,
@@ -602,14 +601,14 @@
     {
       "profile_id": 3254820,
       "tag": "__Chino",
-      "cur_1v1": 1844,
+      "cur_1v1": 1841,
       "max_1v1": 2003,
       "cur_tg": 1499,
       "max_tg": 1499,
       "last_1v1": "2026-11-16",
       "last_tg": "2026-11-16",
       "live": {
-        "match": 521534394,
+        "match": 521538153,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
