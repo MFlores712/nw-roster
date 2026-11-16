@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-16T18:40:10Z",
+  "updated_at": "2026-11-16T18:45:10Z",
   "baseline": {
     "taken_at": "2026-11-16T14:00:16Z",
     "ranks": {
@@ -135,15 +135,10 @@
       "tag": "noru",
       "cur_1v1": 2031,
       "max_1v1": 2031,
-      "cur_tg": 1821,
+      "cur_tg": 1805,
       "max_tg": 1840,
       "last_tg": "2026-11-16",
-      "last_1v1": "2026-09-24",
-      "live": {
-        "match": 521649003,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_1v1": "2026-09-24"
     },
     {
       "profile_id": 13518993,
@@ -170,17 +165,12 @@
       "profile_id": 4167535,
       "tag": "Dia franptom",
       "clan": "LE",
-      "cur_1v1": 1945,
+      "cur_1v1": 1957,
       "max_1v1": 2001,
       "cur_tg": 1453,
       "max_tg": 1581,
       "last_1v1": "2026-11-16",
-      "last_tg": "2026-11-07",
-      "live": {
-        "match": 521648577,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-07"
     },
     {
       "profile_id": 4210400,
@@ -206,7 +196,13 @@
       "cur_tg": 1783,
       "max_tg": 1843,
       "last_tg": "2026-11-15",
-      "last_1v1": "2026-11-16"
+      "last_1v1": "2026-11-16",
+      "live": {
+        "match": 521653425,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "CTM | Lelouch ELO bajito"
+      }
     },
     {
       "profile_id": 1865687,
