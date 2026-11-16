@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-16T04:50:09Z",
+  "updated_at": "2026-11-16T04:55:07Z",
   "baseline": {
     "taken_at": "2026-11-15T14:00:14Z",
     "ranks": {
@@ -240,7 +240,12 @@
       "cur_tg": 1817,
       "max_tg": 2099,
       "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-02"
+      "last_tg": "2026-11-02",
+      "live": {
+        "match": 521547375,
+        "game": "Unranked",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 4412109,
@@ -281,20 +286,9 @@
       "last_tg": "2026-11-15"
     },
     {
-      "profile_id": 757886,
-      "tag": "DarK_KnighT_",
-      "clan": "VN",
-      "cur_1v1": 2189,
-      "max_1v1": 2301,
-      "cur_tg": 1973,
-      "max_tg": 2050,
-      "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-14"
-    },
-    {
       "profile_id": 5803221,
       "tag": "Mahmoud Ahmadinejad",
-      "cur_1v1": 2188,
+      "cur_1v1": 2197,
       "max_1v1": 2208,
       "cur_tg": 1638,
       "max_tg": 1654,
@@ -307,6 +301,17 @@
       }
     },
     {
+      "profile_id": 757886,
+      "tag": "DarK_KnighT_",
+      "clan": "VN",
+      "cur_1v1": 2189,
+      "max_1v1": 2301,
+      "cur_tg": 1973,
+      "max_tg": 2050,
+      "last_1v1": "2026-11-14",
+      "last_tg": "2026-11-14"
+    },
+    {
       "profile_id": 13138746,
       "tag": "FraKTal",
       "clan": "hK",
@@ -315,7 +320,12 @@
       "cur_tg": 1949,
       "max_tg": 2010,
       "last_1v1": "2026-11-16",
-      "last_tg": "2026-11-14"
+      "last_tg": "2026-11-14",
+      "live": {
+        "match": 521547375,
+        "game": "Unranked",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 917863,
@@ -345,15 +355,10 @@
       "clan": "Ux",
       "cur_1v1": 2075,
       "max_1v1": 2124,
-      "cur_tg": 1622,
+      "cur_tg": 1600,
       "max_tg": 1820,
       "last_1v1": "2026-11-03",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 521541741,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-16"
     },
     {
       "profile_id": 400111,
@@ -467,7 +472,12 @@
       "cur_tg": 1640,
       "max_tg": 1798,
       "last_1v1": "2026-09-29",
-      "last_tg": "2026-11-16"
+      "last_tg": "2026-11-16",
+      "live": {
+        "match": 521547439,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 4764520,
