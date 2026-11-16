@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-16T18:05:09Z",
+  "updated_at": "2026-11-16T18:10:17Z",
   "baseline": {
     "taken_at": "2026-11-16T14:00:16Z",
     "ranks": {
@@ -43,14 +43,14 @@
     {
       "profile_id": 3216208,
       "tag": "Dimo",
-      "cur_1v1": 2543,
+      "cur_1v1": 2551,
       "max_1v1": 2583,
       "cur_tg": 1892,
       "max_tg": 1935,
       "last_1v1": "2026-11-16",
       "last_tg": "2026-11-02",
       "live": {
-        "match": 521644382,
+        "match": 521646707,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -196,7 +196,12 @@
       "cur_tg": 1453,
       "max_tg": 1581,
       "last_1v1": "2026-11-16",
-      "last_tg": "2026-11-07"
+      "last_tg": "2026-11-07",
+      "live": {
+        "match": 521646045,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 4210400,
@@ -223,17 +228,12 @@
     {
       "profile_id": 3034651,
       "tag": "KinG of QUILLA",
-      "cur_1v1": 1880,
+      "cur_1v1": 1868,
       "max_1v1": 2035,
       "cur_tg": 1526,
       "max_tg": 1657,
       "last_1v1": "2026-11-16",
-      "last_tg": "2026-10-26",
-      "live": {
-        "match": 521638955,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-26"
     },
     {
       "profile_id": 4234652,
