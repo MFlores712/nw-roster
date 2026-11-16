@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-16T21:00:15Z",
+  "updated_at": "2026-11-16T21:10:09Z",
   "baseline": {
     "taken_at": "2026-11-16T14:00:16Z",
     "ranks": {
@@ -190,6 +190,21 @@
       "last_tg": "2026-11-16"
     },
     {
+      "profile_id": 3034651,
+      "tag": "KinG of QUILLA",
+      "cur_1v1": 1899,
+      "max_1v1": 2035,
+      "cur_tg": 1526,
+      "max_tg": 1657,
+      "last_1v1": "2026-11-16",
+      "last_tg": "2026-10-26",
+      "live": {
+        "match": 521685563,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 2366434,
       "via": {
         "id": 3265324,
@@ -203,21 +218,6 @@
       "max_tg": 1843,
       "last_tg": "2026-11-15",
       "last_1v1": "2026-11-16"
-    },
-    {
-      "profile_id": 3034651,
-      "tag": "KinG of QUILLA",
-      "cur_1v1": 1881,
-      "max_1v1": 2035,
-      "cur_tg": 1526,
-      "max_tg": 1657,
-      "last_1v1": "2026-11-16",
-      "last_tg": "2026-10-26",
-      "live": {
-        "match": 521680183,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 4234652,
