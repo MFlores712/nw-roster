@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-16T00:55:09Z",
+  "updated_at": "2026-11-16T01:00:21Z",
   "baseline": {
     "taken_at": "2026-11-15T14:00:14Z",
     "ranks": {
@@ -283,7 +283,12 @@
       "cur_tg": 1638,
       "max_tg": 1654,
       "last_tg": "2026-11-14",
-      "last_1v1": "2026-11-15"
+      "last_1v1": "2026-11-15",
+      "live": {
+        "match": 521510881,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 757886,
@@ -485,13 +490,7 @@
       "cur_tg": 1711,
       "max_tg": 1824,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-11-14",
-      "live": {
-        "match": 521504702,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "jax_teller"
-      }
+      "last_tg": "2026-11-14"
     },
     {
       "profile_id": 2291749,
@@ -601,12 +600,12 @@
       "tag": "__Chino",
       "cur_1v1": 1831,
       "max_1v1": 2003,
-      "cur_tg": 1471,
+      "cur_tg": 1484,
       "max_tg": 1490,
       "last_1v1": "2026-11-15",
       "last_tg": "2026-11-16",
       "live": {
-        "match": 521505609,
+        "match": 521510982,
         "game": "Team Random Map",
         "format": "2v2"
       }
