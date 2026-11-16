@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-16T21:35:09Z",
+  "updated_at": "2026-11-16T21:40:09Z",
   "baseline": {
     "taken_at": "2026-11-16T14:00:16Z",
     "ranks": {
@@ -444,7 +444,7 @@
     {
       "profile_id": 2291749,
       "tag": "Biner",
-      "cur_1v1": 1972,
+      "cur_1v1": 1981,
       "max_1v1": 2016,
       "cur_tg": 1659,
       "max_tg": 1688,
@@ -631,11 +631,11 @@
       "profile_id": 2926018,
       "tag": "PerezPodrido",
       "clan": "SotC",
-      "cur_1v1": 1818,
+      "cur_1v1": 1809,
       "max_1v1": 2039,
       "cur_tg": 1725,
       "max_tg": 1888,
-      "last_1v1": "2026-11-12",
+      "last_1v1": "2026-11-16",
       "last_tg": "2026-11-16",
       "live": {
         "match": 521687705,
