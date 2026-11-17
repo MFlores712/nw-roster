@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-17T10:45:10Z",
+  "updated_at": "2026-11-17T10:50:10Z",
   "baseline": {
     "taken_at": "2026-11-16T14:00:16Z",
     "ranks": {
@@ -112,7 +112,13 @@
       "cur_tg": 2146,
       "max_tg": 2151,
       "last_1v1": "2026-11-16",
-      "last_tg": "2026-11-16"
+      "last_tg": "2026-11-16",
+      "live": {
+        "match": 521794042,
+        "game": "Team Random Map",
+        "format": "3v3",
+        "account": "[GDL] Chuchito"
+      }
     },
     {
       "profile_id": 401359,
@@ -302,6 +308,17 @@
       "last_tg": "2026-11-16"
     },
     {
+      "profile_id": 9770338,
+      "tag": "SynfonY",
+      "clan": "CL",
+      "cur_1v1": 2103,
+      "max_1v1": 2103,
+      "cur_tg": 1823,
+      "max_tg": 1962,
+      "last_1v1": "2026-11-17",
+      "last_tg": "2026-11-16"
+    },
+    {
       "profile_id": 917863,
       "tag": "Romell13",
       "clan": "hK",
@@ -311,22 +328,6 @@
       "max_tg": 1838,
       "last_1v1": "2026-11-14",
       "last_tg": "2026-11-05"
-    },
-    {
-      "profile_id": 9770338,
-      "tag": "SynfonY",
-      "clan": "CL",
-      "cur_1v1": 2095,
-      "max_1v1": 2095,
-      "cur_tg": 1823,
-      "max_tg": 1962,
-      "last_1v1": "2026-11-17",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 521793390,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 1947348,
