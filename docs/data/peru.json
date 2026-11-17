@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-17T00:55:08Z",
+  "updated_at": "2026-11-17T01:00:13Z",
   "baseline": {
     "taken_at": "2026-11-16T14:00:16Z",
     "ranks": {
@@ -173,22 +173,6 @@
       "last_1v1": "2026-10-01"
     },
     {
-      "profile_id": 4167535,
-      "tag": "Dia franptom",
-      "clan": "LE",
-      "cur_1v1": 1903,
-      "max_1v1": 2001,
-      "cur_tg": 1453,
-      "max_tg": 1581,
-      "last_1v1": "2026-11-17",
-      "last_tg": "2026-11-07",
-      "live": {
-        "match": 521725743,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 1865687,
       "tag": "Pentrus",
       "clan": "CTM",
@@ -198,6 +182,22 @@
       "max_tg": 1608,
       "last_1v1": "2026-09-19",
       "last_tg": "2026-11-16"
+    },
+    {
+      "profile_id": 4167535,
+      "tag": "Dia franptom",
+      "clan": "LE",
+      "cur_1v1": 1896,
+      "max_1v1": 2001,
+      "cur_tg": 1453,
+      "max_tg": 1581,
+      "last_1v1": "2026-11-17",
+      "last_tg": "2026-11-07",
+      "live": {
+        "match": 521728031,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2366434,
