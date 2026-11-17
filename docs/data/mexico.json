@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-17T00:45:10Z",
+  "updated_at": "2026-11-17T00:50:16Z",
   "baseline": {
     "taken_at": "2026-11-16T14:00:16Z",
     "ranks": {
@@ -139,7 +139,12 @@
       "cur_tg": 2065,
       "max_tg": 2104,
       "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-17"
+      "last_tg": "2026-11-17",
+      "live": {
+        "match": 521726018,
+        "game": "Team Random Map",
+        "format": "2v2"
+      }
     },
     {
       "profile_id": 2598146,
@@ -244,7 +249,12 @@
       "cur_tg": 2065,
       "max_tg": 2083,
       "last_1v1": "2026-11-16",
-      "last_tg": "2026-11-17"
+      "last_tg": "2026-11-17",
+      "live": {
+        "match": 521726018,
+        "game": "Team Random Map",
+        "format": "2v2"
+      }
     },
     {
       "profile_id": 1485562,
@@ -358,7 +368,12 @@
       "cur_tg": 1632,
       "max_tg": 1820,
       "last_1v1": "2026-11-03",
-      "last_tg": "2026-11-16"
+      "last_tg": "2026-11-16",
+      "live": {
+        "match": 521726455,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2934597,
@@ -453,6 +468,16 @@
       "last_tg": "2026-11-13"
     },
     {
+      "profile_id": 2291749,
+      "tag": "Biner",
+      "cur_1v1": 1964,
+      "max_1v1": 2016,
+      "cur_tg": 1659,
+      "max_tg": 1688,
+      "last_1v1": "2026-11-17",
+      "last_tg": "2026-10-28"
+    },
+    {
       "profile_id": 235877,
       "tag": "AsMelodiant",
       "clan": "VENÓN",
@@ -495,21 +520,6 @@
       "max_tg": 1824,
       "last_1v1": "2026-10-25",
       "last_tg": "2026-11-16"
-    },
-    {
-      "profile_id": 2291749,
-      "tag": "Biner",
-      "cur_1v1": 1952,
-      "max_1v1": 2016,
-      "cur_tg": 1659,
-      "max_tg": 1688,
-      "last_1v1": "2026-11-17",
-      "last_tg": "2026-10-28",
-      "live": {
-        "match": 521722157,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 2986966,
@@ -555,22 +565,6 @@
       "last_1v1": "2026-09-18"
     },
     {
-      "profile_id": 13215279,
-      "tag": "GO1_mx",
-      "clan": "MZTK",
-      "cur_1v1": 1912,
-      "max_1v1": 2093,
-      "cur_tg": 1700,
-      "max_tg": 1860,
-      "last_1v1": "2026-11-17",
-      "last_tg": "2026-11-09",
-      "live": {
-        "match": 521721353,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 13241217,
       "tag": "BlueUltra",
       "clan": "Ux",
@@ -602,6 +596,17 @@
       "max_tg": 1805,
       "last_tg": "2026-11-13",
       "last_1v1": "2026-10-16"
+    },
+    {
+      "profile_id": 13215279,
+      "tag": "GO1_mx",
+      "clan": "MZTK",
+      "cur_1v1": 1894,
+      "max_1v1": 2093,
+      "cur_tg": 1700,
+      "max_tg": 1860,
+      "last_1v1": "2026-11-17",
+      "last_tg": "2026-11-09"
     },
     {
       "profile_id": 3254820,
