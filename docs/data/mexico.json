@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-17T01:35:08Z",
+  "updated_at": "2026-11-17T01:40:09Z",
   "baseline": {
     "taken_at": "2026-11-16T14:00:16Z",
     "ranks": {
@@ -137,15 +137,10 @@
       "clan": "hK",
       "cur_1v1": 2439,
       "max_1v1": 2439,
-      "cur_tg": 2066,
+      "cur_tg": 2074,
       "max_tg": 2104,
       "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-17",
-      "live": {
-        "match": 521730630,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-17"
     },
     {
       "profile_id": 2598146,
@@ -211,13 +206,7 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 521733778,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "hK | RanDoM"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 12723994,
@@ -259,15 +248,10 @@
       "clan": "hK",
       "cur_1v1": 2262,
       "max_1v1": 2365,
-      "cur_tg": 2066,
+      "cur_tg": 2074,
       "max_tg": 2083,
       "last_1v1": "2026-11-16",
-      "last_tg": "2026-11-17",
-      "live": {
-        "match": 521730630,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-17"
     },
     {
       "profile_id": 1485562,
@@ -315,17 +299,12 @@
     {
       "profile_id": 5803221,
       "tag": "Mahmoud Ahmadinejad",
-      "cur_1v1": 2216,
+      "cur_1v1": 2222,
       "max_1v1": 2237,
       "cur_tg": 1638,
       "max_tg": 1654,
       "last_tg": "2026-11-14",
-      "last_1v1": "2026-11-16",
-      "live": {
-        "match": 521731199,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-17"
     },
     {
       "profile_id": 757886,
@@ -342,17 +321,12 @@
       "profile_id": 13138746,
       "tag": "FraKTal",
       "clan": "hK",
-      "cur_1v1": 2169,
+      "cur_1v1": 2146,
       "max_1v1": 2233,
       "cur_tg": 1940,
       "max_tg": 2010,
       "last_1v1": "2026-11-17",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 521729060,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-16"
     },
     {
       "profile_id": 917863,
@@ -423,7 +397,12 @@
       "cur_tg": 1731,
       "max_tg": 1747,
       "last_1v1": "2026-11-17",
-      "last_tg": "2026-10-27"
+      "last_tg": "2026-10-27",
+      "live": {
+        "match": 521734527,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 1261126,
@@ -510,7 +489,12 @@
       "cur_tg": 1778,
       "max_tg": 1813,
       "last_tg": "2026-11-17",
-      "last_1v1": "2026-11-15"
+      "last_1v1": "2026-11-15",
+      "live": {
+        "match": 521734071,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 3285258,
@@ -639,22 +623,22 @@
       "cur_tg": 1700,
       "max_tg": 1860,
       "last_1v1": "2026-11-17",
-      "last_tg": "2026-11-09"
+      "last_tg": "2026-11-09",
+      "live": {
+        "match": 521734101,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 3254820,
       "tag": "__Chino",
-      "cur_1v1": 1837,
+      "cur_1v1": 1856,
       "max_1v1": 2003,
       "cur_tg": 1539,
       "max_tg": 1539,
       "last_1v1": "2026-11-17",
-      "last_tg": "2026-11-17",
-      "live": {
-        "match": 521731175,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-17"
     },
     {
       "profile_id": 233625,
