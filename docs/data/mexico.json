@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-17T02:20:15Z",
+  "updated_at": "2026-11-17T02:25:07Z",
   "baseline": {
     "taken_at": "2026-11-16T14:00:16Z",
     "ranks": {
@@ -189,7 +189,13 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 521742259,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "hK | RanDoM"
+      }
     },
     {
       "profile_id": 12723994,
@@ -359,7 +365,7 @@
       "profile_id": 2934597,
       "tag": "Sgt.Pepper",
       "clan": "nW",
-      "cur_1v1": 2068,
+      "cur_1v1": 2062,
       "max_1v1": 2210,
       "cur_tg": 1731,
       "max_tg": 1747,
@@ -388,15 +394,10 @@
       "clan": "SotC",
       "cur_1v1": 2054,
       "max_1v1": 2098,
-      "cur_tg": 1704,
+      "cur_tg": 1721,
       "max_tg": 1870,
       "last_1v1": "2026-10-31",
-      "last_tg": "2026-11-17",
-      "live": {
-        "match": 521737542,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-17"
     },
     {
       "profile_id": 1708286,
@@ -487,7 +488,12 @@
       "cur_tg": 1767,
       "max_tg": 1813,
       "last_tg": "2026-11-17",
-      "last_1v1": "2026-11-15"
+      "last_1v1": "2026-11-15",
+      "live": {
+        "match": 521742259,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 3285258,
