@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-17T21:15:11Z",
+  "updated_at": "2026-11-17T21:20:09Z",
   "baseline": {
     "taken_at": "2026-11-17T14:00:16Z",
     "ranks": {
@@ -74,17 +74,12 @@
       "profile_id": 2920057,
       "tag": "Lobo",
       "clan": "Ux",
-      "cur_1v1": 2679,
-      "max_1v1": 2685,
+      "cur_1v1": 2690,
+      "max_1v1": 2690,
       "cur_tg": 2200,
       "max_tg": 2203,
       "last_1v1": "2026-11-17",
-      "last_tg": "2026-11-17",
-      "live": {
-        "match": 521896717,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-17"
     },
     {
       "profile_id": 2776293,
@@ -266,8 +261,8 @@
     {
       "profile_id": 5803221,
       "tag": "Mahmoud Ahmadinejad",
-      "cur_1v1": 2245,
-      "max_1v1": 2245,
+      "cur_1v1": 2255,
+      "max_1v1": 2255,
       "cur_tg": 1638,
       "max_tg": 1654,
       "last_tg": "2026-11-14",
