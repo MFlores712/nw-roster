@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-17T03:15:16Z",
+  "updated_at": "2026-11-17T03:20:09Z",
   "baseline": {
     "taken_at": "2026-11-16T14:00:16Z",
     "ranks": {
@@ -277,17 +277,12 @@
       "profile_id": 3816609,
       "tag": "iamkaito",
       "clan": "nW",
-      "cur_1v1": 2213,
+      "cur_1v1": 2203,
       "max_1v1": 2304,
       "cur_tg": 1854,
       "max_tg": 1907,
       "last_1v1": "2026-11-17",
-      "last_tg": "2026-11-15",
-      "live": {
-        "match": 521747237,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-15"
     },
     {
       "profile_id": 757886,
@@ -414,10 +409,15 @@
       "clan": "VENÓN",
       "cur_1v1": 2003,
       "max_1v1": 2115,
-      "cur_tg": 1732,
+      "cur_tg": 1710,
       "max_tg": 1820,
-      "last_tg": "2026-11-13",
-      "last_1v1": "2026-11-17"
+      "last_tg": "2026-11-17",
+      "last_1v1": "2026-11-17",
+      "live": {
+        "match": 521750903,
+        "game": "Team Random Map",
+        "format": "2v2"
+      }
     },
     {
       "profile_id": 2876835,
@@ -473,10 +473,15 @@
       "clan": "VENÓN",
       "cur_1v1": 1963,
       "max_1v1": 2013,
-      "cur_tg": 1638,
+      "cur_tg": 1618,
       "max_tg": 1798,
       "last_1v1": "2026-09-29",
-      "last_tg": "2026-11-16"
+      "last_tg": "2026-11-17",
+      "live": {
+        "match": 521750903,
+        "game": "Team Random Map",
+        "format": "2v2"
+      }
     },
     {
       "profile_id": 4764520,
