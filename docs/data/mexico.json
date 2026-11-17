@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-17T01:30:12Z",
+  "updated_at": "2026-11-17T01:35:08Z",
   "baseline": {
     "taken_at": "2026-11-16T14:00:16Z",
     "ranks": {
@@ -211,7 +211,13 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 521733778,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "hK | RanDoM"
+      }
     },
     {
       "profile_id": 12723994,
@@ -466,17 +472,12 @@
       "profile_id": 358501,
       "tag": "El Claut_One",
       "clan": "VENÓN",
-      "cur_1v1": 1976,
+      "cur_1v1": 1987,
       "max_1v1": 2115,
       "cur_tg": 1732,
       "max_tg": 1820,
       "last_tg": "2026-11-13",
-      "last_1v1": "2026-11-16",
-      "live": {
-        "match": 521728471,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-17"
     },
     {
       "profile_id": 1249720,
@@ -542,7 +543,12 @@
       "cur_tg": 1657,
       "max_tg": 1824,
       "last_tg": "2026-11-17",
-      "last_1v1": "2026-10-13"
+      "last_1v1": "2026-10-13",
+      "live": {
+        "match": 521733195,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 2291749,
@@ -628,7 +634,7 @@
       "profile_id": 13215279,
       "tag": "GO1_mx",
       "clan": "MZTK",
-      "cur_1v1": 1893,
+      "cur_1v1": 1904,
       "max_1v1": 2093,
       "cur_tg": 1700,
       "max_tg": 1860,
