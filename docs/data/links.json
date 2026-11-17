@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-16T14:00:16Z",
+ "updated_at": "2026-11-17T14:00:16Z",
  "players": {
   "22889810": {
    "name": "Manuel",
@@ -412,7 +412,7 @@
      "id": 325918,
      "hops": 1,
      "name": "Warlock_Ndk",
-     "rating": 2227,
+     "rating": 2279,
      "last": "2026-11-16"
     }
    ]
@@ -452,8 +452,8 @@
      "id": 23101014,
      "hops": 1,
      "name": "hK | RanDoM",
-     "rating": 2227,
-     "last": "2026-11-16"
+     "rating": 2250,
+     "last": "2026-11-17"
     }
    ]
   },
@@ -471,8 +471,8 @@
      "id": 8448734,
      "hops": 1,
      "name": "The_Fury",
-     "rating": 2346,
-     "last": "2026-11-15"
+     "rating": 2364,
+     "last": "2026-11-16"
     }
    ]
   },
@@ -1203,7 +1203,7 @@
      "id": 279587,
      "hops": 1,
      "name": "jax_teller",
-     "rating": 1839,
+     "rating": 1855,
      "last": "2026-11-16"
     },
     {
@@ -1454,6 +1454,13 @@
      "name": "KaUTreNS",
      "rating": 1812,
      "last": "2024-10-25"
+    },
+    {
+     "id": 26350453,
+     "hops": 1,
+     "name": "El Chanchullero",
+     "rating": null,
+     "last": null
     }
    ]
   },
@@ -1582,8 +1589,8 @@
      "id": 21050271,
      "hops": 1,
      "name": "Tintin",
-     "rating": 1883,
-     "last": "2026-11-15"
+     "rating": 1899,
+     "last": "2026-11-17"
     }
    ]
   },
@@ -1652,8 +1659,8 @@
      "id": 3265324,
      "hops": 1,
      "name": "CTM | Lelouch ELO bajito",
-     "rating": 1989,
-     "last": "2026-11-16"
+     "rating": 1889,
+     "last": "2026-11-17"
     },
     {
      "id": 6387067,
