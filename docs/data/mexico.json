@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-17T00:10:55Z",
+  "updated_at": "2026-11-17T00:15:12Z",
   "baseline": {
     "taken_at": "2026-11-16T14:00:16Z",
     "ranks": {
@@ -112,7 +112,13 @@
       "cur_tg": 2146,
       "max_tg": 2151,
       "last_1v1": "2026-11-16",
-      "last_tg": "2026-11-16"
+      "last_tg": "2026-11-16",
+      "live": {
+        "match": 521720596,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "VENÓN | Mauricio"
+      }
     },
     {
       "profile_id": 401359,
@@ -134,7 +140,12 @@
       "cur_tg": 2048,
       "max_tg": 2104,
       "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-16"
+      "last_tg": "2026-11-16",
+      "live": {
+        "match": 521720737,
+        "game": "Team Random Map",
+        "format": "2v2"
+      }
     },
     {
       "profile_id": 2598146,
@@ -145,7 +156,13 @@
       "cur_tg": 2215,
       "max_tg": 2227,
       "last_tg": "2026-11-16",
-      "last_1v1": "2026-10-31"
+      "last_1v1": "2026-10-31",
+      "live": {
+        "match": 521720596,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "VENÓN | SiNisTeR"
+      }
     },
     {
       "profile_id": 580573,
@@ -234,7 +251,12 @@
       "cur_tg": 2048,
       "max_tg": 2083,
       "last_1v1": "2026-11-16",
-      "last_tg": "2026-11-16"
+      "last_tg": "2026-11-16",
+      "live": {
+        "match": 521720737,
+        "game": "Team Random Map",
+        "format": "2v2"
+      }
     },
     {
       "profile_id": 1485562,
@@ -245,7 +267,12 @@
       "cur_tg": 1837,
       "max_tg": 2099,
       "last_1v1": "2026-11-16",
-      "last_tg": "2026-11-17"
+      "last_tg": "2026-11-17",
+      "live": {
+        "match": 521720596,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 3816609,
@@ -267,7 +294,12 @@
       "cur_tg": 1817,
       "max_tg": 2024,
       "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-17"
+      "last_tg": "2026-11-17",
+      "live": {
+        "match": 521720596,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 5803221,
@@ -548,17 +580,12 @@
       "profile_id": 13215279,
       "tag": "GO1_mx",
       "clan": "MZTK",
-      "cur_1v1": 1922,
+      "cur_1v1": 1912,
       "max_1v1": 2093,
       "cur_tg": 1700,
       "max_tg": 1860,
-      "last_1v1": "2026-11-16",
-      "last_tg": "2026-11-09",
-      "live": {
-        "match": 521718001,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-17",
+      "last_tg": "2026-11-09"
     },
     {
       "profile_id": 13241217,
