@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-17T19:50:09Z",
+  "updated_at": "2026-11-17T19:55:09Z",
   "baseline": {
     "taken_at": "2026-11-17T14:00:16Z",
     "ranks": {
@@ -70,7 +70,7 @@
       "last_1v1": "2026-11-17",
       "last_tg": "2026-11-16",
       "live": {
-        "match": 521883643,
+        "match": 521884074,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -264,6 +264,17 @@
       "last_1v1": "2026-11-17"
     },
     {
+      "profile_id": 4412109,
+      "tag": "HGB",
+      "clan": "hK",
+      "cur_1v1": 2237,
+      "max_1v1": 2365,
+      "cur_tg": 2093,
+      "max_tg": 2093,
+      "last_1v1": "2026-11-17",
+      "last_tg": "2026-11-17"
+    },
+    {
       "profile_id": 914665,
       "tag": "Caguamas",
       "clan": "nW",
@@ -272,17 +283,6 @@
       "cur_tg": 1797,
       "max_tg": 2024,
       "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-17"
-    },
-    {
-      "profile_id": 4412109,
-      "tag": "HGB",
-      "clan": "hK",
-      "cur_1v1": 2227,
-      "max_1v1": 2365,
-      "cur_tg": 2093,
-      "max_tg": 2093,
-      "last_1v1": "2026-11-17",
       "last_tg": "2026-11-17"
     },
     {
@@ -307,7 +307,7 @@
       "last_1v1": "2026-11-17",
       "last_tg": "2026-11-15",
       "live": {
-        "match": 521883643,
+        "match": 521884428,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -335,17 +335,6 @@
       "last_tg": "2026-11-17"
     },
     {
-      "profile_id": 917863,
-      "tag": "Romell13",
-      "clan": "hK",
-      "cur_1v1": 2100,
-      "max_1v1": 2233,
-      "cur_tg": 1815,
-      "max_tg": 1838,
-      "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-05"
-    },
-    {
       "profile_id": 1947348,
       "tag": "themariach1",
       "clan": "nW",
@@ -355,6 +344,17 @@
       "max_tg": 2034,
       "last_1v1": "2026-07-08",
       "last_tg": "2026-10-21"
+    },
+    {
+      "profile_id": 917863,
+      "tag": "Romell13",
+      "clan": "hK",
+      "cur_1v1": 2090,
+      "max_1v1": 2233,
+      "cur_tg": 1815,
+      "max_tg": 1838,
+      "last_1v1": "2026-11-17",
+      "last_tg": "2026-11-05"
     },
     {
       "profile_id": 2850920,
