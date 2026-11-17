@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-17T03:40:09Z",
+  "updated_at": "2026-11-17T04:00:13Z",
   "baseline": {
     "taken_at": "2026-11-16T14:00:16Z",
     "ranks": {
@@ -107,15 +107,10 @@
       "clan": "VLC",
       "cur_1v1": 2001,
       "max_1v1": 2001,
-      "cur_tg": 1694,
+      "cur_tg": 1707,
       "max_tg": 1764,
       "last_1v1": "2026-10-23",
-      "last_tg": "2026-11-17",
-      "live": {
-        "match": 521753164,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-17"
     },
     {
       "profile_id": 5368998,
@@ -159,7 +154,7 @@
       "last_tg": "2026-11-14",
       "last_1v1": "2026-10-27",
       "live": {
-        "match": 521753039,
+        "match": 521756771,
         "game": "1v1 Random Map",
         "format": "1v1",
         "account": "Tintin"
