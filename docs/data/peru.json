@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-17T05:20:09Z",
+  "updated_at": "2026-11-17T05:40:08Z",
   "baseline": {
     "taken_at": "2026-11-16T14:00:16Z",
     "ranks": {
@@ -184,15 +184,10 @@
       "clan": "CTM",
       "cur_1v1": 1902,
       "max_1v1": 1902,
-      "cur_tg": 1531,
+      "cur_tg": 1513,
       "max_tg": 1608,
       "last_1v1": "2026-09-19",
-      "last_tg": "2026-11-17",
-      "live": {
-        "match": 521764599,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-17"
     },
     {
       "profile_id": 2366434,
@@ -204,31 +199,20 @@
       "clan": "CTM",
       "cur_1v1": 1889,
       "max_1v1": 2222,
-      "cur_tg": 1755,
+      "cur_tg": 1732,
       "max_tg": 1843,
       "last_tg": "2026-11-17",
-      "last_1v1": "2026-11-17",
-      "live": {
-        "match": 521764599,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "CTM | Lelouch ELO bajito"
-      }
+      "last_1v1": "2026-11-17"
     },
     {
       "profile_id": 3034651,
       "tag": "KinG of QUILLA",
-      "cur_1v1": 1837,
+      "cur_1v1": 1844,
       "max_1v1": 2035,
       "cur_tg": 1526,
       "max_tg": 1657,
       "last_1v1": "2026-11-17",
-      "last_tg": "2026-10-26",
-      "live": {
-        "match": 521766430,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-26"
     },
     {
       "profile_id": 4234652,
