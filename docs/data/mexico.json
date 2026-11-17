@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-17T01:00:13Z",
+  "updated_at": "2026-11-17T01:05:18Z",
   "baseline": {
     "taken_at": "2026-11-16T14:00:16Z",
     "ranks": {
@@ -342,17 +342,12 @@
       "profile_id": 13138746,
       "tag": "FraKTal",
       "clan": "hK",
-      "cur_1v1": 2179,
+      "cur_1v1": 2169,
       "max_1v1": 2233,
       "cur_tg": 1940,
       "max_tg": 2010,
-      "last_1v1": "2026-11-16",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 521725025,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-17",
+      "last_tg": "2026-11-16"
     },
     {
       "profile_id": 917863,
@@ -482,7 +477,12 @@
       "cur_tg": 1732,
       "max_tg": 1820,
       "last_tg": "2026-11-13",
-      "last_1v1": "2026-11-16"
+      "last_1v1": "2026-11-16",
+      "live": {
+        "match": 521728471,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 1249720,
@@ -530,7 +530,12 @@
       "cur_tg": 1767,
       "max_tg": 1813,
       "last_tg": "2026-11-14",
-      "last_1v1": "2026-11-15"
+      "last_1v1": "2026-11-15",
+      "live": {
+        "match": 521728552,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 3285258,
@@ -651,14 +656,14 @@
       "tag": "__Chino",
       "cur_1v1": 1859,
       "max_1v1": 2003,
-      "cur_tg": 1525,
-      "max_tg": 1525,
+      "cur_tg": 1539,
+      "max_tg": 1539,
       "last_1v1": "2026-11-16",
       "last_tg": "2026-11-17",
       "live": {
-        "match": 521723787,
-        "game": "Team Random Map",
-        "format": "2v2"
+        "match": 521728584,
+        "game": "1v1 Random Map",
+        "format": "1v1"
       }
     },
     {
