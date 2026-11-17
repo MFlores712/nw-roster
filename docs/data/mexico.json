@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-17T23:10:09Z",
+  "updated_at": "2026-11-17T23:15:09Z",
   "baseline": {
     "taken_at": "2026-11-17T14:00:16Z",
     "ranks": {
@@ -70,7 +70,7 @@
       "last_1v1": "2026-11-17",
       "last_tg": "2026-11-16",
       "live": {
-        "match": 521921254,
+        "match": 521923322,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
