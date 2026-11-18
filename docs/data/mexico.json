@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-18T03:50:09Z",
+  "updated_at": "2026-11-18T03:55:08Z",
   "baseline": {
     "taken_at": "2026-11-17T14:00:16Z",
     "ranks": {
@@ -315,13 +315,7 @@
       "cur_tg": 1819,
       "max_tg": 1962,
       "last_1v1": "2026-11-17",
-      "last_tg": "2026-11-17",
-      "live": {
-        "match": 521964093,
-        "game": "Team Random Map",
-        "format": "2v2",
-        "account": "Zoschenko17"
-      }
+      "last_tg": "2026-11-17"
     },
     {
       "profile_id": 1947348,
@@ -349,14 +343,14 @@
       "profile_id": 2934597,
       "tag": "Sgt.Pepper",
       "clan": "nW",
-      "cur_1v1": 2062,
+      "cur_1v1": 2071,
       "max_1v1": 2210,
       "cur_tg": 1731,
       "max_tg": 1747,
-      "last_1v1": "2026-11-17",
+      "last_1v1": "2026-11-18",
       "last_tg": "2026-10-27",
       "live": {
-        "match": 521964919,
+        "match": 521967834,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
