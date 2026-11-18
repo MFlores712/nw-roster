@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-18T20:50:12Z",
+  "updated_at": "2026-11-18T21:00:23Z",
   "baseline": {
     "taken_at": "2026-11-18T14:00:20Z",
     "ranks": {
@@ -111,12 +111,7 @@
       "cur_tg": 1826,
       "max_tg": 1999,
       "last_1v1": "2026-11-11",
-      "last_tg": "2026-11-18",
-      "live": {
-        "match": 522099960,
-        "game": "Unranked",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-18"
     },
     {
       "profile_id": 9449579,
@@ -300,15 +295,10 @@
       "clan": "VN",
       "cur_1v1": 2189,
       "max_1v1": 2301,
-      "cur_tg": 1910,
+      "cur_tg": 1918,
       "max_tg": 2050,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-18",
-      "live": {
-        "match": 522099581,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-18"
     },
     {
       "profile_id": 13138746,
@@ -447,6 +437,17 @@
       "last_1v1": "2026-10-24"
     },
     {
+      "profile_id": 278380,
+      "tag": "Lemoine",
+      "clan": "VL",
+      "cur_1v1": 1970,
+      "max_1v1": 1980,
+      "cur_tg": 1725,
+      "max_tg": 1865,
+      "last_tg": "2026-11-12",
+      "last_1v1": "2026-11-18"
+    },
+    {
       "profile_id": 1249720,
       "tag": "Lice_Slide",
       "clan": "VN",
@@ -500,22 +501,6 @@
       "max_tg": 1824,
       "last_1v1": "2026-10-25",
       "last_tg": "2026-11-16"
-    },
-    {
-      "profile_id": 278380,
-      "tag": "Lemoine",
-      "clan": "VL",
-      "cur_1v1": 1955,
-      "max_1v1": 1980,
-      "cur_tg": 1725,
-      "max_tg": 1865,
-      "last_tg": "2026-11-12",
-      "last_1v1": "2026-11-18",
-      "live": {
-        "match": 522097188,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 2986966,
