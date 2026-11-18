@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-18T17:55:09Z",
+  "updated_at": "2026-11-18T18:00:15Z",
   "baseline": {
     "taken_at": "2026-11-18T14:00:20Z",
     "ranks": {
@@ -134,7 +134,13 @@
       "cur_tg": 2112,
       "max_tg": 2112,
       "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-17"
+      "last_tg": "2026-11-17",
+      "live": {
+        "match": 522067668,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "The_Fury"
+      }
     },
     {
       "profile_id": 2598146,
@@ -285,15 +291,10 @@
       "clan": "VN",
       "cur_1v1": 2189,
       "max_1v1": 2301,
-      "cur_tg": 1939,
+      "cur_tg": 1919,
       "max_tg": 2050,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 522063418,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-11-18"
     },
     {
       "profile_id": 13138746,
@@ -443,15 +444,10 @@
       "clan": "VN",
       "cur_1v1": 1969,
       "max_1v1": 2121,
-      "cur_tg": 1901,
+      "cur_tg": 1882,
       "max_tg": 1997,
       "last_1v1": "2026-11-13",
-      "last_tg": "2026-11-13",
-      "live": {
-        "match": 522063418,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-11-18"
     },
     {
       "profile_id": 235877,
