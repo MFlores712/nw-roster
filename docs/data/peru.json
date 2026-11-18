@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-18T03:45:09Z",
+  "updated_at": "2026-11-18T03:50:09Z",
   "baseline": {
     "taken_at": "2026-11-17T14:00:16Z",
     "ranks": {
@@ -181,17 +181,12 @@
       "profile_id": 4167535,
       "tag": "Dia franptom",
       "clan": "LE",
-      "cur_1v1": 1923,
+      "cur_1v1": 1912,
       "max_1v1": 2001,
       "cur_tg": 1453,
       "max_tg": 1581,
       "last_1v1": "2026-11-18",
-      "last_tg": "2026-11-07",
-      "live": {
-        "match": 521962979,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-07"
     },
     {
       "profile_id": 1865687,
@@ -233,7 +228,12 @@
       "cur_tg": 1545,
       "max_tg": 1719,
       "last_1v1": "2026-11-18",
-      "last_tg": "2026-11-15"
+      "last_tg": "2026-11-15",
+      "live": {
+        "match": 521967151,
+        "game": "Team Empire Wars",
+        "format": "2v2"
+      }
     },
     {
       "profile_id": 3034651,
