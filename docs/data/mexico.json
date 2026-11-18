@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-18T23:10:10Z",
+  "updated_at": "2026-11-18T23:20:08Z",
   "baseline": {
     "taken_at": "2026-11-18T14:00:20Z",
     "ranks": {
@@ -60,6 +60,17 @@
   },
   "players": [
     {
+      "profile_id": 2920057,
+      "tag": "Lobo",
+      "clan": "Ux",
+      "cur_1v1": 2703,
+      "max_1v1": 2703,
+      "cur_tg": 2200,
+      "max_tg": 2203,
+      "last_1v1": "2026-11-18",
+      "last_tg": "2026-11-17"
+    },
+    {
       "profile_id": 2776293,
       "tag": "Kingstone",
       "clan": "Oni",
@@ -71,36 +82,15 @@
       "last_1v1": "2026-11-18"
     },
     {
-      "profile_id": 2920057,
-      "tag": "Lobo",
-      "clan": "Ux",
-      "cur_1v1": 2688,
-      "max_1v1": 2692,
-      "cur_tg": 2200,
-      "max_tg": 2203,
-      "last_1v1": "2026-11-18",
-      "last_tg": "2026-11-17",
-      "live": {
-        "match": 522126611,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 5984120,
       "tag": "C",
       "clan": "Ux",
-      "cur_1v1": 2663,
+      "cur_1v1": 2648,
       "max_1v1": 2790,
       "cur_tg": 1654,
       "max_tg": 1885,
       "last_1v1": "2026-11-18",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 522126611,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-16"
     },
     {
       "profile_id": 13099159,
@@ -516,12 +506,7 @@
       "cur_tg": 1637,
       "max_tg": 1824,
       "last_tg": "2026-11-17",
-      "last_1v1": "2026-10-13",
-      "live": {
-        "match": 522126690,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_1v1": "2026-10-13"
     },
     {
       "profile_id": 13215279,
@@ -564,13 +549,7 @@
       "cur_tg": 1839,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-11-14",
-      "live": {
-        "match": 522127800,
-        "game": "Team Random Map",
-        "format": "3v3",
-        "account": "EXILE | Onichan Nya"
-      }
+      "last_tg": "2026-11-14"
     },
     {
       "profile_id": 12472496,
@@ -627,12 +606,7 @@
       "cur_tg": 1725,
       "max_tg": 1888,
       "last_1v1": "2026-11-16",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 522126392,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-16"
     }
   ],
   "show_top": 45,
