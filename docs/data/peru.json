@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-18T19:20:09Z",
+  "updated_at": "2026-11-18T19:25:10Z",
   "baseline": {
     "taken_at": "2026-11-18T14:00:20Z",
     "ranks": {
@@ -176,13 +176,7 @@
       "cur_tg": 1474,
       "max_tg": 1608,
       "last_1v1": "2026-09-19",
-      "last_tg": "2026-11-18",
-      "live": {
-        "match": 522080276,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "CTM | VaccumDestroyer"
-      }
+      "last_tg": "2026-11-18"
     },
     {
       "profile_id": 4167535,
@@ -193,7 +187,12 @@
       "cur_tg": 1453,
       "max_tg": 1581,
       "last_1v1": "2026-11-18",
-      "last_tg": "2026-11-07"
+      "last_tg": "2026-11-07",
+      "live": {
+        "match": 522083607,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2366434,
@@ -205,16 +204,10 @@
       "clan": "CTM",
       "cur_1v1": 1820,
       "max_1v1": 2222,
-      "cur_tg": 1706,
+      "cur_tg": 1733,
       "max_tg": 1843,
-      "last_tg": "2026-11-17",
-      "last_1v1": "2026-11-18",
-      "live": {
-        "match": 522083082,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "CTM | Lelouch ELO bajito"
-      }
+      "last_tg": "2026-11-18",
+      "last_1v1": "2026-11-18"
     },
     {
       "profile_id": 4234652,
