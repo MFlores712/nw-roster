@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-18T21:55:09Z",
+  "updated_at": "2026-11-18T22:05:09Z",
   "baseline": {
     "taken_at": "2026-11-18T14:00:20Z",
     "ranks": {
@@ -93,7 +93,13 @@
       "cur_tg": 1768,
       "max_tg": 1771,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-07"
+      "last_tg": "2026-11-07",
+      "live": {
+        "match": 522116775,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "El Chanchullero"
+      }
     },
     {
       "profile_id": 1743420,
