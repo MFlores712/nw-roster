@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-18T02:15:09Z",
+  "updated_at": "2026-11-18T02:20:09Z",
   "baseline": {
     "taken_at": "2026-11-17T14:00:16Z",
     "ranks": {
@@ -158,15 +158,10 @@
       "clan": "hK",
       "cur_1v1": 2384,
       "max_1v1": 2384,
-      "cur_tg": 1828,
+      "cur_tg": 1834,
       "max_tg": 1974,
       "last_1v1": "2026-11-16",
-      "last_tg": "2026-11-18",
-      "live": {
-        "match": 521947760,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-11-18"
     },
     {
       "profile_id": 2295504,
@@ -549,14 +544,14 @@
     {
       "profile_id": 2291749,
       "tag": "Biner",
-      "cur_1v1": 1910,
+      "cur_1v1": 1922,
       "max_1v1": 2016,
       "cur_tg": 1659,
       "max_tg": 1688,
       "last_1v1": "2026-11-18",
       "last_tg": "2026-10-28",
       "live": {
-        "match": 521948430,
+        "match": 521953284,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
