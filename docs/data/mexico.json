@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-18T00:40:08Z",
+  "updated_at": "2026-11-18T00:45:10Z",
   "baseline": {
     "taken_at": "2026-11-17T14:00:16Z",
     "ranks": {
@@ -177,7 +177,13 @@
       "cur_tg": 1845,
       "max_tg": 1907,
       "last_1v1": "2026-11-11",
-      "last_tg": "2026-10-14"
+      "last_tg": "2026-10-14",
+      "live": {
+        "match": 521937516,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "Volg"
+      }
     },
     {
       "profile_id": 310739,
