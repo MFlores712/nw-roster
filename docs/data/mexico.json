@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-18T02:35:09Z",
+  "updated_at": "2026-11-18T02:45:09Z",
   "baseline": {
     "taken_at": "2026-11-17T14:00:16Z",
     "ranks": {
@@ -499,6 +499,21 @@
       "last_tg": "2026-11-09"
     },
     {
+      "profile_id": 2291749,
+      "tag": "Biner",
+      "cur_1v1": 1943,
+      "max_1v1": 2016,
+      "cur_tg": 1659,
+      "max_tg": 1688,
+      "last_1v1": "2026-11-18",
+      "last_tg": "2026-10-28",
+      "live": {
+        "match": 521957560,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 278380,
       "tag": "Lemoine",
       "clan": "VL",
@@ -529,21 +544,6 @@
       "max_tg": 1821,
       "last_tg": "2026-10-16",
       "last_1v1": "2026-09-18"
-    },
-    {
-      "profile_id": 2291749,
-      "tag": "Biner",
-      "cur_1v1": 1922,
-      "max_1v1": 2016,
-      "cur_tg": 1659,
-      "max_tg": 1688,
-      "last_1v1": "2026-11-18",
-      "last_tg": "2026-10-28",
-      "live": {
-        "match": 521953284,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 324005,
@@ -583,15 +583,10 @@
       "tag": "__Chino",
       "cur_1v1": 1886,
       "max_1v1": 2003,
-      "cur_tg": 1528,
+      "cur_tg": 1512,
       "max_tg": 1543,
       "last_1v1": "2026-11-18",
-      "last_tg": "2026-11-17",
-      "live": {
-        "match": 521952421,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-18"
     },
     {
       "profile_id": 233625,
