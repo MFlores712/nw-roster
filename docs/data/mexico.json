@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-18T05:25:09Z",
+  "updated_at": "2026-11-18T05:30:13Z",
   "baseline": {
     "taken_at": "2026-11-17T14:00:16Z",
     "ranks": {
@@ -294,7 +294,7 @@
       "profile_id": 3816609,
       "tag": "iamkaito",
       "clan": "nW",
-      "cur_1v1": 2177,
+      "cur_1v1": 2187,
       "max_1v1": 2304,
       "cur_tg": 1854,
       "max_tg": 1907,
@@ -515,6 +515,16 @@
       "last_tg": "2026-11-09"
     },
     {
+      "profile_id": 2291749,
+      "tag": "Biner",
+      "cur_1v1": 1945,
+      "max_1v1": 2016,
+      "cur_tg": 1659,
+      "max_tg": 1688,
+      "last_1v1": "2026-11-18",
+      "last_tg": "2026-10-28"
+    },
+    {
       "profile_id": 278380,
       "tag": "Lemoine",
       "clan": "VL",
@@ -550,21 +560,6 @@
         "game": "Unranked",
         "format": "4v4",
         "account": "[GDL]CemenTox"
-      }
-    },
-    {
-      "profile_id": 2291749,
-      "tag": "Biner",
-      "cur_1v1": 1930,
-      "max_1v1": 2016,
-      "cur_tg": 1659,
-      "max_tg": 1688,
-      "last_1v1": "2026-11-18",
-      "last_tg": "2026-10-28",
-      "live": {
-        "match": 521975041,
-        "game": "1v1 Random Map",
-        "format": "1v1"
       }
     },
     {
