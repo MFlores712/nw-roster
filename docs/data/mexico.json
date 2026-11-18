@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-18T23:40:09Z",
+  "updated_at": "2026-11-18T23:45:09Z",
   "baseline": {
     "taken_at": "2026-11-18T14:00:20Z",
     "ranks": {
@@ -60,22 +60,6 @@
   },
   "players": [
     {
-      "profile_id": 2920057,
-      "tag": "Lobo",
-      "clan": "Ux",
-      "cur_1v1": 2703,
-      "max_1v1": 2703,
-      "cur_tg": 2200,
-      "max_tg": 2203,
-      "last_1v1": "2026-11-18",
-      "last_tg": "2026-11-17",
-      "live": {
-        "match": 522131177,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 2776293,
       "tag": "Kingstone",
       "clan": "Oni",
@@ -87,20 +71,15 @@
       "last_1v1": "2026-11-18"
     },
     {
-      "profile_id": 5984120,
-      "tag": "C",
+      "profile_id": 2920057,
+      "tag": "Lobo",
       "clan": "Ux",
-      "cur_1v1": 2648,
-      "max_1v1": 2790,
-      "cur_tg": 1654,
-      "max_tg": 1885,
+      "cur_1v1": 2682,
+      "max_1v1": 2703,
+      "cur_tg": 2200,
+      "max_tg": 2203,
       "last_1v1": "2026-11-18",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 522130176,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-17"
     },
     {
       "profile_id": 13099159,
@@ -112,6 +91,17 @@
       "max_tg": 1999,
       "last_1v1": "2026-11-11",
       "last_tg": "2026-11-18"
+    },
+    {
+      "profile_id": 5984120,
+      "tag": "C",
+      "clan": "Ux",
+      "cur_1v1": 2627,
+      "max_1v1": 2790,
+      "cur_tg": 1654,
+      "max_tg": 1885,
+      "last_1v1": "2026-11-18",
+      "last_tg": "2026-11-16"
     },
     {
       "profile_id": 9449579,
@@ -282,7 +272,12 @@
       "cur_tg": 1854,
       "max_tg": 1907,
       "last_1v1": "2026-11-18",
-      "last_tg": "2026-11-15"
+      "last_tg": "2026-11-15",
+      "live": {
+        "match": 522133721,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 914665,
@@ -524,9 +519,9 @@
       "clan": "VL",
       "cur_1v1": 1952,
       "max_1v1": 1972,
-      "cur_tg": 1637,
+      "cur_tg": 1648,
       "max_tg": 1824,
-      "last_tg": "2026-11-17",
+      "last_tg": "2026-11-18",
       "last_1v1": "2026-10-13"
     },
     {
