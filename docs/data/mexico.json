@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-18T04:55:08Z",
+  "updated_at": "2026-11-18T05:00:14Z",
   "baseline": {
     "taken_at": "2026-11-17T14:00:16Z",
     "ranks": {
@@ -294,17 +294,12 @@
       "profile_id": 3816609,
       "tag": "iamkaito",
       "clan": "nW",
-      "cur_1v1": 2170,
+      "cur_1v1": 2177,
       "max_1v1": 2304,
       "cur_tg": 1854,
       "max_tg": 1907,
       "last_1v1": "2026-11-18",
-      "last_tg": "2026-11-15",
-      "live": {
-        "match": 521973578,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-15"
     },
     {
       "profile_id": 13138746,
@@ -544,13 +539,7 @@
       "cur_tg": 1820,
       "max_tg": 1821,
       "last_tg": "2026-10-16",
-      "last_1v1": "2026-09-18",
-      "live": {
-        "match": 521972002,
-        "game": "Unranked",
-        "format": "4v4",
-        "account": "[GDL]CemenTox"
-      }
+      "last_1v1": "2026-09-18"
     },
     {
       "profile_id": 2291749,
