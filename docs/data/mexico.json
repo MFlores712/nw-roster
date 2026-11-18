@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-18T22:45:10Z",
+  "updated_at": "2026-11-18T22:50:09Z",
   "baseline": {
     "taken_at": "2026-11-18T14:00:20Z",
     "ranks": {
@@ -570,7 +570,13 @@
       "cur_tg": 1839,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-11-14"
+      "last_tg": "2026-11-14",
+      "live": {
+        "match": 522124559,
+        "game": "Team Random Map",
+        "format": "3v3",
+        "account": "EXILE | Onichan Nya"
+      }
     },
     {
       "profile_id": 12472496,
