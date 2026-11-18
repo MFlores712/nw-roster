@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-18T17:35:09Z",
+  "updated_at": "2026-11-18T17:40:09Z",
   "baseline": {
     "taken_at": "2026-11-18T14:00:20Z",
     "ranks": {
@@ -176,7 +176,7 @@
       "profile_id": 4167535,
       "tag": "Dia franptom",
       "clan": "LE",
-      "cur_1v1": 1909,
+      "cur_1v1": 1928,
       "max_1v1": 2001,
       "cur_tg": 1453,
       "max_tg": 1581,
