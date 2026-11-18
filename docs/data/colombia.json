@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-18T22:45:10Z",
+  "updated_at": "2026-11-18T23:00:14Z",
   "baseline": {
     "taken_at": "2026-11-18T14:00:20Z",
     "ranks": {
@@ -90,7 +90,7 @@
       "last_1v1": "2026-11-07",
       "last_tg": "2026-11-07",
       "live": {
-        "match": 522122461,
+        "match": 522126362,
         "game": "1v1 Random Map",
         "format": "1v1",
         "account": "El Chanchullero"
@@ -174,14 +174,14 @@
       "profile_id": 12930522,
       "tag": "Kevin",
       "clan": "VENÓN",
-      "cur_1v1": 1800,
+      "cur_1v1": 1792,
       "max_1v1": 1908,
       "cur_tg": 1800,
       "max_tg": 1893,
       "last_tg": "2026-11-12",
-      "last_1v1": "2026-11-13",
+      "last_1v1": "2026-11-18",
       "live": {
-        "match": 522124206,
+        "match": 522126338,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
