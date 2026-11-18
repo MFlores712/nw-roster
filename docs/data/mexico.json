@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-18T22:35:09Z",
+  "updated_at": "2026-11-18T22:40:15Z",
   "baseline": {
     "taken_at": "2026-11-18T14:00:20Z",
     "ranks": {
@@ -68,7 +68,12 @@
       "cur_tg": 2200,
       "max_tg": 2203,
       "last_1v1": "2026-11-18",
-      "last_tg": "2026-11-17"
+      "last_tg": "2026-11-17",
+      "live": {
+        "match": 522122591,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2776293,
@@ -96,17 +101,12 @@
       "profile_id": 5984120,
       "tag": "C",
       "clan": "Ux",
-      "cur_1v1": 2630,
+      "cur_1v1": 2647,
       "max_1v1": 2790,
       "cur_tg": 1654,
       "max_tg": 1885,
       "last_1v1": "2026-11-18",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 522117144,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-16"
     },
     {
       "profile_id": 9449579,
@@ -321,13 +321,7 @@
       "cur_tg": 1808,
       "max_tg": 1962,
       "last_1v1": "2026-11-17",
-      "last_tg": "2026-11-18",
-      "live": {
-        "match": 522120983,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "SynfonY"
-      }
+      "last_tg": "2026-11-18"
     },
     {
       "profile_id": 1947348,

@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-18T22:35:09Z",
+  "updated_at": "2026-11-18T22:40:15Z",
   "baseline": {
     "taken_at": "2026-11-18T14:00:20Z",
     "ranks": {
@@ -102,10 +102,10 @@
       "clan": "NuMa",
       "cur_1v1": 2004,
       "max_1v1": 2193,
-      "cur_tg": 1621,
+      "cur_tg": 1639,
       "max_tg": 1772,
       "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-15"
+      "last_tg": "2026-11-18"
     },
     {
       "profile_id": 1062980,
