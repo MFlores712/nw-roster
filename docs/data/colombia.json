@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-18T02:05:09Z",
+  "updated_at": "2026-11-18T02:25:10Z",
   "baseline": {
     "taken_at": "2026-11-17T14:00:16Z",
     "ranks": {
@@ -51,17 +51,12 @@
       "profile_id": 6838238,
       "tag": "AngelR",
       "clan": "NuMa",
-      "cur_1v1": 2345,
+      "cur_1v1": 2338,
       "max_1v1": 2380,
       "cur_tg": 1788,
       "max_tg": 1828,
       "last_1v1": "2026-11-18",
-      "last_tg": "2026-09-05",
-      "live": {
-        "match": 521950030,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-09-05"
     },
     {
       "profile_id": 2825261,
@@ -202,15 +197,10 @@
       "clan": "AiM",
       "cur_1v1": 1744,
       "max_1v1": 1903,
-      "cur_tg": 1310,
+      "cur_tg": 1294,
       "max_tg": 1630,
       "last_1v1": "2026-11-17",
-      "last_tg": "2026-11-18",
-      "live": {
-        "match": 521946067,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-18"
     },
     {
       "profile_id": 2134856,
