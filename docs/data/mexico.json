@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-18T03:40:09Z",
+  "updated_at": "2026-11-18T03:45:09Z",
   "baseline": {
     "taken_at": "2026-11-17T14:00:16Z",
     "ranks": {
@@ -63,7 +63,7 @@
       "profile_id": 5984120,
       "tag": "C",
       "clan": "Ux",
-      "cur_1v1": 2680,
+      "cur_1v1": 2684,
       "max_1v1": 2790,
       "cur_tg": 1654,
       "max_tg": 1885,
@@ -520,21 +520,6 @@
       "last_tg": "2026-11-09"
     },
     {
-      "profile_id": 2291749,
-      "tag": "Biner",
-      "cur_1v1": 1947,
-      "max_1v1": 2016,
-      "cur_tg": 1659,
-      "max_tg": 1688,
-      "last_1v1": "2026-11-18",
-      "last_tg": "2026-10-28",
-      "live": {
-        "match": 521963622,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 278380,
       "tag": "Lemoine",
       "clan": "VL",
@@ -565,6 +550,21 @@
       "max_tg": 1821,
       "last_tg": "2026-10-16",
       "last_1v1": "2026-09-18"
+    },
+    {
+      "profile_id": 2291749,
+      "tag": "Biner",
+      "cur_1v1": 1924,
+      "max_1v1": 2016,
+      "cur_tg": 1659,
+      "max_tg": 1688,
+      "last_1v1": "2026-11-18",
+      "last_tg": "2026-10-28",
+      "live": {
+        "match": 521963622,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 324005,
