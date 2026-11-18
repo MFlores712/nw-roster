@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-18T16:25:08Z",
+  "updated_at": "2026-11-18T16:33:07Z",
   "baseline": {
     "taken_at": "2026-11-18T14:00:20Z",
     "ranks": {
@@ -178,13 +178,7 @@
       "cur_tg": 1828,
       "max_tg": 1959,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-13",
-      "live": {
-        "match": 522050891,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "Warlock_Ndk"
-      }
+      "last_tg": "2026-11-13"
     },
     {
       "profile_id": 312774,
@@ -195,13 +189,7 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 522050891,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "hK | RanDoM"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 12723994,
@@ -223,13 +211,7 @@
       "cur_tg": 1953,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-11-08",
-      "live": {
-        "match": 522050891,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "FierroFlash"
-      }
+      "last_tg": "2026-11-08"
     },
     {
       "profile_id": 9666666,
