@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-19T19:50:12Z",
+  "updated_at": "2026-11-19T19:55:11Z",
   "baseline": {
     "taken_at": "2026-11-19T14:00:17Z",
     "ranks": {
@@ -106,13 +106,7 @@
       "cur_tg": 2146,
       "max_tg": 2151,
       "last_1v1": "2026-11-16",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 522285178,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "[GDL] Chuchito"
-      }
+      "last_tg": "2026-11-16"
     },
     {
       "profile_id": 5984120,
@@ -485,12 +479,7 @@
       "cur_tg": 1869,
       "max_tg": 1997,
       "last_1v1": "2026-11-19",
-      "last_tg": "2026-11-19",
-      "live": {
-        "match": 522287336,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-11-19"
     },
     {
       "profile_id": 4764520,
@@ -577,12 +566,7 @@
       "cur_tg": 1843,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-11-19",
-      "live": {
-        "match": 522287336,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-11-19"
     },
     {
       "profile_id": 12472496,
