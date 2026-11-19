@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-19T16:15:10Z",
+  "updated_at": "2026-11-19T16:20:10Z",
   "baseline": {
     "taken_at": "2026-11-19T14:00:17Z",
     "ranks": {
@@ -63,14 +63,14 @@
       "profile_id": 2776293,
       "tag": "Kingstone",
       "clan": "Oni",
-      "cur_1v1": 2701,
+      "cur_1v1": 2718,
       "max_1v1": 2867,
       "cur_tg": 2152,
       "max_tg": 2169,
       "last_tg": "2026-10-08",
       "last_1v1": "2026-11-19",
       "live": {
-        "match": 522249575,
+        "match": 522252085,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -185,7 +185,7 @@
       "last_1v1": "2026-11-14",
       "last_tg": "2026-11-13",
       "live": {
-        "match": 522249953,
+        "match": 522251685,
         "game": "1v1 Random Map",
         "format": "1v1",
         "account": "Warlock_Ndk"
@@ -200,13 +200,7 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 522247353,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "hK | RanDoM"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 12723994,
@@ -609,17 +603,12 @@
       "profile_id": 13241217,
       "tag": "BlueUltra",
       "clan": "Ux",
-      "cur_1v1": 1890,
+      "cur_1v1": 1874,
       "max_1v1": 1997,
       "cur_tg": 1709,
       "max_tg": 1737,
       "last_1v1": "2026-11-19",
-      "last_tg": "2026-11-19",
-      "live": {
-        "match": 522247766,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-19"
     },
     {
       "profile_id": 233625,
