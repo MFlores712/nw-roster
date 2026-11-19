@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-19T22:55:09Z",
+  "updated_at": "2026-11-19T23:00:24Z",
   "baseline": {
     "taken_at": "2026-11-19T14:00:17Z",
     "ranks": {
@@ -56,15 +56,10 @@
       "clan": "LE",
       "cur_1v1": 2503,
       "max_1v1": 2503,
-      "cur_tg": 1668,
+      "cur_tg": 1659,
       "max_tg": 1846,
       "last_1v1": "2026-11-11",
-      "last_tg": "2026-11-19",
-      "live": {
-        "match": 522323194,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-11-19"
     },
     {
       "profile_id": 4706179,
@@ -143,17 +138,12 @@
     {
       "profile_id": 633255,
       "tag": "Tempo",
-      "cur_1v1": 2017,
+      "cur_1v1": 2009,
       "max_1v1": 2177,
       "cur_tg": 1680,
       "max_tg": 1843,
-      "last_1v1": "2026-11-18",
-      "last_tg": "2026-11-13",
-      "live": {
-        "match": 522322364,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-19",
+      "last_tg": "2026-11-13"
     },
     {
       "profile_id": 4229962,
