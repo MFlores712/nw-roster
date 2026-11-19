@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-19T03:40:09Z",
+  "updated_at": "2026-11-19T03:50:10Z",
   "baseline": {
     "taken_at": "2026-11-18T14:00:20Z",
     "ranks": {
@@ -305,7 +305,7 @@
       "profile_id": 2934597,
       "tag": "Sgt.Pepper",
       "clan": "nW",
-      "cur_1v1": 2110,
+      "cur_1v1": 2119,
       "max_1v1": 2210,
       "cur_tg": 1731,
       "max_tg": 1747,
@@ -318,6 +318,17 @@
       }
     },
     {
+      "profile_id": 2850920,
+      "tag": "Chimtzin",
+      "clan": "Ux",
+      "cur_1v1": 2105,
+      "max_1v1": 2124,
+      "cur_tg": 1632,
+      "max_tg": 1820,
+      "last_1v1": "2026-11-19",
+      "last_tg": "2026-11-16"
+    },
+    {
       "profile_id": 9770338,
       "tag": "SynfonY",
       "clan": "CL",
@@ -326,7 +337,13 @@
       "cur_tg": 1808,
       "max_tg": 1962,
       "last_1v1": "2026-11-17",
-      "last_tg": "2026-11-18"
+      "last_tg": "2026-11-18",
+      "live": {
+        "match": 522169779,
+        "game": "Unranked",
+        "format": "1v2",
+        "account": "SynfonY"
+      }
     },
     {
       "profile_id": 1947348,
@@ -338,22 +355,6 @@
       "max_tg": 2034,
       "last_1v1": "2026-07-08",
       "last_tg": "2026-10-21"
-    },
-    {
-      "profile_id": 2850920,
-      "tag": "Chimtzin",
-      "clan": "Ux",
-      "cur_1v1": 2093,
-      "max_1v1": 2124,
-      "cur_tg": 1632,
-      "max_tg": 1820,
-      "last_1v1": "2026-11-19",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 522167530,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 917863,
@@ -621,7 +622,12 @@
       "cur_tg": 1777,
       "max_tg": 1871,
       "last_tg": "2026-09-28",
-      "last_1v1": "2026-10-12"
+      "last_1v1": "2026-10-12",
+      "live": {
+        "match": 522170682,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     }
   ],
   "show_top": 45,
