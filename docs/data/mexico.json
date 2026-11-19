@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-19T00:15:10Z",
+  "updated_at": "2026-11-19T00:20:09Z",
   "baseline": {
     "taken_at": "2026-11-18T14:00:20Z",
     "ranks": {
@@ -321,7 +321,13 @@
       "cur_tg": 1808,
       "max_tg": 1962,
       "last_1v1": "2026-11-17",
-      "last_tg": "2026-11-18"
+      "last_tg": "2026-11-18",
+      "live": {
+        "match": 522138446,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "Zoschenko17"
+      }
     },
     {
       "profile_id": 1947348,
