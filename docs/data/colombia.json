@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-19T18:25:08Z",
+  "updated_at": "2026-11-19T18:35:10Z",
   "baseline": {
     "taken_at": "2026-11-19T14:00:17Z",
     "ranks": {
@@ -40,7 +40,7 @@
       "profile_id": 13267917,
       "tag": "Manuel",
       "clan": "nW",
-      "cur_1v1": 2338,
+      "cur_1v1": 2331,
       "max_1v1": 2495,
       "cur_tg": 1887,
       "max_tg": 1945,
@@ -61,7 +61,13 @@
       "cur_tg": 1788,
       "max_tg": 1828,
       "last_1v1": "2026-11-19",
-      "last_tg": "2026-09-05"
+      "last_tg": "2026-09-05",
+      "live": {
+        "match": 522274794,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "NuMa | Empire"
+      }
     },
     {
       "profile_id": 2825261,
