@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-19T23:25:11Z",
+  "updated_at": "2026-11-19T23:35:08Z",
   "baseline": {
     "taken_at": "2026-11-19T14:00:17Z",
     "ranks": {
@@ -40,17 +40,12 @@
       "profile_id": 6838238,
       "tag": "AngelR",
       "clan": "NuMa",
-      "cur_1v1": 2323,
+      "cur_1v1": 2344,
       "max_1v1": 2380,
       "cur_tg": 1788,
       "max_tg": 1828,
       "last_1v1": "2026-11-19",
-      "last_tg": "2026-09-05",
-      "live": {
-        "match": 522327263,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-09-05"
     },
     {
       "profile_id": 13267917,
@@ -136,7 +131,12 @@
       "cur_tg": 1871,
       "max_tg": 1893,
       "last_tg": "2026-11-19",
-      "last_1v1": "2026-11-01"
+      "last_1v1": "2026-11-01",
+      "live": {
+        "match": 522330892,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2479622,
@@ -147,7 +147,13 @@
       "cur_tg": 1900,
       "max_tg": 1905,
       "last_1v1": "2026-09-21",
-      "last_tg": "2026-10-02"
+      "last_tg": "2026-10-02",
+      "live": {
+        "match": 522330889,
+        "game": "Team Random Map",
+        "format": "2v2",
+        "account": "[GDL] Capitan Nicky"
+      }
     },
     {
       "profile_id": 1542191,
