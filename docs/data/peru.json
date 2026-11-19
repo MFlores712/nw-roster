@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-19T02:55:09Z",
+  "updated_at": "2026-11-19T03:00:16Z",
   "baseline": {
     "taken_at": "2026-11-18T14:00:20Z",
     "ranks": {
@@ -64,12 +64,7 @@
       "cur_tg": 1690,
       "max_tg": 1846,
       "last_1v1": "2026-11-11",
-      "last_tg": "2026-11-14",
-      "live": {
-        "match": 522162024,
-        "game": "Unranked",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-14"
     },
     {
       "profile_id": 4706179,
@@ -135,15 +130,10 @@
       "tag": "noru",
       "cur_1v1": 2031,
       "max_1v1": 2031,
-      "cur_tg": 1749,
+      "cur_tg": 1768,
       "max_tg": 1840,
       "last_tg": "2026-11-19",
-      "last_1v1": "2026-09-24",
-      "live": {
-        "match": 522159282,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_1v1": "2026-09-24"
     },
     {
       "profile_id": 13518993,
@@ -222,7 +212,13 @@
       "cur_tg": 1740,
       "max_tg": 1843,
       "last_tg": "2026-11-18",
-      "last_1v1": "2026-11-19"
+      "last_1v1": "2026-11-19",
+      "live": {
+        "match": 522163460,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "CTM | Lelouch ELO bajito"
+      }
     },
     {
       "profile_id": 4234652,
