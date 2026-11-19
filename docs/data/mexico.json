@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-19T00:05:08Z",
+  "updated_at": "2026-11-19T00:15:10Z",
   "baseline": {
     "taken_at": "2026-11-18T14:00:20Z",
     "ranks": {
@@ -189,7 +189,13 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 522137455,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "hK | RanDoM"
+      }
     },
     {
       "profile_id": 12723994,
@@ -258,22 +264,6 @@
       "last_tg": "2026-11-17"
     },
     {
-      "profile_id": 3816609,
-      "tag": "iamkaito",
-      "clan": "nW",
-      "cur_1v1": 2242,
-      "max_1v1": 2304,
-      "cur_tg": 1854,
-      "max_tg": 1907,
-      "last_1v1": "2026-11-18",
-      "last_tg": "2026-11-15",
-      "live": {
-        "match": 522133721,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 914665,
       "tag": "Caguamas",
       "clan": "nW",
@@ -283,6 +273,22 @@
       "max_tg": 2024,
       "last_1v1": "2026-11-18",
       "last_tg": "2026-11-17"
+    },
+    {
+      "profile_id": 3816609,
+      "tag": "iamkaito",
+      "clan": "nW",
+      "cur_1v1": 2229,
+      "max_1v1": 2304,
+      "cur_tg": 1854,
+      "max_tg": 1907,
+      "last_1v1": "2026-11-19",
+      "last_tg": "2026-11-15",
+      "live": {
+        "match": 522137702,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 757886,
@@ -554,13 +560,7 @@
       "cur_tg": 1839,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-11-14",
-      "live": {
-        "match": 522134062,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "EXILE | Onichan Nya"
-      }
+      "last_tg": "2026-11-14"
     },
     {
       "profile_id": 12472496,
@@ -574,6 +574,17 @@
       "last_1v1": "2026-10-16"
     },
     {
+      "profile_id": 13241217,
+      "tag": "BlueUltra",
+      "clan": "Ux",
+      "cur_1v1": 1891,
+      "max_1v1": 1997,
+      "cur_tg": 1677,
+      "max_tg": 1737,
+      "last_1v1": "2026-11-19",
+      "last_tg": "2026-11-15"
+    },
+    {
       "profile_id": 3254820,
       "tag": "__Chino",
       "cur_1v1": 1886,
@@ -582,22 +593,6 @@
       "max_tg": 1543,
       "last_1v1": "2026-11-18",
       "last_tg": "2026-11-18"
-    },
-    {
-      "profile_id": 13241217,
-      "tag": "BlueUltra",
-      "clan": "Ux",
-      "cur_1v1": 1874,
-      "max_1v1": 1997,
-      "cur_tg": 1677,
-      "max_tg": 1737,
-      "last_1v1": "2026-11-18",
-      "last_tg": "2026-11-15",
-      "live": {
-        "match": 522134266,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 2926018,
