@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-19T03:15:11Z",
+  "updated_at": "2026-11-19T03:25:07Z",
   "baseline": {
     "taken_at": "2026-11-18T14:00:20Z",
     "ranks": {
@@ -263,6 +263,17 @@
       "last_1v1": "2026-11-17"
     },
     {
+      "profile_id": 4412109,
+      "tag": "HGB",
+      "clan": "hK",
+      "cur_1v1": 2244,
+      "max_1v1": 2365,
+      "cur_tg": 2093,
+      "max_tg": 2093,
+      "last_1v1": "2026-11-19",
+      "last_tg": "2026-11-17"
+    },
+    {
       "profile_id": 914665,
       "tag": "Caguamas",
       "clan": "nW",
@@ -272,22 +283,6 @@
       "max_tg": 2024,
       "last_1v1": "2026-11-18",
       "last_tg": "2026-11-17"
-    },
-    {
-      "profile_id": 4412109,
-      "tag": "HGB",
-      "clan": "hK",
-      "cur_1v1": 2229,
-      "max_1v1": 2365,
-      "cur_tg": 2093,
-      "max_tg": 2093,
-      "last_1v1": "2026-11-19",
-      "last_tg": "2026-11-17",
-      "live": {
-        "match": 522164666,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 3816609,
@@ -323,6 +318,22 @@
       "last_tg": "2026-11-16"
     },
     {
+      "profile_id": 2934597,
+      "tag": "Sgt.Pepper",
+      "clan": "nW",
+      "cur_1v1": 2110,
+      "max_1v1": 2210,
+      "cur_tg": 1731,
+      "max_tg": 1747,
+      "last_1v1": "2026-11-19",
+      "last_tg": "2026-10-27",
+      "live": {
+        "match": 522163988,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 9770338,
       "tag": "SynfonY",
       "clan": "CL",
@@ -345,33 +356,17 @@
       "last_tg": "2026-10-21"
     },
     {
-      "profile_id": 2934597,
-      "tag": "Sgt.Pepper",
-      "clan": "nW",
-      "cur_1v1": 2091,
-      "max_1v1": 2210,
-      "cur_tg": 1731,
-      "max_tg": 1747,
-      "last_1v1": "2026-11-18",
-      "last_tg": "2026-10-27",
-      "live": {
-        "match": 522163988,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 2850920,
       "tag": "Chimtzin",
       "clan": "Ux",
-      "cur_1v1": 2079,
+      "cur_1v1": 2093,
       "max_1v1": 2124,
       "cur_tg": 1632,
       "max_tg": 1820,
       "last_1v1": "2026-11-19",
       "last_tg": "2026-11-16",
       "live": {
-        "match": 522165308,
+        "match": 522167530,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
