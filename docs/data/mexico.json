@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-19T05:05:08Z",
+  "updated_at": "2026-11-19T05:10:09Z",
   "baseline": {
     "taken_at": "2026-11-18T14:00:20Z",
     "ranks": {
@@ -421,6 +421,16 @@
       "last_tg": "2026-10-31"
     },
     {
+      "profile_id": 2291749,
+      "tag": "Biner",
+      "cur_1v1": 1999,
+      "max_1v1": 2016,
+      "cur_tg": 1659,
+      "max_tg": 1688,
+      "last_1v1": "2026-11-19",
+      "last_tg": "2026-10-28"
+    },
+    {
       "profile_id": 6501299,
       "tag": "ShutAzarquay",
       "clan": "nW",
@@ -430,21 +440,6 @@
       "max_tg": 1750,
       "last_tg": "2026-11-15",
       "last_1v1": "2026-10-24"
-    },
-    {
-      "profile_id": 2291749,
-      "tag": "Biner",
-      "cur_1v1": 1976,
-      "max_1v1": 2016,
-      "cur_tg": 1659,
-      "max_tg": 1688,
-      "last_1v1": "2026-11-19",
-      "last_tg": "2026-10-28",
-      "live": {
-        "match": 522177760,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 278380,
