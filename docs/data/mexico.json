@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-19T18:40:16Z",
+  "updated_at": "2026-11-19T18:45:23Z",
   "baseline": {
     "taken_at": "2026-11-19T14:00:17Z",
     "ranks": {
@@ -112,7 +112,12 @@
       "cur_tg": 1654,
       "max_tg": 1885,
       "last_1v1": "2026-11-19",
-      "last_tg": "2026-11-16"
+      "last_tg": "2026-11-16",
+      "live": {
+        "match": 522276756,
+        "game": "Unranked",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 401359,
@@ -399,7 +404,12 @@
       "cur_tg": 1731,
       "max_tg": 1870,
       "last_1v1": "2026-10-31",
-      "last_tg": "2026-11-19"
+      "last_tg": "2026-11-19",
+      "live": {
+        "match": 522277323,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 1708286,
@@ -466,6 +476,17 @@
       "last_tg": "2026-11-17"
     },
     {
+      "profile_id": 1249720,
+      "tag": "Lice_Slide",
+      "clan": "VN",
+      "cur_1v1": 1962,
+      "max_1v1": 2121,
+      "cur_tg": 1865,
+      "max_tg": 1997,
+      "last_1v1": "2026-11-19",
+      "last_tg": "2026-11-18"
+    },
+    {
       "profile_id": 4764520,
       "tag": "BooMBastic_",
       "clan": "KH",
@@ -497,22 +518,6 @@
       "max_tg": 1824,
       "last_1v1": "2026-10-25",
       "last_tg": "2026-11-19"
-    },
-    {
-      "profile_id": 1249720,
-      "tag": "Lice_Slide",
-      "clan": "VN",
-      "cur_1v1": 1954,
-      "max_1v1": 2121,
-      "cur_tg": 1865,
-      "max_tg": 1997,
-      "last_1v1": "2026-11-19",
-      "last_tg": "2026-11-18",
-      "live": {
-        "match": 522275219,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 2986966,
@@ -598,7 +603,12 @@
       "cur_tg": 1742,
       "max_tg": 1888,
       "last_1v1": "2026-11-19",
-      "last_tg": "2026-11-19"
+      "last_tg": "2026-11-19",
+      "live": {
+        "match": 522277323,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 13241217,

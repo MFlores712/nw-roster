@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-19T18:40:16Z",
+  "updated_at": "2026-11-19T18:45:23Z",
   "baseline": {
     "taken_at": "2026-11-19T14:00:17Z",
     "ranks": {
@@ -184,12 +184,7 @@
       "cur_tg": 1726,
       "max_tg": 1839,
       "last_tg": "2026-11-19",
-      "last_1v1": "2026-10-09",
-      "live": {
-        "match": 522268901,
-        "game": "Unranked",
-        "format": "4v4"
-      }
+      "last_1v1": "2026-10-09"
     },
     {
       "profile_id": 12722189,
