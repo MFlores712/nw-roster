@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-19T06:15:09Z",
+  "updated_at": "2026-11-19T06:20:14Z",
   "baseline": {
     "taken_at": "2026-11-18T14:00:20Z",
     "ranks": {
@@ -112,7 +112,13 @@
       "cur_tg": 2146,
       "max_tg": 2151,
       "last_1v1": "2026-11-16",
-      "last_tg": "2026-11-16"
+      "last_tg": "2026-11-16",
+      "live": {
+        "match": 522186109,
+        "game": "Team Random Map",
+        "format": "3v3",
+        "account": "[GDL] Chuchito"
+      }
     },
     {
       "profile_id": 401359,
@@ -414,17 +420,12 @@
       "profile_id": 2876835,
       "tag": "Abejorro",
       "clan": "nW",
-      "cur_1v1": 2000,
+      "cur_1v1": 2007,
       "max_1v1": 2152,
       "cur_tg": 1834,
       "max_tg": 1844,
-      "last_1v1": "2026-11-10",
-      "last_tg": "2026-10-31",
-      "live": {
-        "match": 522183168,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-19",
+      "last_tg": "2026-10-31"
     },
     {
       "profile_id": 2291749,
@@ -622,7 +623,12 @@
       "cur_tg": 1777,
       "max_tg": 1871,
       "last_tg": "2026-09-28",
-      "last_1v1": "2026-10-12"
+      "last_1v1": "2026-10-12",
+      "live": {
+        "match": 522185980,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     }
   ],
   "show_top": 45,
