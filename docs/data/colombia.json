@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-19T18:55:10Z",
+  "updated_at": "2026-11-19T19:15:20Z",
   "baseline": {
     "taken_at": "2026-11-19T14:00:17Z",
     "ranks": {
@@ -37,22 +37,6 @@
       "last_tg": "2026-10-27"
     },
     {
-      "profile_id": 13267917,
-      "tag": "Manuel",
-      "clan": "nW",
-      "cur_1v1": 2324,
-      "max_1v1": 2495,
-      "cur_tg": 1887,
-      "max_tg": 1945,
-      "last_1v1": "2026-11-19",
-      "last_tg": "2026-11-19",
-      "live": {
-        "match": 522278909,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 6838238,
       "tag": "AngelR",
       "clan": "NuMa",
@@ -61,13 +45,18 @@
       "cur_tg": 1788,
       "max_tg": 1828,
       "last_1v1": "2026-11-19",
-      "last_tg": "2026-09-05",
-      "live": {
-        "match": 522274794,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "NuMa | Empire"
-      }
+      "last_tg": "2026-09-05"
+    },
+    {
+      "profile_id": 13267917,
+      "tag": "Manuel",
+      "clan": "nW",
+      "cur_1v1": 2295,
+      "max_1v1": 2495,
+      "cur_tg": 1887,
+      "max_tg": 1945,
+      "last_1v1": "2026-11-19",
+      "last_tg": "2026-11-19"
     },
     {
       "profile_id": 2825261,
