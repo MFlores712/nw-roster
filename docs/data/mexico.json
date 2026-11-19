@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-19T18:10:09Z",
+  "updated_at": "2026-11-19T18:15:10Z",
   "baseline": {
     "taken_at": "2026-11-19T14:00:17Z",
     "ranks": {
@@ -90,7 +90,12 @@
       "cur_tg": 1826,
       "max_tg": 1999,
       "last_1v1": "2026-11-11",
-      "last_tg": "2026-11-18"
+      "last_tg": "2026-11-18",
+      "live": {
+        "match": 522271639,
+        "game": "Unranked",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 9449579,
@@ -139,7 +144,13 @@
       "cur_tg": 2112,
       "max_tg": 2112,
       "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-17"
+      "last_tg": "2026-11-17",
+      "live": {
+        "match": 522271360,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "The_Fury"
+      }
     },
     {
       "profile_id": 2598146,
@@ -593,17 +604,12 @@
       "profile_id": 2926018,
       "tag": "PerezPodrido",
       "clan": "SotC",
-      "cur_1v1": 1898,
+      "cur_1v1": 1877,
       "max_1v1": 2039,
       "cur_tg": 1725,
       "max_tg": 1888,
       "last_1v1": "2026-11-19",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 522269517,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-16"
     },
     {
       "profile_id": 13241217,
