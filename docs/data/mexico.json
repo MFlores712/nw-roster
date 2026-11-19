@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-19T19:15:20Z",
+  "updated_at": "2026-11-19T19:20:10Z",
   "baseline": {
     "taken_at": "2026-11-19T14:00:17Z",
     "ranks": {
@@ -139,7 +139,13 @@
       "cur_tg": 2112,
       "max_tg": 2112,
       "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-17"
+      "last_tg": "2026-11-17",
+      "live": {
+        "match": 522283611,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "The_Fury"
+      }
     },
     {
       "profile_id": 2598146,
@@ -389,15 +395,10 @@
       "clan": "SotC",
       "cur_1v1": 2054,
       "max_1v1": 2098,
-      "cur_tg": 1731,
+      "cur_tg": 1713,
       "max_tg": 1870,
       "last_1v1": "2026-10-31",
-      "last_tg": "2026-11-19",
-      "live": {
-        "match": 522277323,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-19"
     },
     {
       "profile_id": 1708286,
@@ -588,15 +589,10 @@
       "clan": "SotC",
       "cur_1v1": 1877,
       "max_1v1": 2039,
-      "cur_tg": 1742,
+      "cur_tg": 1724,
       "max_tg": 1888,
       "last_1v1": "2026-11-19",
-      "last_tg": "2026-11-19",
-      "live": {
-        "match": 522277323,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-19"
     },
     {
       "profile_id": 13241217,
