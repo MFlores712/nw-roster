@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-19T06:05:08Z",
+  "updated_at": "2026-11-19T06:15:09Z",
   "baseline": {
     "taken_at": "2026-11-18T14:00:20Z",
     "ranks": {
@@ -243,6 +243,17 @@
       "last_tg": "2026-11-17"
     },
     {
+      "profile_id": 4412109,
+      "tag": "HGB",
+      "clan": "hK",
+      "cur_1v1": 2260,
+      "max_1v1": 2365,
+      "cur_tg": 2093,
+      "max_tg": 2093,
+      "last_1v1": "2026-11-19",
+      "last_tg": "2026-11-17"
+    },
+    {
       "profile_id": 5803221,
       "tag": "Mahmoud Ahmadinejad",
       "cur_1v1": 2255,
@@ -251,22 +262,6 @@
       "max_tg": 1654,
       "last_tg": "2026-11-14",
       "last_1v1": "2026-11-17"
-    },
-    {
-      "profile_id": 4412109,
-      "tag": "HGB",
-      "clan": "hK",
-      "cur_1v1": 2253,
-      "max_1v1": 2365,
-      "cur_tg": 2093,
-      "max_tg": 2093,
-      "last_1v1": "2026-11-19",
-      "last_tg": "2026-11-17",
-      "live": {
-        "match": 522183539,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 914665,
@@ -627,12 +622,7 @@
       "cur_tg": 1777,
       "max_tg": 1871,
       "last_tg": "2026-09-28",
-      "last_1v1": "2026-10-12",
-      "live": {
-        "match": 522184636,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_1v1": "2026-10-12"
     }
   ],
   "show_top": 45,
