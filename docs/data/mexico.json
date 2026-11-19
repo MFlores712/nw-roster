@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-19T00:25:09Z",
+  "updated_at": "2026-11-19T00:30:13Z",
   "baseline": {
     "taken_at": "2026-11-18T14:00:20Z",
     "ranks": {
@@ -321,13 +321,7 @@
       "cur_tg": 1808,
       "max_tg": 1962,
       "last_1v1": "2026-11-17",
-      "last_tg": "2026-11-18",
-      "live": {
-        "match": 522138446,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "Zoschenko17"
-      }
+      "last_tg": "2026-11-18"
     },
     {
       "profile_id": 1947348,
@@ -603,23 +597,23 @@
       "cur_tg": 1512,
       "max_tg": 1543,
       "last_1v1": "2026-11-18",
-      "last_tg": "2026-11-18"
+      "last_tg": "2026-11-18",
+      "live": {
+        "match": 522139755,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2926018,
       "tag": "PerezPodrido",
       "clan": "SotC",
-      "cur_1v1": 1841,
+      "cur_1v1": 1855,
       "max_1v1": 2039,
       "cur_tg": 1725,
       "max_tg": 1888,
-      "last_1v1": "2026-11-18",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 522135953,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-19",
+      "last_tg": "2026-11-16"
     },
     {
       "profile_id": 233625,

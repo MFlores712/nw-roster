@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-19T00:25:09Z",
+  "updated_at": "2026-11-19T00:30:13Z",
   "baseline": {
     "taken_at": "2026-11-18T14:00:20Z",
     "ranks": {
@@ -42,10 +42,10 @@
       "clan": "nW",
       "cur_1v1": 2363,
       "max_1v1": 2495,
-      "cur_tg": 1900,
+      "cur_tg": 1904,
       "max_tg": 1945,
       "last_1v1": "2026-11-18",
-      "last_tg": "2026-11-15",
+      "last_tg": "2026-11-19",
       "live": {
         "match": 522138518,
         "game": "Team Random Map",
@@ -69,10 +69,10 @@
       "clan": "VL",
       "cur_1v1": 2161,
       "max_1v1": 2190,
-      "cur_tg": 1846,
+      "cur_tg": 1851,
       "max_tg": 1947,
       "last_1v1": "2026-10-28",
-      "last_tg": "2026-11-15",
+      "last_tg": "2026-11-19",
       "live": {
         "match": 522138518,
         "game": "Team Random Map",
@@ -107,22 +107,6 @@
       }
     },
     {
-      "profile_id": 1743420,
-      "tag": "OliverAtom",
-      "clan": "NuMa",
-      "cur_1v1": 2004,
-      "max_1v1": 2193,
-      "cur_tg": 1639,
-      "max_tg": 1772,
-      "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-18",
-      "live": {
-        "match": 522138081,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 1062980,
       "tag": "DeaH",
       "clan": "VLC",
@@ -132,6 +116,22 @@
       "max_tg": 1764,
       "last_1v1": "2026-10-23",
       "last_tg": "2026-11-17"
+    },
+    {
+      "profile_id": 1743420,
+      "tag": "OliverAtom",
+      "clan": "NuMa",
+      "cur_1v1": 2000,
+      "max_1v1": 2193,
+      "cur_tg": 1639,
+      "max_tg": 1772,
+      "last_1v1": "2026-11-19",
+      "last_tg": "2026-11-18",
+      "live": {
+        "match": 522140006,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 5368998,
@@ -184,17 +184,12 @@
       "profile_id": 12930522,
       "tag": "Kevin",
       "clan": "VENÓN",
-      "cur_1v1": 1843,
+      "cur_1v1": 1852,
       "max_1v1": 1908,
       "cur_tg": 1800,
       "max_tg": 1893,
       "last_tg": "2026-11-12",
-      "last_1v1": "2026-11-19",
-      "live": {
-        "match": 522138619,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-19"
     },
     {
       "profile_id": 10733016,
