@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-19T01:50:08Z",
+  "updated_at": "2026-11-19T01:55:08Z",
   "baseline": {
     "taken_at": "2026-11-18T14:00:20Z",
     "ranks": {
@@ -360,7 +360,12 @@
       "cur_tg": 1632,
       "max_tg": 1820,
       "last_1v1": "2026-11-17",
-      "last_tg": "2026-11-16"
+      "last_tg": "2026-11-16",
+      "live": {
+        "match": 522153245,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 917863,
@@ -409,17 +414,12 @@
       "profile_id": 358501,
       "tag": "El Claut_One",
       "clan": "VENÓN",
-      "cur_1v1": 2013,
+      "cur_1v1": 2024,
       "max_1v1": 2115,
       "cur_tg": 1710,
       "max_tg": 1820,
       "last_tg": "2026-11-17",
-      "last_1v1": "2026-11-18",
-      "live": {
-        "match": 522151117,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-19"
     },
     {
       "profile_id": 2876835,
@@ -624,7 +624,12 @@
       "cur_tg": 1704,
       "max_tg": 1737,
       "last_1v1": "2026-11-19",
-      "last_tg": "2026-11-19"
+      "last_tg": "2026-11-19",
+      "live": {
+        "match": 522153434,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 233625,
