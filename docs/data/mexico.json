@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-19T23:25:11Z",
+  "updated_at": "2026-11-19T23:30:20Z",
   "baseline": {
     "taken_at": "2026-11-19T14:00:17Z",
     "ranks": {
@@ -332,13 +332,7 @@
       "cur_tg": 1821,
       "max_tg": 1962,
       "last_1v1": "2026-11-17",
-      "last_tg": "2026-11-19",
-      "live": {
-        "match": 522329594,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "Zoschenko17"
-      }
+      "last_tg": "2026-11-19"
     },
     {
       "profile_id": 1947348,
@@ -438,6 +432,22 @@
       "last_1v1": "2026-10-24"
     },
     {
+      "profile_id": 1249720,
+      "tag": "Lice_Slide",
+      "clan": "VN",
+      "cur_1v1": 1974,
+      "max_1v1": 2121,
+      "cur_tg": 1877,
+      "max_tg": 1997,
+      "last_1v1": "2026-11-19",
+      "last_tg": "2026-11-19",
+      "live": {
+        "match": 522330734,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 278380,
       "tag": "Lemoine",
       "clan": "VL",
@@ -458,22 +468,6 @@
       "max_tg": 1798,
       "last_1v1": "2026-09-29",
       "last_tg": "2026-11-17"
-    },
-    {
-      "profile_id": 1249720,
-      "tag": "Lice_Slide",
-      "clan": "VN",
-      "cur_1v1": 1962,
-      "max_1v1": 2121,
-      "cur_tg": 1877,
-      "max_tg": 1997,
-      "last_1v1": "2026-11-19",
-      "last_tg": "2026-11-19",
-      "live": {
-        "match": 522328808,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 4764520,
