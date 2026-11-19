@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-19T01:30:12Z",
+  "updated_at": "2026-11-19T01:35:09Z",
   "baseline": {
     "taken_at": "2026-11-18T14:00:20Z",
     "ranks": {
@@ -431,14 +431,14 @@
       "profile_id": 1249720,
       "tag": "Lice_Slide",
       "clan": "VN",
-      "cur_1v1": 1982,
+      "cur_1v1": 1973,
       "max_1v1": 2121,
       "cur_tg": 1865,
       "max_tg": 1997,
       "last_1v1": "2026-11-19",
       "last_tg": "2026-11-18",
       "live": {
-        "match": 522145697,
+        "match": 522150314,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -506,13 +506,7 @@
       "cur_tg": 1713,
       "max_tg": 1824,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 522146767,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "jax_teller"
-      }
+      "last_tg": "2026-11-16"
     },
     {
       "profile_id": 2986966,
@@ -587,7 +581,12 @@
       "cur_tg": 1512,
       "max_tg": 1543,
       "last_1v1": "2026-11-19",
-      "last_tg": "2026-11-18"
+      "last_tg": "2026-11-18",
+      "live": {
+        "match": 522150262,
+        "game": "Team Random Map",
+        "format": "2v2"
+      }
     },
     {
       "profile_id": 2926018,
@@ -598,7 +597,12 @@
       "cur_tg": 1725,
       "max_tg": 1888,
       "last_1v1": "2026-11-19",
-      "last_tg": "2026-11-16"
+      "last_tg": "2026-11-16",
+      "live": {
+        "match": 522150149,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 13241217,
