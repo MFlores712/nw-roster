@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-20T22:30:16Z",
+  "updated_at": "2026-11-20T22:40:13Z",
   "baseline": {
     "taken_at": "2026-11-20T14:00:18Z",
     "ranks": {
@@ -176,7 +176,13 @@
       "cur_tg": 1474,
       "max_tg": 1608,
       "last_1v1": "2026-09-19",
-      "last_tg": "2026-11-18"
+      "last_tg": "2026-11-18",
+      "live": {
+        "match": 522538054,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "CTM | VaccumDestroyer"
+      }
     },
     {
       "profile_id": 3034651,
@@ -194,28 +200,23 @@
       }
     },
     {
-      "profile_id": 4167535,
-      "tag": "Dia franptom",
-      "clan": "LE",
-      "cur_1v1": 1814,
-      "max_1v1": 2001,
-      "cur_tg": 1438,
-      "max_tg": 1581,
-      "last_1v1": "2026-11-20",
-      "last_tg": "2026-11-19",
-      "live": {
-        "match": 522535763,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 4234652,
       "tag": "_The_Oldergold",
       "cur_1v1": 1810,
       "max_1v1": 1940,
       "cur_tg": 1532,
       "max_tg": 1719,
+      "last_1v1": "2026-11-20",
+      "last_tg": "2026-11-19"
+    },
+    {
+      "profile_id": 4167535,
+      "tag": "Dia franptom",
+      "clan": "LE",
+      "cur_1v1": 1802,
+      "max_1v1": 2001,
+      "cur_tg": 1438,
+      "max_tg": 1581,
       "last_1v1": "2026-11-20",
       "last_tg": "2026-11-19"
     },
