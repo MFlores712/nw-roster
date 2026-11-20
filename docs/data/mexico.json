@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-20T22:45:11Z",
+  "updated_at": "2026-11-20T22:55:11Z",
   "baseline": {
     "taken_at": "2026-11-20T14:00:18Z",
     "ranks": {
@@ -172,7 +172,13 @@
       "cur_tg": 1845,
       "max_tg": 1907,
       "last_1v1": "2026-11-11",
-      "last_tg": "2026-10-14"
+      "last_tg": "2026-10-14",
+      "live": {
+        "match": 522540988,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "Volg"
+      }
     },
     {
       "profile_id": 310739,
@@ -185,7 +191,7 @@
       "last_1v1": "2026-11-14",
       "last_tg": "2026-11-13",
       "live": {
-        "match": 522536246,
+        "match": 522540988,
         "game": "1v1 Random Map",
         "format": "1v1",
         "account": "Warlock_Ndk"
