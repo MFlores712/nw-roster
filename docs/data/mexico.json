@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-20T00:15:10Z",
+  "updated_at": "2026-11-20T00:20:10Z",
   "baseline": {
     "taken_at": "2026-11-19T14:00:17Z",
     "ranks": {
@@ -267,7 +267,7 @@
       "last_tg": "2026-11-14",
       "last_1v1": "2026-11-17",
       "live": {
-        "match": 522334546,
+        "match": 522337599,
         "game": "Team Random Map",
         "format": "4v4",
         "account": "emmanueldltq08"
@@ -575,7 +575,13 @@
       "cur_tg": 1853,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-11-19"
+      "last_tg": "2026-11-19",
+      "live": {
+        "match": 522337641,
+        "game": "Team Random Map",
+        "format": "3v3",
+        "account": "EXILE | Onichan Nya"
+      }
     },
     {
       "profile_id": 12472496,
@@ -583,15 +589,10 @@
       "clan": "Ux",
       "cur_1v1": 1909,
       "max_1v1": 1909,
-      "cur_tg": 1631,
+      "cur_tg": 1650,
       "max_tg": 1805,
-      "last_tg": "2026-11-13",
-      "last_1v1": "2026-10-16",
-      "live": {
-        "match": 522332493,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-20",
+      "last_1v1": "2026-10-16"
     },
     {
       "profile_id": 2926018,
