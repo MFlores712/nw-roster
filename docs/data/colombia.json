@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-20T03:20:10Z",
+  "updated_at": "2026-11-20T03:30:20Z",
   "baseline": {
     "taken_at": "2026-11-19T14:00:17Z",
     "ranks": {
@@ -80,6 +80,17 @@
       "last_tg": "2026-11-15"
     },
     {
+      "profile_id": 1062980,
+      "tag": "DeaH",
+      "clan": "VLC",
+      "cur_1v1": 2010,
+      "max_1v1": 2010,
+      "cur_tg": 1716,
+      "max_tg": 1764,
+      "last_1v1": "2026-11-20",
+      "last_tg": "2026-11-17"
+    },
+    {
       "profile_id": 2955846,
       "tag": "KauTrEnS",
       "clan": "FMG",
@@ -119,22 +130,6 @@
       "last_tg": "2026-11-18"
     },
     {
-      "profile_id": 1062980,
-      "tag": "DeaH",
-      "clan": "VLC",
-      "cur_1v1": 1991,
-      "max_1v1": 2008,
-      "cur_tg": 1716,
-      "max_tg": 1764,
-      "last_1v1": "2026-11-20",
-      "last_tg": "2026-11-17",
-      "live": {
-        "match": 522362846,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 5368998,
       "tag": "Matazombies",
       "cur_1v1": 1991,
@@ -163,13 +158,7 @@
       "cur_tg": 1871,
       "max_tg": 1871,
       "last_tg": "2026-11-14",
-      "last_1v1": "2026-10-27",
-      "live": {
-        "match": 522364590,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "orquideas"
-      }
+      "last_1v1": "2026-10-27"
     },
     {
       "profile_id": 12930522,
@@ -180,13 +169,7 @@
       "cur_tg": 1801,
       "max_tg": 1893,
       "last_tg": "2026-11-19",
-      "last_1v1": "2026-11-19",
-      "live": {
-        "match": 522363425,
-        "game": "Team Random Map",
-        "format": "3v3",
-        "account": "Chupapimuñeño"
-      }
+      "last_1v1": "2026-11-19"
     },
     {
       "profile_id": 10733016,
