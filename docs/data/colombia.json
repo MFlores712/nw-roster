@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-20T02:35:09Z",
+  "updated_at": "2026-11-20T02:40:10Z",
   "baseline": {
     "taken_at": "2026-11-19T14:00:17Z",
     "ranks": {
@@ -40,17 +40,12 @@
       "profile_id": 6838238,
       "tag": "AngelR",
       "clan": "NuMa",
-      "cur_1v1": 2361,
+      "cur_1v1": 2362,
       "max_1v1": 2380,
       "cur_tg": 1788,
       "max_tg": 1828,
       "last_1v1": "2026-11-20",
-      "last_tg": "2026-09-05",
-      "live": {
-        "match": 522356649,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-09-05"
     },
     {
       "profile_id": 13267917,
@@ -104,7 +99,12 @@
       "cur_tg": 1716,
       "max_tg": 1764,
       "last_1v1": "2026-11-20",
-      "last_tg": "2026-11-17"
+      "last_tg": "2026-11-17",
+      "live": {
+        "match": 522359767,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 6431793,
@@ -117,7 +117,7 @@
       "last_tg": "2026-11-19",
       "last_1v1": "2026-11-20",
       "live": {
-        "match": 522355013,
+        "match": 522359767,
         "game": "1v1 Random Map",
         "format": "1v1",
         "account": "NuMa | Toth"
