@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-20T00:00:15Z",
+  "updated_at": "2026-11-20T00:15:10Z",
   "baseline": {
     "taken_at": "2026-11-19T14:00:17Z",
     "ranks": {
@@ -120,15 +120,10 @@
       "tag": "noru",
       "cur_1v1": 2031,
       "max_1v1": 2031,
-      "cur_tg": 1780,
+      "cur_tg": 1789,
       "max_tg": 1840,
-      "last_tg": "2026-11-19",
-      "last_1v1": "2026-09-24",
-      "live": {
-        "match": 522332029,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-20",
+      "last_1v1": "2026-09-24"
     },
     {
       "profile_id": 13518993,
@@ -181,13 +176,7 @@
       "cur_tg": 1474,
       "max_tg": 1608,
       "last_1v1": "2026-09-19",
-      "last_tg": "2026-11-18",
-      "live": {
-        "match": 522334370,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "CTM | VaccumDestroyer"
-      }
+      "last_tg": "2026-11-18"
     },
     {
       "profile_id": 4167535,
@@ -235,16 +224,10 @@
       "clan": "CTM",
       "cur_1v1": 1774,
       "max_1v1": 2222,
-      "cur_tg": 1712,
+      "cur_tg": 1724,
       "max_tg": 1843,
-      "last_tg": "2026-11-19",
-      "last_1v1": "2026-11-19",
-      "live": {
-        "match": 522334370,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "CTM | Lelouch ELO bajito"
-      }
+      "last_tg": "2026-11-20",
+      "last_1v1": "2026-11-19"
     }
   ],
   "show_top": 15
