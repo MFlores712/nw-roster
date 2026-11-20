@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-20T17:15:12Z",
+  "updated_at": "2026-11-20T17:20:12Z",
   "baseline": {
     "taken_at": "2026-11-20T14:00:18Z",
     "ranks": {
@@ -343,13 +343,7 @@
       "cur_tg": 1821,
       "max_tg": 1962,
       "last_1v1": "2026-11-17",
-      "last_tg": "2026-11-19",
-      "live": {
-        "match": 522469263,
-        "game": "Team Random Map",
-        "format": "3v3",
-        "account": "Stalingrado"
-      }
+      "last_tg": "2026-11-19"
     },
     {
       "profile_id": 1947348,
@@ -396,22 +390,6 @@
       "last_tg": "2026-11-19"
     },
     {
-      "profile_id": 1261126,
-      "tag": "Spirit",
-      "clan": "SotC",
-      "cur_1v1": 2046,
-      "max_1v1": 2098,
-      "cur_tg": 1723,
-      "max_tg": 1870,
-      "last_1v1": "2026-11-20",
-      "last_tg": "2026-11-20",
-      "live": {
-        "match": 522467649,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 1708286,
       "tag": "IamAlextremo",
       "cur_1v1": 2044,
@@ -420,6 +398,22 @@
       "max_tg": 1818,
       "last_tg": "2026-11-19",
       "last_1v1": "2026-03-21"
+    },
+    {
+      "profile_id": 1261126,
+      "tag": "Spirit",
+      "clan": "SotC",
+      "cur_1v1": 2040,
+      "max_1v1": 2098,
+      "cur_tg": 1723,
+      "max_tg": 1870,
+      "last_1v1": "2026-11-20",
+      "last_tg": "2026-11-20",
+      "live": {
+        "match": 522470709,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 1249720,
