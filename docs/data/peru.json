@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-20T01:35:08Z",
+  "updated_at": "2026-11-20T01:45:08Z",
   "baseline": {
     "taken_at": "2026-11-19T14:00:17Z",
     "ranks": {
@@ -64,7 +64,12 @@
       "cur_tg": 1669,
       "max_tg": 1846,
       "last_1v1": "2026-11-11",
-      "last_tg": "2026-11-19"
+      "last_tg": "2026-11-19",
+      "live": {
+        "match": 522350055,
+        "game": "Unranked",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 4706179,
@@ -186,13 +191,7 @@
       "cur_tg": 1474,
       "max_tg": 1608,
       "last_1v1": "2026-09-19",
-      "last_tg": "2026-11-18",
-      "live": {
-        "match": 522347679,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "CTM | VaccumDestroyer"
-      }
+      "last_tg": "2026-11-18"
     },
     {
       "profile_id": 4234652,
@@ -202,6 +201,17 @@
       "cur_tg": 1532,
       "max_tg": 1719,
       "last_1v1": "2026-11-19",
+      "last_tg": "2026-11-19"
+    },
+    {
+      "profile_id": 4167535,
+      "tag": "Dia franptom",
+      "clan": "LE",
+      "cur_1v1": 1810,
+      "max_1v1": 2001,
+      "cur_tg": 1438,
+      "max_tg": 1581,
+      "last_1v1": "2026-11-20",
       "last_tg": "2026-11-19"
     },
     {
@@ -215,22 +225,6 @@
       "last_tg": "2026-10-26"
     },
     {
-      "profile_id": 4167535,
-      "tag": "Dia franptom",
-      "clan": "LE",
-      "cur_1v1": 1786,
-      "max_1v1": 2001,
-      "cur_tg": 1438,
-      "max_tg": 1581,
-      "last_1v1": "2026-11-20",
-      "last_tg": "2026-11-19",
-      "live": {
-        "match": 522346404,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 2366434,
       "via": {
         "id": 3265324,
@@ -240,16 +234,10 @@
       "clan": "CTM",
       "cur_1v1": 1774,
       "max_1v1": 2222,
-      "cur_tg": 1686,
+      "cur_tg": 1695,
       "max_tg": 1843,
       "last_tg": "2026-11-20",
-      "last_1v1": "2026-11-19",
-      "live": {
-        "match": 522347679,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "CTM | Lelouch ELO bajito"
-      }
+      "last_1v1": "2026-11-19"
     }
   ],
   "show_top": 15

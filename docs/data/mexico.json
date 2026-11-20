@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-20T01:40:12Z",
+  "updated_at": "2026-11-20T01:45:08Z",
   "baseline": {
     "taken_at": "2026-11-19T14:00:17Z",
     "ranks": {
@@ -359,7 +359,13 @@
       "cur_tg": 1821,
       "max_tg": 1962,
       "last_1v1": "2026-11-17",
-      "last_tg": "2026-11-19"
+      "last_tg": "2026-11-19",
+      "live": {
+        "match": 522350349,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "Zoschenko17"
+      }
     },
     {
       "profile_id": 1947348,
@@ -543,7 +549,12 @@
       "cur_tg": 1630,
       "max_tg": 1824,
       "last_tg": "2026-11-20",
-      "last_1v1": "2026-10-13"
+      "last_1v1": "2026-10-13",
+      "live": {
+        "match": 522350349,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 13215279,
@@ -598,7 +609,7 @@
       "last_1v1": "2026-09-24",
       "last_tg": "2026-11-19",
       "live": {
-        "match": 522347270,
+        "match": 522350934,
         "game": "Team Random Map",
         "format": "4v4",
         "account": "EXILE | Onichan Nya"
