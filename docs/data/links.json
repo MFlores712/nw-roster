@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-19T14:00:17Z",
+ "updated_at": "2026-11-20T14:00:18Z",
  "players": {
   "22889810": {
    "name": "Manuel",
@@ -412,8 +412,8 @@
      "id": 325918,
      "hops": 1,
      "name": "Warlock_Ndk",
-     "rating": 2303,
-     "last": "2026-11-18"
+     "rating": 2375,
+     "last": "2026-11-19"
     }
    ]
   },
@@ -452,8 +452,8 @@
      "id": 23101014,
      "hops": 1,
      "name": "hK | RanDoM",
-     "rating": 2317,
-     "last": "2026-11-19"
+     "rating": 2334,
+     "last": "2026-11-20"
     }
    ]
   },
@@ -471,8 +471,8 @@
      "id": 8448734,
      "hops": 1,
      "name": "The_Fury",
-     "rating": 2255,
-     "last": "2026-11-19"
+     "rating": 2363,
+     "last": "2026-11-20"
     }
    ]
   },
@@ -865,7 +865,7 @@
    "accounts": []
   },
   "324005": {
-   "name": "VN Zko",
+   "name": "VN Dry",
    "accounts": [
     {
      "id": 20898174,
@@ -884,9 +884,9 @@
     {
      "id": 25209752,
      "hops": 1,
-     "name": "EXILE | Onichan Nya",
-     "rating": 1738,
-     "last": "2026-11-06"
+     "name": "EXILE | Don MessiRonaldo",
+     "rating": 1751,
+     "last": "2026-11-19"
     }
    ]
   },
@@ -970,9 +970,9 @@
     {
      "id": 2131956,
      "hops": 1,
-     "name": "Zoschenko17",
-     "rating": null,
-     "last": null
+     "name": "SynfonY",
+     "rating": 1965,
+     "last": "2026-11-20"
     },
     {
      "id": 3322822,
@@ -992,8 +992,8 @@
      "id": 15529711,
      "hops": 2,
      "name": "Stalingrado",
-     "rating": 2092,
-     "last": "2026-11-18"
+     "rating": 2076,
+     "last": "2026-11-19"
     },
     {
      "id": 21800778,
@@ -1376,7 +1376,7 @@
      "id": 4394494,
      "hops": 2,
      "name": "NuMa | Empire",
-     "rating": 1726,
+     "rating": 1680,
      "last": "2026-11-19"
     },
     {
@@ -1525,8 +1525,8 @@
      "id": 2984476,
      "hops": 1,
      "name": "NuMa | Toth",
-     "rating": 2001,
-     "last": "2026-08-23"
+     "rating": 2034,
+     "last": "2026-11-20"
     },
     {
      "id": 5019951,
@@ -1659,7 +1659,7 @@
      "id": 3265324,
      "hops": 1,
      "name": "CTM | Lelouch ELO bajito",
-     "rating": 1767,
+     "rating": 1774,
      "last": "2026-11-19"
     },
     {
