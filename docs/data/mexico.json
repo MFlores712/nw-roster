@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-20T02:25:08Z",
+  "updated_at": "2026-11-20T02:30:11Z",
   "baseline": {
     "taken_at": "2026-11-19T14:00:17Z",
     "ranks": {
@@ -74,14 +74,14 @@
       "profile_id": 2920057,
       "tag": "Lobo",
       "clan": "Ux",
-      "cur_1v1": 2682,
+      "cur_1v1": 2660,
       "max_1v1": 2703,
       "cur_tg": 2213,
       "max_tg": 2213,
-      "last_1v1": "2026-11-18",
+      "last_1v1": "2026-11-20",
       "last_tg": "2026-11-19",
       "live": {
-        "match": 522349600,
+        "match": 522358487,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -172,7 +172,12 @@
       "cur_tg": 1782,
       "max_tg": 1974,
       "last_1v1": "2026-11-16",
-      "last_tg": "2026-11-20"
+      "last_tg": "2026-11-20",
+      "live": {
+        "match": 522357759,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 2295504,
@@ -205,7 +210,13 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 522357759,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "hK | RanDoM"
+      }
     },
     {
       "profile_id": 12723994,
@@ -277,14 +288,14 @@
       "profile_id": 4412109,
       "tag": "HGB",
       "clan": "hK",
-      "cur_1v1": 2234,
+      "cur_1v1": 2212,
       "max_1v1": 2365,
       "cur_tg": 2093,
       "max_tg": 2093,
       "last_1v1": "2026-11-20",
       "last_tg": "2026-11-17",
       "live": {
-        "match": 522353573,
+        "match": 522358053,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -331,7 +342,12 @@
       "cur_tg": 1731,
       "max_tg": 1747,
       "last_1v1": "2026-11-19",
-      "last_tg": "2026-10-27"
+      "last_tg": "2026-10-27",
+      "live": {
+        "match": 522358391,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2850920,
@@ -441,10 +457,10 @@
       "tag": "Biner",
       "cur_1v1": 2007,
       "max_1v1": 2016,
-      "cur_tg": 1659,
+      "cur_tg": 1674,
       "max_tg": 1688,
       "last_1v1": "2026-11-20",
-      "last_tg": "2026-10-28",
+      "last_tg": "2026-11-20",
       "live": {
         "match": 522354012,
         "game": "Team Random Map",
@@ -590,13 +606,7 @@
       "cur_tg": 1853,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-11-19",
-      "live": {
-        "match": 522350934,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "EXILE | Onichan Nya"
-      }
+      "last_tg": "2026-11-19"
     },
     {
       "profile_id": 12472496,
