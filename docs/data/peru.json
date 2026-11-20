@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-20T06:00:15Z",
+  "updated_at": "2026-11-20T06:05:08Z",
   "baseline": {
     "taken_at": "2026-11-19T14:00:17Z",
     "ranks": {
@@ -94,22 +94,6 @@
       "last_1v1": "2026-10-27"
     },
     {
-      "profile_id": 1359694,
-      "tag": "AtilA",
-      "clan": "nW",
-      "cur_1v1": 2048,
-      "max_1v1": 2123,
-      "cur_tg": 1622,
-      "max_tg": 1670,
-      "last_tg": "2026-11-01",
-      "last_1v1": "2026-11-20",
-      "live": {
-        "match": 522382027,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 12167914,
       "tag": "lorecs",
       "clan": "CL",
@@ -119,6 +103,17 @@
       "max_tg": 2011,
       "last_1v1": "2026-11-09",
       "last_tg": "2026-11-12"
+    },
+    {
+      "profile_id": 1359694,
+      "tag": "AtilA",
+      "clan": "nW",
+      "cur_1v1": 2032,
+      "max_1v1": 2123,
+      "cur_tg": 1622,
+      "max_tg": 1670,
+      "last_tg": "2026-11-01",
+      "last_1v1": "2026-11-20"
     },
     {
       "profile_id": 6090060,
