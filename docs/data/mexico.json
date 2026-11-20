@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-20T16:55:10Z",
+  "updated_at": "2026-11-20T17:00:18Z",
   "baseline": {
     "taken_at": "2026-11-20T14:00:18Z",
     "ranks": {
@@ -107,14 +107,14 @@
       "profile_id": 5984120,
       "tag": "C",
       "clan": "Ux",
-      "cur_1v1": 2554,
+      "cur_1v1": 2548,
       "max_1v1": 2790,
       "cur_tg": 1654,
       "max_tg": 1885,
       "last_1v1": "2026-11-20",
       "last_tg": "2026-11-16",
       "live": {
-        "match": 522466089,
+        "match": 522467352,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -139,13 +139,7 @@
       "cur_tg": 2112,
       "max_tg": 2112,
       "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-17",
-      "live": {
-        "match": 522463238,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "The_Fury"
-      }
+      "last_tg": "2026-11-17"
     },
     {
       "profile_id": 2598146,
@@ -368,22 +362,6 @@
       "last_1v1": "2026-11-20"
     },
     {
-      "profile_id": 1261126,
-      "tag": "Spirit",
-      "clan": "SotC",
-      "cur_1v1": 2074,
-      "max_1v1": 2098,
-      "cur_tg": 1723,
-      "max_tg": 1870,
-      "last_1v1": "2026-11-20",
-      "last_tg": "2026-11-20",
-      "live": {
-        "match": 522464822,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 917863,
       "tag": "Romell13",
       "clan": "hK",
@@ -404,6 +382,22 @@
       "max_tg": 1919,
       "last_1v1": "2026-06-27",
       "last_tg": "2026-11-19"
+    },
+    {
+      "profile_id": 1261126,
+      "tag": "Spirit",
+      "clan": "SotC",
+      "cur_1v1": 2046,
+      "max_1v1": 2098,
+      "cur_tg": 1723,
+      "max_tg": 1870,
+      "last_1v1": "2026-11-20",
+      "last_tg": "2026-11-20",
+      "live": {
+        "match": 522464822,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 1708286,
