@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-20T01:10:15Z",
+  "updated_at": "2026-11-20T01:15:10Z",
   "baseline": {
     "taken_at": "2026-11-19T14:00:17Z",
     "ranks": {
@@ -96,7 +96,12 @@
       "cur_tg": 1556,
       "max_tg": 1834,
       "last_1v1": "2026-11-18",
-      "last_tg": "2026-11-13"
+      "last_tg": "2026-11-13",
+      "live": {
+        "match": 522346231,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 1359694,
@@ -131,6 +136,16 @@
       "last_1v1": "2026-09-24"
     },
     {
+      "profile_id": 633255,
+      "tag": "Tempo",
+      "cur_1v1": 2029,
+      "max_1v1": 2177,
+      "cur_tg": 1680,
+      "max_tg": 1843,
+      "last_1v1": "2026-11-20",
+      "last_tg": "2026-11-13"
+    },
+    {
       "profile_id": 13518993,
       "tag": "Miguel T",
       "cur_1v1": 2022,
@@ -139,21 +154,6 @@
       "max_tg": 1703,
       "last_1v1": "2026-11-14",
       "last_tg": "2026-11-14"
-    },
-    {
-      "profile_id": 633255,
-      "tag": "Tempo",
-      "cur_1v1": 2018,
-      "max_1v1": 2177,
-      "cur_tg": 1680,
-      "max_tg": 1843,
-      "last_1v1": "2026-11-19",
-      "last_tg": "2026-11-13",
-      "live": {
-        "match": 522340981,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 4229962,
@@ -205,22 +205,6 @@
       "last_tg": "2026-11-19"
     },
     {
-      "profile_id": 4167535,
-      "tag": "Dia franptom",
-      "clan": "LE",
-      "cur_1v1": 1804,
-      "max_1v1": 2001,
-      "cur_tg": 1438,
-      "max_tg": 1581,
-      "last_1v1": "2026-11-20",
-      "last_tg": "2026-11-19",
-      "live": {
-        "match": 522343354,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 3034651,
       "tag": "KinG of QUILLA",
       "cur_1v1": 1791,
@@ -229,6 +213,17 @@
       "max_tg": 1657,
       "last_1v1": "2026-11-19",
       "last_tg": "2026-10-26"
+    },
+    {
+      "profile_id": 4167535,
+      "tag": "Dia franptom",
+      "clan": "LE",
+      "cur_1v1": 1786,
+      "max_1v1": 2001,
+      "cur_tg": 1438,
+      "max_tg": 1581,
+      "last_1v1": "2026-11-20",
+      "last_tg": "2026-11-19"
     },
     {
       "profile_id": 2366434,
