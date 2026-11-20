@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-20T13:35:09Z",
+  "updated_at": "2026-11-20T13:45:12Z",
   "baseline": {
     "taken_at": "2026-11-19T14:00:17Z",
     "ranks": {
@@ -73,21 +73,6 @@
       "last_tg": "2026-09-28"
     },
     {
-      "profile_id": 3244108,
-      "tag": "Legendario",
-      "cur_1v1": 2119,
-      "max_1v1": 2174,
-      "cur_tg": 1565,
-      "max_tg": 1834,
-      "last_1v1": "2026-11-20",
-      "last_tg": "2026-11-20",
-      "live": {
-        "match": 522429199,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 5464646,
       "tag": "Lil Franco",
       "clan": "VL",
@@ -97,6 +82,21 @@
       "max_tg": 1932,
       "last_tg": "2026-11-15",
       "last_1v1": "2026-10-27"
+    },
+    {
+      "profile_id": 3244108,
+      "tag": "Legendario",
+      "cur_1v1": 2094,
+      "max_1v1": 2174,
+      "cur_tg": 1565,
+      "max_tg": 1834,
+      "last_1v1": "2026-11-20",
+      "last_tg": "2026-11-20",
+      "live": {
+        "match": 522431217,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 12167914,
