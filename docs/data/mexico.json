@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-20T18:30:15Z",
+  "updated_at": "2026-11-20T18:35:12Z",
   "baseline": {
     "taken_at": "2026-11-20T14:00:18Z",
     "ranks": {
@@ -101,13 +101,7 @@
       "cur_tg": 2146,
       "max_tg": 2151,
       "last_1v1": "2026-11-20",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 522479228,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "[GDL] Chuchito"
-      }
+      "last_tg": "2026-11-16"
     },
     {
       "profile_id": 5984120,
@@ -147,7 +141,7 @@
       "last_1v1": "2026-11-15",
       "last_tg": "2026-11-17",
       "live": {
-        "match": 522477763,
+        "match": 522484694,
         "game": "1v1 Random Map",
         "format": "1v1",
         "account": "The_Fury"
@@ -228,7 +222,13 @@
       "cur_tg": 1953,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-11-08"
+      "last_tg": "2026-11-08",
+      "live": {
+        "match": 522484694,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "FierroFlash"
+      }
     },
     {
       "profile_id": 9666666,
@@ -349,7 +349,12 @@
       "cur_tg": 1821,
       "max_tg": 1962,
       "last_1v1": "2026-11-17",
-      "last_tg": "2026-11-19"
+      "last_tg": "2026-11-19",
+      "live": {
+        "match": 522484571,
+        "game": "Unranked",
+        "format": "1v2"
+      }
     },
     {
       "profile_id": 1947348,
