@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-20T01:45:08Z",
+  "updated_at": "2026-11-20T01:50:10Z",
   "baseline": {
     "taken_at": "2026-11-19T14:00:17Z",
     "ranks": {
@@ -43,17 +43,12 @@
     {
       "profile_id": 3216208,
       "tag": "Dimo",
-      "cur_1v1": 2593,
-      "max_1v1": 2593,
+      "cur_1v1": 2597,
+      "max_1v1": 2597,
       "cur_tg": 1922,
       "max_tg": 1935,
-      "last_1v1": "2026-11-19",
-      "last_tg": "2026-11-19",
-      "live": {
-        "match": 522347024,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-20",
+      "last_tg": "2026-11-19"
     },
     {
       "profile_id": 9558892,
@@ -64,12 +59,7 @@
       "cur_tg": 1669,
       "max_tg": 1846,
       "last_1v1": "2026-11-11",
-      "last_tg": "2026-11-19",
-      "live": {
-        "match": 522350055,
-        "game": "Unranked",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-19"
     },
     {
       "profile_id": 4706179,
@@ -83,6 +73,16 @@
       "last_tg": "2026-09-28"
     },
     {
+      "profile_id": 3244108,
+      "tag": "Legendario",
+      "cur_1v1": 2119,
+      "max_1v1": 2174,
+      "cur_tg": 1556,
+      "max_tg": 1834,
+      "last_1v1": "2026-11-20",
+      "last_tg": "2026-11-13"
+    },
+    {
       "profile_id": 5464646,
       "tag": "Lil Franco",
       "clan": "VL",
@@ -92,21 +92,6 @@
       "max_tg": 1932,
       "last_tg": "2026-11-15",
       "last_1v1": "2026-10-27"
-    },
-    {
-      "profile_id": 3244108,
-      "tag": "Legendario",
-      "cur_1v1": 2108,
-      "max_1v1": 2174,
-      "cur_tg": 1556,
-      "max_tg": 1834,
-      "last_1v1": "2026-11-18",
-      "last_tg": "2026-11-13",
-      "live": {
-        "match": 522346231,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 1359694,
@@ -138,17 +123,22 @@
       "cur_tg": 1789,
       "max_tg": 1840,
       "last_tg": "2026-11-20",
-      "last_1v1": "2026-09-24"
+      "last_1v1": "2026-09-24",
+      "live": {
+        "match": 522351477,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 633255,
       "tag": "Tempo",
       "cur_1v1": 2029,
       "max_1v1": 2177,
-      "cur_tg": 1680,
+      "cur_tg": 1684,
       "max_tg": 1843,
       "last_1v1": "2026-11-20",
-      "last_tg": "2026-11-13"
+      "last_tg": "2026-11-20"
     },
     {
       "profile_id": 13518993,
@@ -191,7 +181,13 @@
       "cur_tg": 1474,
       "max_tg": 1608,
       "last_1v1": "2026-09-19",
-      "last_tg": "2026-11-18"
+      "last_tg": "2026-11-18",
+      "live": {
+        "match": 522351605,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "CTM | VaccumDestroyer"
+      }
     },
     {
       "profile_id": 4234652,
@@ -237,7 +233,13 @@
       "cur_tg": 1695,
       "max_tg": 1843,
       "last_tg": "2026-11-20",
-      "last_1v1": "2026-11-19"
+      "last_1v1": "2026-11-19",
+      "live": {
+        "match": 522351605,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "CTM | Lelouch ELO bajito"
+      }
     }
   ],
   "show_top": 15

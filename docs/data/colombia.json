@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-20T01:40:12Z",
+  "updated_at": "2026-11-20T01:50:10Z",
   "baseline": {
     "taken_at": "2026-11-19T14:00:17Z",
     "ranks": {
@@ -107,6 +107,17 @@
       "last_tg": "2026-11-17"
     },
     {
+      "profile_id": 6431793,
+      "tag": "Toth",
+      "clan": "NuMa",
+      "cur_1v1": 2001,
+      "max_1v1": 2001,
+      "cur_tg": 1871,
+      "max_tg": 1893,
+      "last_tg": "2026-11-19",
+      "last_1v1": "2026-11-20"
+    },
+    {
       "profile_id": 1743420,
       "tag": "OliverAtom",
       "clan": "NuMa",
@@ -126,22 +137,6 @@
       "max_tg": 1975,
       "last_tg": "2026-11-17",
       "last_1v1": "2026-11-20"
-    },
-    {
-      "profile_id": 6431793,
-      "tag": "Toth",
-      "clan": "NuMa",
-      "cur_1v1": 1987,
-      "max_1v1": 1987,
-      "cur_tg": 1871,
-      "max_tg": 1893,
-      "last_tg": "2026-11-19",
-      "last_1v1": "2026-11-20",
-      "live": {
-        "match": 522347862,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 2479622,
@@ -216,14 +211,14 @@
     {
       "profile_id": 2134856,
       "tag": "Jacko",
-      "cur_1v1": 1701,
+      "cur_1v1": 1711,
       "max_1v1": 1867,
       "cur_tg": 1119,
       "max_tg": 1119,
       "last_1v1": "2026-11-20",
       "last_tg": "2025-03-14",
       "live": {
-        "match": 522347170,
+        "match": 522351686,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
