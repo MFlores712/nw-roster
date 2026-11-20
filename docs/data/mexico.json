@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-20T02:00:13Z",
+  "updated_at": "2026-11-20T02:05:08Z",
   "baseline": {
     "taken_at": "2026-11-19T14:00:17Z",
     "ranks": {
@@ -139,7 +139,13 @@
       "cur_tg": 2112,
       "max_tg": 2112,
       "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-17"
+      "last_tg": "2026-11-17",
+      "live": {
+        "match": 522353482,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "The_Fury"
+      }
     },
     {
       "profile_id": 2598146,
@@ -271,7 +277,12 @@
       "cur_tg": 2093,
       "max_tg": 2093,
       "last_1v1": "2026-11-20",
-      "last_tg": "2026-11-17"
+      "last_tg": "2026-11-17",
+      "live": {
+        "match": 522353573,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 3816609,
@@ -337,13 +348,7 @@
       "cur_tg": 1821,
       "max_tg": 1962,
       "last_1v1": "2026-11-17",
-      "last_tg": "2026-11-19",
-      "live": {
-        "match": 522350349,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "Zoschenko17"
-      }
+      "last_tg": "2026-11-19"
     },
     {
       "profile_id": 1947348,
@@ -429,7 +434,12 @@
       "cur_tg": 1659,
       "max_tg": 1688,
       "last_1v1": "2026-11-20",
-      "last_tg": "2026-10-28"
+      "last_tg": "2026-10-28",
+      "live": {
+        "match": 522354012,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 1249720,
@@ -514,15 +524,10 @@
       "clan": "VL",
       "cur_1v1": 1952,
       "max_1v1": 1972,
-      "cur_tg": 1630,
+      "cur_tg": 1610,
       "max_tg": 1824,
       "last_tg": "2026-11-20",
-      "last_1v1": "2026-10-13",
-      "live": {
-        "match": 522350349,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_1v1": "2026-10-13"
     },
     {
       "profile_id": 13215279,
