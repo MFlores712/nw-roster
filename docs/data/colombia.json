@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-20T05:00:13Z",
+  "updated_at": "2026-11-20T05:35:08Z",
   "baseline": {
     "taken_at": "2026-11-19T14:00:17Z",
     "ranks": {
@@ -187,6 +187,16 @@
       "last_tg": "2026-11-19"
     },
     {
+      "profile_id": 2134856,
+      "tag": "Jacko",
+      "cur_1v1": 1773,
+      "max_1v1": 1867,
+      "cur_tg": 1119,
+      "max_tg": 1119,
+      "last_1v1": "2026-11-20",
+      "last_tg": "2025-03-14"
+    },
+    {
       "profile_id": 5981761,
       "tag": "Alexander the conqueror",
       "clan": "AiM",
@@ -196,21 +206,6 @@
       "max_tg": 1630,
       "last_1v1": "2026-11-18",
       "last_tg": "2026-11-18"
-    },
-    {
-      "profile_id": 2134856,
-      "tag": "Jacko",
-      "cur_1v1": 1755,
-      "max_1v1": 1867,
-      "cur_tg": 1119,
-      "max_tg": 1119,
-      "last_1v1": "2026-11-20",
-      "last_tg": "2025-03-14",
-      "live": {
-        "match": 522378446,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     }
   ],
   "show_top": 15
