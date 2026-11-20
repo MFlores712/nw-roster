@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-20T05:45:10Z",
+  "updated_at": "2026-11-20T05:50:08Z",
   "baseline": {
     "taken_at": "2026-11-19T14:00:17Z",
     "ranks": {
@@ -79,7 +79,13 @@
       "cur_tg": 2216,
       "max_tg": 2216,
       "last_1v1": "2026-11-20",
-      "last_tg": "2026-11-20"
+      "last_tg": "2026-11-20",
+      "live": {
+        "match": 522383524,
+        "game": "Team Random Map",
+        "format": "2v2",
+        "account": "Ux'Auu"
+      }
     },
     {
       "profile_id": 13099159,
@@ -559,7 +565,13 @@
       "cur_tg": 1853,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-11-19"
+      "last_tg": "2026-11-19",
+      "live": {
+        "match": 522383511,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "EXILE | Onichan Nya"
+      }
     },
     {
       "profile_id": 12472496,
