@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-20T22:40:13Z",
+  "updated_at": "2026-11-20T22:45:11Z",
   "baseline": {
     "taken_at": "2026-11-20T14:00:18Z",
     "ranks": {
@@ -178,7 +178,7 @@
       "last_1v1": "2026-09-19",
       "last_tg": "2026-11-18",
       "live": {
-        "match": 522538054,
+        "match": 522538778,
         "game": "1v1 Random Map",
         "format": "1v1",
         "account": "CTM | VaccumDestroyer"
@@ -218,7 +218,12 @@
       "cur_tg": 1438,
       "max_tg": 1581,
       "last_1v1": "2026-11-20",
-      "last_tg": "2026-11-19"
+      "last_tg": "2026-11-19",
+      "live": {
+        "match": 522538778,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2366434,
