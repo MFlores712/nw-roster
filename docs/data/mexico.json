@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-20T17:20:12Z",
+  "updated_at": "2026-11-20T17:25:11Z",
   "baseline": {
     "taken_at": "2026-11-20T14:00:18Z",
     "ranks": {
@@ -343,7 +343,13 @@
       "cur_tg": 1821,
       "max_tg": 1962,
       "last_1v1": "2026-11-17",
-      "last_tg": "2026-11-19"
+      "last_tg": "2026-11-19",
+      "live": {
+        "match": 522471489,
+        "game": "Team Random Map",
+        "format": "3v3",
+        "account": "Stalingrado"
+      }
     },
     {
       "profile_id": 1947348,
