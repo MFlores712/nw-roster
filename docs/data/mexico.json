@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-20T21:10:12Z",
+  "updated_at": "2026-11-20T21:30:14Z",
   "baseline": {
     "taken_at": "2026-11-20T14:00:18Z",
     "ranks": {
@@ -185,7 +185,7 @@
       "last_1v1": "2026-11-14",
       "last_tg": "2026-11-13",
       "live": {
-        "match": 522516240,
+        "match": 522522930,
         "game": "1v1 Random Map",
         "format": "1v1",
         "account": "Warlock_Ndk"
