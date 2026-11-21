@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-21T18:15:11Z",
+  "updated_at": "2026-11-21T18:20:17Z",
   "baseline": {
     "taken_at": "2026-11-21T14:00:17Z",
     "ranks": {
@@ -242,22 +242,6 @@
       "last_1v1": "2026-11-17"
     },
     {
-      "profile_id": 1485562,
-      "tag": "MrOsoVC8",
-      "clan": "VENÓN",
-      "cur_1v1": 2240,
-      "max_1v1": 2394,
-      "cur_tg": 1816,
-      "max_tg": 2099,
-      "last_1v1": "2026-11-21",
-      "last_tg": "2026-11-17",
-      "live": {
-        "match": 522724933,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 914665,
       "tag": "Caguamas",
       "clan": "nW",
@@ -289,6 +273,22 @@
       "max_tg": 2093,
       "last_1v1": "2026-11-21",
       "last_tg": "2026-11-17"
+    },
+    {
+      "profile_id": 1485562,
+      "tag": "MrOsoVC8",
+      "clan": "VENÓN",
+      "cur_1v1": 2225,
+      "max_1v1": 2394,
+      "cur_tg": 1816,
+      "max_tg": 2099,
+      "last_1v1": "2026-11-21",
+      "last_tg": "2026-11-17",
+      "live": {
+        "match": 522731405,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 757886,
@@ -603,7 +603,12 @@
       "cur_tg": 1515,
       "max_tg": 1543,
       "last_1v1": "2026-11-21",
-      "last_tg": "2026-11-21"
+      "last_tg": "2026-11-21",
+      "live": {
+        "match": 522730180,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 233625,
