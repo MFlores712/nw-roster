@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-21T00:40:13Z",
+  "updated_at": "2026-11-21T00:50:13Z",
   "baseline": {
     "taken_at": "2026-11-20T14:00:18Z",
     "ranks": {
@@ -349,7 +349,12 @@
       "cur_tg": 1719,
       "max_tg": 1820,
       "last_tg": "2026-11-19",
-      "last_1v1": "2026-11-21"
+      "last_1v1": "2026-11-21",
+      "live": {
+        "match": 522560594,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 1947348,
@@ -417,6 +422,16 @@
       "last_tg": "2026-11-19"
     },
     {
+      "profile_id": 2291749,
+      "tag": "Biner",
+      "cur_1v1": 2012,
+      "max_1v1": 2016,
+      "cur_tg": 1705,
+      "max_tg": 1705,
+      "last_1v1": "2026-11-21",
+      "last_tg": "2026-11-20"
+    },
+    {
       "profile_id": 2876835,
       "tag": "Abejorro",
       "clan": "nW",
@@ -426,21 +441,6 @@
       "max_tg": 1844,
       "last_1v1": "2026-11-19",
       "last_tg": "2026-10-31"
-    },
-    {
-      "profile_id": 2291749,
-      "tag": "Biner",
-      "cur_1v1": 2007,
-      "max_1v1": 2016,
-      "cur_tg": 1705,
-      "max_tg": 1705,
-      "last_1v1": "2026-11-20",
-      "last_tg": "2026-11-20",
-      "live": {
-        "match": 522559312,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 6501299,
@@ -459,14 +459,14 @@
       "clan": "VL",
       "cur_1v1": 1970,
       "max_1v1": 1980,
-      "cur_tg": 1731,
+      "cur_tg": 1702,
       "max_tg": 1865,
       "last_tg": "2026-11-21",
       "last_1v1": "2026-11-18",
       "live": {
-        "match": 522559356,
+        "match": 522560776,
         "game": "Team Random Map",
-        "format": "3v3"
+        "format": "4v4"
       }
     },
     {
@@ -519,14 +519,14 @@
       "clan": "VL",
       "cur_1v1": 1952,
       "max_1v1": 1972,
-      "cur_tg": 1618,
+      "cur_tg": 1592,
       "max_tg": 1824,
       "last_tg": "2026-11-21",
       "last_1v1": "2026-10-13",
       "live": {
-        "match": 522559356,
+        "match": 522560776,
         "game": "Team Random Map",
-        "format": "3v3"
+        "format": "4v4"
       }
     },
     {
@@ -584,6 +584,17 @@
       "last_1v1": "2026-10-16"
     },
     {
+      "profile_id": 13241217,
+      "tag": "BlueUltra",
+      "clan": "Ux",
+      "cur_1v1": 1884,
+      "max_1v1": 1997,
+      "cur_tg": 1697,
+      "max_tg": 1737,
+      "last_1v1": "2026-11-21",
+      "last_tg": "2026-11-20"
+    },
+    {
       "profile_id": 2926018,
       "tag": "PerezPodrido",
       "clan": "SotC",
@@ -593,22 +604,6 @@
       "max_tg": 1888,
       "last_1v1": "2026-11-19",
       "last_tg": "2026-11-19"
-    },
-    {
-      "profile_id": 13241217,
-      "tag": "BlueUltra",
-      "clan": "Ux",
-      "cur_1v1": 1875,
-      "max_1v1": 1997,
-      "cur_tg": 1697,
-      "max_tg": 1737,
-      "last_1v1": "2026-11-21",
-      "last_tg": "2026-11-20",
-      "live": {
-        "match": 522558205,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 3254820,
