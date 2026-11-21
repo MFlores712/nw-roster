@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-21T00:35:09Z",
+  "updated_at": "2026-11-21T00:40:13Z",
   "baseline": {
     "taken_at": "2026-11-20T14:00:18Z",
     "ranks": {
@@ -153,15 +153,10 @@
       "clan": "hK",
       "cur_1v1": 2384,
       "max_1v1": 2384,
-      "cur_tg": 1840,
+      "cur_tg": 1848,
       "max_tg": 1974,
       "last_1v1": "2026-11-16",
-      "last_tg": "2026-11-20",
-      "live": {
-        "match": 522554651,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-21"
     },
     {
       "profile_id": 2295504,
@@ -185,7 +180,7 @@
       "last_1v1": "2026-11-14",
       "last_tg": "2026-11-13",
       "live": {
-        "match": 522555447,
+        "match": 522559247,
         "game": "1v1 Random Map",
         "format": "1v1",
         "account": "Warlock_Ndk"
@@ -440,7 +435,12 @@
       "cur_tg": 1705,
       "max_tg": 1705,
       "last_1v1": "2026-11-20",
-      "last_tg": "2026-11-20"
+      "last_tg": "2026-11-20",
+      "live": {
+        "match": 522559312,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 6501299,
@@ -464,9 +464,9 @@
       "last_tg": "2026-11-21",
       "last_1v1": "2026-11-18",
       "live": {
-        "match": 522556124,
+        "match": 522559356,
         "game": "Team Random Map",
-        "format": "2v2"
+        "format": "3v3"
       }
     },
     {
@@ -524,9 +524,9 @@
       "last_tg": "2026-11-21",
       "last_1v1": "2026-10-13",
       "live": {
-        "match": 522556124,
+        "match": 522559356,
         "game": "Team Random Map",
-        "format": "2v2"
+        "format": "3v3"
       }
     },
     {
@@ -618,7 +618,12 @@
       "cur_tg": 1534,
       "max_tg": 1543,
       "last_1v1": "2026-11-20",
-      "last_tg": "2026-11-21"
+      "last_tg": "2026-11-21",
+      "live": {
+        "match": 522558950,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 233625,
