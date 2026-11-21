@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-21T04:45:12Z",
+  "updated_at": "2026-11-21T04:50:12Z",
   "baseline": {
     "taken_at": "2026-11-20T14:00:18Z",
     "ranks": {
@@ -183,13 +183,7 @@
       "cur_tg": 1828,
       "max_tg": 1959,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-13",
-      "live": {
-        "match": 522596697,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "Warlock_Ndk"
-      }
+      "last_tg": "2026-11-13"
     },
     {
       "profile_id": 312774,
@@ -294,7 +288,12 @@
       "cur_tg": 2093,
       "max_tg": 2093,
       "last_1v1": "2026-11-21",
-      "last_tg": "2026-11-17"
+      "last_tg": "2026-11-17",
+      "live": {
+        "match": 522601246,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 757886,
@@ -428,6 +427,17 @@
       "last_tg": "2026-11-19"
     },
     {
+      "profile_id": 2876835,
+      "tag": "Abejorro",
+      "clan": "nW",
+      "cur_1v1": 2019,
+      "max_1v1": 2152,
+      "cur_tg": 1834,
+      "max_tg": 1844,
+      "last_1v1": "2026-11-21",
+      "last_tg": "2026-10-31"
+    },
+    {
       "profile_id": 2291749,
       "tag": "Biner",
       "cur_1v1": 2010,
@@ -436,22 +446,6 @@
       "max_tg": 1705,
       "last_1v1": "2026-11-21",
       "last_tg": "2026-11-20"
-    },
-    {
-      "profile_id": 2876835,
-      "tag": "Abejorro",
-      "clan": "nW",
-      "cur_1v1": 2007,
-      "max_1v1": 2152,
-      "cur_tg": 1834,
-      "max_tg": 1844,
-      "last_1v1": "2026-11-19",
-      "last_tg": "2026-10-31",
-      "live": {
-        "match": 522597197,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 6501299,
