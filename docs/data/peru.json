@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-21T16:55:14Z",
+  "updated_at": "2026-11-21T17:00:15Z",
   "baseline": {
     "taken_at": "2026-11-21T14:00:17Z",
     "ranks": {
@@ -59,7 +59,13 @@
       "cur_tg": 1685,
       "max_tg": 1846,
       "last_1v1": "2026-11-11",
-      "last_tg": "2026-11-21"
+      "last_tg": "2026-11-21",
+      "live": {
+        "match": 522712386,
+        "game": "Unranked",
+        "format": "4v4",
+        "account": "LE | WilliamS"
+      }
     },
     {
       "profile_id": 4706179,
