@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-21T04:20:12Z",
+  "updated_at": "2026-11-21T04:25:11Z",
   "baseline": {
     "taken_at": "2026-11-20T14:00:18Z",
     "ranks": {
@@ -79,13 +79,7 @@
       "cur_tg": 2216,
       "max_tg": 2216,
       "last_1v1": "2026-11-20",
-      "last_tg": "2026-11-20",
-      "live": {
-        "match": 522589645,
-        "game": "Team Random Map",
-        "format": "3v3",
-        "account": "Ux'Auu"
-      }
+      "last_tg": "2026-11-20"
     },
     {
       "profile_id": 13099159,
@@ -99,6 +93,17 @@
       "last_tg": "2026-11-18"
     },
     {
+      "profile_id": 5984120,
+      "tag": "C",
+      "clan": "Ux",
+      "cur_1v1": 2611,
+      "max_1v1": 2790,
+      "cur_tg": 1654,
+      "max_tg": 1885,
+      "last_1v1": "2026-11-21",
+      "last_tg": "2026-11-16"
+    },
+    {
       "profile_id": 9449579,
       "tag": "Miauricio",
       "clan": "VENÓN",
@@ -108,22 +113,6 @@
       "max_tg": 2151,
       "last_1v1": "2026-11-20",
       "last_tg": "2026-11-16"
-    },
-    {
-      "profile_id": 5984120,
-      "tag": "C",
-      "clan": "Ux",
-      "cur_1v1": 2598,
-      "max_1v1": 2790,
-      "cur_tg": 1654,
-      "max_tg": 1885,
-      "last_1v1": "2026-11-21",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 522597237,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 401359,
@@ -372,7 +361,7 @@
       "profile_id": 358501,
       "tag": "El Claut_One",
       "clan": "VENÓN",
-      "cur_1v1": 2088,
+      "cur_1v1": 2074,
       "max_1v1": 2115,
       "cur_tg": 1719,
       "max_tg": 1820,
