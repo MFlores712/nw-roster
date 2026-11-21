@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-21T00:30:13Z",
+  "updated_at": "2026-11-21T00:35:09Z",
   "baseline": {
     "taken_at": "2026-11-20T14:00:18Z",
     "ranks": {
@@ -222,13 +222,7 @@
       "cur_tg": 1953,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-11-08",
-      "live": {
-        "match": 522555232,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "FierroFlash"
-      }
+      "last_tg": "2026-11-08"
     },
     {
       "profile_id": 9666666,
@@ -465,9 +459,9 @@
       "clan": "VL",
       "cur_1v1": 1970,
       "max_1v1": 1980,
-      "cur_tg": 1725,
+      "cur_tg": 1731,
       "max_tg": 1865,
-      "last_tg": "2026-11-12",
+      "last_tg": "2026-11-21",
       "last_1v1": "2026-11-18",
       "live": {
         "match": 522556124,
@@ -525,9 +519,9 @@
       "clan": "VL",
       "cur_1v1": 1952,
       "max_1v1": 1972,
-      "cur_tg": 1610,
+      "cur_tg": 1618,
       "max_tg": 1824,
-      "last_tg": "2026-11-20",
+      "last_tg": "2026-11-21",
       "last_1v1": "2026-10-13",
       "live": {
         "match": 522556124,
@@ -576,13 +570,7 @@
       "cur_tg": 1853,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-11-19",
-      "live": {
-        "match": 522555356,
-        "game": "Team Random Map",
-        "format": "3v3",
-        "account": "EXILE | Don MessiRonaldo"
-      }
+      "last_tg": "2026-11-19"
     },
     {
       "profile_id": 12472496,
@@ -617,7 +605,7 @@
       "last_1v1": "2026-11-21",
       "last_tg": "2026-11-20",
       "live": {
-        "match": 522554348,
+        "match": 522558205,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -627,15 +615,10 @@
       "tag": "__Chino",
       "cur_1v1": 1836,
       "max_1v1": 2003,
-      "cur_tg": 1513,
+      "cur_tg": 1534,
       "max_tg": 1543,
       "last_1v1": "2026-11-20",
-      "last_tg": "2026-11-21",
-      "live": {
-        "match": 522556906,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-21"
     },
     {
       "profile_id": 233625,
