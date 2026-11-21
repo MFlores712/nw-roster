@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-21T15:55:10Z",
+  "updated_at": "2026-11-21T16:00:19Z",
   "baseline": {
     "taken_at": "2026-11-21T14:00:17Z",
     "ranks": {
@@ -59,7 +59,13 @@
       "cur_tg": 1685,
       "max_tg": 1846,
       "last_1v1": "2026-11-11",
-      "last_tg": "2026-11-21"
+      "last_tg": "2026-11-21",
+      "live": {
+        "match": 522700224,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "LE | WilliamS"
+      }
     },
     {
       "profile_id": 4706179,
@@ -149,17 +155,12 @@
       "profile_id": 4229962,
       "tag": "Réyiman",
       "clan": "LvSP",
-      "cur_1v1": 1933,
+      "cur_1v1": 1946,
       "max_1v1": 2139,
       "cur_tg": 1474,
       "max_tg": 1719,
       "last_1v1": "2026-11-21",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 522695051,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-16"
     },
     {
       "profile_id": 4210400,
@@ -186,17 +187,12 @@
     {
       "profile_id": 4234652,
       "tag": "_The_Oldergold",
-      "cur_1v1": 1829,
+      "cur_1v1": 1839,
       "max_1v1": 1940,
       "cur_tg": 1532,
       "max_tg": 1719,
       "last_1v1": "2026-11-21",
-      "last_tg": "2026-11-19",
-      "live": {
-        "match": 522699418,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-19"
     },
     {
       "profile_id": 3034651,
