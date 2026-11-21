@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-21T14:00:17Z",
+  "updated_at": "2026-11-21T14:05:33Z",
   "baseline": {
     "taken_at": "2026-11-21T14:00:17Z",
     "ranks": {
@@ -74,7 +74,7 @@
       "tag": "JOLIAT",
       "cur_1v1": 2054,
       "max_1v1": 2095,
-      "cur_tg": 1632,
+      "cur_tg": 1617,
       "max_tg": 1710,
       "last_1v1": "2026-11-08",
       "last_tg": "2026-11-21",

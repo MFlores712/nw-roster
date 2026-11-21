@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-21T14:00:17Z",
+  "updated_at": "2026-11-21T14:05:33Z",
   "baseline": {
     "taken_at": "2026-11-21T14:00:17Z",
     "ranks": {
@@ -116,6 +116,16 @@
       "last_tg": "2026-11-12"
     },
     {
+      "profile_id": 13518993,
+      "tag": "Miguel T",
+      "cur_1v1": 2039,
+      "max_1v1": 2039,
+      "cur_tg": 1699,
+      "max_tg": 1703,
+      "last_1v1": "2026-11-21",
+      "last_tg": "2026-11-14"
+    },
+    {
       "profile_id": 6090060,
       "tag": "noru",
       "cur_1v1": 2031,
@@ -124,16 +134,6 @@
       "max_tg": 1840,
       "last_tg": "2026-11-21",
       "last_1v1": "2026-09-24"
-    },
-    {
-      "profile_id": 13518993,
-      "tag": "Miguel T",
-      "cur_1v1": 2022,
-      "max_1v1": 2034,
-      "cur_tg": 1699,
-      "max_tg": 1703,
-      "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-14"
     },
     {
       "profile_id": 633255,
