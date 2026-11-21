@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-21T14:55:10Z",
+  "updated_at": "2026-11-21T15:00:15Z",
   "baseline": {
     "taken_at": "2026-11-21T14:00:17Z",
     "ranks": {
@@ -154,7 +154,12 @@
       "cur_tg": 1474,
       "max_tg": 1719,
       "last_1v1": "2026-11-21",
-      "last_tg": "2026-11-16"
+      "last_tg": "2026-11-16",
+      "live": {
+        "match": 522687545,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 4210400,
@@ -179,6 +184,16 @@
       "last_tg": "2026-11-18"
     },
     {
+      "profile_id": 4234652,
+      "tag": "_The_Oldergold",
+      "cur_1v1": 1826,
+      "max_1v1": 1940,
+      "cur_tg": 1532,
+      "max_tg": 1719,
+      "last_1v1": "2026-11-21",
+      "last_tg": "2026-11-19"
+    },
+    {
       "profile_id": 3034651,
       "tag": "KinG of QUILLA",
       "cur_1v1": 1821,
@@ -187,21 +202,6 @@
       "max_tg": 1657,
       "last_1v1": "2026-11-20",
       "last_tg": "2026-10-26"
-    },
-    {
-      "profile_id": 4234652,
-      "tag": "_The_Oldergold",
-      "cur_1v1": 1810,
-      "max_1v1": 1940,
-      "cur_tg": 1532,
-      "max_tg": 1719,
-      "last_1v1": "2026-11-20",
-      "last_tg": "2026-11-19",
-      "live": {
-        "match": 522682797,
-        "game": "1v1 Empire Wars",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 4167535,
