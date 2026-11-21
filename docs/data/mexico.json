@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-21T05:40:11Z",
+  "updated_at": "2026-11-21T05:45:11Z",
   "baseline": {
     "taken_at": "2026-11-20T14:00:18Z",
     "ranks": {
@@ -90,23 +90,23 @@
       "cur_tg": 1826,
       "max_tg": 1999,
       "last_1v1": "2026-11-11",
-      "last_tg": "2026-11-18"
+      "last_tg": "2026-11-18",
+      "live": {
+        "match": 522609404,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 5984120,
       "tag": "C",
       "clan": "Ux",
-      "cur_1v1": 2605,
+      "cur_1v1": 2612,
       "max_1v1": 2790,
       "cur_tg": 1654,
       "max_tg": 1885,
       "last_1v1": "2026-11-21",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 522605762,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-16"
     },
     {
       "profile_id": 9449579,
@@ -183,13 +183,7 @@
       "cur_tg": 1828,
       "max_tg": 1959,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-13",
-      "live": {
-        "match": 522605762,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "Warlock_Ndk"
-      }
+      "last_tg": "2026-11-13"
     },
     {
       "profile_id": 312774,
@@ -293,7 +287,7 @@
       "profile_id": 4412109,
       "tag": "HGB",
       "clan": "hK",
-      "cur_1v1": 2209,
+      "cur_1v1": 2211,
       "max_1v1": 2365,
       "cur_tg": 2093,
       "max_tg": 2093,
@@ -342,7 +336,12 @@
       "cur_tg": 1632,
       "max_tg": 1820,
       "last_1v1": "2026-11-19",
-      "last_tg": "2026-11-16"
+      "last_tg": "2026-11-16",
+      "live": {
+        "match": 522609404,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 9770338,
