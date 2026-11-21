@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-21T00:10:12Z",
+  "updated_at": "2026-11-21T00:15:12Z",
   "baseline": {
     "taken_at": "2026-11-20T14:00:18Z",
     "ranks": {
@@ -156,7 +156,12 @@
       "cur_tg": 1840,
       "max_tg": 1974,
       "last_1v1": "2026-11-16",
-      "last_tg": "2026-11-20"
+      "last_tg": "2026-11-20",
+      "live": {
+        "match": 522554651,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 2295504,
@@ -180,7 +185,7 @@
       "last_1v1": "2026-11-14",
       "last_tg": "2026-11-13",
       "live": {
-        "match": 522549067,
+        "match": 522555447,
         "game": "1v1 Random Map",
         "format": "1v1",
         "account": "Warlock_Ndk"
@@ -219,7 +224,7 @@
       "last_1v1": "2026-10-17",
       "last_tg": "2026-11-08",
       "live": {
-        "match": 522547866,
+        "match": 522555232,
         "game": "1v1 Random Map",
         "format": "1v1",
         "account": "FierroFlash"
@@ -284,17 +289,12 @@
       "profile_id": 4412109,
       "tag": "HGB",
       "clan": "hK",
-      "cur_1v1": 2205,
+      "cur_1v1": 2229,
       "max_1v1": 2365,
       "cur_tg": 2093,
       "max_tg": 2093,
-      "last_1v1": "2026-11-20",
-      "last_tg": "2026-11-17",
-      "live": {
-        "match": 522549067,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-21",
+      "last_tg": "2026-11-17"
     },
     {
       "profile_id": 757886,
