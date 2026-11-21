@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-21T02:30:13Z",
+  "updated_at": "2026-11-21T02:35:17Z",
   "baseline": {
     "taken_at": "2026-11-20T14:00:18Z",
     "ranks": {
@@ -221,7 +221,13 @@
       "cur_tg": 1953,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-11-08"
+      "last_tg": "2026-11-08",
+      "live": {
+        "match": 522579099,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "FierroFlash"
+      }
     },
     {
       "profile_id": 9666666,
@@ -370,17 +376,12 @@
       "profile_id": 358501,
       "tag": "El Claut_One",
       "clan": "VENÓN",
-      "cur_1v1": 2094,
+      "cur_1v1": 2088,
       "max_1v1": 2115,
       "cur_tg": 1719,
       "max_tg": 1820,
       "last_tg": "2026-11-19",
-      "last_1v1": "2026-11-21",
-      "live": {
-        "match": 522574534,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-21"
     },
     {
       "profile_id": 1261126,
