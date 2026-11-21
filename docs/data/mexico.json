@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-21T18:10:12Z",
+  "updated_at": "2026-11-21T18:15:11Z",
   "baseline": {
     "taken_at": "2026-11-21T14:00:17Z",
     "ranks": {
@@ -112,12 +112,7 @@
       "cur_tg": 1654,
       "max_tg": 1885,
       "last_1v1": "2026-11-21",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 522723235,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-16"
     },
     {
       "profile_id": 401359,
@@ -218,7 +213,7 @@
       "last_1v1": "2026-10-17",
       "last_tg": "2026-11-08",
       "live": {
-        "match": 522723235,
+        "match": 522729871,
         "game": "1v1 Random Map",
         "format": "1v1",
         "account": "FierroFlash"
@@ -579,21 +574,6 @@
       "last_1v1": "2026-10-16"
     },
     {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1890,
-      "max_1v1": 2003,
-      "cur_tg": 1534,
-      "max_tg": 1543,
-      "last_1v1": "2026-11-21",
-      "last_tg": "2026-11-21",
-      "live": {
-        "match": 522724289,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 13241217,
       "tag": "BlueUltra",
       "clan": "Ux",
@@ -614,6 +594,16 @@
       "max_tg": 1888,
       "last_1v1": "2026-11-19",
       "last_tg": "2026-11-19"
+    },
+    {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1875,
+      "max_1v1": 2003,
+      "cur_tg": 1515,
+      "max_tg": 1543,
+      "last_1v1": "2026-11-21",
+      "last_tg": "2026-11-21"
     },
     {
       "profile_id": 233625,
