@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-21T02:40:13Z",
+  "updated_at": "2026-11-21T02:45:10Z",
   "baseline": {
     "taken_at": "2026-11-20T14:00:18Z",
     "ranks": {
@@ -114,7 +114,7 @@
       "last_1v1": "2026-11-21",
       "last_tg": "2026-11-16",
       "live": {
-        "match": 522576304,
+        "match": 522580485,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -188,7 +188,13 @@
       "cur_tg": 1828,
       "max_tg": 1959,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-13"
+      "last_tg": "2026-11-13",
+      "live": {
+        "match": 522580485,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "Warlock_Ndk"
+      }
     },
     {
       "profile_id": 312774,
@@ -430,17 +436,12 @@
       "profile_id": 1249720,
       "tag": "Lice_Slide",
       "clan": "VN",
-      "cur_1v1": 2025,
+      "cur_1v1": 2033,
       "max_1v1": 2121,
       "cur_tg": 1877,
       "max_tg": 1997,
-      "last_1v1": "2026-11-20",
-      "last_tg": "2026-11-19",
-      "live": {
-        "match": 522575193,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-21",
+      "last_tg": "2026-11-19"
     },
     {
       "profile_id": 2291749,
