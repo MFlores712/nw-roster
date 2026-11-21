@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-21T19:55:11Z",
+  "updated_at": "2026-11-21T20:00:14Z",
   "baseline": {
     "taken_at": "2026-11-21T14:00:17Z",
     "ranks": {
@@ -410,36 +410,15 @@
       "last_tg": "2026-11-19"
     },
     {
-      "profile_id": 1249720,
-      "tag": "Lice_Slide",
-      "clan": "VN",
-      "cur_1v1": 2049,
-      "max_1v1": 2121,
-      "cur_tg": 1877,
-      "max_tg": 1997,
-      "last_1v1": "2026-11-21",
-      "last_tg": "2026-11-19",
-      "live": {
-        "match": 522752618,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 2876835,
       "tag": "Abejorro",
       "clan": "nW",
       "cur_1v1": 2045,
       "max_1v1": 2152,
-      "cur_tg": 1799,
+      "cur_tg": 1805,
       "max_tg": 1844,
       "last_1v1": "2026-11-21",
-      "last_tg": "2026-11-21",
-      "live": {
-        "match": 522745568,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-21"
     },
     {
       "profile_id": 1708286,
@@ -450,6 +429,22 @@
       "max_tg": 1818,
       "last_tg": "2026-11-19",
       "last_1v1": "2026-03-21"
+    },
+    {
+      "profile_id": 1249720,
+      "tag": "Lice_Slide",
+      "clan": "VN",
+      "cur_1v1": 2026,
+      "max_1v1": 2121,
+      "cur_tg": 1877,
+      "max_tg": 1997,
+      "last_1v1": "2026-11-21",
+      "last_tg": "2026-11-19",
+      "live": {
+        "match": 522754067,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2291749,
