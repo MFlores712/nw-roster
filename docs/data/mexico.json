@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-21T21:40:11Z",
+  "updated_at": "2026-11-21T21:45:16Z",
   "baseline": {
     "taken_at": "2026-11-21T14:00:17Z",
     "ranks": {
@@ -131,8 +131,8 @@
       "clan": "hK",
       "cur_1v1": 2439,
       "max_1v1": 2439,
-      "cur_tg": 2131,
-      "max_tg": 2131,
+      "cur_tg": 2135,
+      "max_tg": 2135,
       "last_1v1": "2026-11-15",
       "last_tg": "2026-11-21"
     },
@@ -280,8 +280,8 @@
       "clan": "hK",
       "cur_1v1": 2226,
       "max_1v1": 2365,
-      "cur_tg": 2114,
-      "max_tg": 2114,
+      "cur_tg": 2118,
+      "max_tg": 2118,
       "last_1v1": "2026-11-21",
       "last_tg": "2026-11-21"
     },
@@ -338,7 +338,13 @@
       "cur_tg": 1810,
       "max_tg": 1962,
       "last_1v1": "2026-11-17",
-      "last_tg": "2026-11-21"
+      "last_tg": "2026-11-21",
+      "live": {
+        "match": 522777167,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "Zoschenko17"
+      }
     },
     {
       "profile_id": 1947348,
@@ -495,7 +501,12 @@
       "cur_tg": 1708,
       "max_tg": 1858,
       "last_1v1": "2026-11-02",
-      "last_tg": "2026-11-21"
+      "last_tg": "2026-11-21",
+      "live": {
+        "match": 522777840,
+        "game": "1v1 Empire Wars",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 13192381,
@@ -508,7 +519,7 @@
       "last_1v1": "2026-10-25",
       "last_tg": "2026-11-19",
       "live": {
-        "match": 522771932,
+        "match": 522778154,
         "game": "1v1 Random Map",
         "format": "1v1",
         "account": "jax_teller"
