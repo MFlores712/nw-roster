@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-21T22:20:11Z",
+  "updated_at": "2026-11-21T22:25:10Z",
   "baseline": {
     "taken_at": "2026-11-21T14:00:17Z",
     "ranks": {
@@ -96,7 +96,7 @@
       "profile_id": 5984120,
       "tag": "C",
       "clan": "Ux",
-      "cur_1v1": 2633,
+      "cur_1v1": 2635,
       "max_1v1": 2790,
       "cur_tg": 1654,
       "max_tg": 1885,
@@ -343,13 +343,7 @@
       "cur_tg": 1810,
       "max_tg": 1962,
       "last_1v1": "2026-11-17",
-      "last_tg": "2026-11-21",
-      "live": {
-        "match": 522781426,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "Zoschenko17"
-      }
+      "last_tg": "2026-11-21"
     },
     {
       "profile_id": 1947348,
@@ -620,7 +614,12 @@
       "cur_tg": 1515,
       "max_tg": 1543,
       "last_1v1": "2026-11-21",
-      "last_tg": "2026-11-21"
+      "last_tg": "2026-11-21",
+      "live": {
+        "match": 522786096,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 233625,
