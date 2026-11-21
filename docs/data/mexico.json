@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-21T03:30:13Z",
+  "updated_at": "2026-11-21T03:35:11Z",
   "baseline": {
     "taken_at": "2026-11-20T14:00:18Z",
     "ranks": {
@@ -79,7 +79,13 @@
       "cur_tg": 2216,
       "max_tg": 2216,
       "last_1v1": "2026-11-20",
-      "last_tg": "2026-11-20"
+      "last_tg": "2026-11-20",
+      "live": {
+        "match": 522589645,
+        "game": "Team Random Map",
+        "format": "3v3",
+        "account": "Ux'Auu"
+      }
     },
     {
       "profile_id": 13099159,
@@ -575,7 +581,13 @@
       "cur_tg": 1853,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-11-19"
+      "last_tg": "2026-11-19",
+      "live": {
+        "match": 522589176,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "EXILE | Don MessiRonaldo"
+      }
     },
     {
       "profile_id": 12472496,
