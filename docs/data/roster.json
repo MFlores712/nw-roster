@@ -1,6 +1,6 @@
 {
   "name": "new Wave",
-  "updated_at": "2026-11-21T18:35:09Z",
+  "updated_at": "2026-11-21T18:45:17Z",
   "baseline": {
     "taken_at": "2026-11-21T14:00:17Z",
     "ranks": {
@@ -17,6 +17,17 @@
   },
   "players": [
     {
+      "profile_id": 914665,
+      "tag": "Caguamas",
+      "country": "Mexico",
+      "cur_1v1": 2255,
+      "max_1v1": 2268,
+      "cur_tg": 1765,
+      "max_tg": 2024,
+      "last_1v1": "2026-11-21",
+      "last_tg": "2026-11-21"
+    },
+    {
       "profile_id": 13267917,
       "tag": "Manuel",
       "country": "Colombia",
@@ -26,22 +37,6 @@
       "max_tg": 1945,
       "last_1v1": "2026-11-20",
       "last_tg": "2026-11-21"
-    },
-    {
-      "profile_id": 914665,
-      "tag": "Caguamas",
-      "country": "Mexico",
-      "cur_1v1": 2240,
-      "max_1v1": 2268,
-      "cur_tg": 1765,
-      "max_tg": 2024,
-      "last_1v1": "2026-11-18",
-      "last_tg": "2026-11-21",
-      "live": {
-        "match": 522733523,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 3816609,
@@ -96,7 +91,12 @@
       "cur_tg": 1799,
       "max_tg": 1844,
       "last_1v1": "2026-11-21",
-      "last_tg": "2026-11-21"
+      "last_tg": "2026-11-21",
+      "live": {
+        "match": 522736434,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 6501299,
