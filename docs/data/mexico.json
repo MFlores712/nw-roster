@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-21T02:25:11Z",
+  "updated_at": "2026-11-21T02:30:13Z",
   "baseline": {
     "taken_at": "2026-11-20T14:00:18Z",
     "ranks": {
@@ -163,15 +163,10 @@
       "clan": "hK",
       "cur_1v1": 2384,
       "max_1v1": 2384,
-      "cur_tg": 1848,
+      "cur_tg": 1864,
       "max_tg": 1974,
       "last_1v1": "2026-11-16",
-      "last_tg": "2026-11-21",
-      "live": {
-        "match": 522573990,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-21"
     },
     {
       "profile_id": 2295504,
@@ -193,13 +188,7 @@
       "cur_tg": 1828,
       "max_tg": 1959,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-13",
-      "live": {
-        "match": 522573990,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "Warlock_Ndk"
-      }
+      "last_tg": "2026-11-13"
     },
     {
       "profile_id": 312774,
@@ -232,13 +221,7 @@
       "cur_tg": 1953,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-11-08",
-      "live": {
-        "match": 522573990,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "FierroFlash"
-      }
+      "last_tg": "2026-11-08"
     },
     {
       "profile_id": 9666666,
@@ -282,7 +265,12 @@
       "cur_tg": 1865,
       "max_tg": 1907,
       "last_1v1": "2026-11-20",
-      "last_tg": "2026-11-20"
+      "last_tg": "2026-11-20",
+      "live": {
+        "match": 522578228,
+        "game": "Team Random Map",
+        "format": "2v2"
+      }
     },
     {
       "profile_id": 914665,
@@ -494,12 +482,7 @@
       "cur_tg": 1672,
       "max_tg": 1865,
       "last_tg": "2026-11-21",
-      "last_1v1": "2026-11-18",
-      "live": {
-        "match": 522572377,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_1v1": "2026-11-18"
     },
     {
       "profile_id": 235877,
@@ -554,12 +537,7 @@
       "cur_tg": 1572,
       "max_tg": 1824,
       "last_tg": "2026-11-21",
-      "last_1v1": "2026-10-13",
-      "live": {
-        "match": 522572377,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_1v1": "2026-10-13"
     },
     {
       "profile_id": 13215279,
@@ -602,7 +580,13 @@
       "cur_tg": 1853,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-11-19"
+      "last_tg": "2026-11-19",
+      "live": {
+        "match": 522577418,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "EXILE | Don MessiRonaldo"
+      }
     },
     {
       "profile_id": 12472496,
