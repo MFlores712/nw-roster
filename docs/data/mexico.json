@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-21T02:55:10Z",
+  "updated_at": "2026-11-21T03:00:14Z",
   "baseline": {
     "taken_at": "2026-11-20T14:00:18Z",
     "ranks": {
@@ -118,7 +118,12 @@
       "cur_tg": 1654,
       "max_tg": 1885,
       "last_1v1": "2026-11-21",
-      "last_tg": "2026-11-16"
+      "last_tg": "2026-11-16",
+      "live": {
+        "match": 522583445,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 401359,
@@ -129,7 +134,12 @@
       "cur_tg": 2119,
       "max_tg": 2190,
       "last_1v1": "2026-11-12",
-      "last_tg": "2026-11-21"
+      "last_tg": "2026-11-21",
+      "live": {
+        "match": 522583194,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 4221810,
@@ -184,7 +194,13 @@
       "cur_tg": 1828,
       "max_tg": 1959,
       "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-13"
+      "last_tg": "2026-11-13",
+      "live": {
+        "match": 522583445,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "Warlock_Ndk"
+      }
     },
     {
       "profile_id": 312774,
@@ -217,7 +233,13 @@
       "cur_tg": 1953,
       "max_tg": 1995,
       "last_1v1": "2026-10-17",
-      "last_tg": "2026-11-08"
+      "last_tg": "2026-11-08",
+      "live": {
+        "match": 522582859,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "FierroFlash"
+      }
     },
     {
       "profile_id": 9666666,
@@ -258,15 +280,10 @@
       "clan": "nW",
       "cur_1v1": 2254,
       "max_1v1": 2304,
-      "cur_tg": 1865,
+      "cur_tg": 1882,
       "max_tg": 1907,
       "last_1v1": "2026-11-20",
-      "last_tg": "2026-11-20",
-      "live": {
-        "match": 522578228,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-21"
     },
     {
       "profile_id": 914665,
@@ -343,7 +360,13 @@
       "cur_tg": 1830,
       "max_tg": 1962,
       "last_1v1": "2026-11-17",
-      "last_tg": "2026-11-21"
+      "last_tg": "2026-11-21",
+      "live": {
+        "match": 522583194,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "SynfonY"
+      }
     },
     {
       "profile_id": 1947348,
