@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-21T15:00:15Z",
+  "updated_at": "2026-11-21T15:20:13Z",
   "baseline": {
     "taken_at": "2026-11-21T14:00:17Z",
     "ranks": {
@@ -67,25 +67,19 @@
       "cur_tg": 1843,
       "max_tg": 1947,
       "last_1v1": "2026-10-28",
-      "last_tg": "2026-11-19",
-      "live": {
-        "match": 522688165,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "Retember"
-      }
+      "last_tg": "2026-11-19"
     },
     {
       "profile_id": 2955183,
       "tag": "JOLIAT",
       "cur_1v1": 2054,
       "max_1v1": 2095,
-      "cur_tg": 1622,
+      "cur_tg": 1611,
       "max_tg": 1710,
       "last_1v1": "2026-11-08",
       "last_tg": "2026-11-21",
       "live": {
-        "match": 522685540,
+        "match": 522692140,
         "game": "Team Random Map",
         "format": "4v4"
       }
