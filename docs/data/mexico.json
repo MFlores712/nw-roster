@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-21T04:00:14Z",
+  "updated_at": "2026-11-21T04:05:09Z",
   "baseline": {
     "taken_at": "2026-11-20T14:00:18Z",
     "ranks": {
@@ -113,7 +113,7 @@
       "profile_id": 5984120,
       "tag": "C",
       "clan": "Ux",
-      "cur_1v1": 2597,
+      "cur_1v1": 2598,
       "max_1v1": 2790,
       "cur_tg": 1654,
       "max_tg": 1885,
@@ -370,7 +370,12 @@
       "cur_tg": 1719,
       "max_tg": 1820,
       "last_tg": "2026-11-19",
-      "last_1v1": "2026-11-21"
+      "last_1v1": "2026-11-21",
+      "live": {
+        "match": 522594765,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 1261126,
@@ -570,13 +575,7 @@
       "cur_tg": 1853,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-11-19",
-      "live": {
-        "match": 522589176,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "EXILE | Don MessiRonaldo"
-      }
+      "last_tg": "2026-11-19"
     },
     {
       "profile_id": 12472496,
