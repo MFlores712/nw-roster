@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-21T22:05:10Z",
+  "updated_at": "2026-11-21T22:10:12Z",
   "baseline": {
     "taken_at": "2026-11-21T14:00:17Z",
     "ranks": {
@@ -96,17 +96,12 @@
       "profile_id": 5984120,
       "tag": "C",
       "clan": "Ux",
-      "cur_1v1": 2623,
+      "cur_1v1": 2633,
       "max_1v1": 2790,
       "cur_tg": 1654,
       "max_tg": 1885,
       "last_1v1": "2026-11-21",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 522778374,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-16"
     },
     {
       "profile_id": 9449579,
@@ -155,7 +150,13 @@
       "cur_tg": 2215,
       "max_tg": 2227,
       "last_tg": "2026-11-16",
-      "last_1v1": "2026-10-31"
+      "last_1v1": "2026-10-31",
+      "live": {
+        "match": 522783533,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "DSLG | NotAcuna"
+      }
     },
     {
       "profile_id": 580573,
@@ -494,7 +495,12 @@
       "cur_tg": 1716,
       "max_tg": 1813,
       "last_tg": "2026-11-21",
-      "last_1v1": "2026-11-15"
+      "last_1v1": "2026-11-15",
+      "live": {
+        "match": 522783250,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 3285258,
@@ -518,7 +524,7 @@
       "last_1v1": "2026-10-25",
       "last_tg": "2026-11-19",
       "live": {
-        "match": 522778154,
+        "match": 522783698,
         "game": "1v1 Random Map",
         "format": "1v1",
         "account": "jax_teller"
