@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-21T23:25:09Z",
+  "updated_at": "2026-11-21T23:35:10Z",
   "baseline": {
     "taken_at": "2026-11-21T14:00:17Z",
     "ranks": {
@@ -59,13 +59,7 @@
       "cur_tg": 1685,
       "max_tg": 1846,
       "last_1v1": "2026-11-11",
-      "last_tg": "2026-11-21",
-      "live": {
-        "match": 522794569,
-        "game": "Unranked",
-        "format": "4v4",
-        "account": "LE | WilliamS"
-      }
+      "last_tg": "2026-11-21"
     },
     {
       "profile_id": 4706179,
@@ -132,21 +126,6 @@
       "last_1v1": "2026-09-24"
     },
     {
-      "profile_id": 13518993,
-      "tag": "Tatanos",
-      "cur_1v1": 1985,
-      "max_1v1": 2039,
-      "cur_tg": 1669,
-      "max_tg": 1703,
-      "last_1v1": "2026-11-21",
-      "last_tg": "2026-11-21",
-      "live": {
-        "match": 522794637,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 633255,
       "tag": "Tempo",
       "cur_1v1": 1982,
@@ -155,6 +134,16 @@
       "max_tg": 1843,
       "last_1v1": "2026-11-21",
       "last_tg": "2026-11-20"
+    },
+    {
+      "profile_id": 13518993,
+      "tag": "Tatanos",
+      "cur_1v1": 1974,
+      "max_1v1": 2039,
+      "cur_tg": 1669,
+      "max_tg": 1703,
+      "last_1v1": "2026-11-21",
+      "last_tg": "2026-11-21"
     },
     {
       "profile_id": 4229962,
@@ -197,7 +186,22 @@
       "cur_tg": 1526,
       "max_tg": 1657,
       "last_1v1": "2026-11-21",
-      "last_tg": "2026-10-26"
+      "last_tg": "2026-10-26",
+      "live": {
+        "match": 522799681,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
+      "profile_id": 4234652,
+      "tag": "_The_Oldergold",
+      "cur_1v1": 1811,
+      "max_1v1": 1940,
+      "cur_tg": 1546,
+      "max_tg": 1719,
+      "last_1v1": "2026-11-21",
+      "last_tg": "2026-11-21"
     },
     {
       "profile_id": 4167535,
@@ -209,21 +213,6 @@
       "max_tg": 1581,
       "last_1v1": "2026-11-20",
       "last_tg": "2026-11-19"
-    },
-    {
-      "profile_id": 4234652,
-      "tag": "_The_Oldergold",
-      "cur_1v1": 1799,
-      "max_1v1": 1940,
-      "cur_tg": 1546,
-      "max_tg": 1719,
-      "last_1v1": "2026-11-21",
-      "last_tg": "2026-11-21",
-      "live": {
-        "match": 522797910,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 2366434,
