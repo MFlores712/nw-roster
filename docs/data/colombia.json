@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-21T07:25:10Z",
+  "updated_at": "2026-11-21T07:35:16Z",
   "baseline": {
     "taken_at": "2026-11-20T14:00:18Z",
     "ranks": {
@@ -53,15 +53,10 @@
       "clan": "nW",
       "cur_1v1": 2245,
       "max_1v1": 2495,
-      "cur_tg": 1810,
+      "cur_tg": 1821,
       "max_tg": 1945,
       "last_1v1": "2026-11-20",
-      "last_tg": "2026-11-21",
-      "live": {
-        "match": 522620802,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-21"
     },
     {
       "profile_id": 2825261,
@@ -82,13 +77,7 @@
       "cur_tg": 1683,
       "max_tg": 1710,
       "last_1v1": "2026-11-08",
-      "last_tg": "2026-11-15",
-      "live": {
-        "match": 522618817,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "Alvaro_Uribest"
-      }
+      "last_tg": "2026-11-15"
     },
     {
       "profile_id": 1062980,
