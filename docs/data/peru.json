@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-21T21:10:12Z",
+  "updated_at": "2026-11-21T21:30:13Z",
   "baseline": {
     "taken_at": "2026-11-21T14:00:17Z",
     "ranks": {
@@ -84,21 +84,6 @@
       "last_1v1": "2026-10-27"
     },
     {
-      "profile_id": 3244108,
-      "tag": "Legendario",
-      "cur_1v1": 2061,
-      "max_1v1": 2174,
-      "cur_tg": 1565,
-      "max_tg": 1834,
-      "last_1v1": "2026-11-20",
-      "last_tg": "2026-11-20",
-      "live": {
-        "match": 522767173,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 1359694,
       "tag": "AtilA",
       "clan": "nW",
@@ -119,6 +104,21 @@
       "max_tg": 2011,
       "last_1v1": "2026-11-09",
       "last_tg": "2026-11-12"
+    },
+    {
+      "profile_id": 3244108,
+      "tag": "Legendario",
+      "cur_1v1": 2043,
+      "max_1v1": 2174,
+      "cur_tg": 1565,
+      "max_tg": 1834,
+      "last_1v1": "2026-11-21",
+      "last_tg": "2026-11-20",
+      "live": {
+        "match": 522767173,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 6090060,
@@ -154,17 +154,12 @@
       "profile_id": 4229962,
       "tag": "Réyiman",
       "clan": "LvSP",
-      "cur_1v1": 1954,
+      "cur_1v1": 1972,
       "max_1v1": 2139,
       "cur_tg": 1474,
       "max_tg": 1719,
       "last_1v1": "2026-11-21",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 522769500,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-16"
     },
     {
       "profile_id": 4210400,
