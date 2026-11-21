@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-21T06:35:11Z",
+  "updated_at": "2026-11-21T06:50:12Z",
   "baseline": {
     "taken_at": "2026-11-20T14:00:18Z",
     "ranks": {
@@ -112,14 +112,14 @@
       "profile_id": 5984120,
       "tag": "C",
       "clan": "Ux",
-      "cur_1v1": 2603,
+      "cur_1v1": 2595,
       "max_1v1": 2790,
       "cur_tg": 1654,
       "max_tg": 1885,
       "last_1v1": "2026-11-21",
       "last_tg": "2026-11-16",
       "live": {
-        "match": 522613752,
+        "match": 522617052,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -262,15 +262,10 @@
       "clan": "nW",
       "cur_1v1": 2254,
       "max_1v1": 2304,
-      "cur_tg": 1831,
+      "cur_tg": 1818,
       "max_tg": 1907,
       "last_1v1": "2026-11-20",
-      "last_tg": "2026-11-21",
-      "live": {
-        "match": 522615010,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-21"
     },
     {
       "profile_id": 914665,
@@ -366,22 +361,6 @@
       "last_tg": "2026-10-21"
     },
     {
-      "profile_id": 358501,
-      "tag": "El Claut_One",
-      "clan": "VENÓN",
-      "cur_1v1": 2074,
-      "max_1v1": 2115,
-      "cur_tg": 1719,
-      "max_tg": 1820,
-      "last_tg": "2026-11-19",
-      "last_1v1": "2026-11-21",
-      "live": {
-        "match": 522612907,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 1261126,
       "tag": "Spirit",
       "clan": "SotC",
@@ -413,6 +392,17 @@
       "max_tg": 1919,
       "last_1v1": "2026-06-27",
       "last_tg": "2026-11-19"
+    },
+    {
+      "profile_id": 358501,
+      "tag": "El Claut_One",
+      "clan": "VENÓN",
+      "cur_1v1": 2052,
+      "max_1v1": 2115,
+      "cur_tg": 1719,
+      "max_tg": 1820,
+      "last_tg": "2026-11-19",
+      "last_1v1": "2026-11-21"
     },
     {
       "profile_id": 1708286,
