@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-21T20:20:13Z",
+  "updated_at": "2026-11-21T20:25:10Z",
   "baseline": {
     "taken_at": "2026-11-21T14:00:17Z",
     "ranks": {
@@ -357,6 +357,17 @@
       "last_tg": "2026-10-21"
     },
     {
+      "profile_id": 2876835,
+      "tag": "Abejorro",
+      "clan": "nW",
+      "cur_1v1": 2064,
+      "max_1v1": 2152,
+      "cur_tg": 1805,
+      "max_tg": 1844,
+      "last_1v1": "2026-11-21",
+      "last_tg": "2026-11-21"
+    },
+    {
       "profile_id": 358501,
       "tag": "El Claut_One",
       "clan": "VENÓN",
@@ -399,22 +410,6 @@
       "max_tg": 1919,
       "last_1v1": "2026-06-27",
       "last_tg": "2026-11-19"
-    },
-    {
-      "profile_id": 2876835,
-      "tag": "Abejorro",
-      "clan": "nW",
-      "cur_1v1": 2045,
-      "max_1v1": 2152,
-      "cur_tg": 1805,
-      "max_tg": 1844,
-      "last_1v1": "2026-11-21",
-      "last_tg": "2026-11-21",
-      "live": {
-        "match": 522755812,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 1708286,
