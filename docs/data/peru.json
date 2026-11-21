@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-21T22:55:10Z",
+  "updated_at": "2026-11-21T23:05:11Z",
   "baseline": {
     "taken_at": "2026-11-21T14:00:17Z",
     "ranks": {
@@ -59,13 +59,7 @@
       "cur_tg": 1685,
       "max_tg": 1846,
       "last_1v1": "2026-11-11",
-      "last_tg": "2026-11-21",
-      "live": {
-        "match": 522787488,
-        "game": "Unranked",
-        "format": "4v4",
-        "account": "LE | WilliamS"
-      }
+      "last_tg": "2026-11-21"
     },
     {
       "profile_id": 4706179,
@@ -139,7 +133,12 @@
       "cur_tg": 1669,
       "max_tg": 1703,
       "last_1v1": "2026-11-21",
-      "last_tg": "2026-11-21"
+      "last_tg": "2026-11-21",
+      "live": {
+        "match": 522794637,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 633255,
@@ -151,9 +150,9 @@
       "last_1v1": "2026-11-21",
       "last_tg": "2026-11-20",
       "live": {
-        "match": 522791390,
+        "match": 522794078,
         "game": "Team Death Match",
-        "format": "4v4"
+        "format": "3v3"
       }
     },
     {
