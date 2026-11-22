@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-22T18:10:11Z",
+  "updated_at": "2026-11-22T18:15:12Z",
   "baseline": {
     "taken_at": "2026-11-22T14:00:16Z",
     "ranks": {
@@ -206,14 +206,14 @@
       "profile_id": 9031952,
       "tag": "ChossMx",
       "clan": "hK",
-      "cur_1v1": 2313,
+      "cur_1v1": 2304,
       "max_1v1": 2322,
       "cur_tg": 1953,
       "max_tg": 1995,
       "last_1v1": "2026-11-22",
       "last_tg": "2026-11-08",
       "live": {
-        "match": 522984268,
+        "match": 522988296,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -239,7 +239,12 @@
       "cur_tg": 1741,
       "max_tg": 2024,
       "last_1v1": "2026-11-21",
-      "last_tg": "2026-11-22"
+      "last_tg": "2026-11-22",
+      "live": {
+        "match": 522988388,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 5803221,
@@ -459,6 +464,22 @@
       "last_1v1": "2026-11-18"
     },
     {
+      "profile_id": 13215279,
+      "tag": "GO1_mx",
+      "clan": "MZTK",
+      "cur_1v1": 1965,
+      "max_1v1": 2093,
+      "cur_tg": 1700,
+      "max_tg": 1860,
+      "last_1v1": "2026-11-22",
+      "last_tg": "2026-11-09",
+      "live": {
+        "match": 522988430,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 235877,
       "tag": "AsMelodiant",
       "clan": "VENÓN",
@@ -512,22 +533,6 @@
       "max_tg": 1824,
       "last_tg": "2026-11-21",
       "last_1v1": "2026-10-13"
-    },
-    {
-      "profile_id": 13215279,
-      "tag": "GO1_mx",
-      "clan": "MZTK",
-      "cur_1v1": 1950,
-      "max_1v1": 2093,
-      "cur_tg": 1700,
-      "max_tg": 1860,
-      "last_1v1": "2026-11-17",
-      "last_tg": "2026-11-09",
-      "live": {
-        "match": 522979275,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 467847,
