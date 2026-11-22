@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-22T21:50:10Z",
+  "updated_at": "2026-11-22T22:05:09Z",
   "baseline": {
     "taken_at": "2026-11-22T14:00:16Z",
     "ranks": {
@@ -420,22 +420,6 @@
       "last_tg": "2026-11-20"
     },
     {
-      "profile_id": 13215279,
-      "tag": "GO1_mx",
-      "clan": "MZTK",
-      "cur_1v1": 2005,
-      "max_1v1": 2093,
-      "cur_tg": 1700,
-      "max_tg": 1860,
-      "last_1v1": "2026-11-22",
-      "last_tg": "2026-11-09",
-      "live": {
-        "match": 523040095,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 1249720,
       "tag": "Lice_Slide",
       "clan": "VN",
@@ -467,6 +451,17 @@
       "max_tg": 1750,
       "last_tg": "2026-11-22",
       "last_1v1": "2026-10-24"
+    },
+    {
+      "profile_id": 13215279,
+      "tag": "GO1_mx",
+      "clan": "MZTK",
+      "cur_1v1": 1986,
+      "max_1v1": 2093,
+      "cur_tg": 1700,
+      "max_tg": 1860,
+      "last_1v1": "2026-11-22",
+      "last_tg": "2026-11-09"
     },
     {
       "profile_id": 278380,
