@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-22T00:05:10Z",
+  "updated_at": "2026-11-22T00:15:18Z",
   "baseline": {
     "taken_at": "2026-11-21T14:00:17Z",
     "ranks": {
@@ -305,14 +305,14 @@
       "profile_id": 2934597,
       "tag": "Sgt.Pepper",
       "clan": "nW",
-      "cur_1v1": 2127,
+      "cur_1v1": 2120,
       "max_1v1": 2210,
       "cur_tg": 1731,
       "max_tg": 1747,
-      "last_1v1": "2026-11-21",
+      "last_1v1": "2026-11-22",
       "last_tg": "2026-10-27",
       "live": {
-        "match": 522804087,
+        "match": 522806320,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
