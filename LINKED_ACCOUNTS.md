@@ -1,6 +1,6 @@
 # Linked accounts
 
-Generated 2026-11-21T14:00:17Z from aoe2companion's linked profiles (followed up to 4 links deep; each account belongs to the closest listed player).
+Generated 2026-11-22T14:00:16Z from aoe2companion's linked profiles (followed up to 4 links deep; each account belongs to the closest listed player).
 Used to show players LIVE when they play on any of their accounts. Ratings are RM 1v1.
 
 ## new Wave
@@ -28,13 +28,13 @@ Used to show players LIVE when they play on any of their accounts. Ratings are R
 | VENÓN EnvyZ | S1mulated w (2213), KH / Murdock (2033) |
 | hK SoyLaHostia | Warlock_Ndk (2365) |
 | hK Keno_ | Ideas.Necias (2073), _Siesta (—), Stevenash_ (2429), hK / Siesta (2471), hK / RanDoM (2334) |
-| hK Imfury_ | _Imfury_ (2237), The_Fury (2334) |
+| hK Imfury_ | _Imfury_ (2237), The_Fury (2348) |
 | VENÓN MrOsoVC8 | Combi / Noob (1987), Discipulo de eL / Bicho (2134), FlagPlayer (705), Danyselacome (2140), FanDelPerrubis (1947), babababa (2056) |
 | VENÓN SiNisTeR | VENÓN / SiNisTeR (2327), SiNisTeR (2114), Taquería El Primo (2041), OrangeKato (—), DSLG / Acuna (1516, 2 links away), Pichulita Feli (—, 3 links away), DSLG / NotAcuna (1649, 3 links away), NotAcuna_ (1529, 3 links away) |
 | hK Puerco Black | THE_BLACK_PIG (—), PuercoBlackTG (—), BlukuUktan (—), blukuuktan (—), lechon_negro (—), BlackAbE (—), puerco_white (—), Rook4Ever (1968), mamadejuannn (1793), RandomPlayer (1639), SecretFace (2150), osirismichelle95 (2008) |
 | hK Eren | Volg (2256), Rhaegar (1879), hK / Andobienmachinsobrelaidea (1886), Mexican Pyscho (1777), twitch.tv/sunshine_aoe (1843), Tryw (—), LE / Dimoking (1661, 2 links away), larryRy cañonga! (—, 2 links away) |
 | iamkaito | nW / iamkaito (2085) |
-| hK ChossMx | FierroFlash (2276) |
+| hK ChossMx | FierroFlash (2271) |
 | VN DarK_KnighT_ | 1106779817143 (1979) |
 | Caguamas | Fontana Bella (2076), Jose Ali (1660), nW / Cawi (2232) |
 | hK Romell13 | ang (1788) |
@@ -51,11 +51,11 @@ Used to show players LIVE when they play on any of their accounts. Ratings are R
 | VL Lemoine | VL Formolin (—) |
 | DoN.Vergas | bZ.Slayer (1855) |
 | MZTK GO1_mx | — |
-| VL JPGP | [Tkilla]Temujin (1325), Mazahua (1544), eFotboll (1812) |
+| VL JPGP | [Tkilla]Temujin (1325), Mazahua (1544), eFotboll (1827) |
 | KH BooMBastic_ | hK / Charles Martel (1528) |
 | SotC PerezPodrido | — |
 | __Chino | — |
-| CL SynfonY | SynfonY (1965), The_Godfather (1648, 2 links away), Combi / Volker (1654, 2 links away), CL / Stalingrado (2093, 2 links away), Zoschenko17 (—, 2 links away) |
+| CL SynfonY | SynfonY (1986), The_Godfather (1648, 2 links away), Combi / Volker (1654, 2 links away), CL / Stalingrado (2093, 2 links away), Zoschenko17 (—, 2 links away) |
 | hK HGB | HelloGoodBye_ (1997) |
 | VENÓN PuNii | VENÓN / Aweonao Qliao (2009), ERICH VON MANSTEIN (1856, 2 links away), Parcero Erotico (2034, 2 links away), ReBeL_Roshi (—, 2 links away), [5oy] RockLee_ (—, 2 links away), GaiSensei (1341, 2 links away), PIKACHU95 (973, 2 links away), OmegaFC (1232, 2 links away), VENÓN / FRIDOTA (2041, 2 links away), VENÓN / seemylame (2031, 2 links away), OS+ / Mauricioae13 (2026, 2 links away) |
 | Mahmoud Ahmadinejad | emmanueldltq08 (1480) |
@@ -64,7 +64,7 @@ Used to show players LIVE when they play on any of their accounts. Ratings are R
 | Biner | — |
 | VENÓN AsMelodiant | VENÓN / Meliodas (1905) |
 | MZTK Kiss | Kiss (1846), Horseman (1691, 2 links away) |
-| VL niiino | jax_teller (1882), Combi / elseñordeloshelados (1760, 2 links away), Combi / salario_minimo (—, 2 links away), Combi / crack (1679, 2 links away), Combi / niino (1726, 2 links away), VL Niino (1932, 2 links away), V (1832, 2 links away) |
+| VL niiino | jax_teller (1900), Combi / elseñordeloshelados (1760, 2 links away), Combi / salario_minimo (—, 2 links away), Combi / crack (1679, 2 links away), Combi / niino (1726, 2 links away), VL Niino (1932, 2 links away), V (1832, 2 links away) |
 | Ux BlueUltra | — |
 | Ux Nova | — |
 | MooN | Annlost13 (1712), Luna (1644), MooN / Lunatico (1831), al03069175 (1478) |
@@ -78,7 +78,7 @@ Used to show players LIVE when they play on any of their accounts. Ratings are R
 | Ux Ozone | Marcus Fenix (—), O3 (2123), DS_Negan (—) |
 | Manuel | — |
 | NuMa AngelR | monroyjohan29 (—), [NuMa] MancoFarfan (1340), Xever Clan de Hpts (1427), NuMa / AngelR2 (2382), NuMa / Empire (1697, 2 links away), VoyMeta (1562, 3 links away) |
-| VL Tou | Retember (2068), Seteada Remix (1503, 2 links away) |
+| VL Tou | Retember (2059), Seteada Remix (1503, 2 links away) |
 | JOLIAT | Alvaro_Uribest (1917), Man_at_Laptop (2049) |
 | NuMa OliverAtom | Voywall (1859) |
 | FMG KauTrEnS | DkT / HuecoYoruga (1710), KaUTreNS (1812), El Chanchullero (1310) |
@@ -99,8 +99,8 @@ Used to show players LIVE when they play on any of their accounts. Ratings are R
 |---|---|
 | VIT Hearttt | X (—) |
 | Dimo | Dimo (2447), Anubis (2152), _DonCagón (2370) |
-| LE WilliamS | LE / WilliamS (2374) |
-| CTM Lelouch | CTM / Lelouch ELO bajito (1787), CTM / Lelouch Jogo Bonito (2235), DK_Chris Evans (1769), CTM / Ligth (2156), CTM / Lelouch jugando borracho (2222), Combi / Controla tus palabras (1740) |
+| LE WilliamS | LE / WilliamS (2390) |
+| CTM Lelouch | CTM / Lelouch ELO bajito (1822), CTM / Lelouch Jogo Bonito (2235), DK_Chris Evans (1769), CTM / Ligth (2156), CTM / Lelouch jugando borracho (2222), Combi / Controla tus palabras (1740) |
 | CL Rey Enigmaaa | [CL] The Fabulous Merasmus (1731), Lord Of War con Tuberculosis (—, 2 links away), [CL] Tatán (1471, 2 links away), CL / PainFelipeJupyCastigador (2011, 2 links away) |
 | VL Lil Franco | Ferxxo (1998) |
 | LvSP Réyiman | Akira Toreyama (—) |
@@ -113,5 +113,5 @@ Used to show players LIVE when they play on any of their accounts. Ratings are R
 | LE Dia franptom | LE / Emaxcito2 (2009), LE/ valx1111 (—) |
 | KinG of QUILLA | — |
 | CTM Pentrus | lopy32 (1143), CTM / VaccumDestroyer (1712), alexandra1845 (—), levatoan96 (—) |
-| Miguel T | HR PUGRRITO (2107), Mini pug (1572, 2 links away), Panini (—, 2 links away), BACHIRA (1505, 2 links away), PN / FULL DEFEND (1800, 2 links away), Andreu pero sin manos (1823, 2 links away), Susy Diaz (1601, 2 links away), Ceviche de elite (1838, 2 links away), Pugrrito (2008, 2 links away), HR SHOKO (2076, 2 links away) |
+| Tatanos | HR PUGRRITO (2107), Mini pug (1572, 2 links away), Panini (—, 2 links away), BACHIRA (1505, 2 links away), PN / FULL DEFEND (1800, 2 links away), Andreu pero sin manos (1823, 2 links away), Susy Diaz (1601, 2 links away), Ceviche de elite (1838, 2 links away), Pugrrito (2008, 2 links away), HR SHOKO (2076, 2 links away) |
 | LE Darwiz1233 | julio123 (—) |
