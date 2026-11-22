@@ -1,6 +1,6 @@
 {
   "name": "new Wave",
-  "updated_at": "2026-11-22T21:05:09Z",
+  "updated_at": "2026-11-22T21:20:12Z",
   "baseline": {
     "taken_at": "2026-11-22T14:00:16Z",
     "ranks": {
@@ -33,15 +33,10 @@
       "country": "Mexico",
       "cur_1v1": 2241,
       "max_1v1": 2304,
-      "cur_tg": 1798,
+      "cur_tg": 1809,
       "max_tg": 1907,
       "last_1v1": "2026-11-22",
-      "last_tg": "2026-11-22",
-      "live": {
-        "match": 523030419,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-22"
     },
     {
       "profile_id": 13267917,
@@ -49,31 +44,21 @@
       "country": "Colombia",
       "cur_1v1": 2238,
       "max_1v1": 2495,
-      "cur_tg": 1810,
+      "cur_tg": 1821,
       "max_tg": 1945,
       "last_1v1": "2026-11-22",
-      "last_tg": "2026-11-21",
-      "live": {
-        "match": 523030419,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-22"
     },
     {
       "profile_id": 2934597,
       "tag": "Sgt.Pepper",
       "country": "Mexico",
-      "cur_1v1": 2099,
+      "cur_1v1": 2117,
       "max_1v1": 2210,
       "cur_tg": 1731,
       "max_tg": 1747,
       "last_1v1": "2026-11-22",
-      "last_tg": "2026-10-27",
-      "live": {
-        "match": 523027218,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-27"
     },
     {
       "profile_id": 1947348,
