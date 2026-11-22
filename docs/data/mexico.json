@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-22T00:55:10Z",
+  "updated_at": "2026-11-22T01:00:15Z",
   "baseline": {
     "taken_at": "2026-11-21T14:00:17Z",
     "ranks": {
@@ -304,7 +304,12 @@
       "cur_tg": 1907,
       "max_tg": 2010,
       "last_1v1": "2026-11-20",
-      "last_tg": "2026-11-22"
+      "last_tg": "2026-11-22",
+      "live": {
+        "match": 522813361,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 2934597,
@@ -315,7 +320,12 @@
       "cur_tg": 1731,
       "max_tg": 1747,
       "last_1v1": "2026-11-22",
-      "last_tg": "2026-10-27"
+      "last_tg": "2026-10-27",
+      "live": {
+        "match": 522813771,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2850920,
@@ -426,6 +436,22 @@
       "last_tg": "2026-11-20"
     },
     {
+      "profile_id": 1249720,
+      "tag": "Lice_Slide",
+      "clan": "VN",
+      "cur_1v1": 1995,
+      "max_1v1": 2121,
+      "cur_tg": 1877,
+      "max_tg": 1997,
+      "last_1v1": "2026-11-22",
+      "last_tg": "2026-11-19",
+      "live": {
+        "match": 522813771,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 6501299,
       "tag": "ShutAzarquay",
       "clan": "nW",
@@ -435,22 +461,6 @@
       "max_tg": 1750,
       "last_tg": "2026-11-15",
       "last_1v1": "2026-10-24"
-    },
-    {
-      "profile_id": 1249720,
-      "tag": "Lice_Slide",
-      "clan": "VN",
-      "cur_1v1": 1983,
-      "max_1v1": 2121,
-      "cur_tg": 1877,
-      "max_tg": 1997,
-      "last_1v1": "2026-11-22",
-      "last_tg": "2026-11-19",
-      "live": {
-        "match": 522809728,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 278380,
@@ -491,12 +501,12 @@
       "clan": "MZTK",
       "cur_1v1": 1961,
       "max_1v1": 1993,
-      "cur_tg": 1708,
+      "cur_tg": 1695,
       "max_tg": 1858,
       "last_1v1": "2026-11-02",
-      "last_tg": "2026-11-21",
+      "last_tg": "2026-11-22",
       "live": {
-        "match": 522809270,
+        "match": 522813625,
         "game": "Team Random Map",
         "format": "3v3"
       }
@@ -596,7 +606,12 @@
       "cur_tg": 1541,
       "max_tg": 1543,
       "last_1v1": "2026-11-22",
-      "last_tg": "2026-11-22"
+      "last_tg": "2026-11-22",
+      "live": {
+        "match": 522813401,
+        "game": "Team Random Map",
+        "format": "2v2"
+      }
     },
     {
       "profile_id": 2926018,
