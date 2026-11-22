@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-22T02:50:12Z",
+  "updated_at": "2026-11-22T02:55:09Z",
   "baseline": {
     "taken_at": "2026-11-21T14:00:17Z",
     "ranks": {
@@ -120,7 +120,7 @@
       "tag": "noru",
       "cur_1v1": 2031,
       "max_1v1": 2031,
-      "cur_tg": 1695,
+      "cur_tg": 1706,
       "max_tg": 1840,
       "last_tg": "2026-11-22",
       "last_1v1": "2026-09-24",
@@ -140,7 +140,7 @@
       "last_1v1": "2026-11-21",
       "last_tg": "2026-11-20",
       "live": {
-        "match": 522829027,
+        "match": 522833360,
         "game": "Team Death Match",
         "format": "3v3"
       }
