@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-22T06:20:12Z",
+  "updated_at": "2026-11-22T06:45:10Z",
   "baseline": {
     "taken_at": "2026-11-21T14:00:17Z",
     "ranks": {
@@ -59,7 +59,13 @@
       "cur_tg": 1685,
       "max_tg": 1846,
       "last_1v1": "2026-11-11",
-      "last_tg": "2026-11-21"
+      "last_tg": "2026-11-21",
+      "live": {
+        "match": 522865927,
+        "game": "Unranked",
+        "format": "4v4",
+        "account": "LE | WilliamS"
+      }
     },
     {
       "profile_id": 4706179,
@@ -196,18 +202,12 @@
       },
       "tag": "Lelouch",
       "clan": "CTM",
-      "cur_1v1": 1820,
+      "cur_1v1": 1807,
       "max_1v1": 2222,
       "cur_tg": 1696,
       "max_tg": 1843,
       "last_tg": "2026-11-21",
-      "last_1v1": "2026-11-22",
-      "live": {
-        "match": 522864777,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "CTM | Lelouch ELO bajito"
-      }
+      "last_1v1": "2026-11-22"
     },
     {
       "profile_id": 4167535,
