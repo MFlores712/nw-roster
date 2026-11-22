@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-22T05:35:10Z",
+  "updated_at": "2026-11-22T05:50:11Z",
   "baseline": {
     "taken_at": "2026-11-21T14:00:17Z",
     "ranks": {
@@ -120,15 +120,10 @@
       "tag": "noru",
       "cur_1v1": 2031,
       "max_1v1": 2031,
-      "cur_tg": 1728,
+      "cur_tg": 1720,
       "max_tg": 1840,
       "last_tg": "2026-11-22",
-      "last_1v1": "2026-09-24",
-      "live": {
-        "match": 522858719,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_1v1": "2026-09-24"
     },
     {
       "profile_id": 633255,
@@ -186,16 +181,32 @@
     {
       "profile_id": 3034651,
       "tag": "KinG of QUILLA",
-      "cur_1v1": 1852,
+      "cur_1v1": 1865,
       "max_1v1": 2035,
       "cur_tg": 1526,
       "max_tg": 1657,
       "last_1v1": "2026-11-22",
-      "last_tg": "2026-10-26",
+      "last_tg": "2026-10-26"
+    },
+    {
+      "profile_id": 2366434,
+      "via": {
+        "id": 3265324,
+        "listed_last": "2026-07-01"
+      },
+      "tag": "Lelouch",
+      "clan": "CTM",
+      "cur_1v1": 1805,
+      "max_1v1": 2222,
+      "cur_tg": 1696,
+      "max_tg": 1843,
+      "last_tg": "2026-11-21",
+      "last_1v1": "2026-11-22",
       "live": {
-        "match": 522857688,
+        "match": 522859061,
         "game": "1v1 Random Map",
-        "format": "1v1"
+        "format": "1v1",
+        "account": "CTM | Lelouch ELO bajito"
       }
     },
     {
@@ -212,38 +223,12 @@
     {
       "profile_id": 4234652,
       "tag": "_The_Oldergold",
-      "cur_1v1": 1788,
+      "cur_1v1": 1775,
       "max_1v1": 1940,
       "cur_tg": 1546,
       "max_tg": 1719,
       "last_1v1": "2026-11-22",
-      "last_tg": "2026-11-21",
-      "live": {
-        "match": 522857688,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
-      "profile_id": 2366434,
-      "via": {
-        "id": 3265324,
-        "listed_last": "2026-07-01"
-      },
-      "tag": "Lelouch",
-      "clan": "CTM",
-      "cur_1v1": 1783,
-      "max_1v1": 2222,
-      "cur_tg": 1696,
-      "max_tg": 1843,
-      "last_tg": "2026-11-21",
-      "last_1v1": "2026-11-22",
-      "live": {
-        "match": 522859061,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "CTM | Lelouch ELO bajito"
-      }
+      "last_tg": "2026-11-21"
     }
   ],
   "show_top": 15
