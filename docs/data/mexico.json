@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-22T21:00:18Z",
+  "updated_at": "2026-11-22T21:05:09Z",
   "baseline": {
     "taken_at": "2026-11-22T14:00:16Z",
     "ranks": {
@@ -178,11 +178,11 @@
       "profile_id": 310739,
       "tag": "SoyLaHostia",
       "clan": "hK",
-      "cur_1v1": 2358,
+      "cur_1v1": 2347,
       "max_1v1": 2484,
       "cur_tg": 1828,
       "max_tg": 1959,
-      "last_1v1": "2026-11-14",
+      "last_1v1": "2026-11-22",
       "last_tg": "2026-11-13",
       "live": {
         "match": 523027070,
@@ -276,7 +276,12 @@
       "cur_tg": 1798,
       "max_tg": 1907,
       "last_1v1": "2026-11-22",
-      "last_tg": "2026-11-22"
+      "last_tg": "2026-11-22",
+      "live": {
+        "match": 523030419,
+        "game": "Team Random Map",
+        "format": "2v2"
+      }
     },
     {
       "profile_id": 13138746,
