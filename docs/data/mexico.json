@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-22T23:50:12Z",
+  "updated_at": "2026-11-22T23:55:09Z",
   "baseline": {
     "taken_at": "2026-11-22T14:00:16Z",
     "ranks": {
@@ -77,7 +77,7 @@
     },
     {
       "profile_id": 5984120,
-      "tag": "C",
+      "tag": "Combitooo",
       "clan": "Ux",
       "cur_1v1": 2693,
       "max_1v1": 2790,
@@ -112,17 +112,12 @@
       "profile_id": 2920057,
       "tag": "Lobo",
       "clan": "Ux",
-      "cur_1v1": 2593,
+      "cur_1v1": 2599,
       "max_1v1": 2703,
       "cur_tg": 2229,
       "max_tg": 2229,
       "last_1v1": "2026-11-22",
-      "last_tg": "2026-11-22",
-      "live": {
-        "match": 523060793,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-22"
     },
     {
       "profile_id": 401359,
@@ -308,17 +303,12 @@
       "profile_id": 1485562,
       "tag": "MrOsoVC8",
       "clan": "VENÓN",
-      "cur_1v1": 2209,
+      "cur_1v1": 2221,
       "max_1v1": 2394,
       "cur_tg": 1851,
       "max_tg": 2099,
       "last_1v1": "2026-11-22",
-      "last_tg": "2026-11-22",
-      "live": {
-        "match": 523057360,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-22"
     },
     {
       "profile_id": 757886,
@@ -354,22 +344,6 @@
       "last_tg": "2026-11-21"
     },
     {
-      "profile_id": 2934597,
-      "tag": "Sgt.Pepper",
-      "clan": "nW",
-      "cur_1v1": 2095,
-      "max_1v1": 2210,
-      "cur_tg": 1731,
-      "max_tg": 1747,
-      "last_1v1": "2026-11-22",
-      "last_tg": "2026-10-27",
-      "live": {
-        "match": 523060834,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 1947348,
       "tag": "themariach1",
       "clan": "nW",
@@ -379,6 +353,17 @@
       "max_tg": 2034,
       "last_1v1": "2026-07-08",
       "last_tg": "2026-11-22"
+    },
+    {
+      "profile_id": 2934597,
+      "tag": "Sgt.Pepper",
+      "clan": "nW",
+      "cur_1v1": 2077,
+      "max_1v1": 2210,
+      "cur_tg": 1731,
+      "max_tg": 1747,
+      "last_1v1": "2026-11-22",
+      "last_tg": "2026-10-27"
     },
     {
       "profile_id": 2876835,
@@ -521,15 +506,10 @@
       "clan": "MZTK",
       "cur_1v1": 1961,
       "max_1v1": 1993,
-      "cur_tg": 1693,
+      "cur_tg": 1677,
       "max_tg": 1858,
       "last_1v1": "2026-11-02",
-      "last_tg": "2026-11-22",
-      "live": {
-        "match": 523058984,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-22"
     },
     {
       "profile_id": 13192381,
@@ -543,6 +523,17 @@
       "last_tg": "2026-11-21"
     },
     {
+      "profile_id": 13215279,
+      "tag": "GO1_mx",
+      "clan": "MZTK",
+      "cur_1v1": 1958,
+      "max_1v1": 2093,
+      "cur_tg": 1700,
+      "max_tg": 1860,
+      "last_1v1": "2026-11-22",
+      "last_tg": "2026-11-09"
+    },
+    {
       "profile_id": 2986966,
       "tag": "JPGP",
       "clan": "VL",
@@ -552,22 +543,6 @@
       "max_tg": 1824,
       "last_tg": "2026-11-21",
       "last_1v1": "2026-10-13"
-    },
-    {
-      "profile_id": 13215279,
-      "tag": "GO1_mx",
-      "clan": "MZTK",
-      "cur_1v1": 1949,
-      "max_1v1": 2093,
-      "cur_tg": 1700,
-      "max_tg": 1860,
-      "last_1v1": "2026-11-22",
-      "last_tg": "2026-11-09",
-      "live": {
-        "match": 523061312,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 467847,
