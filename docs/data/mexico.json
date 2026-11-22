@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-22T23:25:10Z",
+  "updated_at": "2026-11-22T23:30:13Z",
   "baseline": {
     "taken_at": "2026-11-22T14:00:16Z",
     "ranks": {
@@ -117,7 +117,12 @@
       "cur_tg": 2229,
       "max_tg": 2229,
       "last_1v1": "2026-11-22",
-      "last_tg": "2026-11-22"
+      "last_tg": "2026-11-22",
+      "live": {
+        "match": 523060793,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 401359,
@@ -161,12 +166,7 @@
       "cur_tg": 1858,
       "max_tg": 1974,
       "last_1v1": "2026-11-16",
-      "last_tg": "2026-11-22",
-      "live": {
-        "match": 523055351,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-22"
     },
     {
       "profile_id": 2295504,
@@ -352,7 +352,12 @@
       "cur_tg": 1731,
       "max_tg": 1747,
       "last_1v1": "2026-11-22",
-      "last_tg": "2026-10-27"
+      "last_tg": "2026-10-27",
+      "live": {
+        "match": 523060834,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 1947348,
@@ -474,22 +479,6 @@
       "last_1v1": "2026-11-18"
     },
     {
-      "profile_id": 13215279,
-      "tag": "GO1_mx",
-      "clan": "MZTK",
-      "cur_1v1": 1967,
-      "max_1v1": 2093,
-      "cur_tg": 1700,
-      "max_tg": 1860,
-      "last_1v1": "2026-11-22",
-      "last_tg": "2026-11-09",
-      "live": {
-        "match": 523058261,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 235877,
       "tag": "AsMelodiant",
       "clan": "VENÓN",
@@ -509,12 +498,7 @@
       "cur_tg": 1689,
       "max_tg": 1813,
       "last_tg": "2026-11-22",
-      "last_1v1": "2026-11-15",
-      "live": {
-        "match": 523055351,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_1v1": "2026-11-15"
     },
     {
       "profile_id": 3285258,
@@ -553,6 +537,17 @@
       "max_tg": 1824,
       "last_tg": "2026-11-21",
       "last_1v1": "2026-10-13"
+    },
+    {
+      "profile_id": 13215279,
+      "tag": "GO1_mx",
+      "clan": "MZTK",
+      "cur_1v1": 1949,
+      "max_1v1": 2093,
+      "cur_tg": 1700,
+      "max_tg": 1860,
+      "last_1v1": "2026-11-22",
+      "last_tg": "2026-11-09"
     },
     {
       "profile_id": 467847,
