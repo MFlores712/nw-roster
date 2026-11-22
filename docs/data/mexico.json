@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-22T06:50:12Z",
+  "updated_at": "2026-11-22T07:00:17Z",
   "baseline": {
     "taken_at": "2026-11-21T14:00:17Z",
     "ranks": {
@@ -87,15 +87,10 @@
       "clan": "Ux",
       "cur_1v1": 2648,
       "max_1v1": 2655,
-      "cur_tg": 1775,
+      "cur_tg": 1783,
       "max_tg": 1999,
       "last_1v1": "2026-11-11",
-      "last_tg": "2026-11-22",
-      "live": {
-        "match": 522866430,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-22"
     },
     {
       "profile_id": 2920057,
@@ -328,15 +323,10 @@
       "clan": "Ux",
       "cur_1v1": 2105,
       "max_1v1": 2124,
-      "cur_tg": 1615,
+      "cur_tg": 1628,
       "max_tg": 1820,
       "last_1v1": "2026-11-19",
-      "last_tg": "2026-11-22",
-      "live": {
-        "match": 522866430,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-22"
     },
     {
       "profile_id": 9770338,
