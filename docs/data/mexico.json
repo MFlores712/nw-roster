@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-22T06:25:10Z",
+  "updated_at": "2026-11-22T06:30:13Z",
   "baseline": {
     "taken_at": "2026-11-21T14:00:17Z",
     "ranks": {
@@ -87,15 +87,10 @@
       "clan": "Ux",
       "cur_1v1": 2648,
       "max_1v1": 2655,
-      "cur_tg": 1790,
+      "cur_tg": 1775,
       "max_tg": 1999,
       "last_1v1": "2026-11-11",
-      "last_tg": "2026-11-22",
-      "live": {
-        "match": 522862327,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-22"
     },
     {
       "profile_id": 2920057,
@@ -268,15 +263,10 @@
       "clan": "VENÓN",
       "cur_1v1": 2227,
       "max_1v1": 2394,
-      "cur_tg": 1841,
+      "cur_tg": 1851,
       "max_tg": 2099,
       "last_1v1": "2026-11-21",
-      "last_tg": "2026-11-22",
-      "live": {
-        "match": 522862327,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-22"
     },
     {
       "profile_id": 3816609,
@@ -333,15 +323,10 @@
       "clan": "Ux",
       "cur_1v1": 2105,
       "max_1v1": 2124,
-      "cur_tg": 1625,
+      "cur_tg": 1615,
       "max_tg": 1820,
       "last_1v1": "2026-11-19",
-      "last_tg": "2026-11-22",
-      "live": {
-        "match": 522862327,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-22"
     },
     {
       "profile_id": 9770338,
@@ -360,15 +345,10 @@
       "clan": "nW",
       "cur_1v1": 2094,
       "max_1v1": 2211,
-      "cur_tg": 1782,
+      "cur_tg": 1793,
       "max_tg": 2034,
       "last_1v1": "2026-07-08",
-      "last_tg": "2026-11-22",
-      "live": {
-        "match": 522862327,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-22"
     },
     {
       "profile_id": 2876835,
@@ -428,17 +408,12 @@
       "profile_id": 358501,
       "tag": "El Claut_One",
       "clan": "VENÓN",
-      "cur_1v1": 2040,
+      "cur_1v1": 2022,
       "max_1v1": 2115,
       "cur_tg": 1719,
       "max_tg": 1820,
       "last_tg": "2026-11-19",
-      "last_1v1": "2026-11-22",
-      "live": {
-        "match": 522862066,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-22"
     },
     {
       "profile_id": 2291749,
@@ -568,7 +543,13 @@
       "cur_tg": 1820,
       "max_tg": 1821,
       "last_tg": "2026-10-16",
-      "last_1v1": "2026-09-18"
+      "last_1v1": "2026-09-18",
+      "live": {
+        "match": 522866157,
+        "game": "Quick Play 1v1 Random Map",
+        "format": "1v1",
+        "account": "[GDL]CemenTox"
+      }
     },
     {
       "profile_id": 324005,
