@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-22T02:30:18Z",
+  "updated_at": "2026-11-22T02:35:11Z",
   "baseline": {
     "taken_at": "2026-11-21T14:00:17Z",
     "ranks": {
@@ -246,17 +246,12 @@
       "profile_id": 4412109,
       "tag": "HGB",
       "clan": "hK",
-      "cur_1v1": 2235,
+      "cur_1v1": 2246,
       "max_1v1": 2365,
       "cur_tg": 2122,
       "max_tg": 2122,
       "last_1v1": "2026-11-22",
-      "last_tg": "2026-11-21",
-      "live": {
-        "match": 522823426,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-21"
     },
     {
       "profile_id": 5803221,
@@ -321,17 +316,12 @@
       "profile_id": 2934597,
       "tag": "Sgt.Pepper",
       "clan": "nW",
-      "cur_1v1": 2121,
+      "cur_1v1": 2110,
       "max_1v1": 2210,
       "cur_tg": 1731,
       "max_tg": 1747,
       "last_1v1": "2026-11-22",
-      "last_tg": "2026-10-27",
-      "live": {
-        "match": 522823426,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-10-27"
     },
     {
       "profile_id": 2850920,
@@ -537,13 +527,7 @@
       "cur_tg": 1572,
       "max_tg": 1824,
       "last_tg": "2026-11-21",
-      "last_1v1": "2026-10-13",
-      "live": {
-        "match": 522824337,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "eFotboll"
-      }
+      "last_1v1": "2026-10-13"
     },
     {
       "profile_id": 13215279,
