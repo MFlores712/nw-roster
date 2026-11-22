@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-22T01:30:13Z",
+  "updated_at": "2026-11-22T01:35:09Z",
   "baseline": {
     "taken_at": "2026-11-21T14:00:17Z",
     "ranks": {
@@ -76,15 +76,10 @@
       "clan": "Ux",
       "cur_1v1": 2654,
       "max_1v1": 2703,
-      "cur_tg": 2218,
-      "max_tg": 2218,
+      "cur_tg": 2220,
+      "max_tg": 2220,
       "last_1v1": "2026-11-20",
-      "last_tg": "2026-11-22",
-      "live": {
-        "match": 522817798,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-22"
     },
     {
       "profile_id": 13099159,
@@ -309,7 +304,12 @@
       "cur_tg": 1884,
       "max_tg": 2010,
       "last_1v1": "2026-11-20",
-      "last_tg": "2026-11-22"
+      "last_tg": "2026-11-22",
+      "live": {
+        "match": 522819539,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 2934597,
@@ -393,15 +393,10 @@
       "clan": "SotC",
       "cur_1v1": 2060,
       "max_1v1": 2098,
-      "cur_tg": 1749,
+      "cur_tg": 1756,
       "max_tg": 1870,
       "last_1v1": "2026-11-20",
-      "last_tg": "2026-11-21",
-      "live": {
-        "match": 522814359,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-22"
     },
     {
       "profile_id": 917863,
@@ -514,12 +509,7 @@
       "cur_tg": 1681,
       "max_tg": 1858,
       "last_1v1": "2026-11-02",
-      "last_tg": "2026-11-22",
-      "live": {
-        "match": 522817720,
-        "game": "1v1 Empire Wars",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-22"
     },
     {
       "profile_id": 13192381,
@@ -541,7 +531,13 @@
       "cur_tg": 1572,
       "max_tg": 1824,
       "last_tg": "2026-11-21",
-      "last_1v1": "2026-10-13"
+      "last_1v1": "2026-10-13",
+      "live": {
+        "match": 522819528,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "eFotboll"
+      }
     },
     {
       "profile_id": 13215279,
