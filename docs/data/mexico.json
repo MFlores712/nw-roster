@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-22T20:25:10Z",
+  "updated_at": "2026-11-22T20:30:14Z",
   "baseline": {
     "taken_at": "2026-11-22T14:00:16Z",
     "ranks": {
@@ -340,22 +340,6 @@
       "last_tg": "2026-11-21"
     },
     {
-      "profile_id": 2934597,
-      "tag": "Sgt.Pepper",
-      "clan": "nW",
-      "cur_1v1": 2099,
-      "max_1v1": 2210,
-      "cur_tg": 1731,
-      "max_tg": 1747,
-      "last_1v1": "2026-11-22",
-      "last_tg": "2026-10-27",
-      "live": {
-        "match": 523017160,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 1947348,
       "tag": "themariach1",
       "clan": "nW",
@@ -365,6 +349,22 @@
       "max_tg": 2034,
       "last_1v1": "2026-07-08",
       "last_tg": "2026-11-22"
+    },
+    {
+      "profile_id": 2934597,
+      "tag": "Sgt.Pepper",
+      "clan": "nW",
+      "cur_1v1": 2089,
+      "max_1v1": 2210,
+      "cur_tg": 1731,
+      "max_tg": 1747,
+      "last_1v1": "2026-11-22",
+      "last_tg": "2026-10-27",
+      "live": {
+        "match": 523022002,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2876835,
@@ -607,7 +607,12 @@
       "cur_tg": 1538,
       "max_tg": 1543,
       "last_1v1": "2026-11-22",
-      "last_tg": "2026-11-22"
+      "last_tg": "2026-11-22",
+      "live": {
+        "match": 523022171,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2926018,
