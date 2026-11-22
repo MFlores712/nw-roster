@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-22T01:50:12Z",
+  "updated_at": "2026-11-22T01:55:10Z",
   "baseline": {
     "taken_at": "2026-11-21T14:00:17Z",
     "ranks": {
@@ -95,6 +95,16 @@
       "last_1v1": "2026-11-21"
     },
     {
+      "profile_id": 3244108,
+      "tag": "Legendario",
+      "cur_1v1": 2046,
+      "max_1v1": 2174,
+      "cur_tg": 1565,
+      "max_tg": 1834,
+      "last_1v1": "2026-11-22",
+      "last_tg": "2026-11-20"
+    },
+    {
       "profile_id": 12167914,
       "tag": "lorecs",
       "clan": "CL",
@@ -104,21 +114,6 @@
       "max_tg": 2011,
       "last_1v1": "2026-11-09",
       "last_tg": "2026-11-12"
-    },
-    {
-      "profile_id": 3244108,
-      "tag": "Legendario",
-      "cur_1v1": 2037,
-      "max_1v1": 2174,
-      "cur_tg": 1565,
-      "max_tg": 1834,
-      "last_1v1": "2026-11-21",
-      "last_tg": "2026-11-20",
-      "live": {
-        "match": 522818942,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 6090060,
@@ -140,9 +135,9 @@
       "last_1v1": "2026-11-21",
       "last_tg": "2026-11-20",
       "live": {
-        "match": 522822249,
+        "match": 522822620,
         "game": "Team Death Match",
-        "format": "2v2"
+        "format": "4v4"
       }
     },
     {
@@ -199,6 +194,21 @@
       "last_tg": "2026-10-26"
     },
     {
+      "profile_id": 4234652,
+      "tag": "_The_Oldergold",
+      "cur_1v1": 1807,
+      "max_1v1": 1940,
+      "cur_tg": 1546,
+      "max_tg": 1719,
+      "last_1v1": "2026-11-22",
+      "last_tg": "2026-11-21",
+      "live": {
+        "match": 522823405,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 4167535,
       "tag": "Dia franptom",
       "clan": "LE",
@@ -208,21 +218,6 @@
       "max_tg": 1581,
       "last_1v1": "2026-11-20",
       "last_tg": "2026-11-19"
-    },
-    {
-      "profile_id": 4234652,
-      "tag": "_The_Oldergold",
-      "cur_1v1": 1795,
-      "max_1v1": 1940,
-      "cur_tg": 1546,
-      "max_tg": 1719,
-      "last_1v1": "2026-11-22",
-      "last_tg": "2026-11-21",
-      "live": {
-        "match": 522817594,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 2366434,
