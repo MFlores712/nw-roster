@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-22T20:05:09Z",
+  "updated_at": "2026-11-22T20:10:11Z",
   "baseline": {
     "taken_at": "2026-11-22T14:00:16Z",
     "ranks": {
@@ -318,22 +318,6 @@
       "last_tg": "2026-11-18"
     },
     {
-      "profile_id": 2934597,
-      "tag": "Sgt.Pepper",
-      "clan": "nW",
-      "cur_1v1": 2110,
-      "max_1v1": 2210,
-      "cur_tg": 1731,
-      "max_tg": 1747,
-      "last_1v1": "2026-11-22",
-      "last_tg": "2026-10-27",
-      "live": {
-        "match": 523010549,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 2850920,
       "tag": "Chimtzin",
       "clan": "Ux",
@@ -354,6 +338,22 @@
       "max_tg": 1962,
       "last_1v1": "2026-11-17",
       "last_tg": "2026-11-21"
+    },
+    {
+      "profile_id": 2934597,
+      "tag": "Sgt.Pepper",
+      "clan": "nW",
+      "cur_1v1": 2099,
+      "max_1v1": 2210,
+      "cur_tg": 1731,
+      "max_tg": 1747,
+      "last_1v1": "2026-11-22",
+      "last_tg": "2026-10-27",
+      "live": {
+        "match": 523017160,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 1947348,
@@ -463,10 +463,21 @@
       "last_tg": "2026-11-22",
       "last_1v1": "2026-10-24",
       "live": {
-        "match": 523009949,
+        "match": 523016644,
         "game": "Unranked",
         "format": "1v1"
       }
+    },
+    {
+      "profile_id": 13215279,
+      "tag": "GO1_mx",
+      "clan": "MZTK",
+      "cur_1v1": 1981,
+      "max_1v1": 2093,
+      "cur_tg": 1700,
+      "max_tg": 1860,
+      "last_1v1": "2026-11-22",
+      "last_tg": "2026-11-09"
     },
     {
       "profile_id": 278380,
@@ -478,22 +489,6 @@
       "max_tg": 1865,
       "last_tg": "2026-11-21",
       "last_1v1": "2026-11-18"
-    },
-    {
-      "profile_id": 13215279,
-      "tag": "GO1_mx",
-      "clan": "MZTK",
-      "cur_1v1": 1969,
-      "max_1v1": 2093,
-      "cur_tg": 1700,
-      "max_tg": 1860,
-      "last_1v1": "2026-11-22",
-      "last_tg": "2026-11-09",
-      "live": {
-        "match": 523005140,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 235877,
