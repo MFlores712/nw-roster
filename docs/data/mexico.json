@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-22T06:45:10Z",
+  "updated_at": "2026-11-22T06:50:12Z",
   "baseline": {
     "taken_at": "2026-11-21T14:00:17Z",
     "ranks": {
@@ -299,14 +299,14 @@
       "profile_id": 13138746,
       "tag": "FraKTal_Black",
       "clan": "hK",
-      "cur_1v1": 2153,
+      "cur_1v1": 2163,
       "max_1v1": 2233,
       "cur_tg": 1876,
       "max_tg": 2010,
       "last_1v1": "2026-11-22",
       "last_tg": "2026-11-22",
       "live": {
-        "match": 522867072,
+        "match": 522868480,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
