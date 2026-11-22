@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-22T04:50:12Z",
+  "updated_at": "2026-11-22T04:55:16Z",
   "baseline": {
     "taken_at": "2026-11-21T14:00:17Z",
     "ranks": {
@@ -123,7 +123,12 @@
       "cur_tg": 1717,
       "max_tg": 1840,
       "last_tg": "2026-11-22",
-      "last_1v1": "2026-09-24"
+      "last_1v1": "2026-09-24",
+      "live": {
+        "match": 522853206,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 633255,
@@ -181,14 +186,14 @@
     {
       "profile_id": 3034651,
       "tag": "KinG of QUILLA",
-      "cur_1v1": 1856,
+      "cur_1v1": 1838,
       "max_1v1": 2035,
       "cur_tg": 1526,
       "max_tg": 1657,
       "last_1v1": "2026-11-22",
       "last_tg": "2026-10-26",
       "live": {
-        "match": 522846840,
+        "match": 522853377,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -228,17 +233,12 @@
     {
       "profile_id": 4234652,
       "tag": "_The_Oldergold",
-      "cur_1v1": 1770,
+      "cur_1v1": 1781,
       "max_1v1": 1940,
       "cur_tg": 1546,
       "max_tg": 1719,
       "last_1v1": "2026-11-22",
-      "last_tg": "2026-11-21",
-      "live": {
-        "match": 522850908,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-21"
     }
   ],
   "show_top": 15
