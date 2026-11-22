@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-22T00:15:18Z",
+  "updated_at": "2026-11-22T00:25:09Z",
   "baseline": {
     "taken_at": "2026-11-21T14:00:17Z",
     "ranks": {
@@ -475,15 +475,10 @@
       "clan": "KH",
       "cur_1v1": 1961,
       "max_1v1": 2060,
-      "cur_tg": 1689,
+      "cur_tg": 1674,
       "max_tg": 1813,
-      "last_tg": "2026-11-21",
-      "last_1v1": "2026-11-15",
-      "live": {
-        "match": 522800253,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-22",
+      "last_1v1": "2026-11-15"
     },
     {
       "profile_id": 3285258,
@@ -584,6 +579,16 @@
       "last_tg": "2026-11-20"
     },
     {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1879,
+      "max_1v1": 2003,
+      "cur_tg": 1529,
+      "max_tg": 1543,
+      "last_1v1": "2026-11-22",
+      "last_tg": "2026-11-21"
+    },
+    {
       "profile_id": 2926018,
       "tag": "PerezPodrido",
       "clan": "SotC",
@@ -593,21 +598,6 @@
       "max_tg": 1888,
       "last_1v1": "2026-11-19",
       "last_tg": "2026-11-19"
-    },
-    {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1867,
-      "max_1v1": 2003,
-      "cur_tg": 1529,
-      "max_tg": 1543,
-      "last_1v1": "2026-11-22",
-      "last_tg": "2026-11-21",
-      "live": {
-        "match": 522804791,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 233625,
