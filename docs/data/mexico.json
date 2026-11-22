@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-22T19:40:13Z",
+  "updated_at": "2026-11-22T19:45:16Z",
   "baseline": {
     "taken_at": "2026-11-22T14:00:16Z",
     "ranks": {
@@ -307,6 +307,22 @@
       "last_tg": "2026-11-18"
     },
     {
+      "profile_id": 2934597,
+      "tag": "Sgt.Pepper",
+      "clan": "nW",
+      "cur_1v1": 2110,
+      "max_1v1": 2210,
+      "cur_tg": 1731,
+      "max_tg": 1747,
+      "last_1v1": "2026-11-22",
+      "last_tg": "2026-10-27",
+      "live": {
+        "match": 523010549,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 2850920,
       "tag": "Chimtzin",
       "clan": "Ux",
@@ -338,17 +354,6 @@
       "max_tg": 2034,
       "last_1v1": "2026-07-08",
       "last_tg": "2026-11-22"
-    },
-    {
-      "profile_id": 2934597,
-      "tag": "Sgt.Pepper",
-      "clan": "nW",
-      "cur_1v1": 2091,
-      "max_1v1": 2210,
-      "cur_tg": 1731,
-      "max_tg": 1747,
-      "last_1v1": "2026-11-22",
-      "last_tg": "2026-10-27"
     },
     {
       "profile_id": 2876835,
@@ -392,7 +397,12 @@
       "cur_tg": 1824,
       "max_tg": 1919,
       "last_1v1": "2026-06-27",
-      "last_tg": "2026-11-22"
+      "last_tg": "2026-11-22",
+      "live": {
+        "match": 523010129,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 1708286,
@@ -445,7 +455,12 @@
       "cur_tg": 1733,
       "max_tg": 1750,
       "last_tg": "2026-11-22",
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 523009949,
+        "game": "Unranked",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 278380,
@@ -591,7 +606,12 @@
       "cur_tg": 1538,
       "max_tg": 1543,
       "last_1v1": "2026-11-22",
-      "last_tg": "2026-11-22"
+      "last_tg": "2026-11-22",
+      "live": {
+        "match": 523009675,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2926018,

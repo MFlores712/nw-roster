@@ -1,6 +1,6 @@
 {
   "name": "new Wave",
-  "updated_at": "2026-11-22T19:40:13Z",
+  "updated_at": "2026-11-22T19:45:16Z",
   "baseline": {
     "taken_at": "2026-11-22T14:00:16Z",
     "ranks": {
@@ -50,6 +50,22 @@
       "last_tg": "2026-11-21"
     },
     {
+      "profile_id": 2934597,
+      "tag": "Sgt.Pepper",
+      "country": "Mexico",
+      "cur_1v1": 2110,
+      "max_1v1": 2210,
+      "cur_tg": 1731,
+      "max_tg": 1747,
+      "last_1v1": "2026-11-22",
+      "last_tg": "2026-10-27",
+      "live": {
+        "match": 523010549,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 1947348,
       "tag": "themariach1",
       "country": "Mexico",
@@ -59,17 +75,6 @@
       "max_tg": 2034,
       "last_1v1": "2026-07-08",
       "last_tg": "2026-11-22"
-    },
-    {
-      "profile_id": 2934597,
-      "tag": "Sgt.Pepper",
-      "country": "Mexico",
-      "cur_1v1": 2091,
-      "max_1v1": 2210,
-      "cur_tg": 1731,
-      "max_tg": 1747,
-      "last_1v1": "2026-11-22",
-      "last_tg": "2026-10-27"
     },
     {
       "profile_id": 2876835,
@@ -102,7 +107,12 @@
       "cur_tg": 1733,
       "max_tg": 1750,
       "last_tg": "2026-11-22",
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 523009949,
+        "game": "Unranked",
+        "format": "1v1"
+      }
     }
   ]
 }
