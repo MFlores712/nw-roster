@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-22T19:50:11Z",
+  "updated_at": "2026-11-22T19:55:17Z",
   "baseline": {
     "taken_at": "2026-11-22T14:00:16Z",
     "ranks": {
@@ -206,29 +206,18 @@
       "cur_tg": 1745,
       "max_tg": 1843,
       "last_tg": "2026-11-22",
-      "last_1v1": "2026-11-22",
-      "live": {
-        "match": 523009036,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "CTM | Lelouch Jogo Bonito"
-      }
+      "last_1v1": "2026-11-22"
     },
     {
       "profile_id": 4167535,
       "tag": "Dia franptom",
       "clan": "LE",
-      "cur_1v1": 1801,
+      "cur_1v1": 1818,
       "max_1v1": 2001,
       "cur_tg": 1438,
       "max_tg": 1581,
-      "last_1v1": "2026-11-20",
-      "last_tg": "2026-11-19",
-      "live": {
-        "match": 523007071,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-22",
+      "last_tg": "2026-11-19"
     },
     {
       "profile_id": 4234652,
@@ -238,7 +227,12 @@
       "cur_tg": 1559,
       "max_tg": 1719,
       "last_1v1": "2026-11-22",
-      "last_tg": "2026-11-22"
+      "last_tg": "2026-11-22",
+      "live": {
+        "match": 523013186,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     }
   ],
   "show_top": 15
