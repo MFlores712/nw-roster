@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-23T01:00:22Z",
+  "updated_at": "2026-11-23T01:20:13Z",
   "baseline": {
     "taken_at": "2026-11-22T14:00:16Z",
     "ranks": {
@@ -181,11 +181,11 @@
     {
       "profile_id": 3034651,
       "tag": "KinG of QUILLA",
-      "cur_1v1": 1865,
+      "cur_1v1": 1849,
       "max_1v1": 2035,
       "cur_tg": 1526,
       "max_tg": 1657,
-      "last_1v1": "2026-11-22",
+      "last_1v1": "2026-11-23",
       "last_tg": "2026-10-26",
       "live": {
         "match": 523074844,
