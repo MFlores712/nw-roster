@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-23T19:05:13Z",
+  "updated_at": "2026-11-23T19:10:13Z",
   "baseline": {
     "taken_at": "2026-11-23T14:00:22Z",
     "ranks": {
@@ -178,17 +178,12 @@
       "profile_id": 310739,
       "tag": "SoyLaHostia",
       "clan": "hK",
-      "cur_1v1": 2362,
+      "cur_1v1": 2352,
       "max_1v1": 2484,
       "cur_tg": 1828,
       "max_tg": 1959,
       "last_1v1": "2026-11-23",
-      "last_tg": "2026-11-13",
-      "live": {
-        "match": 523212444,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-13"
     },
     {
       "profile_id": 312774,
@@ -275,21 +270,6 @@
       "last_tg": "2026-11-21"
     },
     {
-      "profile_id": 5803221,
-      "tag": "Mahmoud Ahmadinejad",
-      "cur_1v1": 2230,
-      "max_1v1": 2255,
-      "cur_tg": 1618,
-      "max_tg": 1654,
-      "last_tg": "2026-11-22",
-      "last_1v1": "2026-11-23",
-      "live": {
-        "match": 523206833,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 13138746,
       "tag": "FraKTal_Black",
       "clan": "hK",
@@ -299,6 +279,16 @@
       "max_tg": 2010,
       "last_1v1": "2026-11-22",
       "last_tg": "2026-11-23"
+    },
+    {
+      "profile_id": 5803221,
+      "tag": "Mahmoud Ahmadinejad",
+      "cur_1v1": 2213,
+      "max_1v1": 2255,
+      "cur_tg": 1618,
+      "max_tg": 1654,
+      "last_tg": "2026-11-22",
+      "last_1v1": "2026-11-23"
     },
     {
       "profile_id": 1485562,
