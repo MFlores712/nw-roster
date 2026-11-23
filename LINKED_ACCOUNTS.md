@@ -1,6 +1,6 @@
 # Linked accounts
 
-Generated 2026-11-22T14:00:16Z from aoe2companion's linked profiles (followed up to 4 links deep; each account belongs to the closest listed player).
+Generated 2026-11-23T14:00:22Z from aoe2companion's linked profiles (followed up to 4 links deep; each account belongs to the closest listed player).
 Used to show players LIVE when they play on any of their accounts. Ratings are RM 1v1.
 
 ## new Wave
@@ -21,10 +21,10 @@ Used to show players LIVE when they play on any of their accounts. Ratings are R
 | Player | Linked accounts |
 |---|---|
 | Oni Kingstone | KingstoNe (—), Combi / KingstoNe (—), Kingstone (2225), Combi / TG Plasher (—) |
-| Ux C | Skirmisher Timing (2483), C, (2417, 2 links away), White Knight (2416, 2 links away) |
+| Ux Combitooo | Skirmisher Timing (2483), C, (2417, 2 links away), White Knight (2416, 2 links away) |
 | Ux Lobo | Ux'LobodeLaNieve (2599), BlackSlayer (1974), Combi / JyuVioleGrace (—), Ux'Auu (—), BlackSlayer (1461) |
 | Ux Uzzi | Uzzi (2438), Metapod (—), Combi / Maruri (2364), 7Swords (—), Floki (—), Combi / 7Swords (2285), _Iridium_ (—), Maruri (—), El_Chompiras (—), Incadescence (1854), Reptar (1686, 2 links away) |
-| GDL Moska | xboxyyds8966 (—), [GDL] Chuchito (646), IranX (—), Mau AE1313 (—), DiscipuloDeSoldaditoDePlomo (1771), VENÓN / Mauricio (2456), Papa de Botzanga (—), Mauricioae13 (—), [GDL] Chuchito (—) |
+| VENÓN Miauricio | xboxyyds8966 (—), [GDL] Chuchito (646), IranX (—), Mau AE1313 (—), DiscipuloDeSoldaditoDePlomo (1771), VENÓN / Mauricio (2456), Papa de Botzanga (—), Mauricioae13 (—), [GDL] Chuchito (—) |
 | VENÓN EnvyZ | S1mulated w (2213), KH / Murdock (2033) |
 | hK SoyLaHostia | Warlock_Ndk (2365) |
 | hK Keno_ | Ideas.Necias (2073), _Siesta (—), Stevenash_ (2429), hK / Siesta (2471), hK / RanDoM (2334) |
@@ -55,7 +55,7 @@ Used to show players LIVE when they play on any of their accounts. Ratings are R
 | KH BooMBastic_ | hK / Charles Martel (1528) |
 | SotC PerezPodrido | — |
 | __Chino | — |
-| CL SynfonY | SynfonY (1986), The_Godfather (1648, 2 links away), Combi / Volker (1654, 2 links away), CL / Stalingrado (2093, 2 links away), Zoschenko17 (—, 2 links away) |
+| CL SynfonY | SynfonY (1965), The_Godfather (1648, 2 links away), Combi / Volker (1654, 2 links away), CL / Stalingrado (2093, 2 links away), Zoschenko17 (—, 2 links away) |
 | hK HGB | HelloGoodBye_ (1997) |
 | VENÓN PuNii | VENÓN / Aweonao Qliao (2009), ERICH VON MANSTEIN (1856, 2 links away), Parcero Erotico (2034, 2 links away), ReBeL_Roshi (—, 2 links away), [5oy] RockLee_ (—, 2 links away), GaiSensei (1341, 2 links away), PIKACHU95 (973, 2 links away), OmegaFC (1232, 2 links away), VENÓN / FRIDOTA (2041, 2 links away), VENÓN / seemylame (2031, 2 links away), OS+ / Mauricioae13 (2026, 2 links away) |
 | Mahmoud Ahmadinejad | emmanueldltq08 (1480) |
@@ -64,7 +64,7 @@ Used to show players LIVE when they play on any of their accounts. Ratings are R
 | Biner | — |
 | VENÓN AsMelodiant | VENÓN / Meliodas (1905) |
 | MZTK Kiss | Kiss (1846), Horseman (1691, 2 links away) |
-| VL niiino | jax_teller (1900), Combi / elseñordeloshelados (1760, 2 links away), Combi / salario_minimo (—, 2 links away), Combi / crack (1679, 2 links away), Combi / niino (1726, 2 links away), VL Niino (1932, 2 links away), V (1832, 2 links away) |
+| VL niiino | jax_teller (1924), Combi / elseñordeloshelados (1760, 2 links away), Combi / salario_minimo (—, 2 links away), Combi / crack (1679, 2 links away), Combi / niino (1726, 2 links away), VL Niino (1932, 2 links away), V (1832, 2 links away) |
 | Ux BlueUltra | — |
 | Ux Nova | — |
 | MooN | Annlost13 (1712), Luna (1644), MooN / Lunatico (1831), al03069175 (1478) |
@@ -77,7 +77,7 @@ Used to show players LIVE when they play on any of their accounts. Ratings are R
 |---|---|
 | Ux Ozone | Marcus Fenix (—), O3 (2123), DS_Negan (—) |
 | Manuel | — |
-| NuMa AngelR | monroyjohan29 (—), [NuMa] MancoFarfan (1340), Xever Clan de Hpts (1427), NuMa / AngelR2 (2382), NuMa / Empire (1697, 2 links away), VoyMeta (1562, 3 links away) |
+| NuMa AngelR | monroyjohan29 (—), [NuMa] MancoFarfan (1340), Xever Clan de Hpts (1427), NuMa / AngelR2 (2382), NuMa / Empire (1682, 2 links away), VoyMeta (1562, 3 links away) |
 | VL Tou | Retember (2059), Seteada Remix (1503, 2 links away) |
 | JOLIAT | Alvaro_Uribest (1917), Man_at_Laptop (2049) |
 | NuMa OliverAtom | Voywall (1859) |
@@ -100,7 +100,7 @@ Used to show players LIVE when they play on any of their accounts. Ratings are R
 | VIT Hearttt | X (—) |
 | Dimo | Dimo (2447), Anubis (2152), _DonCagón (2370) |
 | LE WilliamS | LE / WilliamS (2390) |
-| CTM Lelouch | CTM / Lelouch ELO bajito (1822), CTM / Lelouch Jogo Bonito (2235), DK_Chris Evans (1769), CTM / Ligth (2156), CTM / Lelouch jugando borracho (2222), Combi / Controla tus palabras (1740) |
+| CTM Lelouch | CTM / Lelouch ELO bajito (1859), CTM / Lelouch Jogo Bonito (2235), DK_Chris Evans (1769), CTM / Ligth (2156), CTM / Lelouch jugando borracho (2222), Combi / Controla tus palabras (1740) |
 | CL Rey Enigmaaa | [CL] The Fabulous Merasmus (1731), Lord Of War con Tuberculosis (—, 2 links away), [CL] Tatán (1471, 2 links away), CL / PainFelipeJupyCastigador (2011, 2 links away) |
 | VL Lil Franco | Ferxxo (1998) |
 | LvSP Réyiman | Akira Toreyama (—) |
