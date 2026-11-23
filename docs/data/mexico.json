@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-23T05:20:11Z",
+  "updated_at": "2026-11-23T05:25:11Z",
   "baseline": {
     "taken_at": "2026-11-22T14:00:16Z",
     "ranks": {
@@ -87,10 +87,10 @@
       "clan": "Ux",
       "cur_1v1": 2648,
       "max_1v1": 2655,
-      "cur_tg": 1783,
+      "cur_tg": 1772,
       "max_tg": 1999,
       "last_1v1": "2026-11-11",
-      "last_tg": "2026-11-22",
+      "last_tg": "2026-11-23",
       "live": {
         "match": 523110912,
         "game": "Team Random Map",
@@ -257,7 +257,7 @@
       "last_1v1": "2026-11-23",
       "last_tg": "2026-11-22",
       "live": {
-        "match": 523110865,
+        "match": 523113118,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -303,7 +303,7 @@
     {
       "profile_id": 5803221,
       "tag": "Mahmoud Ahmadinejad",
-      "cur_1v1": 2215,
+      "cur_1v1": 2222,
       "max_1v1": 2255,
       "cur_tg": 1618,
       "max_tg": 1654,
