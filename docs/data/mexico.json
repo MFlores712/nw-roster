@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-23T02:55:10Z",
+  "updated_at": "2026-11-23T03:00:20Z",
   "baseline": {
     "taken_at": "2026-11-22T14:00:16Z",
     "ranks": {
@@ -150,7 +150,13 @@
       "cur_tg": 2215,
       "max_tg": 2227,
       "last_tg": "2026-11-16",
-      "last_1v1": "2026-10-31"
+      "last_1v1": "2026-10-31",
+      "live": {
+        "match": 523094355,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "NotAcuna_"
+      }
     },
     {
       "profile_id": 580573,
@@ -303,12 +309,7 @@
       "cur_tg": 1889,
       "max_tg": 2010,
       "last_1v1": "2026-11-22",
-      "last_tg": "2026-11-23",
-      "live": {
-        "match": 523091851,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-23"
     },
     {
       "profile_id": 757886,
@@ -412,12 +413,7 @@
       "cur_tg": 1855,
       "max_tg": 1919,
       "last_1v1": "2026-06-27",
-      "last_tg": "2026-11-23",
-      "live": {
-        "match": 523091851,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-23"
     },
     {
       "profile_id": 1708286,
@@ -475,7 +471,12 @@
       "cur_tg": 1731,
       "max_tg": 1820,
       "last_tg": "2026-11-23",
-      "last_1v1": "2026-11-22"
+      "last_1v1": "2026-11-22",
+      "live": {
+        "match": 523094506,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 6501299,
@@ -508,7 +509,12 @@
       "cur_tg": 1633,
       "max_tg": 1798,
       "last_1v1": "2026-09-29",
-      "last_tg": "2026-11-23"
+      "last_tg": "2026-11-23",
+      "live": {
+        "match": 523094506,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 4764520,
