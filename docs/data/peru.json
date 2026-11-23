@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-23T04:45:13Z",
+  "updated_at": "2026-11-23T04:50:20Z",
   "baseline": {
     "taken_at": "2026-11-22T14:00:16Z",
     "ranks": {
@@ -118,7 +118,13 @@
       "cur_tg": 2011,
       "max_tg": 2011,
       "last_1v1": "2026-11-09",
-      "last_tg": "2026-11-12"
+      "last_tg": "2026-11-12",
+      "live": {
+        "match": 523109270,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "CL_lorecs"
+      }
     },
     {
       "profile_id": 6090060,
