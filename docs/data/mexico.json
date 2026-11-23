@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-23T22:44:05Z",
+  "updated_at": "2026-11-23T22:50:19Z",
   "baseline": {
     "taken_at": "2026-11-23T14:00:22Z",
     "ranks": {
@@ -74,17 +74,12 @@
       "profile_id": 5984120,
       "tag": "Combitooo",
       "clan": "Ux",
-      "cur_1v1": 2729,
+      "cur_1v1": 2713,
       "max_1v1": 2790,
       "cur_tg": 1654,
       "max_tg": 1885,
       "last_1v1": "2026-11-23",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 523259725,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-16"
     },
     {
       "profile_id": 13099159,
@@ -112,17 +107,12 @@
       "profile_id": 2920057,
       "tag": "Lobo",
       "clan": "Ux",
-      "cur_1v1": 2554,
+      "cur_1v1": 2557,
       "max_1v1": 2703,
       "cur_tg": 2229,
       "max_tg": 2229,
       "last_1v1": "2026-11-23",
-      "last_tg": "2026-11-22",
-      "live": {
-        "match": 523255979,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-22"
     },
     {
       "profile_id": 401359,
@@ -183,14 +173,14 @@
       "profile_id": 310739,
       "tag": "SoyLaHostia",
       "clan": "hK",
-      "cur_1v1": 2349,
+      "cur_1v1": 2357,
       "max_1v1": 2484,
       "cur_tg": 1828,
       "max_tg": 1959,
       "last_1v1": "2026-11-23",
       "last_tg": "2026-11-13",
       "live": {
-        "match": 523257232,
+        "match": 523261779,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -325,17 +315,12 @@
       "profile_id": 2850920,
       "tag": "Chimtzin",
       "clan": "Ux",
-      "cur_1v1": 2169,
+      "cur_1v1": 2161,
       "max_1v1": 2176,
       "cur_tg": 1625,
       "max_tg": 1820,
       "last_1v1": "2026-11-23",
-      "last_tg": "2026-11-23",
-      "live": {
-        "match": 523257232,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-23"
     },
     {
       "profile_id": 9770338,
