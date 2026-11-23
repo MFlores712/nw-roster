@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-23T03:05:09Z",
+  "updated_at": "2026-11-23T03:10:12Z",
   "baseline": {
     "taken_at": "2026-11-22T14:00:16Z",
     "ranks": {
@@ -74,17 +74,12 @@
       "profile_id": 5984120,
       "tag": "Combitooo",
       "clan": "Ux",
-      "cur_1v1": 2698,
+      "cur_1v1": 2702,
       "max_1v1": 2790,
       "cur_tg": 1654,
       "max_tg": 1885,
       "last_1v1": "2026-11-23",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 523093209,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-16"
     },
     {
       "profile_id": 13099159,
@@ -170,22 +165,6 @@
       "last_tg": "2026-11-22"
     },
     {
-      "profile_id": 310739,
-      "tag": "SoyLaHostia",
-      "clan": "hK",
-      "cur_1v1": 2370,
-      "max_1v1": 2484,
-      "cur_tg": 1828,
-      "max_tg": 1959,
-      "last_1v1": "2026-11-23",
-      "last_tg": "2026-11-13",
-      "live": {
-        "match": 523093209,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 2295504,
       "tag": "Eren",
       "clan": "hK",
@@ -195,6 +174,17 @@
       "max_tg": 1907,
       "last_1v1": "2026-11-11",
       "last_tg": "2026-10-14"
+    },
+    {
+      "profile_id": 310739,
+      "tag": "SoyLaHostia",
+      "clan": "hK",
+      "cur_1v1": 2366,
+      "max_1v1": 2484,
+      "cur_tg": 1828,
+      "max_tg": 1959,
+      "last_1v1": "2026-11-23",
+      "last_tg": "2026-11-13"
     },
     {
       "profile_id": 312774,
@@ -309,7 +299,12 @@
       "cur_tg": 1889,
       "max_tg": 2010,
       "last_1v1": "2026-11-22",
-      "last_tg": "2026-11-23"
+      "last_tg": "2026-11-23",
+      "live": {
+        "match": 523095799,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 757886,
@@ -413,7 +408,12 @@
       "cur_tg": 1826,
       "max_tg": 1919,
       "last_1v1": "2026-06-27",
-      "last_tg": "2026-11-23"
+      "last_tg": "2026-11-23",
+      "live": {
+        "match": 523095799,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 1708286,
@@ -590,7 +590,12 @@
       "cur_tg": 1853,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-11-19"
+      "last_tg": "2026-11-19",
+      "live": {
+        "match": 523095890,
+        "game": "Team Random Map",
+        "format": "2v2"
+      }
     },
     {
       "profile_id": 12472496,
@@ -607,14 +612,14 @@
       "profile_id": 13241217,
       "tag": "BlueUltra",
       "clan": "Ux",
-      "cur_1v1": 1900,
+      "cur_1v1": 1881,
       "max_1v1": 1997,
       "cur_tg": 1697,
       "max_tg": 1737,
-      "last_1v1": "2026-11-22",
+      "last_1v1": "2026-11-23",
       "last_tg": "2026-11-20",
       "live": {
-        "match": 523093243,
+        "match": 523095734,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -633,7 +638,7 @@
     {
       "profile_id": 3254820,
       "tag": "__Chino",
-      "cur_1v1": 1866,
+      "cur_1v1": 1855,
       "max_1v1": 2003,
       "cur_tg": 1574,
       "max_tg": 1574,
