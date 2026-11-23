@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-23T21:20:12Z",
+  "updated_at": "2026-11-23T21:30:14Z",
   "baseline": {
     "taken_at": "2026-11-23T14:00:22Z",
     "ranks": {
@@ -107,14 +107,14 @@
       "profile_id": 2920057,
       "tag": "Lobo",
       "clan": "Ux",
-      "cur_1v1": 2544,
+      "cur_1v1": 2553,
       "max_1v1": 2703,
       "cur_tg": 2229,
       "max_tg": 2229,
       "last_1v1": "2026-11-23",
       "last_tg": "2026-11-22",
       "live": {
-        "match": 523242792,
+        "match": 523246893,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -280,9 +280,20 @@
       "last_tg": "2026-11-23"
     },
     {
+      "profile_id": 1485562,
+      "tag": "MrOsoVC8",
+      "clan": "VENÓN",
+      "cur_1v1": 2209,
+      "max_1v1": 2394,
+      "cur_tg": 1851,
+      "max_tg": 2099,
+      "last_1v1": "2026-11-23",
+      "last_tg": "2026-11-22"
+    },
+    {
       "profile_id": 5803221,
       "tag": "Mahmoud Ahmadinejad",
-      "cur_1v1": 2213,
+      "cur_1v1": 2201,
       "max_1v1": 2255,
       "cur_tg": 1618,
       "max_tg": 1654,
@@ -293,17 +304,6 @@
         "game": "1v1 Random Map",
         "format": "1v1"
       }
-    },
-    {
-      "profile_id": 1485562,
-      "tag": "MrOsoVC8",
-      "clan": "VENÓN",
-      "cur_1v1": 2209,
-      "max_1v1": 2394,
-      "cur_tg": 1851,
-      "max_tg": 2099,
-      "last_1v1": "2026-11-23",
-      "last_tg": "2026-11-22"
     },
     {
       "profile_id": 757886,
