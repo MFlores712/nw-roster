@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-23T01:10:13Z",
+  "updated_at": "2026-11-23T01:15:15Z",
   "baseline": {
     "taken_at": "2026-11-22T14:00:16Z",
     "ranks": {
@@ -442,21 +442,10 @@
       "last_1v1": "2026-11-22"
     },
     {
-      "profile_id": 6501299,
-      "tag": "ShutAzarquay",
-      "clan": "nW",
-      "cur_1v1": 1990,
-      "max_1v1": 2011,
-      "cur_tg": 1733,
-      "max_tg": 1750,
-      "last_tg": "2026-11-22",
-      "last_1v1": "2026-10-24"
-    },
-    {
       "profile_id": 13215279,
       "tag": "GO1_mx",
       "clan": "MZTK",
-      "cur_1v1": 1979,
+      "cur_1v1": 1991,
       "max_1v1": 2093,
       "cur_tg": 1700,
       "max_tg": 1860,
@@ -467,6 +456,17 @@
         "game": "1v1 Random Map",
         "format": "1v1"
       }
+    },
+    {
+      "profile_id": 6501299,
+      "tag": "ShutAzarquay",
+      "clan": "nW",
+      "cur_1v1": 1990,
+      "max_1v1": 2011,
+      "cur_tg": 1733,
+      "max_tg": 1750,
+      "last_tg": "2026-11-22",
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 278380,
