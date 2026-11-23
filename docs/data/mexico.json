@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-23T23:45:12Z",
+  "updated_at": "2026-11-23T23:50:11Z",
   "baseline": {
     "taken_at": "2026-11-23T14:00:22Z",
     "ranks": {
@@ -331,7 +331,13 @@
       "cur_tg": 1822,
       "max_tg": 1962,
       "last_1v1": "2026-11-17",
-      "last_tg": "2026-11-23"
+      "last_tg": "2026-11-23",
+      "live": {
+        "match": 523271316,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "CL | Stalingrado"
+      }
     },
     {
       "profile_id": 1947348,
