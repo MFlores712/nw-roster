@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-23T05:10:13Z",
+  "updated_at": "2026-11-23T05:20:11Z",
   "baseline": {
     "taken_at": "2026-11-22T14:00:16Z",
     "ranks": {
@@ -117,7 +117,13 @@
       "cur_tg": 2229,
       "max_tg": 2229,
       "last_1v1": "2026-11-22",
-      "last_tg": "2026-11-22"
+      "last_tg": "2026-11-22",
+      "live": {
+        "match": 523112198,
+        "game": "Team Random Map",
+        "format": "2v2",
+        "account": "Ux'Auu"
+      }
     },
     {
       "profile_id": 401359,
@@ -158,7 +164,7 @@
       "clan": "hK",
       "cur_1v1": 2384,
       "max_1v1": 2384,
-      "cur_tg": 1830,
+      "cur_tg": 1843,
       "max_tg": 1974,
       "last_1v1": "2026-11-16",
       "last_tg": "2026-11-23",
@@ -183,14 +189,14 @@
       "profile_id": 310739,
       "tag": "SoyLaHostia",
       "clan": "hK",
-      "cur_1v1": 2366,
+      "cur_1v1": 2359,
       "max_1v1": 2484,
       "cur_tg": 1828,
       "max_tg": 1959,
       "last_1v1": "2026-11-23",
       "last_tg": "2026-11-13",
       "live": {
-        "match": 523109642,
+        "match": 523112592,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -244,7 +250,7 @@
       "profile_id": 3816609,
       "tag": "iamkaito",
       "clan": "nW",
-      "cur_1v1": 2256,
+      "cur_1v1": 2264,
       "max_1v1": 2304,
       "cur_tg": 1819,
       "max_tg": 1907,
@@ -284,7 +290,7 @@
       "clan": "hK",
       "cur_1v1": 2229,
       "max_1v1": 2233,
-      "cur_tg": 1863,
+      "cur_tg": 1875,
       "max_tg": 2010,
       "last_1v1": "2026-11-22",
       "last_tg": "2026-11-23",
@@ -335,8 +341,8 @@
       "profile_id": 2850920,
       "tag": "Chimtzin",
       "clan": "Ux",
-      "cur_1v1": 2142,
-      "max_1v1": 2142,
+      "cur_1v1": 2164,
+      "max_1v1": 2164,
       "cur_tg": 1628,
       "max_tg": 1820,
       "last_1v1": "2026-11-23",
@@ -353,7 +359,7 @@
       "clan": "CL",
       "cur_1v1": 2103,
       "max_1v1": 2103,
-      "cur_tg": 1823,
+      "cur_tg": 1806,
       "max_tg": 1962,
       "last_1v1": "2026-11-17",
       "last_tg": "2026-11-23",
