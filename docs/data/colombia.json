@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-23T01:15:15Z",
+  "updated_at": "2026-11-23T01:35:09Z",
   "baseline": {
     "taken_at": "2026-11-22T14:00:16Z",
     "ranks": {
@@ -107,10 +107,15 @@
       "clan": "NuMa",
       "cur_1v1": 1996,
       "max_1v1": 2193,
-      "cur_tg": 1639,
+      "cur_tg": 1615,
       "max_tg": 1772,
       "last_1v1": "2026-11-19",
-      "last_tg": "2026-11-18"
+      "last_tg": "2026-11-23",
+      "live": {
+        "match": 523080917,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 5368998,
@@ -187,15 +192,10 @@
       "clan": "AiM",
       "cur_1v1": 1806,
       "max_1v1": 1903,
-      "cur_tg": 1294,
+      "cur_tg": 1313,
       "max_tg": 1630,
       "last_1v1": "2026-11-22",
-      "last_tg": "2026-11-18",
-      "live": {
-        "match": 523077451,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-23"
     },
     {
       "profile_id": 12722189,
