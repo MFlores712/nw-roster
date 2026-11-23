@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-23T03:35:13Z",
+  "updated_at": "2026-11-23T03:40:12Z",
   "baseline": {
     "taken_at": "2026-11-22T14:00:16Z",
     "ranks": {
@@ -106,7 +106,7 @@
       "tag": "Matazombies",
       "cur_1v1": 1991,
       "max_1v1": 1991,
-      "cur_tg": 1807,
+      "cur_tg": 1794,
       "max_tg": 1975,
       "last_tg": "2026-11-23",
       "last_1v1": "2026-11-20",
@@ -157,13 +157,7 @@
       "cur_tg": 1871,
       "max_tg": 1871,
       "last_tg": "2026-11-14",
-      "last_1v1": "2026-11-23",
-      "live": {
-        "match": 523098398,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "orquideas"
-      }
+      "last_1v1": "2026-11-23"
     },
     {
       "profile_id": 12930522,
@@ -174,7 +168,13 @@
       "cur_tg": 1806,
       "max_tg": 1893,
       "last_tg": "2026-11-21",
-      "last_1v1": "2026-11-22"
+      "last_1v1": "2026-11-22",
+      "live": {
+        "match": 523099589,
+        "game": "Unranked",
+        "format": "4v4",
+        "account": "GDL Kevin"
+      }
     },
     {
       "profile_id": 10733016,
