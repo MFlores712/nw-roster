@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-23T01:35:09Z",
+  "updated_at": "2026-11-23T01:40:15Z",
   "baseline": {
     "taken_at": "2026-11-22T14:00:16Z",
     "ranks": {
@@ -165,6 +165,17 @@
       "last_tg": "2026-11-22"
     },
     {
+      "profile_id": 310739,
+      "tag": "SoyLaHostia",
+      "clan": "hK",
+      "cur_1v1": 2374,
+      "max_1v1": 2484,
+      "cur_tg": 1828,
+      "max_tg": 1959,
+      "last_1v1": "2026-11-23",
+      "last_tg": "2026-11-13"
+    },
+    {
       "profile_id": 2295504,
       "tag": "Eren",
       "clan": "hK",
@@ -174,17 +185,6 @@
       "max_tg": 1907,
       "last_1v1": "2026-11-11",
       "last_tg": "2026-10-14"
-    },
-    {
-      "profile_id": 310739,
-      "tag": "SoyLaHostia",
-      "clan": "hK",
-      "cur_1v1": 2365,
-      "max_1v1": 2484,
-      "cur_tg": 1828,
-      "max_tg": 1959,
-      "last_1v1": "2026-11-23",
-      "last_tg": "2026-11-13"
     },
     {
       "profile_id": 312774,
