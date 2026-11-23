@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-23T06:20:12Z",
+  "updated_at": "2026-11-23T06:25:09Z",
   "baseline": {
     "taken_at": "2026-11-22T14:00:16Z",
     "ranks": {
@@ -236,6 +236,22 @@
       "last_seen": "2025-06-11"
     },
     {
+      "profile_id": 3816609,
+      "tag": "iamkaito",
+      "clan": "nW",
+      "cur_1v1": 2270,
+      "max_1v1": 2304,
+      "cur_tg": 1819,
+      "max_tg": 1907,
+      "last_1v1": "2026-11-23",
+      "last_tg": "2026-11-22",
+      "live": {
+        "match": 523115374,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 9031952,
       "tag": "ChossMx",
       "clan": "hK",
@@ -269,17 +285,16 @@
       "last_tg": "2026-11-21"
     },
     {
-      "profile_id": 3816609,
-      "tag": "iamkaito",
-      "clan": "nW",
-      "cur_1v1": 2243,
-      "max_1v1": 2304,
-      "cur_tg": 1819,
-      "max_tg": 1907,
-      "last_1v1": "2026-11-23",
+      "profile_id": 5803221,
+      "tag": "Mahmoud Ahmadinejad",
+      "cur_1v1": 2230,
+      "max_1v1": 2255,
+      "cur_tg": 1618,
+      "max_tg": 1654,
       "last_tg": "2026-11-22",
+      "last_1v1": "2026-11-23",
       "live": {
-        "match": 523115374,
+        "match": 523115779,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -298,21 +313,6 @@
         "match": 523113877,
         "game": "Team Random Map",
         "format": "4v4"
-      }
-    },
-    {
-      "profile_id": 5803221,
-      "tag": "Mahmoud Ahmadinejad",
-      "cur_1v1": 2228,
-      "max_1v1": 2255,
-      "cur_tg": 1618,
-      "max_tg": 1654,
-      "last_tg": "2026-11-22",
-      "last_1v1": "2026-11-23",
-      "live": {
-        "match": 523115779,
-        "game": "1v1 Random Map",
-        "format": "1v1"
       }
     },
     {
