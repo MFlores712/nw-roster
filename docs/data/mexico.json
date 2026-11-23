@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-23T02:20:11Z",
+  "updated_at": "2026-11-23T02:30:15Z",
   "baseline": {
     "taken_at": "2026-11-22T14:00:16Z",
     "ranks": {
@@ -68,12 +68,7 @@
       "cur_tg": 2152,
       "max_tg": 2169,
       "last_tg": "2026-10-08",
-      "last_1v1": "2026-11-22",
-      "live": {
-        "match": 523087421,
-        "game": "Unranked",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-22"
     },
     {
       "profile_id": 5984120,
@@ -178,12 +173,7 @@
       "cur_tg": 1828,
       "max_tg": 1959,
       "last_1v1": "2026-11-23",
-      "last_tg": "2026-11-13",
-      "live": {
-        "match": 523087421,
-        "game": "Unranked",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-13"
     },
     {
       "profile_id": 2295504,
@@ -437,6 +427,17 @@
       "last_tg": "2026-11-19"
     },
     {
+      "profile_id": 13215279,
+      "tag": "GO1_mx",
+      "clan": "MZTK",
+      "cur_1v1": 2004,
+      "max_1v1": 2093,
+      "cur_tg": 1700,
+      "max_tg": 1860,
+      "last_1v1": "2026-11-23",
+      "last_tg": "2026-11-09"
+    },
+    {
       "profile_id": 358501,
       "tag": "El Claut_One",
       "clan": "VENÓN",
@@ -445,22 +446,11 @@
       "cur_tg": 1719,
       "max_tg": 1820,
       "last_tg": "2026-11-19",
-      "last_1v1": "2026-11-22"
-    },
-    {
-      "profile_id": 13215279,
-      "tag": "GO1_mx",
-      "clan": "MZTK",
-      "cur_1v1": 1993,
-      "max_1v1": 2093,
-      "cur_tg": 1700,
-      "max_tg": 1860,
-      "last_1v1": "2026-11-23",
-      "last_tg": "2026-11-09",
+      "last_1v1": "2026-11-22",
       "live": {
-        "match": 523086333,
-        "game": "1v1 Random Map",
-        "format": "1v1"
+        "match": 523089190,
+        "game": "Team Random Map",
+        "format": "3v3"
       }
     },
     {
@@ -494,7 +484,12 @@
       "cur_tg": 1618,
       "max_tg": 1798,
       "last_1v1": "2026-09-29",
-      "last_tg": "2026-11-17"
+      "last_tg": "2026-11-17",
+      "live": {
+        "match": 523089190,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 4764520,
@@ -602,7 +597,12 @@
       "cur_tg": 1574,
       "max_tg": 1574,
       "last_1v1": "2026-11-23",
-      "last_tg": "2026-11-23"
+      "last_tg": "2026-11-23",
+      "live": {
+        "match": 523089328,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2926018,
