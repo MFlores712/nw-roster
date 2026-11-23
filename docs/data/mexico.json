@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-23T00:40:13Z",
+  "updated_at": "2026-11-23T01:05:11Z",
   "baseline": {
     "taken_at": "2026-11-22T14:00:16Z",
     "ranks": {
@@ -81,7 +81,7 @@
       "last_1v1": "2026-11-22",
       "last_tg": "2026-11-16",
       "live": {
-        "match": 523070113,
+        "match": 523076269,
         "game": "Unranked",
         "format": "1v1"
       }
@@ -119,7 +119,7 @@
       "last_1v1": "2026-11-22",
       "last_tg": "2026-11-22",
       "live": {
-        "match": 523070113,
+        "match": 523076269,
         "game": "Unranked",
         "format": "1v1"
       }
@@ -213,22 +213,6 @@
       "last_1v1": "2026-11-09"
     },
     {
-      "profile_id": 9031952,
-      "tag": "ChossMx",
-      "clan": "hK",
-      "cur_1v1": 2307,
-      "max_1v1": 2331,
-      "cur_tg": 1937,
-      "max_tg": 1995,
-      "last_1v1": "2026-11-23",
-      "last_tg": "2026-11-22",
-      "live": {
-        "match": 523070705,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 9666666,
       "tag": "Guki",
       "cur_1v1": 2302,
@@ -239,6 +223,22 @@
       "last_tg": "2025-06-11",
       "inactive": true,
       "last_seen": "2025-06-11"
+    },
+    {
+      "profile_id": 9031952,
+      "tag": "ChossMx",
+      "clan": "hK",
+      "cur_1v1": 2286,
+      "max_1v1": 2331,
+      "cur_tg": 1937,
+      "max_tg": 1995,
+      "last_1v1": "2026-11-23",
+      "last_tg": "2026-11-22",
+      "live": {
+        "match": 523070705,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 5803221,
