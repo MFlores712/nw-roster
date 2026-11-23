@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-23T04:50:20Z",
+  "updated_at": "2026-11-23T05:00:20Z",
   "baseline": {
     "taken_at": "2026-11-22T14:00:16Z",
     "ranks": {
@@ -236,6 +236,17 @@
       "last_tg": "2026-11-22"
     },
     {
+      "profile_id": 3816609,
+      "tag": "iamkaito",
+      "clan": "nW",
+      "cur_1v1": 2256,
+      "max_1v1": 2304,
+      "cur_tg": 1819,
+      "max_tg": 1907,
+      "last_1v1": "2026-11-23",
+      "last_tg": "2026-11-22"
+    },
+    {
       "profile_id": 914665,
       "tag": "Caguamas",
       "clan": "nW",
@@ -258,37 +269,6 @@
       "last_tg": "2026-11-21"
     },
     {
-      "profile_id": 3816609,
-      "tag": "iamkaito",
-      "clan": "nW",
-      "cur_1v1": 2241,
-      "max_1v1": 2304,
-      "cur_tg": 1819,
-      "max_tg": 1907,
-      "last_1v1": "2026-11-22",
-      "last_tg": "2026-11-22",
-      "live": {
-        "match": 523107833,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
-      "profile_id": 5803221,
-      "tag": "Mahmoud Ahmadinejad",
-      "cur_1v1": 2230,
-      "max_1v1": 2255,
-      "cur_tg": 1618,
-      "max_tg": 1654,
-      "last_tg": "2026-11-22",
-      "last_1v1": "2026-11-23",
-      "live": {
-        "match": 523107833,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 13138746,
       "tag": "FraKTal_Black",
       "clan": "hK",
@@ -302,6 +282,21 @@
         "match": 523109270,
         "game": "Team Random Map",
         "format": "4v4"
+      }
+    },
+    {
+      "profile_id": 5803221,
+      "tag": "Mahmoud Ahmadinejad",
+      "cur_1v1": 2215,
+      "max_1v1": 2255,
+      "cur_tg": 1618,
+      "max_tg": 1654,
+      "last_tg": "2026-11-22",
+      "last_1v1": "2026-11-23",
+      "live": {
+        "match": 523110526,
+        "game": "1v1 Random Map",
+        "format": "1v1"
       }
     },
     {
