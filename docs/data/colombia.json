@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-23T02:55:10Z",
+  "updated_at": "2026-11-23T03:05:09Z",
   "baseline": {
     "taken_at": "2026-11-22T14:00:16Z",
     "ranks": {
@@ -106,9 +106,9 @@
       "tag": "Matazombies",
       "cur_1v1": 1991,
       "max_1v1": 1991,
-      "cur_tg": 1825,
+      "cur_tg": 1796,
       "max_tg": 1975,
-      "last_tg": "2026-11-20",
+      "last_tg": "2026-11-23",
       "last_1v1": "2026-11-20"
     },
     {
@@ -165,7 +165,7 @@
       "last_tg": "2026-11-21",
       "last_1v1": "2026-11-22",
       "live": {
-        "match": 523090095,
+        "match": 523093070,
         "game": "Unranked",
         "format": "4v4",
         "account": "GDL Kevin"
