@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-23T17:25:12Z",
+  "updated_at": "2026-11-23T17:35:09Z",
   "baseline": {
     "taken_at": "2026-11-23T14:00:22Z",
     "ranks": {
@@ -178,7 +178,13 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 523198516,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "hK | RanDoM"
+      }
     },
     {
       "profile_id": 310739,
@@ -305,14 +311,14 @@
       "profile_id": 2850920,
       "tag": "Chimtzin",
       "clan": "Ux",
-      "cur_1v1": 2153,
+      "cur_1v1": 2130,
       "max_1v1": 2176,
       "cur_tg": 1625,
       "max_tg": 1820,
       "last_1v1": "2026-11-23",
       "last_tg": "2026-11-23",
       "live": {
-        "match": 523195702,
+        "match": 523198131,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -595,22 +601,6 @@
       "last_tg": "2026-11-23"
     },
     {
-      "profile_id": 13241217,
-      "tag": "BlueUltra",
-      "clan": "Ux",
-      "cur_1v1": 1836,
-      "max_1v1": 1997,
-      "cur_tg": 1697,
-      "max_tg": 1737,
-      "last_1v1": "2026-11-23",
-      "last_tg": "2026-11-20",
-      "live": {
-        "match": 523192941,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 233625,
       "via": {
         "id": 21631461,
@@ -623,6 +613,17 @@
       "max_tg": 1871,
       "last_tg": "2026-09-28",
       "last_1v1": "2026-10-12"
+    },
+    {
+      "profile_id": 13241217,
+      "tag": "BlueUltra",
+      "clan": "Ux",
+      "cur_1v1": 1822,
+      "max_1v1": 1997,
+      "cur_tg": 1697,
+      "max_tg": 1737,
+      "last_1v1": "2026-11-23",
+      "last_tg": "2026-11-20"
     }
   ],
   "show_top": 45,
