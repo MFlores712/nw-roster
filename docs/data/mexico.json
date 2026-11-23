@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-23T00:30:13Z",
+  "updated_at": "2026-11-23T00:35:10Z",
   "baseline": {
     "taken_at": "2026-11-22T14:00:16Z",
     "ranks": {
@@ -79,7 +79,12 @@
       "cur_tg": 1654,
       "max_tg": 1885,
       "last_1v1": "2026-11-22",
-      "last_tg": "2026-11-16"
+      "last_tg": "2026-11-16",
+      "live": {
+        "match": 523070113,
+        "game": "Unranked",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 13099159,
@@ -112,7 +117,12 @@
       "cur_tg": 2229,
       "max_tg": 2229,
       "last_1v1": "2026-11-22",
-      "last_tg": "2026-11-22"
+      "last_tg": "2026-11-22",
+      "live": {
+        "match": 523070113,
+        "game": "Unranked",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 401359,
@@ -231,22 +241,6 @@
       "last_seen": "2025-06-11"
     },
     {
-      "profile_id": 914665,
-      "tag": "Caguamas",
-      "clan": "nW",
-      "cur_1v1": 2267,
-      "max_1v1": 2268,
-      "cur_tg": 1741,
-      "max_tg": 2024,
-      "last_1v1": "2026-11-22",
-      "last_tg": "2026-11-22",
-      "live": {
-        "match": 523069349,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 5803221,
       "tag": "Mahmoud Ahmadinejad",
       "cur_1v1": 2252,
@@ -266,6 +260,17 @@
       "max_tg": 2122,
       "last_1v1": "2026-11-22",
       "last_tg": "2026-11-21"
+    },
+    {
+      "profile_id": 914665,
+      "tag": "Caguamas",
+      "clan": "nW",
+      "cur_1v1": 2246,
+      "max_1v1": 2268,
+      "cur_tg": 1741,
+      "max_tg": 2024,
+      "last_1v1": "2026-11-23",
+      "last_tg": "2026-11-22"
     },
     {
       "profile_id": 3816609,
