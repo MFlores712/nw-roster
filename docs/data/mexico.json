@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-23T03:10:12Z",
+  "updated_at": "2026-11-23T03:15:12Z",
   "baseline": {
     "taken_at": "2026-11-22T14:00:16Z",
     "ranks": {
@@ -224,17 +224,12 @@
       "profile_id": 9031952,
       "tag": "ChossMx",
       "clan": "hK",
-      "cur_1v1": 2292,
+      "cur_1v1": 2268,
       "max_1v1": 2331,
       "cur_tg": 1937,
       "max_tg": 1995,
       "last_1v1": "2026-11-23",
-      "last_tg": "2026-11-22",
-      "live": {
-        "match": 523090820,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-22"
     },
     {
       "profile_id": 5803221,
@@ -528,15 +523,10 @@
       "clan": "MZTK",
       "cur_1v1": 1961,
       "max_1v1": 1993,
-      "cur_tg": 1665,
+      "cur_tg": 1658,
       "max_tg": 1858,
       "last_1v1": "2026-11-02",
-      "last_tg": "2026-11-23",
-      "live": {
-        "match": 523092850,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-11-23"
     },
     {
       "profile_id": 13192381,
@@ -645,7 +635,7 @@
       "last_1v1": "2026-11-23",
       "last_tg": "2026-11-23",
       "live": {
-        "match": 523092137,
+        "match": 523096917,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
