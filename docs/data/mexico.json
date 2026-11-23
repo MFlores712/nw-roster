@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-23T06:00:15Z",
+  "updated_at": "2026-11-23T06:05:09Z",
   "baseline": {
     "taken_at": "2026-11-22T14:00:16Z",
     "ranks": {
@@ -186,10 +186,21 @@
       "last_tg": "2026-10-14"
     },
     {
+      "profile_id": 312774,
+      "tag": "Keno_",
+      "clan": "hK",
+      "cur_1v1": 2341,
+      "max_1v1": 2469,
+      "cur_tg": 1830,
+      "max_tg": 2072,
+      "last_tg": "2026-10-26",
+      "last_1v1": "2026-10-24"
+    },
+    {
       "profile_id": 310739,
       "tag": "SoyLaHostia",
       "clan": "hK",
-      "cur_1v1": 2346,
+      "cur_1v1": 2340,
       "max_1v1": 2484,
       "cur_tg": 1828,
       "max_tg": 1959,
@@ -200,17 +211,6 @@
         "game": "1v1 Random Map",
         "format": "1v1"
       }
-    },
-    {
-      "profile_id": 312774,
-      "tag": "Keno_",
-      "clan": "hK",
-      "cur_1v1": 2341,
-      "max_1v1": 2469,
-      "cur_tg": 1830,
-      "max_tg": 2072,
-      "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 12723994,
