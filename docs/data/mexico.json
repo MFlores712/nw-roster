@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-23T02:05:18Z",
+  "updated_at": "2026-11-23T02:10:14Z",
   "baseline": {
     "taken_at": "2026-11-22T14:00:16Z",
     "ranks": {
@@ -239,17 +239,12 @@
       "profile_id": 9031952,
       "tag": "ChossMx",
       "clan": "hK",
-      "cur_1v1": 2286,
+      "cur_1v1": 2292,
       "max_1v1": 2331,
       "cur_tg": 1937,
       "max_tg": 1995,
       "last_1v1": "2026-11-23",
-      "last_tg": "2026-11-22",
-      "live": {
-        "match": 523083422,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-22"
     },
     {
       "profile_id": 5803221,
@@ -331,17 +326,12 @@
       "profile_id": 2850920,
       "tag": "Chimtzin",
       "clan": "Ux",
-      "cur_1v1": 2105,
+      "cur_1v1": 2120,
       "max_1v1": 2124,
       "cur_tg": 1628,
       "max_tg": 1820,
-      "last_1v1": "2026-11-19",
-      "last_tg": "2026-11-22",
-      "live": {
-        "match": 523083944,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-23",
+      "last_tg": "2026-11-22"
     },
     {
       "profile_id": 9770338,
@@ -463,6 +453,22 @@
       "last_1v1": "2026-11-22"
     },
     {
+      "profile_id": 13215279,
+      "tag": "GO1_mx",
+      "clan": "MZTK",
+      "cur_1v1": 1993,
+      "max_1v1": 2093,
+      "cur_tg": 1700,
+      "max_tg": 1860,
+      "last_1v1": "2026-11-23",
+      "last_tg": "2026-11-09",
+      "live": {
+        "match": 523086333,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 6501299,
       "tag": "ShutAzarquay",
       "clan": "nW",
@@ -472,22 +478,6 @@
       "max_tg": 1750,
       "last_tg": "2026-11-22",
       "last_1v1": "2026-10-24"
-    },
-    {
-      "profile_id": 13215279,
-      "tag": "GO1_mx",
-      "clan": "MZTK",
-      "cur_1v1": 1981,
-      "max_1v1": 2093,
-      "cur_tg": 1700,
-      "max_tg": 1860,
-      "last_1v1": "2026-11-23",
-      "last_tg": "2026-11-09",
-      "live": {
-        "match": 523083440,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 278380,
@@ -617,17 +607,12 @@
     {
       "profile_id": 3254820,
       "tag": "__Chino",
-      "cur_1v1": 1897,
+      "cur_1v1": 1878,
       "max_1v1": 2003,
       "cur_tg": 1574,
       "max_tg": 1574,
-      "last_1v1": "2026-11-22",
-      "last_tg": "2026-11-23",
-      "live": {
-        "match": 523081181,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-23",
+      "last_tg": "2026-11-23"
     },
     {
       "profile_id": 2926018,
