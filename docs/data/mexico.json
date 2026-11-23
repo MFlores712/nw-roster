@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-23T01:20:13Z",
+  "updated_at": "2026-11-23T01:25:09Z",
   "baseline": {
     "taken_at": "2026-11-22T14:00:16Z",
     "ranks": {
@@ -155,7 +155,13 @@
       "cur_tg": 2215,
       "max_tg": 2227,
       "last_tg": "2026-11-16",
-      "last_1v1": "2026-10-31"
+      "last_1v1": "2026-10-31",
+      "live": {
+        "match": 523078815,
+        "game": "Team Random Map",
+        "format": "2v2",
+        "account": "NotAcuna_"
+      }
     },
     {
       "profile_id": 580573,
@@ -431,6 +437,17 @@
       "last_tg": "2026-11-19"
     },
     {
+      "profile_id": 13215279,
+      "tag": "GO1_mx",
+      "clan": "MZTK",
+      "cur_1v1": 2003,
+      "max_1v1": 2093,
+      "cur_tg": 1700,
+      "max_tg": 1860,
+      "last_1v1": "2026-11-23",
+      "last_tg": "2026-11-09"
+    },
+    {
       "profile_id": 358501,
       "tag": "El Claut_One",
       "clan": "VENÓN",
@@ -440,17 +457,6 @@
       "max_tg": 1820,
       "last_tg": "2026-11-19",
       "last_1v1": "2026-11-22"
-    },
-    {
-      "profile_id": 13215279,
-      "tag": "GO1_mx",
-      "clan": "MZTK",
-      "cur_1v1": 1991,
-      "max_1v1": 2093,
-      "cur_tg": 1700,
-      "max_tg": 1860,
-      "last_1v1": "2026-11-23",
-      "last_tg": "2026-11-09"
     },
     {
       "profile_id": 6501299,
