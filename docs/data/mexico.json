@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-23T07:40:12Z",
+  "updated_at": "2026-11-23T07:45:11Z",
   "baseline": {
     "taken_at": "2026-11-22T14:00:16Z",
     "ranks": {
@@ -117,13 +117,7 @@
       "cur_tg": 2229,
       "max_tg": 2229,
       "last_1v1": "2026-11-22",
-      "last_tg": "2026-11-22",
-      "live": {
-        "match": 523115086,
-        "game": "Team Random Map",
-        "format": "2v2",
-        "account": "Ux'Auu"
-      }
+      "last_tg": "2026-11-22"
     },
     {
       "profile_id": 401359,
@@ -205,12 +199,7 @@
       "cur_tg": 1828,
       "max_tg": 1959,
       "last_1v1": "2026-11-23",
-      "last_tg": "2026-11-13",
-      "live": {
-        "match": 523116066,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-13"
     },
     {
       "profile_id": 12723994,
@@ -310,7 +299,7 @@
       "last_1v1": "2026-11-22",
       "last_tg": "2026-11-23",
       "live": {
-        "match": 523113877,
+        "match": 523109270,
         "game": "Team Random Map",
         "format": "4v4"
       }
@@ -346,12 +335,7 @@
       "cur_tg": 1625,
       "max_tg": 1820,
       "last_1v1": "2026-11-23",
-      "last_tg": "2026-11-23",
-      "live": {
-        "match": 523109006,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-23"
     },
     {
       "profile_id": 9770338,
