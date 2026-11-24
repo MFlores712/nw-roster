@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-24T23:05:09Z",
+  "updated_at": "2026-11-24T23:10:11Z",
   "baseline": {
     "taken_at": "2026-11-24T14:00:27Z",
     "ranks": {
@@ -56,12 +56,12 @@
       "clan": "LE",
       "cur_1v1": 2503,
       "max_1v1": 2503,
-      "cur_tg": 1692,
+      "cur_tg": 1700,
       "max_tg": 1846,
       "last_1v1": "2026-11-11",
       "last_tg": "2026-11-24",
       "live": {
-        "match": 523459424,
+        "match": 523461457,
         "game": "Team Random Map",
         "format": "4v4"
       }
@@ -125,7 +125,7 @@
       "tag": "Diaz",
       "cur_1v1": 2031,
       "max_1v1": 2031,
-      "cur_tg": 1739,
+      "cur_tg": 1750,
       "max_tg": 1840,
       "last_tg": "2026-11-24",
       "last_1v1": "2026-09-24",
