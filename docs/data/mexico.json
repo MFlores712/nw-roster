@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-24T04:15:12Z",
+  "updated_at": "2026-11-24T04:25:13Z",
   "baseline": {
     "taken_at": "2026-11-23T14:00:22Z",
     "ranks": {
@@ -68,12 +68,7 @@
       "cur_tg": 2152,
       "max_tg": 2169,
       "last_tg": "2026-10-08",
-      "last_1v1": "2026-11-23",
-      "live": {
-        "match": 523306867,
-        "game": "Unranked",
-        "format": "4v4"
-      }
+      "last_1v1": "2026-11-23"
     },
     {
       "profile_id": 5984120,
@@ -106,13 +101,7 @@
       "cur_tg": 2146,
       "max_tg": 2151,
       "last_1v1": "2026-11-23",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 523308461,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "[GDL] Chuchito"
-      }
+      "last_tg": "2026-11-16"
     },
     {
       "profile_id": 2920057,
@@ -123,7 +112,12 @@
       "cur_tg": 2229,
       "max_tg": 2229,
       "last_1v1": "2026-11-24",
-      "last_tg": "2026-11-22"
+      "last_tg": "2026-11-22",
+      "live": {
+        "match": 523312010,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 401359,
@@ -231,15 +225,10 @@
       "clan": "nW",
       "cur_1v1": 2271,
       "max_1v1": 2304,
-      "cur_tg": 1832,
+      "cur_tg": 1814,
       "max_tg": 1907,
       "last_1v1": "2026-11-24",
-      "last_tg": "2026-11-24",
-      "live": {
-        "match": 523308461,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-24"
     },
     {
       "profile_id": 914665,
@@ -247,15 +236,10 @@
       "clan": "nW",
       "cur_1v1": 2271,
       "max_1v1": 2271,
-      "cur_tg": 1786,
+      "cur_tg": 1770,
       "max_tg": 2024,
       "last_1v1": "2026-11-24",
-      "last_tg": "2026-11-24",
-      "live": {
-        "match": 523308461,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-24"
     },
     {
       "profile_id": 9031952,
@@ -277,7 +261,12 @@
       "cur_tg": 1895,
       "max_tg": 2010,
       "last_1v1": "2026-11-24",
-      "last_tg": "2026-11-24"
+      "last_tg": "2026-11-24",
+      "live": {
+        "match": 523311938,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 4412109,
@@ -376,15 +365,10 @@
       "clan": "nW",
       "cur_1v1": 2077,
       "max_1v1": 2210,
-      "cur_tg": 1744,
+      "cur_tg": 1729,
       "max_tg": 1747,
       "last_1v1": "2026-11-22",
-      "last_tg": "2026-11-24",
-      "live": {
-        "match": 523308461,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-24"
     },
     {
       "profile_id": 2876835,
@@ -511,15 +495,10 @@
       "clan": "VENÓN",
       "cur_1v1": 1963,
       "max_1v1": 2013,
-      "cur_tg": 1664,
+      "cur_tg": 1648,
       "max_tg": 1798,
       "last_1v1": "2026-09-29",
-      "last_tg": "2026-11-24",
-      "live": {
-        "match": 523310478,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-24"
     },
     {
       "profile_id": 3285258,
@@ -606,7 +585,12 @@
       "cur_tg": 1687,
       "max_tg": 1805,
       "last_tg": "2026-11-24",
-      "last_1v1": "2026-10-16"
+      "last_1v1": "2026-10-16",
+      "live": {
+        "match": 523310651,
+        "game": "Unranked",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 2926018,
