@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-24T22:55:10Z",
+  "updated_at": "2026-11-24T23:05:09Z",
   "baseline": {
     "taken_at": "2026-11-24T14:00:27Z",
     "ranks": {
@@ -112,22 +112,6 @@
       "last_1v1": "2026-11-20"
     },
     {
-      "profile_id": 6431793,
-      "tag": "Toth",
-      "clan": "NuMa",
-      "cur_1v1": 1979,
-      "max_1v1": 2001,
-      "cur_tg": 1871,
-      "max_tg": 1893,
-      "last_tg": "2026-11-24",
-      "last_1v1": "2026-11-24",
-      "live": {
-        "match": 523458588,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 1062980,
       "tag": "DeaH",
       "clan": "VLC",
@@ -137,6 +121,17 @@
       "max_tg": 1764,
       "last_1v1": "2026-11-23",
       "last_tg": "2026-11-22"
+    },
+    {
+      "profile_id": 6431793,
+      "tag": "Toth",
+      "clan": "NuMa",
+      "cur_1v1": 1963,
+      "max_1v1": 2001,
+      "cur_tg": 1871,
+      "max_tg": 1893,
+      "last_tg": "2026-11-24",
+      "last_1v1": "2026-11-24"
     },
     {
       "profile_id": 2479622,
