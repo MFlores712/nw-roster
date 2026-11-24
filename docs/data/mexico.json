@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-24T05:50:12Z",
+  "updated_at": "2026-11-24T05:55:11Z",
   "baseline": {
     "taken_at": "2026-11-23T14:00:22Z",
     "ranks": {
@@ -156,7 +156,12 @@
       "cur_tg": 1812,
       "max_tg": 1974,
       "last_1v1": "2026-11-16",
-      "last_tg": "2026-11-24"
+      "last_tg": "2026-11-24",
+      "live": {
+        "match": 523321044,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 2295504,
@@ -223,7 +228,12 @@
       "cur_tg": 1878,
       "max_tg": 2010,
       "last_1v1": "2026-11-24",
-      "last_tg": "2026-11-24"
+      "last_tg": "2026-11-24",
+      "live": {
+        "match": 523321044,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 3816609,
@@ -272,17 +282,12 @@
     {
       "profile_id": 5803221,
       "tag": "Mahmoud Ahmadinejad",
-      "cur_1v1": 2227,
+      "cur_1v1": 2232,
       "max_1v1": 2255,
       "cur_tg": 1618,
       "max_tg": 1654,
       "last_tg": "2026-11-22",
-      "last_1v1": "2026-11-24",
-      "live": {
-        "match": 523320733,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-24"
     },
     {
       "profile_id": 1485562,
@@ -328,15 +333,10 @@
       "clan": "CL",
       "cur_1v1": 2103,
       "max_1v1": 2103,
-      "cur_tg": 1833,
+      "cur_tg": 1849,
       "max_tg": 1962,
       "last_1v1": "2026-11-17",
-      "last_tg": "2026-11-24",
-      "live": {
-        "match": 523319596,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-24"
     },
     {
       "profile_id": 1947348,
