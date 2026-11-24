@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-24T02:25:17Z",
+  "updated_at": "2026-11-24T02:35:11Z",
   "baseline": {
     "taken_at": "2026-11-23T14:00:22Z",
     "ranks": {
@@ -217,17 +217,12 @@
       "profile_id": 310739,
       "tag": "SoyLaHostia",
       "clan": "hK",
-      "cur_1v1": 2318,
+      "cur_1v1": 2330,
       "max_1v1": 2484,
       "cur_tg": 1828,
       "max_tg": 1959,
       "last_1v1": "2026-11-24",
-      "last_tg": "2026-11-13",
-      "live": {
-        "match": 523291653,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-13"
     },
     {
       "profile_id": 9666666,
@@ -240,6 +235,17 @@
       "last_tg": "2025-06-11",
       "inactive": true,
       "last_seen": "2025-06-11"
+    },
+    {
+      "profile_id": 3816609,
+      "tag": "iamkaito",
+      "clan": "nW",
+      "cur_1v1": 2271,
+      "max_1v1": 2304,
+      "cur_tg": 1806,
+      "max_tg": 1907,
+      "last_1v1": "2026-11-24",
+      "last_tg": "2026-11-23"
     },
     {
       "profile_id": 914665,
@@ -262,22 +268,6 @@
       "max_tg": 1995,
       "last_1v1": "2026-11-23",
       "last_tg": "2026-11-22"
-    },
-    {
-      "profile_id": 3816609,
-      "tag": "iamkaito",
-      "clan": "nW",
-      "cur_1v1": 2267,
-      "max_1v1": 2304,
-      "cur_tg": 1806,
-      "max_tg": 1907,
-      "last_1v1": "2026-11-23",
-      "last_tg": "2026-11-23",
-      "live": {
-        "match": 523294792,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 4412109,
@@ -628,17 +618,12 @@
     {
       "profile_id": 3254820,
       "tag": "__Chino",
-      "cur_1v1": 1851,
+      "cur_1v1": 1833,
       "max_1v1": 2003,
       "cur_tg": 1574,
       "max_tg": 1574,
       "last_1v1": "2026-11-24",
-      "last_tg": "2026-11-23",
-      "live": {
-        "match": 523294219,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-23"
     },
     {
       "profile_id": 233625,
