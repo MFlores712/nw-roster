@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-24T12:30:13Z",
+  "updated_at": "2026-11-24T12:45:13Z",
   "baseline": {
     "taken_at": "2026-11-23T14:00:22Z",
     "ranks": {
@@ -154,7 +154,12 @@
       "cur_tg": 1466,
       "max_tg": 1719,
       "last_1v1": "2026-11-23",
-      "last_tg": "2026-11-21"
+      "last_tg": "2026-11-21",
+      "live": {
+        "match": 523356360,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 3034651,
@@ -193,6 +198,16 @@
       "last_1v1": "2026-11-24"
     },
     {
+      "profile_id": 4234652,
+      "tag": "_The_Oldergold",
+      "cur_1v1": 1911,
+      "max_1v1": 1940,
+      "cur_tg": 1559,
+      "max_tg": 1719,
+      "last_1v1": "2026-11-24",
+      "last_tg": "2026-11-22"
+    },
+    {
       "profile_id": 1865687,
       "tag": "Pentrus",
       "clan": "CTM",
@@ -202,21 +217,6 @@
       "max_tg": 1608,
       "last_1v1": "2026-09-19",
       "last_tg": "2026-11-24"
-    },
-    {
-      "profile_id": 4234652,
-      "tag": "_The_Oldergold",
-      "cur_1v1": 1897,
-      "max_1v1": 1940,
-      "cur_tg": 1559,
-      "max_tg": 1719,
-      "last_1v1": "2026-11-24",
-      "last_tg": "2026-11-22",
-      "live": {
-        "match": 523354529,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 4167535,
