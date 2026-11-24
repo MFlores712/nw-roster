@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-24T04:10:12Z",
+  "updated_at": "2026-11-24T04:15:12Z",
   "baseline": {
     "taken_at": "2026-11-23T14:00:22Z",
     "ranks": {
@@ -118,17 +118,12 @@
       "profile_id": 2920057,
       "tag": "Lobo",
       "clan": "Ux",
-      "cur_1v1": 2568,
+      "cur_1v1": 2572,
       "max_1v1": 2703,
       "cur_tg": 2229,
       "max_tg": 2229,
       "last_1v1": "2026-11-24",
-      "last_tg": "2026-11-22",
-      "live": {
-        "match": 523307554,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-22"
     },
     {
       "profile_id": 401359,
@@ -277,17 +272,12 @@
       "profile_id": 13138746,
       "tag": "FraKTal_Black",
       "clan": "hK",
-      "cur_1v1": 2255,
-      "max_1v1": 2255,
+      "cur_1v1": 2261,
+      "max_1v1": 2261,
       "cur_tg": 1895,
       "max_tg": 2010,
       "last_1v1": "2026-11-24",
-      "last_tg": "2026-11-24",
-      "live": {
-        "match": 523308924,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-24"
     },
     {
       "profile_id": 4412109,
@@ -303,14 +293,14 @@
     {
       "profile_id": 5803221,
       "tag": "Mahmoud Ahmadinejad",
-      "cur_1v1": 2222,
+      "cur_1v1": 2218,
       "max_1v1": 2255,
       "cur_tg": 1618,
       "max_tg": 1654,
       "last_tg": "2026-11-22",
       "last_1v1": "2026-11-24",
       "live": {
-        "match": 523307554,
+        "match": 523311208,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
