@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-24T03:50:12Z",
+  "updated_at": "2026-11-24T03:55:10Z",
   "baseline": {
     "taken_at": "2026-11-23T14:00:22Z",
     "ranks": {
@@ -68,7 +68,12 @@
       "cur_tg": 2152,
       "max_tg": 2169,
       "last_tg": "2026-10-08",
-      "last_1v1": "2026-11-23"
+      "last_1v1": "2026-11-23",
+      "live": {
+        "match": 523306867,
+        "game": "Unranked",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 5984120,
@@ -103,7 +108,7 @@
       "last_1v1": "2026-11-23",
       "last_tg": "2026-11-16",
       "live": {
-        "match": 523304243,
+        "match": 523308461,
         "game": "Team Random Map",
         "format": "4v4",
         "account": "[GDL] Chuchito"
@@ -234,7 +239,12 @@
       "cur_tg": 1832,
       "max_tg": 1907,
       "last_1v1": "2026-11-24",
-      "last_tg": "2026-11-24"
+      "last_tg": "2026-11-24",
+      "live": {
+        "match": 523308461,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 914665,
@@ -245,7 +255,12 @@
       "cur_tg": 1786,
       "max_tg": 2024,
       "last_1v1": "2026-11-24",
-      "last_tg": "2026-11-24"
+      "last_tg": "2026-11-24",
+      "live": {
+        "match": 523308461,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 9031952,
@@ -259,6 +274,17 @@
       "last_tg": "2026-11-22"
     },
     {
+      "profile_id": 13138746,
+      "tag": "FraKTal_Black",
+      "clan": "hK",
+      "cur_1v1": 2255,
+      "max_1v1": 2255,
+      "cur_tg": 1895,
+      "max_tg": 2010,
+      "last_1v1": "2026-11-24",
+      "last_tg": "2026-11-24"
+    },
+    {
       "profile_id": 4412109,
       "tag": "HGB",
       "clan": "hK",
@@ -268,22 +294,6 @@
       "max_tg": 2122,
       "last_1v1": "2026-11-22",
       "last_tg": "2026-11-21"
-    },
-    {
-      "profile_id": 13138746,
-      "tag": "FraKTal_Black",
-      "clan": "hK",
-      "cur_1v1": 2246,
-      "max_1v1": 2246,
-      "cur_tg": 1895,
-      "max_tg": 2010,
-      "last_1v1": "2026-11-24",
-      "last_tg": "2026-11-24",
-      "live": {
-        "match": 523306995,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 5803221,
@@ -364,7 +374,12 @@
       "cur_tg": 1744,
       "max_tg": 1747,
       "last_1v1": "2026-11-22",
-      "last_tg": "2026-11-24"
+      "last_tg": "2026-11-24",
+      "live": {
+        "match": 523308461,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 2876835,
