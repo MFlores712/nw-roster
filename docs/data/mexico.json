@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-24T23:20:20Z",
+  "updated_at": "2026-11-24T23:25:11Z",
   "baseline": {
     "taken_at": "2026-11-24T14:00:27Z",
     "ranks": {
@@ -71,22 +71,6 @@
       "last_1v1": "2026-11-24"
     },
     {
-      "profile_id": 5984120,
-      "tag": "Combitooo",
-      "clan": "Ux",
-      "cur_1v1": 2668,
-      "max_1v1": 2790,
-      "cur_tg": 1654,
-      "max_tg": 1885,
-      "last_1v1": "2026-11-24",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 523460087,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 13099159,
       "tag": "Uzzi",
       "clan": "Ux",
@@ -96,6 +80,22 @@
       "max_tg": 1999,
       "last_1v1": "2026-11-11",
       "last_tg": "2026-11-23"
+    },
+    {
+      "profile_id": 5984120,
+      "tag": "Combitooo",
+      "clan": "Ux",
+      "cur_1v1": 2626,
+      "max_1v1": 2790,
+      "cur_tg": 1654,
+      "max_tg": 1885,
+      "last_1v1": "2026-11-24",
+      "last_tg": "2026-11-16",
+      "live": {
+        "match": 523464154,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 9449579,
@@ -594,6 +594,16 @@
       "last_tg": "2026-11-24"
     },
     {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1836,
+      "max_1v1": 2003,
+      "cur_tg": 1574,
+      "max_tg": 1574,
+      "last_1v1": "2026-11-24",
+      "last_tg": "2026-11-23"
+    },
+    {
       "profile_id": 233625,
       "via": {
         "id": 21631461,
@@ -606,21 +616,6 @@
       "max_tg": 1871,
       "last_tg": "2026-09-28",
       "last_1v1": "2026-10-12"
-    },
-    {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1826,
-      "max_1v1": 2003,
-      "cur_tg": 1574,
-      "max_tg": 1574,
-      "last_1v1": "2026-11-24",
-      "last_tg": "2026-11-23",
-      "live": {
-        "match": 523461227,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 13241217,
