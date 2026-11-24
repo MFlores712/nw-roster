@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-24T17:25:10Z",
+  "updated_at": "2026-11-24T17:30:13Z",
   "baseline": {
     "taken_at": "2026-11-24T14:00:27Z",
     "ranks": {
@@ -251,14 +251,14 @@
       "profile_id": 9031952,
       "tag": "ChossMx",
       "clan": "hK",
-      "cur_1v1": 2268,
+      "cur_1v1": 2248,
       "max_1v1": 2331,
       "cur_tg": 1937,
       "max_tg": 1995,
-      "last_1v1": "2026-11-23",
+      "last_1v1": "2026-11-24",
       "last_tg": "2026-11-22",
       "live": {
-        "match": 523395467,
+        "match": 523400432,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
