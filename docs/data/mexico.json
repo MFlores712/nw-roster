@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-24T04:45:11Z",
+  "updated_at": "2026-11-24T04:50:13Z",
   "baseline": {
     "taken_at": "2026-11-23T14:00:22Z",
     "ranks": {
@@ -103,9 +103,9 @@
       "last_1v1": "2026-11-23",
       "last_tg": "2026-11-16",
       "live": {
-        "match": 523312914,
+        "match": 523315175,
         "game": "Team Random Map",
-        "format": "4v4",
+        "format": "3v3",
         "account": "[GDL] Chuchito"
       }
     },
@@ -113,14 +113,14 @@
       "profile_id": 2920057,
       "tag": "Lobo",
       "clan": "Ux",
-      "cur_1v1": 2572,
+      "cur_1v1": 2586,
       "max_1v1": 2703,
       "cur_tg": 2229,
       "max_tg": 2229,
       "last_1v1": "2026-11-24",
       "last_tg": "2026-11-22",
       "live": {
-        "match": 523312010,
+        "match": 523315101,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -601,12 +601,7 @@
       "cur_tg": 1687,
       "max_tg": 1805,
       "last_tg": "2026-11-24",
-      "last_1v1": "2026-10-16",
-      "live": {
-        "match": 523310651,
-        "game": "Unranked",
-        "format": "4v4"
-      }
+      "last_1v1": "2026-10-16"
     },
     {
       "profile_id": 2926018,
