@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-24T17:35:19Z",
+  "updated_at": "2026-11-24T17:40:18Z",
   "baseline": {
     "taken_at": "2026-11-24T14:00:27Z",
     "ranks": {
@@ -123,7 +123,7 @@
     },
     {
       "profile_id": 6090060,
-      "tag": "noru",
+      "tag": "Diaz",
       "cur_1v1": 2031,
       "max_1v1": 2031,
       "cur_tg": 1716,
@@ -228,7 +228,13 @@
       "cur_tg": 1465,
       "max_tg": 1608,
       "last_1v1": "2026-09-19",
-      "last_tg": "2026-11-24"
+      "last_tg": "2026-11-24",
+      "live": {
+        "match": 523402197,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "CTM | VaccumDestroyer"
+      }
     },
     {
       "profile_id": 4167535,
