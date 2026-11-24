@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-24T20:55:12Z",
+  "updated_at": "2026-11-24T21:00:16Z",
   "baseline": {
     "taken_at": "2026-11-24T14:00:27Z",
     "ranks": {
@@ -183,13 +183,7 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 523433779,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "hK | RanDoM"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 12723994,
@@ -281,9 +275,20 @@
       "last_tg": "2026-11-22"
     },
     {
+      "profile_id": 9031952,
+      "tag": "ChossMx",
+      "clan": "hK",
+      "cur_1v1": 2197,
+      "max_1v1": 2331,
+      "cur_tg": 1937,
+      "max_tg": 1995,
+      "last_1v1": "2026-11-24",
+      "last_tg": "2026-11-22"
+    },
+    {
       "profile_id": 5803221,
       "tag": "Mahmoud Ahmadinejad",
-      "cur_1v1": 2209,
+      "cur_1v1": 2191,
       "max_1v1": 2255,
       "cur_tg": 1618,
       "max_tg": 1654,
@@ -294,17 +299,6 @@
         "game": "1v1 Random Map",
         "format": "1v1"
       }
-    },
-    {
-      "profile_id": 9031952,
-      "tag": "ChossMx",
-      "clan": "hK",
-      "cur_1v1": 2197,
-      "max_1v1": 2331,
-      "cur_tg": 1937,
-      "max_tg": 1995,
-      "last_1v1": "2026-11-24",
-      "last_tg": "2026-11-22"
     },
     {
       "profile_id": 757886,
