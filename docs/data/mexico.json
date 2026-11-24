@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-24T03:30:13Z",
+  "updated_at": "2026-11-24T03:35:14Z",
   "baseline": {
     "taken_at": "2026-11-23T14:00:22Z",
     "ranks": {
@@ -164,15 +164,10 @@
       "clan": "hK",
       "cur_1v1": 2384,
       "max_1v1": 2384,
-      "cur_tg": 1845,
+      "cur_tg": 1827,
       "max_tg": 1974,
       "last_1v1": "2026-11-16",
-      "last_tg": "2026-11-24",
-      "live": {
-        "match": 523302540,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-11-24"
     },
     {
       "profile_id": 2295504,
@@ -194,13 +189,7 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 523302540,
-        "game": "Team Random Map",
-        "format": "3v3",
-        "account": "hK | RanDoM"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 12723994,
@@ -242,15 +231,10 @@
       "clan": "nW",
       "cur_1v1": 2271,
       "max_1v1": 2304,
-      "cur_tg": 1806,
+      "cur_tg": 1823,
       "max_tg": 1907,
       "last_1v1": "2026-11-24",
-      "last_tg": "2026-11-23",
-      "live": {
-        "match": 523302540,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-11-24"
     },
     {
       "profile_id": 914665,
@@ -258,15 +242,10 @@
       "clan": "nW",
       "cur_1v1": 2271,
       "max_1v1": 2271,
-      "cur_tg": 1758,
+      "cur_tg": 1776,
       "max_tg": 2024,
       "last_1v1": "2026-11-24",
-      "last_tg": "2026-11-24",
-      "live": {
-        "match": 523302540,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-11-24"
     },
     {
       "profile_id": 9031952,
@@ -437,15 +416,10 @@
       "clan": "MZTK",
       "cur_1v1": 2030,
       "max_1v1": 2093,
-      "cur_tg": 1711,
+      "cur_tg": 1722,
       "max_tg": 1860,
       "last_1v1": "2026-11-24",
-      "last_tg": "2026-11-23",
-      "live": {
-        "match": 523303734,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-24"
     },
     {
       "profile_id": 2291749,
@@ -521,12 +495,7 @@
       "cur_tg": 1612,
       "max_tg": 1858,
       "last_1v1": "2026-11-02",
-      "last_tg": "2026-11-24",
-      "live": {
-        "match": 523298992,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-24"
     },
     {
       "profile_id": 13192381,
@@ -566,15 +535,10 @@
       "clan": "KH",
       "cur_1v1": 1940,
       "max_1v1": 2060,
-      "cur_tg": 1667,
+      "cur_tg": 1655,
       "max_tg": 1813,
       "last_tg": "2026-11-24",
-      "last_1v1": "2026-11-24",
-      "live": {
-        "match": 523302540,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_1v1": "2026-11-24"
     },
     {
       "profile_id": 2969449,
