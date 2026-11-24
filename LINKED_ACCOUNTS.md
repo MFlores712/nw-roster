@@ -1,6 +1,6 @@
 # Linked accounts
 
-Generated 2026-11-23T14:00:22Z from aoe2companion's linked profiles (followed up to 4 links deep; each account belongs to the closest listed player).
+Generated 2026-11-24T14:00:27Z from aoe2companion's linked profiles (followed up to 4 links deep; each account belongs to the closest listed player).
 Used to show players LIVE when they play on any of their accounts. Ratings are RM 1v1.
 
 ## new Wave
@@ -27,7 +27,7 @@ Used to show players LIVE when they play on any of their accounts. Ratings are R
 | VENÓN Miauricio | xboxyyds8966 (—), [GDL] Chuchito (646), IranX (—), Mau AE1313 (—), DiscipuloDeSoldaditoDePlomo (1771), VENÓN / Mauricio (2456), Papa de Botzanga (—), Mauricioae13 (—), [GDL] Chuchito (—) |
 | VENÓN EnvyZ | S1mulated w (2213), KH / Murdock (2033) |
 | hK SoyLaHostia | Warlock_Ndk (2365) |
-| hK Keno_ | Ideas.Necias (2073), _Siesta (—), Stevenash_ (2429), hK / Siesta (2471), hK / RanDoM (2334) |
+| hK Keno_ | Ideas.Necias (2073), _Siesta (—), Stevenash_ (2429), hK / Siesta (2471), hK / RanDoM (2318) |
 | hK Imfury_ | _Imfury_ (2237), The_Fury (2348) |
 | VENÓN MrOsoVC8 | Combi / Noob (1987), Discipulo de eL / Bicho (2134), FlagPlayer (705), Danyselacome (2140), FanDelPerrubis (1947), babababa (2056) |
 | VENÓN SiNisTeR | VENÓN / SiNisTeR (2327), SiNisTeR (2114), Taquería El Primo (2041), OrangeKato (—), DSLG / Acuna (1516, 2 links away), Pichulita Feli (—, 3 links away), DSLG / NotAcuna (1649, 3 links away), NotAcuna_ (1529, 3 links away) |
@@ -51,11 +51,11 @@ Used to show players LIVE when they play on any of their accounts. Ratings are R
 | VL Lemoine | VL Formolin (—) |
 | DoN.Vergas | bZ.Slayer (1855) |
 | MZTK GO1_mx | — |
-| VL JPGP | [Tkilla]Temujin (1325), Mazahua (1544), eFotboll (1827) |
+| VL JPGP | [Tkilla]Temujin (1325), Mazahua (1544), eFotboll (1854) |
 | KH BooMBastic_ | hK / Charles Martel (1528) |
 | SotC PerezPodrido | — |
 | __Chino | — |
-| CL SynfonY | SynfonY (1965), The_Godfather (1648, 2 links away), Combi / Volker (1654, 2 links away), CL / Stalingrado (2093, 2 links away), Zoschenko17 (—, 2 links away) |
+| CL SynfonY | SynfonY (1965), The_Godfather (1648, 2 links away), Combi / Volker (1654, 2 links away), CL / Stalingrado (2100, 2 links away), Zoschenko17 (—, 2 links away) |
 | hK HGB | HelloGoodBye_ (1997) |
 | VENÓN PuNii | VENÓN / Aweonao Qliao (2009), ERICH VON MANSTEIN (1856, 2 links away), Parcero Erotico (2034, 2 links away), ReBeL_Roshi (—, 2 links away), [5oy] RockLee_ (—, 2 links away), GaiSensei (1341, 2 links away), PIKACHU95 (973, 2 links away), OmegaFC (1232, 2 links away), VENÓN / FRIDOTA (2041, 2 links away), VENÓN / seemylame (2031, 2 links away), OS+ / Mauricioae13 (2026, 2 links away) |
 | Mahmoud Ahmadinejad | emmanueldltq08 (1480) |
@@ -77,7 +77,7 @@ Used to show players LIVE when they play on any of their accounts. Ratings are R
 |---|---|
 | Ux Ozone | Marcus Fenix (—), O3 (2123), DS_Negan (—) |
 | Manuel | — |
-| NuMa AngelR | monroyjohan29 (—), [NuMa] MancoFarfan (1340), Xever Clan de Hpts (1427), NuMa / AngelR2 (2382), NuMa / Empire (1682, 2 links away), VoyMeta (1562, 3 links away) |
+| NuMa AngelR | monroyjohan29 (—), [NuMa] MancoFarfan (1340), Xever Clan de Hpts (1427), NuMa / AngelR2 (2382), NuMa / Empire (1662, 2 links away), VoyMeta (1562, 3 links away) |
 | VL Tou | Retember (2059), Seteada Remix (1503, 2 links away) |
 | JOLIAT | Alvaro_Uribest (1917), Man_at_Laptop (2049) |
 | NuMa OliverAtom | Voywall (1859) |
@@ -99,8 +99,8 @@ Used to show players LIVE when they play on any of their accounts. Ratings are R
 |---|---|
 | VIT Hearttt | X (—) |
 | Dimo | Dimo (2447), Anubis (2152), _DonCagón (2370) |
-| LE WilliamS | LE / WilliamS (2390) |
-| CTM Lelouch | CTM / Lelouch ELO bajito (1859), CTM / Lelouch Jogo Bonito (2235), DK_Chris Evans (1769), CTM / Ligth (2156), CTM / Lelouch jugando borracho (2222), Combi / Controla tus palabras (1740) |
+| LE WilliamS | LE / WilliamS (2375) |
+| CTM Lelouch | CTM / Lelouch ELO bajito (1913), CTM / Lelouch Jogo Bonito (2235), DK_Chris Evans (1769), CTM / Ligth (2156), CTM / Lelouch jugando borracho (2222), Combi / Controla tus palabras (1740) |
 | CL Rey Enigmaaa | [CL] The Fabulous Merasmus (1731), Lord Of War con Tuberculosis (—, 2 links away), [CL] Tatán (1471, 2 links away), CL / PainFelipeJupyCastigador (2011, 2 links away) |
 | VL Lil Franco | Ferxxo (1998) |
 | LvSP Réyiman | Akira Toreyama (—) |
