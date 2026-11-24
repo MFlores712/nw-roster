@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-24T13:10:13Z",
+  "updated_at": "2026-11-24T13:20:12Z",
   "baseline": {
     "taken_at": "2026-11-23T14:00:22Z",
     "ranks": {
@@ -172,6 +172,16 @@
       "last_tg": "2026-10-26"
     },
     {
+      "profile_id": 4234652,
+      "tag": "_The_Oldergold",
+      "cur_1v1": 1937,
+      "max_1v1": 1940,
+      "cur_tg": 1559,
+      "max_tg": 1719,
+      "last_1v1": "2026-11-24",
+      "last_tg": "2026-11-22"
+    },
+    {
       "profile_id": 4210400,
       "tag": "Darwiz1233",
       "clan": "LE",
@@ -196,21 +206,6 @@
       "max_tg": 1843,
       "last_tg": "2026-11-24",
       "last_1v1": "2026-11-24"
-    },
-    {
-      "profile_id": 4234652,
-      "tag": "_The_Oldergold",
-      "cur_1v1": 1911,
-      "max_1v1": 1940,
-      "cur_tg": 1559,
-      "max_tg": 1719,
-      "last_1v1": "2026-11-24",
-      "last_tg": "2026-11-22",
-      "live": {
-        "match": 523357557,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 1865687,
