@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-24T02:05:10Z",
+  "updated_at": "2026-11-24T02:15:25Z",
   "baseline": {
     "taken_at": "2026-11-23T14:00:22Z",
     "ranks": {
@@ -101,13 +101,7 @@
       "cur_tg": 2146,
       "max_tg": 2151,
       "last_1v1": "2026-11-23",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 523290821,
-        "game": "Team Random Map",
-        "format": "3v3",
-        "account": "[GDL] Chuchito"
-      }
+      "last_tg": "2026-11-16"
     },
     {
       "profile_id": 2920057,
@@ -126,15 +120,10 @@
       "clan": "VENÓN",
       "cur_1v1": 2507,
       "max_1v1": 2512,
-      "cur_tg": 2102,
+      "cur_tg": 2108,
       "max_tg": 2190,
       "last_1v1": "2026-11-12",
-      "last_tg": "2026-11-21",
-      "live": {
-        "match": 523290821,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-11-24"
     },
     {
       "profile_id": 4221810,
@@ -231,6 +220,17 @@
       "last_seen": "2025-06-11"
     },
     {
+      "profile_id": 914665,
+      "tag": "Caguamas",
+      "clan": "nW",
+      "cur_1v1": 2271,
+      "max_1v1": 2271,
+      "cur_tg": 1752,
+      "max_tg": 2024,
+      "last_1v1": "2026-11-24",
+      "last_tg": "2026-11-24"
+    },
+    {
       "profile_id": 9031952,
       "tag": "ChossMx",
       "clan": "hK",
@@ -251,22 +251,6 @@
       "max_tg": 1907,
       "last_1v1": "2026-11-23",
       "last_tg": "2026-11-23"
-    },
-    {
-      "profile_id": 914665,
-      "tag": "Caguamas",
-      "clan": "nW",
-      "cur_1v1": 2256,
-      "max_1v1": 2268,
-      "cur_tg": 1752,
-      "max_tg": 2024,
-      "last_1v1": "2026-11-23",
-      "last_tg": "2026-11-24",
-      "live": {
-        "match": 523289719,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 4412109,
@@ -471,7 +455,12 @@
       "cur_tg": 1711,
       "max_tg": 1860,
       "last_1v1": "2026-11-23",
-      "last_tg": "2026-11-23"
+      "last_tg": "2026-11-23",
+      "live": {
+        "match": 523292879,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 6501299,
@@ -550,14 +539,14 @@
       "clan": "VL",
       "cur_1v1": 1952,
       "max_1v1": 1972,
-      "cur_tg": 1562,
+      "cur_tg": 1577,
       "max_tg": 1824,
       "last_tg": "2026-11-24",
       "last_1v1": "2026-10-13",
       "live": {
-        "match": 523288612,
+        "match": 523293518,
         "game": "Team Random Map",
-        "format": "4v4"
+        "format": "3v3"
       }
     },
     {
@@ -617,7 +606,7 @@
     {
       "profile_id": 3254820,
       "tag": "__Chino",
-      "cur_1v1": 1870,
+      "cur_1v1": 1851,
       "max_1v1": 2003,
       "cur_tg": 1574,
       "max_tg": 1574,
