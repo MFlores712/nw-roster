@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-24T22:55:10Z",
+  "updated_at": "2026-11-24T23:00:16Z",
   "baseline": {
     "taken_at": "2026-11-24T14:00:27Z",
     "ranks": {
@@ -74,14 +74,14 @@
       "profile_id": 5984120,
       "tag": "Combitooo",
       "clan": "Ux",
-      "cur_1v1": 2691,
+      "cur_1v1": 2668,
       "max_1v1": 2790,
       "cur_tg": 1654,
       "max_tg": 1885,
       "last_1v1": "2026-11-24",
       "last_tg": "2026-11-16",
       "live": {
-        "match": 523456530,
+        "match": 523460087,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -117,7 +117,12 @@
       "cur_tg": 2231,
       "max_tg": 2231,
       "last_1v1": "2026-11-24",
-      "last_tg": "2026-11-24"
+      "last_tg": "2026-11-24",
+      "live": {
+        "match": 523459548,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 401359,
@@ -421,6 +426,17 @@
       "last_tg": "2026-11-24"
     },
     {
+      "profile_id": 1249720,
+      "tag": "Lice_Slide",
+      "clan": "VN",
+      "cur_1v1": 2016,
+      "max_1v1": 2121,
+      "cur_tg": 1877,
+      "max_tg": 1997,
+      "last_1v1": "2026-11-24",
+      "last_tg": "2026-11-19"
+    },
+    {
       "profile_id": 2291749,
       "tag": "Biner",
       "cur_1v1": 2010,
@@ -440,17 +456,6 @@
       "max_tg": 1820,
       "last_tg": "2026-11-23",
       "last_1v1": "2026-11-23"
-    },
-    {
-      "profile_id": 1249720,
-      "tag": "Lice_Slide",
-      "clan": "VN",
-      "cur_1v1": 2004,
-      "max_1v1": 2121,
-      "cur_tg": 1877,
-      "max_tg": 1997,
-      "last_1v1": "2026-11-22",
-      "last_tg": "2026-11-19"
     },
     {
       "profile_id": 6501299,
