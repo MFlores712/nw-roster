@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-24T02:40:15Z",
+  "updated_at": "2026-11-24T02:45:11Z",
   "baseline": {
     "taken_at": "2026-11-23T14:00:22Z",
     "ranks": {
@@ -101,13 +101,7 @@
       "cur_tg": 2146,
       "max_tg": 2151,
       "last_1v1": "2026-11-23",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 523294638,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "[GDL] Chuchito"
-      }
+      "last_tg": "2026-11-16"
     },
     {
       "profile_id": 2920057,
@@ -131,15 +125,10 @@
       "clan": "VENÓN",
       "cur_1v1": 2507,
       "max_1v1": 2512,
-      "cur_tg": 2108,
+      "cur_tg": 2114,
       "max_tg": 2190,
       "last_1v1": "2026-11-12",
-      "last_tg": "2026-11-24",
-      "live": {
-        "match": 523294638,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-24"
     },
     {
       "profile_id": 4221810,
@@ -169,15 +158,10 @@
       "clan": "hK",
       "cur_1v1": 2384,
       "max_1v1": 2384,
-      "cur_tg": 1856,
+      "cur_tg": 1845,
       "max_tg": 1974,
       "last_1v1": "2026-11-16",
-      "last_tg": "2026-11-23",
-      "live": {
-        "match": 523294638,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-24"
     },
     {
       "profile_id": 2295504,
@@ -199,13 +183,7 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 523294638,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "hK | RanDoM"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 12723994,
@@ -432,6 +410,17 @@
       "last_1v1": "2026-03-21"
     },
     {
+      "profile_id": 13215279,
+      "tag": "GO1_mx",
+      "clan": "MZTK",
+      "cur_1v1": 2030,
+      "max_1v1": 2093,
+      "cur_tg": 1711,
+      "max_tg": 1860,
+      "last_1v1": "2026-11-24",
+      "last_tg": "2026-11-23"
+    },
+    {
       "profile_id": 2291749,
       "tag": "Biner",
       "cur_1v1": 2010,
@@ -462,22 +451,6 @@
       "max_tg": 1997,
       "last_1v1": "2026-11-22",
       "last_tg": "2026-11-19"
-    },
-    {
-      "profile_id": 13215279,
-      "tag": "GO1_mx",
-      "clan": "MZTK",
-      "cur_1v1": 2004,
-      "max_1v1": 2093,
-      "cur_tg": 1711,
-      "max_tg": 1860,
-      "last_1v1": "2026-11-23",
-      "last_tg": "2026-11-23",
-      "live": {
-        "match": 523292879,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 6501299,
@@ -518,15 +491,10 @@
       "clan": "MZTK",
       "cur_1v1": 1961,
       "max_1v1": 1993,
-      "cur_tg": 1645,
+      "cur_tg": 1627,
       "max_tg": 1858,
       "last_1v1": "2026-11-02",
-      "last_tg": "2026-11-24",
-      "live": {
-        "match": 523294129,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-24"
     },
     {
       "profile_id": 13192381,
@@ -566,15 +534,10 @@
       "clan": "KH",
       "cur_1v1": 1940,
       "max_1v1": 2060,
-      "cur_tg": 1673,
+      "cur_tg": 1667,
       "max_tg": 1813,
-      "last_tg": "2026-11-22",
-      "last_1v1": "2026-11-24",
-      "live": {
-        "match": 523294638,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-24",
+      "last_1v1": "2026-11-24"
     },
     {
       "profile_id": 2969449,
