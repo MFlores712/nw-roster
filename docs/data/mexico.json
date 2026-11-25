@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-25T20:00:18Z",
+  "updated_at": "2026-11-25T20:05:10Z",
   "baseline": {
     "taken_at": "2026-11-25T14:00:19Z",
     "ranks": {
@@ -101,17 +101,12 @@
       "profile_id": 9449579,
       "tag": "Miauricio",
       "clan": "VENÓN",
-      "cur_1v1": 2610,
+      "cur_1v1": 2594,
       "max_1v1": 2610,
       "cur_tg": 2146,
       "max_tg": 2151,
       "last_1v1": "2026-11-25",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 523622302,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-16"
     },
     {
       "profile_id": 2920057,
