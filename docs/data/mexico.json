@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-25T02:35:10Z",
+  "updated_at": "2026-11-25T02:50:11Z",
   "baseline": {
     "taken_at": "2026-11-24T14:00:27Z",
     "ranks": {
@@ -175,6 +175,22 @@
       "last_tg": "2026-10-14"
     },
     {
+      "profile_id": 310739,
+      "tag": "SoyLaHostia",
+      "clan": "hK",
+      "cur_1v1": 2343,
+      "max_1v1": 2484,
+      "cur_tg": 1828,
+      "max_tg": 1959,
+      "last_1v1": "2026-11-25",
+      "last_tg": "2026-11-13",
+      "live": {
+        "match": 523495439,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 312774,
       "tag": "Keno_",
       "clan": "hK",
@@ -195,22 +211,6 @@
       "max_tg": 1959,
       "last_tg": "2026-11-08",
       "last_1v1": "2026-11-09"
-    },
-    {
-      "profile_id": 310739,
-      "tag": "SoyLaHostia",
-      "clan": "hK",
-      "cur_1v1": 2332,
-      "max_1v1": 2484,
-      "cur_tg": 1828,
-      "max_tg": 1959,
-      "last_1v1": "2026-11-25",
-      "last_tg": "2026-11-13",
-      "live": {
-        "match": 523489508,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 3816609,
@@ -531,13 +531,7 @@
       "cur_tg": 1559,
       "max_tg": 1824,
       "last_tg": "2026-11-24",
-      "last_1v1": "2026-10-13",
-      "live": {
-        "match": 523490090,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "eFotboll"
-      }
+      "last_1v1": "2026-10-13"
     },
     {
       "profile_id": 467847,
