@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-25T05:30:14Z",
+  "updated_at": "2026-11-25T05:35:09Z",
   "baseline": {
     "taken_at": "2026-11-24T14:00:27Z",
     "ranks": {
@@ -118,7 +118,13 @@
       "cur_tg": 2236,
       "max_tg": 2236,
       "last_1v1": "2026-11-24",
-      "last_tg": "2026-11-25"
+      "last_tg": "2026-11-25",
+      "live": {
+        "match": 523515803,
+        "game": "Team Random Map",
+        "format": "2v2",
+        "account": "Ux'Auu"
+      }
     },
     {
       "profile_id": 401359,
@@ -294,7 +300,6 @@
     {
       "profile_id": 9031952,
       "tag": "ChossMx",
-      "clan": "hK",
       "cur_1v1": 2197,
       "max_1v1": 2331,
       "cur_tg": 1920,
@@ -322,7 +327,12 @@
       "cur_tg": 1632,
       "max_tg": 1820,
       "last_1v1": "2026-11-23",
-      "last_tg": "2026-11-25"
+      "last_tg": "2026-11-25",
+      "live": {
+        "match": 523516096,
+        "game": "Team Random Map",
+        "format": "2v2"
+      }
     },
     {
       "profile_id": 9770338,
