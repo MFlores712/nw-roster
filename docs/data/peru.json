@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-25T00:40:12Z",
+  "updated_at": "2026-11-25T00:45:12Z",
   "baseline": {
     "taken_at": "2026-11-24T14:00:27Z",
     "ranks": {
@@ -56,12 +56,12 @@
       "clan": "LE",
       "cur_1v1": 2503,
       "max_1v1": 2503,
-      "cur_tg": 1697,
+      "cur_tg": 1707,
       "max_tg": 1846,
       "last_1v1": "2026-11-11",
       "last_tg": "2026-11-25",
       "live": {
-        "match": 523474618,
+        "match": 523475659,
         "game": "Team Random Map",
         "format": "4v4"
       }
@@ -216,13 +216,7 @@
       "cur_tg": 1465,
       "max_tg": 1608,
       "last_1v1": "2026-09-19",
-      "last_tg": "2026-11-24",
-      "live": {
-        "match": 523473039,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "CTM | VaccumDestroyer"
-      }
+      "last_tg": "2026-11-24"
     },
     {
       "profile_id": 4167535,
