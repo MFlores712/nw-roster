@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-25T19:25:12Z",
+  "updated_at": "2026-11-25T19:30:15Z",
   "baseline": {
     "taken_at": "2026-11-25T14:00:19Z",
     "ranks": {
@@ -74,17 +74,12 @@
       "profile_id": 5984120,
       "tag": "Combitooo",
       "clan": "Ux",
-      "cur_1v1": 2664,
+      "cur_1v1": 2673,
       "max_1v1": 2790,
       "cur_tg": 1654,
       "max_tg": 1885,
       "last_1v1": "2026-11-25",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 523614275,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-16"
     },
     {
       "profile_id": 13099159,
@@ -414,10 +409,10 @@
       "clan": "VN",
       "cur_1v1": 2044,
       "max_1v1": 2121,
-      "cur_tg": 1877,
+      "cur_tg": 1859,
       "max_tg": 1997,
       "last_1v1": "2026-11-25",
-      "last_tg": "2026-11-19",
+      "last_tg": "2026-11-25",
       "live": {
         "match": 523613683,
         "game": "Team Random Map",
@@ -517,15 +512,10 @@
       "clan": "VL",
       "cur_1v1": 1952,
       "max_1v1": 1972,
-      "cur_tg": 1542,
+      "cur_tg": 1556,
       "max_tg": 1824,
       "last_tg": "2026-11-25",
-      "last_1v1": "2026-10-13",
-      "live": {
-        "match": 523615342,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_1v1": "2026-10-13"
     },
     {
       "profile_id": 467847,
@@ -565,7 +555,7 @@
       "clan": "VN",
       "cur_1v1": 1909,
       "max_1v1": 1929,
-      "cur_tg": 1871,
+      "cur_tg": 1853,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
       "last_tg": "2026-11-25",
