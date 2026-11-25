@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-25T17:40:11Z",
+  "updated_at": "2026-11-25T17:45:11Z",
   "baseline": {
     "taken_at": "2026-11-25T14:00:19Z",
     "ranks": {
@@ -593,6 +593,17 @@
       "last_tg": "2026-11-24"
     },
     {
+      "profile_id": 13241217,
+      "tag": "BlueUltra",
+      "clan": "Ux",
+      "cur_1v1": 1833,
+      "max_1v1": 1997,
+      "cur_tg": 1697,
+      "max_tg": 1737,
+      "last_1v1": "2026-11-25",
+      "last_tg": "2026-11-20"
+    },
+    {
       "profile_id": 233625,
       "via": {
         "id": 21631461,
@@ -605,22 +616,6 @@
       "max_tg": 1871,
       "last_tg": "2026-09-28",
       "last_1v1": "2026-10-12"
-    },
-    {
-      "profile_id": 13241217,
-      "tag": "BlueUltra",
-      "clan": "Ux",
-      "cur_1v1": 1822,
-      "max_1v1": 1997,
-      "cur_tg": 1697,
-      "max_tg": 1737,
-      "last_1v1": "2026-11-23",
-      "last_tg": "2026-11-20",
-      "live": {
-        "match": 523595664,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     }
   ],
   "show_top": 45,
