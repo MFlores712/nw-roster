@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-25T05:35:09Z",
+  "updated_at": "2026-11-25T05:50:13Z",
   "baseline": {
     "taken_at": "2026-11-24T14:00:27Z",
     "ranks": {
@@ -103,7 +103,7 @@
       "last_1v1": "2026-11-24",
       "last_tg": "2026-11-16",
       "live": {
-        "match": 523515246,
+        "match": 523517325,
         "game": "Team Random Map",
         "format": "4v4",
         "account": "[GDL] Chuchito"
@@ -214,7 +214,7 @@
       "last_tg": "2026-11-08",
       "last_1v1": "2026-11-09",
       "live": {
-        "match": 523515246,
+        "match": 523517325,
         "game": "Team Random Map",
         "format": "4v4",
         "account": "OS+ | Mauricioae13"
