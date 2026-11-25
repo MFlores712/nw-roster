@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-25T21:35:10Z",
+  "updated_at": "2026-11-25T21:40:12Z",
   "baseline": {
     "taken_at": "2026-11-25T14:00:19Z",
     "ranks": {
@@ -74,14 +74,14 @@
       "profile_id": 5984120,
       "tag": "Combitooo",
       "clan": "Ux",
-      "cur_1v1": 2681,
+      "cur_1v1": 2687,
       "max_1v1": 2790,
       "cur_tg": 1654,
       "max_tg": 1885,
       "last_1v1": "2026-11-25",
       "last_tg": "2026-11-16",
       "live": {
-        "match": 523639308,
+        "match": 523643181,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -280,21 +280,6 @@
       "last_tg": "2026-11-21"
     },
     {
-      "profile_id": 5803221,
-      "tag": "Mahmoud Ahmadinejad",
-      "cur_1v1": 2201,
-      "max_1v1": 2255,
-      "cur_tg": 1618,
-      "max_tg": 1654,
-      "last_tg": "2026-11-22",
-      "last_1v1": "2026-11-25",
-      "live": {
-        "match": 523641924,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 9031952,
       "tag": "ChossMx",
       "cur_1v1": 2197,
@@ -314,6 +299,21 @@
       "max_tg": 2050,
       "last_1v1": "2026-11-14",
       "last_tg": "2026-11-18"
+    },
+    {
+      "profile_id": 5803221,
+      "tag": "Mahmoud Ahmadinejad",
+      "cur_1v1": 2181,
+      "max_1v1": 2255,
+      "cur_tg": 1618,
+      "max_tg": 1654,
+      "last_tg": "2026-11-22",
+      "last_1v1": "2026-11-25",
+      "live": {
+        "match": 523641924,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2850920,
