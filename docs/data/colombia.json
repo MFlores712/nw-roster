@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-25T01:45:11Z",
+  "updated_at": "2026-11-25T01:50:14Z",
   "baseline": {
     "taken_at": "2026-11-24T14:00:27Z",
     "ranks": {
@@ -123,7 +123,7 @@
       "clan": "NuMa",
       "cur_1v1": 1990,
       "max_1v1": 2001,
-      "cur_tg": 1852,
+      "cur_tg": 1833,
       "max_tg": 1893,
       "last_tg": "2026-11-25",
       "last_1v1": "2026-11-25",
@@ -203,7 +203,7 @@
       "clan": "CLB",
       "cur_1v1": 1790,
       "max_1v1": 1889,
-      "cur_tg": 1782,
+      "cur_tg": 1765,
       "max_tg": 1855,
       "last_1v1": "2026-11-24",
       "last_tg": "2026-11-25",
@@ -221,7 +221,12 @@
       "cur_tg": 1119,
       "max_tg": 1119,
       "last_1v1": "2026-11-25",
-      "last_tg": "2025-03-14"
+      "last_tg": "2025-03-14",
+      "live": {
+        "match": 523484989,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     }
   ],
   "show_top": 15
