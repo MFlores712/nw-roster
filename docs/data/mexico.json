@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-25T22:50:12Z",
+  "updated_at": "2026-11-25T22:55:17Z",
   "baseline": {
     "taken_at": "2026-11-25T14:00:19Z",
     "ranks": {
@@ -109,15 +109,10 @@
       "clan": "Ux",
       "cur_1v1": 2574,
       "max_1v1": 2703,
-      "cur_tg": 2237,
-      "max_tg": 2237,
+      "cur_tg": 2254,
+      "max_tg": 2254,
       "last_1v1": "2026-11-25",
-      "last_tg": "2026-11-25",
-      "live": {
-        "match": 523650872,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-25"
     },
     {
       "profile_id": 401359,
@@ -419,7 +414,7 @@
       "last_1v1": "2026-11-25",
       "last_tg": "2026-11-25",
       "live": {
-        "match": 523655425,
+        "match": 523655696,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -457,22 +452,6 @@
       "last_1v1": "2026-11-25"
     },
     {
-      "profile_id": 2876835,
-      "tag": "Abejorro",
-      "clan": "nW",
-      "cur_1v1": 1999,
-      "max_1v1": 2152,
-      "cur_tg": 1805,
-      "max_tg": 1844,
-      "last_1v1": "2026-11-25",
-      "last_tg": "2026-11-21",
-      "live": {
-        "match": 523651506,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 6501299,
       "tag": "ShutAzarquay",
       "clan": "nW",
@@ -482,6 +461,17 @@
       "max_tg": 1750,
       "last_tg": "2026-11-22",
       "last_1v1": "2026-10-24"
+    },
+    {
+      "profile_id": 2876835,
+      "tag": "Abejorro",
+      "clan": "nW",
+      "cur_1v1": 1975,
+      "max_1v1": 2152,
+      "cur_tg": 1805,
+      "max_tg": 1844,
+      "last_1v1": "2026-11-25",
+      "last_tg": "2026-11-21"
     },
     {
       "profile_id": 235877,
