@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-25T00:05:14Z",
+  "updated_at": "2026-11-25T00:10:12Z",
   "baseline": {
     "taken_at": "2026-11-24T14:00:27Z",
     "ranks": {
@@ -114,10 +114,10 @@
       "clan": "Ux",
       "cur_1v1": 2573,
       "max_1v1": 2703,
-      "cur_tg": 2234,
-      "max_tg": 2234,
+      "cur_tg": 2235,
+      "max_tg": 2235,
       "last_1v1": "2026-11-24",
-      "last_tg": "2026-11-24",
+      "last_tg": "2026-11-25",
       "live": {
         "match": 523467762,
         "game": "Team Random Map",
@@ -435,17 +435,12 @@
       "profile_id": 1249720,
       "tag": "Lice_Slide",
       "clan": "VN",
-      "cur_1v1": 2025,
+      "cur_1v1": 2016,
       "max_1v1": 2121,
       "cur_tg": 1877,
       "max_tg": 1997,
-      "last_1v1": "2026-11-24",
-      "last_tg": "2026-11-19",
-      "live": {
-        "match": 523465356,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-25",
+      "last_tg": "2026-11-19"
     },
     {
       "profile_id": 2291749,
