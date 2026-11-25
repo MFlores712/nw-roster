@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-25T04:45:10Z",
+  "updated_at": "2026-11-25T04:50:11Z",
   "baseline": {
     "taken_at": "2026-11-24T14:00:27Z",
     "ranks": {
@@ -101,13 +101,7 @@
       "cur_tg": 2146,
       "max_tg": 2151,
       "last_1v1": "2026-11-24",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 523508181,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "[GDL] Chuchito"
-      }
+      "last_tg": "2026-11-16"
     },
     {
       "profile_id": 2920057,
@@ -206,13 +200,7 @@
       "cur_tg": 1915,
       "max_tg": 1959,
       "last_tg": "2026-11-08",
-      "last_1v1": "2026-11-09",
-      "live": {
-        "match": 523508181,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "OS+ | Mauricioae13"
-      }
+      "last_1v1": "2026-11-09"
     },
     {
       "profile_id": 3816609,
@@ -223,7 +211,12 @@
       "cur_tg": 1829,
       "max_tg": 1907,
       "last_1v1": "2026-11-24",
-      "last_tg": "2026-11-24"
+      "last_tg": "2026-11-24",
+      "live": {
+        "match": 523511402,
+        "game": "Team Random Map",
+        "format": "2v2"
+      }
     },
     {
       "profile_id": 9666666,
@@ -273,7 +266,12 @@
       "cur_tg": 2122,
       "max_tg": 2122,
       "last_1v1": "2026-11-22",
-      "last_tg": "2026-11-21"
+      "last_tg": "2026-11-21",
+      "live": {
+        "match": 523511187,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 1485562,
