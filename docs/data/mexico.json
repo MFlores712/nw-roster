@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-25T03:00:23Z",
+  "updated_at": "2026-11-25T03:05:16Z",
   "baseline": {
     "taken_at": "2026-11-24T14:00:27Z",
     "ranks": {
@@ -71,6 +71,17 @@
       "last_1v1": "2026-11-24"
     },
     {
+      "profile_id": 5984120,
+      "tag": "Combitooo",
+      "clan": "Ux",
+      "cur_1v1": 2664,
+      "max_1v1": 2790,
+      "cur_tg": 1654,
+      "max_tg": 1885,
+      "last_1v1": "2026-11-25",
+      "last_tg": "2026-11-16"
+    },
+    {
       "profile_id": 13099159,
       "tag": "Uzzi",
       "clan": "Ux",
@@ -80,22 +91,6 @@
       "max_tg": 1999,
       "last_1v1": "2026-11-11",
       "last_tg": "2026-11-23"
-    },
-    {
-      "profile_id": 5984120,
-      "tag": "Combitooo",
-      "clan": "Ux",
-      "cur_1v1": 2645,
-      "max_1v1": 2790,
-      "cur_tg": 1654,
-      "max_tg": 1885,
-      "last_1v1": "2026-11-25",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 523491616,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 9449579,
@@ -175,22 +170,6 @@
       "last_tg": "2026-10-14"
     },
     {
-      "profile_id": 310739,
-      "tag": "SoyLaHostia",
-      "clan": "hK",
-      "cur_1v1": 2343,
-      "max_1v1": 2484,
-      "cur_tg": 1828,
-      "max_tg": 1959,
-      "last_1v1": "2026-11-25",
-      "last_tg": "2026-11-13",
-      "live": {
-        "match": 523495439,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 312774,
       "tag": "Keno_",
       "clan": "hK",
@@ -211,6 +190,22 @@
       "max_tg": 1959,
       "last_tg": "2026-11-08",
       "last_1v1": "2026-11-09"
+    },
+    {
+      "profile_id": 310739,
+      "tag": "SoyLaHostia",
+      "clan": "hK",
+      "cur_1v1": 2333,
+      "max_1v1": 2484,
+      "cur_tg": 1828,
+      "max_tg": 1959,
+      "last_1v1": "2026-11-25",
+      "last_tg": "2026-11-13",
+      "live": {
+        "match": 523497710,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 3816609,
@@ -255,7 +250,12 @@
       "cur_tg": 1881,
       "max_tg": 2010,
       "last_1v1": "2026-11-24",
-      "last_tg": "2026-11-25"
+      "last_tg": "2026-11-25",
+      "live": {
+        "match": 523497152,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 4412109,
@@ -298,7 +298,12 @@
       "cur_tg": 1916,
       "max_tg": 1995,
       "last_1v1": "2026-11-24",
-      "last_tg": "2026-11-25"
+      "last_tg": "2026-11-25",
+      "live": {
+        "match": 523497152,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 757886,
@@ -331,7 +336,12 @@
       "cur_tg": 1858,
       "max_tg": 1962,
       "last_1v1": "2026-11-17",
-      "last_tg": "2026-11-25"
+      "last_tg": "2026-11-25",
+      "live": {
+        "match": 523497152,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 1947348,
