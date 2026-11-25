@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-25T22:40:13Z",
+  "updated_at": "2026-11-25T22:50:12Z",
   "baseline": {
     "taken_at": "2026-11-25T14:00:19Z",
     "ranks": {
@@ -412,14 +412,14 @@
       "profile_id": 1249720,
       "tag": "Lice_Slide",
       "clan": "VN",
-      "cur_1v1": 2044,
+      "cur_1v1": 2028,
       "max_1v1": 2121,
       "cur_tg": 1865,
       "max_tg": 1997,
       "last_1v1": "2026-11-25",
       "last_tg": "2026-11-25",
       "live": {
-        "match": 523652157,
+        "match": 523655425,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
