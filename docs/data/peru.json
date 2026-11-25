@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-25T00:25:12Z",
+  "updated_at": "2026-11-25T00:35:10Z",
   "baseline": {
     "taken_at": "2026-11-24T14:00:27Z",
     "ranks": {
@@ -56,15 +56,10 @@
       "clan": "LE",
       "cur_1v1": 2503,
       "max_1v1": 2503,
-      "cur_tg": 1719,
+      "cur_tg": 1697,
       "max_tg": 1846,
       "last_1v1": "2026-11-11",
-      "last_tg": "2026-11-24",
-      "live": {
-        "match": 523469089,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-25"
     },
     {
       "profile_id": 4706179,
@@ -172,6 +167,21 @@
       "last_tg": "2026-10-26"
     },
     {
+      "profile_id": 2366434,
+      "via": {
+        "id": 3265324,
+        "listed_last": "2026-07-01"
+      },
+      "tag": "Lelouch",
+      "clan": "CTM",
+      "cur_1v1": 1938,
+      "max_1v1": 2222,
+      "cur_tg": 1714,
+      "max_tg": 1843,
+      "last_tg": "2026-11-24",
+      "last_1v1": "2026-11-25"
+    },
+    {
       "profile_id": 4234652,
       "tag": "_The_Oldergold",
       "cur_1v1": 1937,
@@ -193,27 +203,6 @@
       "last_1v1": "2026-10-01"
     },
     {
-      "profile_id": 2366434,
-      "via": {
-        "id": 3265324,
-        "listed_last": "2026-07-01"
-      },
-      "tag": "Lelouch",
-      "clan": "CTM",
-      "cur_1v1": 1922,
-      "max_1v1": 2222,
-      "cur_tg": 1714,
-      "max_tg": 1843,
-      "last_tg": "2026-11-24",
-      "last_1v1": "2026-11-25",
-      "live": {
-        "match": 523470102,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "CTM | Lelouch ELO bajito"
-      }
-    },
-    {
       "profile_id": 1865687,
       "tag": "Pentrus",
       "clan": "CTM",
@@ -222,23 +211,24 @@
       "cur_tg": 1465,
       "max_tg": 1608,
       "last_1v1": "2026-09-19",
-      "last_tg": "2026-11-24"
+      "last_tg": "2026-11-24",
+      "live": {
+        "match": 523473039,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "CTM | VaccumDestroyer"
+      }
     },
     {
       "profile_id": 4167535,
       "tag": "Dia franptom",
       "clan": "LE",
-      "cur_1v1": 1820,
+      "cur_1v1": 1839,
       "max_1v1": 2001,
       "cur_tg": 1438,
       "max_tg": 1581,
-      "last_1v1": "2026-11-24",
-      "last_tg": "2026-11-19",
-      "live": {
-        "match": 523470544,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-25",
+      "last_tg": "2026-11-19"
     }
   ],
   "show_top": 15

@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-25T00:20:12Z",
+  "updated_at": "2026-11-25T00:35:10Z",
   "baseline": {
     "taken_at": "2026-11-24T14:00:27Z",
     "ranks": {
@@ -117,7 +117,12 @@
       "cur_tg": 2235,
       "max_tg": 2235,
       "last_1v1": "2026-11-24",
-      "last_tg": "2026-11-25"
+      "last_tg": "2026-11-25",
+      "live": {
+        "match": 523472908,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 401359,
@@ -264,6 +269,16 @@
       "last_tg": "2026-11-21"
     },
     {
+      "profile_id": 5803221,
+      "tag": "Mahmoud Ahmadinejad",
+      "cur_1v1": 2237,
+      "max_1v1": 2255,
+      "cur_tg": 1618,
+      "max_tg": 1654,
+      "last_tg": "2026-11-22",
+      "last_1v1": "2026-11-25"
+    },
+    {
       "profile_id": 1485562,
       "tag": "MrOsoVC8",
       "clan": "VENÓN",
@@ -273,21 +288,6 @@
       "max_tg": 2099,
       "last_1v1": "2026-11-24",
       "last_tg": "2026-11-22"
-    },
-    {
-      "profile_id": 5803221,
-      "tag": "Mahmoud Ahmadinejad",
-      "cur_1v1": 2206,
-      "max_1v1": 2255,
-      "cur_tg": 1618,
-      "max_tg": 1654,
-      "last_tg": "2026-11-22",
-      "last_1v1": "2026-11-24",
-      "live": {
-        "match": 523469546,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 9031952,
