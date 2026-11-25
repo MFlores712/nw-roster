@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-25T04:20:12Z",
+  "updated_at": "2026-11-25T04:25:12Z",
   "baseline": {
     "taken_at": "2026-11-24T14:00:27Z",
     "ranks": {
@@ -287,21 +287,6 @@
       "last_tg": "2026-11-21"
     },
     {
-      "profile_id": 5803221,
-      "tag": "Mahmoud Ahmadinejad",
-      "cur_1v1": 2237,
-      "max_1v1": 2255,
-      "cur_tg": 1618,
-      "max_tg": 1654,
-      "last_tg": "2026-11-22",
-      "last_1v1": "2026-11-25",
-      "live": {
-        "match": 523506266,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 1485562,
       "tag": "MrOsoVC8",
       "clan": "VENÓN",
@@ -311,6 +296,16 @@
       "max_tg": 2099,
       "last_1v1": "2026-11-25",
       "last_tg": "2026-11-22"
+    },
+    {
+      "profile_id": 5803221,
+      "tag": "Mahmoud Ahmadinejad",
+      "cur_1v1": 2220,
+      "max_1v1": 2255,
+      "cur_tg": 1618,
+      "max_tg": 1654,
+      "last_tg": "2026-11-22",
+      "last_1v1": "2026-11-25"
     },
     {
       "profile_id": 9031952,
@@ -348,7 +343,12 @@
       "cur_tg": 1622,
       "max_tg": 1820,
       "last_1v1": "2026-11-23",
-      "last_tg": "2026-11-25"
+      "last_tg": "2026-11-25",
+      "live": {
+        "match": 523508402,
+        "game": "Team Random Map",
+        "format": "2v2"
+      }
     },
     {
       "profile_id": 9770338,
@@ -397,12 +397,7 @@
       "cur_tg": 1722,
       "max_tg": 1860,
       "last_1v1": "2026-11-25",
-      "last_tg": "2026-11-24",
-      "live": {
-        "match": 523505383,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-24"
     },
     {
       "profile_id": 1261126,
@@ -526,7 +521,12 @@
       "cur_tg": 1629,
       "max_tg": 1798,
       "last_1v1": "2026-09-29",
-      "last_tg": "2026-11-24"
+      "last_tg": "2026-11-24",
+      "live": {
+        "match": 523508402,
+        "game": "Team Random Map",
+        "format": "2v2"
+      }
     },
     {
       "profile_id": 3285258,
