@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-25T01:30:13Z",
+  "updated_at": "2026-11-25T01:40:17Z",
   "baseline": {
     "taken_at": "2026-11-24T14:00:27Z",
     "ranks": {
@@ -117,7 +117,7 @@
     },
     {
       "profile_id": 6090060,
-      "tag": "Diaz",
+      "tag": "noru",
       "cur_1v1": 2031,
       "max_1v1": 2031,
       "cur_tg": 1750,
