@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-25T04:40:12Z",
+  "updated_at": "2026-11-25T04:45:10Z",
   "baseline": {
     "taken_at": "2026-11-24T14:00:27Z",
     "ranks": {
@@ -257,7 +257,12 @@
       "cur_tg": 1873,
       "max_tg": 2010,
       "last_1v1": "2026-11-24",
-      "last_tg": "2026-11-25"
+      "last_tg": "2026-11-25",
+      "live": {
+        "match": 523510913,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 4412109,
@@ -310,7 +315,12 @@
       "cur_tg": 1904,
       "max_tg": 1995,
       "last_1v1": "2026-11-24",
-      "last_tg": "2026-11-25"
+      "last_tg": "2026-11-25",
+      "live": {
+        "match": 523510913,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 757886,
@@ -348,7 +358,12 @@
       "cur_tg": 1852,
       "max_tg": 1962,
       "last_1v1": "2026-11-17",
-      "last_tg": "2026-11-25"
+      "last_tg": "2026-11-25",
+      "live": {
+        "match": 523510913,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 1947348,
@@ -417,22 +432,6 @@
       "last_tg": "2026-11-23"
     },
     {
-      "profile_id": 2876835,
-      "tag": "Abejorro",
-      "clan": "nW",
-      "cur_1v1": 2053,
-      "max_1v1": 2152,
-      "cur_tg": 1805,
-      "max_tg": 1844,
-      "last_1v1": "2026-11-25",
-      "last_tg": "2026-11-21",
-      "live": {
-        "match": 523509786,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 1708286,
       "tag": "IamAlextremo",
       "cur_1v1": 2044,
@@ -452,6 +451,22 @@
       "max_tg": 1997,
       "last_1v1": "2026-11-25",
       "last_tg": "2026-11-19"
+    },
+    {
+      "profile_id": 2876835,
+      "tag": "Abejorro",
+      "clan": "nW",
+      "cur_1v1": 2040,
+      "max_1v1": 2152,
+      "cur_tg": 1805,
+      "max_tg": 1844,
+      "last_1v1": "2026-11-25",
+      "last_tg": "2026-11-21",
+      "live": {
+        "match": 523511079,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2291749,
