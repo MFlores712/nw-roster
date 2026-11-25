@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-25T03:30:14Z",
+  "updated_at": "2026-11-25T03:45:13Z",
   "baseline": {
     "taken_at": "2026-11-24T14:00:27Z",
     "ranks": {
@@ -155,17 +155,12 @@
     {
       "profile_id": 13518993,
       "tag": "Tatanos",
-      "cur_1v1": 1974,
+      "cur_1v1": 1956,
       "max_1v1": 2039,
       "cur_tg": 1669,
       "max_tg": 1703,
-      "last_1v1": "2026-11-21",
-      "last_tg": "2026-11-21",
-      "live": {
-        "match": 523499871,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-25",
+      "last_tg": "2026-11-21"
     },
     {
       "profile_id": 3034651,
