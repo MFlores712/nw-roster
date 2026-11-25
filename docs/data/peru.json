@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-24T23:55:11Z",
+  "updated_at": "2026-11-25T00:05:14Z",
   "baseline": {
     "taken_at": "2026-11-24T14:00:27Z",
     "ranks": {
@@ -59,7 +59,12 @@
       "cur_tg": 1719,
       "max_tg": 1846,
       "last_1v1": "2026-11-11",
-      "last_tg": "2026-11-24"
+      "last_tg": "2026-11-24",
+      "live": {
+        "match": 523469089,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 4706179,
@@ -144,12 +149,7 @@
       "cur_tg": 1686,
       "max_tg": 1843,
       "last_1v1": "2026-11-21",
-      "last_tg": "2026-11-23",
-      "live": {
-        "match": 523468441,
-        "game": "Team Death Match",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-23"
     },
     {
       "profile_id": 13518993,
@@ -200,14 +200,14 @@
       },
       "tag": "Lelouch",
       "clan": "CTM",
-      "cur_1v1": 1913,
+      "cur_1v1": 1922,
       "max_1v1": 2222,
       "cur_tg": 1714,
       "max_tg": 1843,
       "last_tg": "2026-11-24",
-      "last_1v1": "2026-11-24",
+      "last_1v1": "2026-11-25",
       "live": {
-        "match": 523465591,
+        "match": 523470102,
         "game": "1v1 Random Map",
         "format": "1v1",
         "account": "CTM | Lelouch ELO bajito"
@@ -222,23 +222,24 @@
       "cur_tg": 1465,
       "max_tg": 1608,
       "last_1v1": "2026-09-19",
-      "last_tg": "2026-11-24"
+      "last_tg": "2026-11-24",
+      "live": {
+        "match": 523469494,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "CTM | VaccumDestroyer"
+      }
     },
     {
       "profile_id": 4167535,
       "tag": "Dia franptom",
       "clan": "LE",
-      "cur_1v1": 1802,
+      "cur_1v1": 1820,
       "max_1v1": 2001,
       "cur_tg": 1438,
       "max_tg": 1581,
       "last_1v1": "2026-11-24",
-      "last_tg": "2026-11-19",
-      "live": {
-        "match": 523463800,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-19"
     }
   ],
   "show_top": 15
