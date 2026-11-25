@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-25T01:10:12Z",
+  "updated_at": "2026-11-25T01:15:10Z",
   "baseline": {
     "taken_at": "2026-11-24T14:00:27Z",
     "ranks": {
@@ -47,7 +47,7 @@
       "last_1v1": "2026-11-22",
       "last_tg": "2026-09-05",
       "live": {
-        "match": 523476677,
+        "match": 523480263,
         "game": "1v1 Random Map",
         "format": "1v1",
         "account": "NuMa | Empire"
@@ -107,7 +107,7 @@
       "last_1v1": "2026-11-07",
       "last_tg": "2026-11-07",
       "live": {
-        "match": 523476909,
+        "match": 523479837,
         "game": "1v1 Random Map",
         "format": "1v1",
         "account": "El Chanchullero"
@@ -217,7 +217,12 @@
       "cur_tg": 1119,
       "max_tg": 1119,
       "last_1v1": "2026-11-25",
-      "last_tg": "2025-03-14"
+      "last_tg": "2025-03-14",
+      "live": {
+        "match": 523479581,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     }
   ],
   "show_top": 15

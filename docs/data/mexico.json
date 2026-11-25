@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-25T01:10:12Z",
+  "updated_at": "2026-11-25T01:15:10Z",
   "baseline": {
     "taken_at": "2026-11-24T14:00:27Z",
     "ranks": {
@@ -277,11 +277,11 @@
       "profile_id": 1485562,
       "tag": "MrOsoVC8",
       "clan": "VENÓN",
-      "cur_1v1": 2217,
+      "cur_1v1": 2231,
       "max_1v1": 2394,
       "cur_tg": 1851,
       "max_tg": 2099,
-      "last_1v1": "2026-11-24",
+      "last_1v1": "2026-11-25",
       "last_tg": "2026-11-22",
       "live": {
         "match": 523476249,
@@ -424,14 +424,14 @@
       "profile_id": 1249720,
       "tag": "Lice_Slide",
       "clan": "VN",
-      "cur_1v1": 2016,
+      "cur_1v1": 2029,
       "max_1v1": 2121,
       "cur_tg": 1877,
       "max_tg": 1997,
       "last_1v1": "2026-11-25",
       "last_tg": "2026-11-19",
       "live": {
-        "match": 523477584,
+        "match": 523479923,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -572,9 +572,9 @@
       "clan": "Ux",
       "cur_1v1": 1909,
       "max_1v1": 1909,
-      "cur_tg": 1687,
+      "cur_tg": 1698,
       "max_tg": 1805,
-      "last_tg": "2026-11-24",
+      "last_tg": "2026-11-25",
       "last_1v1": "2026-10-16",
       "live": {
         "match": 523475975,
