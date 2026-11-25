@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-25T02:15:12Z",
+  "updated_at": "2026-11-25T02:20:12Z",
   "baseline": {
     "taken_at": "2026-11-24T14:00:27Z",
     "ranks": {
@@ -183,7 +183,13 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 523489837,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "hK | RanDoM"
+      }
     },
     {
       "profile_id": 12723994,
@@ -521,7 +527,13 @@
       "cur_tg": 1559,
       "max_tg": 1824,
       "last_tg": "2026-11-24",
-      "last_1v1": "2026-10-13"
+      "last_1v1": "2026-10-13",
+      "live": {
+        "match": 523490090,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "eFotboll"
+      }
     },
     {
       "profile_id": 467847,
@@ -585,17 +597,12 @@
     {
       "profile_id": 3254820,
       "tag": "__Chino",
-      "cur_1v1": 1887,
+      "cur_1v1": 1905,
       "max_1v1": 2003,
       "cur_tg": 1574,
       "max_tg": 1574,
       "last_1v1": "2026-11-25",
-      "last_tg": "2026-11-23",
-      "live": {
-        "match": 523483940,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-23"
     },
     {
       "profile_id": 2926018,
