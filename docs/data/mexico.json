@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-25T05:00:15Z",
+  "updated_at": "2026-11-25T05:05:11Z",
   "baseline": {
     "taken_at": "2026-11-24T14:00:27Z",
     "ranks": {
@@ -101,7 +101,13 @@
       "cur_tg": 2146,
       "max_tg": 2151,
       "last_1v1": "2026-11-24",
-      "last_tg": "2026-11-16"
+      "last_tg": "2026-11-16",
+      "live": {
+        "match": 523513069,
+        "game": "Team Random Map",
+        "format": "3v3",
+        "account": "[GDL] Chuchito"
+      }
     },
     {
       "profile_id": 2920057,
@@ -200,7 +206,13 @@
       "cur_tg": 1915,
       "max_tg": 1959,
       "last_tg": "2026-11-08",
-      "last_1v1": "2026-11-09"
+      "last_1v1": "2026-11-09",
+      "live": {
+        "match": 523513069,
+        "game": "Team Random Map",
+        "format": "3v3",
+        "account": "OS+ | Mauricioae13"
+      }
     },
     {
       "profile_id": 3816609,
@@ -250,7 +262,12 @@
       "cur_tg": 1875,
       "max_tg": 2010,
       "last_1v1": "2026-11-24",
-      "last_tg": "2026-11-25"
+      "last_tg": "2026-11-25",
+      "live": {
+        "match": 523513069,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 4412109,
@@ -287,17 +304,12 @@
     {
       "profile_id": 5803221,
       "tag": "Mahmoud Ahmadinejad",
-      "cur_1v1": 2228,
+      "cur_1v1": 2215,
       "max_1v1": 2255,
       "cur_tg": 1618,
       "max_tg": 1654,
       "last_tg": "2026-11-22",
-      "last_1v1": "2026-11-25",
-      "live": {
-        "match": 523510367,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-25"
     },
     {
       "profile_id": 9031952,
@@ -308,7 +320,12 @@
       "cur_tg": 1905,
       "max_tg": 1995,
       "last_1v1": "2026-11-24",
-      "last_tg": "2026-11-25"
+      "last_tg": "2026-11-25",
+      "live": {
+        "match": 523513069,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 757886,
@@ -346,7 +363,12 @@
       "cur_tg": 1854,
       "max_tg": 1962,
       "last_1v1": "2026-11-17",
-      "last_tg": "2026-11-25"
+      "last_tg": "2026-11-25",
+      "live": {
+        "match": 523513069,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 1947348,
