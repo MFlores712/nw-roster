@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-25T00:35:10Z",
+  "updated_at": "2026-11-25T00:40:12Z",
   "baseline": {
     "taken_at": "2026-11-24T14:00:27Z",
     "ranks": {
@@ -99,7 +99,13 @@
       "cur_tg": 1768,
       "max_tg": 1771,
       "last_1v1": "2026-11-07",
-      "last_tg": "2026-11-07"
+      "last_tg": "2026-11-07",
+      "live": {
+        "match": 523474449,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "El Chanchullero"
+      }
     },
     {
       "profile_id": 5368998,
@@ -210,14 +216,14 @@
     {
       "profile_id": 2134856,
       "tag": "Jacko",
-      "cur_1v1": 1784,
+      "cur_1v1": 1767,
       "max_1v1": 1867,
       "cur_tg": 1119,
       "max_tg": 1119,
       "last_1v1": "2026-11-25",
       "last_tg": "2025-03-14",
       "live": {
-        "match": 523472590,
+        "match": 523475029,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
