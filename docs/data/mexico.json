@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-26T22:25:09Z",
+  "updated_at": "2026-11-26T22:30:12Z",
   "baseline": {
     "taken_at": "2026-11-26T14:00:19Z",
     "ranks": {
@@ -68,12 +68,7 @@
       "cur_tg": 2152,
       "max_tg": 2169,
       "last_tg": "2026-10-08",
-      "last_1v1": "2026-11-26",
-      "live": {
-        "match": 523843431,
-        "game": "Unranked",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-26"
     },
     {
       "profile_id": 5984120,
@@ -275,21 +270,6 @@
       "last_tg": "2026-11-21"
     },
     {
-      "profile_id": 9031952,
-      "tag": "ChossMx",
-      "cur_1v1": 2219,
-      "max_1v1": 2331,
-      "cur_tg": 1931,
-      "max_tg": 1995,
-      "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-26",
-      "live": {
-        "match": 523844620,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 914665,
       "tag": "Caguamas",
       "clan": "nW",
@@ -299,6 +279,21 @@
       "max_tg": 2024,
       "last_1v1": "2026-11-26",
       "last_tg": "2026-11-26"
+    },
+    {
+      "profile_id": 9031952,
+      "tag": "ChossMx",
+      "cur_1v1": 2202,
+      "max_1v1": 2331,
+      "cur_tg": 1931,
+      "max_tg": 1995,
+      "last_1v1": "2026-11-26",
+      "last_tg": "2026-11-26",
+      "live": {
+        "match": 523847214,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 757886,
@@ -425,6 +420,22 @@
       "last_1v1": "2026-03-21"
     },
     {
+      "profile_id": 2876835,
+      "tag": "Abejorro",
+      "clan": "nW",
+      "cur_1v1": 2017,
+      "max_1v1": 2152,
+      "cur_tg": 1805,
+      "max_tg": 1844,
+      "last_1v1": "2026-11-26",
+      "last_tg": "2026-11-21",
+      "live": {
+        "match": 523847306,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 2291749,
       "tag": "Biner",
       "cur_1v1": 2010,
@@ -444,22 +455,6 @@
       "max_tg": 1997,
       "last_1v1": "2026-11-26",
       "last_tg": "2026-11-26"
-    },
-    {
-      "profile_id": 2876835,
-      "tag": "Abejorro",
-      "clan": "nW",
-      "cur_1v1": 2002,
-      "max_1v1": 2152,
-      "cur_tg": 1805,
-      "max_tg": 1844,
-      "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-21",
-      "live": {
-        "match": 523843128,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 278380,
