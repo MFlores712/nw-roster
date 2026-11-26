@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-26T05:45:10Z",
+  "updated_at": "2026-11-26T05:55:10Z",
   "baseline": {
     "taken_at": "2026-11-25T14:00:19Z",
     "ranks": {
@@ -118,7 +118,13 @@
       "cur_tg": 2226,
       "max_tg": 2254,
       "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-25"
+      "last_tg": "2026-11-25",
+      "live": {
+        "match": 523712326,
+        "game": "Team Random Map",
+        "format": "3v3",
+        "account": "Ux'Auu"
+      }
     },
     {
       "profile_id": 401359,
@@ -181,15 +187,10 @@
       "clan": "hK",
       "cur_1v1": 2369,
       "max_1v1": 2484,
-      "cur_tg": 1828,
+      "cur_tg": 1806,
       "max_tg": 1959,
       "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-13",
-      "live": {
-        "match": 523710054,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-26"
     },
     {
       "profile_id": 312774,
@@ -404,15 +405,10 @@
       "clan": "VL",
       "cur_1v1": 2055,
       "max_1v1": 2089,
-      "cur_tg": 1793,
+      "cur_tg": 1802,
       "max_tg": 1919,
       "last_1v1": "2026-06-27",
-      "last_tg": "2026-11-26",
-      "live": {
-        "match": 523709543,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-11-26"
     },
     {
       "profile_id": 1708286,
