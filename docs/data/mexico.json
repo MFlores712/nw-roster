@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-26T17:35:12Z",
+  "updated_at": "2026-11-26T17:40:13Z",
   "baseline": {
     "taken_at": "2026-11-26T14:00:19Z",
     "ranks": {
@@ -134,7 +134,13 @@
       "cur_tg": 2139,
       "max_tg": 2139,
       "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-21"
+      "last_tg": "2026-11-21",
+      "live": {
+        "match": 523795864,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "The_Fury"
+      }
     },
     {
       "profile_id": 2598146,
@@ -513,21 +519,6 @@
       "last_1v1": "2026-10-13"
     },
     {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1941,
-      "max_1v1": 2003,
-      "cur_tg": 1574,
-      "max_tg": 1574,
-      "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-23",
-      "live": {
-        "match": 523792608,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 467847,
       "tag": "DoN.Vergas",
       "cur_1v1": 1940,
@@ -547,6 +538,21 @@
       "max_tg": 1813,
       "last_tg": "2026-11-26",
       "last_1v1": "2026-11-24"
+    },
+    {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1938,
+      "max_1v1": 2003,
+      "cur_tg": 1574,
+      "max_tg": 1574,
+      "last_1v1": "2026-11-26",
+      "last_tg": "2026-11-23",
+      "live": {
+        "match": 523796025,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2969449,
