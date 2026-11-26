@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-26T06:00:21Z",
+  "updated_at": "2026-11-26T06:05:10Z",
   "baseline": {
     "taken_at": "2026-11-25T14:00:19Z",
     "ranks": {
@@ -101,13 +101,7 @@
       "cur_tg": 2146,
       "max_tg": 2151,
       "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 523710528,
-        "game": "Team Random Map",
-        "format": "2v2",
-        "account": "VENÓN | Mauricio"
-      }
+      "last_tg": "2026-11-16"
     },
     {
       "profile_id": 2920057,
@@ -190,7 +184,12 @@
       "cur_tg": 1806,
       "max_tg": 1959,
       "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-26"
+      "last_tg": "2026-11-26",
+      "live": {
+        "match": 523713548,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 312774,
@@ -204,22 +203,6 @@
       "last_1v1": "2026-10-24"
     },
     {
-      "profile_id": 3816609,
-      "tag": "iamkaito",
-      "clan": "nW",
-      "cur_1v1": 2341,
-      "max_1v1": 2348,
-      "cur_tg": 1839,
-      "max_tg": 1907,
-      "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-25",
-      "live": {
-        "match": 523711756,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 12723994,
       "tag": "PuNii",
       "clan": "VENÓN",
@@ -229,6 +212,17 @@
       "max_tg": 1959,
       "last_tg": "2026-11-08",
       "last_1v1": "2026-11-09"
+    },
+    {
+      "profile_id": 3816609,
+      "tag": "iamkaito",
+      "clan": "nW",
+      "cur_1v1": 2322,
+      "max_1v1": 2348,
+      "cur_tg": 1839,
+      "max_tg": 1907,
+      "last_1v1": "2026-11-26",
+      "last_tg": "2026-11-25"
     },
     {
       "profile_id": 9666666,
