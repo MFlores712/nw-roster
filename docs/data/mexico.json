@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-26T07:30:13Z",
+  "updated_at": "2026-11-26T07:35:10Z",
   "baseline": {
     "taken_at": "2026-11-25T14:00:19Z",
     "ranks": {
@@ -74,14 +74,14 @@
       "profile_id": 5984120,
       "tag": "Combitooo",
       "clan": "Ux",
-      "cur_1v1": 2735,
+      "cur_1v1": 2711,
       "max_1v1": 2790,
       "cur_tg": 1654,
       "max_tg": 1885,
       "last_1v1": "2026-11-26",
       "last_tg": "2026-11-16",
       "live": {
-        "match": 523720965,
+        "match": 523721811,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -106,7 +106,13 @@
       "cur_tg": 2146,
       "max_tg": 2151,
       "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-16"
+      "last_tg": "2026-11-16",
+      "live": {
+        "match": 523721544,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "VENÓN | Mauricio"
+      }
     },
     {
       "profile_id": 2920057,
@@ -552,7 +558,13 @@
       "cur_tg": 1820,
       "max_tg": 1821,
       "last_tg": "2026-10-16",
-      "last_1v1": "2026-09-18"
+      "last_1v1": "2026-09-18",
+      "live": {
+        "match": 523721544,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "[GDL]CemenTox"
+      }
     },
     {
       "profile_id": 324005,
