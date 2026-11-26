@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-26T00:40:10Z",
+  "updated_at": "2026-11-26T00:50:10Z",
   "baseline": {
     "taken_at": "2026-11-25T14:00:19Z",
     "ranks": {
@@ -280,6 +280,16 @@
       }
     },
     {
+      "profile_id": 9031952,
+      "tag": "ChossMx",
+      "cur_1v1": 2199,
+      "max_1v1": 2331,
+      "cur_tg": 1920,
+      "max_tg": 1995,
+      "last_1v1": "2026-11-26",
+      "last_tg": "2026-11-25"
+    },
+    {
       "profile_id": 5803221,
       "tag": "Mahmoud Ahmadinejad",
       "cur_1v1": 2197,
@@ -290,21 +300,6 @@
       "last_1v1": "2026-11-26",
       "live": {
         "match": 523669729,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
-      "profile_id": 9031952,
-      "tag": "ChossMx",
-      "cur_1v1": 2190,
-      "max_1v1": 2331,
-      "cur_tg": 1920,
-      "max_tg": 1995,
-      "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-25",
-      "live": {
-        "match": 523669568,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -451,6 +446,17 @@
       "last_1v1": "2026-11-23"
     },
     {
+      "profile_id": 2876835,
+      "tag": "Abejorro",
+      "clan": "nW",
+      "cur_1v1": 2004,
+      "max_1v1": 2152,
+      "cur_tg": 1805,
+      "max_tg": 1844,
+      "last_1v1": "2026-11-26",
+      "last_tg": "2026-11-21"
+    },
+    {
       "profile_id": 278380,
       "tag": "Lemoine",
       "clan": "VL",
@@ -471,22 +477,6 @@
       "max_tg": 1750,
       "last_tg": "2026-11-22",
       "last_1v1": "2026-10-24"
-    },
-    {
-      "profile_id": 2876835,
-      "tag": "Abejorro",
-      "clan": "nW",
-      "cur_1v1": 1985,
-      "max_1v1": 2152,
-      "cur_tg": 1805,
-      "max_tg": 1844,
-      "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-21",
-      "live": {
-        "match": 523668229,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 235877,
@@ -559,6 +549,16 @@
       }
     },
     {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1931,
+      "max_1v1": 2003,
+      "cur_tg": 1574,
+      "max_tg": 1574,
+      "last_1v1": "2026-11-26",
+      "last_tg": "2026-11-23"
+    },
+    {
       "profile_id": 2969449,
       "tag": "BetoxAOE",
       "clan": "VENÓN",
@@ -568,21 +568,6 @@
       "max_tg": 1821,
       "last_tg": "2026-10-16",
       "last_1v1": "2026-09-18"
-    },
-    {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1920,
-      "max_1v1": 2003,
-      "cur_tg": 1574,
-      "max_tg": 1574,
-      "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-23",
-      "live": {
-        "match": 523669393,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 324005,
