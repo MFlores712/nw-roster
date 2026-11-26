@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-26T21:59:33Z",
+  "updated_at": "2026-11-26T22:05:10Z",
   "baseline": {
     "taken_at": "2026-11-26T14:00:19Z",
     "ranks": {
@@ -68,7 +68,12 @@
       "cur_tg": 2152,
       "max_tg": 2169,
       "last_tg": "2026-10-08",
-      "last_1v1": "2026-11-26"
+      "last_1v1": "2026-11-26",
+      "live": {
+        "match": 523843431,
+        "game": "Unranked",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 5984120,
@@ -236,15 +241,10 @@
       "clan": "hK",
       "cur_1v1": 2272,
       "max_1v1": 2272,
-      "cur_tg": 1874,
+      "cur_tg": 1888,
       "max_tg": 2010,
       "last_1v1": "2026-11-24",
-      "last_tg": "2026-11-26",
-      "live": {
-        "match": 523838349,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-26"
     },
     {
       "profile_id": 1485562,
@@ -343,15 +343,10 @@
       "clan": "CL",
       "cur_1v1": 2103,
       "max_1v1": 2103,
-      "cur_tg": 1862,
+      "cur_tg": 1876,
       "max_tg": 1962,
       "last_1v1": "2026-11-17",
-      "last_tg": "2026-11-26",
-      "live": {
-        "match": 523838349,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-26"
     },
     {
       "profile_id": 1947348,
@@ -419,22 +414,6 @@
       "last_1v1": "2026-03-21"
     },
     {
-      "profile_id": 2876835,
-      "tag": "Abejorro",
-      "clan": "nW",
-      "cur_1v1": 2021,
-      "max_1v1": 2152,
-      "cur_tg": 1805,
-      "max_tg": 1844,
-      "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-21",
-      "live": {
-        "match": 523839811,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 2291749,
       "tag": "Biner",
       "cur_1v1": 2010,
@@ -454,6 +433,22 @@
       "max_tg": 1997,
       "last_1v1": "2026-11-26",
       "last_tg": "2026-11-26"
+    },
+    {
+      "profile_id": 2876835,
+      "tag": "Abejorro",
+      "clan": "nW",
+      "cur_1v1": 2002,
+      "max_1v1": 2152,
+      "cur_tg": 1805,
+      "max_tg": 1844,
+      "last_1v1": "2026-11-26",
+      "last_tg": "2026-11-21",
+      "live": {
+        "match": 523843128,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 278380,
