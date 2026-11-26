@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-26T07:25:11Z",
+  "updated_at": "2026-11-26T07:30:13Z",
   "baseline": {
     "taken_at": "2026-11-25T14:00:19Z",
     "ranks": {
@@ -106,13 +106,7 @@
       "cur_tg": 2146,
       "max_tg": 2151,
       "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 523719334,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "VENÓN | Mauricio"
-      }
+      "last_tg": "2026-11-16"
     },
     {
       "profile_id": 2920057,
@@ -242,15 +236,10 @@
       "clan": "hK",
       "cur_1v1": 2272,
       "max_1v1": 2272,
-      "cur_tg": 1891,
+      "cur_tg": 1903,
       "max_tg": 2010,
       "last_1v1": "2026-11-24",
-      "last_tg": "2026-11-25",
-      "live": {
-        "match": 523719686,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-26"
     },
     {
       "profile_id": 1485562,
@@ -311,15 +300,10 @@
       "tag": "ChossMx",
       "cur_1v1": 2175,
       "max_1v1": 2331,
-      "cur_tg": 1920,
+      "cur_tg": 1931,
       "max_tg": 1995,
       "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-25",
-      "live": {
-        "match": 523719686,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-26"
     },
     {
       "profile_id": 2850920,
@@ -568,13 +552,7 @@
       "cur_tg": 1820,
       "max_tg": 1821,
       "last_tg": "2026-10-16",
-      "last_1v1": "2026-09-18",
-      "live": {
-        "match": 523719334,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "[GDL]CemenTox"
-      }
+      "last_1v1": "2026-09-18"
     },
     {
       "profile_id": 324005,
