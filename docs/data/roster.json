@@ -1,6 +1,6 @@
 {
   "name": "new Wave",
-  "updated_at": "2026-11-26T02:30:16Z",
+  "updated_at": "2026-11-26T02:55:10Z",
   "baseline": {
     "taken_at": "2026-11-25T14:00:19Z",
     "ranks": {
@@ -75,7 +75,7 @@
       "profile_id": 2934597,
       "tag": "Sgt.Pepper",
       "country": "Mexico",
-      "cur_1v1": 2059,
+      "cur_1v1": 2073,
       "max_1v1": 2210,
       "cur_tg": 1729,
       "max_tg": 1747,

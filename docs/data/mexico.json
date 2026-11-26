@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-26T02:50:11Z",
+  "updated_at": "2026-11-26T02:55:10Z",
   "baseline": {
     "taken_at": "2026-11-25T14:00:19Z",
     "ranks": {
@@ -360,6 +360,22 @@
       "last_tg": "2026-11-22"
     },
     {
+      "profile_id": 2934597,
+      "tag": "Sgt.Pepper",
+      "clan": "nW",
+      "cur_1v1": 2073,
+      "max_1v1": 2210,
+      "cur_tg": 1729,
+      "max_tg": 1747,
+      "last_1v1": "2026-11-26",
+      "last_tg": "2026-11-24",
+      "live": {
+        "match": 523687060,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 13215279,
       "tag": "GO1_mx",
       "clan": "MZTK",
@@ -380,22 +396,6 @@
       "max_tg": 1870,
       "last_1v1": "2026-11-20",
       "last_tg": "2026-11-24"
-    },
-    {
-      "profile_id": 2934597,
-      "tag": "Sgt.Pepper",
-      "clan": "nW",
-      "cur_1v1": 2059,
-      "max_1v1": 2210,
-      "cur_tg": 1729,
-      "max_tg": 1747,
-      "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-24",
-      "live": {
-        "match": 523687060,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 400111,
