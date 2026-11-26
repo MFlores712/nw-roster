@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-26T19:25:14Z",
+  "updated_at": "2026-11-26T19:30:14Z",
   "baseline": {
     "taken_at": "2026-11-26T14:00:19Z",
     "ranks": {
@@ -63,12 +63,12 @@
       "profile_id": 2776293,
       "tag": "Kingstone",
       "clan": "Oni",
-      "cur_1v1": 2789,
+      "cur_1v1": 2802,
       "max_1v1": 2867,
       "cur_tg": 2152,
       "max_tg": 2169,
       "last_tg": "2026-10-08",
-      "last_1v1": "2026-11-24",
+      "last_1v1": "2026-11-26",
       "live": {
         "match": 523811980,
         "game": "1v1 Random Map",
@@ -595,17 +595,12 @@
       "profile_id": 2926018,
       "tag": "PerezPodrido",
       "clan": "SotC",
-      "cur_1v1": 1885,
+      "cur_1v1": 1897,
       "max_1v1": 2039,
       "cur_tg": 1732,
       "max_tg": 1888,
-      "last_1v1": "2026-11-24",
-      "last_tg": "2026-11-24",
-      "live": {
-        "match": 523810793,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-26",
+      "last_tg": "2026-11-24"
     },
     {
       "profile_id": 13241217,
