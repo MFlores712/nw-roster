@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-26T03:50:17Z",
+  "updated_at": "2026-11-26T03:55:11Z",
   "baseline": {
     "taken_at": "2026-11-25T14:00:19Z",
     "ranks": {
@@ -258,6 +258,17 @@
       "last_tg": "2026-11-25"
     },
     {
+      "profile_id": 1485562,
+      "tag": "MrOsoVC8",
+      "clan": "VENÓN",
+      "cur_1v1": 2253,
+      "max_1v1": 2394,
+      "cur_tg": 1851,
+      "max_tg": 2099,
+      "last_1v1": "2026-11-26",
+      "last_tg": "2026-11-22"
+    },
+    {
       "profile_id": 4412109,
       "tag": "HGB",
       "clan": "hK",
@@ -267,22 +278,6 @@
       "max_tg": 2122,
       "last_1v1": "2026-11-25",
       "last_tg": "2026-11-21"
-    },
-    {
-      "profile_id": 1485562,
-      "tag": "MrOsoVC8",
-      "clan": "VENÓN",
-      "cur_1v1": 2247,
-      "max_1v1": 2394,
-      "cur_tg": 1851,
-      "max_tg": 2099,
-      "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-22",
-      "live": {
-        "match": 523698765,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 9031952,
@@ -321,31 +316,21 @@
       "clan": "Ux",
       "cur_1v1": 2147,
       "max_1v1": 2176,
-      "cur_tg": 1661,
+      "cur_tg": 1673,
       "max_tg": 1820,
       "last_1v1": "2026-11-23",
-      "last_tg": "2026-11-26",
-      "live": {
-        "match": 523696486,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-26"
     },
     {
       "profile_id": 917863,
       "tag": "Romell13",
       "clan": "hK",
-      "cur_1v1": 2106,
+      "cur_1v1": 2121,
       "max_1v1": 2233,
       "cur_tg": 1815,
       "max_tg": 1838,
       "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-05",
-      "live": {
-        "match": 523697560,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-05"
     },
     {
       "profile_id": 9770338,
@@ -356,13 +341,7 @@
       "cur_tg": 1870,
       "max_tg": 1962,
       "last_1v1": "2026-11-17",
-      "last_tg": "2026-11-25",
-      "live": {
-        "match": 523696338,
-        "game": "Unranked",
-        "format": "1v1",
-        "account": "CL | Stalingrado"
-      }
+      "last_tg": "2026-11-25"
     },
     {
       "profile_id": 1947348,
@@ -384,7 +363,12 @@
       "cur_tg": 1729,
       "max_tg": 1747,
       "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-24"
+      "last_tg": "2026-11-24",
+      "live": {
+        "match": 523699266,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 13215279,
