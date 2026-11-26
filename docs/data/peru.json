@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-26T03:00:16Z",
+  "updated_at": "2026-11-26T03:05:11Z",
   "baseline": {
     "taken_at": "2026-11-25T14:00:19Z",
     "ranks": {
@@ -43,17 +43,12 @@
     {
       "profile_id": 3216208,
       "tag": "Dimo",
-      "cur_1v1": 2617,
-      "max_1v1": 2617,
+      "cur_1v1": 2623,
+      "max_1v1": 2623,
       "cur_tg": 1911,
       "max_tg": 1935,
       "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-26",
-      "live": {
-        "match": 523689384,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-26"
     },
     {
       "profile_id": 9558892,
@@ -131,9 +126,9 @@
       "tag": "noru",
       "cur_1v1": 2031,
       "max_1v1": 2031,
-      "cur_tg": 1650,
+      "cur_tg": 1639,
       "max_tg": 1840,
-      "last_tg": "2026-11-25",
+      "last_tg": "2026-11-26",
       "last_1v1": "2026-09-24",
       "live": {
         "match": 523691901,
@@ -147,15 +142,10 @@
       "clan": "LvSP",
       "cur_1v1": 2003,
       "max_1v1": 2139,
-      "cur_tg": 1481,
+      "cur_tg": 1497,
       "max_tg": 1719,
       "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-26",
-      "live": {
-        "match": 523688030,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-26"
     },
     {
       "profile_id": 3034651,
@@ -235,12 +225,12 @@
       "clan": "CTM",
       "cur_1v1": 1902,
       "max_1v1": 1902,
-      "cur_tg": 1465,
+      "cur_tg": 1459,
       "max_tg": 1608,
       "last_1v1": "2026-09-19",
-      "last_tg": "2026-11-24",
+      "last_tg": "2026-11-26",
       "live": {
-        "match": 523688760,
+        "match": 523692573,
         "game": "Team Random Map",
         "format": "4v4"
       }
