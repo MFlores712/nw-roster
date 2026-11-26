@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-26T01:25:09Z",
+  "updated_at": "2026-11-26T01:30:15Z",
   "baseline": {
     "taken_at": "2026-11-25T14:00:19Z",
     "ranks": {
@@ -277,17 +277,12 @@
       "profile_id": 1485562,
       "tag": "MrOsoVC8",
       "clan": "VENÓN",
-      "cur_1v1": 2229,
+      "cur_1v1": 2209,
       "max_1v1": 2394,
       "cur_tg": 1851,
       "max_tg": 2099,
       "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-22",
-      "live": {
-        "match": 523674858,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-22"
     },
     {
       "profile_id": 9031952,
@@ -440,6 +435,17 @@
       "last_tg": "2026-11-25"
     },
     {
+      "profile_id": 2876835,
+      "tag": "Abejorro",
+      "clan": "nW",
+      "cur_1v1": 2021,
+      "max_1v1": 2152,
+      "cur_tg": 1805,
+      "max_tg": 1844,
+      "last_1v1": "2026-11-26",
+      "last_tg": "2026-11-21"
+    },
+    {
       "profile_id": 2291749,
       "tag": "Biner",
       "cur_1v1": 2010,
@@ -459,22 +465,6 @@
       "max_tg": 1820,
       "last_tg": "2026-11-23",
       "last_1v1": "2026-11-23"
-    },
-    {
-      "profile_id": 2876835,
-      "tag": "Abejorro",
-      "clan": "nW",
-      "cur_1v1": 2004,
-      "max_1v1": 2152,
-      "cur_tg": 1805,
-      "max_tg": 1844,
-      "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-21",
-      "live": {
-        "match": 523674644,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 278380,
