@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-26T21:15:11Z",
+  "updated_at": "2026-11-26T21:20:11Z",
   "baseline": {
     "taken_at": "2026-11-26T14:00:19Z",
     "ranks": {
@@ -136,7 +136,7 @@
       "clan": "LvSP",
       "cur_1v1": 2028,
       "max_1v1": 2139,
-      "cur_tg": 1475,
+      "cur_tg": 1454,
       "max_tg": 1719,
       "last_1v1": "2026-11-26",
       "last_tg": "2026-11-26",
