@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-26T01:30:15Z",
+  "updated_at": "2026-11-26T01:35:10Z",
   "baseline": {
     "taken_at": "2026-11-25T14:00:19Z",
     "ranks": {
@@ -74,7 +74,7 @@
       "profile_id": 5984120,
       "tag": "Combitooo",
       "clan": "Ux",
-      "cur_1v1": 2712,
+      "cur_1v1": 2707,
       "max_1v1": 2790,
       "cur_tg": 1654,
       "max_tg": 1885,
@@ -158,15 +158,10 @@
       "clan": "hK",
       "cur_1v1": 2396,
       "max_1v1": 2396,
-      "cur_tg": 1836,
+      "cur_tg": 1839,
       "max_tg": 1974,
       "last_1v1": "2026-11-25",
-      "last_tg": "2026-11-26",
-      "live": {
-        "match": 523675219,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-26"
     },
     {
       "profile_id": 2295504,
@@ -178,22 +173,6 @@
       "max_tg": 1907,
       "last_1v1": "2026-11-11",
       "last_tg": "2026-10-14"
-    },
-    {
-      "profile_id": 310739,
-      "tag": "SoyLaHostia",
-      "clan": "hK",
-      "cur_1v1": 2348,
-      "max_1v1": 2484,
-      "cur_tg": 1828,
-      "max_tg": 1959,
-      "last_1v1": "2026-11-25",
-      "last_tg": "2026-11-13",
-      "live": {
-        "match": 523674232,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 312774,
@@ -216,6 +195,17 @@
       "max_tg": 1959,
       "last_tg": "2026-11-08",
       "last_1v1": "2026-11-09"
+    },
+    {
+      "profile_id": 310739,
+      "tag": "SoyLaHostia",
+      "clan": "hK",
+      "cur_1v1": 2335,
+      "max_1v1": 2484,
+      "cur_tg": 1828,
+      "max_tg": 1959,
+      "last_1v1": "2026-11-26",
+      "last_tg": "2026-11-13"
     },
     {
       "profile_id": 3816609,
@@ -308,17 +298,12 @@
     {
       "profile_id": 5803221,
       "tag": "Mahmoud Ahmadinejad",
-      "cur_1v1": 2189,
+      "cur_1v1": 2176,
       "max_1v1": 2255,
       "cur_tg": 1618,
       "max_tg": 1654,
       "last_tg": "2026-11-22",
-      "last_1v1": "2026-11-26",
-      "live": {
-        "match": 523675126,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-26"
     },
     {
       "profile_id": 2850920,
@@ -569,15 +554,10 @@
       "clan": "KH",
       "cur_1v1": 1940,
       "max_1v1": 2060,
-      "cur_tg": 1673,
+      "cur_tg": 1679,
       "max_tg": 1813,
       "last_tg": "2026-11-26",
-      "last_1v1": "2026-11-24",
-      "live": {
-        "match": 523675219,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_1v1": "2026-11-24"
     },
     {
       "profile_id": 2969449,
