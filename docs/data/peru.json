@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-26T01:35:10Z",
+  "updated_at": "2026-11-26T01:40:18Z",
   "baseline": {
     "taken_at": "2026-11-25T14:00:19Z",
     "ranks": {
@@ -64,13 +64,7 @@
       "cur_tg": 1701,
       "max_tg": 1846,
       "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-25",
-      "live": {
-        "match": 523677112,
-        "game": "Unranked",
-        "format": "3v3",
-        "account": "LE | WilliamS"
-      }
+      "last_tg": "2026-11-25"
     },
     {
       "profile_id": 4706179,
@@ -163,6 +157,21 @@
       "last_tg": "2026-11-23"
     },
     {
+      "profile_id": 3034651,
+      "tag": "KinG of QUILLA",
+      "cur_1v1": 1967,
+      "max_1v1": 2035,
+      "cur_tg": 1526,
+      "max_tg": 1657,
+      "last_1v1": "2026-11-26",
+      "last_tg": "2026-10-26",
+      "live": {
+        "match": 523679666,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 13518993,
       "tag": "Tatanos",
       "cur_1v1": 1956,
@@ -171,21 +180,6 @@
       "max_tg": 1703,
       "last_1v1": "2026-11-25",
       "last_tg": "2026-11-21"
-    },
-    {
-      "profile_id": 3034651,
-      "tag": "KinG of QUILLA",
-      "cur_1v1": 1946,
-      "max_1v1": 2035,
-      "cur_tg": 1526,
-      "max_tg": 1657,
-      "last_1v1": "2026-11-25",
-      "last_tg": "2026-10-26",
-      "live": {
-        "match": 523678946,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 2366434,
