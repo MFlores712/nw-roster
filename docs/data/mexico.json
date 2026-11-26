@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-26T01:00:23Z",
+  "updated_at": "2026-11-26T01:05:11Z",
   "baseline": {
     "taken_at": "2026-11-25T14:00:19Z",
     "ranks": {
@@ -79,7 +79,12 @@
       "cur_tg": 1654,
       "max_tg": 1885,
       "last_1v1": "2026-11-25",
-      "last_tg": "2026-11-16"
+      "last_tg": "2026-11-16",
+      "live": {
+        "match": 523674770,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 13099159,
@@ -153,15 +158,10 @@
       "clan": "hK",
       "cur_1v1": 2396,
       "max_1v1": 2396,
-      "cur_tg": 1831,
+      "cur_tg": 1836,
       "max_tg": 1974,
       "last_1v1": "2026-11-25",
-      "last_tg": "2026-11-26",
-      "live": {
-        "match": 523671277,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-26"
     },
     {
       "profile_id": 2295504,
@@ -183,7 +183,12 @@
       "cur_tg": 1828,
       "max_tg": 1959,
       "last_1v1": "2026-11-25",
-      "last_tg": "2026-11-13"
+      "last_tg": "2026-11-13",
+      "live": {
+        "match": 523674232,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 312774,
@@ -267,17 +272,12 @@
       "profile_id": 1485562,
       "tag": "MrOsoVC8",
       "clan": "VENÓN",
-      "cur_1v1": 2243,
+      "cur_1v1": 2229,
       "max_1v1": 2394,
       "cur_tg": 1851,
       "max_tg": 2099,
       "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-22",
-      "live": {
-        "match": 523671195,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-22"
     },
     {
       "profile_id": 9031952,
@@ -322,6 +322,17 @@
       "last_tg": "2026-11-25"
     },
     {
+      "profile_id": 917863,
+      "tag": "Romell13",
+      "clan": "hK",
+      "cur_1v1": 2115,
+      "max_1v1": 2233,
+      "cur_tg": 1815,
+      "max_tg": 1838,
+      "last_1v1": "2026-11-26",
+      "last_tg": "2026-11-05"
+    },
+    {
       "profile_id": 9770338,
       "tag": "SynfonY",
       "clan": "CL",
@@ -331,22 +342,6 @@
       "max_tg": 1962,
       "last_1v1": "2026-11-17",
       "last_tg": "2026-11-25"
-    },
-    {
-      "profile_id": 917863,
-      "tag": "Romell13",
-      "clan": "hK",
-      "cur_1v1": 2095,
-      "max_1v1": 2233,
-      "cur_tg": 1815,
-      "max_tg": 1838,
-      "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-05",
-      "live": {
-        "match": 523672849,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 1947348,
@@ -454,7 +449,12 @@
       "cur_tg": 1805,
       "max_tg": 1844,
       "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-21"
+      "last_tg": "2026-11-21",
+      "live": {
+        "match": 523674644,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 278380,
@@ -559,15 +559,10 @@
       "clan": "KH",
       "cur_1v1": 1940,
       "max_1v1": 2060,
-      "cur_tg": 1665,
+      "cur_tg": 1673,
       "max_tg": 1813,
       "last_tg": "2026-11-26",
-      "last_1v1": "2026-11-24",
-      "live": {
-        "match": 523671277,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_1v1": "2026-11-24"
     },
     {
       "profile_id": 2969449,
