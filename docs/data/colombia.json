@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-26T03:05:11Z",
+  "updated_at": "2026-11-26T03:25:09Z",
   "baseline": {
     "taken_at": "2026-11-25T14:00:19Z",
     "ranks": {
@@ -126,17 +126,12 @@
       "profile_id": 1062980,
       "tag": "DeaH",
       "clan": "VLC",
-      "cur_1v1": 1977,
+      "cur_1v1": 1957,
       "max_1v1": 2010,
       "cur_tg": 1736,
       "max_tg": 1764,
       "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-22",
-      "live": {
-        "match": 523691810,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-22"
     },
     {
       "profile_id": 2479622,
@@ -163,12 +158,12 @@
       "profile_id": 12930522,
       "tag": "Kevin",
       "clan": "VENÓN",
-      "cur_1v1": 1886,
+      "cur_1v1": 1874,
       "max_1v1": 1908,
       "cur_tg": 1806,
       "max_tg": 1893,
       "last_tg": "2026-11-21",
-      "last_1v1": "2026-11-25",
+      "last_1v1": "2026-11-26",
       "live": {
         "match": 523692569,
         "game": "1v1 Random Map",
