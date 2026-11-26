@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-26T02:00:14Z",
+  "updated_at": "2026-11-26T02:05:12Z",
   "baseline": {
     "taken_at": "2026-11-25T14:00:19Z",
     "ranks": {
@@ -148,19 +148,9 @@
       "last_tg": "2026-11-21"
     },
     {
-      "profile_id": 633255,
-      "tag": "Tempo",
-      "cur_1v1": 1982,
-      "max_1v1": 2177,
-      "cur_tg": 1686,
-      "max_tg": 1843,
-      "last_1v1": "2026-11-21",
-      "last_tg": "2026-11-23"
-    },
-    {
       "profile_id": 3034651,
       "tag": "KinG of QUILLA",
-      "cur_1v1": 1967,
+      "cur_1v1": 1986,
       "max_1v1": 2035,
       "cur_tg": 1526,
       "max_tg": 1657,
@@ -170,6 +160,21 @@
         "match": 523679666,
         "game": "1v1 Random Map",
         "format": "1v1"
+      }
+    },
+    {
+      "profile_id": 633255,
+      "tag": "Tempo",
+      "cur_1v1": 1982,
+      "max_1v1": 2177,
+      "cur_tg": 1686,
+      "max_tg": 1843,
+      "last_1v1": "2026-11-21",
+      "last_tg": "2026-11-23",
+      "live": {
+        "match": 523683175,
+        "game": "Team Death Match",
+        "format": "4v4"
       }
     },
     {
