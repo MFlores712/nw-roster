@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-26T03:30:14Z",
+  "updated_at": "2026-11-26T03:35:11Z",
   "baseline": {
     "taken_at": "2026-11-25T14:00:19Z",
     "ranks": {
@@ -236,15 +236,10 @@
       "clan": "nW",
       "cur_1v1": 2278,
       "max_1v1": 2289,
-      "cur_tg": 1779,
+      "cur_tg": 1795,
       "max_tg": 2024,
       "last_1v1": "2026-11-25",
-      "last_tg": "2026-11-26",
-      "live": {
-        "match": 523692062,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-26"
     },
     {
       "profile_id": 13138746,
@@ -324,7 +319,12 @@
       "cur_tg": 1661,
       "max_tg": 1820,
       "last_1v1": "2026-11-23",
-      "last_tg": "2026-11-26"
+      "last_tg": "2026-11-26",
+      "live": {
+        "match": 523696486,
+        "game": "Team Random Map",
+        "format": "2v2"
+      }
     },
     {
       "profile_id": 917863,
@@ -509,13 +509,7 @@
       "cur_tg": 1673,
       "max_tg": 1824,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-11-21",
-      "live": {
-        "match": 523693253,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "jax_teller"
-      }
+      "last_tg": "2026-11-21"
     },
     {
       "profile_id": 2986966,
