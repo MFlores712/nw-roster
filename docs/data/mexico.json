@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-26T02:40:12Z",
+  "updated_at": "2026-11-26T02:50:11Z",
   "baseline": {
     "taken_at": "2026-11-25T14:00:19Z",
     "ranks": {
@@ -539,6 +539,16 @@
       }
     },
     {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1941,
+      "max_1v1": 2003,
+      "cur_tg": 1574,
+      "max_tg": 1574,
+      "last_1v1": "2026-11-26",
+      "last_tg": "2026-11-23"
+    },
+    {
       "profile_id": 467847,
       "tag": "DoN.Vergas",
       "cur_1v1": 1940,
@@ -569,21 +579,6 @@
       "max_tg": 1821,
       "last_tg": "2026-10-16",
       "last_1v1": "2026-09-18"
-    },
-    {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1927,
-      "max_1v1": 2003,
-      "cur_tg": 1574,
-      "max_tg": 1574,
-      "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-23",
-      "live": {
-        "match": 523686206,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 324005,
@@ -624,15 +619,10 @@
       "clan": "Ux",
       "cur_1v1": 1849,
       "max_1v1": 1997,
-      "cur_tg": 1718,
+      "cur_tg": 1727,
       "max_tg": 1737,
       "last_1v1": "2026-11-25",
-      "last_tg": "2026-11-26",
-      "live": {
-        "match": 523685422,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-26"
     },
     {
       "profile_id": 233625,
