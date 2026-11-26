@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-26T22:45:10Z",
+  "updated_at": "2026-11-26T22:50:11Z",
   "baseline": {
     "taken_at": "2026-11-26T14:00:19Z",
     "ranks": {
@@ -182,6 +182,16 @@
       "last_1v1": "2026-11-25"
     },
     {
+      "profile_id": 3034651,
+      "tag": "KinG of QUILLA",
+      "cur_1v1": 1937,
+      "max_1v1": 2035,
+      "cur_tg": 1526,
+      "max_tg": 1657,
+      "last_1v1": "2026-11-26",
+      "last_tg": "2026-10-26"
+    },
+    {
       "profile_id": 4210400,
       "tag": "Darwiz1233",
       "clan": "LE",
@@ -191,21 +201,6 @@
       "max_tg": 2009,
       "last_tg": "2026-10-12",
       "last_1v1": "2026-10-01"
-    },
-    {
-      "profile_id": 3034651,
-      "tag": "KinG of QUILLA",
-      "cur_1v1": 1931,
-      "max_1v1": 2035,
-      "cur_tg": 1526,
-      "max_tg": 1657,
-      "last_1v1": "2026-11-26",
-      "last_tg": "2026-10-26",
-      "live": {
-        "match": 523846704,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 1865687,
