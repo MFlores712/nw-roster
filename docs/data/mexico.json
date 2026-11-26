@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-26T16:50:14Z",
+  "updated_at": "2026-11-26T16:55:11Z",
   "baseline": {
     "taken_at": "2026-11-26T14:00:19Z",
     "ranks": {
@@ -134,7 +134,13 @@
       "cur_tg": 2139,
       "max_tg": 2139,
       "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-21"
+      "last_tg": "2026-11-21",
+      "live": {
+        "match": 523788207,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "The_Fury"
+      }
     },
     {
       "profile_id": 2598146,
@@ -410,6 +416,17 @@
       "last_tg": "2026-11-21"
     },
     {
+      "profile_id": 1249720,
+      "tag": "Lice_Slide",
+      "clan": "VN",
+      "cur_1v1": 2017,
+      "max_1v1": 2121,
+      "cur_tg": 1865,
+      "max_tg": 1997,
+      "last_1v1": "2026-11-26",
+      "last_tg": "2026-11-25"
+    },
+    {
       "profile_id": 2291749,
       "tag": "Biner",
       "cur_1v1": 2010,
@@ -418,22 +435,6 @@
       "max_tg": 1705,
       "last_1v1": "2026-11-21",
       "last_tg": "2026-11-20"
-    },
-    {
-      "profile_id": 1249720,
-      "tag": "Lice_Slide",
-      "clan": "VN",
-      "cur_1v1": 2007,
-      "max_1v1": 2121,
-      "cur_tg": 1865,
-      "max_tg": 1997,
-      "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-25",
-      "live": {
-        "match": 523787083,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 278380,
