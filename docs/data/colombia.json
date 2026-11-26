@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-26T02:25:10Z",
+  "updated_at": "2026-11-26T02:30:16Z",
   "baseline": {
     "taken_at": "2026-11-25T14:00:19Z",
     "ranks": {
@@ -126,17 +126,12 @@
       "profile_id": 1062980,
       "tag": "DeaH",
       "clan": "VLC",
-      "cur_1v1": 1963,
+      "cur_1v1": 1977,
       "max_1v1": 2010,
       "cur_tg": 1736,
       "max_tg": 1764,
-      "last_1v1": "2026-11-23",
-      "last_tg": "2026-11-22",
-      "live": {
-        "match": 523683856,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-26",
+      "last_tg": "2026-11-22"
     },
     {
       "profile_id": 2479622,
@@ -179,7 +174,12 @@
       "cur_tg": 1359,
       "max_tg": 1630,
       "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-26"
+      "last_tg": "2026-11-26",
+      "live": {
+        "match": 523687362,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 10733016,
