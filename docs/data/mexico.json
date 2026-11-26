@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-26T00:50:10Z",
+  "updated_at": "2026-11-26T00:55:10Z",
   "baseline": {
     "taken_at": "2026-11-25T14:00:19Z",
     "ranks": {
@@ -357,7 +357,12 @@
       "cur_tg": 1815,
       "max_tg": 1838,
       "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-05"
+      "last_tg": "2026-11-05",
+      "live": {
+        "match": 523672849,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2934597,
@@ -520,7 +525,13 @@
       "cur_tg": 1556,
       "max_tg": 1824,
       "last_tg": "2026-11-25",
-      "last_1v1": "2026-10-13"
+      "last_1v1": "2026-10-13",
+      "live": {
+        "match": 523672879,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "eFotboll"
+      }
     },
     {
       "profile_id": 467847,
@@ -556,7 +567,12 @@
       "cur_tg": 1574,
       "max_tg": 1574,
       "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-23"
+      "last_tg": "2026-11-23",
+      "live": {
+        "match": 523673446,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2969449,
