@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-26T04:25:09Z",
+  "updated_at": "2026-11-26T04:30:13Z",
   "baseline": {
     "taken_at": "2026-11-25T14:00:19Z",
     "ranks": {
@@ -167,13 +167,7 @@
       "cur_tg": 1845,
       "max_tg": 1907,
       "last_1v1": "2026-11-11",
-      "last_tg": "2026-10-14",
-      "live": {
-        "match": 523701776,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "Volg"
-      }
+      "last_tg": "2026-10-14"
     },
     {
       "profile_id": 310739,
@@ -243,22 +237,6 @@
       "last_tg": "2026-11-25"
     },
     {
-      "profile_id": 914665,
-      "tag": "Caguamas",
-      "clan": "nW",
-      "cur_1v1": 2256,
-      "max_1v1": 2289,
-      "cur_tg": 1795,
-      "max_tg": 2024,
-      "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-26",
-      "live": {
-        "match": 523701178,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 1485562,
       "tag": "MrOsoVC8",
       "clan": "VENÓN",
@@ -279,6 +257,17 @@
       "max_tg": 2122,
       "last_1v1": "2026-11-25",
       "last_tg": "2026-11-21"
+    },
+    {
+      "profile_id": 914665,
+      "tag": "Caguamas",
+      "clan": "nW",
+      "cur_1v1": 2235,
+      "max_1v1": 2289,
+      "cur_tg": 1795,
+      "max_tg": 2024,
+      "last_1v1": "2026-11-26",
+      "last_tg": "2026-11-26"
     },
     {
       "profile_id": 9031952,
@@ -309,7 +298,12 @@
       "cur_tg": 1618,
       "max_tg": 1654,
       "last_tg": "2026-11-22",
-      "last_1v1": "2026-11-26"
+      "last_1v1": "2026-11-26",
+      "live": {
+        "match": 523703384,
+        "game": "Unranked",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2850920,
@@ -361,6 +355,17 @@
       "last_tg": "2026-11-22"
     },
     {
+      "profile_id": 2934597,
+      "tag": "Sgt.Pepper",
+      "clan": "nW",
+      "cur_1v1": 2078,
+      "max_1v1": 2210,
+      "cur_tg": 1729,
+      "max_tg": 1747,
+      "last_1v1": "2026-11-26",
+      "last_tg": "2026-11-24"
+    },
+    {
       "profile_id": 13215279,
       "tag": "GO1_mx",
       "clan": "MZTK",
@@ -388,30 +393,14 @@
       "clan": "VL",
       "cur_1v1": 2055,
       "max_1v1": 2089,
-      "cur_tg": 1824,
+      "cur_tg": 1803,
       "max_tg": 1919,
       "last_1v1": "2026-06-27",
-      "last_tg": "2026-11-23",
+      "last_tg": "2026-11-26",
       "live": {
-        "match": 523699721,
+        "match": 523703886,
         "game": "Team Random Map",
         "format": "4v4"
-      }
-    },
-    {
-      "profile_id": 2934597,
-      "tag": "Sgt.Pepper",
-      "clan": "nW",
-      "cur_1v1": 2054,
-      "max_1v1": 2210,
-      "cur_tg": 1729,
-      "max_tg": 1747,
-      "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-24",
-      "live": {
-        "match": 523701776,
-        "game": "1v1 Random Map",
-        "format": "1v1"
       }
     },
     {

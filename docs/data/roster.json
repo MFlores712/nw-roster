@@ -1,6 +1,6 @@
 {
   "name": "new Wave",
-  "updated_at": "2026-11-26T04:15:12Z",
+  "updated_at": "2026-11-26T04:30:13Z",
   "baseline": {
     "taken_at": "2026-11-25T14:00:19Z",
     "ranks": {
@@ -42,17 +42,12 @@
       "profile_id": 914665,
       "tag": "Caguamas",
       "country": "Mexico",
-      "cur_1v1": 2256,
+      "cur_1v1": 2235,
       "max_1v1": 2289,
       "cur_tg": 1795,
       "max_tg": 2024,
       "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-26",
-      "live": {
-        "match": 523701178,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-26"
     },
     {
       "profile_id": 1947348,
@@ -80,17 +75,12 @@
       "profile_id": 2934597,
       "tag": "Sgt.Pepper",
       "country": "Mexico",
-      "cur_1v1": 2054,
+      "cur_1v1": 2078,
       "max_1v1": 2210,
       "cur_tg": 1729,
       "max_tg": 1747,
       "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-24",
-      "live": {
-        "match": 523701776,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-24"
     },
     {
       "profile_id": 2876835,
