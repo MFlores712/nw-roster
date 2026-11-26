@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-26T23:20:15Z",
+  "updated_at": "2026-11-26T23:25:09Z",
   "baseline": {
     "taken_at": "2026-11-26T14:00:19Z",
     "ranks": {
@@ -256,7 +256,12 @@
       "cur_tg": 1900,
       "max_tg": 2010,
       "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-26"
+      "last_tg": "2026-11-26",
+      "live": {
+        "match": 523854900,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 4412109,
@@ -347,7 +352,12 @@
       "cur_tg": 1889,
       "max_tg": 1962,
       "last_1v1": "2026-11-17",
-      "last_tg": "2026-11-26"
+      "last_tg": "2026-11-26",
+      "live": {
+        "match": 523854900,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 1947348,
@@ -550,21 +560,6 @@
       "last_1v1": "2026-11-24"
     },
     {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1934,
-      "max_1v1": 2003,
-      "cur_tg": 1574,
-      "max_tg": 1574,
-      "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-23",
-      "live": {
-        "match": 523850890,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 2969449,
       "tag": "BetoxAOE",
       "clan": "VENÓN",
@@ -596,6 +591,16 @@
       "max_tg": 1805,
       "last_tg": "2026-11-25",
       "last_1v1": "2026-10-16"
+    },
+    {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1908,
+      "max_1v1": 2003,
+      "cur_tg": 1574,
+      "max_tg": 1574,
+      "last_1v1": "2026-11-26",
+      "last_tg": "2026-11-23"
     },
     {
       "profile_id": 2926018,
