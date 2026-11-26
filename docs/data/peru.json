@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-26T00:55:10Z",
+  "updated_at": "2026-11-26T01:00:23Z",
   "baseline": {
     "taken_at": "2026-11-25T14:00:19Z",
     "ranks": {
@@ -132,22 +132,6 @@
       "last_1v1": "2026-09-24"
     },
     {
-      "profile_id": 4229962,
-      "tag": "Réyiman",
-      "clan": "LvSP",
-      "cur_1v1": 1998,
-      "max_1v1": 2139,
-      "cur_tg": 1466,
-      "max_tg": 1719,
-      "last_1v1": "2026-11-24",
-      "last_tg": "2026-11-21",
-      "live": {
-        "match": 523673446,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 633255,
       "tag": "Tempo",
       "cur_1v1": 1982,
@@ -156,6 +140,22 @@
       "max_tg": 1843,
       "last_1v1": "2026-11-21",
       "last_tg": "2026-11-23"
+    },
+    {
+      "profile_id": 4229962,
+      "tag": "Réyiman",
+      "clan": "LvSP",
+      "cur_1v1": 1979,
+      "max_1v1": 2139,
+      "cur_tg": 1466,
+      "max_tg": 1719,
+      "last_1v1": "2026-11-26",
+      "last_tg": "2026-11-21",
+      "live": {
+        "match": 523673644,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 13518993,

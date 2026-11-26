@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-26T00:55:10Z",
+  "updated_at": "2026-11-26T01:00:23Z",
   "baseline": {
     "taken_at": "2026-11-25T14:00:19Z",
     "ranks": {
@@ -290,21 +290,6 @@
       "last_tg": "2026-11-25"
     },
     {
-      "profile_id": 5803221,
-      "tag": "Mahmoud Ahmadinejad",
-      "cur_1v1": 2197,
-      "max_1v1": 2255,
-      "cur_tg": 1618,
-      "max_tg": 1654,
-      "last_tg": "2026-11-22",
-      "last_1v1": "2026-11-26",
-      "live": {
-        "match": 523669729,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 757886,
       "tag": "DarK_KnighT_",
       "clan": "VN",
@@ -314,6 +299,16 @@
       "max_tg": 2050,
       "last_1v1": "2026-11-14",
       "last_tg": "2026-11-18"
+    },
+    {
+      "profile_id": 5803221,
+      "tag": "Mahmoud Ahmadinejad",
+      "cur_1v1": 2189,
+      "max_1v1": 2255,
+      "cur_tg": 1618,
+      "max_tg": 1654,
+      "last_tg": "2026-11-22",
+      "last_1v1": "2026-11-26"
     },
     {
       "profile_id": 2850920,
@@ -338,21 +333,10 @@
       "last_tg": "2026-11-25"
     },
     {
-      "profile_id": 1947348,
-      "tag": "themariach1",
-      "clan": "nW",
-      "cur_1v1": 2094,
-      "max_1v1": 2211,
-      "cur_tg": 1793,
-      "max_tg": 2034,
-      "last_1v1": "2026-07-08",
-      "last_tg": "2026-11-22"
-    },
-    {
       "profile_id": 917863,
       "tag": "Romell13",
       "clan": "hK",
-      "cur_1v1": 2080,
+      "cur_1v1": 2095,
       "max_1v1": 2233,
       "cur_tg": 1815,
       "max_tg": 1838,
@@ -363,6 +347,17 @@
         "game": "1v1 Random Map",
         "format": "1v1"
       }
+    },
+    {
+      "profile_id": 1947348,
+      "tag": "themariach1",
+      "clan": "nW",
+      "cur_1v1": 2094,
+      "max_1v1": 2211,
+      "cur_tg": 1793,
+      "max_tg": 2034,
+      "last_1v1": "2026-07-08",
+      "last_tg": "2026-11-22"
     },
     {
       "profile_id": 2934597,
@@ -534,6 +529,21 @@
       }
     },
     {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1950,
+      "max_1v1": 2003,
+      "cur_tg": 1574,
+      "max_tg": 1574,
+      "last_1v1": "2026-11-26",
+      "last_tg": "2026-11-23",
+      "live": {
+        "match": 523673740,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 467847,
       "tag": "DoN.Vergas",
       "cur_1v1": 1940,
@@ -557,21 +567,6 @@
         "match": 523671277,
         "game": "Team Random Map",
         "format": "4v4"
-      }
-    },
-    {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1931,
-      "max_1v1": 2003,
-      "cur_tg": 1574,
-      "max_tg": 1574,
-      "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-23",
-      "live": {
-        "match": 523673446,
-        "game": "1v1 Random Map",
-        "format": "1v1"
       }
     },
     {
