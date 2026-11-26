@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-26T00:15:12Z",
+  "updated_at": "2026-11-26T00:20:11Z",
   "baseline": {
     "taken_at": "2026-11-25T14:00:19Z",
     "ranks": {
@@ -112,14 +112,14 @@
       "profile_id": 2920057,
       "tag": "Lobo",
       "clan": "Ux",
-      "cur_1v1": 2589,
+      "cur_1v1": 2586,
       "max_1v1": 2703,
       "cur_tg": 2226,
       "max_tg": 2254,
       "last_1v1": "2026-11-26",
       "last_tg": "2026-11-25",
       "live": {
-        "match": 523666145,
+        "match": 523668596,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -466,22 +466,6 @@
       "last_1v1": "2026-11-23"
     },
     {
-      "profile_id": 2876835,
-      "tag": "Abejorro",
-      "clan": "nW",
-      "cur_1v1": 2000,
-      "max_1v1": 2152,
-      "cur_tg": 1805,
-      "max_tg": 1844,
-      "last_1v1": "2026-11-25",
-      "last_tg": "2026-11-21",
-      "live": {
-        "match": 523665337,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 278380,
       "tag": "Lemoine",
       "clan": "VL",
@@ -502,6 +486,22 @@
       "max_tg": 1750,
       "last_tg": "2026-11-22",
       "last_1v1": "2026-10-24"
+    },
+    {
+      "profile_id": 2876835,
+      "tag": "Abejorro",
+      "clan": "nW",
+      "cur_1v1": 1985,
+      "max_1v1": 2152,
+      "cur_tg": 1805,
+      "max_tg": 1844,
+      "last_1v1": "2026-11-26",
+      "last_tg": "2026-11-21",
+      "live": {
+        "match": 523668229,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 235877,
