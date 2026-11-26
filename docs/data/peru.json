@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-26T02:10:11Z",
+  "updated_at": "2026-11-26T02:15:10Z",
   "baseline": {
     "taken_at": "2026-11-25T14:00:19Z",
     "ranks": {
@@ -45,14 +45,14 @@
       "tag": "Dimo",
       "cur_1v1": 2612,
       "max_1v1": 2612,
-      "cur_tg": 1903,
+      "cur_tg": 1911,
       "max_tg": 1935,
       "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-24",
+      "last_tg": "2026-11-26",
       "live": {
-        "match": 523682375,
-        "game": "Team Random Map",
-        "format": "2v2"
+        "match": 523685075,
+        "game": "1v1 Random Map",
+        "format": "1v1"
       }
     },
     {
@@ -64,13 +64,7 @@
       "cur_tg": 1701,
       "max_tg": 1846,
       "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-25",
-      "live": {
-        "match": 523682375,
-        "game": "Team Random Map",
-        "format": "2v2",
-        "account": "LE | WilliamS"
-      }
+      "last_tg": "2026-11-25"
     },
     {
       "profile_id": 4706179,
@@ -172,9 +166,9 @@
       "last_1v1": "2026-11-21",
       "last_tg": "2026-11-23",
       "live": {
-        "match": 523683175,
+        "match": 523684728,
         "game": "Team Death Match",
-        "format": "4v4"
+        "format": "3v3"
       }
     },
     {
