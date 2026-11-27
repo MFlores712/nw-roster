@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-27T21:50:11Z",
+  "updated_at": "2026-11-27T21:55:10Z",
   "baseline": {
     "taken_at": "2026-11-27T14:00:17Z",
     "ranks": {
@@ -79,7 +79,12 @@
       "cur_tg": 1666,
       "max_tg": 1885,
       "last_1v1": "2026-11-27",
-      "last_tg": "2026-11-27"
+      "last_tg": "2026-11-27",
+      "live": {
+        "match": 524044750,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 13099159,
@@ -270,9 +275,20 @@
       "last_tg": "2026-11-26"
     },
     {
+      "profile_id": 757886,
+      "tag": "DarK_KnighT_",
+      "clan": "VN",
+      "cur_1v1": 2189,
+      "max_1v1": 2301,
+      "cur_tg": 1918,
+      "max_tg": 2050,
+      "last_1v1": "2026-11-14",
+      "last_tg": "2026-11-18"
+    },
+    {
       "profile_id": 9031952,
       "tag": "ChossMx",
-      "cur_1v1": 2202,
+      "cur_1v1": 2180,
       "max_1v1": 2331,
       "cur_tg": 1931,
       "max_tg": 1995,
@@ -283,17 +299,6 @@
         "game": "1v1 Random Map",
         "format": "1v1"
       }
-    },
-    {
-      "profile_id": 757886,
-      "tag": "DarK_KnighT_",
-      "clan": "VN",
-      "cur_1v1": 2189,
-      "max_1v1": 2301,
-      "cur_tg": 1918,
-      "max_tg": 2050,
-      "last_1v1": "2026-11-14",
-      "last_tg": "2026-11-18"
     },
     {
       "profile_id": 2850920,
@@ -341,7 +346,13 @@
       "cur_tg": 1832,
       "max_tg": 1962,
       "last_1v1": "2026-11-17",
-      "last_tg": "2026-11-27"
+      "last_tg": "2026-11-27",
+      "live": {
+        "match": 524043918,
+        "game": "Team Random Map",
+        "format": "2v2",
+        "account": "Zoschenko17"
+      }
     },
     {
       "profile_id": 1947348,
