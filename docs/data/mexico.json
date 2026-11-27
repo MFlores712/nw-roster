@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-27T19:10:14Z",
+  "updated_at": "2026-11-27T19:15:12Z",
   "baseline": {
     "taken_at": "2026-11-27T14:00:17Z",
     "ranks": {
@@ -139,7 +139,13 @@
       "cur_tg": 2139,
       "max_tg": 2139,
       "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-21"
+      "last_tg": "2026-11-21",
+      "live": {
+        "match": 524011036,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "The_Fury"
+      }
     },
     {
       "profile_id": 2598146,
@@ -420,15 +426,10 @@
       "clan": "VN",
       "cur_1v1": 2017,
       "max_1v1": 2121,
-      "cur_tg": 1843,
+      "cur_tg": 1832,
       "max_tg": 1997,
       "last_1v1": "2026-11-27",
-      "last_tg": "2026-11-26",
-      "live": {
-        "match": 524008797,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-11-27"
     },
     {
       "profile_id": 2876835,
@@ -463,22 +464,6 @@
       "last_1v1": "2026-11-25"
     },
     {
-      "profile_id": 358501,
-      "tag": "El Claut_One",
-      "clan": "VENÓN",
-      "cur_1v1": 1996,
-      "max_1v1": 2115,
-      "cur_tg": 1749,
-      "max_tg": 1820,
-      "last_tg": "2026-11-23",
-      "last_1v1": "2026-11-27",
-      "live": {
-        "match": 524007162,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 6501299,
       "tag": "ShutAzarquay",
       "clan": "nW",
@@ -488,6 +473,22 @@
       "max_tg": 1750,
       "last_tg": "2026-11-22",
       "last_1v1": "2026-10-24"
+    },
+    {
+      "profile_id": 358501,
+      "tag": "El Claut_One",
+      "clan": "VENÓN",
+      "cur_1v1": 1977,
+      "max_1v1": 2115,
+      "cur_tg": 1749,
+      "max_tg": 1820,
+      "last_tg": "2026-11-23",
+      "last_1v1": "2026-11-27",
+      "live": {
+        "match": 524011519,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 235877,
