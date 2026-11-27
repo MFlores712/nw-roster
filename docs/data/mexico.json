@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-27T07:00:17Z",
+  "updated_at": "2026-11-27T07:10:11Z",
   "baseline": {
     "taken_at": "2026-11-26T14:00:19Z",
     "ranks": {
@@ -74,17 +74,12 @@
       "profile_id": 5984120,
       "tag": "Combitooo",
       "clan": "Ux",
-      "cur_1v1": 2700,
+      "cur_1v1": 2711,
       "max_1v1": 2790,
       "cur_tg": 1666,
       "max_tg": 1885,
       "last_1v1": "2026-11-27",
-      "last_tg": "2026-11-27",
-      "live": {
-        "match": 523911503,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-27"
     },
     {
       "profile_id": 13099159,
