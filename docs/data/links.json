@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T14:00:19Z",
+ "updated_at": "2026-11-27T14:00:17Z",
  "players": {
   "22889810": {
    "name": "Manuel",
@@ -452,8 +452,8 @@
      "id": 23101014,
      "hops": 1,
      "name": "hK | RanDoM",
-     "rating": 2305,
-     "last": "2026-11-25"
+     "rating": 2295,
+     "last": "2026-11-27"
     }
    ]
   },
@@ -471,8 +471,8 @@
      "id": 8448734,
      "hops": 1,
      "name": "The_Fury",
-     "rating": 2340,
-     "last": "2026-11-25"
+     "rating": 2308,
+     "last": "2026-11-27"
     }
    ]
   },
@@ -680,7 +680,7 @@
      "id": 5400817,
      "hops": 1,
      "name": "Volg",
-     "rating": 2232,
+     "rating": 2248,
      "last": "2026-11-26"
     },
     {
@@ -939,8 +939,8 @@
      "id": 14639916,
      "hops": 1,
      "name": "eFotboll",
-     "rating": 1888,
-     "last": "2026-11-26"
+     "rating": 1892,
+     "last": "2026-11-27"
     }
    ]
   },
@@ -1093,8 +1093,8 @@
      "id": 21433190,
      "hops": 2,
      "name": "ElMiauricho",
-     "rating": 2026,
-     "last": "2026-10-27"
+     "rating": 2035,
+     "last": "2026-11-27"
     }
    ]
   },
@@ -1376,8 +1376,8 @@
      "id": 4394494,
      "hops": 2,
      "name": "NuMa | Empire",
-     "rating": 1600,
-     "last": "2026-11-26"
+     "rating": 1606,
+     "last": "2026-11-27"
     },
     {
      "id": 11832036,
@@ -1647,8 +1647,8 @@
      "id": 10795310,
      "hops": 1,
      "name": "LE | WilliamS",
-     "rating": 2393,
-     "last": "2026-11-25"
+     "rating": 2428,
+     "last": "2026-11-27"
     }
    ]
   },
@@ -1659,8 +1659,8 @@
      "id": 3265324,
      "hops": 1,
      "name": "CTM | Lelouch ELO bajito",
-     "rating": 1938,
-     "last": "2026-11-25"
+     "rating": 1958,
+     "last": "2026-11-27"
     },
     {
      "id": 6387067,
@@ -1766,7 +1766,7 @@
     {
      "id": 19725840,
      "hops": 1,
-     "name": "CL_lorecs",
+     "name": "CL_lorecs_diavlo",
      "rating": 1899,
      "last": "2026-11-06"
     },
