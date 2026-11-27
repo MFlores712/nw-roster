@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-27T02:20:13Z",
+  "updated_at": "2026-11-27T02:25:18Z",
   "baseline": {
     "taken_at": "2026-11-26T14:00:19Z",
     "ranks": {
@@ -79,7 +79,12 @@
       "cur_tg": 1654,
       "max_tg": 1885,
       "last_1v1": "2026-11-27",
-      "last_tg": "2026-11-16"
+      "last_tg": "2026-11-16",
+      "live": {
+        "match": 523879124,
+        "game": "Unranked",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 13099159,
@@ -156,7 +161,12 @@
       "cur_tg": 1839,
       "max_tg": 1974,
       "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-26"
+      "last_tg": "2026-11-26",
+      "live": {
+        "match": 523879124,
+        "game": "Unranked",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2295504,
@@ -242,15 +252,10 @@
       "clan": "hK",
       "cur_1v1": 2253,
       "max_1v1": 2272,
-      "cur_tg": 1902,
+      "cur_tg": 1887,
       "max_tg": 2010,
       "last_1v1": "2026-11-27",
-      "last_tg": "2026-11-27",
-      "live": {
-        "match": 523875589,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-11-27"
     },
     {
       "profile_id": 4412109,
@@ -338,15 +343,10 @@
       "clan": "CL",
       "cur_1v1": 2103,
       "max_1v1": 2103,
-      "cur_tg": 1870,
+      "cur_tg": 1856,
       "max_tg": 1962,
       "last_1v1": "2026-11-17",
-      "last_tg": "2026-11-27",
-      "live": {
-        "match": 523875589,
-        "game": "Team Random Map",
-        "format": "3v3"
-      }
+      "last_tg": "2026-11-27"
     },
     {
       "profile_id": 1947348,
@@ -520,7 +520,13 @@
       "cur_tg": 1543,
       "max_tg": 1824,
       "last_tg": "2026-11-26",
-      "last_1v1": "2026-10-13"
+      "last_1v1": "2026-10-13",
+      "live": {
+        "match": 523879443,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "eFotboll"
+      }
     },
     {
       "profile_id": 467847,
@@ -598,7 +604,7 @@
       "last_tg": "2026-11-27",
       "last_1v1": "2026-10-16",
       "live": {
-        "match": 523876801,
+        "match": 523879902,
         "game": "Team Random Map",
         "format": "4v4"
       }
