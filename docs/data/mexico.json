@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-27T01:40:10Z",
+  "updated_at": "2026-11-27T01:45:16Z",
   "baseline": {
     "taken_at": "2026-11-26T14:00:19Z",
     "ranks": {
@@ -277,7 +277,12 @@
       "cur_tg": 1795,
       "max_tg": 2024,
       "last_1v1": "2026-11-27",
-      "last_tg": "2026-11-26"
+      "last_tg": "2026-11-26",
+      "live": {
+        "match": 523874141,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 9031952,
@@ -528,21 +533,6 @@
       "last_1v1": "2026-10-13"
     },
     {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1946,
-      "max_1v1": 2003,
-      "cur_tg": 1585,
-      "max_tg": 1585,
-      "last_1v1": "2026-11-27",
-      "last_tg": "2026-11-27",
-      "live": {
-        "match": 523870935,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 467847,
       "tag": "DoN.Vergas",
       "cur_1v1": 1940,
@@ -579,6 +569,16 @@
         "format": "4v4",
         "account": "[GDL]CemenTox"
       }
+    },
+    {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1928,
+      "max_1v1": 2003,
+      "cur_tg": 1585,
+      "max_tg": 1585,
+      "last_1v1": "2026-11-27",
+      "last_tg": "2026-11-27"
     },
     {
       "profile_id": 324005,
