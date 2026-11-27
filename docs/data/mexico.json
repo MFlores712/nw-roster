@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-27T02:10:12Z",
+  "updated_at": "2026-11-27T02:15:12Z",
   "baseline": {
     "taken_at": "2026-11-26T14:00:19Z",
     "ranks": {
@@ -96,17 +96,12 @@
       "profile_id": 2920057,
       "tag": "Lobo",
       "clan": "Ux",
-      "cur_1v1": 2621,
+      "cur_1v1": 2625,
       "max_1v1": 2703,
       "cur_tg": 2208,
       "max_tg": 2254,
       "last_1v1": "2026-11-27",
-      "last_tg": "2026-11-26",
-      "live": {
-        "match": 523875279,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-26"
     },
     {
       "profile_id": 9449579,
@@ -319,7 +314,12 @@
       "cur_tg": 1618,
       "max_tg": 1654,
       "last_tg": "2026-11-22",
-      "last_1v1": "2026-11-27"
+      "last_1v1": "2026-11-27",
+      "live": {
+        "match": 523878549,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 917863,
@@ -576,15 +576,10 @@
       "tag": "__Chino",
       "cur_1v1": 1928,
       "max_1v1": 2003,
-      "cur_tg": 1585,
+      "cur_tg": 1576,
       "max_tg": 1585,
       "last_1v1": "2026-11-27",
-      "last_tg": "2026-11-27",
-      "live": {
-        "match": 523874537,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-27"
     },
     {
       "profile_id": 324005,
