@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-27T21:30:14Z",
+  "updated_at": "2026-11-27T21:35:10Z",
   "baseline": {
     "taken_at": "2026-11-27T14:00:17Z",
     "ranks": {
@@ -272,17 +272,12 @@
     {
       "profile_id": 9031952,
       "tag": "ChossMx",
-      "cur_1v1": 2193,
+      "cur_1v1": 2202,
       "max_1v1": 2331,
       "cur_tg": 1931,
       "max_tg": 1995,
       "last_1v1": "2026-11-27",
-      "last_tg": "2026-11-26",
-      "live": {
-        "match": 524036699,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-26"
     },
     {
       "profile_id": 757886,
@@ -336,7 +331,13 @@
       "cur_tg": 1832,
       "max_tg": 1962,
       "last_1v1": "2026-11-17",
-      "last_tg": "2026-11-27"
+      "last_tg": "2026-11-27",
+      "live": {
+        "match": 524039987,
+        "game": "Team Random Map",
+        "format": "2v2",
+        "account": "Zoschenko17"
+      }
     },
     {
       "profile_id": 1947348,
