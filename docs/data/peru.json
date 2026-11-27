@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-27T22:15:11Z",
+  "updated_at": "2026-11-27T22:30:14Z",
   "baseline": {
     "taken_at": "2026-11-27T14:00:17Z",
     "ranks": {
@@ -56,7 +56,13 @@
       "cur_tg": 1701,
       "max_tg": 1846,
       "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-25"
+      "last_tg": "2026-11-25",
+      "live": {
+        "match": 524051750,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "LE | WilliamS"
+      }
     },
     {
       "profile_id": 4706179,
@@ -123,6 +129,17 @@
       "last_1v1": "2026-09-24"
     },
     {
+      "profile_id": 4229962,
+      "tag": "Réyiman",
+      "clan": "LvSP",
+      "cur_1v1": 2007,
+      "max_1v1": 2139,
+      "cur_tg": 1442,
+      "max_tg": 1719,
+      "last_1v1": "2026-11-27",
+      "last_tg": "2026-11-27"
+    },
+    {
       "profile_id": 633255,
       "tag": "Tempo",
       "cur_1v1": 1998,
@@ -131,22 +148,6 @@
       "max_tg": 1843,
       "last_1v1": "2026-11-27",
       "last_tg": "2026-11-23"
-    },
-    {
-      "profile_id": 4229962,
-      "tag": "Réyiman",
-      "clan": "LvSP",
-      "cur_1v1": 1984,
-      "max_1v1": 2139,
-      "cur_tg": 1442,
-      "max_tg": 1719,
-      "last_1v1": "2026-11-27",
-      "last_tg": "2026-11-27",
-      "live": {
-        "match": 524048268,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 2366434,
@@ -219,17 +220,12 @@
       "profile_id": 4167535,
       "tag": "Dia franptom",
       "clan": "LE",
-      "cur_1v1": 1883,
+      "cur_1v1": 1865,
       "max_1v1": 2001,
       "cur_tg": 1438,
       "max_tg": 1581,
       "last_1v1": "2026-11-27",
-      "last_tg": "2026-11-19",
-      "live": {
-        "match": 524044499,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-19"
     }
   ],
   "show_top": 15
