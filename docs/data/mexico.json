@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-27T02:35:15Z",
+  "updated_at": "2026-11-27T02:45:15Z",
   "baseline": {
     "taken_at": "2026-11-26T14:00:19Z",
     "ranks": {
@@ -525,13 +525,7 @@
       "cur_tg": 1543,
       "max_tg": 1824,
       "last_tg": "2026-11-26",
-      "last_1v1": "2026-10-13",
-      "live": {
-        "match": 523879443,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "eFotboll"
-      }
+      "last_1v1": "2026-10-13"
     },
     {
       "profile_id": 467847,
