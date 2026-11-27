@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-27T00:30:13Z",
+  "updated_at": "2026-11-27T00:35:16Z",
   "baseline": {
     "taken_at": "2026-11-26T14:00:19Z",
     "ranks": {
@@ -74,17 +74,12 @@
       "profile_id": 5984120,
       "tag": "Combitooo",
       "clan": "Ux",
-      "cur_1v1": 2693,
+      "cur_1v1": 2696,
       "max_1v1": 2790,
       "cur_tg": 1654,
       "max_tg": 1885,
       "last_1v1": "2026-11-27",
-      "last_tg": "2026-11-16",
-      "live": {
-        "match": 523862004,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-16"
     },
     {
       "profile_id": 13099159,
@@ -101,14 +96,14 @@
       "profile_id": 2920057,
       "tag": "Lobo",
       "clan": "Ux",
-      "cur_1v1": 2611,
+      "cur_1v1": 2630,
       "max_1v1": 2703,
       "cur_tg": 2208,
       "max_tg": 2254,
       "last_1v1": "2026-11-27",
       "last_tg": "2026-11-26",
       "live": {
-        "match": 523860934,
+        "match": 523864604,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -199,13 +194,7 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 523862400,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "hK | RanDoM"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 12723994,
@@ -261,7 +250,12 @@
       "cur_tg": 1918,
       "max_tg": 2010,
       "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-26"
+      "last_tg": "2026-11-26",
+      "live": {
+        "match": 523864304,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 4412109,
@@ -444,7 +438,12 @@
       "cur_tg": 1805,
       "max_tg": 1844,
       "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-21"
+      "last_tg": "2026-11-21",
+      "live": {
+        "match": 523864186,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 278380,
