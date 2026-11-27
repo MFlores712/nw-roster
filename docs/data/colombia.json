@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-27T02:40:11Z",
+  "updated_at": "2026-11-27T02:55:10Z",
   "baseline": {
     "taken_at": "2026-11-26T14:00:19Z",
     "ranks": {
@@ -170,7 +170,7 @@
       "clan": "AiM",
       "cur_1v1": 1859,
       "max_1v1": 1903,
-      "cur_tg": 1345,
+      "cur_tg": 1361,
       "max_tg": 1630,
       "last_1v1": "2026-11-26",
       "last_tg": "2026-11-27",
