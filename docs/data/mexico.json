@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-27T01:50:12Z",
+  "updated_at": "2026-11-27T01:55:16Z",
   "baseline": {
     "taken_at": "2026-11-26T14:00:19Z",
     "ranks": {
@@ -101,7 +101,12 @@
       "cur_tg": 2208,
       "max_tg": 2254,
       "last_1v1": "2026-11-27",
-      "last_tg": "2026-11-26"
+      "last_tg": "2026-11-26",
+      "live": {
+        "match": 523875279,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 9449579,
@@ -245,7 +250,12 @@
       "cur_tg": 1902,
       "max_tg": 2010,
       "last_1v1": "2026-11-27",
-      "last_tg": "2026-11-27"
+      "last_tg": "2026-11-27",
+      "live": {
+        "match": 523875589,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 4412109,
@@ -336,7 +346,12 @@
       "cur_tg": 1870,
       "max_tg": 1962,
       "last_1v1": "2026-11-17",
-      "last_tg": "2026-11-27"
+      "last_tg": "2026-11-27",
+      "live": {
+        "match": 523875589,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 1947348,
@@ -515,7 +530,13 @@
       "cur_tg": 1543,
       "max_tg": 1824,
       "last_tg": "2026-11-26",
-      "last_1v1": "2026-10-13"
+      "last_1v1": "2026-10-13",
+      "live": {
+        "match": 523875345,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "eFotboll"
+      }
     },
     {
       "profile_id": 467847,
@@ -593,15 +614,10 @@
       "clan": "Ux",
       "cur_1v1": 1909,
       "max_1v1": 1909,
-      "cur_tg": 1701,
+      "cur_tg": 1682,
       "max_tg": 1805,
-      "last_tg": "2026-11-25",
-      "last_1v1": "2026-10-16",
-      "live": {
-        "match": 523871696,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-27",
+      "last_1v1": "2026-10-16"
     },
     {
       "profile_id": 2926018,
