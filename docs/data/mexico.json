@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-27T20:05:11Z",
+  "updated_at": "2026-11-27T20:10:12Z",
   "baseline": {
     "taken_at": "2026-11-27T14:00:17Z",
     "ranks": {
@@ -134,13 +134,7 @@
       "cur_tg": 2139,
       "max_tg": 2139,
       "last_1v1": "2026-11-15",
-      "last_tg": "2026-11-21",
-      "live": {
-        "match": 524017991,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "The_Fury"
-      }
+      "last_tg": "2026-11-21"
     },
     {
       "profile_id": 2598146,
@@ -282,6 +276,16 @@
       "last_tg": "2026-11-26"
     },
     {
+      "profile_id": 9031952,
+      "tag": "ChossMx",
+      "cur_1v1": 2198,
+      "max_1v1": 2331,
+      "cur_tg": 1931,
+      "max_tg": 1995,
+      "last_1v1": "2026-11-27",
+      "last_tg": "2026-11-26"
+    },
+    {
       "profile_id": 757886,
       "tag": "DarK_KnighT_",
       "clan": "VN",
@@ -291,21 +295,6 @@
       "max_tg": 2050,
       "last_1v1": "2026-11-14",
       "last_tg": "2026-11-18"
-    },
-    {
-      "profile_id": 9031952,
-      "tag": "ChossMx",
-      "cur_1v1": 2179,
-      "max_1v1": 2331,
-      "cur_tg": 1931,
-      "max_tg": 1995,
-      "last_1v1": "2026-11-27",
-      "last_tg": "2026-11-26",
-      "live": {
-        "match": 524016955,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 2850920,
@@ -321,14 +310,14 @@
     {
       "profile_id": 5803221,
       "tag": "Mahmoud Ahmadinejad",
-      "cur_1v1": 2142,
+      "cur_1v1": 2123,
       "max_1v1": 2255,
       "cur_tg": 1618,
       "max_tg": 1654,
       "last_tg": "2026-11-22",
       "last_1v1": "2026-11-27",
       "live": {
-        "match": 524018254,
+        "match": 524022800,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -480,6 +469,17 @@
       "last_1v1": "2026-10-24"
     },
     {
+      "profile_id": 358501,
+      "tag": "El Claut_One",
+      "clan": "VENÓN",
+      "cur_1v1": 1970,
+      "max_1v1": 2115,
+      "cur_tg": 1749,
+      "max_tg": 1820,
+      "last_tg": "2026-11-23",
+      "last_1v1": "2026-11-27"
+    },
+    {
       "profile_id": 235877,
       "tag": "AsMelodiant",
       "clan": "VENÓN",
@@ -511,22 +511,6 @@
       "max_tg": 1824,
       "last_1v1": "2026-10-25",
       "last_tg": "2026-11-21"
-    },
-    {
-      "profile_id": 358501,
-      "tag": "El Claut_One",
-      "clan": "VENÓN",
-      "cur_1v1": 1957,
-      "max_1v1": 2115,
-      "cur_tg": 1749,
-      "max_tg": 1820,
-      "last_tg": "2026-11-23",
-      "last_1v1": "2026-11-27",
-      "live": {
-        "match": 524016922,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 2986966,
