@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-27T00:55:09Z",
+  "updated_at": "2026-11-27T01:00:18Z",
   "baseline": {
     "taken_at": "2026-11-26T14:00:19Z",
     "ranks": {
@@ -96,14 +96,14 @@
       "profile_id": 2920057,
       "tag": "Lobo",
       "clan": "Ux",
-      "cur_1v1": 2630,
+      "cur_1v1": 2615,
       "max_1v1": 2703,
       "cur_tg": 2208,
       "max_tg": 2254,
       "last_1v1": "2026-11-27",
       "last_tg": "2026-11-26",
       "live": {
-        "match": 523864604,
+        "match": 523867854,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -547,7 +547,13 @@
       "cur_tg": 1820,
       "max_tg": 1821,
       "last_tg": "2026-10-16",
-      "last_1v1": "2026-09-18"
+      "last_1v1": "2026-09-18",
+      "live": {
+        "match": 523866431,
+        "game": "Unranked",
+        "format": "4v4",
+        "account": "[GDL]CemenTox"
+      }
     },
     {
       "profile_id": 3254820,
