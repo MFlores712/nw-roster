@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-27T18:50:12Z",
+  "updated_at": "2026-11-27T19:00:15Z",
   "baseline": {
     "taken_at": "2026-11-27T14:00:17Z",
     "ranks": {
@@ -136,17 +136,12 @@
     {
       "profile_id": 633255,
       "tag": "Tempo",
-      "cur_1v1": 1982,
+      "cur_1v1": 1998,
       "max_1v1": 2177,
       "cur_tg": 1686,
       "max_tg": 1843,
-      "last_1v1": "2026-11-21",
-      "last_tg": "2026-11-23",
-      "live": {
-        "match": 524002099,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-27",
+      "last_tg": "2026-11-23"
     },
     {
       "profile_id": 2366434,
