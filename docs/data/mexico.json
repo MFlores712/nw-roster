@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-27T21:25:11Z",
+  "updated_at": "2026-11-27T21:30:14Z",
   "baseline": {
     "taken_at": "2026-11-27T14:00:17Z",
     "ranks": {
@@ -218,17 +218,12 @@
       "profile_id": 1485562,
       "tag": "MrOsoVC8",
       "clan": "VENÓN",
-      "cur_1v1": 2266,
+      "cur_1v1": 2271,
       "max_1v1": 2394,
       "cur_tg": 1851,
       "max_tg": 2099,
       "last_1v1": "2026-11-27",
-      "last_tg": "2026-11-22",
-      "live": {
-        "match": 524032541,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-22"
     },
     {
       "profile_id": 13138746,
@@ -341,13 +336,7 @@
       "cur_tg": 1832,
       "max_tg": 1962,
       "last_1v1": "2026-11-17",
-      "last_tg": "2026-11-27",
-      "live": {
-        "match": 524035207,
-        "game": "Team Random Map",
-        "format": "2v2",
-        "account": "Zoschenko17"
-      }
+      "last_tg": "2026-11-27"
     },
     {
       "profile_id": 1947348,
