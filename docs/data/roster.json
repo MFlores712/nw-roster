@@ -1,6 +1,6 @@
 {
   "name": "new Wave",
-  "updated_at": "2026-11-27T01:45:16Z",
+  "updated_at": "2026-11-27T02:00:14Z",
   "baseline": {
     "taken_at": "2026-11-26T14:00:19Z",
     "ranks": {
@@ -42,17 +42,12 @@
       "profile_id": 914665,
       "tag": "Caguamas",
       "country": "Mexico",
-      "cur_1v1": 2220,
+      "cur_1v1": 2228,
       "max_1v1": 2289,
       "cur_tg": 1795,
       "max_tg": 2024,
       "last_1v1": "2026-11-27",
-      "last_tg": "2026-11-26",
-      "live": {
-        "match": 523874141,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-26"
     },
     {
       "profile_id": 1947348,
