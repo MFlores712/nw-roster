@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-27T05:15:10Z",
+  "updated_at": "2026-11-27T05:20:17Z",
   "baseline": {
     "taken_at": "2026-11-26T14:00:19Z",
     "ranks": {
@@ -76,7 +76,7 @@
       "clan": "Ux",
       "cur_1v1": 2700,
       "max_1v1": 2790,
-      "cur_tg": 1674,
+      "cur_tg": 1651,
       "max_tg": 1885,
       "last_1v1": "2026-11-27",
       "last_tg": "2026-11-27"
@@ -271,22 +271,6 @@
       "last_tg": "2026-11-27"
     },
     {
-      "profile_id": 914665,
-      "tag": "Caguamas",
-      "clan": "nW",
-      "cur_1v1": 2240,
-      "max_1v1": 2289,
-      "cur_tg": 1795,
-      "max_tg": 2024,
-      "last_1v1": "2026-11-27",
-      "last_tg": "2026-11-26",
-      "live": {
-        "match": 523900942,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 4412109,
       "tag": "HGB",
       "clan": "hK",
@@ -296,6 +280,17 @@
       "max_tg": 2122,
       "last_1v1": "2026-11-27",
       "last_tg": "2026-11-21"
+    },
+    {
+      "profile_id": 914665,
+      "tag": "Caguamas",
+      "clan": "nW",
+      "cur_1v1": 2236,
+      "max_1v1": 2289,
+      "cur_tg": 1795,
+      "max_tg": 2024,
+      "last_1v1": "2026-11-27",
+      "last_tg": "2026-11-26"
     },
     {
       "profile_id": 9031952,
@@ -494,7 +489,12 @@
       "cur_tg": 1805,
       "max_tg": 1844,
       "last_1v1": "2026-11-27",
-      "last_tg": "2026-11-21"
+      "last_tg": "2026-11-21",
+      "live": {
+        "match": 523901909,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 235877,
