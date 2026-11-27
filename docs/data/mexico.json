@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-27T15:15:15Z",
+  "updated_at": "2026-11-27T15:20:12Z",
   "baseline": {
     "taken_at": "2026-11-27T14:00:17Z",
     "ranks": {
@@ -461,12 +461,17 @@
       "profile_id": 358501,
       "tag": "El Claut_One",
       "clan": "VENÓN",
-      "cur_1v1": 1972,
+      "cur_1v1": 1989,
       "max_1v1": 2115,
       "cur_tg": 1749,
       "max_tg": 1820,
       "last_tg": "2026-11-23",
-      "last_1v1": "2026-11-27"
+      "last_1v1": "2026-11-27",
+      "live": {
+        "match": 523967770,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 235877,
