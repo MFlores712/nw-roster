@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-27T23:40:16Z",
+  "updated_at": "2026-11-27T23:45:17Z",
   "baseline": {
     "taken_at": "2026-11-27T14:00:17Z",
     "ranks": {
@@ -159,22 +159,6 @@
       "last_tg": "2026-11-26"
     },
     {
-      "profile_id": 310739,
-      "tag": "Don Tonayán",
-      "clan": "hK",
-      "cur_1v1": 2386,
-      "max_1v1": 2484,
-      "cur_tg": 1806,
-      "max_tg": 1959,
-      "last_1v1": "2026-11-27",
-      "last_tg": "2026-11-26",
-      "live": {
-        "match": 524062205,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 2295504,
       "tag": "Eren",
       "clan": "hK",
@@ -186,6 +170,22 @@
       "last_tg": "2026-10-14"
     },
     {
+      "profile_id": 310739,
+      "tag": "Don Tonayán",
+      "clan": "hK",
+      "cur_1v1": 2369,
+      "max_1v1": 2484,
+      "cur_tg": 1806,
+      "max_tg": 1959,
+      "last_1v1": "2026-11-27",
+      "last_tg": "2026-11-26",
+      "live": {
+        "match": 524065445,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 312774,
       "tag": "Keno_",
       "clan": "hK",
@@ -194,13 +194,7 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 524061143,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "hK | RanDoM"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 12723994,
@@ -341,7 +335,13 @@
       "cur_tg": 1618,
       "max_tg": 1654,
       "last_tg": "2026-11-22",
-      "last_1v1": "2026-11-27"
+      "last_1v1": "2026-11-27",
+      "live": {
+        "match": 524064575,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "emmanueldltq08"
+      }
     },
     {
       "profile_id": 9770338,
