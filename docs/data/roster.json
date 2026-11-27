@@ -1,6 +1,6 @@
 {
   "name": "new Wave",
-  "updated_at": "2026-11-27T03:50:15Z",
+  "updated_at": "2026-11-27T04:05:09Z",
   "baseline": {
     "taken_at": "2026-11-26T14:00:19Z",
     "ranks": {
@@ -66,6 +66,17 @@
       "last_tg": "2026-11-22"
     },
     {
+      "profile_id": 2934597,
+      "tag": "Sgt.Pepper",
+      "country": "Mexico",
+      "cur_1v1": 2090,
+      "max_1v1": 2210,
+      "cur_tg": 1729,
+      "max_tg": 1747,
+      "last_1v1": "2026-11-27",
+      "last_tg": "2026-11-24"
+    },
+    {
       "profile_id": 1359694,
       "tag": "AtilA",
       "country": "Peru",
@@ -77,38 +88,6 @@
       "last_1v1": "2026-11-25"
     },
     {
-      "profile_id": 2934597,
-      "tag": "Sgt.Pepper",
-      "country": "Mexico",
-      "cur_1v1": 2078,
-      "max_1v1": 2210,
-      "cur_tg": 1729,
-      "max_tg": 1747,
-      "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-24",
-      "live": {
-        "match": 523890977,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
-      "profile_id": 2876835,
-      "tag": "Abejorro",
-      "country": "Mexico",
-      "cur_1v1": 1992,
-      "max_1v1": 2152,
-      "cur_tg": 1805,
-      "max_tg": 1844,
-      "last_1v1": "2026-11-27",
-      "last_tg": "2026-11-21",
-      "live": {
-        "match": 523890977,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 6501299,
       "tag": "ShutAzarquay",
       "country": "Mexico",
@@ -118,6 +97,17 @@
       "max_tg": 1750,
       "last_tg": "2026-11-22",
       "last_1v1": "2026-10-24"
+    },
+    {
+      "profile_id": 2876835,
+      "tag": "Abejorro",
+      "country": "Mexico",
+      "cur_1v1": 1980,
+      "max_1v1": 2152,
+      "cur_tg": 1805,
+      "max_tg": 1844,
+      "last_1v1": "2026-11-27",
+      "last_tg": "2026-11-21"
     }
   ]
 }
