@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-27T01:00:18Z",
+  "updated_at": "2026-11-27T01:05:10Z",
   "baseline": {
     "taken_at": "2026-11-26T14:00:19Z",
     "ranks": {
@@ -79,7 +79,12 @@
       "cur_tg": 1654,
       "max_tg": 1885,
       "last_1v1": "2026-11-27",
-      "last_tg": "2026-11-16"
+      "last_tg": "2026-11-16",
+      "live": {
+        "match": 523868400,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 13099159,
@@ -438,7 +443,12 @@
       "cur_tg": 1843,
       "max_tg": 1997,
       "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-26"
+      "last_tg": "2026-11-26",
+      "live": {
+        "match": 523868441,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 278380,
@@ -518,6 +528,16 @@
       "last_1v1": "2026-10-13"
     },
     {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1946,
+      "max_1v1": 2003,
+      "cur_tg": 1585,
+      "max_tg": 1585,
+      "last_1v1": "2026-11-27",
+      "last_tg": "2026-11-27"
+    },
+    {
       "profile_id": 467847,
       "tag": "DoN.Vergas",
       "cur_1v1": 1940,
@@ -556,21 +576,6 @@
       }
     },
     {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1930,
-      "max_1v1": 2003,
-      "cur_tg": 1585,
-      "max_tg": 1585,
-      "last_1v1": "2026-11-27",
-      "last_tg": "2026-11-27",
-      "live": {
-        "match": 523865613,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 324005,
       "tag": "Dry",
       "clan": "VN",
@@ -581,9 +586,9 @@
       "last_1v1": "2026-09-24",
       "last_tg": "2026-11-26",
       "live": {
-        "match": 523863624,
+        "match": 523868219,
         "game": "Team Random Map",
-        "format": "3v3",
+        "format": "4v4",
         "account": "EXILE | Don MessiRonaldo"
       }
     },
