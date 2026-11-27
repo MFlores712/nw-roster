@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-27T22:45:11Z",
+  "updated_at": "2026-11-27T22:50:12Z",
   "baseline": {
     "taken_at": "2026-11-27T14:00:17Z",
     "ranks": {
@@ -185,14 +185,14 @@
       "profile_id": 310739,
       "tag": "Don Tonayán",
       "clan": "hK",
-      "cur_1v1": 2362,
+      "cur_1v1": 2369,
       "max_1v1": 2484,
       "cur_tg": 1806,
       "max_tg": 1959,
-      "last_1v1": "2026-11-26",
+      "last_1v1": "2026-11-27",
       "last_tg": "2026-11-26",
       "live": {
-        "match": 524051479,
+        "match": 524055799,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -478,17 +478,12 @@
       "profile_id": 358501,
       "tag": "El Claut_One",
       "clan": "VENÓN",
-      "cur_1v1": 1970,
+      "cur_1v1": 1984,
       "max_1v1": 2115,
       "cur_tg": 1749,
       "max_tg": 1820,
       "last_tg": "2026-11-23",
-      "last_1v1": "2026-11-27",
-      "live": {
-        "match": 524051145,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-27"
     },
     {
       "profile_id": 235877,
