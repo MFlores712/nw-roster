@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-27T22:10:12Z",
+  "updated_at": "2026-11-27T22:15:11Z",
   "baseline": {
     "taken_at": "2026-11-27T14:00:17Z",
     "ranks": {
@@ -56,13 +56,7 @@
       "cur_tg": 1701,
       "max_tg": 1846,
       "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-25",
-      "live": {
-        "match": 524041473,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "LE | WilliamS"
-      }
+      "last_tg": "2026-11-25"
     },
     {
       "profile_id": 4706179,
@@ -147,7 +141,12 @@
       "cur_tg": 1442,
       "max_tg": 1719,
       "last_1v1": "2026-11-27",
-      "last_tg": "2026-11-27"
+      "last_tg": "2026-11-27",
+      "live": {
+        "match": 524048268,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2366434,
@@ -196,6 +195,16 @@
       "last_1v1": "2026-10-01"
     },
     {
+      "profile_id": 3034651,
+      "tag": "KinG of QUILLA",
+      "cur_1v1": 1903,
+      "max_1v1": 2035,
+      "cur_tg": 1526,
+      "max_tg": 1657,
+      "last_1v1": "2026-11-27",
+      "last_tg": "2026-10-26"
+    },
+    {
       "profile_id": 1865687,
       "tag": "Pentrus",
       "clan": "CTM",
@@ -205,21 +214,6 @@
       "max_tg": 1608,
       "last_1v1": "2026-09-19",
       "last_tg": "2026-11-27"
-    },
-    {
-      "profile_id": 3034651,
-      "tag": "KinG of QUILLA",
-      "cur_1v1": 1890,
-      "max_1v1": 2035,
-      "cur_tg": 1526,
-      "max_tg": 1657,
-      "last_1v1": "2026-11-27",
-      "last_tg": "2026-10-26",
-      "live": {
-        "match": 524044273,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 4167535,
