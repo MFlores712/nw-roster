@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-28T05:05:11Z",
+  "updated_at": "2026-11-28T05:10:11Z",
   "baseline": {
     "taken_at": "2026-11-27T14:00:17Z",
     "ranks": {
@@ -112,13 +112,7 @@
       "cur_tg": 2208,
       "max_tg": 2254,
       "last_1v1": "2026-11-27",
-      "last_tg": "2026-11-26",
-      "live": {
-        "match": 524113767,
-        "game": "Team Random Map",
-        "format": "2v2",
-        "account": "Ux'Auu"
-      }
+      "last_tg": "2026-11-26"
     },
     {
       "profile_id": 401359,
@@ -507,15 +501,10 @@
       "clan": "VL",
       "cur_1v1": 1960,
       "max_1v1": 1960,
-      "cur_tg": 1665,
+      "cur_tg": 1677,
       "max_tg": 1824,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-11-28",
-      "live": {
-        "match": 524115927,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-28"
     },
     {
       "profile_id": 2986966,
@@ -558,13 +547,7 @@
       "cur_tg": 1820,
       "max_tg": 1821,
       "last_tg": "2026-10-16",
-      "last_1v1": "2026-09-18",
-      "live": {
-        "match": 524109692,
-        "game": "Unranked",
-        "format": "4v4",
-        "account": "[GDL]CemenTox"
-      }
+      "last_1v1": "2026-09-18"
     },
     {
       "profile_id": 324005,
