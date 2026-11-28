@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-28T04:10:11Z",
+  "updated_at": "2026-11-28T04:15:10Z",
   "baseline": {
     "taken_at": "2026-11-27T14:00:17Z",
     "ranks": {
@@ -570,7 +570,7 @@
       "last_tg": "2026-10-16",
       "last_1v1": "2026-09-18",
       "live": {
-        "match": 524106000,
+        "match": 524109692,
         "game": "Unranked",
         "format": "4v4",
         "account": "[GDL]CemenTox"
