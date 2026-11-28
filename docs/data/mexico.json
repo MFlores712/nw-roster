@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-28T02:20:11Z",
+  "updated_at": "2026-11-28T02:25:10Z",
   "baseline": {
     "taken_at": "2026-11-27T14:00:17Z",
     "ranks": {
@@ -335,13 +335,7 @@
       "cur_tg": 1618,
       "max_tg": 1654,
       "last_tg": "2026-11-22",
-      "last_1v1": "2026-11-27",
-      "live": {
-        "match": 524085665,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "emmanueldltq08"
-      }
+      "last_1v1": "2026-11-27"
     },
     {
       "profile_id": 9770338,
@@ -382,10 +376,10 @@
       "clan": "MZTK",
       "cur_1v1": 2073,
       "max_1v1": 2093,
-      "cur_tg": 1722,
+      "cur_tg": 1739,
       "max_tg": 1860,
       "last_1v1": "2026-11-25",
-      "last_tg": "2026-11-24",
+      "last_tg": "2026-11-28",
       "live": {
         "match": 524088191,
         "game": "Team Random Map",
