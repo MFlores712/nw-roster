@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-28T05:00:16Z",
+  "updated_at": "2026-11-28T05:05:11Z",
   "baseline": {
     "taken_at": "2026-11-27T14:00:17Z",
     "ranks": {
@@ -307,15 +307,10 @@
       "clan": "Ux",
       "cur_1v1": 2164,
       "max_1v1": 2176,
-      "cur_tg": 1586,
+      "cur_tg": 1569,
       "max_tg": 1820,
       "last_1v1": "2026-11-28",
-      "last_tg": "2026-11-28",
-      "live": {
-        "match": 524106308,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-28"
     },
     {
       "profile_id": 917863,
@@ -344,15 +339,10 @@
       "clan": "CL",
       "cur_1v1": 2103,
       "max_1v1": 2103,
-      "cur_tg": 1832,
+      "cur_tg": 1840,
       "max_tg": 1962,
       "last_1v1": "2026-11-17",
-      "last_tg": "2026-11-27",
-      "live": {
-        "match": 524112611,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-28"
     },
     {
       "profile_id": 1947348,
@@ -404,12 +394,12 @@
       "clan": "SotC",
       "cur_1v1": 2060,
       "max_1v1": 2098,
-      "cur_tg": 1747,
+      "cur_tg": 1729,
       "max_tg": 1870,
       "last_1v1": "2026-11-20",
-      "last_tg": "2026-11-27",
+      "last_tg": "2026-11-28",
       "live": {
-        "match": 524115043,
+        "match": 524117216,
         "game": "Team Random Map",
         "format": "4v4"
       }
