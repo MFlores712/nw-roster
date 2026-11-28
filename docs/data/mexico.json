@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-28T00:00:16Z",
+  "updated_at": "2026-11-28T00:05:11Z",
   "baseline": {
     "taken_at": "2026-11-27T14:00:17Z",
     "ranks": {
@@ -281,21 +281,6 @@
       "last_tg": "2026-11-26"
     },
     {
-      "profile_id": 9031952,
-      "tag": "ChossMx",
-      "cur_1v1": 2193,
-      "max_1v1": 2331,
-      "cur_tg": 1931,
-      "max_tg": 1995,
-      "last_1v1": "2026-11-27",
-      "last_tg": "2026-11-26",
-      "live": {
-        "match": 524062617,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 757886,
       "tag": "DarK_KnighT_",
       "clan": "VN",
@@ -305,6 +290,21 @@
       "max_tg": 2050,
       "last_1v1": "2026-11-14",
       "last_tg": "2026-11-18"
+    },
+    {
+      "profile_id": 9031952,
+      "tag": "ChossMx",
+      "cur_1v1": 2186,
+      "max_1v1": 2331,
+      "cur_tg": 1931,
+      "max_tg": 1995,
+      "last_1v1": "2026-11-28",
+      "last_tg": "2026-11-26",
+      "live": {
+        "match": 524068489,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2850920,
@@ -336,13 +336,7 @@
       "cur_tg": 1618,
       "max_tg": 1654,
       "last_tg": "2026-11-22",
-      "last_1v1": "2026-11-27",
-      "live": {
-        "match": 524064575,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "emmanueldltq08"
-      }
+      "last_1v1": "2026-11-27"
     },
     {
       "profile_id": 9770338,
