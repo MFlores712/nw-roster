@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-28T05:10:11Z",
+  "updated_at": "2026-11-28T05:15:18Z",
   "baseline": {
     "taken_at": "2026-11-27T14:00:17Z",
     "ranks": {
@@ -504,7 +504,12 @@
       "cur_tg": 1677,
       "max_tg": 1824,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-11-28"
+      "last_tg": "2026-11-28",
+      "live": {
+        "match": 524118591,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 2986966,
