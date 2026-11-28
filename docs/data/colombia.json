@@ -1,6 +1,6 @@
 {
   "name": "Colombia",
-  "updated_at": "2026-11-28T04:25:10Z",
+  "updated_at": "2026-11-28T04:45:11Z",
   "baseline": {
     "taken_at": "2026-11-27T14:00:17Z",
     "ranks": {
@@ -157,7 +157,13 @@
       "cur_tg": 1871,
       "max_tg": 1871,
       "last_tg": "2026-11-14",
-      "last_1v1": "2026-11-23"
+      "last_1v1": "2026-11-23",
+      "live": {
+        "match": 524114282,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "Tintin"
+      }
     },
     {
       "profile_id": 5981761,
