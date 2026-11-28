@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-28T02:10:12Z",
+  "updated_at": "2026-11-28T02:15:11Z",
   "baseline": {
     "taken_at": "2026-11-27T14:00:17Z",
     "ranks": {
@@ -525,13 +525,7 @@
       "cur_tg": 1673,
       "max_tg": 1824,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-11-21",
-      "live": {
-        "match": 524084667,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "jax_teller"
-      }
+      "last_tg": "2026-11-21"
     },
     {
       "profile_id": 2986966,
@@ -585,13 +579,7 @@
       "cur_tg": 1839,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-11-26",
-      "live": {
-        "match": 524084706,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "EXILE | Don MessiRonaldo"
-      }
+      "last_tg": "2026-11-26"
     },
     {
       "profile_id": 12472496,
@@ -599,15 +587,10 @@
       "clan": "Ux",
       "cur_1v1": 1909,
       "max_1v1": 1909,
-      "cur_tg": 1771,
+      "cur_tg": 1779,
       "max_tg": 1805,
       "last_tg": "2026-11-28",
-      "last_1v1": "2026-10-16",
-      "live": {
-        "match": 524084706,
-        "game": "Team Random Map",
-        "format": "4v4"
-      }
+      "last_1v1": "2026-10-16"
     },
     {
       "profile_id": 3254820,
