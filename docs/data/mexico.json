@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-28T03:25:09Z",
+  "updated_at": "2026-11-28T03:30:14Z",
   "baseline": {
     "taken_at": "2026-11-27T14:00:17Z",
     "ranks": {
@@ -156,7 +156,12 @@
       "cur_tg": 1880,
       "max_tg": 1974,
       "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-28"
+      "last_tg": "2026-11-28",
+      "live": {
+        "match": 524101213,
+        "game": "Unranked",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 2295504,
@@ -223,7 +228,12 @@
       "cur_tg": 1900,
       "max_tg": 2010,
       "last_1v1": "2026-11-28",
-      "last_tg": "2026-11-28"
+      "last_tg": "2026-11-28",
+      "live": {
+        "match": 524101213,
+        "game": "Unranked",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 1485562,
@@ -372,6 +382,17 @@
       "last_tg": "2026-11-28"
     },
     {
+      "profile_id": 2876835,
+      "tag": "Abejorro",
+      "clan": "nW",
+      "cur_1v1": 2070,
+      "max_1v1": 2152,
+      "cur_tg": 1805,
+      "max_tg": 1844,
+      "last_1v1": "2026-11-28",
+      "last_tg": "2026-11-21"
+    },
+    {
       "profile_id": 1261126,
       "tag": "Spirit",
       "clan": "SotC",
@@ -392,22 +413,6 @@
       "max_tg": 1919,
       "last_1v1": "2026-06-27",
       "last_tg": "2026-11-26"
-    },
-    {
-      "profile_id": 2876835,
-      "tag": "Abejorro",
-      "clan": "nW",
-      "cur_1v1": 2044,
-      "max_1v1": 2152,
-      "cur_tg": 1805,
-      "max_tg": 1844,
-      "last_1v1": "2026-11-28",
-      "last_tg": "2026-11-21",
-      "live": {
-        "match": 524099106,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 1708286,
@@ -449,12 +454,7 @@
       "cur_tg": 1701,
       "max_tg": 1865,
       "last_tg": "2026-11-28",
-      "last_1v1": "2026-11-25",
-      "live": {
-        "match": 524096486,
-        "game": "Unranked",
-        "format": "4v4"
-      }
+      "last_1v1": "2026-11-25"
     },
     {
       "profile_id": 6501299,
@@ -509,12 +509,7 @@
       "cur_tg": 1673,
       "max_tg": 1824,
       "last_1v1": "2026-10-25",
-      "last_tg": "2026-11-21",
-      "live": {
-        "match": 524096486,
-        "game": "Unranked",
-        "format": "4v4"
-      }
+      "last_tg": "2026-11-21"
     },
     {
       "profile_id": 2986966,
@@ -579,12 +574,7 @@
       "cur_tg": 1779,
       "max_tg": 1805,
       "last_tg": "2026-11-28",
-      "last_1v1": "2026-10-16",
-      "live": {
-        "match": 524096486,
-        "game": "Unranked",
-        "format": "4v4"
-      }
+      "last_1v1": "2026-10-16"
     },
     {
       "profile_id": 2926018,
