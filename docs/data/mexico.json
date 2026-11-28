@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-28T02:40:13Z",
+  "updated_at": "2026-11-28T02:45:12Z",
   "baseline": {
     "taken_at": "2026-11-27T14:00:17Z",
     "ranks": {
@@ -583,7 +583,13 @@
       "cur_tg": 1839,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-11-26"
+      "last_tg": "2026-11-26",
+      "live": {
+        "match": 524093997,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "EXILE | Don MessiRonaldo"
+      }
     },
     {
       "profile_id": 12472496,
@@ -615,17 +621,12 @@
     {
       "profile_id": 3254820,
       "tag": "__Chino",
-      "cur_1v1": 1889,
+      "cur_1v1": 1876,
       "max_1v1": 2003,
       "cur_tg": 1571,
       "max_tg": 1588,
       "last_1v1": "2026-11-28",
-      "last_tg": "2026-11-28",
-      "live": {
-        "match": 524090301,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-28"
     },
     {
       "profile_id": 13241217,
