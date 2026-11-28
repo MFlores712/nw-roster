@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-28T07:20:17Z",
+  "updated_at": "2026-11-28T07:50:12Z",
   "baseline": {
     "taken_at": "2026-11-27T14:00:17Z",
     "ranks": {
@@ -156,7 +156,13 @@
       "cur_tg": 1815,
       "max_tg": 1843,
       "last_tg": "2026-11-27",
-      "last_1v1": "2026-11-27"
+      "last_1v1": "2026-11-27",
+      "live": {
+        "match": 524136704,
+        "game": "Team Random Map",
+        "format": "4v4",
+        "account": "CTM | Lelouch Jogo Bonito"
+      }
     },
     {
       "profile_id": 13518993,
@@ -190,21 +196,6 @@
       "last_1v1": "2026-10-01"
     },
     {
-      "profile_id": 3034651,
-      "tag": "KinG of QUILLA",
-      "cur_1v1": 1903,
-      "max_1v1": 2035,
-      "cur_tg": 1526,
-      "max_tg": 1657,
-      "last_1v1": "2026-11-27",
-      "last_tg": "2026-10-26",
-      "live": {
-        "match": 524133723,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 4167535,
       "tag": "Dia franptom",
       "clan": "LE",
@@ -225,6 +216,21 @@
       "max_tg": 1608,
       "last_1v1": "2026-09-19",
       "last_tg": "2026-11-28"
+    },
+    {
+      "profile_id": 3034651,
+      "tag": "KinG of QUILLA",
+      "cur_1v1": 1894,
+      "max_1v1": 2035,
+      "cur_tg": 1526,
+      "max_tg": 1657,
+      "last_1v1": "2026-11-28",
+      "last_tg": "2026-10-26",
+      "live": {
+        "match": 524136728,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     }
   ],
   "show_top": 15
