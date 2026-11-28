@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-28T00:55:09Z",
+  "updated_at": "2026-11-28T01:00:14Z",
   "baseline": {
     "taken_at": "2026-11-27T14:00:17Z",
     "ranks": {
@@ -118,17 +118,12 @@
       "profile_id": 401359,
       "tag": "EnvyZ",
       "clan": "VENÓN",
-      "cur_1v1": 2507,
-      "max_1v1": 2512,
+      "cur_1v1": 2516,
+      "max_1v1": 2516,
       "cur_tg": 2114,
       "max_tg": 2190,
-      "last_1v1": "2026-11-12",
-      "last_tg": "2026-11-24",
-      "live": {
-        "match": 524074240,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-28",
+      "last_tg": "2026-11-24"
     },
     {
       "profile_id": 4221810,
@@ -293,7 +288,12 @@
       "cur_tg": 1931,
       "max_tg": 1995,
       "last_1v1": "2026-11-28",
-      "last_tg": "2026-11-26"
+      "last_tg": "2026-11-26",
+      "live": {
+        "match": 524076497,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 757886,
@@ -418,17 +418,12 @@
       "profile_id": 2876835,
       "tag": "Abejorro",
       "clan": "nW",
-      "cur_1v1": 2028,
+      "cur_1v1": 2041,
       "max_1v1": 2152,
       "cur_tg": 1805,
       "max_tg": 1844,
       "last_1v1": "2026-11-28",
-      "last_tg": "2026-11-21",
-      "live": {
-        "match": 524075237,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-21"
     },
     {
       "profile_id": 1249720,
@@ -526,7 +521,13 @@
       "cur_tg": 1543,
       "max_tg": 1824,
       "last_tg": "2026-11-26",
-      "last_1v1": "2026-10-13"
+      "last_1v1": "2026-10-13",
+      "live": {
+        "match": 524076660,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "eFotboll"
+      }
     },
     {
       "profile_id": 467847,
@@ -584,13 +585,7 @@
       "cur_tg": 1839,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-11-26",
-      "live": {
-        "match": 524074092,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "EXILE | Don MessiRonaldo"
-      }
+      "last_tg": "2026-11-26"
     },
     {
       "profile_id": 12472496,
