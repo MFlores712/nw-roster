@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-28T01:25:10Z",
+  "updated_at": "2026-11-28T01:30:21Z",
   "baseline": {
     "taken_at": "2026-11-27T14:00:17Z",
     "ranks": {
@@ -156,7 +156,12 @@
       "cur_tg": 1843,
       "max_tg": 1974,
       "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-28"
+      "last_tg": "2026-11-28",
+      "live": {
+        "match": 524081004,
+        "game": "Team Random Map",
+        "format": "3v3"
+      }
     },
     {
       "profile_id": 2295504,
@@ -223,7 +228,12 @@
       "cur_tg": 1851,
       "max_tg": 2099,
       "last_1v1": "2026-11-28",
-      "last_tg": "2026-11-22"
+      "last_tg": "2026-11-22",
+      "live": {
+        "match": 524081856,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 13138746,
@@ -567,21 +577,6 @@
       "last_1v1": "2026-09-18"
     },
     {
-      "profile_id": 3254820,
-      "tag": "__Chino",
-      "cur_1v1": 1915,
-      "max_1v1": 2003,
-      "cur_tg": 1571,
-      "max_tg": 1588,
-      "last_1v1": "2026-11-28",
-      "last_tg": "2026-11-28",
-      "live": {
-        "match": 524078425,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 324005,
       "tag": "Dry",
       "clan": "VN",
@@ -590,13 +585,7 @@
       "cur_tg": 1839,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-11-26",
-      "live": {
-        "match": 524077435,
-        "game": "Team Random Map",
-        "format": "3v3",
-        "account": "EXILE | Don MessiRonaldo"
-      }
+      "last_tg": "2026-11-26"
     },
     {
       "profile_id": 12472496,
@@ -624,6 +613,16 @@
       "max_tg": 1888,
       "last_1v1": "2026-11-26",
       "last_tg": "2026-11-24"
+    },
+    {
+      "profile_id": 3254820,
+      "tag": "__Chino",
+      "cur_1v1": 1895,
+      "max_1v1": 2003,
+      "cur_tg": 1571,
+      "max_tg": 1588,
+      "last_1v1": "2026-11-28",
+      "last_tg": "2026-11-28"
     },
     {
       "profile_id": 13241217,
