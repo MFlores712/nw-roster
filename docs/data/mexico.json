@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-28T00:20:12Z",
+  "updated_at": "2026-11-28T00:25:10Z",
   "baseline": {
     "taken_at": "2026-11-27T14:00:17Z",
     "ranks": {
@@ -229,7 +229,12 @@
       "cur_tg": 1851,
       "max_tg": 2099,
       "last_1v1": "2026-11-28",
-      "last_tg": "2026-11-22"
+      "last_tg": "2026-11-22",
+      "live": {
+        "match": 524071121,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 13138746,
@@ -289,14 +294,14 @@
     {
       "profile_id": 9031952,
       "tag": "ChossMx",
-      "cur_1v1": 2186,
+      "cur_1v1": 2176,
       "max_1v1": 2331,
       "cur_tg": 1931,
       "max_tg": 1995,
       "last_1v1": "2026-11-28",
       "last_tg": "2026-11-26",
       "live": {
-        "match": 524068489,
+        "match": 524071121,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
