@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-28T03:05:09Z",
+  "updated_at": "2026-11-28T03:10:11Z",
   "baseline": {
     "taken_at": "2026-11-27T14:00:17Z",
     "ranks": {
@@ -382,22 +382,6 @@
       "last_tg": "2026-11-28"
     },
     {
-      "profile_id": 2876835,
-      "tag": "Abejorro",
-      "clan": "nW",
-      "cur_1v1": 2061,
-      "max_1v1": 2152,
-      "cur_tg": 1805,
-      "max_tg": 1844,
-      "last_1v1": "2026-11-28",
-      "last_tg": "2026-11-21",
-      "live": {
-        "match": 524095283,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
-    },
-    {
       "profile_id": 1261126,
       "tag": "Spirit",
       "clan": "SotC",
@@ -420,6 +404,22 @@
       "last_tg": "2026-11-26"
     },
     {
+      "profile_id": 2876835,
+      "tag": "Abejorro",
+      "clan": "nW",
+      "cur_1v1": 2044,
+      "max_1v1": 2152,
+      "cur_tg": 1805,
+      "max_tg": 1844,
+      "last_1v1": "2026-11-28",
+      "last_tg": "2026-11-21",
+      "live": {
+        "match": 524099106,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
+    },
+    {
       "profile_id": 1708286,
       "tag": "IamAlextremo",
       "cur_1v1": 2044,
@@ -433,17 +433,12 @@
       "profile_id": 1249720,
       "tag": "Lice_Slide",
       "clan": "VN",
-      "cur_1v1": 2017,
+      "cur_1v1": 2023,
       "max_1v1": 2121,
       "cur_tg": 1823,
       "max_tg": 1997,
-      "last_1v1": "2026-11-27",
-      "last_tg": "2026-11-27",
-      "live": {
-        "match": 524093801,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-28",
+      "last_tg": "2026-11-27"
     },
     {
       "profile_id": 2291749,
