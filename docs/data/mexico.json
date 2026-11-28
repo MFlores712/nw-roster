@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-28T06:25:10Z",
+  "updated_at": "2026-11-28T06:30:15Z",
   "baseline": {
     "taken_at": "2026-11-27T14:00:17Z",
     "ranks": {
@@ -497,7 +497,7 @@
       "clan": "VL",
       "cur_1v1": 1960,
       "max_1v1": 1960,
-      "cur_tg": 1684,
+      "cur_tg": 1701,
       "max_tg": 1824,
       "last_1v1": "2026-10-25",
       "last_tg": "2026-11-28",
