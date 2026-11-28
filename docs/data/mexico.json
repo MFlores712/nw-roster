@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-28T00:45:11Z",
+  "updated_at": "2026-11-28T00:50:19Z",
   "baseline": {
     "taken_at": "2026-11-27T14:00:17Z",
     "ranks": {
@@ -194,7 +194,13 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24"
+      "last_1v1": "2026-10-24",
+      "live": {
+        "match": 524075094,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "hK | RanDoM"
+      }
     },
     {
       "profile_id": 12723994,
@@ -223,17 +229,12 @@
       "profile_id": 1485562,
       "tag": "MrOsoVC8",
       "clan": "VENÓN",
-      "cur_1v1": 2283,
+      "cur_1v1": 2262,
       "max_1v1": 2394,
       "cur_tg": 1851,
       "max_tg": 2099,
       "last_1v1": "2026-11-28",
-      "last_tg": "2026-11-22",
-      "live": {
-        "match": 524071121,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_tg": "2026-11-22"
     },
     {
       "profile_id": 13138746,
@@ -280,6 +281,16 @@
       "last_tg": "2026-11-26"
     },
     {
+      "profile_id": 9031952,
+      "tag": "ChossMx",
+      "cur_1v1": 2197,
+      "max_1v1": 2331,
+      "cur_tg": 1931,
+      "max_tg": 1995,
+      "last_1v1": "2026-11-28",
+      "last_tg": "2026-11-26"
+    },
+    {
       "profile_id": 757886,
       "tag": "DarK_KnighT_",
       "clan": "VN",
@@ -289,21 +300,6 @@
       "max_tg": 2050,
       "last_1v1": "2026-11-14",
       "last_tg": "2026-11-18"
-    },
-    {
-      "profile_id": 9031952,
-      "tag": "ChossMx",
-      "cur_1v1": 2176,
-      "max_1v1": 2331,
-      "cur_tg": 1931,
-      "max_tg": 1995,
-      "last_1v1": "2026-11-28",
-      "last_tg": "2026-11-26",
-      "live": {
-        "match": 524071121,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
     },
     {
       "profile_id": 2850920,
@@ -417,14 +413,14 @@
       "profile_id": 2876835,
       "tag": "Abejorro",
       "clan": "nW",
-      "cur_1v1": 2039,
+      "cur_1v1": 2028,
       "max_1v1": 2152,
       "cur_tg": 1805,
       "max_tg": 1844,
-      "last_1v1": "2026-11-27",
+      "last_1v1": "2026-11-28",
       "last_tg": "2026-11-21",
       "live": {
-        "match": 524072689,
+        "match": 524075237,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
@@ -573,7 +569,12 @@
       "cur_tg": 1571,
       "max_tg": 1588,
       "last_1v1": "2026-11-27",
-      "last_tg": "2026-11-28"
+      "last_tg": "2026-11-28",
+      "live": {
+        "match": 524075325,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 324005,
