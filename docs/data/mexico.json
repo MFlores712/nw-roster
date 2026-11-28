@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-28T00:35:09Z",
+  "updated_at": "2026-11-28T00:45:11Z",
   "baseline": {
     "taken_at": "2026-11-27T14:00:17Z",
     "ranks": {
@@ -123,7 +123,12 @@
       "cur_tg": 2114,
       "max_tg": 2190,
       "last_1v1": "2026-11-12",
-      "last_tg": "2026-11-24"
+      "last_tg": "2026-11-24",
+      "live": {
+        "match": 524074240,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 4221810,
@@ -189,13 +194,7 @@
       "cur_tg": 1830,
       "max_tg": 2072,
       "last_tg": "2026-10-26",
-      "last_1v1": "2026-10-24",
-      "live": {
-        "match": 524070858,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "hK | RanDoM"
-      }
+      "last_1v1": "2026-10-24"
     },
     {
       "profile_id": 12723994,
@@ -526,7 +525,13 @@
       "cur_tg": 1543,
       "max_tg": 1824,
       "last_tg": "2026-11-26",
-      "last_1v1": "2026-10-13"
+      "last_1v1": "2026-10-13",
+      "live": {
+        "match": 524074151,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "eFotboll"
+      }
     },
     {
       "profile_id": 467847,
@@ -565,15 +570,10 @@
       "tag": "__Chino",
       "cur_1v1": 1928,
       "max_1v1": 2003,
-      "cur_tg": 1588,
+      "cur_tg": 1571,
       "max_tg": 1588,
       "last_1v1": "2026-11-27",
-      "last_tg": "2026-11-27",
-      "live": {
-        "match": 524072370,
-        "game": "Team Random Map",
-        "format": "2v2"
-      }
+      "last_tg": "2026-11-28"
     },
     {
       "profile_id": 324005,
@@ -584,7 +584,13 @@
       "cur_tg": 1839,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-11-26"
+      "last_tg": "2026-11-26",
+      "live": {
+        "match": 524074092,
+        "game": "1v1 Random Map",
+        "format": "1v1",
+        "account": "EXILE | Don MessiRonaldo"
+      }
     },
     {
       "profile_id": 12472496,
