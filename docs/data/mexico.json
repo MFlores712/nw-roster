@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-28T01:00:14Z",
+  "updated_at": "2026-11-28T01:05:16Z",
   "baseline": {
     "taken_at": "2026-11-27T14:00:17Z",
     "ranks": {
@@ -585,7 +585,13 @@
       "cur_tg": 1839,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-11-26"
+      "last_tg": "2026-11-26",
+      "live": {
+        "match": 524077435,
+        "game": "Team Random Map",
+        "format": "3v3",
+        "account": "EXILE | Don MessiRonaldo"
+      }
     },
     {
       "profile_id": 12472496,
