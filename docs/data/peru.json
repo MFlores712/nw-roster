@@ -1,6 +1,6 @@
 {
   "name": "Perú",
-  "updated_at": "2026-11-28T16:55:13Z",
+  "updated_at": "2026-11-28T17:00:16Z",
   "baseline": {
     "taken_at": "2026-11-28T14:00:15Z",
     "ranks": {
@@ -169,6 +169,16 @@
       "last_1v1": "2026-11-28"
     },
     {
+      "profile_id": 4234652,
+      "tag": "_The_Oldergold",
+      "cur_1v1": 1959,
+      "max_1v1": 1992,
+      "cur_tg": 1550,
+      "max_tg": 1719,
+      "last_1v1": "2026-11-28",
+      "last_tg": "2026-11-27"
+    },
+    {
       "profile_id": 13518993,
       "tag": "Tatanos",
       "cur_1v1": 1956,
@@ -176,19 +186,9 @@
       "cur_tg": 1669,
       "max_tg": 1703,
       "last_1v1": "2026-11-25",
-      "last_tg": "2026-11-21"
-    },
-    {
-      "profile_id": 4234652,
-      "tag": "_The_Oldergold",
-      "cur_1v1": 1937,
-      "max_1v1": 1992,
-      "cur_tg": 1550,
-      "max_tg": 1719,
-      "last_1v1": "2026-11-28",
-      "last_tg": "2026-11-27",
+      "last_tg": "2026-11-21",
       "live": {
-        "match": 524222733,
+        "match": 524224427,
         "game": "1v1 Random Map",
         "format": "1v1"
       }
