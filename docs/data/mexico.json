@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-28T02:35:09Z",
+  "updated_at": "2026-11-28T02:40:13Z",
   "baseline": {
     "taken_at": "2026-11-27T14:00:17Z",
     "ranks": {
@@ -156,7 +156,12 @@
       "cur_tg": 1857,
       "max_tg": 1974,
       "last_1v1": "2026-11-26",
-      "last_tg": "2026-11-28"
+      "last_tg": "2026-11-28",
+      "live": {
+        "match": 524093057,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 2295504,
@@ -223,7 +228,12 @@
       "cur_tg": 1878,
       "max_tg": 2010,
       "last_1v1": "2026-11-28",
-      "last_tg": "2026-11-28"
+      "last_tg": "2026-11-28",
+      "live": {
+        "match": 524093057,
+        "game": "Team Random Map",
+        "format": "4v4"
+      }
     },
     {
       "profile_id": 1485562,
@@ -428,7 +438,12 @@
       "cur_tg": 1823,
       "max_tg": 1997,
       "last_1v1": "2026-11-27",
-      "last_tg": "2026-11-27"
+      "last_tg": "2026-11-27",
+      "live": {
+        "match": 524093801,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 2291749,
@@ -568,13 +583,7 @@
       "cur_tg": 1839,
       "max_tg": 1874,
       "last_1v1": "2026-09-24",
-      "last_tg": "2026-11-26",
-      "live": {
-        "match": 524089709,
-        "game": "Team Random Map",
-        "format": "4v4",
-        "account": "EXILE | Don MessiRonaldo"
-      }
+      "last_tg": "2026-11-26"
     },
     {
       "profile_id": 12472496,
