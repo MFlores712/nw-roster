@@ -1,6 +1,6 @@
 {
   "name": "México",
-  "updated_at": "2026-11-28T01:30:21Z",
+  "updated_at": "2026-11-28T01:35:10Z",
   "baseline": {
     "taken_at": "2026-11-27T14:00:17Z",
     "ranks": {
@@ -309,17 +309,12 @@
       "profile_id": 2850920,
       "tag": "Chimtzin",
       "clan": "Ux",
-      "cur_1v1": 2147,
+      "cur_1v1": 2164,
       "max_1v1": 2176,
       "cur_tg": 1663,
       "max_tg": 1820,
-      "last_1v1": "2026-11-23",
-      "last_tg": "2026-11-27",
-      "live": {
-        "match": 524079386,
-        "game": "1v1 Random Map",
-        "format": "1v1"
-      }
+      "last_1v1": "2026-11-28",
+      "last_tg": "2026-11-27"
     },
     {
       "profile_id": 917863,
@@ -536,13 +531,7 @@
       "cur_tg": 1543,
       "max_tg": 1824,
       "last_tg": "2026-11-26",
-      "last_1v1": "2026-10-13",
-      "live": {
-        "match": 524080093,
-        "game": "1v1 Random Map",
-        "format": "1v1",
-        "account": "eFotboll"
-      }
+      "last_1v1": "2026-10-13"
     },
     {
       "profile_id": 467847,
@@ -622,7 +611,12 @@
       "cur_tg": 1571,
       "max_tg": 1588,
       "last_1v1": "2026-11-28",
-      "last_tg": "2026-11-28"
+      "last_tg": "2026-11-28",
+      "live": {
+        "match": 524082147,
+        "game": "1v1 Random Map",
+        "format": "1v1"
+      }
     },
     {
       "profile_id": 13241217,
